@@ -1,0 +1,1058 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVCommon
+p4
+aVCommon
+p5
+aVUncommon
+p6
+aVRare
+p7
+aVUncommon
+p8
+aVRare
+p9
+aVUncommon
+p10
+aVUncommon
+p11
+aVCommon
+p12
+aVCommon
+p13
+aVCommon
+p14
+aVUncommon
+p15
+aVCommon
+p16
+aVUncommon
+p17
+aVCommon
+p18
+aVUncommon
+p19
+aVUncommon
+p20
+aVCommon
+p21
+aVUncommon
+p22
+aVRare
+p23
+aVUncommon
+p24
+aVUncommon
+p25
+aVCommon
+p26
+aVRare
+p27
+aVUncommon
+p28
+aVUncommon
+p29
+aVUncommon
+p30
+aVRare
+p31
+aVCommon
+p32
+aVUncommon
+p33
+aVCommon
+p34
+aVCommon
+p35
+aVRare
+p36
+aVUncommon
+p37
+aVUncommon
+p38
+aVCommon
+p39
+aVCommon
+p40
+aVUncommon
+p41
+aVRare
+p42
+aVUncommon
+p43
+aVCommon
+p44
+aVUncommon
+p45
+aVCommon
+p46
+aVCommon
+p47
+aVUncommon
+p48
+aVUncommon
+p49
+aVRare
+p50
+aVRare
+p51
+aVCommon
+p52
+aVCommon
+p53
+asS'editns'
+p54
+(lp55
+VLimited Edition Beta
+p56
+aVLimited Edition Beta
+p57
+aVFourth Edition
+p58
+aVAntiquities
+p59
+aVFallen Empires
+p60
+aVFallen Empires
+p61
+aVFallen Empires
+p62
+aVFallen Empires
+p63
+aVFallen Empires
+p64
+aVFallen Empires
+p65
+aVFallen Empires
+p66
+aVFallen Empires
+p67
+aVApocalypse
+p68
+aVApocalypse
+p69
+aVRevised Edition
+p70
+aVRevised Edition
+p71
+aVMasters Edition II
+p72
+aVOnslaught
+p73
+aVOdyssey
+p74
+aVOdyssey
+p75
+aVOdyssey
+p76
+aVOdyssey
+p77
+aVUnlimited Edition
+p78
+aVUnlimited Edition
+p79
+aVIce Age
+p80
+aVTorment
+p81
+aVClassic Sixth Edition
+p82
+aVJudgment
+p83
+aVJudgment
+p84
+aVJudgment
+p85
+aVMasters Edition
+p86
+aVMasters Edition
+p87
+aVWeatherlight
+p88
+aVWeatherlight
+p89
+aVEighth Edition
+p90
+aVFifth Edition
+p91
+aVFifth Edition
+p92
+aVFifth Edition
+p93
+aVFifth Edition
+p94
+aVFifth Edition
+p95
+aVMirage
+p96
+aVMirage
+p97
+aVLimited Edition Alpha
+p98
+aVLimited Edition Alpha
+p99
+aVVisions
+p100
+aVBeatdown Box Set
+p101
+aVLegends
+p102
+aVHomelands
+p103
+aVHomelands
+p104
+aVHomelands
+p105
+aVHomelands
+p106
+asS'ids'
+p107
+(lp108
+V485
+p109
+aV486
+p110
+aV2270
+p111
+aV1060
+p112
+aV1941
+p113
+aV1943
+p114
+aV2004
+p115
+aV1942
+p116
+aV2005
+p117
+aV1946
+p118
+aV1945
+p119
+aV1944
+p120
+aV26672
+p121
+aV26810
+p122
+aV1286
+p123
+aV1285
+p124
+aV184478
+p125
+aV39869
+p126
+aV29760
+p127
+aV29853
+p128
+aV29977
+p129
+aV31796
+p130
+aV787
+p131
+aV788
+p132
+aV2618
+p133
+aV26404
+p134
+aV14725
+p135
+aV34950
+p136
+aV35074
+p137
+aV36116
+p138
+aV159729
+p139
+aV159173
+p140
+aV4543
+p141
+aV4544
+p142
+aV45367
+p143
+aV4041
+p144
+aV4042
+p145
+aV4043
+p146
+aV4180
+p147
+aV4179
+p148
+aV3440
+p149
+aV3441
+p150
+aV190
+p151
+aV191
+p152
+aV3684
+p153
+aV26651
+p154
+aV1569
+p155
+aV2998
+p156
+aV2999
+p157
+aV3000
+p158
+aV3001
+p159
+asS'texts'
+p160
+(lp161
+VEnchant land<br>Enchanted land is a Swamp.
+p162
+aVCast False Orders only during the declare blockers step. <br>Remove target creature defending player controls from combat. Creatures it was blocking that had become blocked by only that creature this combat become unblocked. You may have it block an attacking creature of your choice.
+p163
+aVElven Riders can't be blocked except by Walls and/or creatures with flying.
+p164
+aV{T}, Sacrifice an artifact: Put a +1/+1 counter on target creature. Activate this ability only during your upkeep.
+p165
+aV{R}, {T}, Discard a card: Put a +0/+1 counter or a +1/+0 counter on target creature.
+p166
+aV{1}{R}: Target Dwarf creature gets +1/+0 until end of turn.
+p167
+aVDwarven Hold enters the battlefield tapped.<br>You may choose not to untap Dwarven Hold during your untap step.<br>At the beginning of your upkeep, if Dwarven Hold is tapped, put a storage counter on it.<br>{T}, Remove any number of storage counters from Dwarven Hold: Add {R} to your mana pool for each storage counter removed this way.
+p168
+aVDwarven Catapult deals X damage divided evenly, rounded down, among all creatures target opponent controls.
+p169
+aVDwarven Ruins enters the battlefield tapped.<br>{T}: Add {R} to your mana pool.<br>{T}, Sacrifice Dwarven Ruins: Add {R}{R} to your mana pool.
+p170
+aVWhenever Dwarven Soldier blocks or becomes blocked by one or more Orcs, Dwarven Soldier gets +0/+2 until end of turn.
+p171
+aVWhenever Dwarven Soldier blocks or becomes blocked by one or more Orcs, Dwarven Soldier gets +0/+2 until end of turn.
+p172
+aVWhenever Dwarven Soldier blocks or becomes blocked by one or more Orcs, Dwarven Soldier gets +0/+2 until end of turn.
+p173
+aVDwarven Patrol doesn't untap during your untap step.<br>Whenever you cast a nonred spell, untap Dwarven Patrol.
+p174
+aVKicker\u2014{2}{R}, Sacrifice a land. <i>(You may pay {2}{R} and sacrifice a land in addition to any other costs as you cast this spell.)</i><br>Destroy target land. If Dwarven Landslide was kicked, destroy another target land.
+p175
+aVEarthquake deals X damage to each creature without flying and each player.
+p176
+aVThe next time a source of your choice would deal damage to you this turn, instead that source deals that much damage to you and Eye for an Eye deals that much damage to that source's controller.
+p177
+aVCumulative upkeep\u2014Pay 1 life. <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>At the beginning of each player's upkeep, that player sacrifices a green or white permanent.
+p178
+aV{2}{R}, {T}: Destroy target nonbasic land.<br>Morph {R} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p179
+aVMountainwalk
+p180
+aVWhenever Spark Mage deals combat damage to a player, you may have Spark Mage deal 1 damage to target creature that player controls.
+p181
+aVWhenever you win a coin flip, put a luck counter on Chance Encounter.<br><br>At the beginning of your upkeep, if Chance Encounter has ten or more luck counters on it, you win the game.
+p182
+aVWhenever a creature dies, that creature's controller sacrifices a land.
+p183
+aVEnchant land<br>Enchanted land has "At the beginning of your upkeep, you may pay {W}{W}. If you do, you gain 1 life."
+p184
+aVYou may play any number of additional lands on each of your turns.<br>Whenever you play a land, if it wasn't the first land you played this turn, Fastbond deals 1 damage to you.
+p185
+aVSacrifice a snow Mountain: Prevent all combat damage that would be dealt this turn.
+p186
+aVTarget player shuffles up to four target cards from his or her graveyard into his or her library.
+p187
+aVFlying<br>Sacrifice a creature: Fallen Angel gets +2/+1 until end of turn.
+p188
+aV{T}: Destroy target land unless its controller has Dwarven Driller deal 2 damage to him or her.
+p189
+aVTap an untapped Dwarf you control: Target creature gets +2/+0 until end of turn.
+p190
+aVSacrifice Dwarven Scorcher: Dwarven Scorcher deals 1 damage to target creature unless that creature's controller has Dwarven Scorcher deal 2 damage to him or her.
+p191
+aVDwarven Catapult deals X damage divided evenly, rounded down, among all creatures target opponent controls.
+p192
+aVWhenever Dwarven Soldier blocks or becomes blocked by one or more Orcs, Dwarven Soldier gets +0/+2 until end of turn.
+p193
+aVWhenever Dwarven Berserker becomes blocked, it gets +3/+0 and gains trample until end of turn.
+p194
+aV{T}: Switch target creature's power and toughness until end of turn.
+p195
+aVG
+p196
+aVEnchant creature<br>Enchanted creature gets +3/+0 and can only attack alone.
+p197
+aVEnchant creature<br>Enchanted creature has vigilance.
+p198
+aVFlying<br>{R}: Fire Drake gets +1/+0 until end of turn. Activate this ability only once each turn.
+p199
+aVFlying<br>Whenever Abyssal Specter deals damage to a player, that player discards a card.
+p200
+aVFirst strike
+p201
+aV{2}{R}, {T}: Destroy target nonbasic land.
+p202
+aV{T}: Target creature with power 2 or less is unblockable this turn.
+p203
+aVKeldon Warlord's power and toughness are each equal to the number of non-Wall creatures you control.
+p204
+aVPrevent all combat damage that would be dealt this turn.
+p205
+aVAt the beginning of each player's upkeep, that player exiles a card at random from his or her hand. The player may play that card this turn. At the beginning of the next end step, if the player hasn't played the card, he or she puts it into his or her graveyard.
+p206
+aVAt the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep.
+p207
+aVTap all creatures blocking target attacking creature. Prevent all combat damage that would be dealt this turn by that creature and each creature blocking it.
+p208
+aV{1}{R}, {T}: Target Dwarf creature gains mountainwalk until end of turn.
+p209
+aV{T}: Choose target attacking or blocking creature whose controller controls an Island. Dwarven Sea Clan deals 2 damage to that creature at end of combat. Activate this ability only before the end of combat step.
+p210
+aVHaste<br>{R}{R}{R}: Regenerate Eron the Relentless.
+p211
+aVEnchant creature<br>Enchanted creature gets +4/+0.
+p212
+asS'costs'
+p213
+(lp214
+V{2}{R}
+p215
+aV{2}{R}
+p216
+aV{2}{R}
+p217
+aV{1}{R}
+p218
+aV{R}
+p219
+aV{R}{R}
+p220
+aS'0'
+p221
+aV{X}{R}
+p222
+ag221
+aV{1}{R}
+p223
+aV{1}{R}
+p224
+aV{1}{R}
+p225
+aV{2}{R}
+p226
+aV{3}{R}
+p227
+aV{1}{R}
+p228
+aV{2}{R}
+p229
+ag221
+aV{1}{R}
+p230
+aV{R}
+p231
+aV{2}{R}
+p232
+aV{1}{R}{R}
+p233
+aV{4}{R}
+p234
+aV{2}{R}
+p235
+aV{2}{R}
+p236
+aV{2}{R}{R}
+p237
+aV{G}
+p238
+ag221
+aV{3}{R}
+p239
+aV{R}{R}{R}
+p240
+aV{R}
+p241
+aV{X}{R}
+p242
+aV{1}{R}
+p243
+aV{1}{R}
+p244
+aV{2}{R}
+p245
+aV{2}{R}
+p246
+aV{X}{R}
+p247
+aV{1}{R}
+p248
+aV{2}{R}
+p249
+ag221
+ag221
+aV{1}{R}
+p250
+aV{2}{R}
+p251
+aV{2}{R}
+p252
+aV{2}{R}
+p253
+aV{2}{R}
+p254
+ag221
+aV{R}
+p255
+aV{R}
+p256
+aV{2}{R}
+p257
+aV{R}
+p258
+aV{R}
+p259
+asS'names'
+p260
+(lp261
+VDwarven Demolition Team
+p262
+aVDwarven Warriors
+p263
+aVDwarven Warriors
+p264
+aVDwarven Weaponsmith
+p265
+aVDwarven Armorer
+p266
+aVDwarven Lieutenant
+p267
+aVDwarven Hold
+p268
+aVDwarven Catapult
+p269
+aVDwarven Ruins
+p270
+aVDwarven Soldier
+p271
+aVDwarven Soldier
+p272
+aVDwarven Soldier
+p273
+aVDwarven Patrol
+p274
+aVDwarven Landslide
+p275
+aVDwarven Weaponsmith
+p276
+aVDwarven Warriors
+p277
+aVDwarven Ruins
+p278
+aVDwarven Blastminer
+p279
+aVDwarven Grunt
+p280
+aVDwarven Recruiter
+p281
+aVDwarven Shrine
+p282
+aVDwarven Strike Force
+p283
+aVDwarven Demolition Team
+p284
+aVDwarven Warriors
+p285
+aVDwarven Armory
+p286
+aVDwell on the Past
+p287
+aVDwarven Ruins
+p288
+aVDwarven Driller
+p289
+aVDwarven Bloodboiler
+p290
+aVDwarven Scorcher
+p291
+aVDwarven Catapult
+p292
+aVDwarven Soldier
+p293
+aVDwarven Berserker
+p294
+aVDwarven Thaumaturgist
+p295
+aVDwarven Demolition Team
+p296
+aVDwarven Catapult
+p297
+aVDwarven Soldier
+p298
+aVDwarven Warriors
+p299
+aVDwarven Ruins
+p300
+aVDwarven Hold
+p301
+aVDwarven Miner
+p302
+aVDwarven Nomad
+p303
+aVDwarven Demolition Team
+p304
+aVDwarven Warriors
+p305
+aVDwarven Vigilantes
+p306
+aVDwarven Ruins
+p307
+aVDwarven Song
+p308
+aVDwarven Pony
+p309
+aVDwarven Sea Clan
+p310
+aVDwarven Trader
+p311
+aVDwarven Trader
+p312
+asS'toughs'
+p313
+(lp314
+V1
+p315
+ag315
+ag315
+aV2
+p316
+ag316
+ag316
+aS'N/A'
+p317
+ag317
+ag317
+ag315
+ag315
+ag315
+ag315
+ag317
+aV8
+p318
+aV0
+p319
+ag317
+aV5
+p320
+ag315
+ag316
+ag317
+ag316
+ag315
+ag315
+ag317
+ag317
+ag317
+ag316
+ag316
+ag315
+ag317
+aV4
+p321
+ag321
+ag315
+ag321
+ag317
+ag316
+ag316
+ag317
+ag317
+ag315
+ag320
+ag315
+ag315
+ag321
+ag317
+ag317
+ag316
+ag315
+aV3
+p322
+ag322
+asS'artists'
+p323
+(lp324
+VKev Brockschmidt
+p325
+aVDouglas Schuler
+p326
+aVDouglas Shuler
+p327
+aVMark Poole
+p328
+aVBryon Wackwitz
+p329
+aVJeff A. Menges
+p330
+aVPat Morrissey
+p331
+aVJeff A. Menges
+p332
+aVMark Poole
+p333
+aVDouglas Shuler
+p334
+aVRob Alexander
+p335
+aVRandy Asplund-Faith
+p336
+aVGreg & Tim Hildebrandt
+p337
+aVTony Szczudlo
+p338
+aVMark Poole
+p339
+aVDouglas Shuler
+p340
+aVMark Poole
+p341
+aVGary Ruddell
+p342
+aVMike Ploog
+p343
+aVCiruelo
+p344
+aVMatt Cavotta
+p345
+aVMike Ploog
+p346
+aVKev Brockschmidt
+p347
+aVDouglas Schuler
+p348
+aVRichard Thomas
+p349
+aVRebecca Guay
+p350
+aVLiz Danforth
+p351
+aVEdward P. Beard, Jr.
+p352
+aVArnie Swekel
+p353
+aVThomas M. Baxa
+p354
+aVJeff A. Menges
+p355
+aVRob Alexander
+p356
+aVDouglas Shuler
+p357
+aVKipling West
+p358
+aVKev Walker
+p359
+aVJeff A. Menges
+p360
+aVRandy Asplund
+p361
+aVDouglas Shuler
+p362
+aVLiz Danforth
+p363
+aVDavid Seeley
+p364
+aVJock
+p365
+aVMike Kimble
+p366
+aVKev Brockschmidt
+p367
+aVDouglas Schuler
+p368
+aVPete Venters
+p369
+aVLiz Danforth
+p370
+aVDan Frazier
+p371
+aVMargaret Organ-Kean
+p372
+aVAmy Weber
+p373
+aVMargaret Organ-Kean
+p374
+aVMargaret Organ-Kean
+p375
+asS'powers'
+p376
+(lp377
+g315
+ag315
+ag315
+ag315
+ag319
+ag315
+ag317
+ag317
+ag317
+ag316
+ag316
+ag316
+ag316
+ag317
+aV6
+p378
+ag319
+ag317
+ag320
+ag315
+ag316
+ag317
+ag316
+ag315
+ag315
+ag317
+ag317
+ag317
+ag316
+ag316
+ag315
+ag317
+ag321
+ag320
+ag315
+ag378
+ag317
+ag322
+ag316
+ag317
+ag317
+ag315
+ag319
+ag315
+ag315
+ag321
+ag317
+ag317
+ag316
+ag315
+ag315
+ag319
+asS'types'
+p379
+(lp380
+VCreature - Dwarf
+p381
+aVCreature - Dwarf Warrior
+p382
+aVCreature - Dwarf Warrior
+p383
+aVCreature - Dwarf Artificer
+p384
+aVCreature - Dwarf
+p385
+aVCreature - Dwarf Soldier
+p386
+aVLand
+p387
+aVInstant
+p388
+aVLand
+p389
+aVCreature - Dwarf Soldier
+p390
+aVCreature - Dwarf Soldier
+p391
+aVCreature - Dwarf Soldier
+p392
+aVCreature - Dwarf
+p393
+aVSorcery
+p394
+aVCreature - Dwarf Artificer
+p395
+aVCreature - Dwarf Warrior
+p396
+aVLand
+p397
+aVCreature - Dwarf
+p398
+aVCreature - Dwarf
+p399
+aVCreature - Dwarf
+p400
+aVEnchantment
+p401
+aVCreature - Dwarf Berserker
+p402
+aVCreature - Dwarf
+p403
+aVCreature - Dwarf Warrior
+p404
+aVEnchantment
+p405
+aVSorcery
+p406
+aVLand
+p407
+aVCreature - Dwarf
+p408
+aVCreature - Dwarf
+p409
+aVCreature - Dwarf
+p410
+aVInstant
+p411
+aVCreature - Dwarf Soldier
+p412
+aVCreature - Dwarf Berserker
+p413
+aVCreature - Dwarf Shaman
+p414
+aVCreature - Dwarf
+p415
+aVInstant
+p416
+aVCreature - Dwarf Soldier
+p417
+aVCreature - Dwarf Warrior
+p418
+aVLand
+p419
+aVLand
+p420
+aVCreature - Dwarf
+p421
+aVCreature - Dwarf Nomad
+p422
+aVCreature - Dwarf
+p423
+aVCreature - Dwarf Warrior
+p424
+aVCreature - Dwarf
+p425
+aVLand
+p426
+aVInstant
+p427
+aVCreature - Horse
+p428
+aVCreature - Dwarf
+p429
+aVCreature - Dwarf
+p430
+aVCreature - Dwarf
+p431
+asS'numbers'
+p432
+(lp433
+V81
+p434
+aV82
+p435
+aV196
+p436
+aV54
+p437
+aV51
+p438
+aV52
+p439
+aV72
+p440
+aV93
+p441
+aV94
+p442
+aV95
+p443
+aV96
+p444
+aV97
+p445
+aV61
+p446
+aV60
+p447
+aV38
+p448
+aV113
+p449
+aV227
+p450
+aV199
+p451
+aV185
+p452
+aV186
+p453
+aV187
+p454
+aV188
+p455
+aV88
+p456
+aV89
+p457
+aV154
+p458
+aV124
+p459
+aV323
+p460
+aV85
+p461
+aV84
+p462
+aV86
+p463
+aV91
+p464
+aV92
+p465
+aV82
+p466
+aV83
+p467
+aV184
+p468
+aV127
+p469
+aV128
+p470
+aV129
+p471
+aV199
+p472
+aV257
+p473
+aV143
+p474
+aV144
+p475
+aV37
+p476
+aV137
+p477
+aV64
+p478
+aV38
+p479
+aV91
+p480
+aV54
+p481
+aV55
+p482
+aV56
+p483
+aV105
+p484
+as.

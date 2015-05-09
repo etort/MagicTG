@@ -1,0 +1,319 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVCommon
+p4
+aVCommon
+p5
+aVCommon
+p6
+aVCommon
+p7
+aVRare
+p8
+aVRare
+p9
+aVMythic Rare
+p10
+aVCommon
+p11
+aVUncommon
+p12
+aVCommon
+p13
+aVCommon
+p14
+aVUncommon
+p15
+aVUncommon
+p16
+asS'editns'
+p17
+(lp18
+VBorn of the Gods
+p19
+aVBorn of the Gods
+p20
+aVBorn of the Gods
+p21
+aVBorn of the Gods
+p22
+aVBorn of the Gods
+p23
+aVConflux
+p24
+aVTheros
+p25
+aVTheros
+p26
+aVTheros
+p27
+aVTheros
+p28
+aVTheros
+p29
+aVJourney into Nyx
+p30
+aVJourney into Nyx
+p31
+aVJourney into Nyx
+p32
+asS'ids'
+p33
+(lp34
+V378450
+p35
+aV378474
+p36
+aV378393
+p37
+aV378418
+p38
+aV378503
+p39
+aV186616
+p40
+aV373713
+p41
+aV373559
+p42
+aV373498
+p43
+aV373510
+p44
+aV373580
+p45
+aV380461
+p46
+aV380462
+p47
+aV380463
+p48
+asS'texts'
+p49
+(lp50
+VBestow {2}{W} <i>(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)</i><br>Enchanted creature gets +1/+2.
+p51
+aVBestow {4}{U} <i>(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)</i><br>Enchanted creature gets +2/+3.
+p52
+aVBestow {4}{G} <i>(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)</i><br>Enchanted creature gets +3/+1.
+p53
+aVWhen Odunos River Trawler enters the battlefield, return target enchantment creature card from your graveyard to your hand.<br>{W}, Sacrifice Odunos River Trawler: Return target enchantment creature card from your graveyard to your hand.
+p54
+aVHaste<br>Tribute 2 <i>(As this creature enters the battlefield, an opponent of your choice may place two +1/+1 counters on it.)</i><br>When Oracle of Bones enters the battlefield, if tribute wasn't paid, you may cast an instant or sorcery card from your hand without paying its mana cost.
+p55
+aVWhenever another creature with power 5 or greater enters the battlefield under your control, you may return target creature card from your graveyard to your hand.
+p56
+aVEnchant land<br>When Nylea's Presence enters the battlefield, draw a card.<br>Enchanted land is every basic land type in addition to its other types.
+p57
+aVBestow {4}{W} <i>(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)</i><br>Vigilance<br>Enchanted creature gets +2/+2 and has vigilance.
+p58
+aVWhen Omenspeaker enters the battlefield, scry 2. <i>(Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</i>
+p59
+aV{T}: Add one mana of any color to your mana pool.
+p60
+aVEnchant creature<br>Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Erebos.<br>When you sacrifice Ordeal of Erebos, target player discards two cards.
+p61
+aVEnchant creature<br>Enchanted creature gets +2/+2 as long as it's an enchantment. Otherwise, it gets -2/-2.
+p62
+aVReach<br>At the beginning of your upkeep, put the top two cards of your library into your graveyard.<br>{1}{B}{G}, Exile Nyx Weaver: Return target card from your graveyard to your hand.
+p63
+aVAt the beginning of your upkeep, you gain 1 life.
+p64
+asS'costs'
+p65
+(lp66
+V{U}{U}
+p67
+aV{1}{B}
+p68
+aV{R}
+p69
+aV{W}
+p70
+aV{2}{U}
+p71
+aV{G}
+p72
+aS'0'
+p73
+aV{1}{B}{B}
+p74
+aV{2}{U}
+p75
+aV{3}{G}
+p76
+aV{2}{G}{G}
+p77
+aV{2}{B}
+p78
+aV{2}{B}
+p79
+aV{1}{B}{G}
+p80
+asS'names'
+p81
+(lp82
+VNyxborn Eidolon
+p83
+aVNyxborn Rollicker
+p84
+aVNyxborn Shieldmate
+p85
+aVNyxborn Triton
+p86
+aVNyxborn Wolf
+p87
+aVNyxathid
+p88
+aVNykthos, Shrine to Nyx
+p89
+aVNylea, God of the Hunt
+p90
+aVNylea's Disciple
+p91
+aVNylea's Emissary
+p92
+aVNylea's Presence
+p93
+aVNyx Infusion
+p94
+aVNyx Weaver
+p95
+aVNyx-Fleece Ram
+p96
+asS'toughs'
+p97
+(lp98
+S'N/A'
+p99
+ag99
+ag99
+ag99
+ag99
+aV2
+p100
+ag99
+ag99
+aV4
+p101
+ag99
+ag99
+ag99
+ag99
+ag99
+asS'artists'
+p102
+(lp103
+VNils Hamm
+p104
+aVSeb McKinnon
+p105
+aVEric Deschamps
+p106
+aVClint Cearley
+p107
+aVLucas Graciano
+p108
+aVRaymond Swanland
+p109
+aVJung Park
+p110
+aVChris Rahn
+p111
+aVTrevor Claxton
+p112
+aVSam Burley
+p113
+aVRalph Horsley
+p114
+aVJason A. Engle
+p115
+aVJack Wang
+p116
+aVTerese Nielsen
+p117
+asS'powers'
+p118
+(lp119
+g99
+ag99
+ag99
+ag99
+ag99
+aV1
+p120
+ag99
+ag99
+ag100
+ag99
+ag99
+ag99
+ag99
+ag99
+asS'types'
+p121
+(lp122
+VEnchantment Creature - Spirit
+p123
+aVEnchantment Creature - Satyr
+p124
+aVEnchantment Creature - Human Soldier
+p125
+aVEnchantment Creature - Merfolk
+p126
+aVEnchantment Creature - Wolf
+p127
+aVCreature - Elemental
+p128
+aVLegendary Land
+p129
+aVLegendary Enchantment Creature - God
+p130
+aVCreature - Centaur Archer
+p131
+aVEnchantment Creature - Cat
+p132
+aVEnchantment - Aura
+p133
+aVEnchantment - Aura
+p134
+aVEnchantment Creature - Spider
+p135
+aVEnchantment Creature - Sheep
+p136
+asS'numbers'
+p137
+(lp138
+V78
+p139
+aV102
+p140
+aV21
+p141
+aV46
+p142
+aV131
+p143
+aV49
+p144
+aV223
+p145
+aV166
+p146
+aV167
+p147
+aV168
+p148
+aV169
+p149
+aV77
+p150
+aV153
+p151
+aV18
+p152
+as.

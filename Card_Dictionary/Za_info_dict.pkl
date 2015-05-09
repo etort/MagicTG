@@ -1,0 +1,141 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVUncommon
+p4
+aVCommon
+p5
+aVUncommon
+p6
+aVCommon
+p7
+asS'editns'
+p8
+(lp9
+VReturn to Ravnica
+p10
+aVGatecrash
+p11
+aVGatecrash
+p12
+aVInvasion
+p13
+aVInvasion
+p14
+asS'ids'
+p15
+(lp16
+V289229
+p17
+aV366454
+p18
+aV366249
+p19
+aV22992
+p20
+aV23075
+p21
+asS'texts'
+p22
+(lp23
+VW
+p24
+aVBloodrush- {1}{R}{G}, Discard Zhur-Taa Swine: Target attacking creature gets +5/+4 until end of turn.
+p25
+aS''
+p26
+aVFlying<br>Zanam Djinn gets -2/-2 as long as blue is the most common color among all permanents or is tied for most common.
+p27
+aVZap deals 1 damage to target creature or player.<br><br>Draw a card.
+p28
+asS'costs'
+p29
+(lp30
+V{2}{G}
+p31
+aV{R}{W}
+p32
+aV{4}{R}
+p33
+aV{5}{U}
+p34
+aV{2}{R}
+p35
+asS'names'
+p36
+(lp37
+VZanikev Locust
+p38
+aVZameck Guildmage
+p39
+aVZarichi Tiger
+p40
+aVZanam Djinn
+p41
+aVZap
+p42
+asS'toughs'
+p43
+(lp44
+V5
+p45
+aV2
+p46
+aV1
+p47
+aV6
+p48
+aS'N/A'
+p49
+asS'artists'
+p50
+(lp51
+VCliff Childs
+p52
+aVChase Stone
+p53
+aVNic Klein
+p54
+aVEric Peterson
+p55
+aVJohn Matson
+p56
+asS'powers'
+p57
+(lp58
+g47
+aV3
+p59
+ag59
+ag45
+ag49
+asS'types'
+p60
+(lp61
+VCreature - Insect
+p62
+aVCreature - Elf Wizard
+p63
+aVCreature - Cat
+p64
+aVCreature - Djinn
+p65
+aVInstant
+p66
+asS'numbers'
+p67
+(lp68
+V84
+p69
+aV209
+p70
+aV28
+p71
+aV90
+p72
+aV180
+p73
+as.

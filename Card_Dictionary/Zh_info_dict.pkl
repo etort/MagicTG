@@ -1,0 +1,379 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVRare
+p4
+aVUncommon
+p5
+aVCommon
+p6
+aVUncommon
+p7
+aVCommon
+p8
+aVRare
+p9
+aVRare
+p10
+aVCommon
+p11
+aVRare
+p12
+aVRare
+p13
+aVRare
+p14
+aVRare
+p15
+aVRare
+p16
+aVRare
+p17
+aVSpecial
+p18
+aVCommon
+p19
+asS'editns'
+p20
+(lp21
+VDuel Decks: Knights vs. Dragons
+p22
+aVVintage Masters
+p23
+aVMasters Edition III
+p24
+aVGatecrash
+p25
+aVMirage
+p26
+aVMirage
+p27
+aVVisions
+p28
+aVDragon's Maze
+p29
+aVDragon's Maze
+p30
+aVPortal Three Kingdoms
+p31
+aVPortal Three Kingdoms
+p32
+aVPortal Three Kingdoms
+p33
+aVPortal Three Kingdoms
+p34
+aVPortal Three Kingdoms
+p35
+aVPortal Three Kingdoms
+p36
+aVTime Spiral "Timeshifted"
+p37
+aVDuel Decks: Heroes vs. Monsters
+p38
+asS'ids'
+p39
+(lp40
+V243430
+p41
+aV383159
+p42
+aV201312
+p43
+aV366252
+p44
+aV3524
+p45
+aV3525
+p46
+aV3732
+p47
+aV369019
+p48
+aV369065
+p49
+aV10520
+p50
+aV10525
+p51
+aV10604
+p52
+aV10686
+p53
+aV10711
+p54
+aV10727
+p55
+aV108868
+p56
+aV373339
+p57
+asS'texts'
+p58
+(lp59
+VFlanking <i>(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)</i><br>{1}{W}{W}: Target Knight creature gets +1/+1 until end of turn.
+p60
+aS''
+p61
+ag61
+ag61
+aVFlanking <i>(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)</i><br>{W}{W}: Zhalfirin Knight gains first strike until end of turn.
+p62
+aVFlying<br>Other Griffin creatures get +1/+1.
+p63
+aV{T}, Sacrifice a land: Destroy target land.
+p64
+ag61
+ag61
+aVReturn target sorcery card from your graveyard to your hand.
+p65
+aVCounter target creature spell.
+p66
+aVHorsemanship <i>(This creature can't be blocked except by creatures with horsemanship.)</i><br>Whenever Lu Xun, Scholar General deals damage to an opponent, you may draw a card.
+p67
+aVWhen Dong Zhou, the Tyrant enters the battlefield, target creature an opponent controls deals damage equal to its power to that player.
+p68
+aVTaoist Mystic can't be blocked by creatures with horsemanship.
+p69
+aVIf target opponent has more cards in hand than you, draw cards equal to the difference.
+p70
+aVFlanking <i>(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)</i><br>{1}{W}{W}: Target Knight creature gets +1/+1 until end of turn.
+p71
+aV{T}: Add {G} to your mana pool.<br>Whenever you tap Zhur-Taa Druid for mana, it deals 1 damage to each opponent.
+p72
+asS'costs'
+p73
+(lp74
+V{2}{W}
+p75
+aV{4}{B}{B}
+p76
+aV{4}{W}{W}
+p77
+aV{G}{U}
+p78
+aV{2}{W}
+p79
+aV{2}{W}
+p80
+aV{1}{W}{W}
+p81
+aV{U}{B}
+p82
+aV{3}{R}{G}
+p83
+aV{3}{B}{B}
+p84
+aV{5}{U}{U}
+p85
+aV{4}{W}{W}
+p86
+aV{3}{W}{W}
+p87
+aV{1}{U}{U}
+p88
+aV{4}{B}{B}
+p89
+aV{2}{W}
+p90
+aV{R}{G}
+p91
+asS'names'
+p92
+(lp93
+VZhalfirin Commander
+p94
+aVZhalfirin Crusader
+p95
+aVZhang Fei, Fierce Warrior
+p96
+aVZhur-Taa Swine
+p97
+aVZhalfirin Commander
+p98
+aVZhalfirin Knight
+p99
+aVZhalfirin Crusader
+p100
+aVZhur-Taa Ancient
+p101
+aVZhur-Taa Druid
+p102
+aVZhang He, Wei General
+p103
+aVZhou Yu, Chief Commander
+p104
+aVZhang Fei, Fierce Warrior
+p105
+aVZhao Zilong, Tiger General
+p106
+aVZhuge Jin, Wu Strategist
+p107
+aVZhang Liao, Hero of Hefei
+p108
+aVZhalfirin Commander
+p109
+aVZhur-Taa Druid
+p110
+asS'toughs'
+p111
+(lp112
+V4
+p113
+ag113
+aV2
+p114
+ag114
+aV1
+p115
+ag114
+aV3
+p116
+ag115
+aV5
+p117
+ag114
+aV8
+p118
+ag113
+ag116
+ag115
+ag116
+ag114
+ag115
+asS'artists'
+p119
+(lp120
+VStuart Griffin
+p121
+aVAlan Rabinowitz
+p122
+aVQi Baocheng
+p123
+aVYeong-Hao Han
+p124
+aVStuart Griffin
+p125
+aVJohn Bolton
+p126
+aVAlan Rabinowitz
+p127
+aVAdam Paquette
+p128
+aVMark Winters
+p129
+aVJack Wei
+p130
+aVXu Xiaoming
+p131
+aVZhao Dafu
+p132
+aVQuan Xuejun
+p133
+aVSong Shikai
+p134
+aVLi Youliang
+p135
+aVStuart Griffin
+p136
+aVMark Winters
+p137
+asS'powers'
+p138
+(lp139
+g116
+aV0
+p140
+ag114
+ag114
+ag115
+ag114
+ag114
+aV7
+p141
+ag115
+ag113
+ag118
+ag113
+ag116
+ag115
+ag116
+ag114
+ag115
+asS'types'
+p142
+(lp143
+VCreature - Human Knight
+p144
+aVCreature - Human Knight
+p145
+aVLegendary Creature - Human Soldier Warrior
+p146
+aVCreature - Boar
+p147
+aVCreature - Human Knight
+p148
+aVCreature - Human Knight
+p149
+aVCreature - Human Knight
+p150
+aVCreature - Beast
+p151
+aVCreature - Human Druid
+p152
+aVLegendary Creature - Human Soldier
+p153
+aVLegendary Creature - Human Soldier
+p154
+aVLegendary Creature - Human Soldier Warrior
+p155
+aVLegendary Creature - Human Soldier Warrior
+p156
+aVLegendary Creature - Human Advisor
+p157
+aVLegendary Creature - Human Soldier
+p158
+aVCreature - Human Knight
+p159
+aVCreature - Human Druid
+p160
+asS'numbers'
+p161
+(lp162
+V13
+p163
+aV54
+p164
+aV28
+p165
+aV210
+p166
+aV200
+p167
+aV201
+p168
+aV95
+p169
+aV119
+p170
+aV120
+p171
+aV95
+p172
+aV65
+p173
+aV32
+p174
+aV33
+p175
+aV66
+p176
+aV96
+p177
+aV18
+p178
+aV48
+p179
+as.

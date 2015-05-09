@@ -1,0 +1,283 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVRare
+p4
+aVUncommon
+p5
+aVRare
+p6
+aVUncommon
+p7
+aVCommon
+p8
+aVUncommon
+p9
+aVCommon
+p10
+aVUncommon
+p11
+aVRare
+p12
+aVCommon
+p13
+aVSpecial
+p14
+asS'editns'
+p15
+(lp16
+VDuel Decks: Ajani vs. Nicol Bolas
+p17
+aVMercadian Masques
+p18
+aVMercadian Masques
+p19
+aVModern Masters
+p20
+aVConflux
+p21
+aVTime Spiral
+p22
+aVShards of Alara
+p23
+aVShards of Alara
+p24
+aVUrza's Legacy
+p25
+aVFuture Sight
+p26
+aVAlara Reborn
+p27
+aVVanguard
+p28
+asS'ids'
+p29
+(lp30
+V259277
+p31
+aV19654
+p32
+aV20172
+p33
+aV370548
+p34
+aV174791
+p35
+aV118879
+p36
+aV175392
+p37
+aV176428
+p38
+aV8896
+p39
+aV136194
+p40
+aV144286
+p41
+aV182252
+p42
+asS'texts'
+p43
+(lp44
+VFear <i>(This creature can't be blocked except by artifact creatures and/or black creatures.)</i><br>Islandcycling {2}, swampcycling {2} <i>({2}, Discard this card: Search your library for an Island or Swamp card, reveal it, and put it into your hand. Then shuffle your library.)</i>
+p45
+aVWhenever a spell or ability an opponent controls causes you to discard a card, you gain 2 life and you may draw a card.
+p46
+aVIf you control a Plains, you may tap an untapped creature you control rather than pay Ramosian Rally's mana cost.<br><br>Creatures you control get +1/+1 until end of turn.
+p47
+aV{2}, Exile a nonland card from your hand: Put four time counters on the exiled card. If it doesn't have suspend, it gains suspend. <i>(At the beginning of your upkeep, remove a time counter from that card. When the last is removed, cast it without paying its mana cost. If it's a creature, it has haste.)</i>
+p48
+aVWhenever an opponent draws a card, if you control a red permanent, you may have Kederekt Parasite deal 1 damage to that player.
+p49
+aV{T}: Choose target permanent you control or suspended card you own. If that permanent or card has a time counter on it, you may remove a time counter from it or put another time counter on it.
+p50
+aVSkeleton creatures you control and other Zombie creatures you control get +1/+1 and have deathtouch.
+p51
+aVDevour 1 <i>(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)</i><br>When Skullmulcher enters the battlefield, draw a card for each creature it devoured.
+p52
+aV{2}: Regenerate target artifact creature.
+p53
+aV{X}{U}{U}, {T}: Return target creature with converted mana cost X to its owner's hand.<br>Grandeur- Discard another card named Linessa, Zephyr Mage: Target player returns a creature he or she controls to its owner's hand, then repeats this process for an artifact, an enchantment, and a land.
+p54
+aVAs long as you control another multicolored permanent, Jund Hackblade gets +1/+1 and has haste.
+p55
+aV{3}, Discard a card: Copy three instant cards chosen at random. You may cast one of the copies without paying its mana cost.<br>{3}, Discard a card: Copy three sorcery cards chosen at random. You may cast one of the copies without paying its mana cost. Activate this ability only any time you could cast a sorcery.
+p56
+asS'costs'
+p57
+(lp58
+V{1}{G}
+p59
+aV{4}{W}{W}
+p60
+aV{4}{W}
+p61
+aV{1}{U}{R}
+p62
+aV{1}{W}{U}
+p63
+aV{2}
+p64
+aV{5}{G}{G}
+p65
+aV{2}{B}
+p66
+aV{2}
+p67
+aV{1}{U}{R}
+p68
+aV{4}{U}{B}
+p69
+aS'0'
+p70
+asS'names'
+p71
+(lp72
+VJhessian Zombies
+p73
+aVJhovall Queen
+p74
+aVJhovall Rider
+p75
+aVJhoira of the Ghitu
+p76
+aVJhessian Balmgiver
+p77
+aVJhoira's Timebug
+p78
+aVJhessian Infiltrator
+p79
+aVJhessian Lookout
+p80
+aVJhoira's Toolbox
+p81
+aVJhoira of the Ghitu
+p82
+aVJhessian Zombies
+p83
+aVJhoira of the Ghitu Avatar
+p84
+asS'toughs'
+p85
+(lp86
+V1
+p87
+aV7
+p88
+aV4
+p89
+ag89
+ag89
+aS'N/A'
+p90
+aV6
+p91
+aV*
+p92
+ag90
+aV5
+p93
+ag89
+ag90
+asS'artists'
+p94
+(lp95
+VAsh Wood
+p96
+aVMichael Sutfin
+p97
+aVScott M. Fischer
+p98
+aS''
+p99
+aVDavid Palumbo
+p100
+aVDan Frazier
+p101
+aVDonato Giancola
+p102
+aVDonato Giancola
+p103
+aVMike Raabe
+p104
+aVKev Walker
+p105
+aVAsh Wood
+p106
+aVUDON
+p107
+asS'powers'
+p108
+(lp109
+V2
+p110
+ag89
+ag89
+ag87
+ag89
+ag90
+ag89
+ag87
+ag90
+ag89
+aV3
+p111
+ag90
+asS'types'
+p112
+(lp113
+VCreature - Zombie
+p114
+aVCreature - Cat Rebel
+p115
+aVCreature - Human Rebel
+p116
+aVLegendary Creature - Human Wizard
+p117
+aVCreature - Human Cleric
+p118
+aVArtifact Creature - Insect
+p119
+aVCreature - Human Rogue
+p120
+aVCreature - Human Scout
+p121
+aVArtifact Creature - Insect
+p122
+aVLegendary Creature - Human Wizard
+p123
+aVCreature - Zombie
+p124
+aVVanguard
+p125
+asS'numbers'
+p126
+(lp127
+V56
+p128
+aV25
+p129
+aV26
+p130
+ag99
+aV112
+p131
+aV257
+p132
+aV174
+p133
+aV46
+p134
+aV128
+p135
+aV157
+p136
+aV22
+p137
+aV69
+p138
+as.

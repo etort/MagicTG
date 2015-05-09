@@ -1,0 +1,278 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVCommon
+p4
+aVCommon
+p5
+aVUncommon
+p6
+aVRare
+p7
+aVRare
+p8
+aVCommon
+p9
+aVRare
+p10
+aVCommon
+p11
+aVCommon
+p12
+aVRare
+p13
+aVUncommon
+p14
+asS'editns'
+p15
+(lp16
+VMagic: The Gathering-Commander
+p17
+aVAlliances
+p18
+aVAlliances
+p19
+aVMagic 2010
+p20
+aVMagic 2014 Core Set
+p21
+aVPlanechase 2012 Edition
+p22
+aVMirrodin
+p23
+aVRise of the Eldrazi
+p24
+aVKhans of Tarkir
+p25
+aVDragon's Maze
+p26
+aVStronghold
+p27
+aVMagic 2011
+p28
+asS'ids'
+p29
+(lp30
+V247393
+p31
+aV3099
+p32
+aV3100
+p33
+aV189907
+p34
+aV370613
+p35
+aV271156
+p36
+aV48074
+p37
+aV193507
+p38
+aV386484
+p39
+aV369053
+p40
+aV5110
+p41
+aV205076
+p42
+asS'texts'
+p43
+(lp44
+VAt the beginning of your upkeep, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."
+p45
+aVEnchant creature<br>Enchanted creature can't be blocked unless defending player pays {3} for each creature he or she controls that's blocking it.
+p46
+aVWhen Balduvian Horde enters the battlefield, sacrifice it unless you discard a card at random.
+p47
+aVWhen Awakener Druid enters the battlefield, target Forest becomes a 4/5 green Treefolk creature for as long as Awakener Druid remains on the battlefield. It's still a land.
+p48
+aVWhen Banisher Priest enters the battlefield, exile target creature an opponent controls until Banisher Priest leaves the battlefield. <i>(That creature returns under its owner's control.)</i>
+p49
+aVAt the beginning of your upkeep, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."
+p50
+aVThe next time target creature would deal damage this turn, prevent that damage. You gain life equal to the damage prevented this way.
+p51
+aVAt the beginning of your upkeep, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."
+p52
+aVBarrage of Boulders deals 1 damage to each creature you don't control.<br>Ferocious- If you control a creature with power 4 or greater, creatures can't block this turn.
+p53
+aV{T}: Add {W} or {U} to your mana pool.<br>{W}{U}, {T}, Sacrifice Azorius Cluestone: Draw a card.
+p54
+aVAt the beginning of each upkeep, untap all creatures and lands.
+p55
+aVFlying
+p56
+asS'costs'
+p57
+(lp58
+V{2}{G}
+p59
+aV{U}
+p60
+aV{U}
+p61
+aV{2}{B}
+p62
+aV{2}{W}
+p63
+aV{2}{G}
+p64
+aV{W}
+p65
+aV{2}{G}
+p66
+aV{2}{G}
+p67
+aV{2}{R}
+p68
+aV{2}{G}{G}
+p69
+aV{G}
+p70
+asS'names'
+p71
+(lp72
+VAwakening Zone
+p73
+aVAwesome Presence
+p74
+aVAwesome Presence
+p75
+aVAwakener Druid
+p76
+aVAwaken the Ancient
+p77
+aVAwakening Zone
+p78
+aVAwe Strike
+p79
+aVAwakening Zone
+p80
+aVAwaken the Bear
+p81
+aVAwe for the Guilds
+p82
+aVAwakening
+p83
+aVAwakener Druid
+p84
+asS'toughs'
+p85
+(lp86
+S'N/A'
+p87
+ag87
+ag87
+aV5
+p88
+ag87
+ag87
+ag87
+ag87
+ag87
+ag87
+ag87
+aV1
+p89
+asS'artists'
+p90
+(lp91
+VJohann Bodin
+p92
+aVLawrence Snelly
+p93
+aVLawrence Snelly
+p94
+aVJason Chan
+p95
+aVJaime Jones
+p96
+aS''
+p97
+aVScott M. Fischer
+p98
+aVJohann Bodin
+p99
+aVSvetlin Velinov
+p100
+aVMathias Kollros
+p101
+aVDan Frazier
+p102
+aVJason Chan
+p103
+asS'powers'
+p104
+(lp105
+g87
+ag87
+ag87
+ag89
+ag87
+ag87
+ag87
+ag87
+ag87
+ag87
+ag87
+ag89
+asS'types'
+p106
+(lp107
+VEnchantment
+p108
+aVEnchantment - Aura
+p109
+aVEnchantment - Aura
+p110
+aVCreature - Human Druid
+p111
+aVEnchantment - Aura
+p112
+aVEnchantment
+p113
+aVInstant
+p114
+aVEnchantment
+p115
+aVInstant
+p116
+aVSorcery
+p117
+aVEnchantment
+p118
+aVCreature - Human Druid
+p119
+asS'numbers'
+p120
+(lp121
+V142
+p122
+aV40
+p123
+aV130
+p124
+aV167
+p125
+aV126
+p126
+aV50
+p127
+aV6
+p128
+aV176
+p129
+aV129
+p130
+aV31
+p131
+aV10
+p132
+aV163
+p133
+as.

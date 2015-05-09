@@ -1,0 +1,1452 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVUncommon
+p4
+aVUncommon
+p5
+aVUncommon
+p6
+aVCommon
+p7
+aVRare
+p8
+aVRare
+p9
+aVCommon
+p10
+aVCommon
+p11
+aVRare
+p12
+aVCommon
+p13
+aVRare
+p14
+aVUncommon
+p15
+aVMythic Rare
+p16
+aVUncommon
+p17
+aVUncommon
+p18
+aVUncommon
+p19
+aVRare
+p20
+aVUncommon
+p21
+aVCommon
+p22
+aVRare
+p23
+aVRare
+p24
+aVMythic Rare
+p25
+aVCommon
+p26
+aVUncommon
+p27
+aVUncommon
+p28
+aVCommon
+p29
+aVCommon
+p30
+aVCommon
+p31
+aVUncommon
+p32
+aVUncommon
+p33
+aVUncommon
+p34
+aVUncommon
+p35
+aVUncommon
+p36
+aVUncommon
+p37
+aVCommon
+p38
+aVCommon
+p39
+aVRare
+p40
+aVRare
+p41
+aVCommon
+p42
+aVCommon
+p43
+aVUncommon
+p44
+aVRare
+p45
+aVRare
+p46
+aVRare
+p47
+aVCommon
+p48
+aVUncommon
+p49
+aVCommon
+p50
+aVUncommon
+p51
+aVCommon
+p52
+aVRare
+p53
+aVUncommon
+p54
+aVUncommon
+p55
+aVCommon
+p56
+aVUncommon
+p57
+aVRare
+p58
+aVMythic Rare
+p59
+aVUncommon
+p60
+aVRare
+p61
+aVCommon
+p62
+aVRare
+p63
+aVUncommon
+p64
+aVCommon
+p65
+aVRare
+p66
+aVCommon
+p67
+aVCommon
+p68
+aVUncommon
+p69
+aVCommon
+p70
+aVCommon
+p71
+aVRare
+p72
+aVCommon
+p73
+asS'editns'
+p74
+(lp75
+VLimited Edition Beta
+p76
+aVSaviors of Kamigawa
+p77
+aVFourth Edition
+p78
+aVPlanar Chaos
+p79
+aVPlanar Chaos
+p80
+aVAlliances
+p81
+aVScars of Mirrodin
+p82
+aVScars of Mirrodin
+p83
+aVMagic 2010
+p84
+aVTempest
+p85
+aVVintage Masters
+p86
+aVVintage Masters
+p87
+aVVintage Masters
+p88
+aVModern Masters
+p89
+aVMirrodin Besieged
+p90
+aVMasters Edition III
+p91
+aVRevised Edition
+p92
+aVConflux
+p93
+aVAvacyn Restored
+p94
+aVPlanechase 2012 Edition
+p95
+aVChampions of Kamigawa
+p96
+aVBetrayers of Kamigawa
+p97
+aVFrom the Vault: Twenty
+p98
+aVUrza's Destiny
+p99
+aVUrza's Destiny
+p100
+aVRavnica: City of Guilds
+p101
+aVTime Spiral
+p102
+aVReturn to Ravnica
+p103
+aVGatecrash
+p104
+aVExodus
+p105
+aVExodus
+p106
+aVExodus
+p107
+aVExodus
+p108
+aVExodus
+p109
+aVUnlimited Edition
+p110
+aVIce Age
+p111
+aVDuel Decks: Elspeth vs. Tezzeret
+p112
+aVShards of Alara
+p113
+aVShards of Alara
+p114
+aVShards of Alara
+p115
+aVProphecy
+p116
+aVProphecy
+p117
+aVProphecy
+p118
+aVProphecy
+p119
+aVRise of the Eldrazi
+p120
+aVJudgment
+p121
+aVFuture Sight
+p122
+aVPlanechase
+p123
+aVPlanechase
+p124
+aVLegions
+p125
+aVLegions
+p126
+aVMasters Edition
+p127
+aVTheros
+p128
+aVChronicles
+p129
+aVChronicles
+p130
+aVInvasion
+p131
+aVJourney into Nyx
+p132
+aVFifth Edition
+p133
+aVInnistrad
+p134
+aVInnistrad
+p135
+aVInnistrad
+p136
+aVLimited Edition Alpha
+p137
+aVVisions
+p138
+aVLegends
+p139
+aVLegends
+p140
+aVPremium Deck Series: Fire and Lightning
+p141
+aVPremium Deck Series: Fire and Lightning
+p142
+aVPortal
+p143
+aVPlaneshift
+p144
+aVPlaneshift
+p145
+aVDark Ascension
+p146
+asS'ids'
+p147
+(lp148
+V503
+p149
+aV84705
+p150
+aV2290
+p151
+aV122451
+p152
+aV125885
+p153
+aV3079
+p154
+aV215091
+p155
+aV194083
+p156
+aV190536
+p157
+aV4667
+p158
+aV382985
+p159
+aV382986
+p160
+aV382987
+p161
+aV370542
+p162
+aV214056
+p163
+aV201200
+p164
+aV1301
+p165
+aV189080
+p166
+aV240114
+p167
+aV226537
+p168
+aV75286
+p169
+aV81968
+p170
+aV373323
+p171
+aV15194
+p172
+aV15206
+p173
+aV83599
+p174
+aV108891
+p175
+aV271100
+p176
+aV366380
+p177
+aV6041
+p178
+aV6064
+p179
+aV6090
+p180
+aV6116
+p181
+aV6142
+p182
+aV805
+p183
+aV2693
+p184
+aV227150
+p185
+aV174882
+p186
+aV175033
+p187
+aV179430
+p188
+aV24629
+p189
+aV24637
+p190
+aV24648
+p191
+aV24683
+p192
+aV193441
+p193
+aV35168
+p194
+aV136046
+p195
+aV205346
+p196
+aV205801
+p197
+aV35335
+p198
+aV44626
+p199
+aV159262
+p200
+aV373548
+p201
+aV2860
+p202
+aV2873
+p203
+aV25930
+p204
+aV380442
+p205
+aV4068
+p206
+aV249868
+p207
+aV220040
+p208
+aV233256
+p209
+aV208
+p210
+aV3692
+p211
+aV1664
+p212
+aV1622
+p213
+aV234709
+p214
+aV234713
+p215
+aV4387
+p216
+aV19358
+p217
+aV21323
+p218
+aV243233
+p219
+asS'texts'
+p220
+(lp221
+VEnchant artifact<br>Whenever you're dealt damage, put that many vitality counters on Living Artifact.<br>At the beginning of your upkeep, you may remove a vitality counter from Living Artifact. If you do, you gain 1 life.
+p222
+aVWhen Kemuri-Onna enters the battlefield, target player discards a card.<br>Whenever you cast a Spirit or Arcane spell, you may return Kemuri-Onna to its owner's hand.
+p223
+aVAll Forests are 1/1 creatures that are still lands.
+p224
+aVEnchant creature<br>Whenever enchanted creature deals damage to an opponent, you may draw a card.
+p225
+aVVanishing 2 <i>(This permanent enters the battlefield with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)</i><br>When Keldon Marauders enters the battlefield or leaves the battlefield, it deals 1 damage to target player.
+p226
+aVWhenever Keeper of Tresserhorn attacks and isn't blocked, it assigns no combat damage this turn and defending player loses 2 life.
+p227
+aVFlying<br>When Kemba's Skyguard enters the battlefield, you gain 2 life.
+p228
+aV+1: Untap target Mountain. It becomes a 4/4 red Elemental creature until end of turn. It's still a land.<br>-2: Add {R} to your mana pool for each Mountain you control.<br>-5: You get an emblem with "Mountains you control have \u2018{T}: This land deals 1 damage to target creature or player.'"
+p229
+aVFirst strike <i>(This creature deals combat damage before creatures without first strike.)</i><br>Whenever Lightwielder Paladin deals combat damage to a player, you may exile target black or red permanent that player controls.
+p230
+aV{B}, {T}: Leeching Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {B} to end this effect.<br>At the beginning of the upkeep of enchanted creature's controller, Leeching Licid deals 1 damage to that player.
+p231
+aVFirst strike<br>At the beginning of your upkeep, if your opponents control no creatures, Kezzerdrix deals 4 damage to you.
+p232
+aV{U}: Killer Whale gains flying until end of turn.
+p233
+aVKindle deals X damage to target creature or player, where X is 2 plus the number of cards named Kindle in all graveyards.
+p234
+aVFlying<br>When Keiga, the Tide Star dies, gain control of target creature.
+p235
+aVImprint- When Knowledge Pool enters the battlefield, each player exiles the top three cards of his or her library.<br>Whenever a player casts a spell from his or her hand, that player exiles it. If the player does, he or she may cast another nonland card exiled with Knowledge Pool without paying that card's mana cost.
+p236
+aVFirst strike<br>Other Kobold creatures you control have first strike.
+p237
+aVChange the text of target spell or permanent by replacing all instances of one basic land type with another. <i>(For example, you may change "swampwalk" to "plainswalk." This effect lasts indefinitely.)</i>
+p238
+aV{1}, {T}: Add {R}{G}{W} to your mana pool.
+p239
+aVFor each creature, its controller sacrifices it unless he or she pays X life.
+p240
+aVPrevent all combat damage that would be dealt by non-Werewolf creatures.<br>Whenever you roll chaos, each creature you control gets +2/+2, gains trample, and becomes a Werewolf in addition to its other types until end of turn.
+p241
+aVEquipped creature gets +5/+5.<br>{6}, Exile Tatsumasa, the Dragon's Fang: Put a 5/5 blue Dragon Spirit creature token with flying onto the battlefield. Return Tatsumasa to the battlefield under its owner's control when that token dies.<br>Equip {3}
+p242
+aVFlying<br>Whenever Kami of the Honored Dead is dealt damage, you gain that much life.<br>Soulshift 6 <i>(When this creature dies, you may return target Spirit card with converted mana cost 6 or less from your graveyard to your hand.)</i>
+p243
+aV{T}: Add {1} to your mana pool.<br>{X}{R}{G}, {T}: Target creature gets +X/+0 and gains trample until end of turn.
+p244
+aVEcho {2}{R} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i><br>When Keldon Vandals enters the battlefield, destroy target artifact.
+p245
+aVHaste<br>Echo {2}{R}{R} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i><br>When Keldon Champion enters the battlefield, it deals 3 damage to target player.
+p246
+aVFlying<br>When Keening Banshee enters the battlefield, target creature gets -2/-2 until end of turn.
+p247
+aVFirst strike<br>Suspend 4\u2014{R} <i>(Rather than cast this card from your hand, you may pay {R} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)</i>
+p248
+aVAs an additional cost to cast Launch Party, sacrifice a creature.<br>Destroy target creature. Its controller loses 2 life.
+p249
+aVDestroy target creature with power X or less.
+p250
+aV{W}, {T}: Choose target opponent who had more life than you did as you activated this ability. You gain 3 life.
+p251
+aV{U}, {T}: Choose target opponent who had at least two more cards in hand than you did as you activated this ability. Draw a card.
+p252
+aV{B}, {T}: Choose target opponent who had at least two fewer creature cards in his or her graveyard than you did as you activated this ability. Destroy target nonblack creature he or she controls.
+p253
+aV{R}, {T}: Choose target opponent who had more life than you did as you activated this ability. Keeper of the Flame deals 2 damage to him or her.
+p254
+aV{G}, {T}: Choose target opponent who controlled more creatures than you did as you activated this ability. Put a 2/2 green Beast creature token onto the battlefield.
+p255
+aV{T}: Add {G} to your mana pool.
+p256
+aV{T}: Target creature gets +1/+1 until end of turn. When that creature leaves the battlefield this turn, sacrifice Kjeldoran Guard. Activate this ability only during combat and only if defending player controls no snow lands.
+p257
+aVWhen Kor Hookmaster enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
+p258
+aV{T}: Add {U}, {B}, or {R} to your mana pool.
+p259
+aVCount the number of cards in your library. Your life total becomes that number.
+p260
+aVEquipped creature has deathtouch.<br>Whenever equipped creature deals combat damage to a player, that player loses half his or her life, rounded up.<br>Equip {3}
+p261
+aVWhenever Keldon Berserker attacks, if you control no untapped lands, it gets +3/+0 until end of turn.
+p262
+aV{1}, Sacrifice two lands: Destroy target land.
+p263
+aVWhen Keldon Firebombers enters the battlefield, each player sacrifices all lands he or she controls except for three.
+p264
+aVTrample<br>Keldon Battlewagon can't block.<br>When Keldon Battlewagon attacks, sacrifice it at end of combat.<br>Tap an untapped creature you control: Keldon Battlewagon gets +X/+0 until end of turn, where X is the power of the creature tapped this way.
+p265
+aVWhenever you cast an instant or sorcery spell, Kiln Fiend gets +3/+0 until end of turn.
+p266
+aVDraw a card for each attacking creature.
+p267
+aVSearch target player's library for a card and exile it. Then that player shuffles his or her library.<br>Gravestorm <i>(When you cast this spell, copy it for each permanent put into a graveyard this turn. You may choose new targets for the copies.)</i>
+p268
+aVDraw a card for each attacking creature.
+p269
+aVHaste<br>Echo {2}{R}{R} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i><br>When Keldon Champion enters the battlefield, it deals 3 damage to target player.
+p270
+aVFlying<br>Cycling {2} <i>({2}, Discard this card: Draw a card.)</i>
+p271
+aVFlying<br>{T}, Tap two untapped Birds you control: Return target permanent to its owner's hand.
+p272
+aVKeldon Warlord's power and toughness are each equal to the number of non-Wall creatures you control.
+p273
+aVWhen Lagonna-Band Elder enters the battlefield, if you control an enchantment, you gain 3 life.
+p274
+aV{T}: Target player names a card, then reveals the top card of his or her library. If that card is the named card, that player puts it into his or her hand. If it isn't, the player puts it into his or her graveyard.
+p275
+aVAs an additional cost to cast Metamorphosis, sacrifice a creature.<br>Add X mana of any one color to your mana pool, where X is one plus the sacrificed creature's converted mana cost. Spend this mana only to cast creature spells.
+p276
+aV{T}: Add {1} to your mana pool.<br><br>{4}{R}, {T}, Sacrifice a creature: Keldon Necropolis deals 2 damage to target creature or player.
+p277
+aVIndestructible<br>As long as your devotion to blue and red is less than seven, Keranos isn't a creature.<br>Reveal the first card you draw on each of your turns. Whenever you reveal a land card this way, draw a card. Whenever you reveal a nonland card this way, Keranos deals 3 damage to target creature or player.
+p278
+aVEnchant artifact<br>Whenever you're dealt damage, put that many vitality counters on Living Artifact.<br>At the beginning of your upkeep, you may remove a vitality counter from Living Artifact. If you do, you gain 1 life.
+p279
+aV{1}{R}: Kessig Wolf gains first strike until end of turn.
+p280
+aV{T}: Add {1} to your mana pool.<br>{X}{R}{G}, {T}: Target creature gets +X/+0 and gains trample until end of turn.
+p281
+aVAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Krallenhorde Wantons.
+p282
+aVWhenever one or more creatures you control attack, each defending player divides all creatures without flying he or she controls into a "left" pile and a "right" pile. Then, for each attacking creature you control, choose "left" or "right." That creature can't be blocked this combat except by creatures with flying and creatures in a pile with the chosen label.
+p283
+aVTrample<br>At the beginning of your upkeep, if you don't control a creature named Keeper of Kookus, Kookus deals 3 damage to you and attacks this turn if able.<br>{R}: Kookus gets +1/+0 until end of turn.
+p284
+aV{G}{W}{U}, {T}: Regenerate target creature.
+p285
+aVPrimordial Ooze attacks each turn if able.<br>At the beginning of your upkeep, put a +1/+1 counter on Primordial Ooze. Then you may pay {X}, where X is the number of +1/+1 counters on it. If you don't, tap Primordial Ooze and it deals X damage to you.
+p286
+aVVanishing 2 <i>(This permanent enters the battlefield with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)</i><br>When Keldon Marauders enters the battlefield or leaves the battlefield, it deals 1 damage to target player.
+p287
+aVHaste<br>Echo {2}{R}{R} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i><br>When Keldon Champion enters the battlefield, it deals 3 damage to target player.
+p288
+aVEach player may draw up to two cards. For each card less than two a player draws this way, that player gains 2 life.
+p289
+aVEnchant creature<br>{B}: Regenerate enchanted creature.<br>{R}: Enchanted creature gets +1/+0 until end of turn.<br>{G}: Enchanted creature gains trample until end of turn.
+p290
+aVAt the beginning of each player's end step, if no creatures attacked this turn, that player sacrifices a creature he or she controlled since the beginning of the turn.
+p291
+aV{3}{G}: Krallenhorde Killer gets +4/+4 until end of turn. Activate this ability only once each turn.<br>At the beginning of each upkeep, if a player cast two or more spells last turn, transform Krallenhorde Killer.
+p292
+asS'costs'
+p293
+(lp294
+V{2}{R}{R}
+p295
+aV{4}{B}
+p296
+aV{2}{R}{R}
+p297
+aV{G}
+p298
+aV{1}{R}
+p299
+aV{5}{B}
+p300
+aV{2}
+p301
+aV{1}{W}{W}
+p302
+aV{1}{U}{U}
+p303
+aV{2}{B}{B}
+p304
+aV{3}{W}{W}
+p305
+aS'0'
+p306
+aV{5}
+p307
+aV{5}{U}
+p308
+aV{5}{W}{W}
+p309
+aV{2}{G}{W}
+p310
+aV{2}{R}{R}
+p311
+aV{B}
+p312
+aV{3}{U}
+p313
+ag306
+aV{5}{U}
+p314
+aV{1}{W}
+p315
+ag306
+aV{2}{R}
+p316
+aV{2}{R}{R}
+p317
+aV{2}{B}{B}
+p318
+aV{4}{R}
+p319
+aV{W/U}
+p320
+aV{1}{U}
+p321
+aV{W}{W}
+p322
+aV{U}{U}
+p323
+aV{B}{B}
+p324
+aV{R}{R}
+p325
+aV{G}{G}
+p326
+aV{2}{R}{R}
+p327
+aV{W}
+p328
+aV{4}
+p329
+aV{2}{B}{R}{G}
+p330
+aV{W}{U}{B}
+p331
+aV{3}{R}{G}{W}
+p332
+aV{3}{R}
+p333
+aV{2}{R}
+p334
+aV{3}{R}{R}
+p335
+aV{5}
+p336
+aV{1}{G}
+p337
+aV{2}{U}
+p338
+ag306
+aV{2}{U}
+p339
+aV{2}{R}{R}
+p340
+aV{3}{U}
+p341
+aV{2}{U}
+p342
+aV{2}{R}{R}
+p343
+aV{2}{B}{B}
+p344
+aV{1}{W}{W}
+p345
+aV{2}{G}{W}
+p346
+ag306
+aV{2}{R}{W}
+p347
+aV{2}{R}{R}
+p348
+aV{1}{U}
+p349
+aV{4}{G}
+p350
+ag306
+aV{2}{R}{R}
+p351
+aV{R}
+p352
+aV{2}{G}{W}
+p353
+aV{1}{W}{W}
+p354
+aV{1}{R}
+p355
+aV{2}{R}{R}
+p356
+aV{2}{W}
+p357
+aV{1}{R}
+p358
+aV{1}{B}{R}
+p359
+aV{2}{G}{G}
+p360
+asS'names'
+p361
+(lp362
+VKeldon Warlord
+p363
+aVKemuri-Onna
+p364
+aVKeldon Warlord
+p365
+aVKeen Sense
+p366
+aVKeldon Marauders
+p367
+aVKeeper of Tresserhorn
+p368
+aVKemba, Kha Regent
+p369
+aVKemba's Skyguard
+p370
+aVKelinore Bat
+p371
+aVKezzerdrix
+p372
+aVKeeneye Aven
+p373
+aVKeldon Necropolis
+p374
+aVKezzerdrix
+p375
+aVKeiga, the Tide Star
+p376
+aVKemba's Legion
+p377
+aVKei Takahashi
+p378
+aVKeldon Warlord
+p379
+aVKederekt Parasite
+p380
+aVKessig Malcontents
+p381
+aVKessig
+p382
+aVKeiga, the Tide Star
+p383
+aVKentaro, the Smiling Cat
+p384
+aVKessig Wolf Run
+p385
+aVKeldon Vandals
+p386
+aVKeldon Champion
+p387
+aVKeening Banshee
+p388
+aVKeldon Halberdier
+p389
+aVKeening Apparition
+p390
+aVKeymaster Rogue
+p391
+aVKeeper of the Light
+p392
+aVKeeper of the Mind
+p393
+aVKeeper of the Dead
+p394
+aVKeeper of the Flame
+p395
+aVKeeper of the Beasts
+p396
+aVKeldon Warlord
+p397
+aVKelsinko Ranger
+p398
+aVKemba's Skyguard
+p399
+aVKederekt Leviathan
+p400
+aVKeeper of Progenitus
+p401
+aVKederekt Creeper
+p402
+aVKeldon Berserker
+p403
+aVKeldon Arsonist
+p404
+aVKeldon Firebombers
+p405
+aVKeldon Battlewagon
+p406
+aVKeening Stone
+p407
+aVKeep Watch
+p408
+aVKeldon Megaliths
+p409
+aVKeep Watch
+p410
+aVKeldon Champion
+p411
+aVKeeneye Aven
+p412
+aVKeeper of the Nine Gales
+p413
+aVKeldon Warlord
+p414
+aVKeepsake Gorgon
+p415
+aVKeepers of the Faith
+p416
+aVKei Takahashi
+p417
+aVKeldon Necropolis
+p418
+aVKeranos, God of Storms
+p419
+aVKeldon Warlord
+p420
+aVKessig Cagebreakers
+p421
+aVKessig Wolf
+p422
+aVKessig Wolf Run
+p423
+aVKeldon Warlord
+p424
+aVKeeper of Kookus
+p425
+aVKei Takahashi
+p426
+aVKeepers of the Faith
+p427
+aVKeldon Marauders
+p428
+aVKeldon Champion
+p429
+aVKeen-Eyed Archers
+p430
+aVKeldon Mantle
+p431
+aVKeldon Twilight
+p432
+aVKessig Recluse
+p433
+asS'toughs'
+p434
+(lp435
+V3
+p436
+ag436
+aV1
+p437
+aS'N/A'
+p438
+ag436
+aV2
+p439
+aV4
+p440
+ag436
+ag440
+ag437
+ag436
+ag438
+aV7
+p441
+ag437
+ag439
+ag437
+ag439
+ag439
+ag439
+ag438
+aV5
+p442
+ag437
+ag438
+ag439
+ag437
+ag439
+ag437
+ag437
+ag440
+ag439
+ag437
+ag439
+ag439
+ag442
+ag436
+ag436
+ag437
+ag437
+ag440
+ag437
+ag436
+ag437
+ag436
+ag438
+ag438
+ag438
+ag438
+ag438
+ag439
+ag436
+ag439
+ag439
+ag436
+ag436
+ag436
+ag438
+ag438
+ag436
+ag440
+ag439
+ag438
+aV*
+p443
+ag439
+ag436
+ag436
+ag436
+ag439
+ag439
+ag438
+ag438
+ag439
+asS'artists'
+p444
+(lp445
+VKev Brockschmidt
+p446
+aVIttoku
+p447
+aVKev Brockschmidt
+p448
+aVJim Nelson
+p449
+aVAlex Horley-Orlandelli
+p450
+aVZ. Plucinski & D.A. Gregory
+p451
+aVTodd Lockwood
+p452
+aVWhit Brachna
+p453
+aVDave Kendall
+p454
+aVMatthew Wilson
+p455
+aVGreg Hildebrandt
+p456
+aVFranz Vohwinkel
+p457
+aVMatthew D. Wilson
+p458
+aS''
+p459
+ag459
+aVPhil Foglio
+p460
+aVKev Brockschmidt
+p461
+aVDan Scott
+p462
+aVSteve Argyle
+p463
+aVMartina Pilcerova
+p464
+aVIttoku
+p465
+aVDonato Giancola
+p466
+aVEytan Zana
+p467
+aVGreg Staples
+p468
+aVMark Tedin
+p469
+aVRobert Bliss
+p470
+aVParente
+p471
+aVTerese Nielsen
+p472
+aVWinona Nelson
+p473
+aVD. Alexander Gregory
+p474
+aVMatthew Wilson
+p475
+aVBrom
+p476
+aVTerese Nielsen
+p477
+aVrk post
+p478
+aVKev Brockschmidt
+p479
+aVMark Poole
+p480
+aVWhit Brachna
+p481
+aVMark Hyzer
+p482
+aVKev Walker
+p483
+aVMark Hyzer
+p484
+aVPaolo Parente
+p485
+aVPaolo Parente
+p486
+aVRandy Gallegos
+p487
+aVKev Walker
+p488
+aVJung Park
+p489
+aVFred Rahmqvist
+p490
+aVPhilip Straub
+p491
+aVFred Rahmqvist
+p492
+aVMark Tedin
+p493
+aVGreg Hildebrandt
+p494
+aVJim Nelson
+p495
+aVKev Brockschmidt
+p496
+aVAaron Miller
+p497
+aVDaniel Gelon
+p498
+aVScott Kirschner
+p499
+aVFranz Vohwinkel
+p500
+aVDaarken
+p501
+aVKev Brockschmidt
+p502
+aVWayne England
+p503
+aVWayne England
+p504
+aVEytan Zana
+p505
+aVKev Brockschmidt
+p506
+aVScott Hampton
+p507
+aVScott Kirschner
+p508
+aVDaniel Gelon
+p509
+ag459
+ag459
+aVAlan Rabinowitz
+p510
+aVRebecca Guay
+p511
+aVFranz Vohwinkel
+p512
+aVMatt Stewart
+p513
+asS'powers'
+p514
+(lp515
+g442
+ag436
+ag437
+ag438
+ag436
+ag440
+ag436
+ag439
+aV9
+p516
+ag437
+ag442
+ag438
+ag439
+ag437
+ag439
+ag439
+ag439
+ag439
+ag437
+ag438
+ag442
+ag439
+ag438
+ag439
+ag439
+ag439
+ag440
+ag439
+ag439
+ag439
+ag439
+ag439
+ag439
+ag440
+ag442
+ag436
+ag439
+ag439
+ag437
+ag436
+ag439
+ag437
+ag436
+ag438
+ag438
+ag438
+ag438
+ag438
+ag440
+ag439
+ag437
+ag436
+ag439
+ag436
+ag436
+ag438
+ag438
+ag439
+ag439
+ag437
+ag438
+ag443
+ag439
+ag442
+ag436
+ag436
+ag436
+ag439
+ag438
+ag438
+ag439
+asS'types'
+p517
+(lp518
+VCreature - Human Barbarian
+p519
+aVCreature - Spirit
+p520
+aVCreature - Human Barbarian
+p521
+aVEnchantment - Aura
+p522
+aVCreature - Human Warrior
+p523
+aVCreature - Avatar
+p524
+aVLegendary Creature - Cat Cleric
+p525
+aVCreature - Cat Knight
+p526
+aVCreature - Bat
+p527
+aVCreature - Rabbit Beast
+p528
+aVCreature - Bird Soldier
+p529
+aVLegendary Land
+p530
+aVCreature - Rabbit Beast
+p531
+aVLegendary Creature - Dragon Spirit
+p532
+aVCreature - Cat Soldier
+p533
+aVLegendary Creature - Human Cleric
+p534
+aVCreature - Human Barbarian
+p535
+aVCreature - Horror
+p536
+aVCreature - Human Warrior
+p537
+aVPlane - Innistrad
+p538
+aVLegendary Creature - Dragon Spirit
+p539
+aVLegendary Creature - Human Samurai
+p540
+aVLand
+p541
+aVCreature - Human Rogue
+p542
+aVCreature - Human Barbarian
+p543
+aVCreature - Spirit
+p544
+aVCreature - Human Warrior
+p545
+aVCreature - Spirit
+p546
+aVCreature - Human Rogue
+p547
+aVCreature - Human Wizard
+p548
+aVCreature - Human Wizard
+p549
+aVCreature - Human Wizard
+p550
+aVCreature - Human Wizard
+p551
+aVCreature - Human Wizard
+p552
+aVCreature - Human Barbarian
+p553
+aVCreature - Human
+p554
+aVCreature - Cat Knight
+p555
+aVCreature - Leviathan
+p556
+aVCreature - Elf Druid
+p557
+aVCreature - Horror
+p558
+aVCreature - Human Soldier Berserker
+p559
+aVCreature - Human Soldier
+p560
+aVCreature - Human Soldier
+p561
+aVArtifact Creature - Juggernaut
+p562
+aVArtifact
+p563
+aVInstant
+p564
+aVLand
+p565
+aVInstant
+p566
+aVCreature - Human Barbarian
+p567
+aVCreature - Bird Soldier
+p568
+aVCreature - Bird Wizard
+p569
+aVCreature - Human Barbarian
+p570
+aVCreature - Gorgon
+p571
+aVCreature - Human Cleric
+p572
+aVLegendary Creature - Human Cleric
+p573
+aVLegendary Land
+p574
+aVLegendary Enchantment Creature - God
+p575
+aVCreature - Human Barbarian
+p576
+aVCreature - Human Rogue
+p577
+aVCreature - Wolf
+p578
+aVLand
+p579
+aVCreature - Human Barbarian
+p580
+aVCreature - Goblin
+p581
+aVLegendary Creature - Human Cleric
+p582
+aVCreature - Human Cleric
+p583
+aVCreature - Human Warrior
+p584
+aVCreature - Human Barbarian
+p585
+aVCreature - Elf Archer
+p586
+aVEnchantment - Aura
+p587
+aVEnchantment
+p588
+aVCreature - Spider
+p589
+asS'numbers'
+p590
+(lp591
+V148
+p592
+aV76
+p593
+aV248
+p594
+aV152
+p595
+aV102
+p596
+aV27
+p597
+aV12
+p598
+aV13
+p599
+aV101
+p600
+aV57
+p601
+aV75
+p602
+aV300
+p603
+aV124
+p604
+ag459
+ag516
+aV155
+p605
+aV171
+p606
+aV48
+p607
+aV142
+p608
+aV15
+p609
+aV72
+p610
+aV13
+p611
+aV20
+p612
+aV91
+p613
+aV90
+p614
+aV92
+p615
+aV167
+p616
+aV12
+p617
+aV39
+p618
+aV8
+p619
+aV36
+p620
+aV65
+p621
+aV85
+p622
+aV112
+p623
+aV149
+p624
+aV193
+p625
+aV13
+p626
+aV48
+p627
+aV135
+p628
+aV176
+p629
+aV93
+p630
+aV92
+p631
+aV94
+p632
+aV139
+p633
+aV219
+p634
+aV43
+p635
+aV170
+p636
+aV10
+p637
+aV58
+p638
+aV41
+p639
+aV42
+p640
+aV101
+p641
+aV93
+p642
+aV30
+p643
+aV86
+p644
+aV325
+p645
+aV151
+p646
+aV317
+p647
+aV189
+p648
+aV151
+p649
+aV243
+p650
+aV39
+p651
+aV70
+p652
+aV142
+p653
+aV243
+p654
+ag459
+ag459
+aV78
+p655
+aV65
+p656
+aV112
+p657
+aV121
+p658
+as.

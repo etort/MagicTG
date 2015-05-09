@@ -1,0 +1,1038 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVCommon
+p4
+aVRare
+p5
+aVRare
+p6
+aVRare
+p7
+aVUncommon
+p8
+aVCommon
+p9
+aVUncommon
+p10
+aVRare
+p11
+aVCommon
+p12
+aVUncommon
+p13
+aVUncommon
+p14
+aVCommon
+p15
+aVUncommon
+p16
+aVRare
+p17
+aVRare
+p18
+aVCommon
+p19
+aVCommon
+p20
+aVCommon
+p21
+aVCommon
+p22
+aVRare
+p23
+aVRare
+p24
+aVRare
+p25
+aVMythic Rare
+p26
+aVUncommon
+p27
+aVUncommon
+p28
+aVUncommon
+p29
+aVMythic Rare
+p30
+aVCommon
+p31
+aVCommon
+p32
+aVCommon
+p33
+aVCommon
+p34
+aVCommon
+p35
+aVUncommon
+p36
+aVCommon
+p37
+aVRare
+p38
+aVCommon
+p39
+aVRare
+p40
+aVCommon
+p41
+aVRare
+p42
+aVCommon
+p43
+aVCommon
+p44
+aVMythic Rare
+p45
+aVRare
+p46
+aVRare
+p47
+aVCommon
+p48
+aVRare
+p49
+aVCommon
+p50
+aVUncommon
+p51
+aVUncommon
+p52
+asS'editns'
+p53
+(lp54
+VScars of Mirrodin
+p55
+aVMagic 2010
+p56
+aVTempest
+p57
+aVTempest
+p58
+aVMercadian Masques
+p59
+aVVintage Masters
+p60
+aVModern Masters
+p61
+aVApocalypse
+p62
+aVNinth Edition
+p63
+aVConflux
+p64
+aVAvacyn Restored
+p65
+aVOnslaught
+p66
+aVChampions of Kamigawa
+p67
+aVBetrayers of Kamigawa
+p68
+aVUrza's Destiny
+p69
+aVRavnica: City of Guilds
+p70
+aVOdyssey
+p71
+aVOdyssey
+p72
+aVTime Spiral
+p73
+aVGatecrash
+p74
+aVZendikar
+p75
+aVZendikar
+p76
+aVMirrodin
+p77
+aVShards of Alara
+p78
+aVDarksteel
+p79
+aVDarksteel
+p80
+aVRise of the Eldrazi
+p81
+aVRise of the Eldrazi
+p82
+aVRise of the Eldrazi
+p83
+aVJudgment
+p84
+aVShadowmoor
+p85
+aVShadowmoor
+p86
+aVFuture Sight
+p87
+aVFuture Sight
+p88
+aVLegions
+p89
+aVTheros
+p90
+aVWeatherlight
+p91
+aVEighth Edition
+p92
+aVChronicles
+p93
+aVInvasion
+p94
+aVArchenemy
+p95
+aVKhans of Tarkir
+p96
+aVKhans of Tarkir
+p97
+aVMirage
+p98
+aVMirage
+p99
+aVVisions
+p100
+aVDragon's Maze
+p101
+aVLegends
+p102
+aVMagic 2011
+p103
+aVPortal Three Kingdoms
+p104
+asS'ids'
+p105
+(lp106
+V194202
+p107
+aV189890
+p108
+aV4603
+p109
+aV4604
+p110
+aV19679
+p111
+aV382923
+p112
+aV370480
+p113
+aV26264
+p114
+aV83074
+p115
+aV184990
+p116
+aV239980
+p117
+aV39589
+p118
+aV80508
+p119
+aV74513
+p120
+aV15773
+p121
+aV89015
+p122
+aV29703
+p123
+aV29752
+p124
+aV109735
+p125
+aV366306
+p126
+aV190399
+p127
+aV190414
+p128
+aV49430
+p129
+aV175104
+p130
+aV45469
+p131
+aV48153
+p132
+aV194949
+p133
+aV193452
+p134
+aV193485
+p135
+aV29862
+p136
+aV153307
+p137
+aV158766
+p138
+aV132214
+p139
+aV136215
+p140
+aV43724
+p141
+aV373597
+p142
+aV4575
+p143
+aV45446
+p144
+aV2830
+p145
+aV23007
+p146
+aV212596
+p147
+aV386530
+p148
+aV386531
+p149
+aV3443
+p150
+aV3533
+p151
+aV3663
+p152
+aV368944
+p153
+aV1524
+p154
+aV208008
+p155
+aV10504
+p156
+asS'texts'
+p157
+(lp158
+VWhenever Engulfing Slagwurm blocks or becomes blocked by a creature, destroy that creature. You gain life equal to that creature's toughness.
+p159
+aV{R}: Fiery Hellhound gets +1/+0 until end of turn.
+p160
+aVGreen spells you cast cost {1} less to cast.
+p161
+aV{5}, {T}: Draw two cards, then discard a card.
+p162
+aVSorcery spells cost {3} more to cast.
+p163
+aVAt the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep.
+p164
+aVPut two 1/1 red Goblin creature tokens onto the battlefield.<br>Storm <i>(When you cast this spell, copy it for each spell cast before it this turn.)</i>
+p165
+aVKicker {X} <i>(You may pay an additional {X} as you cast this spell.)</i><br>Spend only colored mana on X. No more than one mana of each color may be spent this way.<br>If Emblazoned Golem was kicked, it enters the battlefield with X +1/+1 counters on it.
+p166
+aVHaste <i>(This creature can attack the turn it comes under your control.)</i>
+p167
+aVFlying
+p168
+aVPut X 4/4 white Angel creature tokens with flying onto the battlefield.<br>Miracle {X}{W}{W} <i>(You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)</i>
+p169
+aVWhen Embermage Goblin enters the battlefield, you may search your library for a card named Embermage Goblin, reveal it, and put it into your hand. If you do, shuffle your library.<br>{T}: Embermage Goblin deals 1 damage to target creature or player.
+p170
+aVWhen Dripping-Tongue Zubera dies, put a 1/1 colorless Spirit creature token onto the battlefield for each Zubera that died this turn.
+p171
+aVTarget creature gains shroud until end of turn and is unblockable this turn.<br>Splice onto Arcane\u2014Return a blue creature you control to its owner's hand. <i>(As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)</i>
+p172
+aVWhen you control no other creatures, sacrifice Emperor Crocodile.
+p173
+aVSacrifice a Forest: You gain 3 life.
+p174
+aVPrevent the next 4 damage that would be dealt this turn to any number of target creatures and/or players, divided as you choose.<br>Flashback {1}{W} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
+p175
+aVEmber Beast can't attack or block alone.
+p176
+aVPut two 1/1 red Goblin creature tokens onto the battlefield.<br>Storm <i>(When you cast this spell, copy it for each spell cast before it this turn.)</i>
+p177
+aVEmber Beast can't attack or block alone.
+p178
+aVFlying<br>Landfall- Whenever a land enters the battlefield under your control, you may put a 1/1 white Bird creature token with flying onto the battlefield.
+p179
+aVEmeria, the Sky Ruin enters the battlefield tapped.<br>At the beginning of your upkeep, if you control seven or more Plains, you may return target creature card from your graveyard to the battlefield.<br>{T}: Add {W} to your mana pool.
+p180
+aVChoose one- Until end of turn, you gain control of target creature and it gains haste; or sacrifice a creature, then Grab the Reins deals damage equal to that creature's power to target creature or player.<br>Entwine {2}{R} <i>(Choose both if you pay the entwine cost.)</i>
+p181
+aVWhenever an opponent casts a spell, that player puts the top two cards of his or her library into his or her graveyard.
+p182
+aVFlying<br>Whenever Emissary of Despair deals combat damage to a player, that player loses 1 life for each artifact he or she controls.
+p183
+aVFlying<br>Whenever Emissary of Hope deals combat damage to a player, you gain 1 life for each artifact that player controls.
+p184
+aVTarget creature you control gains protection from the color of your choice until end of turn.<br>Rebound <i>(If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</i>
+p185
+aVEmrakul, the Aeons Torn can't be countered.<br>When you cast Emrakul, take an extra turn after this one.<br>Flying, protection from colored spells, annihilator 6<br>When Emrakul is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.
+p186
+aVWhen Emrakul's Hatcher enters the battlefield, put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."
+p187
+aVEmber Shot deals 3 damage to target creature or player.<br><br>Draw a card.
+p188
+aV{2}{W}{W}, {Q}: Target creature gains protection from the color of its controller's choice until end of turn. <i>({Q} is the untap symbol.)</i>
+p189
+aVEnchant creature<br>Enchanted creature has "{T}: Put a 1/1 green Elf Warrior creature token onto the battlefield."
+p190
+aVEnchant artifact or enchantment<br>At the beginning of your upkeep, choose one- Destroy enchanted permanent; or you gain 2 life.
+p191
+aS''
+p192
+aVAmplify 1 <i>(As this creature enters the battlefield, put a +1/+1 counter on it for each Zombie card you reveal in your hand.)</i><br>Whenever Embalmed Brawler attacks or blocks, you lose 1 life for each +1/+1 counter on it.
+p193
+aVIndestructible<br>As long as your devotion to black is less than five, Erebos isn't a creature. <i>(Each {B} in the mana costs of permanents you control counts toward your devotion to black.)</i><br>Your opponents can't gain life.<br>{1}{B}, Pay 2 life: Draw a card.
+p194
+aVEnchant creature<br>Enchanted creature gets +1/+1 for each card in your hand.
+p195
+aVIf a source would deal damage to a creature or player, it deals double that damage to that creature or player instead.
+p196
+aVFlying<br>{G}{G}: Emerald Dragonfly gains first strike until end of turn.
+p197
+aV{U}{U}, {T}: Gain control of target legendary permanent. <i>(This effect lasts indefinitely.)</i>
+p198
+aVWhen you set this scheme in motion, each player shuffles his or her hand and graveyard into his or her library. You draw seven cards, then each other player draws four cards.
+p199
+aVDelve <i>(Each card you exile from your graveyard while casting this spell pays for {1}.)</i><br>Put X 2/2 black Zombie creature tokens onto the battlefield tapped.
+p200
+aVDestroy all creatures and all permanents attached to creatures.
+p201
+aVFlying<br><br>At the beginning of each player's upkeep, that player may pay {R}{R} or 2 life. If he or she does, the player gains control of Emberwilde Djinn.
+p202
+aVChoose one- Energy Bolt deals X damage to target player; or target player gains X life.
+p203
+aVTarget creature gets +1/+1 until end of turn.<br>Draw a card at the beginning of the next turn's upkeep.
+p204
+aVTarget creature gets -4/-2 until end of turn.
+p205
+aVEnchant creature<br>Enchanted creature gets +2/+2.
+p206
+aVIf a red instant or sorcery spell you control would deal damage, it deals double that damage instead.
+p207
+aV{T}: Destroy target tapped nonblack creature. Activate this ability only during your turn, before attackers are declared.
+p208
+asS'costs'
+p209
+(lp210
+V{3}{W}{W}
+p211
+aV{3}{G}
+p212
+aV{2}
+p213
+aV{4}
+p214
+aV{3}{U}
+p215
+aV{5}{G}
+p216
+aV{3}{R}
+p217
+aV{2}
+p218
+aV{3}{G}
+p219
+aV{2}{G}
+p220
+aV{2}{G}
+p221
+aV{3}{R}
+p222
+aV{1}{R}
+p223
+aV{W}
+p224
+aV{3}{G}
+p225
+aV{3}{B}
+p226
+aV{2}{W}
+p227
+aV{2}{R}
+p228
+aV{3}{R}
+p229
+aV{1}{G}{U}
+p230
+aV{R}{R}{R}{R}
+p231
+aS'0'
+p232
+aV{2}
+p233
+aV{1}{B}{R}
+p234
+aV{1}{B}{B}
+p235
+aV{1}{W}{W}
+p236
+aV{W}
+p237
+aV{15}
+p238
+aV{4}{R}
+p239
+aV{6}{R}
+p240
+aV{1}{B/R}
+p241
+aV{3}{R}
+p242
+aV{1}{R}
+p243
+aV{1}{R}
+p244
+aV{2}{B}
+p245
+aV{R}
+p246
+aV{1}{W}{W}
+p247
+aV{3}{G}
+p248
+aV{1}{G}
+p249
+aV{3}{U}{U}
+p250
+ag232
+aV{U}
+p251
+aV{X}{X}{B}{B}{B}{B}
+p252
+aV{2}{R}{R}
+p253
+aV{2}{U}{R}
+p254
+aV{G}
+p255
+aV{5}{G}{W}
+p256
+aV{1}{G}
+p257
+aV{1}
+p258
+aV{W}
+p259
+asS'names'
+p260
+(lp261
+VEmbersmith
+p262
+aVEmerald Oryx
+p263
+aVEmerald Medallion
+p264
+aVEmmessi Tome
+p265
+aVEmbargo
+p266
+aVEmpyrial Armor
+p267
+aVEmpty the Warrens
+p268
+aVEmblazoned Golem
+p269
+aVEmperor Crocodile
+p270
+aVEmber Weaver
+p271
+aVEmancipation Angel
+p272
+aVEmbermage Goblin
+p273
+aVEmber-Fist Zubera
+p274
+aVEmpty-Shrine Kannushi
+p275
+aVEmperor Crocodile
+p276
+aVEmpty the Catacombs
+p277
+aVEmbolden
+p278
+aVEmber Beast
+p279
+aVEmpty the Warrens
+p280
+aVEmber Beast
+p281
+aVEmeria Angel
+p282
+aVEmeria, the Sky Ruin
+p283
+aVEmpyrial Plate
+p284
+aVEmpyrial Archangel
+p285
+aVEmissary of Despair
+p286
+aVEmissary of Hope
+p287
+aVEmerge Unscathed
+p288
+aVEmrakul, the Aeons Torn
+p289
+aVEmrakul's Hatcher
+p290
+aVEmber Shot
+p291
+aVEmberstrike Duo
+p292
+aVEmber Gale
+p293
+aVEmberwilde Augur
+p294
+aVEmblem of the Warmind
+p295
+aVEmbalmed Brawler
+p296
+aVEmber Swallower
+p297
+aVEmpyrial Armor
+p298
+aVEmperor Crocodile
+p299
+aVEmerald Dragonfly
+p300
+aVEmpress Galina
+p301
+aVEmbrace My Diabolical Vision
+p302
+aVEmbodiment of Spring
+p303
+aVEmpty the Pits
+p304
+aVEmberwilde Djinn
+p305
+aVEmberwilde Caliph
+p306
+aVEmerald Charm
+p307
+aVEmmara Tandris
+p308
+aVEmerald Dragonfly
+p309
+aVEmber Hauler
+p310
+aVEmpty City Ruse
+p311
+asS'toughs'
+p312
+(lp313
+V2
+p314
+ag314
+aS'N/A'
+p315
+ag315
+ag315
+ag315
+ag315
+ag315
+aV3
+p316
+aV1
+p317
+ag314
+aV5
+p318
+ag314
+ag317
+aV4
+p319
+ag315
+ag315
+ag319
+ag315
+ag317
+ag314
+ag315
+ag315
+aV7
+p320
+ag318
+aV0
+p321
+ag315
+aV15
+p322
+ag316
+ag315
+aV6
+p323
+ag315
+ag321
+ag315
+ag314
+ag319
+ag315
+ag317
+ag317
+ag316
+ag315
+ag316
+ag315
+ag317
+ag317
+ag315
+ag320
+ag316
+ag317
+ag315
+asS'artists'
+p324
+(lp325
+VEric Deschamps
+p326
+aVDaren Bader
+p327
+aVSue Ellen Brown
+p328
+aVTom Wänerstrand
+p329
+aVNelson DeCastro
+p330
+aVD. Alexander Gregory
+p331
+ag192
+aVGreg Staples
+p332
+aVKev Walker
+p333
+aVSteve Prescott
+p334
+aVTodd Lockwood
+p335
+aVPete Venters
+p336
+aVRon Spencer
+p337
+aVRon Spears
+p338
+aVKev Walker
+p339
+aVMark A. Nelson
+p340
+aVRebecca Guay
+p341
+aVWayne England
+p342
+aVMark Brill
+p343
+aVDavid Rapoza
+p344
+aVJim Murray
+p345
+aVJaime Jones
+p346
+aVPaolo Parente
+p347
+aVGreg Staples
+p348
+aVrk post
+p349
+aVrk post
+p350
+aVSteve Argyle
+p351
+aVMark Tedin
+p352
+aVJaime Jones
+p353
+aVAlan Pollack
+p354
+aVAleksi Briclot
+p355
+aVSteve Prescott
+p356
+aVBrandon Kitkouski
+p357
+aVParente
+p358
+aVJustin Sweet
+p359
+aVSlawomir Maniak
+p360
+aVD. Alexander Gregory
+p361
+aVKev Walker
+p362
+aVQuinton Hoover
+p363
+aVMatt Cavotta
+p364
+aVFranz Vohwinkel
+p365
+aVWayne Reynolds
+p366
+aVRyan Alexander Lee
+p367
+aVMike Dringenberg
+p368
+aVJennifer Law
+p369
+aVGreg Spalenka
+p370
+aVMark Winters
+p371
+aVQuinton Hoover
+p372
+aVSteve Prescott
+p373
+aVQu Xin
+p374
+asS'powers'
+p375
+(lp376
+g314
+ag317
+ag315
+ag315
+ag315
+ag315
+ag315
+ag315
+ag316
+ag317
+ag316
+ag318
+ag317
+ag317
+ag319
+ag315
+ag315
+ag316
+ag315
+ag321
+ag316
+ag315
+ag315
+ag314
+ag316
+ag321
+ag315
+aV15
+p377
+ag316
+ag315
+ag323
+ag315
+aV8
+p378
+ag315
+ag314
+ag316
+ag315
+ag317
+ag321
+ag317
+ag315
+ag321
+ag315
+ag317
+ag317
+ag315
+ag318
+ag316
+ag314
+ag315
+asS'types'
+p379
+(lp380
+VCreature - Human Artificer
+p381
+aVCreature - Antelope
+p382
+aVArtifact
+p383
+aVArtifact
+p384
+aVEnchantment
+p385
+aVEnchantment - Aura
+p386
+aVSorcery
+p387
+aVArtifact Creature - Golem
+p388
+aVCreature - Crocodile
+p389
+aVCreature - Spider
+p390
+aVCreature - Angel
+p391
+aVCreature - Goblin Wizard
+p392
+aVCreature - Zubera Spirit
+p393
+aVCreature - Human Cleric
+p394
+aVCreature - Crocodile
+p395
+aVSorcery
+p396
+aVInstant
+p397
+aVCreature - Beast
+p398
+aVSorcery
+p399
+aVCreature - Beast
+p400
+aVCreature - Angel
+p401
+aVLand
+p402
+aVArtifact - Equipment
+p403
+aVCreature - Angel
+p404
+aVCreature - Spirit
+p405
+aVCreature - Spirit
+p406
+aVInstant
+p407
+aVLegendary Creature - Eldrazi
+p408
+aVCreature - Eldrazi Drone
+p409
+aVInstant
+p410
+aVCreature - Elemental Warrior Shaman
+p411
+aVSorcery
+p412
+aVCreature - Goblin Shaman
+p413
+aVEnchantment - Aura
+p414
+aVCreature - Zombie
+p415
+aVCreature - Elemental
+p416
+aVEnchantment - Aura
+p417
+aVCreature - Crocodile
+p418
+aVCreature - Insect
+p419
+aVLegendary Creature - Merfolk
+p420
+aVScheme
+p421
+aVCreature - Elemental
+p422
+aVInstant
+p423
+aVCreature - Djinn
+p424
+aVCreature - Djinn
+p425
+aVInstant
+p426
+aVLegendary Creature - Elf Shaman
+p427
+aVCreature - Insect
+p428
+aVCreature - Goblin
+p429
+aVSorcery
+p430
+asS'numbers'
+p431
+(lp432
+V87
+p433
+aV179
+p434
+ag323
+ag320
+aV77
+p435
+aV25
+p436
+ag192
+aV136
+p437
+aV241
+p438
+aV81
+p439
+aV19
+p440
+aV200
+p441
+aV166
+p442
+ag314
+aV105
+p443
+aV86
+p444
+aV22
+p445
+aV190
+p446
+aV152
+p447
+aV89
+p448
+aV11
+p449
+aV213
+p450
+aV168
+p451
+aV166
+p452
+aV42
+p453
+ag316
+aV20
+p454
+ag319
+aV142
+p455
+aV87
+p456
+aV185
+p457
+aV91
+p458
+aV97
+p459
+aV112
+p460
+aV69
+p461
+aV120
+p462
+aV104
+p463
+aV246
+p464
+aV19
+p465
+aV54
+p466
+aV9
+p467
+aV39
+p468
+aV72
+p469
+aV146
+p470
+aV209
+p471
+aV53
+p472
+aV68
+p473
+aV216
+p474
+aV135
+p475
+ag316
+as.

@@ -1,0 +1,139 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVUncommon
+p4
+aVCommon
+p5
+aVCommon
+p6
+aVCommon
+p7
+asS'editns'
+p8
+(lp9
+VTempest
+p10
+aVRavnica: City of Guilds
+p11
+aVCommander 2013 Edition
+p12
+aVRise of the Eldrazi
+p13
+aVTheros
+p14
+asS'ids'
+p15
+(lp16
+V4714
+p17
+aV88963
+p18
+aV376411
+p19
+aV193491
+p20
+aV373658
+p21
+asS'texts'
+p22
+(lp23
+VAt the beginning of your upkeep, you may look at the top card of target opponent's library. If you do, you may put that card on the bottom of that player's library.
+p24
+aV{2}{G}, {T}: Return target enchantment card from your graveyard to your hand.
+p25
+aVDefender<br>When Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.
+p26
+aVR
+p27
+aVNemesis of Mortals costs {1} less to cast for each creature card in your graveyard.<br>{7}{G}{G}: Monstrosity 5. This ability costs {1} less to activate for each creature card in your graveyard. <i>(If this creature isn't monstrous, put five +1/+1 counters on it and it becomes monstrous.)</i>
+p28
+asS'costs'
+p29
+(lp30
+V{2}{U}
+p31
+aV{3}{U}
+p32
+aV{4}{U}
+p33
+aV{G}
+p34
+aV{2}{R}
+p35
+asS'names'
+p36
+(lp37
+VMnemonic Sliver
+p38
+aVMnemonic Nexus
+p39
+aVMnemonic Wall
+p40
+aVMnemonic Wall
+p41
+aVMnemonic Wall
+p42
+asS'toughs'
+p43
+(lp44
+V2
+p45
+aS'N/A'
+p46
+aV1
+p47
+ag47
+aV4
+p48
+asS'artists'
+p49
+(lp50
+VRandy Gallegos
+p51
+aVStephen Tappin
+p52
+aVVance Kovacs
+p53
+aVVance Kovacs
+p54
+aVTrevor Claxton
+p55
+asS'powers'
+p56
+(lp57
+g45
+ag46
+ag47
+ag45
+ag48
+asS'types'
+p58
+(lp59
+VCreature - Sliver
+p60
+aVInstant
+p61
+aVCreature - Wall
+p62
+aVCreature - Wall
+p63
+aVCreature - Wall
+p64
+asS'numbers'
+p65
+(lp66
+V84
+p67
+aV59
+p68
+aV50
+p69
+aV78
+p70
+aV55
+p71
+as.

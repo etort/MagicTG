@@ -1,0 +1,1349 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVRare
+p4
+aVRare
+p5
+aVUncommon
+p6
+aVRare
+p7
+aVMythic Rare
+p8
+aVRare
+p9
+aVCommon
+p10
+aVMythic Rare
+p11
+aVCommon
+p12
+aVUncommon
+p13
+aVUncommon
+p14
+aVCommon
+p15
+aVCommon
+p16
+aVRare
+p17
+aVRare
+p18
+aVRare
+p19
+aVCommon
+p20
+aVRare
+p21
+aVRare
+p22
+aVRare
+p23
+aVRare
+p24
+aVUncommon
+p25
+aVRare
+p26
+aVCommon
+p27
+aVRare
+p28
+aVRare
+p29
+aVUncommon
+p30
+aVCommon
+p31
+aVCommon
+p32
+aVRare
+p33
+aVUncommon
+p34
+aVCommon
+p35
+aVUncommon
+p36
+aVCommon
+p37
+aVCommon
+p38
+aVCommon
+p39
+aVCommon
+p40
+aVUncommon
+p41
+aVCommon
+p42
+aVCommon
+p43
+aVCommon
+p44
+aVRare
+p45
+aVMythic Rare
+p46
+aVCommon
+p47
+aVRare
+p48
+aVCommon
+p49
+aVMythic Rare
+p50
+aVCommon
+p51
+aVCommon
+p52
+aVRare
+p53
+aVUncommon
+p54
+aVRare
+p55
+aVRare
+p56
+aVRare
+p57
+aVUncommon
+p58
+aVUncommon
+p59
+aVRare
+p60
+aVUncommon
+p61
+aVCommon
+p62
+aVUncommon
+p63
+aVRare
+p64
+aVUncommon
+p65
+aVRare
+p66
+aVRare
+p67
+aVSpecial
+p68
+asS'editns'
+p69
+(lp70
+VMagic: The Gathering-Commander
+p71
+aVLimited Edition Beta
+p72
+aVFourth Edition
+p73
+aVPlanar Chaos
+p74
+aVFrom the Vault: Dragons
+p75
+aVScars of Mirrodin
+p76
+aVVintage Masters
+p77
+aVModern Masters
+p78
+aVModern Masters
+p79
+aVMirrodin Besieged
+p80
+aVMasters Edition III
+p81
+aVMasters Edition III
+p82
+aVMasters Edition III
+p83
+aVMasters Edition III
+p84
+aVMasters Edition III
+p85
+aVRevised Edition
+p86
+aVPlanechase 2012 Edition
+p87
+aVChampions of Kamigawa
+p88
+aVChampions of Kamigawa
+p89
+aVChampions of Kamigawa
+p90
+aVChampions of Kamigawa
+p91
+aVChampions of Kamigawa
+p92
+aVChampions of Kamigawa
+p93
+aVChampions of Kamigawa
+p94
+aVChampions of Kamigawa
+p95
+aVBetrayers of Kamigawa
+p96
+aVCommander 2013 Edition
+p97
+aVReturn to Ravnica
+p98
+aVReturn to Ravnica
+p99
+aVExodus
+p100
+aVUnlimited Edition
+p101
+aVZendikar
+p102
+aVZendikar
+p103
+aVZendikar
+p104
+aVZendikar
+p105
+aVZendikar
+p106
+aVZendikar
+p107
+aVZendikar
+p108
+aVDuel Decks: Elspeth vs. Tezzeret
+p109
+aVDuel Decks: Elspeth vs. Tezzeret
+p110
+aVDuel Decks: Elspeth vs. Tezzeret
+p111
+aVRise of the Eldrazi
+p112
+aVRise of the Eldrazi
+p113
+aVRise of the Eldrazi
+p114
+aVRise of the Eldrazi
+p115
+aVFuture Sight
+p116
+aVPlanechase
+p117
+aVDuel Decks: Venser vs. Koth
+p118
+aVDuel Decks: Venser vs. Koth
+p119
+aVMagic: The Gathering\u2014Conspiracy
+p120
+aVNemesis
+p121
+aVWorldwake
+p122
+aVLimited Edition Alpha
+p123
+aVVisions
+p124
+aVMasters Edition IV
+p125
+aVDragon's Maze
+p126
+aVLegends
+p127
+aVLegends
+p128
+aVLegends
+p129
+aVLegends
+p130
+aVDuel Decks: Izzet vs. Golgari
+p131
+aVHomelands
+p132
+aVHomelands
+p133
+aVPortal Three Kingdoms
+p134
+aVPortal Three Kingdoms
+p135
+aVTime Spiral "Timeshifted"
+p136
+asS'ids'
+p137
+(lp138
+V247174
+p139
+aV322
+p140
+aV2055
+p141
+aV131006
+p142
+aV178022
+p143
+aV212238
+p144
+aV382991
+p145
+aV370417
+p146
+aV370502
+p147
+aV213766
+p148
+aV201148
+p149
+aV201149
+p150
+aV201150
+p151
+aV201151
+p152
+aV201282
+p153
+aV1121
+p154
+aV271151
+p155
+aV50299
+p156
+aV50445
+p157
+aV50488
+p158
+aV76637
+p159
+aV78594
+p160
+aV79201
+p161
+aV80288
+p162
+aV81702
+p163
+aV74086
+p164
+aV376393
+p165
+aV270364
+p166
+aV270797
+p167
+aV6045
+p168
+aV624
+p169
+aV177530
+p170
+aV170991
+p171
+aV177542
+p172
+aV178131
+p173
+aV189637
+p174
+aV192214
+p175
+aV178145
+p176
+aV226714
+p177
+aV222763
+p178
+aV222764
+p179
+aV193550
+p180
+aV193544
+p181
+aV193632
+p182
+aV198303
+p183
+aV136208
+p184
+aV205342
+p185
+aV266362
+p186
+aV270875
+p187
+aV382294
+p188
+aV21403
+p189
+aV194708
+p190
+aV27
+p191
+aV3693
+p192
+aV202499
+p193
+aV369064
+p194
+aV1580
+p195
+aV1581
+p196
+aV1582
+p197
+aV1583
+p198
+aV338415
+p199
+aV2927
+p200
+aV3038
+p201
+aV10490
+p202
+aV10495
+p203
+aV106664
+p204
+asS'texts'
+p205
+(lp206
+VSearch your library for two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.
+p207
+aVAll Forests are 1/1 creatures that are still lands.
+p208
+aVOther Merfolk creatures get +1/+1 and have islandwalk.
+p209
+aVAll damage that would be dealt this turn to target creature you control by a source of your choice is dealt to another target creature instead.
+p210
+aVFlying<br>When Kokusho, the Evening Star dies, each opponent loses 5 life. You gain life equal to the life lost this way.
+p211
+aV{T}, Sacrifice three artifacts: Search your library for an artifact card and put it onto the battlefield. Then shuffle your library.
+p212
+aVProvoke <i>(When this attacks, you may have target creature defending player controls untap and block it if able.)</i><br>Krosan Vorine can't be blocked by more than one creature.
+p213
+aVSearch your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.
+p214
+aVFlying<br>When Kokusho, the Evening Star dies, each opponent loses 5 life. You gain life equal to the life lost this way.
+p215
+aVWhen Kuldotha Flamefiend enters the battlefield, you may sacrifice an artifact. If you do, Kuldotha Flamefiend deals 4 damage divided as you choose among any number of target creatures and/or players.
+p216
+aVWhenever Labyrinth Minotaur blocks a creature, that creature doesn't untap during its controller's next untap step.
+p217
+aV{T}: Lady Caleria deals 3 damage to target attacking or blocking creature.
+p218
+aV{W}{B}, {T}: Prevent all combat damage that would be dealt by target creature this turn.
+p219
+aVIf an opponent who controls at least as many lands as you do would put a land onto the battlefield, that player instead puts that land onto the battlefield then sacrifices a land.
+p220
+aVAt the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, and put them into your hand. If you do, shuffle your library.
+p221
+aVBlue creatures don't untap during their controllers' untap steps.<br>At the beginning of each player's upkeep, that player may choose any number of tapped blue creatures he or she controls and pay {4} for each creature chosen this way. If the player does, untap those creatures.
+p222
+aVFlying, vigilance<br>Whenever Krond the Dawn-Clad attacks, if it's enchanted, exile target permanent.
+p223
+aVSearch your library for two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.
+p224
+aVEnchant creature<br>Enchanted creature has "{B}: This creature gets +1/+1 until end of turn."
+p225
+aVFlash<br>Enchant creature<br>Enchanted creature gets +1/+2.
+p226
+aV{1}: Look at the top card of your library.<br>{2}: Reveal the top card of your library. If it's a land card, Brutal Deceiver gets +1/+0 and gains first strike until end of turn. Activate this ability only once each turn.
+p227
+aVFlying<br>{1}, Sacrifice a Spirit: Target opponent reveals his or her hand. You choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.<br>Soulshift 4 <i>(When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)</i>
+p228
+aV{T}: Add {W} to your mana pool.<br>{W}, {T}: Prevent the next 2 damage that would be dealt to target legendary creature this turn.
+p229
+aVPrevent the next 3 damage that would be dealt to target creature or player this turn. You gain life equal to the damage prevented this way.<br>Splice onto Arcane {1}{W} <i>(As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)</i>
+p230
+aVAt the beginning of your upkeep, sacrifice Kuro, Pitlord unless you pay {B}{B}{B}{B}.<br>Pay 1 life: Target creature gets -1/-1 until end of turn.
+p231
+aVKodama of the Center Tree's power and toughness are each equal to the number of Spirits you control.<br>Kodama of the Center Tree has soulshift X, where X is the number of Spirits you control. <i>(When this creature dies, you may return target Spirit card with converted mana cost X or less from your graveyard to your hand.)</i>
+p232
+aVOther creatures you control get +1/+1.
+p233
+aVTrample<br>Discard a creature card: Put a +1/+1 counter on Lotleth Troll.<br>{B}: Regenerate Lotleth Troll.
+p234
+aVLoxodon Smiter can't be countered.<br>If a spell or ability an opponent controls causes you to discard Loxodon Smiter, put it onto the battlefield instead of putting it into your graveyard.
+p235
+aVAll damage that would be dealt this turn to target creature you control by a source of your choice is dealt to another target creature instead.
+p236
+aVOther Merfolk creatures get +1/+1 and have islandwalk.
+p237
+aVKicker {1}{W} <i>(You may pay an additional {1}{W} as you cast this spell.)</i><br>Flying<br>When Kor Aeronaut enters the battlefield, if it was kicked, target creature gains flying until end of turn.
+p238
+aVWhen Kor Cartographer enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle your library.
+p239
+aVAs long as Kor Duelist is equipped, it has double strike. <i>(It deals both first-strike and regular combat damage.)</i>
+p240
+aVWhen Kor Hookmaster enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
+p241
+aVWhen Kor Outfitter enters the battlefield, you may attach target Equipment you control to target creature you control.
+p242
+aVKicker {W} <i>(You may pay an additional {W} as you cast this spell.)</i><br>When Kor Sanctifiers enters the battlefield, if it was kicked, destroy target artifact or enchantment.
+p243
+aVFlying<br>When Kor Skyfisher enters the battlefield, return a permanent you control to its owner's hand.
+p244
+aVFlying<br>When Kor Skyfisher enters the battlefield, return a permanent you control to its owner's hand.
+p245
+aVWhen Loyal Sentry blocks a creature, destroy that creature and Loyal Sentry.
+p246
+aVMaster of Etherium's power and toughness are each equal to the number of artifacts you control.<br>Other artifact creatures you control get +1/+1.
+p247
+aVWhen you cast Kozilek, Butcher of Truth, draw four cards.<br>Annihilator 4 <i>(Whenever this creature attacks, defending player sacrifices four permanents.)</i><br>When Kozilek is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.
+p248
+aVWhen Kozilek's Predator enters the battlefield, put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."
+p249
+aVLast Kiss deals 2 damage to target creature and you gain 2 life.
+p250
+aV{8}: Creatures you control get +3/+0 until end of turn.
+p251
+aV{2}: Sarcomite Myr gains flying until end of turn.<br>{2}, Sacrifice Sarcomite Myr: Draw a card.
+p252
+aVKicker {W} <i>(You may pay an additional {W} as you cast this spell.)</i><br>When Kor Sanctifiers enters the battlefield, if it was kicked, destroy target artifact or enchantment.
+p253
+aV+1: Untap target Mountain. It becomes a 4/4 red Elemental creature until end of turn. It's still a land.<br>-2: Add {R} to your mana pool for each Mountain you control.<br>-5: You get an emblem with "Mountains you control have \u2018{T}: This land deals 1 damage to target creature or player.'"
+p254
+aVWhen Kor Cartographer enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle your library.
+p255
+aVAll damage that would be dealt this turn to target creature you control by a source of your choice is dealt to another target creature instead.
+p256
+aV{T}: Add {1} to your mana pool.<br><br>{1}{W}, {T}: Prevent all combat damage that would be dealt by target attacking creature this turn.
+p257
+aVLavaclaw Reaches enters the battlefield tapped.<br>{T}: Add {B} or {R} to your mana pool.<br>{1}{B}{R}: Until end of turn, Lavaclaw Reaches becomes a 2/2 black and red Elemental creature with "{X}: This creature gets +X/+0 until end of turn." It's still a land.
+p258
+aV{T}: Add {U} to your mana pool.
+p259
+aVWhenever a player casts a red spell, you may pay {R}. If you do, Lightning Cloud deals 1 damage to target creature or player.
+p260
+aV{T}: Add {1} to your mana pool.<br>{T}: Draw a card. Activate this ability only if you have exactly seven cards in hand.
+p261
+aV{5}{G}: Kraul Warrior gets +3/+3 until end of turn.
+p262
+aVOther Kobold creatures you control get +1/+0.
+p263
+aVKobolds of Kher Keep is red.
+p264
+aV{T}: If target Plains is tapped for mana, it produces colorless mana instead of white mana. <i>(This effect lasts indefinitely.)</i>
+p265
+aVAt the beginning of each player's upkeep, Storm World deals X damage to that player, where X is 4 minus the number of cards in his or her hand.
+p266
+aV{1}{B}{G}: Target creature gets +1/+1 and gains intimidate until end of turn.<br>{2}{B}{G}, Sacrifice a nontoken creature: Put X 1/1 green Saproling creature tokens onto the battlefield, where X is the sacrificed creature's toughness.
+p267
+aVAt the beginning of your upkeep, sacrifice Koskun Falls unless you tap an untapped creature you control.<br>Creatures can't attack you unless their controller pays {2} for each creature he or she controls that's attacking you.
+p268
+aV{T}: Add {1} to your mana pool.<br><br>{1}, {T}: Add {U} to your mana pool.<br><br>{2}, {T}: Add {W} or {B} to your mana pool.
+p269
+aVSacrifice Loyal Retainers: Return target legendary creature card from your graveyard to the battlefield. Activate this ability only during your turn, before attackers are declared.
+p270
+aVTarget creature gets +3/+3 and gains horsemanship until end of turn. <i>(It can't be blocked except by creatures with horsemanship.)</i>
+p271
+aVOther Kobold creatures you control get +1/+0.
+p272
+asS'costs'
+p273
+(lp274
+V{5}{B}{G}{W}
+p275
+aV{4}
+p276
+aV{4}
+p277
+aV{2}{B}
+p278
+aV{4}{B}{B}
+p279
+aS'0'
+p280
+aV{3}{U}{U}
+p281
+aV{2}{G}
+p282
+aV{4}{B}{B}
+p283
+aV{1}{R}{R}
+p284
+aV{1}{R}
+p285
+aV{1}{R}
+p286
+aV{1}{R}
+p287
+aV{0}
+p288
+aV{2}{W}{W}
+p289
+aV{4}
+p290
+aV{1}{W}
+p291
+aV{2}{G}
+p292
+aV{4}{B}{B}
+p293
+aV{2}{G}{G}{G}
+p294
+aV{2}
+p295
+aV{5}{W}{W}
+p296
+aV{1}{W}
+p297
+aV{2}{G}{G}
+p298
+aV{G}
+p299
+aV{4}{G}
+p300
+aV{2}{W}{W}
+p301
+aV{4}{W}
+p302
+aV{B}{G}
+p303
+aV{2}{W}
+p304
+aV{4}
+p305
+aV{1}{G}
+p306
+aV{W}{W}
+p307
+aV{3}{W}
+p308
+aV{W}
+p309
+aV{2}{W}
+p310
+aV{W}{W}
+p311
+aV{2}{W}
+p312
+aV{1}{W}{W}
+p313
+aV{W}{W}
+p314
+aV{2}{W}
+p315
+aV{1}{W}
+p316
+aV{1}{W}
+p317
+aV{1}{W}
+p318
+aV{10}
+p319
+aV{2}{B}{B}
+p320
+aV{2}{W}
+p321
+ag280
+aV{1}{W}{U}
+p322
+aV{4}{U}{U}
+p323
+ag280
+aV{W}
+p324
+aV{4}
+p325
+aV{3}{R}{R}
+p326
+aV{4}
+p327
+aV{3}{B}{G}
+p328
+aV{1}{R}
+p329
+aV{1}{R}
+p330
+aV{1}{R}
+p331
+aV{0}
+p332
+aV{B}{G}
+p333
+aV{2}{B}{B}
+p334
+ag280
+aV{2}{W}{W}
+p335
+aV{3}{W}
+p336
+aV{1}{R}
+p337
+asS'names'
+p338
+(lp339
+VKodama's Reach
+p340
+aVKormus Bell
+p341
+aVKormus Bell
+p342
+aVKor Dirge
+p343
+aVKokusho, the Evening Star
+p344
+aVKoth of the Hammer
+p345
+aVKongming, "Sleeping Dragon"
+p346
+aVKodama's Reach
+p347
+aVKokusho, the Evening Star
+p348
+aVKoth's Courier
+p349
+aVKobold Drill Sergeant
+p350
+aVKobold Overlord
+p351
+aVKobold Taskmaster
+p352
+aVKobolds of Kher Keep
+p353
+aVKongming, "Sleeping Dragon"
+p354
+aVKormus Bell
+p355
+aVKor Spiritdancer
+p356
+aVKodama's Reach
+p357
+aVKokusho, the Evening Star
+p358
+aVKodama of the North Tree
+p359
+aVKonda's Banner
+p360
+aVKonda, Lord of Eiganjo
+p361
+aVKonda's Hatamoto
+p362
+aVKodama of the South Tree
+p363
+aVKodama's Might
+p364
+aVKodama of the Center Tree
+p365
+aVKongming, "Sleeping Dragon"
+p366
+aVKorozda Guildmage
+p367
+aVKorozda Monitor
+p368
+aVKor Chant
+p369
+aVKormus Bell
+p370
+aVKor Aeronaut
+p371
+aVKor Cartographer
+p372
+aVKor Duelist
+p373
+aVKor Hookmaster
+p374
+aVKor Outfitter
+p375
+aVKor Sanctifiers
+p376
+aVKor Skyfisher
+p377
+aVKor Aeronaut
+p378
+aVKor Hookmaster
+p379
+aVKor Skyfisher
+p380
+aVKor Line-Slinger
+p381
+aVKor Spiritdancer
+p382
+aVKozilek, Butcher of Truth
+p383
+aVKozilek's Predator
+p384
+aVKorlash, Heir to Blackblade
+p385
+aVKor Sanctifiers
+p386
+aVKoth of the Hammer
+p387
+aVKor Cartographer
+p388
+aVKor Chant
+p389
+aVKor Haven
+p390
+aVKor Firewalker
+p391
+aVKormus Bell
+p392
+aVKookus
+p393
+aVKormus Bell
+p394
+aVKorozda Gorgon
+p395
+aVKobold Drill Sergeant
+p396
+aVKobold Overlord
+p397
+aVKobold Taskmaster
+p398
+aVKobolds of Kher Keep
+p399
+aVKorozda Guildmage
+p400
+aVKoskun Falls
+p401
+aVKoskun Keep
+p402
+aVKongming, "Sleeping Dragon"
+p403
+aVKongming's Contraptions
+p404
+aVKobold Taskmaster
+p405
+asS'toughs'
+p406
+(lp407
+S'N/A'
+p408
+ag408
+ag408
+ag408
+aV8
+p409
+ag408
+aV2
+p410
+ag408
+aV5
+p411
+aV1
+p412
+aV4
+p413
+ag410
+ag410
+ag410
+ag412
+ag408
+ag413
+ag408
+ag411
+ag413
+ag408
+aV3
+p414
+ag410
+ag413
+ag408
+aV*
+p415
+ag410
+ag410
+ag410
+ag408
+ag408
+ag412
+ag414
+ag410
+ag410
+ag412
+ag410
+ag410
+ag413
+ag414
+ag410
+ag410
+ag410
+ag412
+ag410
+ag412
+ag414
+ag408
+ag409
+ag408
+ag408
+ag413
+ag408
+ag411
+ag408
+ag411
+ag410
+ag410
+ag410
+ag410
+ag410
+ag408
+ag408
+ag410
+ag413
+ag410
+asS'artists'
+p416
+(lp417
+VHeather Hudson
+p418
+aVChristopher Rush
+p419
+aVChristopher Rush
+p420
+aVAlex Horley-Orlandelli
+p421
+aVTsutomu Kawade
+p422
+aVJason Chan
+p423
+aVGao Yan
+p424
+aS''
+p425
+ag425
+ag425
+aVJulie Baroh
+p426
+aVRandy Asplund
+p427
+aVJulie Baroh
+p428
+aVGao Yan
+p429
+aVAnson Maddocks
+p430
+aVChristopher Rush
+p431
+ag425
+aVHeather Hudson
+p432
+aVTsutomu Kawade
+p433
+aVShishizaru
+p434
+aVDonato Giancola
+p435
+aVJohn Bolton
+p436
+aVLars Grant-West
+p437
+aVRon Spears
+p438
+aVTerese Nielsen
+p439
+aVJim Murray
+p440
+aVGao Yan
+p441
+aVRyan Pancoast
+p442
+aVLars Grant-West
+p443
+aVJohn Matson
+p444
+aVChristopher Rush
+p445
+aVKarl Kopinski
+p446
+aVRyan Pancoast
+p447
+aVIzzy
+p448
+aVWayne Reynolds
+p449
+aVKieran Yanner
+p450
+aVDan Scott
+p451
+aVDan Scott
+p452
+aVKarl Kopinski
+p453
+aVWayne Reynolds
+p454
+aVDan Scott
+p455
+aVSteve Prescott
+p456
+aVScott Chou
+p457
+aVMichael Komarck
+p458
+aVSteve Argyle
+p459
+aVDaarken
+p460
+aVDan Scott
+p461
+ag425
+ag425
+aVYohann Schepacz
+p462
+aVDarrell Riche
+p463
+aVMatt Stewart
+p464
+aVChristopher Rush
+p465
+aVScott Hampton
+p466
+aVChristopher Rush
+p467
+aVVolkan Baga
+p468
+aVJulie Baroh
+p469
+aVJulie Baroh
+p470
+aVRandy Asplund-Faith
+p471
+aVJulie Baroh
+p472
+aVRyan Pancoast
+p473
+aVRob Alexander
+p474
+aVPat Morrissey
+p475
+aVGao Yan
+p476
+aVJiaming
+p477
+aVRandy Asplund
+p478
+asS'powers'
+p479
+(lp480
+g408
+ag408
+ag408
+ag408
+ag409
+ag408
+ag410
+ag408
+ag411
+ag410
+ag410
+ag412
+ag412
+ag412
+aV0
+p481
+ag408
+ag411
+ag408
+ag411
+aV6
+p482
+ag408
+ag414
+ag412
+ag413
+ag408
+ag415
+ag410
+ag410
+ag414
+ag408
+ag408
+ag414
+ag410
+ag410
+ag412
+ag410
+ag410
+ag410
+ag413
+ag410
+ag410
+ag410
+ag481
+ag481
+aV12
+p483
+ag412
+ag481
+ag408
+ag412
+ag408
+ag408
+ag412
+ag408
+ag411
+ag408
+ag410
+ag410
+ag412
+ag412
+ag412
+ag410
+ag408
+ag408
+ag410
+ag410
+ag412
+asS'types'
+p484
+(lp485
+VSorcery - Arcane
+p486
+aVArtifact
+p487
+aVArtifact
+p488
+aVInstant
+p489
+aVLegendary Creature - Dragon Spirit
+p490
+aVPlaneswalker - Koth
+p491
+aVLegendary Creature - Human Advisor
+p492
+aVSorcery - Arcane
+p493
+aVLegendary Creature - Dragon Spirit
+p494
+aVCreature - Human Rogue
+p495
+aVCreature - Kobold Soldier
+p496
+aVCreature - Kobold
+p497
+aVCreature - Kobold
+p498
+aVCreature - Kobold
+p499
+aVLegendary Creature - Human Advisor
+p500
+aVArtifact
+p501
+aVCreature - Kor Wizard
+p502
+aVSorcery - Arcane
+p503
+aVLegendary Creature - Dragon Spirit
+p504
+aVLegendary Creature - Spirit
+p505
+aVLegendary Artifact - Equipment
+p506
+aVLegendary Creature - Human Samurai
+p507
+aVCreature - Human Samurai
+p508
+aVLegendary Creature - Spirit
+p509
+aVInstant - Arcane
+p510
+aVLegendary Creature - Spirit
+p511
+aVLegendary Creature - Human Advisor
+p512
+aVCreature - Elf Shaman
+p513
+aVCreature - Lizard
+p514
+aVInstant
+p515
+aVArtifact
+p516
+aVCreature - Kor Soldier
+p517
+aVCreature - Kor Scout
+p518
+aVCreature - Kor Soldier
+p519
+aVCreature - Kor Soldier
+p520
+aVCreature - Kor Soldier
+p521
+aVCreature - Kor Cleric
+p522
+aVCreature - Kor Soldier
+p523
+aVCreature - Kor Soldier
+p524
+aVCreature - Kor Soldier
+p525
+aVCreature - Kor Soldier
+p526
+aVCreature - Kor Scout
+p527
+aVCreature - Kor Wizard
+p528
+aVLegendary Creature - Eldrazi
+p529
+aVCreature - Eldrazi Drone
+p530
+aVLegendary Creature - Zombie Warrior
+p531
+aVCreature - Kor Cleric
+p532
+aVPlaneswalker - Koth
+p533
+aVCreature - Kor Scout
+p534
+aVInstant
+p535
+aVLegendary Land
+p536
+aVCreature - Kor Soldier
+p537
+aVArtifact
+p538
+aVCreature - Djinn
+p539
+aVArtifact
+p540
+aVCreature - Gorgon
+p541
+aVCreature - Kobold Soldier
+p542
+aVCreature - Kobold
+p543
+aVCreature - Kobold
+p544
+aVCreature - Kobold
+p545
+aVCreature - Elf Shaman
+p546
+aVWorld Enchantment
+p547
+aVLand
+p548
+aVLegendary Creature - Human Advisor
+p549
+aVCreature - Human Soldier
+p550
+aVCreature - Kobold
+p551
+asS'numbers'
+p552
+(lp553
+V163
+p554
+aV149
+p555
+aV250
+p556
+aV87
+p557
+aV9
+p558
+aV94
+p559
+aV33
+p560
+ag425
+ag425
+aV68
+p561
+aV104
+p562
+aV105
+p563
+aV106
+p564
+aV107
+p565
+aV16
+p566
+aV172
+p567
+aV109
+p568
+aV225
+p569
+aV122
+p570
+aV222
+p571
+aV259
+p572
+aV30
+p573
+aV31
+p574
+aV223
+p575
+aV224
+p576
+aV131
+p577
+aV16
+p578
+aV176
+p579
+aV129
+p580
+ag558
+aV150
+p581
+aV17
+p582
+aV18
+p583
+aV19
+p584
+aV20
+p585
+aV21
+p586
+aV22
+p587
+aV23
+p588
+aV10
+p589
+aV12
+p590
+ag409
+aV30
+p591
+aV31
+p592
+ag482
+aV193
+p593
+aV87
+p594
+ag414
+ag425
+ag425
+aV73
+p595
+aV141
+p596
+aV11
+p597
+aV59
+p598
+aV71
+p599
+aV210
+p600
+aV78
+p601
+aV99
+p602
+aV100
+p603
+aV101
+p604
+aV102
+p605
+aV52
+p606
+aV17
+p607
+aV80
+p608
+ag558
+aV10
+p609
+aV65
+p610
+as.

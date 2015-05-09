@@ -1,0 +1,1414 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVCommon
+p4
+aVCommon
+p5
+aVRare
+p6
+aVCommon
+p7
+aVRare
+p8
+aVCommon
+p9
+aVRare
+p10
+aVUncommon
+p11
+aVMythic Rare
+p12
+aVCommon
+p13
+aVRare
+p14
+aVUncommon
+p15
+aVRare
+p16
+aVRare
+p17
+aVRare
+p18
+aVRare
+p19
+aVUncommon
+p20
+aVRare
+p21
+aVCommon
+p22
+aVRare
+p23
+aVRare
+p24
+aVCommon
+p25
+aVUncommon
+p26
+aVCommon
+p27
+aVUncommon
+p28
+aVRare
+p29
+aVRare
+p30
+aVRare
+p31
+aVRare
+p32
+aVCommon
+p33
+aVUncommon
+p34
+aVRare
+p35
+aVRare
+p36
+aVCommon
+p37
+aVCommon
+p38
+aVMythic Rare
+p39
+aVRare
+p40
+aVRare
+p41
+aVUncommon
+p42
+aVUncommon
+p43
+aVRare
+p44
+aVRare
+p45
+aVRare
+p46
+aVRare
+p47
+aVCommon
+p48
+aVCommon
+p49
+aVUncommon
+p50
+aVUncommon
+p51
+aVRare
+p52
+aVCommon
+p53
+aVUncommon
+p54
+aVUncommon
+p55
+aVCommon
+p56
+aVRare
+p57
+aVRare
+p58
+aVUncommon
+p59
+aVCommon
+p60
+aVUncommon
+p61
+aVUncommon
+p62
+aVRare
+p63
+aVRare
+p64
+aVRare
+p65
+aVRare
+p66
+aVCommon
+p67
+aVRare
+p68
+aVSpecial
+p69
+aVRare
+p70
+aVRare
+p71
+asS'editns'
+p72
+(lp73
+VMagic: The Gathering-Commander
+p74
+aVMagic: The Gathering-Commander
+p75
+aVMagic 2012
+p76
+aVMagic 2012
+p77
+aVSaviors of Kamigawa
+p78
+aVMorningtide
+p79
+aVMagic 2013
+p80
+aVMagic 2013
+p81
+aVPlanar Chaos
+p82
+aVFrom the Vault: Legends
+p83
+aVMagic 2010
+p84
+aVMagic 2014 Core Set
+p85
+aVMagic 2014 Core Set
+p86
+aVMagic 2014 Core Set
+p87
+aVTenth Edition
+p88
+aVTenth Edition
+p89
+aVModern Masters
+p90
+aVApocalypse
+p91
+aVMasters Edition III
+p92
+aVGuildpact
+p93
+aVEventide
+p94
+aVEventide
+p95
+aVEventide
+p96
+aVPlanechase 2012 Edition
+p97
+aVDuel Decks: Sorin vs. Tibalt
+p98
+aVOnslaught
+p99
+aVOnslaught
+p100
+aVOnslaught
+p101
+aVChampions of Kamigawa
+p102
+aVUrza's Destiny
+p103
+aVRavnica: City of Guilds
+p104
+aVRavnica: City of Guilds
+p105
+aVRavnica: City of Guilds
+p106
+aVOdyssey
+p107
+aVReturn to Ravnica
+p108
+aVReturn to Ravnica
+p109
+aVGatecrash
+p110
+aVExodus
+p111
+aVClassic Sixth Edition
+p112
+aVMirrodin
+p113
+aVRise of the Eldrazi
+p114
+aVRise of the Eldrazi
+p115
+aVFifth Dawn
+p116
+aVFifth Dawn
+p117
+aVPlanechase
+p118
+aVPlanechase
+p119
+aVDuel Decks: Venser vs. Koth
+p120
+aVUrza's Saga
+p121
+aVWeatherlight
+p122
+aVWeatherlight
+p123
+aVMagic: The Gathering\u2014Conspiracy
+p124
+aVMagic: The Gathering\u2014Conspiracy
+p125
+aVNemesis
+p126
+aVNemesis
+p127
+aVInvasion
+p128
+aVJourney into Nyx
+p129
+aVAlara Reborn
+p130
+aVInnistrad
+p131
+aVVisions
+p132
+aVDragon's Maze
+p133
+aVDissension
+p134
+aVDuel Decks: Izzet vs. Golgari
+p135
+aVLorwyn
+p136
+aVLorwyn
+p137
+aVMagic 2011
+p138
+aVPortal Three Kingdoms
+p139
+aVTime Spiral "Timeshifted"
+p140
+aVPlaneshift
+p141
+aVPlaneshift
+p142
+asS'ids'
+p143
+(lp144
+V247204
+p145
+aV247322
+p146
+aV226560
+p147
+aV220152
+p148
+aV87332
+p149
+aV152526
+p150
+aV276208
+p151
+aV288992
+p152
+aV126025
+p153
+aV244674
+p154
+aV190535
+p155
+aV370783
+p156
+aV370609
+p157
+aV370699
+p158
+aV129880
+p159
+aV135243
+p160
+aV370387
+p161
+aV26733
+p162
+aV201123
+p163
+aV97221
+p164
+aV146010
+p165
+aV151154
+p166
+aV153039
+p167
+aV271210
+p168
+aV368503
+p169
+aV39743
+p170
+aV40197
+p171
+aV39549
+p172
+aV80524
+p173
+aV15168
+p174
+aV87921
+p175
+aV88968
+p176
+aV89116
+p177
+aV31789
+p178
+aV265417
+p179
+aV265374
+p180
+aV366367
+p181
+aV5139
+p182
+aV15397
+p183
+aV48571
+p184
+aV193600
+p185
+aV193584
+p186
+aV51135
+p187
+aV73559
+p188
+aV205329
+p189
+aV205379
+p190
+aV270854
+p191
+aV5723
+p192
+aV4513
+p193
+aV4454
+p194
+aV382252
+p195
+aV382253
+p196
+aV21303
+p197
+aV21338
+p198
+aV23059
+p199
+aV380405
+p200
+aV179544
+p201
+aV237364
+p202
+aV3749
+p203
+aV369089
+p204
+aV107428
+p205
+aV292979
+p206
+aV140201
+p207
+aV140206
+p208
+aV205088
+p209
+aV10730
+p210
+aV109736
+p211
+aV23051
+p212
+aV26423
+p213
+asS'texts'
+p214
+(lp215
+VFlying<br>At the beginning of your upkeep, you may gain control of target permanent until end of turn. If you do, untap it and it gains haste until end of turn.
+p216
+aVDestroy target nonblack creature.
+p217
+aVFlying<br>{B}: Drifting Shade gets +1/+1 until end of turn.
+p218
+aVDrowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.<br>{T}: Add {U} or {B} to your mana pool.
+p219
+aVYou gain 6 life.<br>Draw a card.
+p220
+aVAs Door of Destinies enters the battlefield, choose a creature type.<br>Whenever you cast a spell of the chosen type, put a charge counter on Door of Destinies.<br>Creatures you control of the chosen type get +1/+1 for each charge counter on Door of Destinies.
+p221
+aVCounter target creature spell.
+p222
+aVEquipped creature has haste. <i>(It can attack and {T} no matter when it came under your control.)</i><br>At the beginning of your upkeep, put a +1/+1 counter on equipped creature if it's red.<br>Equip {1} <i>({1}: Attach to target creature you control. Equip only as a sorcery.)</i>
+p223
+aVAll Sliver creatures have defender.<br>All Slivers have "When this permanent enters the battlefield, draw a card."
+p224
+aVEach creature assigns combat damage equal to its toughness rather than its power.
+p225
+aVDread Warlock can't be blocked except by black creatures.
+p226
+aVDefender <i>(This creature can't attack.)</i><br>When Dragon Egg dies, put a 2/2 red Dragon creature token with flying onto the battlefield. It has "{R}: This creature gets +1/+0 until end of turn."
+p227
+aVFlying<br>{R}: Dragon Hatchling gets +1/+0 until end of turn.
+p228
+aVTarget opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.
+p229
+aVEnd the turn. <i>(Exile all spells and abilities on the stack, including this card. The player whose turn it is discards down to his or her maximum hand size. Damage wears off, and "this turn" and "until end of turn" effects end.)</i>
+p230
+aVAt the beginning of your upkeep, you draw X cards and you lose X life, where X is the number of Zombies you control.
+p231
+aVIf an effect would put one or more tokens onto the battlefield under your control, it puts twice that many of those tokens onto the battlefield instead.<br>If an effect would place one or more counters on a permanent you control, it places twice that many of those counters on that permanent instead.
+p232
+aVIf a spell or ability an opponent controls causes you to discard Dodecapod, put it onto the battlefield with two +1/+1 counters on it instead of putting it into your graveyard.
+p233
+aV{T}: Add {B} to your mana pool. Elves of Deep Shadow deals 1 damage to you.
+p234
+aVBloodthirst 3 <i>(If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)</i><br>{1}, Sacrifice Skarrgan Skybreaker: Skarrgan Skybreaker deals damage equal to its power to target creature or player.
+p235
+aVTrample<br>At the beginning of your upkeep, sacrifice a creature. You gain life equal to that creature's toughness.
+p236
+aVFlying<br>At the beginning of your upkeep, you may gain control of target permanent until end of turn. If you do, untap it and it gains haste until end of turn.
+p237
+aVTarget creature gains double strike until end of turn. <i>(It deals both first-strike and regular combat damage.)</i>
+p238
+aV{2}{G}, {T}: Return target enchantment card from your graveyard to your hand.
+p239
+aVWhen Doomed Traveler dies, put a 1/1 white Spirit creature token with flying onto the battlefield.
+p240
+aVDoubtless One's power and toughness are each equal to the number of Clerics on the battlefield.<br>Whenever Doubtless One deals damage, you gain that much life.
+p241
+aVAs Doom Cannon enters the battlefield, choose a creature type.<br>{3}, {T}, Sacrifice a creature of the chosen type: Doom Cannon deals 3 damage to target creature or player.
+p242
+aV{B}, {T}, Sacrifice Doomed Necromancer: Return target creature card from your graveyard to the battlefield.
+p243
+aVWhenever one or more creatures you control deal combat damage to a player, tap all lands that player controls and untap all lands you control.
+p244
+aVTarget player gains control of target permanent you control.
+p245
+aVChoose one- Target player draws two cards; or target player discards two cards.
+p246
+aVFlying<br>Players play with the top card of their libraries revealed.
+p247
+aV{1}, {T}: Add {U}{B} to your mana pool.
+p248
+aVWhenever Pianna, Nomad Captain attacks, attacking creatures get +1/+1 until end of turn.
+p249
+aVReturn target creature to its owner's hand. You gain 2 life.
+p250
+aVDestroy target creature or planeswalker.
+p251
+aV+1: Look at the top card of your library. If it's a creature card, you may reveal it and put it into your hand.<br>-2: Target creature you control fights another target creature.<br>-7: You get an emblem with "Creatures you control have double strike, trample, hexproof, and haste."
+p252
+aV{1}{U}{U}, {T}: Dominating Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {U} to end this effect.<br>You control enchanted creature.
+p253
+aVSacrifice Blood Pet: Add {B} to your mana pool.
+p254
+aVEnchant artifact creature<br>You control enchanted artifact creature.
+p255
+aVEnchant creature<br>You control enchanted creature.<br>At the beginning of your end step, if enchanted creature's power is 4 or greater, sacrifice Domestication.
+p256
+aVFlying<br>Dormant Gomazoa enters the battlefield tapped.<br>Dormant Gomazoa doesn't untap during your untap step.<br>Whenever you become the target of a spell, you may untap Dormant Gomazoa.
+p257
+aV{3}, {T}: Double the amount of each type of mana in your mana pool.
+p258
+aVPlasma Elemental is unblockable.
+p259
+aVDoor to Nothingness enters the battlefield tapped.<br>{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}, {T}, Sacrifice Door to Nothingness: Target player loses the game.
+p260
+aVTarget creature gains double strike until end of turn. <i>(It deals both first-strike and regular combat damage.)</i>
+p261
+aVYou may sacrifice a Mountain rather than pay Downhill Charge's mana cost.<br><br>Target creature gets +X/+0 until end of turn, where X is the number of Mountains you control.
+p262
+aV{1}{U}: Counter target red spell.
+p263
+aV{G}: Target creature loses flying until end of turn.<br><br>Sacrifice Downdraft: Downdraft deals 2 damage to each creature with flying.
+p264
+aVSearch your library and graveyard for five cards and exile the rest. Put the chosen cards on top of your library in any order. You lose half your life, rounded up.
+p265
+aVWhen Doomed Traveler dies, put a 1/1 white Spirit creature token with flying onto the battlefield.
+p266
+aVHidden agenda <i>(Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)</i><br>Whenever you cast an instant or sorcery spell with the chosen name, you may copy it. You may choose new targets for the copy.
+p267
+aVGain control of target creature with converted mana cost X or less. <i>(This effect lasts indefinitely.)</i>
+p268
+aVYou may sacrifice a Mountain rather than pay Downhill Charge's mana cost.<br><br>Target creature gets +X/+0 until end of turn, where X is the number of Mountains you control.
+p269
+aVSeparate all creatures target player controls into two piles. Destroy all creatures in the pile of that player's choice. They can't be regenerated.
+p270
+aVConstellation- Whenever Doomwake Giant or another enchantment enters the battlefield under your control, creatures your opponents control get -1/-1 until end of turn.
+p271
+aVCounter up to two target spells.
+p272
+aVWhen Doomed Traveler dies, put a 1/1 white Spirit creature token with flying onto the battlefield.
+p273
+aVEverglades enters the battlefield tapped.<br>When Everglades enters the battlefield, sacrifice it unless you return an untapped Swamp you control to its owner's hand.<br>{T}: Add {1}{B} to your mana pool.
+p274
+aVChoose target creature. Put the top four cards of your library into your graveyard, then that creature gets -1/-1 until end of turn for each land card in your graveyard.
+p275
+aV<i>({W/U} can be paid with either {W} or {U}.)</i><br>Whenever a player casts a noncreature spell, counter that spell. That player puts X 1/1 white and blue Bird creature tokens with flying onto the battlefield, where X is the spell's converted mana cost.
+p276
+aVTrample<br>At the beginning of your upkeep, sacrifice a creature. You gain life equal to that creature's toughness.
+p277
+aVEach creature assigns combat damage equal to its toughness rather than its power.
+p278
+aVPrevent all combat damage that would be dealt to attacking creatures you control.
+p279
+aVDrowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.<br>{T}: Add {U} or {B} to your mana pool.
+p280
+aVCreatures and lands target opponent controls don't untap during his or her next untap step.
+p281
+aV{3}, {T}: Tap target creature you control and target creature of an opponent's choice he or she controls. Those creatures fight each other. <i>(Each deals damage equal to its power to the other.)</i>
+p282
+aVFlying<br>When Doomsday Specter enters the battlefield, return a blue or black creature you control to its owner's hand.<br>Whenever Doomsday Specter deals combat damage to a player, look at that player's hand and choose a card from it. The player discards that card.
+p283
+aVUntil end of turn, creatures you control gain protection from white if you control a Plains, from blue if you control an Island, from black if you control a Swamp, from red if you control a Mountain, and from green if you control a Forest.
+p284
+asS'costs'
+p285
+(lp286
+V{U/R}{U/R}{U/R}{U/R}{U/R}
+p287
+aV{1}{B}
+p288
+aV{3}{U}{U}
+p289
+aV{1}{B}
+p290
+aV{4}{G}
+p291
+aV{4}
+p292
+aV{2}{U}
+p293
+aV{2}{G}{G}
+p294
+aV{2}{G}{U}
+p295
+aV{B}{G}{W}
+p296
+aV{3}{W}
+p297
+aV{2}{U}
+p298
+aV{1}{W}
+p299
+aV{2}{U}{U}
+p300
+aV{2}{B}
+p301
+aV{2}
+p302
+aV{4}{G}
+p303
+aV{4}
+p304
+aV{4}{R}
+p305
+aV{2}{B}
+p306
+aV{4}{B/G}{B/G}{B/G}
+p307
+aV{U/R}{U/R}{U/R}{U/R}{U/R}
+p308
+aV{1}{R/W}
+p309
+aV{4}{G}
+p310
+aV{W}
+p311
+aV{3}{W}
+p312
+aV{6}
+p313
+aV{2}{B}
+p314
+aV{1}{G}{G}
+p315
+aV{2}{U}
+p316
+aV{3}{R}
+p317
+aV{4}{G}
+p318
+aV{4}{G}
+p319
+aV{2}{W}
+p320
+aV{1}{U}
+p321
+aV{U}
+p322
+aS'0'
+p323
+aV{1}{U}{U}
+p324
+aV{B}{B}{B}
+p325
+aV{1}{U}{U}
+p326
+aV{2}{U}{U}
+p327
+aV{1}{U}{U}
+p328
+aV{2}
+p329
+aV{5}
+p330
+aV{5}
+p331
+aV{1}{R/W}
+p332
+aV{5}{R}
+p333
+aV{2}{U}
+p334
+aV{2}{G}
+p335
+aV{B}{B}{B}
+p336
+aV{1}{U}{B}
+p337
+ag323
+aV{X}{1}{U}{U}
+p338
+aV{2}{R}
+p339
+aV{1}{B}
+p340
+aV{U}{B}
+p341
+aV{U}{U}{R}
+p342
+aV{W}
+p343
+ag323
+aV{2}{G}
+p344
+aV{3}{W/U}{W/U}{W/U}
+p345
+aV{4}{B/G}{B/G}{B/G}
+p346
+aV{1}{U}
+p347
+aV{B}{G}{W}
+p348
+aV{U}
+p349
+aV{4}{R}
+p350
+aV{4}
+p351
+aV{2}{U}{B}
+p352
+aV{2}{W}
+p353
+asS'names'
+p354
+(lp355
+VDominus of Fealty
+p356
+aVDoom Blade
+p357
+aVDoom Blade
+p358
+aVDoubling Chant
+p359
+aVDosan's Oldest Chant
+p360
+aVDoor of Destinies
+p361
+aVDownpour
+p362
+aVDoor to Nothingness
+p363
+aVDormant Sliver
+p364
+aVDoran, the Siege Tower
+p365
+aVDoom Blade
+p366
+aVDomestication
+p367
+aVDoom Blade
+p368
+aVDoor of Destinies
+p369
+aVDoomed Necromancer
+p370
+aVDoubling Cube
+p371
+aVDoubling Season
+p372
+aVDodecapod
+p373
+aVDong Zhou, the Tyrant
+p374
+aVDouse in Gloom
+p375
+aVDoomgape
+p376
+aVDominus of Fealty
+p377
+aVDouble Cleave
+p378
+aVDowsing Shaman
+p379
+aVDoomed Traveler
+p380
+aVDoubtless One
+p381
+aVDoom Cannon
+p382
+aVDoomed Necromancer
+p383
+aVDosan the Falling Leaf
+p384
+aVDonate
+p385
+aVDogpile
+p386
+aVDowsing Shaman
+p387
+aVDoubling Season
+p388
+aVDogged Hunter
+p389
+aVDoorkeeper
+p390
+aVDownsize
+p391
+aVDomri Rade
+p392
+aVDominating Licid
+p393
+aVDoomsday
+p394
+aVDomineer
+p395
+aVDomestication
+p396
+aVDormant Gomazoa
+p397
+aVDoubling Cube
+p398
+aVDoor to Nothingness
+p399
+aVDoor to Nothingness
+p400
+aVDouble Cleave
+p401
+aVDownhill Charge
+p402
+aVDouse
+p403
+aVDowndraft
+p404
+aVDoomsday
+p405
+aVDoomed Traveler
+p406
+aVDouble Stroke
+p407
+aVDominate
+p408
+aVDownhill Charge
+p409
+aVDo or Die
+p410
+aVDoomwake Giant
+p411
+aVDouble Negative
+p412
+aVDoomed Traveler
+p413
+aVDormant Volcano
+p414
+aVDown // Dirty (Dirty)
+p415
+aVDovescape
+p416
+aVDoomgape
+p417
+aVDoran, the Siege Tower
+p418
+aVDolmen Gate
+p419
+aVDoom Blade
+p420
+aVDong Zhou, the Tyrant
+p421
+aVDodecapod
+p422
+aVDoomsday Specter
+p423
+aVDominaria's Judgment
+p424
+asS'toughs'
+p425
+(lp426
+V4
+p427
+aS'N/A'
+p428
+ag428
+ag428
+ag428
+ag428
+ag428
+ag428
+aV2
+p429
+aV5
+p430
+ag428
+ag428
+ag428
+ag428
+ag429
+ag428
+ag428
+ag428
+ag429
+ag428
+aV10
+p431
+ag427
+ag428
+aV3
+p432
+aV1
+p433
+ag433
+ag428
+ag433
+ag429
+ag428
+ag428
+aV0
+p434
+ag428
+ag433
+ag427
+ag428
+ag428
+ag433
+ag428
+ag428
+ag428
+ag430
+ag428
+ag428
+ag428
+ag428
+ag428
+ag428
+ag428
+ag428
+ag429
+ag428
+ag428
+ag428
+ag428
+ag428
+ag428
+ag429
+ag428
+ag428
+ag428
+aV10
+p435
+ag433
+ag428
+ag428
+ag432
+ag428
+ag432
+ag428
+asS'artists'
+p436
+(lp437
+VKev Walker
+p438
+aVChippy
+p439
+aS''
+p440
+ag440
+aVTim Hildebrandt
+p441
+aVLarry MacDougall
+p442
+aVEytan Zana
+p443
+aVZoltan Boros & Gabor Szikszai
+p444
+aVLars Grant-West
+p445
+aVMark Zug
+p446
+aVChippy
+p447
+aVJesper Ejsing
+p448
+aVChippy
+p449
+aVLarry MacDougall
+p450
+aVVolkan Baga
+p451
+aVMark Tedin
+p452
+ag440
+aVJohn Howe
+p453
+aVShang Huitong
+p454
+aVKev Walker
+p455
+aVDave Allsop
+p456
+aVKev Walker
+p457
+aVrk post
+p458
+ag440
+aVLars Grant-West
+p459
+aVJustin Sweet
+p460
+aVMatthew Mitchell
+p461
+aVMark Brill
+p462
+aVMark Zug
+p463
+aVJeff Miracola
+p464
+aVJeff Miracola
+p465
+aVWayne Reynolds
+p466
+aVWayne Reynolds
+p467
+aVrk post
+p468
+aVKev Walker
+p469
+aVRyan Pancoast
+p470
+aVTyler Jacobson
+p471
+aVHeather Hudson
+p472
+aVAdrian Smith
+p473
+aVJon Foster
+p474
+aVJesper Ejsing
+p475
+aVChris Rahn
+p476
+aVMark Tedin
+p477
+aVPuddnhead
+p478
+aVPuddnhead
+p479
+aVrk post
+p480
+ag440
+aVVal Mayerik
+p481
+aVJohn Matson
+p482
+aVAdrian Smith
+p483
+aVLars Grant-West
+p484
+aVChristopher Moeller
+p485
+aVScott Hampton
+p486
+aVGreg & Tim Hildebrandt
+p487
+aVChristopher Moeller
+p488
+aVKev Walker
+p489
+aVParente
+p490
+aVLars Grant-West
+p491
+aVJohn Avon
+p492
+aVSvetlin Velinov
+p493
+aVShishizaru
+p494
+aVDave Allsop
+p495
+aVMark Zug
+p496
+aVRichard Sardinha
+p497
+aVChippy
+p498
+aVJunichi Inoue
+p499
+aVJohn Howe
+p500
+aVDonato Giancola
+p501
+aVJohn Avon
+p502
+asS'powers'
+p503
+(lp504
+g427
+ag428
+ag428
+ag428
+ag428
+ag428
+ag428
+ag428
+ag429
+ag434
+ag428
+ag428
+ag428
+ag428
+ag429
+ag428
+ag428
+ag428
+ag433
+ag428
+aV10
+p505
+ag427
+ag428
+ag433
+ag433
+ag433
+ag428
+ag433
+ag429
+ag428
+ag428
+ag434
+ag428
+ag433
+ag434
+ag428
+ag428
+ag433
+ag428
+ag428
+ag428
+ag430
+ag428
+ag428
+ag428
+ag428
+ag428
+ag428
+ag428
+ag428
+ag433
+ag428
+ag428
+ag428
+ag428
+ag428
+ag428
+ag429
+ag428
+ag428
+ag428
+aV10
+p506
+ag434
+ag428
+ag428
+ag432
+ag428
+ag429
+ag428
+asS'types'
+p507
+(lp508
+VCreature - Spirit Avatar
+p509
+aVInstant
+p510
+aVInstant
+p511
+aVSorcery
+p512
+aVSorcery
+p513
+aVArtifact
+p514
+aVInstant
+p515
+aVArtifact
+p516
+aVCreature - Sliver
+p517
+aVLegendary Creature - Treefolk Shaman
+p518
+aVInstant
+p519
+aVEnchantment - Aura
+p520
+aVInstant
+p521
+aVArtifact
+p522
+aVCreature - Human Cleric Mercenary
+p523
+aVArtifact
+p524
+aVEnchantment
+p525
+aVArtifact Creature - Golem
+p526
+aVLegendary Creature - Human Soldier
+p527
+aVInstant
+p528
+aVCreature - Elemental
+p529
+aVCreature - Spirit Avatar
+p530
+aVInstant
+p531
+aVCreature - Centaur Shaman
+p532
+aVCreature - Human Soldier
+p533
+aVCreature - Cleric Avatar
+p534
+aVArtifact
+p535
+aVCreature - Human Cleric Mercenary
+p536
+aVLegendary Creature - Human Monk
+p537
+aVSorcery
+p538
+aVInstant
+p539
+aVCreature - Centaur Shaman
+p540
+aVEnchantment
+p541
+aVCreature - Human Nomad
+p542
+aVCreature - Homunculus
+p543
+aVInstant
+p544
+aVPlaneswalker - Domri
+p545
+aVCreature - Licid
+p546
+aVSorcery
+p547
+aVEnchantment - Aura
+p548
+aVEnchantment - Aura
+p549
+aVCreature - Jellyfish
+p550
+aVArtifact
+p551
+aVArtifact
+p552
+aVArtifact
+p553
+aVInstant
+p554
+aVInstant
+p555
+aVEnchantment
+p556
+aVEnchantment
+p557
+aVSorcery
+p558
+aVCreature - Human Soldier
+p559
+aVConspiracy
+p560
+aVInstant
+p561
+aVInstant
+p562
+aVSorcery
+p563
+aVEnchantment Creature - Giant
+p564
+aVInstant
+p565
+aVCreature - Human Soldier
+p566
+aVLand
+p567
+aVSorcery
+p568
+aVEnchantment
+p569
+aVCreature - Elemental
+p570
+aVLegendary Creature - Treefolk Shaman
+p571
+aVArtifact
+p572
+aVInstant
+p573
+aVLegendary Creature - Human Soldier
+p574
+aVArtifact Creature - Golem
+p575
+aVCreature - Specter
+p576
+aVInstant
+p577
+asS'numbers'
+p578
+(lp579
+V194
+p580
+aV78
+p581
+aV95
+p582
+aV170
+p583
+aV127
+p584
+aV143
+p585
+aV48
+p586
+aV203
+p587
+aV156
+p588
+ag432
+aV93
+p589
+aV53
+p590
+aV96
+p591
+aV208
+p592
+aV137
+p593
+aV321
+p594
+ag440
+aV134
+p595
+aV96
+p596
+aV49
+p597
+aV120
+p598
+aV102
+p599
+aV135
+p600
+aV70
+p601
+ag429
+aV27
+p602
+aV307
+p603
+aV140
+p604
+aV205
+p605
+aV31
+p606
+aV120
+p607
+aV159
+p608
+aV158
+p609
+aV20
+p610
+aV37
+p611
+aV38
+p612
+aV156
+p613
+aV30
+p614
+aV121
+p615
+aV33
+p616
+aV61
+p617
+aV62
+p618
+aV116
+p619
+aV115
+p620
+aV112
+p621
+aV100
+p622
+ag440
+aV70
+p623
+aV64
+p624
+aV133
+p625
+aV69
+p626
+ag427
+aV31
+p627
+aV79
+p628
+aV102
+p629
+aV66
+p630
+aV87
+p631
+aV11
+p632
+aV111
+p633
+aV126
+p634
+aV143
+p635
+aV65
+p636
+aV247
+p637
+aV256
+p638
+aV95
+p639
+aV109
+p640
+aV108
+p641
+aV103
+p642
+ag427
+as.

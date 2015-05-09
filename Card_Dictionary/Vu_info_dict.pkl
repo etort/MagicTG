@@ -1,0 +1,452 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVCommon
+p4
+aVCommon
+p5
+aVUncommon
+p6
+aVRare
+p7
+aVUncommon
+p8
+aVRare
+p9
+aVCommon
+p10
+aVCommon
+p11
+aVUncommon
+p12
+aVCommon
+p13
+aVUncommon
+p14
+aVCommon
+p15
+aVCommon
+p16
+aVUncommon
+p17
+aVCommon
+p18
+aVUncommon
+p19
+aVUncommon
+p20
+aVCommon
+p21
+aVCommon
+p22
+aVCommon
+p23
+asS'editns'
+p24
+(lp25
+VMagic: The Gathering-Commander
+p26
+aVScars of Mirrodin
+p27
+aVScars of Mirrodin
+p28
+aVNinth Edition
+p29
+aVRavnica: City of Guilds
+p30
+aVMirrodin
+p31
+aVMirrodin
+p32
+aVMirrodin
+p33
+aVMirrodin
+p34
+aVDarksteel
+p35
+aVDarksteel
+p36
+aVNew Phyrexia
+p37
+aVFifth Dawn
+p38
+aVDuel Decks: Venser vs. Koth
+p39
+aVDuel Decks: Venser vs. Koth
+p40
+aVDuel Decks: Venser vs. Koth
+p41
+aVDuel Decks: Venser vs. Koth
+p42
+aVUrza's Saga
+p43
+aVTheros
+p44
+aVMagic 2011
+p45
+aVPremium Deck Series: Fire and Lightning
+p46
+asS'ids'
+p47
+(lp48
+V247391
+p49
+aV194320
+p50
+aV209034
+p51
+aV83447
+p52
+aV89082
+p53
+aV48121
+p54
+aV48125
+p55
+aV48397
+p56
+aV5585
+p57
+aV45455
+p58
+aV49758
+p59
+aV218038
+p60
+aV51177
+p61
+aV270806
+p62
+aV270810
+p63
+aV270846
+p64
+aV270852
+p65
+aV5679
+p66
+aV373655
+p67
+aV208011
+p68
+aV234719
+p69
+asS'texts'
+p70
+(lp71
+VFlying<br>Whenever a card is put into an opponent's graveyard from anywhere, put a +1/+1 counter on Vulturous Zombie.
+p72
+aVG
+p73
+ag73
+aVWhenever a player casts a red spell, you may gain 1 life.
+p74
+aVFlying, haste<br>When Hunted Dragon enters the battlefield, put three 2/2 white Knight creature tokens with first strike onto the battlefield under target opponent's control.
+p75
+aVEquipped creature gets +3/+3.<br>Equip {3} <i>({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)</i>
+p76
+aVHaste<br>When Vulshok Battlemaster enters the battlefield, attach all Equipment on the battlefield to it. <i>(Control of the Equipment doesn't change.)</i>
+p77
+aVEquipped creature gets +4/+2 and doesn't untap during its controller's untap step.<br>Equip {3} <i>({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)</i>
+p78
+aVU
+p79
+aVWhen Vulshok War Boar enters the battlefield, sacrifice it unless you sacrifice an artifact.
+p80
+aVEquipped creature gets +2/+2.<br>Equip {2} <i>({2}: Attach to target creature you control. Equip only as a sorcery.)</i>
+p81
+aVWhen Wing Splicer enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield.<br>Golem creatures you control have flying.
+p82
+aVHaste<br>{T}: Vulshok Sorcerer deals 1 damage to target creature or player.
+p83
+aVHaste<br>{T}: Vulshok Sorcerer deals 1 damage to target creature or player.
+p84
+aVEquipped creature gets +2/+2.<br>Equip {2} <i>({2}: Attach to target creature you control. Equip only as a sorcery.)</i>
+p85
+aVHaste <i>(This creature can attack and {T} as soon as it comes under your control.)</i>
+p86
+aVEquipped creature gets +3/+3.<br>Equip {3} <i>({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)</i>
+p87
+aVMountainwalk<br>Echo {1}{R}{R} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i>
+p88
+aS''
+p89
+ag73
+aVHaste<br>{T}: Vulshok Sorcerer deals 1 damage to target creature or player.
+p90
+asS'costs'
+p91
+(lp92
+V{2}{G}
+p93
+aV{3}{W}
+p94
+aV{1}{G}{G}
+p95
+aV{2}
+p96
+aV{3}{B}{G}
+p97
+aV{3}
+p98
+aV{4}{R}
+p99
+aV{2}
+p100
+aV{3}{R}
+p101
+aV{2}{R}{R}
+p102
+aV{2}
+p103
+aV{6}{G}{G}
+p104
+aV{1}{R}{R}
+p105
+aV{2}{W/U}
+p106
+aV{1}{R}{R}
+p107
+aV{3}{W}
+p108
+aV{1}{U}{U}
+p109
+aV{1}{R}{R}
+p110
+aV{1}{U}
+p111
+aV{U}
+p112
+aV{1}{R}{R}
+p113
+asS'names'
+p114
+(lp115
+VVulturous Zombie
+p116
+aVVulshok Heartstoker
+p117
+aVVulshok Replica
+p118
+aVVulshok Morningstar
+p119
+aVVulturous Zombie
+p120
+aVVulshok Battlegear
+p121
+aVVulshok Battlemaster
+p122
+aVVulshok Gauntlets
+p123
+aVVulshok Berserker
+p124
+aVVulshok War Boar
+p125
+aVVulshok Morningstar
+p126
+aVVulshok Refugee
+p127
+aVVulshok Sorcerer
+p128
+aVVulshok Sorcerer
+p129
+aVVulshok Morningstar
+p130
+aVVulshok Berserker
+p131
+aVVulshok Battlegear
+p132
+aVVug Lizard
+p133
+aVVulpine Goliath
+p134
+aVVulshok Berserker
+p135
+aVVulshok Sorcerer
+p136
+asS'toughs'
+p137
+(lp138
+V6
+p139
+aV3
+p140
+aS'N/A'
+p141
+ag141
+aV4
+p142
+ag141
+ag142
+ag141
+aV2
+p143
+ag143
+ag141
+aV5
+p144
+ag140
+aV1
+p145
+ag141
+ag145
+ag141
+ag143
+ag142
+ag142
+ag145
+asS'artists'
+p146
+(lp147
+VGreg Staples
+p148
+aVShelly Wan
+p149
+aVZoltan Boros & Gabor Szikszai
+p150
+aVDavid Martin
+p151
+aVGreg Staples
+p152
+aVKevin Dobler
+p153
+aVKev Walker
+p154
+aVRichard Sardinha
+p155
+aVPete Venters
+p156
+aVPete Venters
+p157
+aVDavid Martin
+p158
+ag89
+aVrk post
+p159
+ag89
+ag89
+ag89
+ag89
+aVHeather Hudson
+p160
+aVAdam Paquette
+p161
+aVPete Venters
+p162
+aVrk post
+p163
+asS'powers'
+p164
+(lp165
+g140
+ag143
+ag141
+ag141
+ag142
+ag141
+ag144
+ag141
+ag143
+ag143
+ag141
+ag140
+ag140
+ag139
+ag141
+ag143
+ag141
+ag143
+ag145
+aV8
+p166
+ag145
+asS'types'
+p167
+(lp168
+VCreature - Plant Zombie
+p169
+aVCreature - Human Shaman
+p170
+aVArtifact Creature - Berserker
+p171
+aVArtifact - Equipment
+p172
+aVCreature - Plant Zombie
+p173
+aVArtifact - Equipment
+p174
+aVCreature - Human Warrior
+p175
+aVArtifact - Equipment
+p176
+aVCreature - Human Berserker
+p177
+aVCreature - Boar Beast
+p178
+aVArtifact - Equipment
+p179
+aVCreature - Human Warrior
+p180
+aVCreature - Human Shaman
+p181
+aVCreature - Human Shaman
+p182
+aVArtifact - Equipment
+p183
+aVCreature - Human Berserker
+p184
+aVArtifact - Equipment
+p185
+aVCreature - Lizard
+p186
+aVCreature - Fox
+p187
+aVCreature - Human Berserker
+p188
+aVCreature - Human Shaman
+p189
+asS'numbers'
+p190
+(lp191
+V236
+p192
+aV107
+p193
+aV221
+p194
+aV315
+p195
+aV238
+p196
+aV272
+p197
+aV110
+p198
+aV273
+p199
+aV111
+p200
+aV72
+p201
+aV157
+p202
+aV101
+p203
+aV80
+p204
+ag89
+ag89
+ag89
+ag89
+aV227
+p205
+aV183
+p206
+aV159
+p207
+aV11
+p208
+as.

@@ -1,0 +1,56 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+asS'editns'
+p4
+(lp5
+VLorwyn
+p6
+asS'ids'
+p7
+(lp8
+V139692
+p9
+asS'texts'
+p10
+(lp11
+VChangeling <i>(This card is every creature type at all times.)</i><br>Creatures target player controls get -2/-0 and lose all creature types until end of turn.
+p12
+asS'costs'
+p13
+(lp14
+V{2}{U}
+p15
+asS'names'
+p16
+(lp17
+VEgo Erasure
+p18
+asS'toughs'
+p19
+(lp20
+S'N/A'
+p21
+asS'artists'
+p22
+(lp23
+VSteven Belledin
+p24
+asS'powers'
+p25
+(lp26
+g21
+asS'types'
+p27
+(lp28
+VTribal Instant - Shapeshifter
+p29
+asS'numbers'
+p30
+(lp31
+V59
+p32
+as.

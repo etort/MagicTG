@@ -1,0 +1,357 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVRare
+p4
+aVRare
+p5
+aVMythic Rare
+p6
+aVCommon
+p7
+aVCommon
+p8
+aVUncommon
+p9
+aVRare
+p10
+aVRare
+p11
+aVCommon
+p12
+aVUncommon
+p13
+aVRare
+p14
+aVRare
+p15
+aVMythic Rare
+p16
+aVRare
+p17
+aVRare
+p18
+asS'editns'
+p19
+(lp20
+VMasters Edition II
+p21
+aVNinth Edition
+p22
+aVColdsnap
+p23
+aVFrom the Vault: Relics
+p24
+aVIce Age
+p25
+aVIce Age
+p26
+aVIce Age
+p27
+aVIce Age
+p28
+aVClassic Sixth Edition
+p29
+aVRise of the Eldrazi
+p30
+aVMasters Edition
+p31
+aVEighth Edition
+p32
+aVFifth Edition
+p33
+aVKhans of Tarkir
+p34
+aVMirage
+p35
+aVPortal Three Kingdoms
+p36
+asS'ids'
+p37
+(lp38
+V184683
+p39
+aV83343
+p40
+aV121162
+p41
+aV212628
+p42
+aV2547
+p43
+aV2548
+p44
+aV2436
+p45
+aV2546
+p46
+aV15372
+p47
+aV198166
+p48
+aV159752
+p49
+aV45278
+p50
+aV3959
+p51
+aV386731
+p52
+aV3526
+p53
+aV10610
+p54
+asS'texts'
+p55
+(lp56
+S''
+p57
+ag57
+aVFlying<br>Whenever Zur the Enchanter attacks, you may search your library for an enchantment card with converted mana cost 3 or less and put it onto the battlefield. If you do, shuffle your library.
+p58
+aVSacrifice a land: You gain 2 life.
+p59
+aV{2}{B}, {T}: Target player discards a card. Activate this ability only during your turn.
+p60
+aV{T}: Zuran Spellcaster deals 1 damage to target creature or player.
+p61
+ag57
+ag57
+ag57
+aVU
+p62
+aVSacrifice a land: You gain 2 life.
+p63
+ag57
+aVPlayers play with their hands revealed.<br>If a player would draw a card, he or she reveals it instead. Then any other player may pay 2 life. If a player does, put that card into its owner's graveyard. Otherwise, that player draws a card.
+p64
+ag57
+aVFlying<br>At the beginning of each end step, put a +1/+1 counter on Asmira, Holy Avenger for each creature put into your graveyard from the battlefield this turn.
+p65
+aVDraw a card for each tapped creature target opponent controls.
+p66
+asS'costs'
+p67
+(lp68
+V{2}{U}
+p69
+aV{3}{U}
+p70
+aV{1}{W}{U}{B}
+p71
+aV{0}
+p72
+aV{1}{U}
+p73
+aV{2}{U}
+p74
+aV{0}
+p75
+aV{3}{U}
+p76
+aV{3}{U}
+p77
+aV{3}{R}
+p78
+aV{0}
+p79
+aV{3}{U}
+p80
+aV{3}{U}
+p81
+aV{6}
+p82
+aV{4}{W}
+p83
+aV{1}{G}{G}
+p84
+asS'names'
+p85
+(lp86
+VZuran Spellcaster
+p87
+aVZur's Weirding
+p88
+aVZur the Enchanter
+p89
+aVZuran Orb
+p90
+aVZuran Enchanter
+p91
+aVZuran Spellcaster
+p92
+aVZuran Orb
+p93
+aVZur's Weirding
+p94
+aVZur's Weirding
+p95
+aVZulaport Enforcer
+p96
+aVZuran Orb
+p97
+aVZur's Weirding
+p98
+aVZur's Weirding
+p99
+aVZurgo Helmsmasher
+p100
+aVZuberi, Golden Feather
+p101
+aVZuo Ci, the Mocking Sage
+p102
+asS'toughs'
+p103
+(lp104
+V2
+p105
+aS'N/A'
+p106
+aV1
+p107
+ag106
+ag107
+aV11
+p108
+ag106
+ag106
+ag106
+aV4
+p109
+ag106
+ag106
+ag106
+ag109
+ag109
+ag105
+asS'artists'
+p110
+(lp111
+VEdward P. Beard, Jr.
+p112
+aVrk post
+p113
+aVPete Venters
+p114
+aVRyan Pancoast
+p115
+aVDouglas Shuler
+p116
+aVEdward Beard, Jr.
+p117
+aVSandra Everingham
+p118
+aVLiz Danforth
+p119
+aVLiz Danforth
+p120
+aVMatt Stewart
+p121
+aVSandra Everingham
+p122
+aVScott M. Fischer
+p123
+aVLiz Danforth
+p124
+aVAleksi Briclot
+p125
+aVAlan Rabinowitz
+p126
+aVWang Yuqun
+p127
+asS'powers'
+p128
+(lp129
+V3
+p130
+ag106
+ag107
+ag106
+ag107
+aV11
+p131
+ag106
+ag106
+ag106
+ag109
+ag106
+ag106
+ag106
+aV6
+p132
+ag130
+ag107
+asS'types'
+p133
+(lp134
+VCreature - Human Wizard
+p135
+aVEnchantment
+p136
+aVLegendary Creature - Human Wizard
+p137
+aVArtifact
+p138
+aVCreature - Human Wizard
+p139
+aVCreature - Human Wizard
+p140
+aVArtifact
+p141
+aVEnchantment
+p142
+aVEnchantment
+p143
+aVCreature - Human Warrior
+p144
+aVArtifact
+p145
+aVEnchantment
+p146
+aVEnchantment
+p147
+aVLegendary Creature - Orc Warrior
+p148
+aVLegendary Creature - Griffin
+p149
+aVLegendary Creature - Human Advisor
+p150
+asS'numbers'
+p151
+(lp152
+V76
+p153
+aV114
+p154
+aV135
+p155
+aV15
+p156
+aV104
+p157
+aV105
+p158
+aV382
+p159
+aV383
+p160
+aV108
+p161
+aV133
+p162
+aV174
+p163
+aV116
+p164
+aV91
+p165
+aV214
+p166
+aV202
+p167
+aV165
+p168
+as.

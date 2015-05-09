@@ -1,0 +1,57 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+asS'editns'
+p4
+(lp5
+VGatecrash
+p6
+asS'ids'
+p7
+(lp8
+V366289
+p9
+asS'texts'
+p10
+(lp11
+VTap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.<br>Cipher <i>(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)</i>
+p12
+asS'costs'
+p13
+(lp14
+V{W}
+p15
+asS'names'
+p16
+(lp17
+VGyre Sage
+p18
+asS'toughs'
+p19
+(lp20
+V6
+p21
+asS'artists'
+p22
+(lp23
+VTyler Jacobson
+p24
+asS'powers'
+p25
+(lp26
+V2
+p27
+asS'types'
+p28
+(lp29
+VCreature - Elf Druid
+p30
+asS'numbers'
+p31
+(lp32
+V123
+p33
+as.

@@ -1,0 +1,925 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVRare
+p4
+aVRare
+p5
+aVRare
+p6
+aVCommon
+p7
+aVCommon
+p8
+aVMythic Rare
+p9
+aVRare
+p10
+aVUncommon
+p11
+aVUncommon
+p12
+aVCommon
+p13
+aVUncommon
+p14
+aVRare
+p15
+aVCommon
+p16
+aVUncommon
+p17
+aVUncommon
+p18
+aVRare
+p19
+aVUncommon
+p20
+aVCommon
+p21
+aVUncommon
+p22
+aVCommon
+p23
+aVRare
+p24
+aVCommon
+p25
+aVUncommon
+p26
+aVMythic Rare
+p27
+aVUncommon
+p28
+aVUncommon
+p29
+aVCommon
+p30
+aVUncommon
+p31
+aVRare
+p32
+aVRare
+p33
+aVRare
+p34
+aVUncommon
+p35
+aVCommon
+p36
+aVUncommon
+p37
+aVRare
+p38
+aVCommon
+p39
+aVRare
+p40
+aVUncommon
+p41
+aVCommon
+p42
+aVRare
+p43
+aVSpecial
+p44
+aVRare
+p45
+aVRare
+p46
+aVSpecial
+p47
+asS'editns'
+p48
+(lp49
+VMagic: The Gathering-Commander
+p50
+aVMagic: The Gathering-Commander
+p51
+aVMagic: The Gathering-Commander
+p52
+aVSaviors of Kamigawa
+p53
+aVSaviors of Kamigawa
+p54
+aVSaviors of Kamigawa
+p55
+aVMagic 2013
+p56
+aVPlanar Chaos
+p57
+aVBorn of the Gods
+p58
+aVBorn of the Gods
+p59
+aVBorn of the Gods
+p60
+aVVintage Masters
+p61
+aVMasters Edition III
+p62
+aVPlanechase 2012 Edition
+p63
+aVDuel Decks: Sorin vs. Tibalt
+p64
+aVOnslaught
+p65
+aVOnslaught
+p66
+aVChampions of Kamigawa
+p67
+aVChampions of Kamigawa
+p68
+aVChampions of Kamigawa
+p69
+aVChampions of Kamigawa
+p70
+aVChampions of Kamigawa
+p71
+aVBetrayers of Kamigawa
+p72
+aVBetrayers of Kamigawa
+p73
+aVFrom the Vault: Twenty
+p74
+aVCommander 2013 Edition
+p75
+aVZendikar
+p76
+aVShards of Alara
+p77
+aVRise of the Eldrazi
+p78
+aVFuture Sight
+p79
+aVPlanechase
+p80
+aVLegions
+p81
+aVLegions
+p82
+aVTheros
+p83
+aVTheros
+p84
+aVTheros
+p85
+aVWorldwake
+p86
+aVChronicles
+p87
+aVJourney into Nyx
+p88
+aVJourney into Nyx
+p89
+aVFifth Edition
+p90
+aVVanguard
+p91
+aVVisions
+p92
+aVLegends
+p93
+aVTime Spiral "Timeshifted"
+p94
+asS'ids'
+p95
+(lp96
+V247543
+p97
+aV247358
+p98
+aV247343
+p99
+aV74148
+p100
+aV74393
+p101
+aV79164
+p102
+aV279712
+p103
+aV122432
+p104
+aV378459
+p105
+aV378374
+p106
+aV378375
+p107
+aV382840
+p108
+aV201117
+p109
+aV226512
+p110
+aV368523
+p111
+aV41162
+p112
+aV41168
+p113
+aV50338
+p114
+aV75277
+p115
+aV75399
+p116
+aV77919
+p117
+aV78694
+p118
+aV74428
+p119
+aV74596
+p120
+aV373328
+p121
+aV376242
+p122
+aV189638
+p123
+aV174963
+p124
+aV193506
+p125
+aV136150
+p126
+aV205366
+p127
+aV42049
+p128
+aV44747
+p129
+aV373578
+p130
+aV373590
+p131
+aV373550
+p132
+aV198360
+p133
+aV2853
+p134
+aV380369
+p135
+aV380370
+p136
+aV4099
+p137
+aV182290
+p138
+aV3608
+p139
+aV1599
+p140
+aV106645
+p141
+asS'texts'
+p142
+(lp143
+VAkoum Refuge enters the battlefield tapped.<br>When Akoum Refuge enters the battlefield, you gain 1 life.<br>{T}: Add {B} or {R} to your mana pool.
+p144
+aVAkroma, Angel of Fury can't be countered.<br>Flying, trample, protection from white and from blue<br>{R}: Akroma, Angel of Fury gets +1/+0 until end of turn.<br>Morph {3}{R}{R}{R} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p145
+aVDestroy all artifacts, creatures, and enchantments.<br>Cycling {3} <i>({3}, Discard this card: Draw a card.)</i>
+p146
+aVHaste<br>At the beginning of your upkeep, if you have more cards in hand than each opponent, you may sacrifice a Swamp. If you do, return Akuta, Born of Ash from your graveyard to the battlefield.
+p147
+aV{T}: Target creature gains haste until end of turn.
+p148
+aVAs long as you have seven or more cards in hand, Akki Underling gets +2/+1 and has first strike.
+p149
+aV{2}: Equipped creature gains hexproof until end of turn. <i>(It can't be the target of spells or abilities your opponents control.)</i><br>At the beginning of your upkeep, put a +1/+1 counter on equipped creature if it's blue.<br>Equip {1} <i>({1}: Attach to target creature you control. Equip only as a sorcery.)</i>
+p150
+aVAkroma, Angel of Fury can't be countered.<br>Flying, trample, protection from white and from blue<br>{R}: Akroma, Angel of Fury gets +1/+0 until end of turn.<br>Morph {3}{R}{R}{R} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p151
+aVHeroic- Whenever you cast a spell that targets Akroan Conscriptor, gain control of another target creature until end of turn. Untap that creature. It gains haste until end of turn.
+p152
+aVVigilance<br>{2}{R}: Creatures you control get +1/+0 until end of turn.
+p153
+aVFlying<br>Heroic- Whenever you cast a spell that targets Akroan Skyguard, put a +1/+1 counter on Akroan Skyguard.
+p154
+aVChoose a color. Creatures you control gain protection from the chosen color until end of turn.<br>Cycling {W} <i>({W}, Discard this card: Draw a card.)</i>
+p155
+aVExcept for creatures named Akron Legionnaire and artifact creatures, creatures you control can't attack.
+p156
+aVPlayers may cast enchantment cards as though they had flash.<br>Whenever you roll chaos, destroy target creature that isn't enchanted.
+p157
+aVAkoum Refuge enters the battlefield tapped.<br>When Akoum Refuge enters the battlefield, you gain 1 life.<br>{T}: Add {B} or {R} to your mana pool.
+p158
+aVChoose a color. Creatures you control gain protection from the chosen color until end of turn.<br>Cycling {W} <i>({W}, Discard this card: Draw a card.)</i>
+p159
+aVDestroy all artifacts, creatures, and enchantments.<br>Cycling {3} <i>({3}, Discard this card: Draw a card.)</i>
+p160
+aVFirst strike<br>{R}, {T}: Attacking creatures gain first strike until end of turn.
+p161
+aV{3}, {T}: Exile target instant or sorcery spell that targets you. <i>(The spell has no effect.)</i><br>{3}, {T}, Sacrifice Shell of the Last Kappa: You may cast a card exiled with Shell of the Last Kappa without paying its mana cost.
+p162
+aVAs an additional cost to cast Devouring Rage, you may sacrifice any number of Spirits.<br>Target creature gets +3/+0 until end of turn. For each Spirit sacrificed this way, that creature gets an additional +3/+0 until end of turn.
+p163
+aVWhenever you cast a Spirit or Arcane spell, target opponent loses 1 life and you gain 1 life.<br>Soulshift 2 <i>(When this creature dies, you may return target Spirit card with converted mana cost 2 or less from your graveyard to your hand.)</i>
+p164
+aVTap an untapped Wizard you control: Draw a card.
+p165
+aVWhen Akki Blizzard-Herder dies, each player sacrifices a land.
+p166
+aVAll Spirits have "When this permanent enters the battlefield, you may have it deal 3 damage to target non-Spirit creature."<br>Non-Spirit creatures have "When this creature enters the battlefield, you may have it deal 3 damage to target Spirit creature."
+p167
+aVDestroy all artifacts, creatures, and enchantments.<br>Cycling {3} <i>({3}, Discard this card: Draw a card.)</i>
+p168
+aVAkoum Refuge enters the battlefield tapped.<br>When Akoum Refuge enters the battlefield, you gain 1 life.<br>{T}: Add {B} or {R} to your mana pool.
+p169
+aVAkoum Refuge enters the battlefield tapped.<br>When Akoum Refuge enters the battlefield, you gain 1 life.<br>{T}: Add {B} or {R} to your mana pool.
+p170
+aVFeral Hydra enters the battlefield with X +1/+1 counters on it.<br>{3}: Put a +1/+1 counter on Feral Hydra. Any player may activate this ability.
+p171
+aVWhen Akoum Boulderfoot enters the battlefield, it deals 1 damage to target creature or player.
+p172
+aVKicker {R} <i>(You may pay an additional {R} as you cast this spell.)</i><br>If Molten Disaster was kicked, it has split second. <i>(As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)</i><br>Molten Disaster deals X damage to each creature without flying and each player.
+p173
+aVDestroy all artifacts, creatures, and enchantments.<br>Cycling {3} <i>({3}, Discard this card: Draw a card.)</i>
+p174
+aVFlying, first strike, vigilance, trample, haste, protection from black and from red
+p175
+aVCleric creatures have vigilance.
+p176
+aVHeroic- Whenever you cast a spell that targets Akroan Crusader, put a 1/1 red Soldier creature token with haste onto the battlefield.
+p177
+aVWhenever Akroan Hoplite attacks, it gets +X/+0 until end of turn, where X is the number of attacking creatures you control.
+p178
+aVDefender<br>When Akroan Horse enters the battlefield, an opponent gains control of it.<br>At the beginning of your upkeep, each opponent puts a 1/1 white Soldier creature token onto the battlefield.
+p179
+aVHaste<br>Whenever Akoum Battlesinger or another Ally enters the battlefield under your control, you may have Ally creatures you control get +1/+0 until end of turn.
+p180
+aVFlying<br>At the beginning of your upkeep, sacrifice Arcades Sabboth unless you pay {G}{W}{U}.<br>Each untapped creature you control gets +0/+2 as long as it's not attacking.<br>{W}: Arcades Sabboth gets +0/+1 until end of turn.
+p181
+aVHeroic- Whenever you cast a spell that targets Akroan Line Breaker, Akroan Line Breaker gets +2/+0 and gains intimidate until end of turn.
+p182
+aV{W}, {T}: Tap target creature.
+p183
+aVDestroy all lands.
+p184
+aVWhenever a creature enters the battlefield under your control, it gains two abilities chosen at random from flying, first strike, trample, haste, protection from black, protection from red, and vigilance.
+p185
+aVEach land is a Swamp in addition to its other land types.
+p186
+aVReturn target permanent to its owner's hand.
+p187
+aVFlying, first strike, vigilance, trample, haste, protection from black and from red
+p188
+asS'costs'
+p189
+(lp190
+S'0'
+p191
+aV{5}{R}{R}{R}
+p192
+aV{4}{W}{W}
+p193
+aV{2}{B}{B}
+p194
+aV{2}{R}
+p195
+aV{1}{R}
+p196
+aV{1}{G}
+p197
+aV{5}{R}{R}{R}
+p198
+aV{4}{R}
+p199
+aV{3}{W}
+p200
+aV{1}{W}
+p201
+aV{2}{W}
+p202
+aV{6}{W}{W}
+p203
+ag191
+ag191
+aV{2}{W}
+p204
+aV{4}{W}{W}
+p205
+aV{1}{R}{R}
+p206
+aV{R}
+p207
+aV{3}{R}
+p208
+aV{1}{R}
+p209
+aV{3}{R}
+p210
+aV{1}{R}
+p211
+aV{1}{R}
+p212
+aV{4}{W}{W}
+p213
+ag191
+ag191
+aV{W}{W}
+p214
+aV{4}{R}{R}
+p215
+aV{7}
+p216
+aV{4}{W}{W}
+p217
+aV{5}{W}{W}{W}
+p218
+aV{3}{W}
+p219
+aV{R}
+p220
+aV{R}{W}
+p221
+aV{4}
+p222
+aV{1}{R}
+p223
+aV{6}{W}{W}
+p224
+aV{W}
+p225
+aV{2}{R}
+p226
+aV{6}{W}{W}
+p227
+ag191
+aV{3}{B}{B}
+p228
+aV{6}{W}{W}
+p229
+aV{5}{W}{W}{W}
+p230
+asS'names'
+p231
+(lp232
+VAkoum Refuge
+p233
+aVAkroma, Angel of Fury
+p234
+aVAkroma's Vengeance
+p235
+aVAkuta, Born of Ash
+p236
+aVAkki Drillmaster
+p237
+aVAkki Underling
+p238
+aVAkroma's Memorial
+p239
+aVAkroma, Angel of Fury
+p240
+aVAkroan Conscriptor
+p241
+aVAkroan Phalanx
+p242
+aVAkroan Skyguard
+p243
+aVAkroma's Blessing
+p244
+aVAkron Legionnaire
+p245
+aVAkoum
+p246
+aVAkoum Refuge
+p247
+aVAkroma's Blessing
+p248
+aVAkroma's Vengeance
+p249
+aVAkki Coalflinger
+p250
+aVAkki Avalanchers
+p251
+aVAkki Underminer
+p252
+aVAkki Rockspeaker
+p253
+aVAkki Lavarunner (Tok-Tok, Volcano Born)
+p254
+aVAkki Blizzard-Herder
+p255
+aVAkki Raider
+p256
+aVAkroma's Vengeance
+p257
+aVAkoum Refuge
+p258
+aVAkoum Refuge
+p259
+aVAkrasan Squire
+p260
+aVAkoum Boulderfoot
+p261
+aVAkroma's Memorial
+p262
+aVAkroma's Vengeance
+p263
+aVAkroma, Angel of Wrath
+p264
+aVAkroma's Devoted
+p265
+aVAkroan Crusader
+p266
+aVAkroan Hoplite
+p267
+aVAkroan Horse
+p268
+aVAkoum Battlesinger
+p269
+aVAkron Legionnaire
+p270
+aVAkroan Line Breaker
+p271
+aVAkroan Mastiff
+p272
+aVAkron Legionnaire
+p273
+aVAkroma, Angel of Wrath Avatar
+p274
+aVAku Djinn
+p275
+aVAkron Legionnaire
+p276
+aVAkroma, Angel of Wrath
+p277
+asS'toughs'
+p278
+(lp279
+S'N/A'
+p280
+aV6
+p281
+ag280
+aV2
+p282
+ag282
+aV1
+p283
+ag280
+ag281
+ag282
+aV3
+p284
+ag283
+ag280
+aV4
+p285
+ag280
+ag280
+ag280
+ag280
+ag282
+ag283
+ag283
+ag283
+ag282
+ag283
+ag283
+ag280
+ag280
+ag280
+ag282
+aV5
+p286
+ag280
+ag280
+ag281
+ag285
+ag283
+ag282
+ag280
+ag283
+ag285
+ag283
+ag282
+ag283
+ag280
+ag282
+ag282
+ag281
+asS'artists'
+p287
+(lp288
+VFred Fields
+p289
+aVDaren Bader
+p290
+aVGreg & Tim Hildebrandt
+p291
+aVBen Thompson
+p292
+aVAlan Pollack
+p293
+aVFranz Vohwinkel
+p294
+aVVincent Proce
+p295
+aVDaren Bader
+p296
+aVJames Ryman
+p297
+aVSteve Prescott
+p298
+aVMark Winters
+p299
+aVAdam Rex
+p300
+aVHarold McNeill
+p301
+aVDavid Palumbo
+p302
+aVFred Fields
+p303
+aVAdam Rex
+p304
+aVGreg & Tim Hildebrandt
+p305
+aVNottsuo
+p306
+aVMatt Thompson
+p307
+aVThomas M. Baxa
+p308
+aVDavid Martin
+p309
+aVMatt Cavotta
+p310
+aVPete Venters
+p311
+aVMartina Pilcerova
+p312
+aVAleksi Briclot
+p313
+aVFred Fields
+p314
+aVFred Fields
+p315
+aVTodd Lockwood
+p316
+aVAlex Horley-Orlandelli
+p317
+aVDan Scott
+p318
+aVGreg & Tim Hildebrandt
+p319
+aVRon Spears
+p320
+aVDave Dorman
+p321
+aVJohann Bodin
+p322
+aVIgor Kieryluk
+p323
+aVSeb McKinnon
+p324
+aVAdi Granov
+p325
+aVMark Poole
+p326
+aVMarco Nelor
+p327
+aVZoltan Boros
+p328
+aVMark Poole
+p329
+aVUDON
+p330
+aVTerese Nielsen
+p331
+aVMark Poole
+p332
+aVRon Spears
+p333
+asS'powers'
+p334
+(lp335
+g280
+ag281
+ag280
+ag284
+ag282
+ag282
+ag280
+ag281
+ag284
+ag284
+ag283
+ag280
+aV8
+p336
+ag280
+ag280
+ag280
+ag280
+ag282
+ag283
+ag283
+ag283
+ag282
+ag283
+ag282
+ag280
+ag280
+ag280
+ag282
+ag285
+ag280
+ag280
+ag281
+ag282
+ag283
+ag283
+ag280
+ag283
+ag285
+ag282
+ag282
+ag283
+ag280
+ag282
+ag283
+ag281
+asS'types'
+p337
+(lp338
+VLand
+p339
+aVLegendary Creature - Angel
+p340
+aVSorcery
+p341
+aVLegendary Creature - Spirit
+p342
+aVCreature - Goblin Shaman
+p343
+aVCreature - Goblin Warrior
+p344
+aVLegendary Artifact
+p345
+aVLegendary Creature - Angel
+p346
+aVCreature - Human Shaman
+p347
+aVCreature - Human Soldier
+p348
+aVCreature - Human Soldier
+p349
+aVInstant
+p350
+aVCreature - Giant Soldier
+p351
+aVPlane - Zendikar
+p352
+aVLand
+p353
+aVInstant
+p354
+aVSorcery
+p355
+aVCreature - Goblin Shaman
+p356
+aVCreature - Goblin Warrior
+p357
+aVCreature - Goblin Rogue Shaman
+p358
+aVCreature - Goblin Shaman
+p359
+aVLegendary Creature- Goblin Shaman
+p360
+aVCreature - Goblin Shaman
+p361
+aVCreature - Goblin Warrior
+p362
+aVSorcery
+p363
+aVLand
+p364
+aVLand
+p365
+aVCreature - Human Soldier
+p366
+aVCreature - Giant Warrior
+p367
+aVLegendary Artifact
+p368
+aVSorcery
+p369
+aVLegendary Creature - Angel
+p370
+aVCreature - Human Cleric
+p371
+aVCreature - Human Soldier
+p372
+aVCreature - Human Soldier
+p373
+aVArtifact Creature - Horse
+p374
+aVCreature - Human Berserker Ally
+p375
+aVCreature - Giant Soldier
+p376
+aVCreature - Human Warrior
+p377
+aVCreature - Hound
+p378
+aVCreature - Giant Soldier
+p379
+aVVanguard
+p380
+aVCreature - Djinn
+p381
+aVCreature - Giant Soldier
+p382
+aVLegendary Creature - Angel
+p383
+asS'numbers'
+p384
+(lp385
+V264
+p386
+aV108
+p387
+ag284
+aV61
+p388
+aV92
+p389
+aV93
+p390
+aV200
+p391
+aV94
+p392
+aV87
+p393
+ag282
+ag284
+aV11
+p394
+ag283
+ag283
+aV73
+p395
+ag283
+ag282
+aV152
+p396
+aV151
+p397
+aV155
+p398
+aV154
+p399
+aV153
+p400
+aV91
+p401
+aV92
+p402
+aV11
+p403
+aV272
+p404
+aV210
+p405
+ag283
+aV134
+p406
+aV159
+p407
+ag283
+ag283
+ag282
+aV111
+p408
+aV185
+p409
+aV210
+p410
+aV71
+p411
+aV43
+p412
+aV88
+p413
+ag284
+aV161
+p414
+aV33
+p415
+aV15
+p416
+aV185
+p417
+ag283
+as.

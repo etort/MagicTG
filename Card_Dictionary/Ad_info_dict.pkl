@@ -1,0 +1,650 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVRare
+p4
+aVCommon
+p5
+aVCommon
+p6
+aVCommon
+p7
+aVRare
+p8
+aVCommon
+p9
+aVRare
+p10
+aVCommon
+p11
+aVRare
+p12
+aVCommon
+p13
+aVRare
+p14
+aVUncommon
+p15
+aVUncommon
+p16
+aVCommon
+p17
+aVRare
+p18
+aVCommon
+p19
+aVRare
+p20
+aVRare
+p21
+aVRare
+p22
+aVUncommon
+p23
+aVCommon
+p24
+aVRare
+p25
+aVUncommon
+p26
+aVMythic Rare
+p27
+aVUncommon
+p28
+aVRare
+p29
+aVRare
+p30
+aVUncommon
+p31
+aVRare
+p32
+aVCommon
+p33
+asS'editns'
+p34
+(lp35
+VMagic 2012
+p36
+aVSaviors of Kamigawa
+p37
+aVBattle Royale Box Set
+p38
+aVMagic 2014 Core Set
+p39
+aVTempest
+p40
+aVTenth Edition
+p41
+aVVintage Masters
+p42
+aVModern Masters
+p43
+aVMasters Edition II
+p44
+aVNinth Edition
+p45
+aVGatecrash
+p46
+aVColdsnap
+p47
+aVColdsnap
+p48
+aVIce Age
+p49
+aVIce Age
+p50
+aVIce Age
+p51
+aVZendikar
+p52
+aVClassic Sixth Edition
+p53
+aVShards of Alara
+p54
+aVSeventh Edition
+p55
+aVShadowmoor
+p56
+aVFifth Dawn
+p57
+aVMasters Edition
+p58
+aVMagic: The Gathering\u2014Conspiracy
+p59
+aVWorldwake
+p60
+aVInvasion
+p61
+aVFifth Edition
+p62
+aVDragon's Maze
+p63
+aVLegends
+p64
+aVLegends
+p65
+aVLorwyn
+p66
+asS'ids'
+p67
+(lp68
+V220147
+p69
+aV74187
+p70
+aV21186
+p71
+aV370738
+p72
+aV4857
+p73
+aV129458
+p74
+aV382836
+p75
+aV370543
+p76
+aV184599
+p77
+aV84635
+p78
+aV366290
+p79
+aV121196
+p80
+aV121268
+p81
+aV2392
+p82
+aV2661
+p83
+aV2750
+p84
+aV178135
+p85
+aV14727
+p86
+aV174915
+p87
+aV11140
+p88
+aV154408
+p89
+aV50144
+p90
+aV159294
+p91
+aV382206
+p92
+aV197160
+p93
+aV23030
+p94
+aV4175
+p95
+aV369036
+p96
+aV1698
+p97
+aV1642
+p98
+aV145992
+p99
+asS'texts'
+p100
+(lp101
+VAs Adaptive Automaton enters the battlefield, choose a creature type.<br>Adaptive Automaton is the chosen type in addition to its other types.<br>Other creatures you control of the chosen type get +1/+1.
+p102
+aVAdamaro, First to Desire's power and toughness are each equal to the number of cards in the hand of the opponent with the most cards in hand.
+p103
+aVFirst strike<br>{W}: Target creature gains first strike until end of turn.
+p104
+aVAt the beginning of your end step, put a +1/+1 counter on target Beast creature you control.
+p105
+aVFlying
+p106
+aV{T}: Add {1} to your mana pool.<br>{T}: Add {W} or {U} to your mana pool. Adarkar Wastes deals 1 damage to you.
+p107
+aVChoose a color. Target player reveals his or her hand and you choose a card of that color from it. That player discards that card.
+p108
+aVFlying, vigilance<br>{T}: When target creature other than Adarkar Valkyrie dies this turn, return that card to the battlefield under your control.
+p109
+aV{1}: Adarkar Sentinel gets +0/+1 until end of turn.
+p110
+aVFlying
+p111
+aVEvolve <i>(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)</i>
+p112
+aVFlying, vigilance<br>{T}: When target creature other than Adarkar Valkyrie dies this turn, return that card to the battlefield under your control.
+p113
+aVRipple 4 <i>(When you cast this spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)</i><br>Surging Flame deals 2 damage to target creature or player.
+p114
+aV{1}: Adarkar Sentinel gets +0/+1 until end of turn.
+p115
+aVUntap all white creatures you control.<br><br>Whenever a creature blocks this turn, it gets +0/+1 until end of turn.
+p116
+aVEnchant creature<br>Enchanted creature gets +1/+1.<br>{W}: Enchanted creature gets +0/+1 until end of turn.
+p117
+aVLandfall- Whenever a land enters the battlefield under your control, equipped creature gets +2/+2 until end of turn.<br>Equip {1} <i>({1}: Attach to target creature you control. Equip only as a sorcery.)</i>
+p118
+aVEnchant Wall<br>Enchanted Wall can attack as though it didn't have defender.
+p119
+aVBlightning deals 3 damage to target player. That player discards two cards.
+p120
+aVBeast of Burden's power and toughness are each equal to the number of creatures on the battlefield.
+p121
+aVWhenever Wicker Warcrawler attacks or blocks, put a -1/-1 counter on it at end of combat.
+p122
+aVFlying<br>{U}: Advanced Hoverguard gains shroud until end of turn. <i>(It can't be the target of spells or abilities.)</i>
+p123
+aV{B}{R}{G}, {T}: Return target creature card from your graveyard to your hand.
+p124
+aV<i>(Start the game with this conspiracy face up in the command zone.)</i><br>Your minimum deck size is reduced by five.
+p125
+aVFlying<br>Landfall- Whenever a land enters the battlefield under your control, you may exile target nonland permanent other than Admonition Angel.<br>When Admonition Angel leaves the battlefield, return all cards exiled with it to the battlefield under their owners' control.
+p126
+aVChoose a color. Target player reveals his or her hand and you choose a card of that color from it. That player discards that card.
+p127
+aVExile two target nonartifact creatures. Ashes to Ashes deals 5 damage to you.
+p128
+aVPut a 5/5 green Wurm creature token with trample onto the battlefield.
+p129
+aVExcept for creatures named Akron Legionnaire and artifact creatures, creatures you control can't attack.
+p130
+aV{2}, {T}: Put a charge counter on Blue Mana Battery.<br><br>{T}, Remove any number of charge counters from Blue Mana Battery: Add {U} to your mana pool, then add an additional {U} to your mana pool for each charge counter removed this way.
+p131
+aVYou lose 2 life and draw two cards, then clash with an opponent. If you win, repeat this process. <i>(Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)</i>
+p132
+asS'costs'
+p133
+(lp134
+V{3}
+p135
+aV{1}{R}{R}
+p136
+aV{1}{W}
+p137
+aV{2}{G}
+p138
+aV{1}{W}
+p139
+aS'0'
+p140
+aV{1}{B}
+p141
+aV{4}{W}{W}
+p142
+aV{5}
+p143
+ag140
+aV{4}{G}
+p144
+aV{4}{W}{W}
+p145
+aV{4}{U}
+p146
+aV{5}
+p147
+aV{1}{W}{W}
+p148
+ag140
+aV{1}
+p149
+ag140
+aV{3}
+p150
+ag140
+aV{2/U}{2/U}{2/U}
+p151
+aV{3}{U}
+p152
+aV{B}{R}{G}
+p153
+ag140
+aV{3}{W}{W}{W}
+p154
+aV{1}{B}
+p155
+ag140
+aV{1}{G}{G}{W}
+p156
+ag140
+aV{B}{R}{G}
+p157
+aV{1}{R}
+p158
+asS'names'
+p159
+(lp160
+VAdaptive Automaton
+p161
+aVAdamaro, First to Desire
+p162
+aVAdvance Scout
+p163
+aVAdvocate of the Beast
+p164
+aVAdvance Scout
+p165
+aVAdarkar Wastes
+p166
+aVAddle
+p167
+aVAdarkar Valkyrie
+p168
+aVAdarkar Sentinel
+p169
+aVAdarkar Wastes
+p170
+aVAdaptive Snapjaw
+p171
+aVAdarkar Valkyrie
+p172
+aVAdarkar Windform
+p173
+aVAdarkar Sentinel
+p174
+aVAdarkar Unicorn
+p175
+aVAdarkar Wastes
+p176
+aVAdventuring Gear
+p177
+aVAdarkar Wastes
+p178
+aVAd Nauseam
+p179
+aVAdarkar Wastes
+p180
+aVAdvice from the Fae
+p181
+aVAdvanced Hoverguard
+p182
+aVAdun Oakenshield
+p183
+aVAdvantageous Proclamation
+p184
+aVAdmonition Angel
+p185
+aVAddle
+p186
+aVAdarkar Wastes
+p187
+aVAdvent of the Wurm
+p188
+aVAdventurers' Guildhouse
+p189
+aVAdun Oakenshield
+p190
+aVAdder-Staff Boggart
+p191
+asS'toughs'
+p192
+(lp193
+S'N/A'
+p194
+aV*
+p195
+aV1
+p196
+aV3
+p197
+ag196
+ag194
+ag194
+ag194
+ag194
+ag194
+aV2
+p198
+ag194
+ag194
+ag194
+ag197
+ag194
+ag194
+ag194
+ag194
+ag194
+ag194
+ag197
+aV4
+p199
+ag194
+aV6
+p200
+ag194
+ag194
+ag194
+ag194
+ag200
+ag197
+asS'artists'
+p201
+(lp202
+VVolkan Baga
+p203
+aVPaolo Parente
+p204
+aVHeather Hudson
+p205
+aVJesper Ejsing
+p206
+aVHeather Hudson
+p207
+aVJohn Avon
+p208
+aVRon Spears
+p209
+aS''
+p210
+aVMelissa A. Benson
+p211
+aVJohn Avon
+p212
+aVTomasz Jedruszek
+p213
+aVJeremy Jarvis
+p214
+aVRandy Gallegos
+p215
+aVMelissa Benson
+p216
+aVQuinton Hoover
+p217
+aVMike Raabe
+p218
+aVHoward Lyon
+p219
+aVGary Leach
+p220
+aVJeremy Jarvis
+p221
+aVJohn Avon
+p222
+aVChippy
+p223
+aVScott M. Fischer
+p224
+aVJeff A. Menges
+p225
+aVIzzy
+p226
+aVSteve Argyle
+p227
+aVRon Spears
+p228
+aVGary Leach
+p229
+aVLucas Graciano
+p230
+aVTom Wänerstrand
+p231
+aVJeff A. Menges
+p232
+aVJeff Miracola
+p233
+asS'powers'
+p234
+(lp235
+g194
+ag195
+ag196
+ag198
+ag196
+ag194
+ag194
+ag194
+ag194
+ag194
+ag200
+ag194
+ag194
+ag194
+ag196
+ag194
+ag194
+ag194
+ag194
+ag194
+ag194
+ag198
+ag197
+ag194
+ag200
+ag194
+ag194
+ag194
+ag194
+ag198
+ag198
+asS'types'
+p236
+(lp237
+VArtifact Creature - Construct
+p238
+aVLegendary Creature - Spirit
+p239
+aVCreature - Human Soldier Scout
+p240
+aVCreature - Elf Shaman
+p241
+aVCreature - Human Soldier Scout
+p242
+aVLand
+p243
+aVSorcery
+p244
+aVSnow Creature - Angel
+p245
+aVArtifact Creature - Soldier
+p246
+aVLand
+p247
+aVCreature - Lizard Beast
+p248
+aVSnow Creature - Angel
+p249
+aVSnow Creature - Illusion
+p250
+aVArtifact Creature - Soldier
+p251
+aVCreature - Unicorn
+p252
+aVLand
+p253
+aVArtifact - Equipment
+p254
+aVLand
+p255
+aVInstant
+p256
+aVLand
+p257
+aVSorcery
+p258
+aVCreature - Drone
+p259
+aVLegendary Creature - Human Knight
+p260
+aVConspiracy
+p261
+aVCreature - Angel
+p262
+aVSorcery
+p263
+aVLand
+p264
+aVInstant
+p265
+aVLand
+p266
+aVLegendary Creature - Human Knight
+p267
+aVCreature - Goblin Warrior
+p268
+asS'numbers'
+p269
+(lp270
+V201
+p271
+aV91
+p272
+aV41
+p273
+aV164
+p274
+aV224
+p275
+aV347
+p276
+aV103
+p277
+ag210
+aV201
+p278
+aV317
+p279
+aV113
+p280
+ag196
+aV26
+p281
+ag196
+aV176
+p282
+aV244
+p283
+aV195
+p284
+aV319
+p285
+aV63
+p286
+aV325
+p287
+aV28
+p288
+aV22
+p289
+aV141
+p290
+ag196
+ag196
+aV91
+p291
+aV204
+p292
+aV51
+p293
+aV172
+p294
+aV184
+p295
+aV148
+p296
+as.

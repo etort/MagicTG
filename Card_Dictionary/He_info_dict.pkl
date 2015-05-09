@@ -1,0 +1,3859 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVCommon
+p4
+aVRare
+p5
+aVCommon
+p6
+aVCommon
+p7
+aVUncommon
+p8
+aVUncommon
+p9
+aVRare
+p10
+aVRare
+p11
+aVCommon
+p12
+aVCommon
+p13
+aVUncommon
+p14
+aVRare
+p15
+aVUncommon
+p16
+aVRare
+p17
+aVRare
+p18
+aVRare
+p19
+aVUncommon
+p20
+aVUncommon
+p21
+aVUncommon
+p22
+aVRare
+p23
+aVRare
+p24
+aVRare
+p25
+aVRare
+p26
+aVRare
+p27
+aVCommon
+p28
+aVRare
+p29
+aVUncommon
+p30
+aVCommon
+p31
+aVCommon
+p32
+aVCommon
+p33
+aVRare
+p34
+aVRare
+p35
+aVUncommon
+p36
+aVUncommon
+p37
+aVRare
+p38
+aVRare
+p39
+aVMythic Rare
+p40
+aVMythic Rare
+p41
+aVCommon
+p42
+aVCommon
+p43
+aVUncommon
+p44
+aVCommon
+p45
+aVCommon
+p46
+aVCommon
+p47
+aVRare
+p48
+aVCommon
+p49
+aVRare
+p50
+aVRare
+p51
+aVRare
+p52
+aVRare
+p53
+aVCommon
+p54
+aVRare
+p55
+aVUncommon
+p56
+aVUncommon
+p57
+aVUncommon
+p58
+aVCommon
+p59
+aVRare
+p60
+aVCommon
+p61
+aVRare
+p62
+aVUncommon
+p63
+aVRare
+p64
+aVUncommon
+p65
+aVUncommon
+p66
+aVUncommon
+p67
+aVRare
+p68
+aVRare
+p69
+aVCommon
+p70
+aVRare
+p71
+aVRare
+p72
+aVRare
+p73
+aVUncommon
+p74
+aVCommon
+p75
+aVCommon
+p76
+aVRare
+p77
+aVRare
+p78
+aVCommon
+p79
+aVUncommon
+p80
+aVUncommon
+p81
+aVMythic Rare
+p82
+aVUncommon
+p83
+aVRare
+p84
+aVRare
+p85
+aVCommon
+p86
+aVRare
+p87
+aVUncommon
+p88
+aVCommon
+p89
+aVRare
+p90
+aVRare
+p91
+aVCommon
+p92
+aVUncommon
+p93
+aVCommon
+p94
+aVUncommon
+p95
+aVRare
+p96
+aVUncommon
+p97
+aVCommon
+p98
+aVCommon
+p99
+aVRare
+p100
+aVUncommon
+p101
+aVCommon
+p102
+aVMythic Rare
+p103
+aVRare
+p104
+aVCommon
+p105
+aVUncommon
+p106
+aVRare
+p107
+aVUncommon
+p108
+aVCommon
+p109
+aVRare
+p110
+aVCommon
+p111
+aVRare
+p112
+aVRare
+p113
+aVMythic Rare
+p114
+aVRare
+p115
+aVRare
+p116
+aVRare
+p117
+aVUncommon
+p118
+aVCommon
+p119
+aVRare
+p120
+aVRare
+p121
+aVCommon
+p122
+aVCommon
+p123
+aVCommon
+p124
+aVRare
+p125
+aVUncommon
+p126
+aVRare
+p127
+aVRare
+p128
+aVCommon
+p129
+aVCommon
+p130
+aVCommon
+p131
+aVCommon
+p132
+aVRare
+p133
+aVMythic Rare
+p134
+aVUncommon
+p135
+aVRare
+p136
+aVRare
+p137
+aVRare
+p138
+aVCommon
+p139
+aVRare
+p140
+aVUncommon
+p141
+aVCommon
+p142
+aVCommon
+p143
+aVRare
+p144
+aVUncommon
+p145
+aVRare
+p146
+aVRare
+p147
+aVCommon
+p148
+aVCommon
+p149
+aVRare
+p150
+aVRare
+p151
+aVUncommon
+p152
+aVUncommon
+p153
+aVUncommon
+p154
+aVRare
+p155
+aVCommon
+p156
+aVSpecial
+p157
+aVSpecial
+p158
+aVSpecial
+p159
+aVRare
+p160
+aVRare
+p161
+aVCommon
+p162
+aVRare
+p163
+aVUncommon
+p164
+aVCommon
+p165
+aVUncommon
+p166
+aVCommon
+p167
+aVUncommon
+p168
+aVUncommon
+p169
+aVRare
+p170
+aVUncommon
+p171
+aVCommon
+p172
+aVCommon
+p173
+aVRare
+p174
+aVUncommon
+p175
+aVRare
+p176
+aVCommon
+p177
+aVUncommon
+p178
+aVRare
+p179
+aVUncommon
+p180
+aVCommon
+p181
+aVCommon
+p182
+aVCommon
+p183
+aVUncommon
+p184
+aVCommon
+p185
+aVRare
+p186
+aVUncommon
+p187
+aVUncommon
+p188
+aVCommon
+p189
+aVCommon
+p190
+aVCommon
+p191
+aVUncommon
+p192
+aVRare
+p193
+aVMythic Rare
+p194
+asS'editns'
+p195
+(lp196
+VMagic: The Gathering-Commander
+p197
+aVLimited Edition Beta
+p198
+aVLimited Edition Beta
+p199
+aVBattle Royale Box Set
+p200
+aVBattle Royale Box Set
+p201
+aVMorningtide
+p202
+aVMagic 2013
+p203
+aVMagic 2013
+p204
+aVFourth Edition
+p205
+aVFourth Edition
+p206
+aVPlanar Chaos
+p207
+aVPlanar Chaos
+p208
+aVPlanar Chaos
+p209
+aVDuel Decks: Ajani vs. Nicol Bolas
+p210
+aVAlliances
+p211
+aVAlliances
+p212
+aVFrom the Vault: Dragons
+p213
+aVDuel Decks: Knights vs. Dragons
+p214
+aVDuel Decks: Knights vs. Dragons
+p215
+aVScars of Mirrodin
+p216
+aVBorn of the Gods
+p217
+aVBorn of the Gods
+p218
+aVBorn of the Gods
+p219
+aVBorn of the Gods
+p220
+aVTempest
+p221
+aVTempest
+p222
+aVTempest
+p223
+aVTempest
+p224
+aVTempest
+p225
+aVTempest
+p226
+aVTenth Edition
+p227
+aVTenth Edition
+p228
+aVMercadian Masques
+p229
+aVMercadian Masques
+p230
+aVMercadian Masques
+p231
+aVVintage Masters
+p232
+aVMirrodin Besieged
+p233
+aVMirrodin Besieged
+p234
+aVMirrodin Besieged
+p235
+aVMirrodin Besieged
+p236
+aVStarter 2000
+p237
+aVFallen Empires
+p238
+aVApocalypse
+p239
+aVMasters Edition III
+p240
+aVMasters Edition III
+p241
+aVMasters Edition III
+p242
+aVRevised Edition
+p243
+aVRevised Edition
+p244
+aVMasters Edition II
+p245
+aVMasters Edition II
+p246
+aVNinth Edition
+p247
+aVEventide
+p248
+aVEventide
+p249
+aVEventide
+p250
+aVConflux
+p251
+aVConflux
+p252
+aVAvacyn Restored
+p253
+aVAvacyn Restored
+p254
+aVPlanechase 2012 Edition
+p255
+aVPlanechase 2012 Edition
+p256
+aVPlanechase 2012 Edition
+p257
+aVDuel Decks: Sorin vs. Tibalt
+p258
+aVDuel Decks: Sorin vs. Tibalt
+p259
+aVOnslaught
+p260
+aVOnslaught
+p261
+aVOnslaught
+p262
+aVChampions of Kamigawa
+p263
+aVChampions of Kamigawa
+p264
+aVChampions of Kamigawa
+p265
+aVBetrayers of Kamigawa
+p266
+aVBetrayers of Kamigawa
+p267
+aVBetrayers of Kamigawa
+p268
+aVBetrayers of Kamigawa
+p269
+aVUrza's Destiny
+p270
+aVRavnica: City of Guilds
+p271
+aVRavnica: City of Guilds
+p272
+aVTime Spiral
+p273
+aVReturn to Ravnica
+p274
+aVReturn to Ravnica
+p275
+aVGatecrash
+p276
+aVGatecrash
+p277
+aVColdsnap
+p278
+aVColdsnap
+p279
+aVUnlimited Edition
+p280
+aVUnlimited Edition
+p281
+aVIce Age
+p282
+aVIce Age
+p283
+aVIce Age
+p284
+aVTorment
+p285
+aVZendikar
+p286
+aVZendikar
+p287
+aVZendikar
+p288
+aVZendikar
+p289
+aVZendikar
+p290
+aVClassic Sixth Edition
+p291
+aVClassic Sixth Edition
+p292
+aVClassic Sixth Edition
+p293
+aVClassic Sixth Edition
+p294
+aVMirrodin
+p295
+aVMirrodin
+p296
+aVShards of Alara
+p297
+aVShards of Alara
+p298
+aVSeventh Edition
+p299
+aVSeventh Edition
+p300
+aVProphecy
+p301
+aVMagic 2015 Core Set
+p302
+aVMagic 2015 Core Set
+p303
+aVDarksteel
+p304
+aVRise of the Eldrazi
+p305
+aVRise of the Eldrazi
+p306
+aVRise of the Eldrazi
+p307
+aVRise of the Eldrazi
+p308
+aVRise of the Eldrazi
+p309
+aVPromo set for Gatherer
+p310
+aVShadowmoor
+p311
+aVShadowmoor
+p312
+aVShadowmoor
+p313
+aVNew Phyrexia
+p314
+aVFifth Dawn
+p315
+aVFifth Dawn
+p316
+aVFifth Dawn
+p317
+aVFuture Sight
+p318
+aVFuture Sight
+p319
+aVPlanechase
+p320
+aVPlanechase
+p321
+aVUrza's Saga
+p322
+aVUrza's Saga
+p323
+aVUrza's Saga
+p324
+aVUrza's Saga
+p325
+aVUrza's Saga
+p326
+aVMasters Edition
+p327
+aVTheros
+p328
+aVTheros
+p329
+aVTheros
+p330
+aVWeatherlight
+p331
+aVWeatherlight
+p332
+aVWeatherlight
+p333
+aVMagic: The Gathering\u2014Conspiracy
+p334
+aVMagic: The Gathering\u2014Conspiracy
+p335
+aVEighth Edition
+p336
+aVWorldwake
+p337
+aVChronicles
+p338
+aVInvasion
+p339
+aVJourney into Nyx
+p340
+aVFifth Edition
+p341
+aVFifth Edition
+p342
+aVFifth Edition
+p343
+aVFifth Edition
+p344
+aVArchenemy
+p345
+aVArchenemy
+p346
+aVKhans of Tarkir
+p347
+aVKhans of Tarkir
+p348
+aVKhans of Tarkir
+p349
+aVMirage
+p350
+aVVanguard
+p351
+aVVanguard
+p352
+aVVanguard
+p353
+aVInnistrad
+p354
+aVInnistrad
+p355
+aVLimited Edition Alpha
+p356
+aVLimited Edition Alpha
+p357
+aVVisions
+p358
+aVVisions
+p359
+aVVisions
+p360
+aVMasters Edition IV
+p361
+aVStronghold
+p362
+aVStronghold
+p363
+aVStronghold
+p364
+aVStronghold
+p365
+aVLegends
+p366
+aVLegends
+p367
+aVLegends
+p368
+aVLegends
+p369
+aVLegends
+p370
+aVDissension
+p371
+aVDissension
+p372
+aVLorwyn
+p373
+aVLorwyn
+p374
+aVLorwyn
+p375
+aVLorwyn
+p376
+aVPremium Deck Series: Slivers
+p377
+aVPremium Deck Series: Slivers
+p378
+aVHomelands
+p379
+aVHomelands
+p380
+aVPortal Three Kingdoms
+p381
+aVPremium Deck Series: Fire and Lightning
+p382
+aVPlaneshift
+p383
+aVDark Ascension
+p384
+aVDark Ascension
+p385
+aVDark Ascension
+p386
+aVDark Ascension
+p387
+aVDark Ascension
+p388
+asS'ids'
+p389
+(lp390
+V247382
+p391
+aV549
+p392
+aV312
+p393
+aV21159
+p394
+aV21130
+p395
+aV152556
+p396
+aV276206
+p397
+aV253729
+p398
+aV2047
+p399
+aV2343
+p400
+aV122371
+p401
+aV122405
+p402
+aV122438
+p403
+aV249408
+p404
+aV3047
+p405
+aV3232
+p406
+aV178028
+p407
+aV243473
+p408
+aV243446
+p409
+aV209050
+p410
+aV378447
+p411
+aV378389
+p412
+aV378495
+p413
+aV378531
+p414
+aV4611
+p415
+aV4765
+p416
+aV4766
+p417
+aV4767
+p418
+aV4824
+p419
+aV4879
+p420
+aV132090
+p421
+aV135255
+p422
+aV19766
+p423
+aV19768
+p424
+aV19770
+p425
+aV382973
+p426
+aV214052
+p427
+aV214064
+p428
+aV214028
+p429
+aV213807
+p430
+aV25536
+p431
+aV1980
+p432
+aV26854
+p433
+aV201291
+p434
+aV201281
+p435
+aV201141
+p436
+aV1348
+p437
+aV1111
+p438
+aV184549
+p439
+aV184550
+p440
+aV84590
+p441
+aV141942
+p442
+aV150992
+p443
+aV157201
+p444
+aV189146
+p445
+aV174799
+p446
+aV240201
+p447
+aV240161
+p448
+aV226544
+p449
+aV271158
+p450
+aV271141
+p451
+aV368530
+p452
+aV368477
+p453
+aV39726
+p454
+aV39744
+p455
+aV41132
+p456
+aV50461
+p457
+aV77139
+p458
+aV78602
+p459
+aV74465
+p460
+aV74572
+p461
+aV74660
+p462
+aV81982
+p463
+aV15220
+p464
+aV88990
+p465
+aV89059
+p466
+aV118873
+p467
+aV289211
+p468
+aV290537
+p469
+aV366244
+p470
+aV366342
+p471
+aV121147
+p472
+aV121250
+p473
+aV851
+p474
+aV614
+p475
+aV2406
+p476
+aV2690
+p477
+aV2454
+p478
+aV34384
+p479
+aV191361
+p480
+aV180348
+p481
+aV193394
+p482
+aV192215
+p483
+aV185727
+p484
+aV14486
+p485
+aV16426
+p486
+aV16425
+p487
+aV11319
+p488
+aV46059
+p489
+aV48055
+p490
+aV175057
+p491
+aV176455
+p492
+aV25545
+p493
+aV13017
+p494
+aV24594
+p495
+aV383264
+p496
+aV383265
+p497
+aV51074
+p498
+aV193649
+p499
+aV193536
+p500
+aV193421
+p501
+aV193656
+p502
+aV198306
+p503
+aV97046
+p504
+aV153312
+p505
+aV154395
+p506
+aV158769
+p507
+aV218008
+p508
+aV47449
+p509
+aV50192
+p510
+aV51182
+p511
+aV130695
+p512
+aV132216
+p513
+aV205381
+p514
+aV205360
+p515
+aV5578
+p516
+aV8784
+p517
+aV8805
+p518
+aV8813
+p519
+aV10464
+p520
+aV159748
+p521
+aV373524
+p522
+aV373729
+p523
+aV373575
+p524
+aV4552
+p525
+aV4553
+p526
+aV4579
+p527
+aV382282
+p528
+aV382283
+p529
+aV45180
+p530
+aV194686
+p531
+aV2809
+p532
+aV23183
+p533
+aV380434
+p534
+aV3850
+p535
+aV4129
+p536
+aV4130
+p537
+aV3788
+p538
+aV220468
+p539
+aV220501
+p540
+aV386551
+p541
+aV386552
+p542
+aV386553
+p543
+aV3495
+p544
+aV182257
+p545
+aV182264
+p546
+aV201076
+p547
+aV244678
+p548
+aV249974
+p549
+aV253
+p550
+aV17
+p551
+aV3593
+p552
+aV3689
+p553
+aV3690
+p554
+aV220959
+p555
+aV5164
+p556
+aV5165
+p557
+aV5166
+p558
+aV5167
+p559
+aV1442
+p560
+aV1443
+p561
+aV1445
+p562
+aV1617
+p563
+aV1444
+p564
+aV107535
+p565
+aV97100
+p566
+aV139468
+p567
+aV139691
+p568
+aV139740
+p569
+aV145808
+p570
+aV207906
+p571
+aV207924
+p572
+aV2924
+p573
+aV3004
+p574
+aV10523
+p575
+aV234711
+p576
+aV26420
+p577
+aV244761
+p578
+aV244766
+p579
+aV262704
+p580
+aV226874
+p581
+aV262679
+p582
+asS'texts'
+p583
+(lp584
+VDestroy six target creatures.
+p585
+aVDestroy target land.
+p586
+aV{1}, {T}: Tap target artifact, creature, or land.
+p587
+aVHeat Ray deals X damage to target creature.
+p588
+aVHurricane deals X damage to each creature with flying and each player.
+p589
+aVTap three untapped Elves you control: Add {G}{G}{G} to your mana pool.
+p590
+aVWhenever another creature enters the battlefield under your control, you gain 2 life.
+p591
+aVG
+p592
+aV{1}, {T}: Target creature gains banding until end of turn. <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
+p593
+aVInferno deals 6 damage to each creature and each player.
+p594
+aVChoose one- Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn.
+p595
+aVHedge Troll gets +1/+1 as long as you control a Plains.<br>{W}: Regenerate Hedge Troll.
+p596
+aVYou gain 20 life.<br>Suspend 10\u2014{W} <i>(Rather than cast this card from your hand, you may pay {W} and exile it with ten time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)</i>
+p597
+aVAt the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Hellfire Mongrel deals 2 damage to him or her.
+p598
+aV{X}, {T}: Target opponent puts cards from the top of his or her library into his or her graveyard until a creature card or X cards are put into that graveyard this way, whichever comes first. If a creature card is put into that graveyard this way, sacrifice Helm of Obedience and put that card onto the battlefield under your control. X can't be 0.
+p599
+aVIf Kjeldoran Outpost would enter the battlefield, sacrifice a Plains instead. If you do, put Kjeldoran Outpost onto the battlefield. If you don't, put it into its owner's graveyard.<br>{T}: Add {W} to your mana pool.<br>{1}{W}, {T}: Put a 1/1 white Soldier creature token onto the battlefield.
+p600
+aVFlying, trample, haste<br>{R}: Hellkite Overlord gets +1/+0 until end of turn.<br>{B}{G}: Regenerate Hellkite Overlord.
+p601
+aV{2}: Henge Guardian gains trample until end of turn.
+p602
+aVTarget player gains 7 life.
+p603
+aVFlying<br>{3}{R}: Destroy target artifact. Hoard-Smelter Dragon gets +X/+0 until end of turn, where X is that artifact's converted mana cost.
+p604
+aVHeroic- Whenever you cast a spell that targets Hero of Leina Tower, you may pay {X}. If you do, put X +1/+1 counters on Hero of Leina Tower.
+p605
+aVEach legendary creature you control gets +1/+1 for each other legendary creature you control.<br>{X}, {T}: Look at the top X cards of your library. You may reveal a legendary creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+p606
+aVPrevent the next 7 damage that would be dealt to target creature or player this turn.
+p607
+aVUntil end of turn, target creature gets +3/+3 and gains trample and "Whenever this creature deals combat damage to a player, draw that many cards."
+p608
+aVYou may choose not to untap Helm of Possession during your untap step.<br>{2}, {T}, Sacrifice a creature: Gain control of target creature for as long as you control Helm of Possession and Helm of Possession remains tapped.
+p609
+aV{T}, Sacrifice a Forest: Heartwood Giant deals 2 damage to target player.
+p610
+aVForestwalk
+p611
+aVAll Sliver creatures have trample.
+p612
+aVWhenever Jackal Pup is dealt damage, it deals that much damage to you.
+p613
+aVWhenever an opponent casts a green spell, you draw a card.
+p614
+aV{1}{W}{W}: Target creature gets +1/+1 until end of turn.
+p615
+aVPut target artifact or creature card from a graveyard onto the battlefield under your control. Shuffle Beacon of Unrest into its owner's library.
+p616
+aV{T}: Add {1} to your mana pool.<br><br>{2}, {T}: Add one mana of any color to your mana pool.
+p617
+aV{2}: Henge Guardian gains trample until end of turn.
+p618
+aV{2}: Target creature gains protection from the color of its controller's choice until end of turn. Any player may activate this ability.
+p619
+aVHulking Goblin can't block.
+p620
+aVFlying, haste<br>{1}{R}: Hellkite Igniter gets +X/+0 until end of turn, where X is the number of artifacts you control.
+p621
+aVBattle cry <i>(Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)</i><br>Whenever Hero of Bladehold attacks, put two 1/1 white Soldier creature tokens onto the battlefield tapped and attacking.
+p622
+aVHaste<br>Battle cry <i>(Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)</i><br>Whenever Hero of Oxid Ridge attacks, creatures with power 1 or less can't block this turn.
+p623
+aVTarget player discards a card, then puts the top card of his or her library into his or her graveyard.
+p624
+aVLava Axe deals 5 damage to target player.
+p625
+aVSacrifice a white creature: For each attacking red creature, prevent all combat damage that would be dealt by that creature this turn unless its controller pays {2}{R}.
+p626
+aVFlying<br>{1}, {T}: Add one mana of any color to your mana pool.
+p627
+aVDestroy all nonblack creatures. Hellfire deals X plus 3 damage to you, where X is the number of creatures that died this way.
+p628
+aV{T}: Put target creature card from your graveyard on top of your library. Activate this ability only during your turn, before attackers are declared.
+p629
+aVRampage 1 <i>(Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)</i>
+p630
+aVU
+p631
+ag631
+aVIcatian Javelineers enters the battlefield with a javelin counter on it.<br>{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player.
+p632
+aVBanding <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
+p633
+aVEnchant land <i>(Target a land as you cast this. This card enters the battlefield attached to that land.)</i><br>Whenever enchanted land is tapped for mana, its controller adds {G}{G} to his or her mana pool <i>(in addition to the mana the land produces)</i>.
+p634
+aVHaste<br>Chroma- When Heartlash Cinder enters the battlefield, it gets +X/+0 until end of turn, where X is the number of red mana symbols in the mana costs of permanents you control.
+p635
+aVShroud<br>{X}: Put X tower counters on Helix Pinnacle.<br>At the beginning of your upkeep, if there are 100 or more tower counters on Helix Pinnacle, you win the game.
+p636
+aVDouble strike
+p637
+aVIgnite Disorder deals 3 damage divided as you choose among one, two, or three target white and/or blue creatures.
+p638
+aVWhenever Infectious Horror attacks, each opponent loses 2 life.
+p639
+aVFlying<br>Whenever Herald of War attacks, put a +1/+1 counter on it.<br>Angel spells and Human spells you cast cost {1} less to cast for each +1/+1 counter on Herald of War.
+p640
+aV{2}{W}, {T}: Tap target creature. If that creature is a Zombie, exile it.
+p641
+aVCreatures with power 7 or greater can't attack or block.<br>Whenever you roll chaos, put a 7/7 colorless Eldrazi creature token with annihilator 1 onto the battlefield. <i>(Whenever it attacks, defending player sacrifices a permanent.)</i>
+p642
+aVDevour 1 <i>(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)</i><br>Hellkite Hatchling has flying and trample if it devoured a creature.
+p643
+aVNinjutsu {2}{U}{U} <i>({2}{U}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i><br>Whenever Higure, the Still Wind deals combat damage to a player, you may search your library for a Ninja card, reveal it, and put it into your hand. If you do, shuffle your library.<br>{2}: Target Ninja creature is unblockable this turn.
+p644
+aVHaste<br>Whenever a creature you control attacks, Hellrider deals 1 damage to defending player.
+p645
+aVTrample, haste<br>At the beginning of the end step, sacrifice Hellspark Elemental.<br>Unearth {1}{R} <i>({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</i>
+p646
+aVWhenever Headhunter deals combat damage to a player, that player discards a card.<br>Morph {B} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p647
+aVTrample<br>Heedless One's power and toughness are each equal to the number of Elves on the battlefield.
+p648
+ag631
+aVEquipped creature has "{T}: Put an aim counter on Hankyu" and "{T}, Remove all aim counters from Hankyu: This creature deals damage to target creature or player equal to the number of aim counters removed this way."<br>Equip {4} <i>({4}: Attach to target creature you control. Equip only as a sorcery.)</i>
+p649
+aVUntap all creatures you control. Samurai creatures you control get +1/+1 until end of turn.
+p650
+aVMyojin of Seeing Winds enters the battlefield with a divinity counter on it if you cast it from your hand.<br>Myojin of Seeing Winds is indestructible as long as it has a divinity counter on it.<br>Remove a divinity counter from Myojin of Seeing Winds: Draw a card for each permanent you control.
+p651
+aVSacrifice Nezumi Shadow-Watcher: Destroy target Ninja.
+p652
+aVFlash<br>Enchant creature<br>If a creature dealt damage by enchanted creature this turn would die, exile it instead.
+p653
+aVEnchant Mountain<br>{2}: Enchanted Mountain becomes a 6/1 red Spirit creature until end of turn. It's still a land.<br>When enchanted Mountain is put into a graveyard, you may return Genju of the Spires from your graveyard to your hand.
+p654
+aVExile target enchantment. Search its controller's graveyard, hand, and library for all cards with the same name as that enchantment and exile them. Then that player shuffles his or her library.
+p655
+aV{T}: Add {G} to your mana pool.<br>{2}, Sacrifice Heart Warden: Draw a card.
+p656
+aV<i>({R/W} can be paid with either {R} or {W}.)</i><br>First strike
+p657
+aVTarget player reveals his or her hand. You choose a card from it. That player discards that card.<br>Dredge 2 <i>(If you would draw a card, instead you may put exactly two cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)</i>
+p658
+aVWhenever another creature enters the battlefield under your control, Herd Gnarr gets +2/+2 until end of turn.
+p659
+aVFlash <i>(You may cast this spell any time you could cast an instant.)</i><br>Vigilance
+p660
+aVFlying, haste<br>You may cast sorcery cards as though they had flash. <i>(You may cast them any time you could cast an instant.)</i>
+p661
+aVCreatures you control have haste and attack each combat if able.
+p662
+aVWhenever High Priest of Penance is dealt damage, you may destroy target nonland permanent.
+p663
+aV{2}, {T}: Return target permanent to its owner's hand. Activate this ability only if you control four or more snow permanents.
+p664
+aVYou may exile two white cards from your hand rather than pay Sunscour's mana cost.<br>Destroy all creatures.
+p665
+aVEnchant creature<br>Enchanted creature can attack as though it had haste.<br>{0}: Untap enchanted creature. Activate this ability only during your turn and only once each turn.
+p666
+aVEnchant creature<br>Enchanted creature can't be blocked except by Walls.
+p667
+aVWhenever a player casts a red spell, you may pay {3}. If you do, untap target permanent.
+p668
+aVTarget creature gets +X/+0 until end of turn.
+p669
+aVHurricane deals X damage to each creature with flying and each player.
+p670
+aVFirst strike, haste<br>Discard a card at random: Hell-Bent Raider gains protection from white until end of turn.
+p671
+aVKicker {2}{B} <i>(You may pay an additional {2}{B} as you cast this spell.)</i><br>Flying<br>When Heartstabber Mosquito enters the battlefield, if it was kicked, destroy target creature.
+p672
+aVLandfall- Whenever a land enters the battlefield under your control, target player puts the top three cards of his or her library into his or her graveyard.
+p673
+aVLandfall- Whenever a land enters the battlefield under your control, Hedron Scrabbler gets +1/+1 until end of turn.
+p674
+aVAt the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Hellfire Mongrel deals 2 damage to him or her.
+p675
+aVFlying, haste<br>Whenever Hellkite Charger attacks, you may pay {5}{R}{R}. If you do, untap all attacking creatures and after this phase, there is an additional combat phase.
+p676
+aVFlying, vigilance
+p677
+aV{2}{U}{U}: Look at the top five cards of your library, put one of them into your hand, and exile the rest.
+p678
+ag631
+ag631
+aV{3}, {T} or {G}, {T}: Target creature gains trample until end of turn.
+p679
+aV{1}{R}: Hematite Golem gets +2/+0 until end of turn.
+p680
+aV{T}: Add {R}, {G}, or {W} to your mana pool.
+p681
+aVUntil end of turn, target creature you control gets +3/+3 and other creatures you control get +1/+1.
+p682
+ag631
+ag631
+aVAs Heightened Awareness enters the battlefield, discard your hand.<br>At the beginning of your draw step, draw an additional card.
+p683
+aVFlying<br>Deathtouch <i>(Any amount of damage this deals to a creature is enough to destroy it.)</i><br>When Hornet Queen enters the battlefield, put four 1/1 green Insect creature tokens with flying and deathtouch onto the battlefield.
+p684
+aVEquipped creature can't be blocked.<br>Whenever equipped creature is dealt damage, destroy it.<br>Equip {3} <i>({3}: Attach to target creature you control. Equip only as a sorcery.)</i>
+p685
+aVEquipped creature gets +2/+1 and has "{T}, Unattach Heartseeker: Destroy target creature."<br>Equip {5} <i>({5}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)</i>
+p686
+aVEquipped creature gets +X/+X, where X is its converted mana cost.<br>Equip {4}
+p687
+aVLevel up {2}{W} <i>({2}{W}: Put a level counter on this. Level up only as a sorcery.)</i><br>LEVEL 1-4<br>1/4<br>If a source would deal damage to you or a creature you control, prevent 1 of that damage.<br>LEVEL 5+<br>2/5<br>If a source would deal damage to you or a creature you control, prevent 2 of that damage.
+p688
+aVFlying<br>Whenever Hellcarver Demon deals combat damage to a player, sacrifice all other permanents you control and discard your hand. Exile the top six cards of your library. You may cast any number of nonland cards exiled this way without paying their mana costs.
+p689
+aVSacrifice all creatures you control, then put that many 4/4 red Hellion creature tokens onto the battlefield.
+p690
+aVEnchant creature<br>Enchanted creature gets +1/+1 and has first strike.<br>Totem armor <i>(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)</i>
+p691
+aVEquipped creature has first strike, trample, and haste.<br>{1}: If you control Equipment named Helm of Kaldra, Sword of Kaldra, and Shield of Kaldra, put a legendary 4/4 colorless Avatar creature token named Kaldra onto the battlefield and attach those Equipment to it.<br>Equip {2}
+p692
+aVEquipped creature has "{3}, {Q}: This creature gets +2/+2 until end of turn." <i>({Q} is the untap symbol.)</i><br>Equip {0}
+p693
+aVAs Lurebound Scarecrow enters the battlefield, choose a color.<br>When you control no permanents of the chosen color, sacrifice Lurebound Scarecrow.
+p694
+aVTarget creature gets +2/+2 until end of turn.<br>Conspire <i>(As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)</i>
+p695
+aVFlying, vigilance
+p696
+aVEquipped creature has first strike, trample, and haste.<br>{1}: If you control Equipment named Helm of Kaldra, Sword of Kaldra, and Shield of Kaldra, put a legendary 4/4 colorless Avatar creature token named Kaldra onto the battlefield and attach those Equipment to it.<br>Equip {2}
+p697
+aVSunburst <i>(This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)</i><br>{2}, Sacrifice Heliophial: Heliophial deals damage equal to the number of charge counters on it to target creature or player.
+p698
+aVEquipped creature gets +0/+2 and has "{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn."<br>{W}{W}: Attach Healer's Headdress to target creature you control.<br>Equip {1} <i>({1}: Attach to target creature you control. Equip only as a sorcery.)</i>
+p699
+aVCounter target spell.<br>At the beginning of your next upkeep, pay {3}{U}{U}. If you don't, you lose the game.
+p700
+aVFlash <i>(You may cast this spell any time you could cast an instant.)</i><br>Enchant creature<br>Enchanted creature has "Discard a card: This creature gets +1/+1 until end of turn."
+p701
+aVDouble strike
+p702
+aV{B}{B}{B}, {T}: Destroy target land. If that land was nonbasic, untap Helldozer.
+p703
+aVFlying, vigilance<br>Echo {2}{W}{W} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i>
+p704
+aVEnchant creature<br>Enchanted creature gets +2/+2 and has flying and shroud. <i>(It can't be the target of spells or abilities.)</i>
+p705
+aVProtection from blue
+p706
+aVWhenever Hollow Dogs attacks, it gets +2/+0 until end of turn.
+p707
+aV{U}: Untap Horseshoe Crab.
+p708
+aVWhen Hecatomb enters the battlefield, sacrifice Hecatomb unless you sacrifice four creatures.<br>Tap an untapped Swamp you control: Hecatomb deals 1 damage to target creature or player.
+p709
+aVBestow {3}{W} <i>(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)</i><br>Lifelink <i>(Damage dealt by this creature also causes you to gain that much life.)</i><br>Enchanted creature gets +1/+1 and has lifelink.
+p710
+aVFlash <i>(You may cast this spell any time you could cast an instant.)</i><br>Flying, trample<br>Whenever you draw a card, you gain 1 life.
+p711
+aVFlying<br>When Horizon Scholar enters the battlefield, scry 2. <i>(Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</i>
+p712
+aVCumulative upkeep {2} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>When a player doesn't pay Heart of Bogardan's cumulative upkeep, Heart of Bogardan deals X damage to target player and each creature he or she controls, where X is twice the number of age counters on Heart of Bogardan minus 2.
+p713
+aVAt end of combat, destroy each creature that blocked or was blocked this turn.
+p714
+aV{T}: Heavy Ballista deals 2 damage to target attacking or blocking creature.
+p715
+aV{T}: Heartless Hidetsugu deals damage to each player equal to half that player's life total, rounded down.
+p716
+aV{2}{R}: Target creature attacks this turn if able.
+p717
+aVWhenever a player casts a white spell, you may pay {1}. If you do, you gain 1 life.
+p718
+aVFlying, protection from lands
+p719
+aV{2}, {T}: Draw a card, then discard a card.
+p720
+aVTarget player gains 7 life.
+p721
+aVHeroes' Bane enters the battlefield with four +1/+1 counters on it.<br>{2}{G}{G}: Put X +1/+1 counters on Heroes' Bane, where X is its power.
+p722
+aVWhen Hecatomb enters the battlefield, sacrifice Hecatomb unless you sacrifice four creatures.<br>Tap an untapped Swamp you control: Hecatomb deals 1 damage to target creature or player.
+p723
+aV{1}, {T}: Target creature gains first strike until end of turn.
+p724
+aVPut four 1/1 white Citizen creature tokens onto the battlefield.
+p725
+aVIcatian Store enters the battlefield tapped.<br>You may choose not to untap Icatian Store during your untap step.<br>At the beginning of your upkeep, if Icatian Store is tapped, put a storage counter on it.<br>{T}, Remove any number of storage counters from Icatian Store: Add {W} to your mana pool for each storage counter removed this way.
+p726
+aVFlying, haste<br>Whenever Hellkite Charger attacks, you may pay {5}{R}{R}. If you do, untap all attacking creatures and after this phase, there is an additional combat phase.
+p727
+aVTarget player gains 7 life.
+p728
+aVDeathtouch<br>Ferocious- Whenever Heir of the Wilds attacks, if you control a creature with power 4 or greater, Heir of the Wilds gets +1/+1 until end of turn.
+p729
+aVOutlast {2}{W} <i>({2}{W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)</i><br>Whenever you activate Herald of Anafenza's outlast ability, put a 1/1 white Warrior creature token onto the battlefield.
+p730
+aVFlying<br>High Sentinels of Arashin gets +1/+1 for each other creature you control with a +1/+1 counter on it.<br>{3}{W}: Put a +1/+1 counter on target creature.
+p731
+aVEach player may bid life for control of target creature. You start the bidding with a bid of 0. In turn order, each player may top the high bid. The bidding ends if the high bid stands. The high bidder loses life equal to the high bid and gains control of the creature. <i>(This effect lasts indefinitely.)</i>
+p732
+aVThe first creature spell you cast each turn costs {1} less to cast.<br>The first noncreature spell each opponent casts each turn costs {1} more to cast.
+p733
+aV{3}, Sacrifice a creature: Return target creature card from your graveyard to the battlefield.
+p734
+aVAt the beginning of your upkeep, put a land card from your library chosen at random onto the battlefield.
+p735
+aV{3}{R}: Choose target creature or player, then put the top three cards of your library into your graveyard.  Heretic's Punishment deals damage to that creature or player equal to the highest converted mana cost among those cards.
+p736
+aVHinterland Harbor enters the battlefield tapped unless you control a Forest or an Island.<br>{T}: Add {G} or {U} to your mana pool.
+p737
+aVIf you would draw a card during your draw step, instead you may skip that draw. If you do, until your next turn, you can't be attacked except by creatures with flying and/or islandwalk.
+p738
+aVWhenever a player casts a white spell, you may pay {1}. If you do, you gain 1 life.
+p739
+aVSpells cost {1} less to cast.
+p740
+aVCumulative upkeep {R} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>Blue creatures can't block creatures you control.<br>Nonblue creatures can't block creatures you control unless their controller pays 1 life for each blocking creature he or she controls.
+p741
+aV{R}: Keeper of Kookus gains protection from red until end of turn.
+p742
+aVWhenever a player casts an instant spell, counter it unless that player pays {X}, where X is its converted mana cost.
+p743
+aVActivated abilities of creatures cost {1} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.
+p744
+aVWhenever a creature blocks, Heat of Battle deals 1 damage to that creature's controller.
+p745
+aV{G}, {T}: Reveal cards from the top of your library until you reveal a basic land card. Put that card into your hand and all other cards revealed this way into your graveyard.
+p746
+aVWhen a player casts a spell, sacrifice Hesitation and counter that spell.
+p747
+aVAll creatures get -1/-0 until end of turn.
+p748
+aVDestroy all nonblack creatures. Hellfire deals X plus 3 damage to you, where X is the number of creatures that died this way.
+p749
+aVEnchant creature<br>Whenever a player activates an ability of enchanted creature with {T} in its activation cost that isn't a mana ability, you may pay {1}. If you do, counter that ability. If you don't, destroy Imprison.<br>Whenever enchanted creature attacks or blocks, you may pay {1}. If you do, tap the creature, remove it from combat, and creatures it was blocking that had become blocked by only that creature this combat become unblocked. If you don't, destroy Imprison.
+p750
+aVWhenever a player casts an enchantment spell, counter it.
+p751
+aVCreatures without flying can't attack.
+p752
+aVGraft 3 <i>(This creature enters the battlefield with three +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)</i><br>{1}: Target creature with a +1/+1 counter on it gains flying until end of turn.
+p753
+aVHaste<br>When Hellhole Rats enters the battlefield, target player discards a card. Hellhole Rats deals damage to that player equal to that card's converted mana cost.
+p754
+aVPut a token that's a copy of target creature onto the battlefield. That token has haste and "At the beginning of the end step, exile this permanent."
+p755
+aVWhen Hearthcage Giant enters the battlefield, put two 3/1 red Elemental Shaman creature tokens onto the battlefield.<br>Sacrifice an Elemental: Target Giant creature gets +3/+1 until end of turn.
+p756
+aV{3}, Sacrifice Herbal Poultice: Regenerate target creature.
+p757
+aVRegenerate target creature. You gain life equal to that creature's toughness.
+p758
+aVAll Sliver creatures have haste.
+p759
+aVActivated abilities of creatures cost {1} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.
+p760
+aVExile target card from a graveyard.<br>Draw a card at the beginning of the next turn's upkeep.
+p761
+aV{R}{R}{R}, {T}: Destroy target noncreature artifact.
+p762
+aVCounter target sorcery spell.
+p763
+aVTrample, haste<br>At the beginning of the end step, sacrifice Hellspark Elemental.<br>Unearth {1}{R} <i>({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</i>
+p764
+aVEnchant creature<br>Enchanted creature gets +3/+3 unless it shares a color with the most common color among all permanents or a color tied for most common.
+p765
+aVAs an additional cost to cast Headless Skaab, exile a creature card from your graveyard.<br>Headless Skaab enters the battlefield tapped.
+p766
+aVEquipped creature gets +1/+1.<br>As long as equipped creature is a Human, it gets an additional +1/+1.<br>Equip {2} <i>({2}: Attach to target creature you control. Equip only as a sorcery.)</i>
+p767
+aV{2}{R}: Target creature attacks this turn if able.
+p768
+aVHaste<br>Whenever a creature you control attacks, Hellrider deals 1 damage to defending player.
+p769
+aV{1}, {T}: Exile target creature you control.<br>{7}, {T}: Exile target creature you don't control.<br>When Helvault is put into a graveyard from the battlefield, return all cards exiled with it to the battlefield under their owners' control.
+p770
+asS'costs'
+p771
+(lp772
+V{2}{G}{G}
+p773
+aV{W}
+p774
+aV{1}
+p775
+aV{X}{R}
+p776
+aV{W}
+p777
+aV{G}
+p778
+aV{2}{W}
+p779
+aS'0'
+p780
+aV{1}
+p781
+aV{W}
+p782
+aV{G}
+p783
+aV{2}{G}
+p784
+aV{6}{W}{W}{W}
+p785
+aV{U}{B}{R}
+p786
+aV{4}
+p787
+ag780
+aV{4}{B}{R}{R}{G}
+p788
+aV{5}
+p789
+aV{G}{W}
+p790
+aV{3}{B}
+p791
+aV{1}{B}{B}
+p792
+aV{1}{W}
+p793
+aV{G}
+p794
+aV{5}
+p795
+aV{4}
+p796
+aV{1}{G}
+p797
+aV{3}{G}{G}
+p798
+aV{2}{G}{G}
+p799
+aV{1}{R}
+p800
+aV{1}{W}
+p801
+aV{2}{W}
+p802
+aV{3}{B}{B}
+p803
+aV{3}
+p804
+ag780
+aV{5}
+p805
+aV{1}{W}{W}
+p806
+aV{5}{R}{R}
+p807
+aV{2}{W}{W}
+p808
+aV{2}{R}{R}
+p809
+aV{7}
+p810
+aV{1}{W}
+p811
+aV{2}{W}
+p812
+aV{2}{W}
+p813
+aV{W}
+p814
+aV{1}{G}
+p815
+aV{2}{B}{B}{B}
+p816
+aV{W}
+p817
+aV{1}
+p818
+ag780
+aV{4}
+p819
+aV{3}{B}
+p820
+aV{1}{R}
+p821
+aV{G}
+p822
+aV{R/W}{R/W}{R/W}
+p823
+aV{2}{R}{G}
+p824
+aV{1}{R}
+p825
+aV{5}{U}
+p826
+aV{3}{R}
+p827
+ag780
+aV{5}{R}
+p828
+aV{2}{R}{G}
+p829
+aV{2}{R}{R}
+p830
+aV{1}{R}
+p831
+aV{1}{B}
+p832
+aV{3}{G}
+p833
+aV{3}{B}{B}
+p834
+aV{2}{G}
+p835
+aV{1}{R}
+p836
+aV{4}{B}
+p837
+aV{1}{B}
+p838
+aV{3}{R}{R}
+p839
+aV{3}{U}{U}
+p840
+aV{2}{W}
+p841
+aV{1}{G}
+p842
+aV{3}{B}{B}{B}
+p843
+aV{4}{B}{B}
+p844
+aV{3}{G}
+p845
+aV{1}{B}{R}
+p846
+aV{G}{W}
+p847
+aV{1}{G}
+p848
+aV{1}{U}
+p849
+aV{4}{U}
+p850
+aV{6}{B}
+p851
+aV{W}
+p852
+aV{1}
+p853
+aV{2}
+p854
+aV{W}
+p855
+aV{1}{B}{B}
+p856
+aV{1}{R}{R}
+p857
+aV{2}{G}
+p858
+aV{3}{B}
+p859
+aV{U}
+p860
+aV{2}
+p861
+aV{2}{R}
+p862
+aV{3}{W}
+p863
+aV{1}{W}
+p864
+aV{W}
+p865
+aV{1}{B}{B}
+p866
+aV{3}
+p867
+aV{4}
+p868
+aV{2}{R}
+p869
+aV{1}{U}{B}{R}
+p870
+aV{W}
+p871
+aV{3}{W}
+p872
+aV{3}{U}{U}
+p873
+aV{2}
+p874
+aV{R}
+p875
+aV{4}
+p876
+aV{3}{G}{G}
+p877
+aV{X}{R}
+p878
+aV{4}
+p879
+aV{2}{W}
+p880
+aV{3}{B}{B}{B}
+p881
+aV{3}
+p882
+aV{2}{G/W}{G/W}
+p883
+aV{1}
+p884
+aV{3}{U/B}
+p885
+aV{1}
+p886
+aV{3}
+p887
+aV{5}
+p888
+aV{2}
+p889
+aV{3}{R}
+p890
+aV{1}{G}{G}
+p891
+aV{R/W}{R/W}{R/W}
+p892
+aV{3}{B}{B}{B}
+p893
+aV{2}{W}{W}
+p894
+aV{1}{U}
+p895
+aV{1}{R}
+p896
+aV{W}
+p897
+aV{X}{R}
+p898
+aV{1}{B}{B}
+p899
+aV{3}
+p900
+aV{1}{R}{R}
+p901
+aV{3}{W}
+p902
+aV{2}{R}{R}
+p903
+aV{2}{R}
+p904
+aV{3}{W}
+p905
+aV{2}{W}
+p906
+aV{3}{R}{R}
+p907
+aV{W}
+p908
+aV{4}
+p909
+aV{3}{B}
+p910
+aV{G}{W}
+p911
+aV{2}{W}
+p912
+aV{1}{B}{B}
+p913
+aV{W}
+p914
+aV{W}
+p915
+aV{1}
+p916
+aV{4}{R}{R}
+p917
+aV{G}{W}
+p918
+aV{2}
+p919
+aV{1}{G}
+p920
+aV{W}
+p921
+aV{W}
+p922
+ag780
+ag780
+ag780
+aV{1}{R}
+p923
+aV{1}{B}
+p924
+aV{W}
+p925
+aV{1}
+p926
+aV{2}
+p927
+aV{R}
+p928
+aV{2}{R}
+p929
+aV{W}
+p930
+aV{3}
+p931
+aV{1}{R}
+p932
+aV{1}{G}
+p933
+aV{1}{U}
+p934
+aV{2}{B}
+p935
+aV{B}
+p936
+aV{2}{B}{B}{B}
+p937
+aV{W}
+p938
+aV{3}{B}
+p939
+aV{4}{U}
+p940
+aV{2}{B}{R}
+p941
+aV{2}{R}
+p942
+aV{6}{R}{R}
+p943
+aV{0}
+p944
+aV{3}{W}
+p945
+aV{1}{R}
+p946
+aV{3}
+p947
+aV{1}{B}
+p948
+aV{3}{R}
+p949
+aV{1}{G}
+p950
+aV{1}{R}
+p951
+aV{1}{W}
+p952
+aV{2}{U}
+p953
+aV{3}
+p954
+aV{2}{R}
+p955
+aV{2}{R}{R}
+p956
+aV{3}
+p957
+asS'names'
+p958
+(lp959
+VHex
+p960
+aVHealing Salve
+p961
+aVHelm of Chatzuk
+p962
+aVHeat Ray
+p963
+aVHealing Salve
+p964
+aVHeritage Druid
+p965
+aVHealer of the Pride
+p966
+aVHellion Crucible
+p967
+aVHelm of Chatzuk
+p968
+aVHealing Salve
+p969
+aVHealing Leaves
+p970
+aVHedge Troll
+p971
+aVHeroes Remembered
+p972
+aVHellfire Mongrel
+p973
+aVHelm of Obedience
+p974
+aVHeart of Yavimaya
+p975
+aVHellkite Overlord
+p976
+aVHenge Guardian
+p977
+aVHeroes' Reunion
+p978
+aVHeavy Arbalest
+p979
+aVHerald of Torment
+p980
+aVHero of Iroas
+p981
+aVHero of Leina Tower
+p982
+aVHeroes' Podium
+p983
+aVHelm of Possession
+p984
+aVHeartwood Dryad
+p985
+aVHeartwood Giant
+p986
+aVHeartwood Treefolk
+p987
+aVHeart Sliver
+p988
+aVHero's Resolve
+p989
+aVHeart of Light
+p990
+aVHead Games
+p991
+aVHeart of Ramos
+p992
+aVHenge of Ramos
+p993
+aVHenge Guardian
+p994
+aVHermit Druid
+p995
+aVHellkite Igniter
+p996
+aVHero of Bladehold
+p997
+aVHero of Oxid Ridge
+p998
+aVHexplate Golem
+p999
+aVHero's Resolve
+p1000
+aVHeroism
+p1001
+aVHelionaut
+p1002
+aVHeal
+p1003
+aVHeavy Fog
+p1004
+aVHellfire
+p1005
+aVHealing Salve
+p1006
+aVHelm of Chatzuk
+p1007
+aVHeart of Yavimaya
+p1008
+aVHelm of Obedience
+p1009
+aVHell's Caretaker
+p1010
+aVHeartlash Cinder
+p1011
+aVHelix Pinnacle
+p1012
+aVHearthfire Hobgoblin
+p1013
+aVHellkite Hatchling
+p1014
+aVHellspark Elemental
+p1015
+aVHeirs of Stromkirk
+p1016
+aVHerald of War
+p1017
+aVHedron Fields of Agadeem
+p1018
+aVHellion Eruption
+p1019
+aVHellkite Hatchling
+p1020
+aVHellrider
+p1021
+aVHellspark Elemental
+p1022
+aVHeadhunter
+p1023
+aVHeedless One
+p1024
+aVHead Games
+p1025
+aVHeartbeat of Spring
+p1026
+aVHearth Kami
+p1027
+aVHe Who Hungers
+p1028
+aVHero's Demise
+p1029
+aVHeartless Hidetsugu
+p1030
+aVHeed the Mists
+p1031
+aVHeart of Light
+p1032
+aVHeart Warden
+p1033
+aVHelldozer
+p1034
+aVHex
+p1035
+aVHerd Gnarr
+p1036
+aVHellhole Flailer
+p1037
+aVHeroes' Reunion
+p1038
+aVHellkite Tyrant
+p1039
+aVHellraiser Goblin
+p1040
+aVHeidar, Rimewind Master
+p1041
+aVHerald of Leshrac
+p1042
+aVHealing Salve
+p1043
+aVHelm of Chatzuk
+p1044
+aVHematite Talisman
+p1045
+aVHeal
+p1046
+aVHecatomb
+p1047
+aVHell-Bent Raider
+p1048
+aVHeartstabber Mosquito
+p1049
+aVHedron Crab
+p1050
+aVHedron Scrabbler
+p1051
+aVHellfire Mongrel
+p1052
+aVHellkite Charger
+p1053
+aVHeavy Ballista
+p1054
+aVHero's Resolve
+p1055
+aVHealing Salve
+p1056
+aVHecatomb
+p1057
+aVHeartwood Shard
+p1058
+aVHematite Golem
+p1059
+aVHellkite Overlord
+p1060
+aVHell's Thunder
+p1061
+aVHealing Salve
+p1062
+aVHeavy Ballista
+p1063
+aVHeightened Awareness
+p1064
+aVHeat Ray
+p1065
+aVHeliod's Pilgrim
+p1066
+aVHeartseeker
+p1067
+aVHeat Ray
+p1068
+aVHedron Matrix
+p1069
+aVHedron-Field Purists
+p1070
+aVHellcarver Demon
+p1071
+aVHellion Eruption
+p1072
+aVHelm of Kaldra
+p1073
+aVHeartmender
+p1074
+aVHeap Doll
+p1075
+aVHelm of the Ghastlord
+p1076
+aVHex Parasite
+p1077
+aVHelm of Kaldra
+p1078
+aVHeliophial
+p1079
+aVHealer's Headdress
+p1080
+aVHenchfiend of Ukor
+p1081
+aVHeartwood Storyteller
+p1082
+aVHearthfire Hobgoblin
+p1083
+aVHelldozer
+p1084
+aVHerald of Serra
+p1085
+aVHermetic Study
+p1086
+aVHeadlong Rush
+p1087
+aVHealing Salve
+p1088
+aVHeat Ray
+p1089
+aVHecatomb
+p1090
+aVHeliod, God of the Sun
+p1091
+aVHeliod's Emissary
+p1092
+aVHero's Downfall
+p1093
+aVHeart of Bogardan
+p1094
+aVHeat Stroke
+p1095
+aVHeavy Ballista
+p1096
+aVHeartless Hidetsugu
+p1097
+aVHeckling Fiends
+p1098
+aVHealing Salve
+p1099
+aVHedron Rover
+p1100
+aVHell's Caretaker
+p1101
+aVHeroes' Reunion
+p1102
+aVHeroes' Bane
+p1103
+aVHecatomb
+p1104
+aVHeal
+p1105
+aVHealing Salve
+p1106
+aVHelm of Chatzuk
+p1107
+aVHellkite Charger
+p1108
+aVHeroes' Reunion
+p1109
+aVHeart-Piercer Bow
+p1110
+aVHeir of the Wilds
+p1111
+aVHerald of Anafenza
+p1112
+aVHealing Salve
+p1113
+aVHeartwood Storyteller Avatar
+p1114
+aVHell's Caretaker Avatar
+p1115
+aVHermit Druid Avatar
+p1116
+aVHeartless Summoning
+p1117
+aVHeretic's Punishment
+p1118
+aVHealing Salve
+p1119
+aVHelm of Chatzuk
+p1120
+aVHelm of Awakening
+p1121
+aVHearth Charm
+p1122
+aVHeat Wave
+p1123
+aVHealing Salve
+p1124
+aVHeartstone
+p1125
+aVHeat of Battle
+p1126
+aVHermit Druid
+p1127
+aVHesitation
+p1128
+aVHeadless Horseman
+p1129
+aVHell Swarm
+p1130
+aVHellfire
+p1131
+aVHeaven's Gate
+p1132
+aVHell's Caretaker
+p1133
+aVHelium Squirter
+p1134
+aVHellhole Rats
+p1135
+aVHeat Shimmer
+p1136
+aVHearthcage Giant
+p1137
+aVHerbal Poultice
+p1138
+aVHeal the Scars
+p1139
+aVHeart Sliver
+p1140
+aVHeartstone
+p1141
+aVHeadstone
+p1142
+aVHeart Wolf
+p1143
+aVHeavy Fog
+p1144
+aVHellspark Elemental
+p1145
+aVHeroic Defiance
+p1146
+aVHeadless Skaab
+p1147
+aVHeavy Mattock
+p1148
+aVHeckling Fiends
+p1149
+aVHellrider
+p1150
+aVHelvault
+p1151
+asS'toughs'
+p1152
+(lp1153
+S'N/A'
+p1154
+ag1154
+ag1154
+ag1154
+ag1154
+aV1
+p1155
+aV4
+p1156
+ag1154
+ag1154
+ag1154
+ag1154
+aV2
+p1157
+ag1154
+ag1157
+ag1154
+ag1154
+ag1156
+ag1154
+ag1154
+ag1154
+ag1154
+ag1157
+ag1156
+ag1154
+ag1154
+ag1155
+ag1156
+aV3
+p1158
+aV0
+p1159
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1157
+ag1158
+ag1158
+ag1156
+ag1154
+ag1154
+ag1154
+ag1155
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1158
+ag1155
+ag1154
+ag1157
+ag1157
+ag1156
+ag1155
+aV5
+p1160
+ag1154
+ag1154
+ag1158
+ag1158
+ag1155
+ag1155
+aV*
+p1161
+ag1154
+ag1154
+ag1155
+ag1157
+ag1154
+ag1158
+ag1154
+ag1154
+ag1157
+ag1158
+ag1154
+ag1160
+ag1157
+ag1154
+ag1158
+ag1157
+ag1155
+aV12
+p1162
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1157
+ag1158
+ag1157
+ag1154
+ag1157
+ag1155
+ag1158
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1155
+ag1155
+ag1154
+ag1157
+ag1154
+ag1154
+ag1160
+ag1154
+ag1154
+ag1154
+aV7
+p1163
+ag1155
+ag1154
+ag1154
+ag1160
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1158
+ag1157
+ag1159
+ag1155
+ag1158
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1158
+ag1155
+ag1157
+ag1154
+ag1154
+ag1155
+ag1154
+ag1158
+ag1154
+ag1154
+ag1154
+ag1154
+ag1158
+ag1154
+ag1154
+ag1157
+ag1157
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1155
+ag1154
+ag1157
+ag1154
+ag1154
+ag1154
+ag1156
+ag1155
+ag1155
+ag1154
+ag1160
+ag1154
+ag1154
+ag1155
+ag1154
+ag1154
+ag1155
+ag1154
+ag1155
+ag1154
+ag1157
+ag1154
+aV6
+p1164
+ag1157
+ag1154
+asS'artists'
+p1165
+(lp1166
+VMichael Sutfin
+p1167
+aVDan Frazier
+p1168
+aVMark Tedin
+p1169
+aVBrian Snoddy
+p1170
+aVZina Saunders
+p1171
+aVLarry MacDougall
+p1172
+aVChristopher Moeller
+p1173
+aVJesper Ejsing
+p1174
+aVMark Tedin
+p1175
+aVDan Frazier
+p1176
+aVMichael Sutfin
+p1177
+aVParente
+p1178
+aVMichael Phillippi
+p1179
+aVDan Scott
+p1180
+aVBrian Snoddy
+p1181
+aVPete Venters
+p1182
+aVJustin Sweet
+p1183
+aVChippy
+p1184
+aVTerese Nielsen
+p1185
+aVDavid Rapoza
+p1186
+aVVance Kovacs
+p1187
+aVWillian Murai
+p1188
+aVAaron Miller
+p1189
+aVWillian Murai
+p1190
+aVJanet Aulisio
+p1191
+aVRebecca Guay
+p1192
+aVRandy Elliott
+p1193
+aVDaren Bader
+p1194
+aVRon Spencer
+p1195
+aVPete Venters
+p1196
+aVLuca Zontini
+p1197
+aVTerese Nielsen
+p1198
+aVDavid Martin
+p1199
+aVEdward P. Beard, Jr.
+p1200
+aVChippy
+p1201
+aVHeather Hudson
+p1202
+aS''
+p1203
+ag1203
+ag1203
+ag1203
+aVPete Venters
+p1204
+aVMark Poole
+p1205
+aVFranz Vohwinkel
+p1206
+aVLiu Shangying
+p1207
+aVPete Venters
+p1208
+aVGao Jianzhang
+p1209
+aVDan Frazier
+p1210
+aVMark Tedin
+p1211
+aVPete Venters
+p1212
+aVBrian Snoddy
+p1213
+aVGreg Staples
+p1214
+aVSteve Prescott
+p1215
+aVDan Scott
+p1216
+aVSteven Belledin
+p1217
+aVDaarken
+p1218
+aVJustin Sweet
+p1219
+aVEric Deschamps
+p1220
+aVDavid Rapoza
+p1221
+aVJohn Avon
+p1222
+ag1203
+ag1203
+aVSvetlin Velinov
+p1223
+aVJustin Sweet
+p1224
+aVMatt Cavotta
+p1225
+aVMark Zug
+p1226
+aVTerese Nielsen
+p1227
+aVRob Alexander
+p1228
+aVLuca Zontini
+p1229
+aVKev Walker
+p1230
+aVJim Nelson
+p1231
+aVCarl Critchlow
+p1232
+aVChristopher Rush
+p1233
+aVLuca Zontini
+p1234
+aVAdam Rex
+p1235
+aVZoltan Boros & Gabor Szikszai
+p1236
+aVMichael Sutfin
+p1237
+aVDaren Bader
+p1238
+aVSteve Prescott
+p1239
+aVHoward Lyon
+p1240
+aVAleksi Briclot
+p1241
+aVKarl Kopinski
+p1242
+aVRon Spears
+p1243
+aVAlex Horley-Orlandelli
+p1244
+aVDan Frazier
+p1245
+aVMark Tedin
+p1246
+aVL. A. Williams
+p1247
+aVMark Tedin
+p1248
+aVNÈNÈ Thomas
+p1249
+aVMike Ploog
+p1250
+aVJason Felix
+p1251
+aVJesper Ejsing
+p1252
+aVJason Felix
+p1253
+aVDan Scott
+p1254
+aVJaime Jones
+p1255
+aVRon Spencer
+p1256
+aVPete Venters
+p1257
+aVDan Frazier
+p1258
+aVGeorge Pratt
+p1259
+aVDoug Chaffee
+p1260
+aVPaolo Parente
+p1261
+aVJustin Sweet
+p1262
+aVKarl Kopinski
+p1263
+aVGreg & Tim Hildebrandt
+p1264
+aVBrian Snoddy
+p1265
+aVPete Venters
+p1266
+aVAustin Hsu
+p1267
+aVIzzy
+p1268
+aVMichael Sutfin
+p1269
+aVAustin Hsu
+p1270
+aVJaime Jones
+p1271
+aVScott Chou
+p1272
+aVGreg Staples
+p1273
+aVAnthony Francisco
+p1274
+aVDonato Giancola
+p1275
+aVRebecca Guay
+p1276
+aVJohn Avon
+p1277
+aVFranz Vohwinkel
+p1278
+ag1203
+aVDonato Giancola
+p1279
+aVWayne England
+p1280
+aVCarl Critchlow
+p1281
+aVNils Hamm
+p1282
+aVAnthony S. Waters
+p1283
+aVSteven Belledin
+p1284
+aVZoltan Boros & Gabor Szikszai
+p1285
+aVMatthew Wilson
+p1286
+aVRon Spencer
+p1287
+aVDermot Power
+p1288
+aVHeather Hudson
+p1289
+aVBrian Snoddy
+p1290
+aVNÈNÈ Thomas
+p1291
+aVJaime Jones
+p1292
+aVSam Burley
+p1293
+aVRyan Pancoast
+p1294
+aVTerese Nielsen
+p1295
+aVAndrew Robinson
+p1296
+aVRon Spencer
+p1297
+aVCarl Critchlow
+p1298
+aVClint Cearley
+p1299
+aVGreg & Tim Hildebrandt
+p1300
+aVJason Felix
+p1301
+aVSandra Everingham
+p1302
+aVTerese Nielsen
+p1303
+aVRaymond Swanland
+p1304
+aVGeorge Pratt
+p1305
+aVMark Tedin
+p1306
+aVZina Saunders
+p1307
+aVMark Tedin
+p1308
+aVJaime Jones
+p1309
+aVTerese Nielsen
+p1310
+aVFranz Vohwinkel
+p1311
+aVWinona Nelson
+p1312
+aVAaron Miller
+p1313
+aVHannibal King
+p1314
+aVUDON
+p1315
+aVUDON
+p1316
+aVUDON
+p1317
+aVAnthony Palumbo
+p1318
+aVVincent Proce
+p1319
+aVDan Frazier
+p1320
+aVMark Tedin
+p1321
+aVAdam Rex
+p1322
+aVGreg Spalenka
+p1323
+aVAlan Rabinowitz
+p1324
+aVDan Frazier
+p1325
+aVJohn Matson
+p1326
+aVMatthew Wilson
+p1327
+aVHeather Hudson
+p1328
+aVPete Venters
+p1329
+aVQuinton Hoover
+p1330
+aVChristopher Rush
+p1331
+aVPete Venters
+p1332
+aVDouglas Shuler
+p1333
+aVSandra Everingham
+p1334
+aVHideaki Takamura
+p1335
+aVKev Walker
+p1336
+aVFranz Vohwinkel
+p1337
+aVZoltan Boros & Gabor Szikszai
+p1338
+aVScott Hampton
+p1339
+aVCarl Frank
+p1340
+aVRon Spencer
+p1341
+aVJohn Matson
+p1342
+aVDavid A. Cherry
+p1343
+aVMargaret Organ-Kean
+p1344
+aVLiu Shangying
+p1345
+ag1203
+aVTerese Nielsen
+p1346
+aVClint Cearley
+p1347
+aVSvetlin Velinov
+p1348
+aVJaime Jones
+p1349
+aVVolkan Baga
+p1350
+aVSteven Belledin
+p1351
+asS'powers'
+p1352
+(lp1353
+g1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1155
+ag1157
+ag1154
+ag1154
+ag1154
+ag1154
+ag1157
+ag1154
+ag1157
+ag1154
+ag1154
+ag1160
+ag1154
+ag1154
+ag1154
+ag1154
+ag1157
+ag1158
+ag1154
+ag1154
+ag1155
+ag1156
+ag1158
+ag1159
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1157
+ag1158
+ag1157
+ag1160
+ag1154
+ag1154
+ag1154
+ag1157
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1158
+ag1155
+ag1154
+ag1157
+ag1157
+ag1158
+ag1157
+ag1157
+ag1154
+ag1154
+ag1157
+ag1158
+ag1158
+ag1158
+ag1161
+ag1154
+ag1154
+ag1157
+ag1158
+ag1154
+ag1156
+ag1154
+ag1154
+ag1158
+ag1158
+ag1154
+ag1160
+ag1158
+ag1154
+ag1155
+ag1164
+ag1155
+aV12
+p1354
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1157
+ag1157
+ag1159
+ag1154
+ag1155
+ag1157
+ag1157
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1160
+ag1155
+ag1154
+ag1157
+ag1154
+ag1154
+ag1158
+ag1154
+ag1154
+ag1154
+ag1157
+ag1159
+ag1154
+ag1154
+ag1160
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1158
+ag1157
+ag1159
+ag1155
+ag1157
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1158
+ag1157
+ag1160
+ag1154
+ag1154
+ag1155
+ag1154
+ag1156
+ag1154
+ag1154
+ag1154
+ag1154
+ag1159
+ag1154
+ag1154
+ag1157
+ag1155
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1154
+ag1155
+ag1154
+ag1159
+ag1154
+ag1154
+ag1154
+ag1157
+ag1158
+ag1155
+ag1154
+ag1160
+ag1154
+ag1154
+ag1155
+ag1154
+ag1154
+ag1155
+ag1154
+ag1158
+ag1154
+ag1157
+ag1154
+ag1158
+ag1157
+ag1154
+asS'types'
+p1355
+(lp1356
+VSorcery
+p1357
+aVInstant
+p1358
+aVArtifact
+p1359
+aVInstant
+p1360
+aVInstant
+p1361
+aVCreature - Elf Druid
+p1362
+aVCreature - Cat Cleric
+p1363
+aVLand
+p1364
+aVArtifact
+p1365
+aVInstant
+p1366
+aVInstant
+p1367
+aVCreature - Troll Cleric
+p1368
+aVSorcery
+p1369
+aVCreature - Elemental Hound
+p1370
+aVArtifact
+p1371
+aVLand
+p1372
+aVCreature - Dragon
+p1373
+aVArtifact Creature - Dragon Wurm
+p1374
+aVInstant
+p1375
+aVArtifact - Equipment
+p1376
+aVEnchantment Creature - Demon
+p1377
+aVCreature - Human Soldier
+p1378
+aVCreature - Human Warrior
+p1379
+aVLegendary Artifact
+p1380
+aVArtifact
+p1381
+aVCreature - Dryad
+p1382
+aVCreature - Giant
+p1383
+aVCreature - Treefolk
+p1384
+aVCreature - Sliver
+p1385
+aVEnchantment - Aura
+p1386
+aVEnchantment - Aura
+p1387
+aVSorcery
+p1388
+aVArtifact
+p1389
+aVLand
+p1390
+aVArtifact Creature - Dragon Wurm
+p1391
+aVCreature - Human Druid
+p1392
+aVCreature - Dragon
+p1393
+aVCreature - Human Knight
+p1394
+aVCreature - Human Knight
+p1395
+aVArtifact Creature - Golem
+p1396
+aVEnchantment - Aura
+p1397
+aVEnchantment
+p1398
+aVCreature - Human Soldier
+p1399
+aVInstant
+p1400
+aVInstant
+p1401
+aVSorcery
+p1402
+aVInstant
+p1403
+aVArtifact
+p1404
+aVLand
+p1405
+aVArtifact
+p1406
+aVCreature - Horror
+p1407
+aVCreature - Elemental Warrior
+p1408
+aVEnchantment
+p1409
+aVCreature - Goblin Soldier
+p1410
+aVCreature - Dragon
+p1411
+aVCreature - Elemental
+p1412
+aVCreature - Vampire
+p1413
+aVCreature - Angel
+p1414
+aVPlane - Zendikar
+p1415
+aVSorcery
+p1416
+aVCreature - Dragon
+p1417
+aVCreature - Devil
+p1418
+aVCreature - Elemental
+p1419
+aVCreature - Human Cleric
+p1420
+aVCreature - Elf Avatar
+p1421
+aVSorcery
+p1422
+aVEnchantment
+p1423
+aVCreature - Spirit
+p1424
+aVLegendary Creature - Spirit
+p1425
+aVInstant
+p1426
+aVLegendary Creature - Ogre Shaman
+p1427
+aVSorcery - Arcane
+p1428
+aVEnchantment - Aura
+p1429
+aVCreature - Elf Druid
+p1430
+aVCreature - Zombie Giant
+p1431
+aVSorcery
+p1432
+aVCreature - Beast
+p1433
+aVCreature - Ogre Warrior
+p1434
+aVInstant
+p1435
+aVCreature - Dragon
+p1436
+aVCreature - Goblin Berserker
+p1437
+aVLegendary Creature - Human Wizard
+p1438
+aVCreature - Avatar
+p1439
+aVInstant
+p1440
+aVArtifact
+p1441
+aVArtifact
+p1442
+aVInstant
+p1443
+aVEnchantment
+p1444
+aVCreature - Human Barbarian
+p1445
+aVCreature - Insect
+p1446
+aVCreature - Crab
+p1447
+aVArtifact Creature - Construct
+p1448
+aVCreature - Elemental Hound
+p1449
+aVCreature - Dragon
+p1450
+aVCreature - Human Soldier
+p1451
+aVEnchantment - Aura
+p1452
+aVInstant
+p1453
+aVEnchantment
+p1454
+aVArtifact
+p1455
+aVArtifact Creature - Golem
+p1456
+aVCreature - Dragon
+p1457
+aVCreature - Elemental
+p1458
+aVInstant
+p1459
+aVCreature - Human Soldier
+p1460
+aVEnchantment
+p1461
+aVInstant
+p1462
+aVCreature - Human Cleric
+p1463
+aVArtifact - Equipment
+p1464
+aVInstant
+p1465
+aVArtifact - Equipment
+p1466
+aVCreature - Human Cleric
+p1467
+aVCreature - Demon
+p1468
+aVSorcery
+p1469
+aVLegendary Artifact - Equipment
+p1470
+aVCreature - Elemental
+p1471
+aVArtifact Creature - Scarecrow
+p1472
+aVEnchantment - Aura
+p1473
+aVArtifact Creature - Insect
+p1474
+aVLegendary Artifact - Equipment
+p1475
+aVArtifact
+p1476
+aVArtifact - Equipment
+p1477
+aVCreature - Ogre
+p1478
+aVCreature - Treefolk
+p1479
+aVCreature - Goblin Soldier
+p1480
+aVCreature - Zombie Giant
+p1481
+aVCreature - Angel
+p1482
+aVEnchantment - Aura
+p1483
+aVInstant
+p1484
+aVInstant
+p1485
+aVInstant
+p1486
+aVEnchantment
+p1487
+aVLegendary Enchantment Creature - God
+p1488
+aVEnchantment Creature - Elk
+p1489
+aVInstant
+p1490
+aVEnchantment
+p1491
+aVEnchantment
+p1492
+aVCreature - Human Soldier
+p1493
+aVLegendary Creature - Ogre Shaman
+p1494
+aVCreature - Devil
+p1495
+aVInstant
+p1496
+aVArtifact Creature - Construct
+p1497
+aVCreature - Horror
+p1498
+aVInstant
+p1499
+aVCreature - Hydra
+p1500
+aVEnchantment
+p1501
+aVInstant
+p1502
+aVInstant
+p1503
+aVArtifact
+p1504
+aVCreature - Dragon
+p1505
+aVInstant
+p1506
+aVArtifact - Equipment
+p1507
+aVCreature - Human Warrior
+p1508
+aVCreature - Human Soldier
+p1509
+aVInstant
+p1510
+aVVanguard
+p1511
+aVVanguard
+p1512
+aVVanguard
+p1513
+aVEnchantment
+p1514
+aVEnchantment
+p1515
+aVInstant
+p1516
+aVArtifact
+p1517
+aVArtifact
+p1518
+aVInstant
+p1519
+aVEnchantment
+p1520
+aVInstant
+p1521
+aVArtifact
+p1522
+aVEnchantment
+p1523
+aVCreature - Human Druid
+p1524
+aVEnchantment
+p1525
+aVCreature - Zombie Knight
+p1526
+aVInstant
+p1527
+aVSorcery
+p1528
+aVInstant
+p1529
+aVCreature - Horror
+p1530
+aVCreature - Beast Mutant
+p1531
+aVCreature - Rat
+p1532
+aVSorcery
+p1533
+aVCreature - Giant Warrior
+p1534
+aVArtifact
+p1535
+aVInstant
+p1536
+aVCreature - Sliver
+p1537
+aVArtifact
+p1538
+aVInstant
+p1539
+aVCreature - Wolf
+p1540
+aVInstant
+p1541
+aVCreature - Elemental
+p1542
+aVEnchantment - Aura
+p1543
+aVCreature - Zombie Warrior
+p1544
+aVArtifact - Equipment
+p1545
+aVCreature - Devil
+p1546
+aVCreature - Devil
+p1547
+aVLegendary Artifact
+p1548
+asS'numbers'
+p1549
+(lp1550
+V87
+p1551
+aV119
+p1552
+aV120
+p1553
+aV28
+p1554
+aV76
+p1555
+aV126
+p1556
+aV19
+p1557
+aV226
+p1558
+aV24
+p1559
+aV227
+p1560
+aV150
+p1561
+aV151
+p1562
+ag1163
+aV48
+p1563
+ag1164
+aV119
+p1564
+aV8
+p1565
+aV55
+p1566
+aV29
+p1567
+aV164
+p1568
+aV75
+p1569
+aV17
+p1570
+aV123
+p1571
+aV159
+p1572
+aV14
+p1573
+aV118
+p1574
+aV119
+p1575
+aV120
+p1576
+aV154
+p1577
+aV270
+p1578
+aV19
+p1579
+aV148
+p1580
+aV296
+p1581
+aV318
+p1582
+aV297
+p1583
+aV216
+p1584
+aV65
+p1585
+ag1565
+aV66
+p1586
+aV109
+p1587
+aV20
+p1588
+aV64
+p1589
+aV13
+p1590
+aV14
+p1591
+aV122
+p1592
+aV70
+p1593
+aV149
+p1594
+aV150
+p1595
+aV231
+p1596
+aV210
+p1597
+aV137
+p1598
+aV56
+p1599
+aV68
+p1600
+aV141
+p1601
+aV111
+p1602
+aV65
+p1603
+aV140
+p1604
+aV24
+p1605
+aV12
+p1606
+aV95
+p1607
+aV96
+p1608
+aV52
+p1609
+aV46
+p1610
+aV156
+p1611
+aV265
+p1612
+aV155
+p1613
+aV212
+p1614
+aV171
+p1615
+aV114
+p1616
+aV68
+p1617
+aV107
+p1618
+aV36
+p1619
+ag1164
+aV108
+p1620
+aV88
+p1621
+aV89
+p1622
+aV200
+p1623
+aV167
+p1624
+aV168
+p1625
+aV94
+p1626
+aV95
+p1627
+aV36
+p1628
+aV62
+p1629
+aV123
+p1630
+aV124
+p1631
+aV12
+p1632
+aV288
+p1633
+aV289
+p1634
+aV101
+p1635
+aV97
+p1636
+aV47
+p1637
+aV204
+p1638
+aV130
+p1639
+aV131
+p1640
+aV23
+p1641
+aV24
+p1642
+aV22
+p1643
+aV136
+p1644
+aV184
+p1645
+aV185
+p1646
+aV172
+p1647
+aV103
+p1648
+aV18
+p1649
+aV19
+p1650
+aV37
+p1651
+aV148
+p1652
+aV14
+p1653
+aV124
+p1654
+aV150
+p1655
+aV218
+p1656
+aV25
+p1657
+aV113
+p1658
+aV151
+p1659
+aV131
+p1660
+aV228
+p1661
+aV253
+p1662
+aV166
+p1663
+aV137
+p1664
+aV131
+p1665
+aV130
+p1666
+aV129
+p1667
+aV117
+p1668
+aV127
+p1669
+aV102
+p1670
+aV30
+p1671
+aV17
+p1672
+aV78
+p1673
+aV198
+p1674
+aV16
+p1675
+aV199
+p1676
+aV71
+p1677
+aV17
+p1678
+aV18
+p1679
+aV90
+p1680
+aV88
+p1681
+aV89
+p1682
+aV144
+p1683
+aV144
+p1684
+aV145
+p1685
+aV22
+p1686
+aV125
+p1687
+aV80
+p1688
+aV250
+p1689
+aV126
+p1690
+aV35
+p1691
+aV177
+p1692
+aV178
+p1693
+aV295
+p1694
+aV41
+p1695
+aV87
+p1696
+aV221
+p1697
+aV134
+p1698
+aV12
+p1699
+aV290
+p1700
+aV68
+p1701
+aV51
+p1702
+aV93
+p1703
+aV104
+p1704
+aV147
+p1705
+aV165
+p1706
+aV166
+p1707
+ag1156
+aV68
+p1708
+aV69
+p1709
+aV14
+p1710
+aV41
+p1711
+aV42
+p1712
+aV43
+p1713
+aV44
+p1714
+aV23
+p1715
+aV24
+p1716
+aV25
+p1717
+aV115
+p1718
+aV235
+p1719
+aV26
+p1720
+aV113
+p1721
+aV175
+p1722
+aV174
+p1723
+aV257
+p1724
+aV217
+p1725
+ag1163
+aV26
+p1726
+aV14
+p1727
+aV59
+p1728
+aV136
+p1729
+ag1203
+ag1164
+aV40
+p1730
+aV150
+p1731
+aV92
+p1732
+aV93
+p1733
+aV151
+p1734
+as.

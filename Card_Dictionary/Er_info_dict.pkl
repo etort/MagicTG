@@ -1,0 +1,1077 @@
+(dp0
+S'rares'
+p1
+(lp2
+VSpecial
+p3
+aVRare
+p4
+aVCommon
+p5
+aVCommon
+p6
+aVCommon
+p7
+aVCommon
+p8
+aVCommon
+p9
+aVCommon
+p10
+aVRare
+p11
+aVRare
+p12
+aVUncommon
+p13
+aVCommon
+p14
+aVCommon
+p15
+aVCommon
+p16
+aVCommon
+p17
+aVUncommon
+p18
+aVCommon
+p19
+aVCommon
+p20
+aVCommon
+p21
+aVUncommon
+p22
+aVUncommon
+p23
+aVCommon
+p24
+aVCommon
+p25
+aVRare
+p26
+aVRare
+p27
+aVCommon
+p28
+aVCommon
+p29
+aVCommon
+p30
+aVRare
+p31
+aVCommon
+p32
+aVMythic Rare
+p33
+aVUncommon
+p34
+aVRare
+p35
+aVUncommon
+p36
+aVCommon
+p37
+aVCommon
+p38
+aVCommon
+p39
+aVCommon
+p40
+aVUncommon
+p41
+aVSpecial
+p42
+aVSpecial
+p43
+aVSpecial
+p44
+aVUncommon
+p45
+aVRare
+p46
+aVCommon
+p47
+aVCommon
+p48
+aVUncommon
+p49
+aVSpecial
+p50
+aVRare
+p51
+aVUncommon
+p52
+aVRare
+p53
+aVCommon
+p54
+asS'editns'
+p55
+(lp56
+VAnthologies
+p57
+aVSaviors of Kamigawa
+p58
+aVMagic 2013
+p59
+aVFourth Edition
+p60
+aVFourth Edition
+p61
+aVPlanar Chaos
+p62
+aVAlliances
+p63
+aVAlliances
+p64
+aVTempest
+p65
+aVMercadian Masques
+p66
+aVVintage Masters
+p67
+aVModern Masters
+p68
+aVModern Masters
+p69
+aVThe Dark
+p70
+aVRevised Edition
+p71
+aVMasters Edition II
+p72
+aVMasters Edition II
+p73
+aVPlanechase 2012 Edition
+p74
+aVOnslaught
+p75
+aVBetrayers of Kamigawa
+p76
+aVUrza's Destiny
+p77
+aVTime Spiral
+p78
+aVTime Spiral
+p79
+aVExodus
+p80
+aVExodus
+p81
+aVIce Age
+p82
+aVIce Age
+p83
+aVUrza's Legacy
+p84
+aVJudgment
+p85
+aVMasters Edition
+p86
+aVTheros
+p87
+aVTheros
+p88
+aVWeatherlight
+p89
+aVChronicles
+p90
+aVFifth Edition
+p91
+aVFifth Edition
+p92
+aVKhans of Tarkir
+p93
+aVDuel Decks: Jace vs. Vraska
+p94
+aVMirage
+p95
+aVVanguard
+p96
+aVVanguard
+p97
+aVVanguard
+p98
+aVBeatdown Box Set
+p99
+aVArabian Nights
+p100
+aVArabian Nights
+p101
+aVArabian Nights
+p102
+aVHomelands
+p103
+aVTime Spiral "Timeshifted"
+p104
+aVPlaneshift
+p105
+aVPlaneshift
+p106
+aVPlaneshift
+p107
+aVDark Ascension
+p108
+asS'ids'
+p109
+(lp110
+V-2146729933
+p111
+aV87599
+p112
+aV259723
+p113
+aV2102
+p114
+aV2153
+p115
+aV124476
+p116
+aV3192
+p117
+aV3193
+p118
+aV4698
+p119
+aV19734
+p120
+aV382925
+p121
+aV370491
+p122
+aV370575
+p123
+aV1752
+p124
+aV1159
+p125
+aV184730
+p126
+aV184741
+p127
+aV271191
+p128
+aV12484
+p129
+aV74546
+p130
+aV15186
+p131
+aV108909
+p132
+aV116379
+p133
+aV5146
+p134
+aV6163
+p135
+aV2504
+p136
+aV2619
+p137
+aV12941
+p138
+aV35553
+p139
+aV159126
+p140
+aV373589
+p141
+aV373745
+p142
+aV4484
+p143
+aV2831
+p144
+aV4045
+p145
+aV3841
+p146
+aV386533
+p147
+aV380243
+p148
+aV3249
+p149
+aV210148
+p150
+aV182259
+p151
+aV4959
+p152
+aV27227
+p153
+aV945
+p154
+aV917
+p155
+aV916
+p156
+aV3002
+p157
+aV108922
+p158
+aV25614
+p159
+aV26590
+p160
+aV29292
+p161
+aV249979
+p162
+asS'texts'
+p163
+(lp164
+VWhenever Spectral Bears attacks, if defending player controls no black nontoken permanents, it doesn't untap during your next untap step.
+p165
+aVWhenever an opponent casts a spell for the first time in a turn, counter that spell.
+p166
+aVExile target enchantment.
+p167
+aVAt the beginning of your end step, if Erg Raiders didn't attack this turn, Erg Raiders deals 2 damage to you unless it came under your control this turn.
+p168
+aVEnchant land<br>At the beginning of the upkeep of enchanted land's controller, destroy that land unless that player pays {1} or 1 life.
+p169
+aVChoose target creature. Reveal cards from the top of your library until you reveal a nonland card. That creature gets +X/-X until end of turn, where X is that card's converted mana cost. Put all cards revealed this way on the bottom of your library in any order.
+p170
+aVWhenever a creature dies, you may pay {3}. If you do, draw a card.
+p171
+aVEnchant creature<br>When enchanted creature dies, return that card to the battlefield under your control.
+p172
+aVAs long as an opponent controls a creature with flying not named Escaped Shapeshifter, Escaped Shapeshifter has flying. The same is true for first strike, trample, and protection from any color.
+p173
+aVAny player may cast creature and enchantment cards as though they had flash.
+p174
+aVStarting with you, each player may put a permanent card from his or her hand onto the battlefield. Repeat this process until no one puts a card onto the battlefield.
+p175
+aVFlying<br>Suspend 4\u2014{1}{U} <i>(Rather than cast this card from your hand, you may pay {1}{U} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)</i>
+p176
+aVChoose target creature. Reveal cards from the top of your library until you reveal a nonland card. That creature gets +X/-X until end of turn, where X is that card's converted mana cost. Put all cards revealed this way on the bottom of your library in any order.
+p177
+aV{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.
+p178
+aVEnchant creature<br>{R}: Enchanted creature gets +1/+0 until end of turn.
+p179
+aVDestroy all enchantments or all nonwhite enchantments.
+p180
+aVEnchant creature<br>Enchanted creature gets +2/+0.<br>At the beginning of the upkeep of enchanted creature's controller, put a -0/-1 counter on that creature.
+p181
+aVChoose target creature or player. Reveal cards from the top of your library until you reveal a nonland card. Erratic Explosion deals damage equal to that card's converted mana cost to that creature or player. Put the revealed cards on the bottom of your library in any order.
+p182
+aVChoose target creature or player. Reveal cards from the top of your library until you reveal a nonland card. Erratic Explosion deals damage equal to that card's converted mana cost to that creature or player. Put the revealed cards on the bottom of your library in any order.
+p183
+aVPrevent the next 4 damage that would be dealt to target creature or player this turn.
+p184
+aVExile target nonblack creature. Search its controller's graveyard, hand, and library for all cards with the same name as that creature and exile them. Then that player shuffles his or her library.
+p185
+aVFlying<br>Suspend 4\u2014{1}{U} <i>(Rather than cast this card from your hand, you may pay {1}{U} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)</i>
+p186
+aV{T}: Tap target creature with toughness 2 or less.
+p187
+aV{2}{U}{U}, {T}: Counter target spell.
+p188
+aV{1}, {T}: Return target creature to its owner's hand unless its controller pays {1}.
+p189
+aVEnchant creature<br>At the beginning of the upkeep of enchanted creature's controller, that player may pay any amount of mana. Errant Minion deals 2 damage to that player. Prevent X of that damage, where X is the amount of mana that player paid this way.
+p190
+aVFlare deals 1 damage to target creature or player.<br><br>Draw a card at the beginning of the next turn's upkeep.
+p191
+aVExile target enchantment.
+p192
+aVAt the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep.
+p193
+aVAt the beginning of your end step, if Erg Raiders didn't attack this turn, Erg Raiders deals 2 damage to you unless it came under your control this turn.
+p194
+aVWhen Evangel of Heliod enters the battlefield, put a number of 1/1 white Soldier creature tokens onto the battlefield equal to your devotion to white. <i>(Each {W} in the mana costs of permanents you control counts toward your devotion to white.)</i>
+p195
+aVDouble strike<br>Heroic- Whenever you cast a spell that targets Fabled Hero, put a +1/+1 counter on Fabled Hero.
+p196
+aVPhasing <i>(This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)</i><br>When Ertai's Familiar phases out or leaves the battlefield, put the top three cards of your library into your graveyard.<br>{U}: Until your next upkeep, Ertai's Familiar can't phase out.
+p197
+aV{T}, Exile Feldon's Cane: Shuffle your graveyard into your library.
+p198
+aVEnchant creature<br>{R}: Enchanted creature gets +1/+0 until end of turn.
+p199
+aVCreature spells cost {2} more to cast.
+p200
+aVPut a +1/+1 counter on target creature you control. It gains protection from the color of your choice until end of turn.
+p201
+aVFlying<br>Suspend 4\u2014{1}{U} <i>(Rather than cast this card from your hand, you may pay {1}{U} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)</i>
+p202
+aV{T}: Target spell becomes colorless.<br>{T}: Target permanent becomes colorless until end of turn.
+p203
+aVWhenever you cast a creature spell, put a 1/1 green Saproling creature token onto the battlefield.
+p204
+aVWhenever you cast a creature spell, put a 1/1 green Saproling creature token onto the battlefield.
+p205
+aVCreatures you control have hexproof. <i>(They can't be the targets of spells or abilities your opponents control.)</i>
+p206
+aVFlying<br>Sacrifice a creature: Fallen Angel gets +2/+1 until end of turn.
+p207
+aVAt the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep.
+p208
+aVAt the beginning of your end step, if Erg Raiders didn't attack this turn, Erg Raiders deals 2 damage to you unless it came under your control this turn.
+p209
+aVAt the beginning of your end step, if Erg Raiders didn't attack this turn, Erg Raiders deals 2 damage to you unless it came under your control this turn.
+p210
+aVEvaporate deals 1 damage to each white and/or blue creature.
+p211
+aVTarget opponent discards a card at random, then discards a card.
+p212
+aV{U}, {T}, Sacrifice a creature or enchantment: Counter target spell.
+p213
+aVCounter target spell if it was kicked.
+p214
+aV{U}, {T}, Sacrifice a creature or enchantment: Counter target spell.
+p215
+aVHaste<br>Whenever Erdwal Ripper deals combat damage to a player, put a +1/+1 counter on it.
+p216
+asS'costs'
+p217
+(lp218
+V{3}{G}
+p219
+aV{1}{U}
+p220
+aV{3}{W}
+p221
+aV{1}{B}
+p222
+aV{U}{U}{U}
+p223
+aV{2}{U}
+p224
+aV{1}{W}
+p225
+aV{1}{W}
+p226
+aV{X}{U}
+p227
+aV{2}{G}{G}
+p228
+aV{4}{U}{U}
+p229
+aV{6}{U}
+p230
+aV{2}{U}
+p231
+aV{U}{U}{U}
+p232
+aV{1}{B}
+p233
+aV{1}{W}
+p234
+aV{1}{R}
+p235
+aV{2}{R}
+p236
+aV{2}{R}
+p237
+aV{2}{B}{B}
+p238
+aV{2}{B}{B}
+p239
+aV{6}{U}
+p240
+aV{1}{W}
+p241
+aV{2}{U}
+p242
+aV{4}
+p243
+aV{2}{U}
+p244
+aV{1}{R}
+p245
+aV{W}
+p246
+aV{3}{G}
+p247
+aV{1}{B}
+p248
+aV{2}{R}{R}
+p249
+aV{3}{W}
+p250
+aV{1}{U}
+p251
+aV{3}{G}
+p252
+aV{1}{R}
+p253
+aV{1}{B}
+p254
+aV{W}
+p255
+aV{6}{U}
+p256
+aV{3}
+p257
+aS'0'
+p258
+ag258
+ag258
+aV{3}{G}
+p259
+aV{3}{G}
+p260
+aV{1}{B}
+p261
+aV{1}{B}
+p262
+aV{3}{R}{R}
+p263
+aV{3}{R}{R}
+p264
+aV{2}{W}{U}{B}
+p265
+aV{U}
+p266
+aV{2}{W}{U}{B}
+p267
+aV{1}{R}{R}
+p268
+asS'names'
+p269
+(lp270
+VErhnam Djinn
+p271
+aVErayo, Soratami Ascendant (Erayo's Essence)
+p272
+aVErase
+p273
+aVErg Raiders
+p274
+aVErosion
+p275
+aVErratic Mutation
+p276
+aVErrand of Duty
+p277
+aVErrand of Duty
+p278
+aVErtai's Meddling
+p279
+aVErithizon
+p280
+aVErhnam Djinn
+p281
+aVErrant Ephemeron
+p282
+aVErratic Mutation
+p283
+aVErosion
+p284
+aVErg Raiders
+p285
+aVErrand of Duty
+p286
+aVErrantry
+p287
+aVErratic Explosion
+p288
+aVErratic Explosion
+p289
+aVEradicate
+p290
+aVEradicate
+p291
+aVErrant Ephemeron
+p292
+aVErrant Doomsayers
+p293
+aVErtai, Wizard Adept
+p294
+aVErratic Portal
+p295
+aVErrant Minion
+p296
+aVErrantry
+p297
+aVErase
+p298
+aVErhnam Djinn
+p299
+aVErg Raiders
+p300
+aVErebos, God of the Dead
+p301
+aVErebos's Emissary
+p302
+aVErtai's Familiar
+p303
+aVErhnam Djinn
+p304
+aVErrantry
+p305
+aVErg Raiders
+p306
+aVErase
+p307
+aVErrant Ephemeron
+p308
+aVErsatz Gnomes
+p309
+aVErhnam Djinn Avatar
+p310
+aVErhnam Djinn Avatar
+p311
+aVErtai
+p312
+aVErhnam Djinn
+p313
+aVErhnam Djinn
+p314
+aVErg Raiders
+p315
+aVErg Raiders
+p316
+aVEron the Relentless
+p317
+aVEron the Relentless
+p318
+aVErtai, the Corrupted
+p319
+aVErtai's Trickery
+p320
+aVErtai, the Corrupted
+p321
+aVErdwal Ripper
+p322
+asS'toughs'
+p323
+(lp324
+V2
+p325
+aS'N/A'
+p326
+ag326
+aV4
+p327
+ag326
+ag326
+ag326
+ag326
+ag326
+ag327
+aV5
+p328
+ag325
+ag326
+ag326
+ag327
+ag326
+ag326
+ag326
+ag326
+ag326
+ag326
+ag327
+ag325
+aV1
+p329
+ag326
+ag326
+ag326
+ag326
+ag328
+ag327
+ag326
+ag326
+ag327
+ag329
+ag326
+ag328
+ag326
+aV3
+p330
+ag326
+ag326
+ag326
+ag326
+ag327
+ag328
+ag329
+ag329
+ag330
+ag325
+ag327
+ag326
+ag327
+ag325
+asS'artists'
+p331
+(lp332
+VKen Meyer, Jr.
+p333
+aVMatt Cavotta
+p334
+aVRichard Wright
+p335
+aVDameon Willich
+p336
+aVPete Venters
+p337
+aVZoltan Boros & Gabor Szikszai
+p338
+aVJulie Baroh
+p339
+aVJulie Baroh
+p340
+aVSteve Luke
+p341
+aVScott M. Fischer
+p342
+aVGreg Staples
+p343
+aS''
+p344
+ag344
+aVPete Venters
+p345
+aVDameon Willich
+p346
+aVJulie Baroh
+p347
+aVScott Kirschner
+p348
+ag344
+aVGary Ruddell
+p349
+aVGlen Angus
+p350
+aVKev Walker
+p351
+aVLuca Zontini
+p352
+aVLiz Danforth
+p353
+aVTerese Nielsen
+p354
+aVJohn Matson
+p355
+aVHarold McNeill
+p356
+aVL. A. Williams
+p357
+aVRon Spears
+p358
+aVGreg Staples
+p359
+aVDameon Willich
+p360
+aVPeter Mohrbacher
+p361
+aVSam Burley
+p362
+aVKipling West
+p363
+aVKen Meyer, Jr.
+p364
+aVScott Kirschner
+p365
+aVStuart Griffin
+p366
+aVZack Stella
+p367
+aVLuca Zontini
+p368
+aVRon Spencer
+p369
+aVUDON
+p370
+aVUDON
+p371
+aVRandy Gallegos
+p372
+aVDave Dorman
+p373
+aVKen Meyer Jr.
+p374
+aVDameon Willich
+p375
+aVDameon Willich
+p376
+aVChristopher Rush
+p377
+aVChristopher Rush
+p378
+aVMark Tedin
+p379
+aVKev Walker
+p380
+aVKev Walker
+p381
+aVAnthony Palumbo
+p382
+asS'powers'
+p383
+(lp384
+g325
+ag326
+ag326
+aV0
+p385
+ag326
+ag326
+ag326
+ag326
+ag326
+ag327
+ag327
+ag329
+ag326
+ag326
+aV6
+p386
+ag326
+ag326
+ag326
+ag326
+ag326
+ag326
+ag327
+ag327
+ag329
+ag326
+ag326
+ag326
+ag326
+ag327
+ag330
+ag326
+ag326
+ag325
+ag327
+ag326
+ag329
+ag326
+ag327
+ag326
+ag326
+ag326
+ag326
+ag385
+ag327
+ag327
+ag329
+ag330
+ag328
+ag330
+ag326
+ag327
+ag325
+asS'types'
+p387
+(lp388
+VCreature - Djinn
+p389
+aVLegendary Enchantment
+p390
+aVInstant
+p391
+aVCreature - Human Warrior
+p392
+aVEnchantment - Aura
+p393
+aVInstant
+p394
+aVInstant
+p395
+aVInstant
+p396
+aVInstant
+p397
+aVCreature - Beast
+p398
+aVCreature - Djinn
+p399
+aVCreature - Illusion
+p400
+aVInstant
+p401
+aVEnchantment - Aura
+p402
+aVCreature - Human Warrior
+p403
+aVInstant
+p404
+aVEnchantment - Aura
+p405
+aVSorcery
+p406
+aVSorcery
+p407
+aVSorcery
+p408
+aVSorcery
+p409
+aVCreature - Illusion
+p410
+aVCreature - Human Rebel
+p411
+aVLegendary Creature - Human Wizard
+p412
+aVArtifact
+p413
+aVEnchantment - Aura
+p414
+aVEnchantment - Aura
+p415
+aVInstant
+p416
+aVCreature - Djinn
+p417
+aVCreature - Human Warrior
+p418
+aVLegendary Enchantment Creature - God
+p419
+aVEnchantment Creature - Snake
+p420
+aVCreature - Illusion
+p421
+aVCreature - Djinn
+p422
+aVEnchantment - Aura
+p423
+aVCreature - Human Warrior
+p424
+aVInstant
+p425
+aVCreature - Illusion
+p426
+aVArtifact Creature - Gnome
+p427
+aVVanguard
+p428
+aVVanguard
+p429
+aVVanguard
+p430
+aVCreature - Djinn
+p431
+aVCreature - Djinn
+p432
+aVCreature - Human Warrior
+p433
+aVCreature - Human Warrior
+p434
+aVLegendary Creature - Human Rogue
+p435
+aVLegendary Creature - Human Rogue
+p436
+aVLegendary Creature - Human Wizard
+p437
+aVInstant
+p438
+aVLegendary Creature - Human Wizard
+p439
+aVCreature - Vampire
+p440
+asS'numbers'
+p441
+(lp442
+V51
+p443
+aV35
+p444
+aV13
+p445
+aV52
+p446
+aV66
+p447
+aV41
+p448
+aV91
+p449
+aV145
+p450
+aV75
+p451
+aV244
+p452
+aV207
+p453
+ag344
+ag344
+aV89
+p454
+aV118
+p455
+aV12
+p456
+aV124
+p457
+aV76
+p458
+aV201
+p459
+aV65
+p460
+aV60
+p461
+aV60
+p462
+aV15
+p463
+aV33
+p464
+aV132
+p465
+aV76
+p466
+aV275
+p467
+aV7
+p468
+aV113
+p469
+aV68
+p470
+aV85
+p471
+aV86
+p472
+aV43
+p473
+aV68
+p474
+aV130
+p475
+aV264
+p476
+aV9
+p477
+aV20
+p478
+aV8
+p479
+aV28
+p480
+aV27
+p481
+aV24
+p482
+aV39
+p483
+aV18
+p484
+aV54
+p485
+aV55
+p486
+aV57
+p487
+aV61
+p488
+aV107
+p489
+aV24
+p490
+aV107
+p491
+aV86
+p492
+as.

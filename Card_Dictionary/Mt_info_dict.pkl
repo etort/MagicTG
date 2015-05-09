@@ -1,0 +1,98 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVUncommon
+p4
+aVCommon
+p5
+asS'editns'
+p6
+(lp7
+VMirage
+p8
+aVMirage
+p9
+aVMirage
+p10
+asS'ids'
+p11
+(lp12
+V3399
+p13
+aV3503
+p14
+aV3504
+p15
+asS'texts'
+p16
+(lp17
+VWhenever Mtenda Lion attacks, defending player may pay {U}. If that player does, prevent all combat damage that would be dealt by Mtenda Lion this turn.
+p18
+aVFlanking <i>(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)</i>
+p19
+aVTrample; banding <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
+p20
+asS'costs'
+p21
+(lp22
+V{G}
+p23
+aV{3}{W}
+p24
+aV{W}
+p25
+asS'names'
+p26
+(lp27
+VMtenda Lion
+p28
+aVMtenda Griffin
+p29
+aVMtenda Herder
+p30
+asS'toughs'
+p31
+(lp32
+V2
+p33
+aV3
+p34
+ag33
+asS'artists'
+p35
+(lp36
+VStuart Griffin
+p37
+aVJanine Johnston
+p38
+aVZina Saunders
+p39
+asS'powers'
+p40
+(lp41
+g34
+ag33
+aV1
+p42
+asS'types'
+p43
+(lp44
+VCreature - Cat
+p45
+aVCreature - Griffin
+p46
+aVCreature - Human Scout
+p47
+asS'numbers'
+p48
+(lp49
+V113
+p50
+aV183
+p51
+aV184
+p52
+as.

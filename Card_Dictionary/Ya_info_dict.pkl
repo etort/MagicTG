@@ -1,0 +1,907 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVRare
+p4
+aVCommon
+p5
+aVUncommon
+p6
+aVCommon
+p7
+aVCommon
+p8
+aVRare
+p9
+aVUncommon
+p10
+aVUncommon
+p11
+aVRare
+p12
+aVMythic Rare
+p13
+aVMythic Rare
+p14
+aVRare
+p15
+aVRare
+p16
+aVUncommon
+p17
+aVRare
+p18
+aVUncommon
+p19
+aVRare
+p20
+aVCommon
+p21
+aVCommon
+p22
+aVRare
+p23
+aVCommon
+p24
+aVRare
+p25
+aVUncommon
+p26
+aVUncommon
+p27
+aVUncommon
+p28
+aVUncommon
+p29
+aVUncommon
+p30
+aVRare
+p31
+aVCommon
+p32
+aVCommon
+p33
+aVCommon
+p34
+aVRare
+p35
+aVUncommon
+p36
+aVUncommon
+p37
+aVUncommon
+p38
+aVRare
+p39
+aVRare
+p40
+aVCommon
+p41
+aVUncommon
+p42
+aVUncommon
+p43
+aVRare
+p44
+aVCommon
+p45
+aVCommon
+p46
+asS'editns'
+p47
+(lp48
+VMagic: The Gathering-Commander
+p49
+aVAntiquities
+p50
+aVAlliances
+p51
+aVAlliances
+p52
+aVAlliances
+p53
+aVMagic 2010
+p54
+aVTenth Edition
+p55
+aVTenth Edition
+p56
+aVVintage Masters
+p57
+aVVintage Masters
+p58
+aVVintage Masters
+p59
+aVVintage Masters
+p60
+aVApocalypse
+p61
+aVApocalypse
+p62
+aVMasters Edition II
+p63
+aVNinth Edition
+p64
+aVNinth Edition
+p65
+aVNinth Edition
+p66
+aVChampions of Kamigawa
+p67
+aVChampions of Kamigawa
+p68
+aVUrza's Destiny
+p69
+aVUrza's Destiny
+p70
+aVUrza's Destiny
+p71
+aVUrza's Destiny
+p72
+aVTime Spiral
+p73
+aVIce Age
+p74
+aVSeventh Edition
+p75
+aVSeventh Edition
+p76
+aVMagic 2015 Core Set
+p77
+aVUrza's Legacy
+p78
+aVUrza's Legacy
+p79
+aVUrza's Legacy
+p80
+aVUrza's Saga
+p81
+aVUrza's Saga
+p82
+aVMasters Edition
+p83
+aVEighth Edition
+p84
+aVChronicles
+p85
+aVInvasion
+p86
+aVInvasion
+p87
+aVInvasion
+p88
+aVArchenemy
+p89
+aVMirage
+p90
+aVBeatdown Box Set
+p91
+aVMagic 2011
+p92
+asS'ids'
+p93
+(lp94
+V247524
+p95
+aV1049
+p96
+aV3156
+p97
+aV3158
+p98
+aV3157
+p99
+aV191088
+p100
+aV129810
+p101
+aV130515
+p102
+aV383155
+p103
+aV383156
+p104
+aV383157
+p105
+aV383158
+p106
+aV19132
+p107
+aV23249
+p108
+aV184765
+p109
+aV84474
+p110
+aV83341
+p111
+aV84579
+p112
+aV50292
+p113
+aV50346
+p114
+aV15193
+p115
+aV15225
+p116
+aV15772
+p117
+aV15236
+p118
+aV118884
+p119
+aV2604
+p120
+aV25630
+p121
+aV15882
+p122
+aV383441
+p123
+aV12429
+p124
+aV12656
+p125
+aV5571
+p126
+aV5629
+p127
+aV5696
+p128
+aV159109
+p129
+aV47601
+p130
+aV2823
+p131
+aV23054
+p132
+aV23161
+p133
+aV23174
+p134
+aV220560
+p135
+aV3523
+p136
+aV26631
+p137
+aV205221
+p138
+asS'texts'
+p139
+(lp140
+VWhen Yavimaya Elder dies, you may search your library for up to two basic land cards, reveal them, and put them into your hand. If you do, shuffle your library.<br>{2}, Sacrifice Yavimaya Elder: Draw a card.
+p141
+aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i><br>First strike <i>(This creature deals combat damage before creatures without first strike.)</i><br>At the beginning of your upkeep, you may sacrifice an artifact. If you don't, tap Yawgmoth Demon and it deals 2 damage to you.
+p142
+aVTrample, haste<br>Cumulative upkeep {G}{G} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i>
+p143
+aV{R}: Add {B} to your mana pool.
+p144
+aS''
+p145
+aVW
+p146
+aVCopy target instant or sorcery spell. You may choose new targets for the copy.
+p147
+aVViashino Runner can't be blocked except by two or more creatures.
+p148
+ag145
+ag145
+ag145
+ag145
+aVEnchant creature<br>You control enchanted creature.<br>Enchanted creature gets +2/+2 and has trample.
+p149
+aV{T}: Add {1} to your mana pool.<br>{T}: Add {G} or {U} to your mana pool. Yavimaya Coast deals 1 damage to you.
+p150
+ag145
+ag145
+ag145
+ag145
+aVYamabushi's Flame deals 3 damage to target creature or player. If a creature dealt damage this way would die this turn, exile it instead.
+p151
+aVSacrifice Kami of Ancient Law: Destroy target enchantment.
+p152
+aVSkip your draw step.<br><br>Pay 1 life: Draw a card.
+p153
+aVWhen Yavimaya Elder dies, you may search your library for up to two basic land cards, reveal them, and put them into your hand. If you do, shuffle your library.<br>{2}, Sacrifice Yavimaya Elder: Draw a card.
+p154
+aV{T}: Add {1} to your mana pool.<br><br>{G}, {T}: Regenerate target creature.
+p155
+aVYavimaya Enchantress gets +1/+1 for each enchantment on the battlefield.
+p156
+aVForestwalk<br>When Yavimaya Dryad enters the battlefield, you may search your library for a Forest card and put it onto the battlefield tapped under target player's control. If you do, shuffle your library.
+p157
+aVEnchant non-Wall creature<br>Enchanted creature has first strike and trample.<br>At the beginning of the end step of enchanted creature's controller, destroy that creature if it didn't attack this turn.
+p158
+aV{X}: Crypt Rats deals X damage to each creature and each player. Spend only black mana this way.
+p159
+ag145
+ag145
+aVProtection from artifacts
+p160
+aVEcho {2}{G} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i><br>When Yavimaya Granger enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
+p161
+aVTrample <i>(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</i>
+p162
+aVUntil end of turn, you may play cards from your graveyard.<br>If a card would be put into your graveyard from anywhere this turn, exile that card instead.
+p163
+ag145
+aVTrample, haste<br>Cumulative upkeep {G}{G} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i>
+p164
+ag145
+ag145
+aVYou can't cast more than one spell each turn.<br>You may play cards from your graveyard.<br>If a card would be put into your graveyard from anywhere, exile it instead.
+p165
+aVProtection from blue
+p166
+aVYavimaya Kavu's power is equal to the number of red creatures on the battlefield.<br>Yavimaya Kavu's toughness is equal to the number of green creatures on the battlefield.
+p167
+aVWhen you set this scheme in motion, reveal the top three cards of your library. Put all land cards revealed this way onto the battlefield and the rest into your hand.
+p168
+aVFlanking <i>(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)</i><br>{1}{W}{W}: Target Knight creature gets +1/+1 until end of turn.
+p169
+ag145
+ag146
+asS'costs'
+p170
+(lp171
+V{3}{U}{U}{B}
+p172
+aV{4}{B}{B}
+p173
+aV{3}{G}{G}
+p174
+aV{2}{G}{G}
+p175
+aV{3}{G}{G}
+p176
+aV{W}{W}
+p177
+aS'0'
+p178
+aV{2}{G}
+p179
+aV{3}{W}{W}
+p180
+ag178
+aV{3}{R}{R}{R}
+p181
+aV{1}{G}{G}
+p182
+aV{5}{G}{U}{U}
+p183
+ag178
+aV{3}{G}{G}
+p184
+ag178
+aV{2}{G}
+p185
+aV{4}{B}{B}
+p186
+aV{2}{R}
+p187
+aV{1}{R}
+p188
+aV{4}{B}{B}
+p189
+aV{1}{G}{G}
+p190
+ag178
+aV{2}{G}
+p191
+aV{1}{G}{G}
+p192
+aV{2}{G}
+p193
+aV{1}{B}
+p194
+aV{2}{G}
+p195
+ag178
+aV{4}{G}
+p196
+aV{2}{G}
+p197
+aV{4}{G}{G}
+p198
+aV{2}{B}
+p199
+aV{1}{B}
+p200
+aV{2}{G}{G}
+p201
+aV{2}{G}
+p202
+aV{4}{B}{B}
+p203
+aV{3}{B}{B}
+p204
+aV{R}{G}
+p205
+aV{2}{R}{G}
+p206
+aV{1}{G}{G}
+p207
+aV{2}{W}
+p208
+aV{4}{G}{G}
+p209
+aV{3}
+p210
+asS'names'
+p211
+(lp212
+VYavimaya Elder
+p213
+aVYawgmoth Demon
+p214
+aVYavimaya Ancients
+p215
+aVYavimaya Ants
+p216
+aVYavimaya Ancients
+p217
+aVYawning Fissure
+p218
+aVYavimaya Coast
+p219
+aVYavimaya Enchantress
+p220
+aVYavimaya Elder
+p221
+aVYavimaya Hollow
+p222
+aVYawgmoth's Bargain
+p223
+aVYawgmoth's Will
+p224
+aVYavimaya's Embrace
+p225
+aVYavimaya Coast
+p226
+aVYavimaya Ancients
+p227
+aVYavimaya Coast
+p228
+aVYavimaya Enchantress
+p229
+aVYawgmoth Demon
+p230
+aVYamabushi's Flame
+p231
+aVYamabushi's Storm
+p232
+aVYawgmoth's Bargain
+p233
+aVYavimaya Elder
+p234
+aVYavimaya Hollow
+p235
+aVYavimaya Enchantress
+p236
+aVYavimaya Dryad
+p237
+aVYavimaya Gnats
+p238
+aVYawgmoth's Edict
+p239
+aVYavimaya Enchantress
+p240
+aVYavimaya Coast
+p241
+aVYavimaya Scion
+p242
+aVYavimaya Granger
+p243
+aVYavimaya Wurm
+p244
+aVYawgmoth's Will
+p245
+aVYawgmoth's Edict
+p246
+aVYavimaya Ants
+p247
+aVYavimaya Enchantress
+p248
+aVYawgmoth Demon
+p249
+aVYawgmoth's Agenda
+p250
+aVYavimaya Barbarian
+p251
+aVYavimaya Kavu
+p252
+aVYavimaya Dryad
+p253
+aVYare
+p254
+aVYavimaya Wurm
+p255
+aVYavimaya Wurm
+p256
+asS'toughs'
+p257
+(lp258
+V8
+p259
+aV2
+p260
+ag260
+aV7
+p261
+aV1
+p262
+aS'N/A'
+p263
+ag263
+ag262
+aV0
+p264
+ag263
+ag263
+ag263
+ag263
+ag263
+aV6
+p265
+ag263
+ag260
+ag262
+ag263
+ag263
+ag263
+ag262
+ag263
+ag262
+ag260
+ag260
+ag263
+aV3
+p266
+ag263
+aV4
+p267
+ag262
+ag260
+ag263
+ag263
+ag264
+aV5
+p268
+ag268
+ag263
+ag260
+aV*
+p269
+aV10
+p270
+ag263
+ag260
+ag262
+asS'artists'
+p271
+(lp272
+VMatt Cavotta
+p273
+aVSandra Everingham
+p274
+aVQuinton Hoover
+p275
+aVPat Morrissey
+p276
+aVQuinton Hoover
+p277
+aVVéronique Meignaud
+p278
+aVAnthony S. Waters
+p279
+aVTerese Nielsen
+p280
+aVMatt Cavotta
+p281
+aVDouglas Shuler
+p282
+aVMichael Sutfin
+p283
+aVRon Spencer
+p284
+aVEric Peterson
+p285
+aVAnthony S. Waters
+p286
+aVQuinton Hoover
+p287
+aVAnthony S. Waters
+p288
+aVMatthew D. Wilson
+p289
+aVPete Venters
+p290
+aVChristopher Moeller
+p291
+aVWayne England
+p292
+aVMichael Sutfin
+p293
+aVRay Lago
+p294
+aVDouglas Shuler
+p295
+aVMatthew Wilson
+p296
+aVRebecca Guay
+p297
+aVDan Frazier
+p298
+aVDonato Giancola
+p299
+aVTerese Nielsen
+p300
+aVAnthony S. Waters
+p301
+aVDiTerlizzi
+p302
+aVHenry Van Der Linde
+p303
+aVMelissa A. Benson
+p304
+aVRon Spencer
+p305
+aVScott Kirschner
+p306
+aVPat Morrissey
+p307
+aVMatthew D. Wilson
+p308
+aVSandra Everingham
+p309
+aVArnie Swekel
+p310
+aVDon Hazeltine
+p311
+aVGreg Staples
+p312
+aVRebecca Guay
+p313
+aVRon Spencer
+p314
+aVMelissa A. Benson
+p315
+aVSteven Belledin
+p316
+asS'powers'
+p317
+(lp318
+g260
+ag262
+ag260
+ag261
+ag262
+ag263
+ag263
+ag262
+ag268
+ag263
+ag263
+ag263
+ag263
+ag263
+ag261
+ag263
+ag260
+ag262
+ag263
+ag263
+ag263
+ag262
+ag263
+ag262
+ag260
+ag262
+ag263
+ag266
+ag263
+ag267
+ag262
+ag260
+ag263
+ag263
+ag264
+ag262
+ag262
+ag263
+ag260
+ag269
+ag261
+ag263
+ag266
+ag266
+asS'types'
+p319
+(lp320
+VCreature - Human Druid
+p321
+aVCreature - Demon
+p322
+aVCreature - Treefolk
+p323
+aVCreature - Insect
+p324
+aVCreature - Treefolk
+p325
+aVSorcery
+p326
+aVLand
+p327
+aVCreature - Human Druid
+p328
+aVCreature - Human Druid
+p329
+aVLegendary Land
+p330
+aVEnchantment
+p331
+aVSorcery
+p332
+aVEnchantment - Aura
+p333
+aVLand
+p334
+aVCreature - Treefolk
+p335
+aVLand
+p336
+aVCreature - Human Druid
+p337
+aVCreature - Demon
+p338
+aVInstant
+p339
+aVSorcery
+p340
+aVEnchantment
+p341
+aVCreature - Human Druid
+p342
+aVLegendary Land
+p343
+aVCreature - Human Druid
+p344
+aVCreature - Dryad
+p345
+aVCreature - Insect
+p346
+aVEnchantment
+p347
+aVCreature - Human Druid
+p348
+aVLand
+p349
+aVCreature - Treefolk
+p350
+aVCreature - Elf
+p351
+aVCreature - Wurm
+p352
+aVSorcery
+p353
+aVEnchantment
+p354
+aVCreature - Insect
+p355
+aVCreature - Human Druid
+p356
+aVCreature - Demon
+p357
+aVEnchantment
+p358
+aVCreature - Elf Barbarian
+p359
+aVCreature - Kavu
+p360
+aVCreature - Dryad
+p361
+aVInstant
+p362
+aVCreature - Wurm
+p363
+aVCreature - Wurm
+p364
+asS'numbers'
+p365
+(lp366
+V179
+p367
+aV19
+p368
+aV71
+p369
+aV72
+p370
+aV199
+p371
+aV164
+p372
+aV363
+p373
+aV310
+p374
+aV240
+p375
+aV325
+p376
+aV147
+p377
+aV148
+p378
+aV127
+p379
+aV143
+p380
+aV190
+p381
+aV330
+p382
+aV284
+p383
+aV170
+p384
+aV198
+p385
+aV199
+p386
+aV75
+p387
+aV124
+p388
+aV143
+p389
+aV125
+p390
+aV235
+p391
+aV142
+p392
+aV171
+p393
+aV285
+p394
+aV249
+p395
+aV119
+p396
+aV118
+p397
+aV120
+p398
+aV171
+p399
+aV170
+p400
+aV140
+p401
+aV290
+p402
+aV125
+p403
+aV135
+p404
+aV290
+p405
+aV291
+p406
+aV75
+p407
+aV199
+p408
+aV90
+p409
+aV200
+p410
+as.

@@ -1,0 +1,1852 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVUncommon
+p4
+aVUncommon
+p5
+aVCommon
+p6
+aVUncommon
+p7
+aVMythic Rare
+p8
+aVCommon
+p9
+aVCommon
+p10
+aVCommon
+p11
+aVCommon
+p12
+aVCommon
+p13
+aVRare
+p14
+aVCommon
+p15
+aVCommon
+p16
+aVUncommon
+p17
+aVCommon
+p18
+aVMythic Rare
+p19
+aVUncommon
+p20
+aVRare
+p21
+aVCommon
+p22
+aVRare
+p23
+aVRare
+p24
+aVCommon
+p25
+aVUncommon
+p26
+aVUncommon
+p27
+aVCommon
+p28
+aVCommon
+p29
+aVCommon
+p30
+aVUncommon
+p31
+aVCommon
+p32
+aVUncommon
+p33
+aVUncommon
+p34
+aVCommon
+p35
+aVRare
+p36
+aVRare
+p37
+aVCommon
+p38
+aVUncommon
+p39
+aVRare
+p40
+aVUncommon
+p41
+aVUncommon
+p42
+aVCommon
+p43
+aVCommon
+p44
+aVUncommon
+p45
+aVRare
+p46
+aVUncommon
+p47
+aVCommon
+p48
+aVUncommon
+p49
+aVCommon
+p50
+aVCommon
+p51
+aVRare
+p52
+aVCommon
+p53
+aVUncommon
+p54
+aVRare
+p55
+aVCommon
+p56
+aVCommon
+p57
+aVUncommon
+p58
+aVRare
+p59
+aVCommon
+p60
+aVUncommon
+p61
+aVUncommon
+p62
+aVRare
+p63
+aVUncommon
+p64
+aVCommon
+p65
+aVCommon
+p66
+aVUncommon
+p67
+aVRare
+p68
+aVUncommon
+p69
+aVUncommon
+p70
+aVCommon
+p71
+aVRare
+p72
+aVCommon
+p73
+aVCommon
+p74
+aVRare
+p75
+aVCommon
+p76
+aVUncommon
+p77
+aVSpecial
+p78
+aVCommon
+p79
+aVCommon
+p80
+aVUncommon
+p81
+aVCommon
+p82
+aVRare
+p83
+aVRare
+p84
+aVRare
+p85
+aVCommon
+p86
+aVCommon
+p87
+aVUncommon
+p88
+aVCommon
+p89
+aVUncommon
+p90
+aVCommon
+p91
+aVUncommon
+p92
+aVRare
+p93
+asS'editns'
+p94
+(lp95
+VMagic: The Gathering-Commander
+p96
+aVMagic: The Gathering-Commander
+p97
+aVMagic 2012
+p98
+aVMagic 2012
+p99
+aVMagic 2013
+p100
+aVMagic 2013
+p101
+aVMagic 2013
+p102
+aVFourth Edition
+p103
+aVPlanar Chaos
+p104
+aVDuel Decks: Ajani vs. Nicol Bolas
+p105
+aVAlliances
+p106
+aVAlliances
+p107
+aVAlliances
+p108
+aVScars of Mirrodin
+p109
+aVBorn of the Gods
+p110
+aVMagic 2010
+p111
+aVMagic 2010
+p112
+aVMagic 2014 Core Set
+p113
+aVMagic 2014 Core Set
+p114
+aVTenth Edition
+p115
+aVVintage Masters
+p116
+aVMasters Edition III
+p117
+aVMasters Edition II
+p118
+aVGuildpact
+p119
+aVConflux
+p120
+aVConflux
+p121
+aVConflux
+p122
+aVAvacyn Restored
+p123
+aVAvacyn Restored
+p124
+aVDuel Decks: Sorin vs. Tibalt
+p125
+aVDuel Decks: Sorin vs. Tibalt
+p126
+aVDuel Decks: Sorin vs. Tibalt
+p127
+aVDuel Decks: Sorin vs. Tibalt
+p128
+aVChampions of Kamigawa
+p129
+aVModern Event Deck 2014
+p130
+aVCommander 2013 Edition
+p131
+aVCommander 2013 Edition
+p132
+aVOdyssey
+p133
+aVTime Spiral
+p134
+aVReturn to Ravnica
+p135
+aVReturn to Ravnica
+p136
+aVExodus
+p137
+aVColdsnap
+p138
+aVZendikar
+p139
+aVZendikar
+p140
+aVZendikar
+p141
+aVZendikar
+p142
+aVZendikar
+p143
+aVZendikar
+p144
+aVClassic Sixth Edition
+p145
+aVMirrodin
+p146
+aVRise of the Eldrazi
+p147
+aVShadowmoor
+p148
+aVNew Phyrexia
+p149
+aVNew Phyrexia
+p150
+aVFifth Dawn
+p151
+aVPortal Second Age
+p152
+aVPlanechase
+p153
+aVDuel Decks: Venser vs. Koth
+p154
+aVUrza's Saga
+p155
+aVMasters Edition
+p156
+aVTheros
+p157
+aVTheros
+p158
+aVMagic: The Gathering\u2014Conspiracy
+p159
+aVMagic: The Gathering\u2014Conspiracy
+p160
+aVEighth Edition
+p161
+aVWorldwake
+p162
+aVWorldwake
+p163
+aVWorldwake
+p164
+aVChronicles
+p165
+aVAlara Reborn
+p166
+aVFifth Edition
+p167
+aVArchenemy
+p168
+aVKhans of Tarkir
+p169
+aVMirage
+p170
+aVVanguard
+p171
+aVInnistrad
+p172
+aVInnistrad
+p173
+aVVisions
+p174
+aVVisions
+p175
+aVVisions
+p176
+aVDragon's Maze
+p177
+aVLegends
+p178
+aVLegends
+p179
+aVDissension
+p180
+aVDuel Decks: Izzet vs. Golgari
+p181
+aVDuel Decks: Heroes vs. Monsters
+p182
+aVPortal
+p183
+aVPortal
+p184
+aVPortal
+p185
+aVDark Ascension
+p186
+asS'ids'
+p187
+(lp188
+V247167
+p189
+aV247552
+p190
+aV220127
+p191
+aV244827
+p192
+aV260989
+p193
+aV275151
+p194
+aV279992
+p195
+aV2134
+p196
+aV122366
+p197
+aV249373
+p198
+aV3185
+p199
+aV3187
+p200
+aV3186
+p201
+aV194265
+p202
+aV378401
+p203
+aV190563
+p204
+aV191384
+p205
+aV370709
+p206
+aV370749
+p207
+aV135195
+p208
+aV383145
+p209
+aV201243
+p210
+aV184720
+p211
+aV96851
+p212
+aV180344
+p213
+aV185144
+p214
+aV184984
+p215
+aV240198
+p216
+aV240130
+p217
+aV368481
+p218
+aV368534
+p219
+aV368537
+p220
+aV368472
+p221
+aV79199
+p222
+aV382202
+p223
+aV376566
+p224
+aV376567
+p225
+aV29969
+p226
+aV118900
+p227
+aV253560
+p228
+aV253521
+p229
+aV6084
+p230
+aV121187
+p231
+aV190400
+p232
+aV192232
+p233
+aV192225
+p234
+aV185707
+p235
+aV178150
+p236
+aV180454
+p237
+aV15393
+p238
+aV46065
+p239
+aV193552
+p240
+aV159397
+p241
+aV218017
+p242
+aV217984
+p243
+aV51147
+p244
+aV6575
+p245
+aV205313
+p246
+aV270831
+p247
+aV9684
+p248
+aV159742
+p249
+aV373640
+p250
+aV373547
+p251
+aV382396
+p252
+aV382397
+p253
+aV45328
+p254
+aV194003
+p255
+aV201566
+p256
+aV197870
+p257
+aV2884
+p258
+aV144260
+p259
+aV3885
+p260
+aV220578
+p261
+aV386712
+p262
+aV3372
+p263
+aV206028
+p264
+aV226748
+p265
+aV247424
+p266
+aV3630
+p267
+aV3655
+p268
+aV3629
+p269
+aV368977
+p270
+aV1696
+p271
+aV1465
+p272
+aV107431
+p273
+aV338398
+p274
+aV373390
+p275
+aV4243
+p276
+aV4244
+p277
+aV4402
+p278
+aV270938
+p279
+asS'texts'
+p280
+(lp281
+VMountaincycling {2}, forestcycling {2} <i>({2}, Discard this card: Search your library for a Mountain or Forest card, reveal it, and put it into your hand. Then shuffle your library.)</i>
+p282
+aVFlying<br>Deathtouch <i>(Any amount of damage this deals to a creature is enough to destroy it.)</i><br>Lifelink <i>(Damage dealt by this creature also causes you to gain that much life.)</i>
+p283
+aVWhenever a player casts a green spell, you may gain 1 life.
+p284
+aVDiscard two cards: Put a 2/2 black Zombie creature token onto the battlefield.
+p285
+aVTarget player discards his or her hand.
+p286
+aVDeathtouch <i>(Any amount of damage this deals to a creature is enough to destroy it.)</i><br>{2}{B}, {T}: Put a petrification counter on target creature. It gains defender and becomes a colorless artifact in addition to its other types. Its activated abilities can't be activated. <i>(A creature with defender can't attack.)</i>
+p287
+aV{T}: Add three mana of any one color to your mana pool.
+p288
+aVEnchant land<br>Whenever enchanted land is tapped for mana, its controller adds {G} to his or her mana pool <i>(in addition to the mana the land produces)</i>.
+p289
+aVEnchant creature<br>Whenever enchanted creature deals damage, you gain that much life.
+p290
+aVReturn target creature to its owner's hand. Its controller loses 1 life.
+p291
+aVCumulative upkeep\u2014Put a 1/1 red Survivor creature token onto the battlefield under an opponent's control. <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>Trample; rampage 1 <i>(Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)</i>
+p292
+aVEnchant creature you control<br>Tap enchanted creature: Target creature other than the creature tapped this way gets +2/+1 until end of turn. Activate this ability only if enchanted creature is untapped.
+p293
+aVEnchant creature<br>Enchanted creature gets +1/+1.<br>{1}{U}: Return Viscerid Armor to its owner's hand.
+p294
+aVEnchant permanent<br>When Volition Reins enters the battlefield, if enchanted permanent is tapped, untap it.<br>You control enchanted permanent.
+p295
+aVEnchant creature<br>Enchanted creature gets -3/-2.
+p296
+aVEquipped creature is unblockable and has shroud.<br>Equip {2}
+p297
+aVFirst strike <i>(This creature deals combat damage before creatures without first strike.)</i><br>Protection from black <i>(This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)</i>
+p298
+aVAs an additional cost to cast Wild Guess, discard a card.<br>Draw two cards.
+p299
+aVYou may choose new targets for target instant or sorcery spell. Then copy that spell. You may choose new targets for the copy.
+p300
+aVDraw four cards, then discard three cards at random.
+p301
+aVWhen Yavimaya Elder dies, you may search your library for up to two basic land cards, reveal them, and put them into your hand. If you do, shuffle your library.<br>{2}, Sacrifice Yavimaya Elder: Draw a card.
+p302
+aVYoung Wei Recruits can't block.
+p303
+aVAll creatures lose flying until end of turn.<br>Sacrifice a snow land: Return Whiteout from your graveyard to your hand.
+p304
+aVPetrified Wood-Kin can't be countered.<br>Bloodthirst X <i>(This creature enters the battlefield with X +1/+1 counters on it, where X is the damage dealt to your opponents this turn.)</i><br>Protection from instants
+p305
+aV{U}{B}: Vectis Agents gets -2/-0 until end of turn and is unblockable this turn.
+p306
+aVProtection from red
+p307
+aVDouble strike<br>{B}{G}: Viashino Slaughtermaster gets +1/+1 until end of turn. Activate this ability only once each turn.
+p308
+aVEquipped creature gets +0/+3 and can block an additional creature.<br>Equip {3} <i>({3}: Attach to target creature you control. Equip only as a sorcery.)</i>
+p309
+aVPut target nonland permanent on top of its owner's library.<br>Miracle {U} <i>(You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)</i>
+p310
+aVAt the beginning of your upkeep, you lose 1 life unless an opponent has 10 or less life.
+p311
+aVFlying<br>Deathtouch <i>(Any amount of damage this deals to a creature is enough to destroy it.)</i><br>Lifelink <i>(Damage dealt by this creature also causes you to gain that much life.)</i>
+p312
+aVBloodthirst 2 <i>(If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)</i><br>Lifelink <i>(Damage dealt by this creature also causes you to gain that much life.)</i>
+p313
+aVKicker {2}{B} <i>(You may pay an additional {2}{B} as you cast this spell.)</i><br>Target creature gets +3/+0 until end of turn. If Vampire's Bite was kicked, that creature gains lifelink until end of turn. <i>(Damage dealt by the creature also causes its controller to gain that much life.)</i>
+p314
+aVAll creatures get -2/-2 until end of turn.<br>Splice onto Arcane {3}{B}{B} <i>(As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)</i>
+p315
+aV{T}: Add {1} to your mana pool.<br>{2}{W}{B}, {T}: Creatures you control gain deathtouch and lifelink until end of turn.
+p316
+aVMountaincycling {2}, forestcycling {2} <i>({2}, Discard this card: Search your library for a Mountain or Forest card, reveal it, and put it into your hand. Then shuffle your library.)</i>
+p317
+aVFlying<br>Deathtouch <i>(Any amount of damage this deals to a creature is enough to destroy it.)</i><br>Lifelink <i>(Damage dealt by this creature also causes you to gain that much life.)</i>
+p318
+aVVolley of Boulders deals 6 damage divided as you choose among any number of target creatures and/or players.<br>Flashback {R}{R}{R}{R}{R}{R} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
+p319
+aVAll Sliver creatures have "Whenever a creature dealt damage by this creature this turn dies, put a +1/+1 counter on this creature."
+p320
+aVWhen Voidwielder enters the battlefield, you may return target creature to its owner's hand.
+p321
+aVTrample<br>Volatile Rig attacks each turn if able.<br>Whenever Volatile Rig is dealt damage, flip a coin. If you lose the flip, sacrifice Volatile Rig.<br>When Volatile Rig dies, flip a coin. If you lose the flip, it deals 4 damage to each creature and each player.
+p322
+aVDiscard a creature card: Vampire Hounds gets +2/+2 until end of turn.
+p323
+aVExile target creature. You draw cards equal to that creature's power. At the beginning of your next upkeep, return that card to the battlefield under its owner's control. If you do, discard cards equal to its toughness.
+p324
+aVKicker {2}{B} <i>(You may pay an additional {2}{B} as you cast this spell.)</i><br>Target creature gets +3/+0 until end of turn. If Vampire's Bite was kicked, that creature gains lifelink until end of turn. <i>(Damage dealt by the creature also causes its controller to gain that much life.)</i>
+p325
+aV{T}, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card and put it onto the battlefield. Then shuffle your library.
+p326
+aVKicker {G} <i>(You may pay an additional {G} as you cast this spell.)</i><br>Target creature can't be the target of spells or abilities your opponents control this turn. If Vines of Vastwood was kicked, that creature gets +4/+4 until end of turn.
+p327
+aVDouble strike<br>Whenever Warren Instigator deals damage to an opponent, you may put a Goblin creature card from your hand onto the battlefield.
+p328
+aVFlying<br>Welkin Tern can block only creatures with flying.
+p329
+aVIf an opponent had two or more creatures enter the battlefield under his or her control this turn, you may pay {U} rather than pay Whiplash Trap's mana cost.<br>Return two target creatures to their owners' hands.
+p330
+aVEnchant land<br>When enchanted land becomes tapped, destroy it.
+p331
+aV<i>(Vault of Whispers isn't a spell.)</i><br>{T}: Add {B} to your mana pool.
+p332
+aVDefender<br>{1}{R}, {T}: Vent Sentinel deals damage to target player equal to the number of creatures with defender you control.
+p333
+aVHaste<br>{R}: Pyre Charger gets +1/+0 until end of turn.
+p334
+aVViridian Betrayers has infect as long as an opponent is poisoned. <i>(It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</i>
+p335
+aVEnchant artifact<br>When enchanted artifact is put into a graveyard, you gain 6 life.
+p336
+aVDestroy target blocking creature.
+p337
+aS''
+p338
+aV<i>(Vault of Whispers isn't a spell.)</i><br>{T}: Add {B} to your mana pool.
+p339
+aVExile target creature. You draw cards equal to that creature's power. At the beginning of your next upkeep, return that card to the battlefield under its owner's control. If you do, discard cards equal to its toughness.
+p340
+aVWhenever Electryte deals combat damage to defending player, it deals damage equal to its power to each blocking creature.
+p341
+aVCumulative upkeep\u2014Put a 1/1 red Survivor creature token onto the battlefield under an opponent's control. <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>Trample; rampage 1 <i>(Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)</i>
+p342
+aVCreatures you control have lifelink.<br>{2}{B}{B}, {T}: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate this ability only any time you could cast a sorcery.
+p343
+aVWhen Wild Celebrants enters the battlefield, you may destroy target artifact.
+p344
+aVChoose two target creature cards in your graveyard. Sacrifice a creature. If you do, return the chosen cards to the battlefield tapped.
+p345
+aVVolcanic Fallout can't be countered.<br>Volcanic Fallout deals 2 damage to each creature and each player.
+p346
+aVWhenever a permanent is returned to a player's hand, that player discards a card.
+p347
+aVEnchant land<br>Enchanted land is a 6/4 green Elemental creature. It's still a land.<br>When enchanted land dies, return that card to its owner's hand.
+p348
+aVTarget creature gets +1/+1 until end of turn. Untap that creature.
+p349
+aVMultikicker {U} <i>(You may pay an additional {U} any number of times as you cast this spell.)</i><br>Flying<br>When Voyager Drake enters the battlefield, up to X target creatures gain flying until end of turn, where X is the number of times Voyager Drake was kicked.
+p350
+aVFlying<br>{B}{R}{G}, {T}: Target player draws a card.
+p351
+aVWhenever Vedalken Ghoul becomes blocked, defending player loses 4 life.
+p352
+aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i><br>{B}: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn.
+p353
+aVFlying<br>Whenever a creature dealt damage by Vampiric Dragon this turn dies, put a +1/+1 counter on Vampiric Dragon.<br>{1}{R}: Vampiric Dragon deals 1 damage to target creature.
+p354
+aVWhen Warden of the Eye enters the battlefield, return target noncreature, nonland card from your graveyard to your hand.
+p355
+aVFlying<br>At the beginning of your upkeep, Vaporous Djinn phases out unless you pay {U}{U}. <i>(While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)</i>
+p356
+aVPlay with the top card of your library revealed.<br>As long as the top card of your library is black, black creatures you control get +2/+1.
+p357
+aVFirst strike<br>At the beginning of each upkeep, if no spells were cast last turn, transform Village Ironsmith.
+p358
+aVAt the beginning of each upkeep, if no spells were cast last turn, transform Villagers of Estwald.
+p359
+aVFlying<br>{1}{B}, Sacrifice a creature: Regenerate Wake of Vultures.
+p360
+aVChoose one- Target player puts the top four cards of his or her library into his or her graveyard; or choose a land type and a basic land type, and each land of the first chosen type becomes the second chosen type until end of turn; or target artifact phases out. <i>(While it's phased out, it's treated as though it doesn't exist. It phases in before its controller untaps during his or her next untap step.)</i>
+p361
+aVCreatures you control get +1/+1 until end of turn.
+p362
+aVWhenever an opponent casts a spell during your turn or when Voice of Resurgence dies, put a green and white Elemental creature token onto the battlefield with "This creature's power and toughness are each equal to the number of creatures you control."
+p363
+aVChoose one- Destroy target blue permanent; or return target Island to its owner's hand.
+p364
+ag338
+aVTarget creature can block any number of creatures this turn.
+p365
+aVReplicate {2}{U} <i>(When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)</i><br>Return target creature to its owner's hand.
+p366
+aVMountaincycling {2}, forestcycling {2} <i>({2}, Discard this card: Search your library for a Mountain or Forest card, reveal it, and put it into your hand. Then shuffle your library.)</i>
+p367
+aVDestroy all white creatures.
+p368
+aV{T}: Capricious Sorcerer deals 1 damage to target creature or player. Activate this ability only during your turn, before attackers are declared.
+p369
+aVFlying, vigilance
+p370
+aVMorbid- When Wakedancer enters the battlefield, if a creature died this turn, put a 2/2 black Zombie creature token onto the battlefield.
+p371
+asS'costs'
+p372
+(lp373
+V{3}{B}
+p374
+aV{4}{R}{G}
+p375
+aV{1}{G}
+p376
+aV{B}
+p377
+aV{2}{B}{B}
+p378
+aV{B}{B}
+p379
+aV{3}{G}{G}
+p380
+aV{B}
+p381
+aV{B}
+p382
+aV{R}{R}{G}{G}{G}{W}{W}
+p383
+aV{3}{R}
+p384
+aV{1}{R}
+p385
+aV{3}{R}
+p386
+aV{U}
+p387
+aV{1}{G}
+p388
+aV{U}{U}
+p389
+aV{2}{W}
+p390
+aV{4}
+p391
+aV{2}{U}
+p392
+aV{B}
+p393
+aV{4}{U}{U}
+p394
+aV{2}{B}{B}{R}{R}{G}{G}
+p395
+aV{3}{R}
+p396
+aV{2}{U}
+p397
+aV{U}
+p398
+aV{5}{G}{W}
+p399
+aV{G}{W}
+p400
+aV{3}{B}
+p401
+aV{2}{B}
+p402
+aV{W/B}{W/B}{W/B}
+p403
+aV{B}{B}
+p404
+aV{B}
+p405
+aV{1}{B}{B}
+p406
+aV{3}{W}
+p407
+aS'0'
+p408
+aV{4}{R}{G}
+p409
+aV{1}{B}{B}
+p410
+aV{6}{B}{R}
+p411
+aV{3}{B}
+p412
+aV{6}{R}{R}
+p413
+aV{R}
+p414
+aV{2}{B}
+p415
+aV{2}{W}{U}
+p416
+ag408
+aV{3}{G}{G}
+p417
+aV{2}{U}
+p418
+aV{R}
+p419
+aV{B}{B}
+p420
+aV{B}
+p421
+aV{B}
+p422
+ag408
+aV{2}{W}
+p423
+aV{5}{R/G}
+p424
+aV{3}{R}{R}
+p425
+aV{U}
+p426
+aV{2}{W}
+p427
+aV{2}{B}{B}
+p428
+ag408
+aV{2}{W}{U}
+p429
+aV{2}{B}{B}
+p430
+aV{1}{R}
+p431
+aV{B}{R}
+p432
+aV{3}{B}{R}
+p433
+aV{2}{W}
+p434
+aV{W}
+p435
+aV{2}{B}{B}
+p436
+aV{B}{B}
+p437
+aV{4}{U}
+p438
+aV{2}{G}
+p439
+aV{2}{B}{B}{R}{R}{G}{G}
+p440
+aV{4}{R}{G}
+p441
+aV{B}
+p442
+aV{6}{B}{R}
+p443
+aV{3}{B}
+p444
+aV{2}{U}{U}
+p445
+ag408
+aV{1}{W}
+p446
+aV{1}{W}
+p447
+aV{1}{B}
+p448
+aV{U}
+p449
+aV{B}
+p450
+aV{1}{G}{W}
+p451
+aV{2}{B}{B}{R}{R}{G}{G}
+p452
+aV{B}
+p453
+aV{W}
+p454
+aV{2}{U}
+p455
+aV{4}{R}{G}
+p456
+aV{5}{B}{B}
+p457
+aV{2}{B}
+p458
+aV{1}{W}{W}
+p459
+ag408
+asS'names'
+p460
+(lp461
+VValley Rannet
+p462
+aVVampire Nighthawk
+p463
+aVVampire Outcasts
+p464
+aVVastwood Gorger
+p465
+aVVampire Nighthawk
+p466
+aVVampire Nocturnus
+p467
+aVVastwood Gorger
+p468
+aVVampire Bats
+p469
+aVVampiric Link
+p470
+aVVapor Snag
+p471
+aVVarchild's Crusader
+p472
+aVVarchild's War-Riders
+p473
+aVVarchild's Crusader
+p474
+aVVault Skyward
+p475
+aVVanguard of Brimaz
+p476
+aVVampire Aristocrat
+p477
+aVVampire Nocturnus
+p478
+aVVampire Warlord
+p479
+aVVastwood Hydra
+p480
+aVVampire Bats
+p481
+aVVampiric Tutor
+p482
+aVVaevictis Asmadi
+p483
+aVVarchild's Crusader
+p484
+aVVacuumelt
+p485
+aVVagrant Plowbeasts
+p486
+aVValeron Outlander
+p487
+aVValiant Guard
+p488
+aVVanguard's Shield
+p489
+aVVanishment
+p490
+aVVampire Lacerator
+p491
+aVVampire Nighthawk
+p492
+aVVampire Outcasts
+p493
+aVVampire's Bite
+p494
+aVVassal's Duty
+p495
+aVVault of the Archangel
+p496
+aVValley Rannet
+p497
+aVVampire Nighthawk
+p498
+aVVampiric Dragon
+p499
+aVVampiric Sliver
+p500
+aVVandalblast
+p501
+aVVassal Soul
+p502
+aVVampire Hounds
+p503
+aVVanish into Memory
+p504
+aVValakut, the Molten Pinnacle
+p505
+aVVampire Hexmage
+p506
+aVVampire Lacerator
+p507
+aVVampire Nighthawk
+p508
+aVVampire's Bite
+p509
+aVVastwood Gorger
+p510
+aVVampiric Tutor
+p511
+aVVault of Whispers
+p512
+aVValakut Fireboar
+p513
+aVValleymaker
+p514
+aVVapor Snag
+p515
+aVVault Skirge
+p516
+aVVanquish
+p517
+aVVampiric Spirit
+p518
+aVVault of Whispers
+p519
+aVVanish into Memory
+p520
+aVVampiric Embrace
+p521
+aVVarchild's War-Riders
+p522
+aVVanquish the Foul
+p523
+aVVaporkin
+p524
+aVValor Made Real
+p525
+aVVampire Hexmage
+p526
+aVVampiric Spirit
+p527
+aVVapor Snare
+p528
+aVVastwood Animist
+p529
+aVVastwood Zendikon
+p530
+aVVaevictis Asmadi
+p531
+aVValley Rannet
+p532
+aVVampire Bats
+p533
+aVVampiric Dragon
+p534
+aVValley Dasher
+p535
+aVVaporous Djinn
+p536
+aVVampire Nocturnus Avatar
+p537
+aVVampire Interloper
+p538
+aVVampiric Fury
+p539
+aVVampirism
+p540
+aVVanishing
+p541
+aVVampiric Tutor
+p542
+aVVarolz, the Scar-Striped
+p543
+aVVaevictis Asmadi
+p544
+aVVampire Bats
+p545
+aVValor Made Real
+p546
+aVVacuumelt
+p547
+aVValley Rannet
+p548
+aVVampiric Feast
+p549
+aVVampiric Touch
+p550
+aVValorous Charge
+p551
+aVVault of the Archangel
+p552
+asS'toughs'
+p553
+(lp554
+V2
+p555
+aV3
+p556
+aV6
+p557
+aV4
+p558
+aV1
+p559
+ag555
+ag558
+ag555
+aS'N/A'
+p560
+ag560
+ag558
+ag555
+ag555
+ag560
+ag556
+ag559
+aV5
+p561
+ag559
+ag555
+ag556
+ag560
+ag555
+ag559
+ag560
+ag556
+ag559
+ag555
+ag560
+ag560
+ag555
+ag559
+ag555
+ag560
+ag560
+ag560
+ag555
+ag558
+aV0
+p562
+ag559
+ag560
+ag561
+ag556
+ag560
+ag560
+ag555
+ag555
+ag559
+ag560
+ag555
+ag560
+ag560
+ag559
+ag555
+ag560
+ag560
+ag560
+ag556
+ag560
+ag560
+ag560
+ag555
+ag560
+ag559
+ag560
+ag558
+ag556
+ag560
+aV9
+p563
+ag560
+ag561
+ag559
+ag559
+ag555
+ag556
+ag558
+ag560
+ag555
+ag560
+ag560
+ag560
+ag560
+ag558
+ag558
+ag558
+ag560
+ag560
+ag556
+ag560
+ag560
+ag560
+ag560
+asS'artists'
+p564
+(lp565
+VDave Allsop
+p566
+aVJason Chan
+p567
+ag338
+ag338
+aVJason Chan
+p568
+aVRaymond Swanland
+p569
+aVEric Deschamps
+p570
+aVAnson Maddocks
+p571
+aVKev Walker
+p572
+aVRaymond Swanland
+p573
+aVMark Poole
+p574
+aVSusan Van Camp
+p575
+aVMark Poole
+p576
+aVDan Scott
+p577
+aVMark Zug
+p578
+aVAustin Hsu
+p579
+aVRaymond Swanland
+p580
+aVWesley Burt
+p581
+aVSlawomir Maniak
+p582
+aVChippy
+p583
+aVGary Leach
+p584
+aVBrian Snoddy
+p585
+aVMark Poole
+p586
+aVNottsuo
+p587
+aVZoltan Boros & Gabor Szikszai
+p588
+aVMatt Stewart
+p589
+aVChris Rahn
+p590
+aVRyan Pancoast
+p591
+aVDaarken
+p592
+aVSteve Argyle
+p593
+aVJason Chan
+p594
+aVClint Cearley
+p595
+aVChristopher Moeller
+p596
+aVDave Dorman
+p597
+aVJohn Avon
+p598
+aVDave Allsop
+p599
+aVJason Chan
+p600
+aVGary Ruddell
+p601
+aVThomas M. Baxa
+p602
+aVSeb McKinnon
+p603
+aVDan Scott
+p604
+aVKev Walker
+p605
+aVRebekah Lynn
+p606
+aVKieran Yanner
+p607
+aVEric Deschamps
+p608
+aVSteve Argyle
+p609
+aVJason Chan
+p610
+aVChristopher Moeller
+p611
+aVKieran Yanner
+p612
+aVGary Leach
+p613
+aVRob Alexander
+p614
+aVZoltan Boros & Gabor Szikszai
+p615
+aVRandy Gallegos
+p616
+ag338
+ag338
+aVCarl Critchlow
+p617
+aVAnson Maddocks
+p618
+aVRob Alexander
+p619
+ag338
+aVThomas M. Baxa
+p620
+aVSusan Van Camp
+p621
+aVEric Deschamps
+p622
+aVSeb McKinnon
+p623
+aVJeff Miracola
+p624
+aVEric Deschamps
+p625
+aVAnson Maddocks
+p626
+aVTrevor Claxton
+p627
+aVRaymond Swanland
+p628
+aVRob Alexander
+p629
+aVAndi Rusu
+p630
+aVDave Allsop
+p631
+aVAnson Maddocks
+p632
+aVGary Ruddell
+p633
+aVMatt Stewart
+p634
+aVAdam Rex
+p635
+aVUDON
+p636
+aVJames Ryman
+p637
+aVMatt Stewart
+p638
+aVGary Leach
+p639
+aVJohn Matson
+p640
+aVGary Leach
+p641
+aVAdam Paquette
+p642
+aVAndi Rusu
+p643
+aVAnson Maddocks
+p644
+aVJeff Miracola
+p645
+aVNottsuo
+p646
+aVDave Allsop
+p647
+aVD. Alexander Gregory
+p648
+aVZina Saunders
+p649
+aVDouglas Shuler
+p650
+aVSlawomir Maniak
+p651
+asS'powers'
+p652
+(lp653
+g557
+ag555
+ag555
+ag557
+ag555
+ag556
+ag561
+ag555
+ag560
+ag560
+ag555
+ag555
+ag559
+ag560
+ag555
+ag555
+ag555
+ag555
+ag555
+ag556
+ag560
+ag555
+ag559
+ag560
+ag559
+ag555
+ag559
+ag560
+ag560
+ag555
+ag555
+ag555
+ag560
+ag560
+ag560
+ag555
+ag562
+ag562
+ag555
+ag560
+ag557
+ag556
+ag560
+ag560
+ag555
+ag559
+ag555
+ag560
+ag555
+ag560
+ag560
+aV8
+p654
+ag555
+ag560
+ag560
+ag560
+ag558
+ag560
+ag560
+ag560
+ag555
+ag560
+ag559
+ag560
+ag555
+ag558
+ag560
+ag555
+ag560
+ag555
+ag556
+ag559
+ag555
+ag555
+ag558
+ag560
+ag555
+ag560
+ag560
+ag560
+ag560
+ag555
+ag558
+ag558
+ag560
+ag560
+ag557
+ag560
+ag560
+ag560
+ag560
+asS'types'
+p655
+(lp656
+VCreature - Beast
+p657
+aVCreature - Vampire Shaman
+p658
+aVCreature - Vampire
+p659
+aVCreature - Wurm
+p660
+aVCreature - Vampire Shaman
+p661
+aVCreature - Vampire
+p662
+aVCreature - Wurm
+p663
+aVCreature - Bat
+p664
+aVEnchantment - Aura
+p665
+aVInstant
+p666
+aVCreature - Human Knight
+p667
+aVCreature - Human Warrior
+p668
+aVCreature - Human Knight
+p669
+aVInstant
+p670
+aVCreature - Cat Soldier
+p671
+aVCreature - Vampire Rogue
+p672
+aVCreature - Vampire
+p673
+aVCreature - Vampire Warrior
+p674
+aVCreature - Hydra
+p675
+aVCreature - Bat
+p676
+aVInstant
+p677
+aVLegendary Creature - Elder Dragon
+p678
+aVCreature - Human Knight
+p679
+aVSorcery
+p680
+aVCreature - Beast
+p681
+aVCreature - Human Scout
+p682
+aVCreature - Human Soldier
+p683
+aVArtifact - Equipment
+p684
+aVInstant
+p685
+aVCreature - Vampire Warrior
+p686
+aVCreature - Vampire Shaman
+p687
+aVCreature - Vampire
+p688
+aVInstant
+p689
+aVEnchantment
+p690
+aVLand
+p691
+aVCreature - Beast
+p692
+aVCreature - Vampire Shaman
+p693
+aVCreature - Vampire Dragon
+p694
+aVCreature - Sliver
+p695
+aVSorcery
+p696
+aVCreature - Spirit
+p697
+aVCreature - Vampire Hound
+p698
+aVInstant
+p699
+aVLand
+p700
+aVCreature - Vampire Shaman
+p701
+aVCreature - Vampire Warrior
+p702
+aVCreature - Vampire Shaman
+p703
+aVInstant
+p704
+aVCreature - Wurm
+p705
+aVInstant
+p706
+aVArtifact Land
+p707
+aVCreature - Elemental Boar
+p708
+aVCreature - Giant Shaman
+p709
+aVInstant
+p710
+aVArtifact Creature - Imp
+p711
+aVInstant
+p712
+aVCreature - Spirit
+p713
+aVArtifact Land
+p714
+aVInstant
+p715
+aVEnchantment - Aura
+p716
+aVCreature - Human Warrior
+p717
+aVSorcery
+p718
+aVCreature - Elemental
+p719
+aVInstant
+p720
+aVCreature - Vampire Shaman
+p721
+aVCreature - Spirit
+p722
+aVEnchantment - Aura
+p723
+aVCreature - Elf Shaman Ally
+p724
+aVEnchantment - Aura
+p725
+aVLegendary Creature - Elder Dragon
+p726
+aVCreature - Beast
+p727
+aVCreature - Bat
+p728
+aVCreature - Vampire Dragon
+p729
+aVCreature - Human Berserker
+p730
+aVCreature - Djinn
+p731
+aVVanguard
+p732
+aVCreature - Vampire Scout
+p733
+aVInstant
+p734
+aVEnchantment - Aura
+p735
+aVEnchantment - Aura
+p736
+aVInstant
+p737
+aVLegendary Creature - Troll Warrior
+p738
+aVLegendary Creature - Elder Dragon
+p739
+aVCreature - Bat
+p740
+aVInstant
+p741
+aVSorcery
+p742
+aVCreature - Beast
+p743
+aVSorcery
+p744
+aVSorcery
+p745
+aVSorcery
+p746
+aVLand
+p747
+asS'numbers'
+p748
+(lp749
+V232
+p750
+aV106
+p751
+aV115
+p752
+aV200
+p753
+aV112
+p754
+aV113
+p755
+aV196
+p756
+aV357
+p757
+aV92
+p758
+aV58
+p759
+aV87
+p760
+aV88
+p761
+aV194
+p762
+aV51
+p763
+aV29
+p764
+aV117
+p765
+aV118
+p766
+aV120
+p767
+aV198
+p768
+aV186
+p769
+aV145
+p770
+aV185
+p771
+aV152
+p772
+aV40
+p773
+aV129
+p774
+aV130
+p775
+aV19
+p776
+aV223
+p777
+aV82
+p778
+ag556
+aV12
+p779
+aV15
+p780
+aV19
+p781
+aV48
+p782
+aV17
+p783
+aV224
+p784
+aV97
+p785
+aV296
+p786
+aV140
+p787
+aV111
+p788
+aV224
+p789
+aV77
+p790
+aV133
+p791
+aV228
+p792
+aV114
+p793
+aV115
+p794
+aV116
+p795
+aV117
+p796
+aV192
+p797
+aV161
+p798
+aV286
+p799
+aV170
+p800
+aV221
+p801
+aV48
+p802
+aV76
+p803
+aV20
+p804
+aV160
+p805
+aV141
+p806
+ag338
+aV164
+p807
+aV110
+p808
+aV35
+p809
+aV72
+p810
+aV86
+p811
+aV132
+p812
+aV170
+p813
+aV44
+p814
+aV116
+p815
+aV117
+p816
+aV121
+p817
+aV61
+p818
+aV54
+p819
+aV99
+p820
+aV125
+p821
+aV93
+p822
+aV97
+p823
+aV123
+p824
+aV167
+p825
+aV29
+p826
+aV47
+p827
+aV163
+p828
+aV112
+p829
+aV170
+p830
+aV296
+p831
+aV20
+p832
+aV24
+p833
+aV58
+p834
+aV21
+p835
+aV22
+p836
+aV86
+p837
+aV158
+p838
+as.

@@ -1,0 +1,1068 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVCommon
+p4
+aVUncommon
+p5
+aVUncommon
+p6
+aVCommon
+p7
+aVCommon
+p8
+aVUncommon
+p9
+aVCommon
+p10
+aVCommon
+p11
+aVCommon
+p12
+aVUncommon
+p13
+aVCommon
+p14
+aVRare
+p15
+aVUncommon
+p16
+aVCommon
+p17
+aVUncommon
+p18
+aVRare
+p19
+aVRare
+p20
+aVUncommon
+p21
+aVCommon
+p22
+aVUncommon
+p23
+aVCommon
+p24
+aVRare
+p25
+aVUncommon
+p26
+aVUncommon
+p27
+aVUncommon
+p28
+aVUncommon
+p29
+aVRare
+p30
+aVCommon
+p31
+aVRare
+p32
+aVCommon
+p33
+aVRare
+p34
+aVCommon
+p35
+aVUncommon
+p36
+aVUncommon
+p37
+aVRare
+p38
+aVUncommon
+p39
+aVUncommon
+p40
+aVUncommon
+p41
+aVUncommon
+p42
+aVCommon
+p43
+aVCommon
+p44
+aVCommon
+p45
+aVRare
+p46
+aVUncommon
+p47
+aVUncommon
+p48
+aVRare
+p49
+aVUncommon
+p50
+aVRare
+p51
+aVUncommon
+p52
+aVSpecial
+p53
+aVCommon
+p54
+asS'editns'
+p55
+(lp56
+VMagic: The Gathering-Commander
+p57
+aVMagic: The Gathering-Commander
+p58
+aVLimited Edition Beta
+p59
+aVSaviors of Kamigawa
+p60
+aVMorningtide
+p61
+aVMagic 2013
+p62
+aVFourth Edition
+p63
+aVPlanar Chaos
+p64
+aVDuel Decks: Ajani vs. Nicol Bolas
+p65
+aVBorn of the Gods
+p66
+aVBorn of the Gods
+p67
+aVTempest
+p68
+aVTenth Edition
+p69
+aVApocalypse
+p70
+aVMasters Edition III
+p71
+aVRevised Edition
+p72
+aVNinth Edition
+p73
+aVEventide
+p74
+aVAvacyn Restored
+p75
+aVDuel Decks: Sorin vs. Tibalt
+p76
+aVOnslaught
+p77
+aVCommander 2013 Edition
+p78
+aVTime Spiral
+p79
+aVTime Spiral
+p80
+aVUnlimited Edition
+p81
+aVClassic Sixth Edition
+p82
+aVDuel Decks: Elspeth vs. Tezzeret
+p83
+aVSeventh Edition
+p84
+aVMagic 2015 Core Set
+p85
+aVUrza's Legacy
+p86
+aVRise of the Eldrazi
+p87
+aVShadowmoor
+p88
+aVNew Phyrexia
+p89
+aVFuture Sight
+p90
+aVTheros
+p91
+aVEighth Edition
+p92
+aVWorldwake
+p93
+aVFifth Edition
+p94
+aVFifth Edition
+p95
+aVArchenemy
+p96
+aVArchenemy
+p97
+aVArchenemy
+p98
+aVArchenemy
+p99
+aVInnistrad
+p100
+aVLimited Edition Alpha
+p101
+aVVisions
+p102
+aVStronghold
+p103
+aVLegends
+p104
+aVDissension
+p105
+aVHomelands
+p106
+aVTime Spiral "Timeshifted"
+p107
+aVDark Ascension
+p108
+asS'ids'
+p109
+(lp110
+V247415
+p111
+aV247396
+p112
+aV358
+p113
+aV74144
+p114
+aV152968
+p115
+aV269666
+p116
+aV2103
+p117
+aV124047
+p118
+aV249395
+p119
+aV378410
+p120
+aV378464
+p121
+aV4662
+p122
+aV129541
+p123
+aV26261
+p124
+aV201261
+p125
+aV1160
+p126
+aV83078
+p127
+aV157978
+p128
+aV240125
+p129
+aV368505
+p130
+aV39593
+p131
+aV376324
+p132
+aV110507
+p133
+aV83811
+p134
+aV660
+p135
+aV14593
+p136
+aV222750
+p137
+aV13075
+p138
+aV383235
+p139
+aV12404
+p140
+aV193483
+p141
+aV142036
+p142
+aV218073
+p143
+aV136192
+p144
+aV373641
+p145
+aV45281
+p146
+aV198374
+p147
+aV3842
+p148
+aV3843
+p149
+aV220534
+p150
+aV212593
+p151
+aV212655
+p152
+aV212599
+p153
+aV229965
+p154
+aV63
+p155
+aV3750
+p156
+aV5147
+p157
+aV1436
+p158
+aV97093
+p159
+aV3003
+p160
+aV107278
+p161
+aV262680
+p162
+asS'texts'
+p163
+(lp164
+VBuyback {3} <i>(You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)</i><br>Evincar's Justice deals 2 damage to each creature and each player.
+p165
+aV{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+p166
+aVFireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.<br>Fireball costs {1} more to cast for each target beyond the first.
+p167
+aV<i>(Nonexistent mana costs can't be paid.)</i><br>Draw a card.<br>Splice onto Arcane {1}{U} <i>(As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)</i>
+p168
+aVKinsbaile Borderguard enters the battlefield with a +1/+1 counter on it for each other Kithkin you control.<br>When Kinsbaile Borderguard dies, put a 1/1 white Kithkin Soldier creature token onto the battlefield for each counter on it.
+p169
+aVG
+p170
+aVFireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.<br>Fireball costs {1} more to cast for each target beyond the first.
+p171
+aVChoose one- Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library; or return target creature card from your graveyard to your hand; or target creature gains flying until end of turn.
+p172
+aV{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+p173
+aVBestow {2}{R} <i>(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)</i><br>{R}: Everflame Eidolon gets +1/+0 until end of turn. If it's an Aura, enchanted creature gets +1/+0 until end of turn instead.<br>Enchanted creature gets +1/+1.
+p174
+aVExile target tapped creature.
+p175
+aVDestroy all creatures of the creature type of your choice.
+p176
+aVReturn all creatures to their owners' hands.
+p177
+aVDomain- Counter target spell unless its controller pays {1} for each basic land type among lands you control.
+p178
+aVFlying<br>Other Faerie creatures you control get +0/+1.<br>{T}: Other Faerie creatures you control get +1/+0 until end of turn.
+p179
+aVDestroy all Plains.
+p180
+aVReach <i>(This creature can block creatures with flying.)</i>
+p181
+aVFlying<br>Evershrike gets +2/+2 for each Aura attached to it.<br>{X}{W/B}{W/B}: Return Evershrike from your graveyard to the battlefield. You may put an Aura card with converted mana cost X or less from your hand onto the battlefield attached to it. If you don't, exile Evershrike.
+p182
+aVWhenever an opponent loses life, you gain that much life.
+p183
+aV{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+p184
+aVYou may choose not to untap Everglove Courier during your untap step.<br>{2}{G}, {T}: Target Elf creature gets +2/+2 and has trample for as long as Everglove Courier remains tapped.
+p185
+aV{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+p186
+aVBuyback {2}{W}{W} <i>(You may pay an additional {2}{W}{W} as you cast this spell. If you do, put this card into your hand as it resolves.)</i><br>Gain control of target creature of an opponent's choice that he or she controls.
+p187
+aVDestroy target tapped creature.
+p188
+aVDestroy all Plains.
+p189
+aV{2}, {T}: Target creature gains flying until end of turn.
+p190
+aVFlying<br>When Faerie Mechanist enters the battlefield, look at the top three cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+p191
+ag170
+aVConvoke <i>(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)</i><br>Put three 3/3 green Beast creature tokens onto the battlefield.
+p192
+aVProtection from white<br>When Eviscerator enters the battlefield, you lose 5 life.
+p193
+aV{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+p194
+aVSearch your library for a Forest or Plains card, reveal it, and put it into your hand. Then shuffle your library.
+p195
+aVEnchant land<br>Enchanted land is a Swamp.
+p196
+aVReturn target nonland permanent or suspended card to its owner's hand.
+p197
+aVExile target artifact or enchantment.
+p198
+aV{T}: Add {G}{G} to your mana pool.
+p199
+aVMultikicker {2} <i>(You may pay an additional {2} any number of times as you cast this spell.)</i><br>Everflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.<br>{T}: Add {1} to your mana pool for each charge counter on Everflowing Chalice.
+p200
+aVNon-Eye creatures you control can't attack.<br>Evil Eye of Orms-by-Gore can't be blocked except by Walls.
+p201
+aVEnchant land<br>Enchanted land is a Swamp.
+p202
+aVMultikicker {2} <i>(You may pay an additional {2} any number of times as you cast this spell.)</i><br>Everflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.<br>{T}: Add {1} to your mana pool for each charge counter on Everflowing Chalice.
+p203
+aVWhen you set this scheme in motion, each opponent reveals his or her hand. Choose a nonland card from each of those hands. Those players discard those cards.
+p204
+aVWhen you set this scheme in motion, you may pay {X}. If you do, put each nonland permanent target player controls with converted mana cost X or less on the bottom of its owner's library.
+p205
+aVWhen you set this scheme in motion, put seven 0/1 green Plant creature tokens onto the battlefield. If you control ten or more lands, put seven 3/3 green Elemental creature tokens onto the battlefield instead.
+p206
+aVYou may have Evil Twin enter the battlefield as a copy of any creature on the battlefield except it gains "{U}{B}, {T}: Destroy target creature with the same name as this creature."
+p207
+aVTarget creature gets +3/+3 until end of turn.
+p208
+aV{T}: Add {1} to your mana pool.<br>{T}: Untap target Griffin. If it's a creature, it gets +1/+1 until end of turn.
+p209
+aVReturn all creatures to their owners' hands.
+p210
+aVWhen Hazezon Tamar enters the battlefield, put X 1/1 Sand Warrior creature tokens that are red, green, and white onto the battlefield at the beginning of your next upkeep, where X is the number of lands you control at that time.<br>When Hazezon leaves the battlefield, exile all Sand Warriors.
+p211
+aV{3}, {T}: Tap target creature and put a +1/+1 counter on it. Until end of turn, that creature gains "{2}{G}{U}: Double the number of +1/+1 counters on this creature."
+p212
+aVFirst strike<br>{T}: Target Dwarf creature gets +2/+0 and gains first strike until end of turn. When that creature leaves the battlefield this turn, sacrifice Heart Wolf. Activate this ability only during combat.
+p213
+aVNon-Eye creatures you control can't attack.<br>Evil Eye of Orms-by-Gore can't be blocked except by Walls.
+p214
+aV{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+p215
+asS'costs'
+p216
+(lp217
+V{2}{B}{B}
+p218
+aS'0'
+p219
+aV{B}
+p220
+aV{0}
+p221
+aV{4}{G}
+p222
+ag219
+aV{B}
+p223
+aV{1}{G}
+p224
+ag219
+aV{U}
+p225
+aV{1}{R}
+p226
+aV{2}{B}{B}
+p227
+aV{3}{U}{U}
+p228
+aV{1}{U}
+p229
+aV{B}
+p230
+aV{B}
+p231
+aV{3}{U}{U}
+p232
+aV{3}{W/B}{W/B}
+p233
+aV{X}{X}{W}{W}{W}
+p234
+ag219
+aV{2}{G}
+p235
+ag219
+aV{4}{W}
+p236
+aV{4}{B}
+p237
+aV{B}
+p238
+aV{4}{B}
+p239
+aV{2}{U}
+p240
+aV{3}{U}{U}
+p241
+ag219
+aV{3}{B}{B}
+p242
+ag219
+aV{2}{B/R}
+p243
+aV{B}
+p244
+aV{2}{W}
+p245
+aV{3}{B}
+p246
+aV{3}{U}{U}
+p247
+aV{0}
+p248
+aV{4}{B}
+p249
+aV{B}
+p250
+aV{0}
+p251
+ag219
+ag219
+ag219
+aV{2}{U}{B}
+p252
+aV{B}
+p253
+ag219
+aV{3}{U}{U}
+p254
+aV{4}{B}
+p255
+aV{3}
+p256
+aV{2}{R}
+p257
+aV{4}{B}
+p258
+ag219
+asS'names'
+p259
+(lp260
+VEvincar's Justice
+p261
+aVEvolving Wilds
+p262
+aVEvil Presence
+p263
+aVEvermind
+p264
+aVEverbark Shaman
+p265
+aVEvolving Wilds
+p266
+aVEvil Presence
+p267
+aVEvolution Charm
+p268
+aVEvolving Wilds
+p269
+aVEvanescent Intellect
+p270
+aVEverflame Eidolon
+p271
+aVEvincar's Justice
+p272
+aVEvacuation
+p273
+aVEvasive Action
+p274
+aVEvil Presence
+p275
+aVEvil Presence
+p276
+aVEvacuation
+p277
+aVEvershrike
+p278
+aVEvernight Shade
+p279
+aVEvolving Wilds
+p280
+aVEverglove Courier
+p281
+aVEvolving Wilds
+p282
+aVEvangelize
+p283
+aVEvil Eye of Urborg
+p284
+aVEvil Presence
+p285
+aVEvil Eye of Orms-by-Gore
+p286
+aVEverflowing Chalice
+p287
+aVEvacuation
+p288
+aVEvolving Wilds
+p289
+aVEviscerator
+p290
+aVEvolving Wilds
+p291
+aVEverlasting Torment
+p292
+aVEvil Presence
+p293
+aVEven the Odds
+p294
+aVEvangel of Heliod
+p295
+aVEvacuation
+p296
+aVEverflowing Chalice
+p297
+aVEvil Eye of Orms-by-Gore
+p298
+aVEvil Presence
+p299
+aVEverflowing Chalice
+p300
+aVEvery Hope Shall Vanish
+p301
+aVEvery Last Vestige Shall Rot
+p302
+aVEvil Comes to Fruition
+p303
+aVEvil Twin
+p304
+aVEvil Presence
+p305
+aVEverglades
+p306
+aVEvacuation
+p307
+aVEvil Eye of Orms-by-Gore
+p308
+aVEvolution Vat
+p309
+aVEvaporate
+p310
+aVEvil Eye of Orms-by-Gore
+p311
+aVEvolving Wilds
+p312
+asS'toughs'
+p313
+(lp314
+S'N/A'
+p315
+ag315
+ag315
+ag315
+aV5
+p316
+ag315
+ag315
+ag315
+ag315
+ag315
+ag315
+ag315
+ag315
+ag315
+ag315
+ag315
+ag315
+aV2
+p317
+aV3
+p318
+ag315
+aV1
+p319
+ag315
+ag315
+ag319
+ag315
+ag319
+ag315
+ag315
+ag315
+ag316
+ag315
+ag315
+ag315
+ag315
+ag318
+ag315
+ag315
+ag319
+ag315
+ag315
+ag315
+ag315
+ag315
+ag317
+ag315
+ag315
+ag315
+ag319
+ag315
+ag315
+aV6
+p320
+ag315
+asS'artists'
+p321
+(lp322
+VHannibal King
+p323
+aVSteven Belledin
+p324
+aVSandra Everingham
+p325
+aVMatt Thompson
+p326
+aVLarry MacDougall
+p327
+aVFranz Vohwinkel
+p328
+aVSandra Everingham
+p329
+aVJohn Avon
+p330
+aVSteven Belledin
+p331
+aVDan Scott
+p332
+aVDaarken
+p333
+aVHannibal King
+p334
+aVFranz Vohwinkel
+p335
+aVBrian Snoddy
+p336
+aVDrew Tucker
+p337
+aVSandra Everingham
+p338
+aVRob Alexander
+p339
+aVDan Dos Santos
+p340
+aVCynthia Sheppard
+p341
+aVSteven Belledin
+p342
+aVDarrell Riche
+p343
+aVSteven Belledin
+p344
+aVRandy Elliott
+p345
+aVClint Langley
+p346
+aVSandra Everingham
+p347
+aVGeorge Pratt
+p348
+aVSteve Argyle
+p349
+aVDarrell Riche
+p350
+aVSteven Belledin
+p351
+aVMichael Sutfin
+p352
+aVSteven Belledin
+p353
+aVRichard Kane Ferguson
+p354
+aS''
+p355
+aVShishizaru
+p356
+aVNils Hamm
+p357
+aVRob Alexander
+p358
+aVSteve Argyle
+p359
+aVGeorge Pratt
+p360
+aVBob Eggleton
+p361
+aVSteve Argyle
+p362
+aVJohn Stanko
+p363
+aVMartina Pilcerova
+p364
+aVAustin Hsu
+p365
+aVGreg Staples
+p366
+aVSandra Everingham
+p367
+aVBob Eggleton
+p368
+aVRob Alexander
+p369
+aVJesper Myrfors
+p370
+aVJohn Avon
+p371
+aVAlan Rabinowitz
+p372
+aVJesper Myrfors
+p373
+aVGabor Szikszai
+p374
+asS'powers'
+p375
+(lp376
+g315
+ag315
+ag315
+ag315
+ag318
+ag315
+ag315
+ag315
+ag315
+ag315
+ag315
+ag315
+ag315
+ag315
+ag315
+ag315
+ag315
+ag317
+ag319
+ag315
+ag317
+ag315
+ag315
+ag319
+ag315
+ag319
+ag315
+ag315
+ag315
+ag316
+ag315
+ag315
+ag315
+ag315
+ag319
+ag315
+ag315
+ag319
+ag315
+ag315
+ag315
+ag315
+ag315
+ag317
+ag315
+ag315
+ag315
+ag319
+ag315
+ag315
+ag318
+ag315
+asS'types'
+p377
+(lp378
+VSorcery
+p379
+aVLand
+p380
+aVEnchantment - Aura
+p381
+aVInstant - Arcane
+p382
+aVCreature - Treefolk Shaman
+p383
+aVLand
+p384
+aVEnchantment - Aura
+p385
+aVInstant
+p386
+aVLand
+p387
+aVEnchantment - Aura
+p388
+aVEnchantment Creature - Spirit
+p389
+aVSorcery
+p390
+aVInstant
+p391
+aVInstant
+p392
+aVEnchantment - Aura
+p393
+aVEnchantment - Aura
+p394
+aVInstant
+p395
+aVCreature - Elemental Spirit
+p396
+aVCreature - Shade
+p397
+aVLand
+p398
+aVCreature - Elf
+p399
+aVLand
+p400
+aVSorcery
+p401
+aVCreature - Eye
+p402
+aVEnchantment - Aura
+p403
+aVCreature - Eye
+p404
+aVArtifact
+p405
+aVInstant
+p406
+aVLand
+p407
+aVCreature - Horror
+p408
+aVLand
+p409
+aVEnchantment
+p410
+aVEnchantment - Aura
+p411
+aVInstant
+p412
+aVCreature - Human Cleric
+p413
+aVInstant
+p414
+aVArtifact
+p415
+aVCreature - Eye
+p416
+aVEnchantment - Aura
+p417
+aVArtifact
+p418
+aVScheme
+p419
+aVScheme
+p420
+aVScheme
+p421
+aVCreature - Shapeshifter
+p422
+aVEnchantment - Aura
+p423
+aVLand
+p424
+aVInstant
+p425
+aVCreature - Eye
+p426
+aVArtifact
+p427
+aVSorcery
+p428
+aVCreature - Eye
+p429
+aVLand
+p430
+asS'numbers'
+p431
+(lp432
+V80
+p433
+aV272
+p434
+aV87
+p435
+aV37
+p436
+aV121
+p437
+aV224
+p438
+aV203
+p439
+aV127
+p440
+aV32
+p441
+aV38
+p442
+aV92
+p443
+aV53
+p444
+aV83
+p445
+aV23
+p446
+aV64
+p447
+aV119
+p448
+aV75
+p449
+aV88
+p450
+aV101
+p451
+aV33
+p452
+aV262
+p453
+aV287
+p454
+aV16
+p455
+aV107
+p456
+aV93
+p457
+aV126
+p458
+aV60
+p459
+aV72
+p460
+aV243
+p461
+aV52
+p462
+aV228
+p463
+aV186
+p464
+aV60
+p465
+ag320
+aV11
+p466
+aV76
+p467
+aV123
+p468
+aV30
+p469
+aV31
+p470
+aV107
+p471
+aV10
+p472
+aV11
+p473
+aV12
+p474
+aV212
+p475
+aV141
+p476
+aV112
+p477
+aV115
+p478
+aV220
+p479
+aV161
+p480
+aV58
+p481
+aV42
+p482
+aV155
+p483
+as.

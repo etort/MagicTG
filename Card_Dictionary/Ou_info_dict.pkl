@@ -1,0 +1,262 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVCommon
+p4
+aVUncommon
+p5
+aVCommon
+p6
+aVUncommon
+p7
+aVUncommon
+p8
+aVUncommon
+p9
+aVUncommon
+p10
+aVCommon
+p11
+aVCommon
+p12
+aVCommon
+p13
+asS'editns'
+p14
+(lp15
+VEventide
+p16
+aVAvacyn Restored
+p17
+aVTime Spiral
+p18
+aVShards of Alara
+p19
+aVProphecy
+p20
+aVRise of the Eldrazi
+p21
+aVFifth Dawn
+p22
+aVUrza's Saga
+p23
+aVMasters Edition
+p24
+aVArabian Nights
+p25
+aVArabian Nights
+p26
+asS'ids'
+p27
+(lp28
+V153473
+p29
+aV240050
+p30
+aV118902
+p31
+aV175252
+p32
+aV24613
+p33
+aV194923
+p34
+aV50189
+p35
+aV8899
+p36
+aV159135
+p37
+aV925
+p38
+aV924
+p39
+asS'texts'
+p40
+(lp41
+VChroma- When Outrage Shaman enters the battlefield, it deals damage to target creature equal to the number of red mana symbols in the mana costs of permanents you control.
+p42
+aVReturn target creature you control and target creature you don't control to their owners' hands.
+p43
+aVFlanking <i>(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)</i><br>{0}: The next 1 damage that would be dealt to Outrider en-Kor this turn is dealt to target creature you control instead.
+p44
+aV{2}{G}, {T}, Sacrifice a red creature, a green creature, and a white creature: Search your library for a card named Godsire and put it onto the battlefield. Then shuffle your library.
+p45
+aVYou may discard a Swamp card rather than pay Outbreak's mana cost.<br>Choose a creature type. All creatures of that type get -1/-1 until end of turn.
+p46
+aVTrample<br>When Pelakka Wurm enters the battlefield, you gain 7 life.<br>When Pelakka Wurm dies, draw a card.
+p47
+aV{G}, Sacrifice Ouphe Vandals: Counter target activated ability from an artifact source and destroy that artifact if it's on the battlefield. <i>(Mana abilities can't be targeted.)</i>
+p48
+aVWhen an opponent casts a spell, if Veiled Serpent is an enchantment, Veiled Serpent becomes a 4/4 Serpent creature that can't attack unless defending player controls an Island.<br>Cycling {2} <i>({2}, Discard this card: Draw a card.)</i>
+p49
+aVWhen Oubliette enters the battlefield, exile target creature and all Auras attached to it. Note the number and kind of counters that were on that creature.<br>When Oubliette leaves the battlefield, return the exiled card to the battlefield under its owner's control tapped with the noted number and kind of counters on it. If you do, return the exiled Aura cards to the battlefield under their owner's control attached to that permanent.
+p50
+aVWhen Oubliette enters the battlefield, exile target creature and all Auras attached to it. Note the number and kind of counters that were on that creature.<br>When Oubliette leaves the battlefield, return the exiled card to the battlefield under its owner's control tapped with the noted number and kind of counters on it. If you do, return the exiled Aura cards to the battlefield under their owner's control attached to that permanent.
+p51
+aVWhen Oubliette enters the battlefield, exile target creature and all Auras attached to it. Note the number and kind of counters that were on that creature.<br>When Oubliette leaves the battlefield, return the exiled card to the battlefield under its owner's control tapped with the noted number and kind of counters on it. If you do, return the exiled Aura cards to the battlefield under their owner's control attached to that permanent.
+p52
+asS'costs'
+p53
+(lp54
+V{3}{R}{R}
+p55
+aV{1}{G}
+p56
+aV{2}{W}
+p57
+aV{U}
+p58
+aV{3}{B}
+p59
+aV{3}{G}
+p60
+aV{2}{G}
+p61
+aV{X}{R}
+p62
+aV{1}{B}{B}
+p63
+aV{1}{B}{B}
+p64
+aV{1}{B}{B}
+p65
+asS'names'
+p66
+(lp67
+VOutrage Shaman
+p68
+aVOutwit
+p69
+aVOutrider en-Kor
+p70
+aVOutrider of Jhess
+p71
+aVOutbreak
+p72
+aVOust
+p73
+aVOuphe Vandals
+p74
+aVOutmaneuver
+p75
+aVOubliette
+p76
+aVOubliette
+p77
+aVOubliette
+p78
+asS'toughs'
+p79
+(lp80
+V2
+p81
+aS'N/A'
+p82
+aV3
+p83
+aV1
+p84
+ag82
+ag82
+aV6
+p85
+ag82
+ag82
+ag82
+ag82
+asS'artists'
+p86
+(lp87
+VCole Eastburn
+p88
+aVNils Hamm
+p89
+aVD. Alexander Gregory
+p90
+aVAlan Pollack
+p91
+aVQuinton Hoover
+p92
+aVMike Bierek
+p93
+aVThomas M. Baxa
+p94
+aVGreg Staples
+p95
+aVDouglas Shuler
+p96
+aVDouglas Shuler
+p97
+aVDouglas Shuler
+p98
+asS'powers'
+p99
+(lp100
+g81
+ag82
+aV4
+p101
+aV8
+p102
+ag82
+ag82
+ag101
+ag82
+ag82
+ag82
+ag82
+asS'types'
+p103
+(lp104
+VCreature - Goblin Shaman
+p105
+aVInstant
+p106
+aVCreature - Kor Rebel Knight
+p107
+aVCreature - Human Knight
+p108
+aVSorcery
+p109
+aVSorcery
+p110
+aVCreature - Ouphe Rogue
+p111
+aVInstant
+p112
+aVEnchantment
+p113
+aVEnchantment
+p114
+aVEnchantment
+p115
+asS'numbers'
+p116
+(lp117
+V59
+p118
+aV70
+p119
+aV31
+p120
+aV52
+p121
+aV71
+p122
+aV40
+p123
+aV90
+p124
+aV205
+p125
+aV79
+p126
+aV10
+p127
+aV76
+p128
+as.

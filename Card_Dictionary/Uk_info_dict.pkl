@@ -1,0 +1,201 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVUncommon
+p4
+aVRare
+p5
+aVRare
+p6
+aVCommon
+p7
+aVCommon
+p8
+aVRare
+p9
+aVUncommon
+p10
+asS'editns'
+p11
+(lp12
+VPlanar Chaos
+p13
+aVClassic Sixth Edition
+p14
+aVClassic Sixth Edition
+p15
+aVSeventh Edition
+p16
+aVWeatherlight
+p17
+aVMirage
+p18
+aVMirage
+p19
+aVVisions
+p20
+asS'ids'
+p21
+(lp22
+V126306
+p23
+aV14690
+p24
+aV14721
+p25
+aV12968
+p26
+aV4531
+p27
+aV3416
+p28
+aV3417
+p29
+aV3680
+p30
+asS'texts'
+p31
+(lp32
+VFlying, haste<br>Echo {1}{G}{G} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i>
+p33
+aVSearch your library for a basic land card and put that card onto the battlefield. Then shuffle your library.
+p34
+aVExile target nonwhite attacking creature. You gain life equal to its toughness.
+p35
+aS''
+p36
+aVCumulative upkeep {G} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i>
+p37
+aVFlying<br>{3}{G}, Sacrifice Uktabi Faerie: Destroy target artifact.
+p38
+aVForestwalk<br><br>{1}{G}{G}: Target creature gains forestwalk until end of turn.
+p39
+aV{T}: Look at the top card of target player's library. If it's a nonland card, you may pay 2 life. If you do, put it into that player's graveyard.
+p40
+asS'costs'
+p41
+(lp42
+V{G}
+p43
+aV{2}{G}
+p44
+aV{4}{G}
+p45
+aV{4}{G}
+p46
+aV{2}{G}{G}
+p47
+aV{1}{G}
+p48
+aV{4}{G}
+p49
+aV{2}{G}
+p50
+asS'names'
+p51
+(lp52
+VUktabi Drake
+p53
+aVUktabi Orangutan
+p54
+aVUktabi Wildcats
+p55
+aVUktabi Wildcats
+p56
+aVUktabi Efreet
+p57
+aVUktabi Faerie
+p58
+aVUktabi Wildcats
+p59
+aVUktabi Orangutan
+p60
+asS'toughs'
+p61
+(lp62
+V1
+p63
+aV2
+p64
+aV*
+p65
+aV6
+p66
+aV3
+p67
+ag64
+aV5
+p68
+ag64
+asS'artists'
+p69
+(lp70
+VMatt Cavotta
+p71
+aVUna Fricker
+p72
+aVJohn Matson
+p73
+aVThomas Gianni
+p74
+aVAlan Rabinowitz
+p75
+aVJunior Tomlin
+p76
+aVJohn Matson
+p77
+aVUna Fricker
+p78
+asS'powers'
+p79
+(lp80
+g64
+ag64
+ag65
+ag68
+ag67
+ag67
+ag67
+ag67
+asS'types'
+p81
+(lp82
+VCreature - Drake
+p83
+aVCreature - Ape
+p84
+aVCreature - Cat
+p85
+aVCreature - Cat
+p86
+aVCreature - Efreet
+p87
+aVCreature - Faerie
+p88
+aVCreature - Cat
+p89
+aVCreature - Ape
+p90
+asS'numbers'
+p91
+(lp92
+V141
+p93
+aV260
+p94
+aV261
+p95
+aV278
+p96
+aV76
+p97
+aV125
+p98
+aV341
+p99
+aV162
+p100
+as.

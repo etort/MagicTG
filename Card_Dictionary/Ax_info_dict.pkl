@@ -1,0 +1,162 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVCommon
+p4
+aVCommon
+p5
+aVRare
+p6
+aVRare
+p7
+aVCommon
+p8
+asS'editns'
+p9
+(lp10
+VMasters Edition III
+p11
+aVReturn to Ravnica
+p12
+aVReturn to Ravnica
+p13
+aVChronicles
+p14
+aVLegends
+p15
+aVLorwyn
+p16
+asS'ids'
+p17
+(lp18
+V201178
+p19
+aV253556
+p20
+aV265383
+p21
+aV2867
+p22
+aV1645
+p23
+aV145976
+p24
+asS'texts'
+p25
+(lp26
+VTrample<br>Whenever a creature dealt damage by Axelrod Gunnarson this turn dies, you gain 1 life and Axelrod deals 1 damage to target player.
+p27
+aVDefender<br>{T}: Add X mana in any combination of colors to your mana pool, where X is the number of creatures with defender you control.
+p28
+aVWhen Azorius Arrester enters the battlefield, detain target creature an opponent controls. <i>(Until your next turn, that creature can't attack or block and its activated abilities can't be activated.)</i>
+p29
+aVDakkon Blackblade's power and toughness are each equal to the number of lands you control.
+p30
+aVEnchant creature you control<br>Enchanted creature doesn't untap during your untap step if Cocoon has a pupa counter on it.<br>When Cocoon enters the battlefield, tap enchanted creature and put three pupa counters on Cocoon.<br>At the beginning of your upkeep, remove a pupa counter from Cocoon. If you can't, sacrifice it, put a +1/+1 counter on enchanted creature, and that creature gains flying. <i>(This effect lasts indefinitely.)</i>
+p31
+aVTap an untapped Merfolk you control: Target player puts the top card of his or her library into his or her graveyard.
+p32
+asS'costs'
+p33
+(lp34
+V{4}{B}{B}{R}{R}
+p35
+aV{2}{G}
+p36
+aV{6}{G}
+p37
+aV{4}{B}{B}{R}{R}
+p38
+aV{4}{B}{B}{R}{R}
+p39
+aV{4}{W}
+p40
+asS'names'
+p41
+(lp42
+VAxelrod Gunnarson
+p43
+aVAxebane Guardian
+p44
+aVAxebane Stag
+p45
+aVAxelrod Gunnarson
+p46
+aVAxelrod Gunnarson
+p47
+aVAxegrinder Giant
+p48
+asS'toughs'
+p49
+(lp50
+V5
+p51
+aV3
+p52
+aV7
+p53
+aV2
+p54
+aV1
+p55
+ag52
+asS'artists'
+p56
+(lp57
+VJesper Myrfors
+p58
+aVSlawomir Maniak
+p59
+aVMartina Pilcerova
+p60
+aVScott Kirschner
+p61
+aVScott Kirschner
+p62
+aVWarren Mahy
+p63
+asS'powers'
+p64
+(lp65
+g51
+aV0
+p66
+aV6
+p67
+ag54
+ag55
+ag67
+asS'types'
+p68
+(lp69
+VLegendary Creature - Giant
+p70
+aVCreature - Human Druid
+p71
+aVCreature - Elk
+p72
+aVLegendary Creature - Giant
+p73
+aVLegendary Creature - Giant
+p74
+aVCreature - Giant Warrior
+p75
+asS'numbers'
+p76
+(lp77
+V143
+p78
+aV115
+p79
+aV116
+p80
+aV34
+p81
+aV190
+p82
+aV151
+p83
+as.

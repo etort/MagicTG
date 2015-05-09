@@ -1,0 +1,474 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVRare
+p4
+aVRare
+p5
+aVRare
+p6
+aVUncommon
+p7
+aVUncommon
+p8
+aVRare
+p9
+aVRare
+p10
+aVUncommon
+p11
+aVRare
+p12
+aVUncommon
+p13
+aVUncommon
+p14
+aVUncommon
+p15
+aVUncommon
+p16
+aVCommon
+p17
+aVUncommon
+p18
+aVRare
+p19
+aVCommon
+p20
+aVCommon
+p21
+aVRare
+p22
+aVCommon
+p23
+aVRare
+p24
+asS'editns'
+p25
+(lp26
+VSaviors of Kamigawa
+p27
+aVFourth Edition
+p28
+aVFrom the Vault: Dragons
+p29
+aVFallen Empires
+p30
+aVFallen Empires
+p31
+aVApocalypse
+p32
+aVRevised Edition
+p33
+aVMasters Edition II
+p34
+aVMasters Edition II
+p35
+aVOnslaught
+p36
+aVClassic Sixth Edition
+p37
+aVFifth Dawn
+p38
+aVPremium Deck Series: Graveborn
+p39
+aVFifth Edition
+p40
+aVMirage
+p41
+aVBeatdown Box Set
+p42
+aVMasters Edition IV
+p43
+aVMasters Edition IV
+p44
+aVMasters Edition IV
+p45
+aVArabian Nights
+p46
+aVHomelands
+p47
+aVPortal
+p48
+asS'ids'
+p49
+(lp50
+V88799
+p51
+aV2041
+p52
+aV178021
+p53
+aV1848
+p54
+aV2006
+p55
+aV29450
+p56
+aV1108
+p57
+aV184482
+p58
+aV184483
+p59
+aV39644
+p60
+aV14724
+p61
+aV51095
+p62
+aV270467
+p63
+aV4181
+p64
+aV3289
+p65
+aV26650
+p66
+aV221547
+p67
+aV202524
+p68
+aV202523
+p69
+aV906
+p70
+aV2905
+p71
+aV4219
+p72
+asS'texts'
+p73
+(lp74
+VAt the beginning of each opponent's upkeep, if that player has seven or more cards in hand, Ebony Owl Netsuke deals 4 damage to him or her.
+p75
+aV{2}, {T}: Untap target attacking creature you control. Prevent all combat damage that would be dealt to and dealt by that creature this turn.
+p76
+aVFlying<br>When Ebon Dragon enters the battlefield, you may have target opponent discard a card.
+p77
+aVFirst strike, trample<br>At the beginning of your upkeep, put a -2/-2 counter on Ebon Praetor.<br>Sacrifice a creature: Remove a -2/-2 counter from Ebon Praetor. If the sacrificed creature was a Thrull, put a +1/+0 counter on Ebon Praetor. Activate this ability only during your upkeep and only once each turn.
+p78
+aVEbon Stronghold enters the battlefield tapped.<br>{T}: Add {B} to your mana pool.<br>{T}, Sacrifice Ebon Stronghold: Add {B}{B} to your mana pool.
+p79
+aV{B}{G}: Ebony Treefolk gets +1/+1 until end of turn.
+p80
+aVEnchant creature <i>(Target a creature as you cast this. This card enters the battlefield attached to that creature.)</i><br>Enchanted creature has fear. <i>(It can't be blocked except by artifact creatures and/or black creatures.)</i>
+p81
+aVEbon Stronghold enters the battlefield tapped.<br>{T}: Add {B} to your mana pool.<br>{T}, Sacrifice Ebon Stronghold: Add {B}{B} to your mana pool.
+p82
+aV{3}: Look at the top three cards of target player's library, then put them back in any order.
+p83
+aVWhenever Ebonblade Reaper attacks, you lose half your life, rounded up.<br>Whenever Ebonblade Reaper deals combat damage to a player, that player loses half his or her life, rounded up.<br>Morph {3}{B}{B} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p84
+aVTake an extra turn after this one. At the beginning of that turn's end step, you lose the game.
+p85
+aVFlying<br>Whenever a player casts a spell, you lose 1 life.
+p86
+aVEbon Stronghold enters the battlefield tapped.<br>{T}: Add {B} to your mana pool.<br>{T}, Sacrifice Ebon Stronghold: Add {B}{B} to your mana pool.
+p87
+aVAt the beginning of your end step, if Erg Raiders didn't attack this turn, Erg Raiders deals 2 damage to you unless it came under your control this turn.
+p88
+aVChoose one- Target opponent loses 1 life and you gain 1 life; or exile up to three target cards from a single graveyard; or target creature gains fear until end of turn. <i>(It can't be blocked except by artifact creatures and/or black creatures.)</i>
+p89
+aVEbon Stronghold enters the battlefield tapped.<br>{T}: Add {B} to your mana pool.<br>{T}, Sacrifice Ebon Stronghold: Add {B}{B} to your mana pool.
+p90
+aV{T}: Add {1} to your mana pool.<br>{T}: Regenerate target Elephant.
+p91
+aVForestwalk
+p92
+aVAll artifacts have "At the beginning of your upkeep, sacrifice this artifact unless you pay {2}."
+p93
+aV{2}, {T}: Untap target attacking creature you control. Prevent all combat damage that would be dealt to and dealt by that creature this turn.
+p94
+aVTrample
+p95
+aVFlying<br>When Ebon Dragon enters the battlefield, you may have target opponent discard a card.
+p96
+asS'costs'
+p97
+(lp98
+V{2}
+p99
+aV{3}
+p100
+aV{5}{B}{B}
+p101
+aV{4}{B}{B}
+p102
+aS'0'
+p103
+aV{1}{B}{G}
+p104
+aV{3}
+p105
+aV{4}{B}{B}
+p106
+ag103
+aV{2}{B}
+p107
+ag103
+aV{2}{B}
+p108
+ag103
+ag103
+aV{B}
+p109
+ag103
+aV{5}{B}{B}
+p110
+aV{3}
+p111
+aV{7}
+p112
+aV{3}
+p113
+aV{7}
+p114
+aV{5}{B}{B}
+p115
+asS'names'
+p116
+(lp117
+VEbony Owl Netsuke
+p118
+aVEbony Horse
+p119
+aVEbon Dragon
+p120
+aVEbon Praetor
+p121
+aVEbon Stronghold
+p122
+aVEbony Treefolk
+p123
+aVEbony Horse
+p124
+aVEbon Praetor
+p125
+aVEbon Stronghold
+p126
+aVEbonblade Reaper
+p127
+aVEbon Stronghold
+p128
+aVEbon Drake
+p129
+aVEbon Stronghold
+p130
+aVEbon Stronghold
+p131
+aVEbony Charm
+p132
+aVEbon Stronghold
+p133
+aVEbon Dragon
+p134
+aVEbony Horse
+p135
+aVEbony Rhino
+p136
+aVEbony Horse
+p137
+aVEbony Rhino
+p138
+aVEbon Dragon
+p139
+asS'toughs'
+p140
+(lp141
+S'N/A'
+p142
+ag142
+aV3
+p143
+aV5
+p144
+ag142
+aV6
+p145
+ag142
+ag144
+ag142
+aV2
+p146
+ag142
+ag146
+ag142
+ag142
+ag142
+ag142
+aV1
+p147
+ag142
+ag142
+ag142
+ag142
+aV4
+p148
+asS'artists'
+p149
+(lp150
+VTim Hildebrandt
+p151
+aVDameon Willich
+p152
+aVDonato Giancola
+p153
+aVRandy Asplund-Faith
+p154
+aVMark Poole
+p155
+aVMatt Cavotta
+p156
+aVDameon Willich
+p157
+aVRandy Asplund
+p158
+aVMark Poole
+p159
+aVWayne England
+p160
+aVLiz Danforth
+p161
+aVPete Venters
+p162
+aS''
+p163
+aVLiz Danforth
+p164
+aVGerry Grace
+p165
+aVLiz Danforth
+p166
+aVDonato Giancola
+p167
+aVDameon Willich
+p168
+aVAmy Weber
+p169
+aVDameon Willich
+p170
+aVAmy Weber
+p171
+aVDonato Giancola
+p172
+asS'powers'
+p173
+(lp174
+g142
+ag142
+ag146
+ag144
+ag142
+ag146
+ag142
+ag144
+ag142
+ag146
+ag142
+ag146
+ag142
+ag142
+ag142
+ag142
+ag143
+ag142
+ag142
+ag142
+ag142
+ag144
+asS'types'
+p175
+(lp176
+VArtifact
+p177
+aVArtifact
+p178
+aVCreature - Dragon
+p179
+aVCreature - Avatar Praetor
+p180
+aVLand
+p181
+aVCreature - Treefolk
+p182
+aVArtifact
+p183
+aVCreature - Avatar Praetor
+p184
+aVLand
+p185
+aVCreature - Human Cleric
+p186
+aVLand
+p187
+aVCreature - Drake
+p188
+aVLand
+p189
+aVLand
+p190
+aVInstant
+p191
+aVLand
+p192
+aVCreature - Dragon
+p193
+aVArtifact
+p194
+aVArtifact Creature - Rhino
+p195
+aVArtifact
+p196
+aVArtifact Creature - Rhino
+p197
+aVCreature - Dragon
+p198
+asS'numbers'
+p199
+(lp200
+V154
+p201
+aV19
+p202
+ag145
+aV14
+p203
+aV98
+p204
+aV97
+p205
+aV115
+p206
+aV89
+p207
+aV228
+p208
+aV141
+p209
+aV324
+p210
+aV48
+p211
+ag163
+aV259
+p212
+aV32
+p213
+aV15
+p214
+aV80
+p215
+aV198
+p216
+aV199
+p217
+aV52
+p218
+ag144
+aV8
+p219
+as.

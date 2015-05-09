@@ -1,0 +1,119 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVRare
+p4
+aVRare
+p5
+aVUncommon
+p6
+asS'editns'
+p7
+(lp8
+VSaviors of Kamigawa
+p9
+aVBetrayers of Kamigawa
+p10
+aVPortal Three Kingdoms
+p11
+aVPortal Three Kingdoms
+p12
+asS'ids'
+p13
+(lp14
+V84712
+p15
+aV74510
+p16
+aV10516
+p17
+aV10559
+p18
+asS'texts'
+p19
+(lp20
+VWhen Yuki-Onna enters the battlefield, destroy target artifact.<br>Whenever you cast a Spirit or Arcane spell, you may return Yuki-Onna to its owner's hand.
+p21
+aV{2}, {T}: Target opponent exiles the top card of his or her library. You may play that card this turn.
+p22
+aVHorsemanship <i>(This creature can't be blocked except by creatures with horsemanship.)</i><br>Whenever Zhang He, Wei General attacks, each other creature you control gets +1/+0 until end of turn.
+p23
+aVSearch your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+p24
+asS'costs'
+p25
+(lp26
+V{3}{R}
+p27
+aV{2}{B}{B}
+p28
+aV{4}{R}
+p29
+aV{3}{R}
+p30
+asS'names'
+p31
+(lp32
+VYuki-Onna
+p33
+aVYukora, the Prisoner
+p34
+aVYuan Shao, the Indecisive
+p35
+aVYuan Shao's Infantry
+p36
+asS'toughs'
+p37
+(lp38
+V1
+p39
+aV5
+p40
+aV3
+p41
+aV2
+p42
+asS'artists'
+p43
+(lp44
+VHideaki Takamura
+p45
+aVTony Szczudlo
+p46
+aVInoue Junichi
+p47
+aVLin Yan
+p48
+asS'powers'
+p49
+(lp50
+g41
+ag40
+ag42
+ag42
+asS'types'
+p51
+(lp52
+VCreature - Spirit
+p53
+aVLegendary Creature - Demon Spirit
+p54
+aVLegendary Creature - Human Soldier
+p55
+aVCreature - Human Soldier
+p56
+asS'numbers'
+p57
+(lp58
+V120
+p59
+aV90
+p60
+aV128
+p61
+aV129
+p62
+as.

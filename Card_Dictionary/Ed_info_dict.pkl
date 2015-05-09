@@ -1,0 +1,219 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVRare
+p4
+aVCommon
+p5
+aVRare
+p6
+aVCommon
+p7
+aVCommon
+p8
+aVUncommon
+p9
+aVCommon
+p10
+aVRare
+p11
+asS'editns'
+p12
+(lp13
+VMagic: The Gathering-Commander
+p14
+aVCommander's Arsenal
+p15
+aVDuel Decks: Knights vs. Dragons
+p16
+aVVintage Masters
+p17
+aVEventide
+p18
+aVPlanechase 2012 Edition
+p19
+aVScourge
+p20
+aVFuture Sight
+p21
+aVMagic: The Gathering\u2014Conspiracy
+p22
+asS'ids'
+p23
+(lp24
+V230000
+p25
+aV338443
+p26
+aV243442
+p27
+aV382920
+p28
+aV151155
+p29
+aV226527
+p30
+aV43513
+p31
+aV126132
+p32
+aV382257
+p33
+asS'texts'
+p34
+(lp35
+VWhenever a creature deals combat damage to one of your opponents, its controller may draw a card.
+p36
+aVWhenever a creature deals combat damage to one of your opponents, its controller may draw a card.
+p37
+aVIf you control four or fewer lands, search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.<br>Cycling\u2014Sacrifice a land. <i>(Sacrifice a land, Discard this card: Draw a card.)</i>
+p38
+aV{T}: Add {G}{G}{G} to your mana pool.<br>Forestcycling {2} <i>({2}, Discard this card: Search your library for a Forest card, reveal it, and put it into your hand. Then shuffle your library.)</i>
+p39
+aVEnchant creature<br>As long as enchanted creature is white, it gets +1/+2.<br>As long as enchanted creature is black, it gets +2/+1.
+p40
+aVIf a creature you control would untap during your untap step, put two +1/+1 counters on it instead.<br>Whenever you roll chaos, untap each creature you control.
+p41
+aVCleric spells you cast cost {W}{B} less to cast. This effect reduces only the amount of colored mana you pay. <i>(For example, if you cast a Cleric spell with mana cost {1}{W}, it costs {1} to cast.)</i>
+p42
+aVIf you control four or fewer lands, search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.<br>Cycling\u2014Sacrifice a land. <i>(Sacrifice a land, Discard this card: Draw a card.)</i>
+p43
+aVWhenever a creature deals combat damage to one of your opponents, its controller may draw a card.
+p44
+asS'costs'
+p45
+(lp46
+V{1}{G}{U}
+p47
+aV{1}{G}{U}
+p48
+aV{1}{G}
+p49
+aV{1}{G}
+p50
+aV{W/B}
+p51
+aS'0'
+p52
+aV{1}{W}{B}
+p53
+aV{1}{G}
+p54
+aV{1}{G}
+p55
+asS'names'
+p56
+(lp57
+VEdric, Spymaster of Trest
+p58
+aVEdric, Spymaster of Trest
+p59
+aVEdge of Autumn
+p60
+aVEdric, Spymaster of Trest
+p61
+aVEdge of the Divinity
+p62
+aVEdge of Malacol
+p63
+aVEdgewalker
+p64
+aVEdge of Autumn
+p65
+aVEdric, Spymaster of Trest
+p66
+asS'toughs'
+p67
+(lp68
+V2
+p69
+aV4
+p70
+aS'N/A'
+p71
+aV0
+p72
+ag71
+ag71
+ag69
+ag71
+ag72
+asS'artists'
+p73
+(lp74
+VVolkan Baga
+p75
+aVVolkan Baga
+p76
+aVJean-Sébastien Rossbach
+p77
+aVVolkan Baga
+p78
+aVDan Scott
+p79
+aVJim Nelson
+p80
+aVBen Thompson
+p81
+aVJean-Sébastien Rossbach
+p82
+aVVolkan Baga
+p83
+asS'powers'
+p84
+(lp85
+g69
+ag69
+ag71
+ag69
+ag71
+ag71
+ag69
+ag71
+ag72
+asS'types'
+p86
+(lp87
+VLegendary Creature - Elf Rogue
+p88
+aVLegendary Creature - Elf Rogue
+p89
+aVSorcery
+p90
+aVLegendary Creature - Elf Rogue
+p91
+aVEnchantment - Aura
+p92
+aVPlane - Belenon
+p93
+aVCreature - Human Cleric
+p94
+aVSorcery
+p95
+aVLegendary Creature - Elf Rogue
+p96
+asS'numbers'
+p97
+(lp98
+V196
+p99
+aV8
+p100
+aV25
+p101
+aV251
+p102
+aV87
+p103
+aV6
+p104
+aV137
+p105
+aV144
+p106
+aV187
+p107
+as.

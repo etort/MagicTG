@@ -1,0 +1,360 @@
+(dp0
+S'rares'
+p1
+(lp2
+VSpecial
+p3
+aVUncommon
+p4
+aVUncommon
+p5
+aVUncommon
+p6
+aVCommon
+p7
+aVUncommon
+p8
+aVRare
+p9
+aVMythic Rare
+p10
+aVUncommon
+p11
+aVUncommon
+p12
+aVRare
+p13
+aVRare
+p14
+aVUncommon
+p15
+aVCommon
+p16
+aVCommon
+p17
+aVSpecial
+p18
+asS'editns'
+p19
+(lp20
+VAnthologies
+p21
+aVLimited Edition Beta
+p22
+aVBattle Royale Box Set
+p23
+aVFourth Edition
+p24
+aVPlanar Chaos
+p25
+aVRevised Edition
+p26
+aVNinth Edition
+p27
+aVReturn to Ravnica
+p28
+aVUnlimited Edition
+p29
+aVFuture Sight
+p30
+aVInvasion
+p31
+aVKhans of Tarkir
+p32
+aVLimited Edition Alpha
+p33
+aVDissension
+p34
+aVDissension
+p35
+aVTime Spiral "Timeshifted"
+p36
+asS'ids'
+p37
+(lp38
+V-2146729967
+p39
+aV523
+p40
+aV21112
+p41
+aV2311
+p42
+aV131004
+p43
+aV1323
+p44
+aV84434
+p45
+aV270372
+p46
+aV825
+p47
+aV130616
+p48
+aV12605
+p49
+aV386711
+p50
+aV228
+p51
+aV107276
+p52
+aV107569
+p53
+aV108806
+p54
+asS'texts'
+p55
+(lp56
+VFlying<br><br>Aesthir Glider can't block.
+p57
+aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i><br>{B}: Regenerate Will-o'-the-Wisp. <i>(The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</i>
+p58
+aVFlying
+p59
+aVFirst strike <i>(This creature deals combat damage before creatures without first strike.)</i><br>Protection from black <i>(This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)</i>
+p60
+aVEnchant creature<br>Enchanted creature can't attack or block.<br>Enchanted creature has "{T}: Add one mana of any color to your mana pool."
+p61
+aVDestroy all creatures. They can't be regenerated.
+p62
+aVCreatures with power 3 or greater don't untap during their controllers' untap steps.
+p63
+aV{4}{G}{W}: Put a 3/3 green Centaur creature token onto the battlefield.<br>{2}{G}{W}: Populate. <i>(Put a token onto the battlefield that's a copy of a creature token you control.)</i>
+p64
+aVPlayers can't untap more than one land during their untap steps.
+p65
+aVSpend only mana produced by basic lands to cast Imperiosaur.
+p66
+aV{T}: Add one mana of any color to your mana pool.
+p67
+aVMorph {4}{W} <i>(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p68
+aVEnchant creature<br>Enchanted creature has protection from black. This effect doesn't remove Black Ward.
+p69
+aVFlying<br>Utvara Scalper attacks each turn if able.
+p70
+aVEnchant Forest<br>As Utopia Sprawl enters the battlefield, choose a color.<br>Whenever enchanted Forest is tapped for mana, its controller adds one mana of the chosen color to his or her mana pool <i>(in addition to the mana the land produces)</i>.
+p71
+aV{R}: Regenerate Uthden Troll.
+p72
+asS'costs'
+p73
+(lp74
+V{2}{R}
+p75
+aV{2}{R}
+p76
+aV{2}{R}
+p77
+aV{2}{R}
+p78
+aV{1}{G}
+p79
+aV{2}{R}
+p80
+aV{1}{G}
+p81
+aV{G}
+p82
+aV{2}{R}
+p83
+aV{G}
+p84
+aV{1}{G}
+p85
+aV{5}
+p86
+aV{2}{R}
+p87
+aV{1}{R}
+p88
+aV{G}
+p89
+aV{2}{R}
+p90
+asS'names'
+p91
+(lp92
+VUthden Troll
+p93
+aVUthden Troll
+p94
+aVUthden Troll
+p95
+aVUthden Troll
+p96
+aVUtopia Vow
+p97
+aVUthden Troll
+p98
+aVUtopia Tree
+p99
+aVUtvara Hellkite
+p100
+aVUthden Troll
+p101
+aVUtopia Mycon
+p102
+aVUtopia Tree
+p103
+aVUtter End
+p104
+aVUthden Troll
+p105
+aVUtvara Scalper
+p106
+aVUtopia Sprawl
+p107
+aVUthden Troll
+p108
+asS'toughs'
+p109
+(lp110
+V2
+p111
+ag111
+ag111
+aV1
+p112
+aS'N/A'
+p113
+aV4
+p114
+ag112
+ag114
+ag111
+aV3
+p115
+ag112
+ag113
+ag111
+ag111
+ag113
+ag111
+asS'artists'
+p116
+(lp117
+VDouglas Shuler
+p118
+aVDouglas Schuler
+p119
+aVDouglas Shuler
+p120
+aVDouglas Shuler
+p121
+aVHeather Hudson
+p122
+aVDouglas Shuler
+p123
+aVGary Ruddell
+p124
+aVMark Zug
+p125
+aVDouglas Schuler
+p126
+aVAnthony S. Waters
+p127
+aVGary Ruddell
+p128
+aVMark Winters
+p129
+aVDouglas Schuler
+p130
+aVChristopher Rush
+p131
+aVRon Spears
+p132
+aVDouglas Shuler
+p133
+asS'powers'
+p134
+(lp135
+g111
+ag111
+ag111
+ag111
+ag113
+ag114
+ag112
+ag111
+ag111
+ag115
+ag112
+ag113
+ag111
+ag112
+ag113
+ag111
+asS'types'
+p136
+(lp137
+VCreature - Troll
+p138
+aVCreature - Troll
+p139
+aVCreature - Troll
+p140
+aVCreature - Troll
+p141
+aVEnchantment - Aura
+p142
+aVCreature - Troll
+p143
+aVCreature - Plant
+p144
+aVCreature - Dragon
+p145
+aVCreature - Troll
+p146
+aVCreature - Fungus
+p147
+aVCreature - Plant
+p148
+aVInstant
+p149
+aVCreature - Troll
+p150
+aVCreature - Goblin Scout
+p151
+aVEnchantment - Aura
+p152
+aVCreature - Troll
+p153
+asS'numbers'
+p154
+(lp155
+V17
+p156
+aV272
+p157
+aV133
+p158
+aV356
+p159
+aV142
+p160
+aV280
+p161
+aV277
+p162
+aV110
+p163
+aV273
+p164
+aV140
+p165
+aV219
+p166
+aV210
+p167
+aV49
+p168
+aV76
+p169
+aV99
+p170
+aV71
+p171
+as.

@@ -1,0 +1,78 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVUncommon
+p4
+asS'editns'
+p5
+(lp6
+VMagic 2015 Core Set
+p7
+aVFuture Sight
+p8
+asS'ids'
+p9
+(lp10
+V383442
+p11
+aV130702
+p12
+asS'texts'
+p13
+(lp14
+S''
+p15
+aVHellbent- Gathan Raiders gets +2/+2 as long as you have no cards in hand.<br>Morph\u2014Discard a card. <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p16
+asS'costs'
+p17
+(lp18
+V{2}{W}
+p19
+aV{1}{B}
+p20
+asS'names'
+p21
+(lp22
+VYisan, the Wanderer Bard
+p23
+aVYixlid Jailer
+p24
+asS'toughs'
+p25
+(lp26
+V1
+p27
+aV3
+p28
+asS'artists'
+p29
+(lp30
+VChase Stone
+p31
+aVMatt Cavotta
+p32
+asS'powers'
+p33
+(lp34
+V0
+p35
+ag28
+asS'types'
+p36
+(lp37
+VLegendary Creature - Human Rogue
+p38
+aVCreature - Zombie Wizard
+p39
+asS'numbers'
+p40
+(lp41
+V209
+p42
+aV93
+p43
+as.

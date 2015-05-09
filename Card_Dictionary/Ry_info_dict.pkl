@@ -1,0 +1,138 @@
+(dp0
+S'rares'
+p1
+(lp2
+VMythic Rare
+p3
+aVRare
+p4
+aVRare
+p5
+aVRare
+p6
+aVRare
+p7
+asS'editns'
+p8
+(lp9
+VModern Masters
+p10
+aVChampions of Kamigawa
+p11
+aVPromo set for Gatherer
+p12
+aVArchenemy
+p13
+aVHomelands
+p14
+asS'ids'
+p15
+(lp16
+V370559
+p17
+aV79242
+p18
+aV97068
+p19
+aV220471
+p20
+aV2978
+p21
+asS'texts'
+p22
+(lp23
+VFlying<br>When Ryusei, the Falling Star dies, it deals 5 damage to each creature without flying.
+p24
+aV{T}: Ben-Ben, Akki Hermit deals damage to target attacking creature equal to the number of untapped Mountains you control.
+p25
+aVFlying<br>When Ryusei, the Falling Star dies, it deals 5 damage to each creature without flying.
+p26
+aVFlying<br>When Ryusei, the Falling Star dies, it deals 5 damage to each creature without flying.
+p27
+aVWhenever Rysorian Badger attacks and isn't blocked, you may exile up to two target creature cards from defending player's graveyard. If you do, you gain 1 life for each card exiled this way and Rysorian Badger assigns no combat damage this turn.
+p28
+asS'costs'
+p29
+(lp30
+V{5}{R}
+p31
+aV{5}{R}
+p32
+aV{5}{R}
+p33
+aV{5}{R}
+p34
+aV{2}{G}
+p35
+asS'names'
+p36
+(lp37
+VRyusei, the Falling Star
+p38
+aVRyusei, the Falling Star
+p39
+aVRyusei, the Falling Star
+p40
+aVRyusei, the Falling Star
+p41
+aVRysorian Badger
+p42
+asS'toughs'
+p43
+(lp44
+V2
+p45
+aV5
+p46
+ag46
+aV3
+p47
+aV1
+p48
+asS'artists'
+p49
+(lp50
+S''
+p51
+aVNottsuo
+p52
+aVNottsuo
+p53
+aVNottsuo
+p54
+aVHeather Hudson
+p55
+asS'powers'
+p56
+(lp57
+g45
+ag46
+ag46
+ag46
+ag48
+asS'types'
+p58
+(lp59
+VLegendary Creature - Dragon Spirit
+p60
+aVLegendary Creature - Dragon Spirit
+p61
+aVLegendary Creature - Dragon Spirit
+p62
+aVLegendary Creature - Dragon Spirit
+p63
+aVCreature - Badger
+p64
+asS'numbers'
+p65
+(lp66
+g51
+aV185
+p67
+aV185
+p68
+aV45
+p69
+aV44
+p70
+as.

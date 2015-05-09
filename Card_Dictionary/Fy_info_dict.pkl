@@ -1,0 +1,401 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVCommon
+p4
+aVUncommon
+p5
+aVCommon
+p6
+aVRare
+p7
+aVMythic Rare
+p8
+aVUncommon
+p9
+aVCommon
+p10
+aVRare
+p11
+aVCommon
+p12
+aVCommon
+p13
+aVUncommon
+p14
+aVUncommon
+p15
+aVCommon
+p16
+aVUncommon
+p17
+aVCommon
+p18
+aVUncommon
+p19
+aVUncommon
+p20
+asS'editns'
+p21
+(lp22
+VAlliances
+p23
+aVAlliances
+p24
+aVTempest
+p25
+aVVintage Masters
+p26
+aVMasters Edition II
+p27
+aVFrom the Vault: Twenty
+p28
+aVIce Age
+p29
+aVIce Age
+p30
+aVIce Age
+p31
+aVIce Age
+p32
+aVIce Age
+p33
+aVIce Age
+p34
+aVClassic Sixth Edition
+p35
+aVClassic Sixth Edition
+p36
+aVSeventh Edition
+p37
+aVMasters Edition
+p38
+aVEighth Edition
+p39
+aVFifth Edition
+p40
+asS'ids'
+p41
+(lp42
+V3135
+p43
+aV3136
+p44
+aV4701
+p45
+aV382947
+p46
+aV184580
+p47
+aV373320
+p48
+aV2404
+p49
+aV2568
+p50
+aV2569
+p51
+aV2686
+p52
+aV2566
+p53
+aV2567
+p54
+aV14699
+p55
+aV16451
+p56
+aV11296
+p57
+aV159228
+p58
+aV45423
+p59
+aV3980
+p60
+asS'texts'
+p61
+(lp62
+VAt the beginning of your upkeep, you may sacrifice a Forest. If you sacrifice a snow Forest this way, Gargantuan Gorilla gains trample until end of turn. If you don't sacrifice a Forest, sacrifice Gargantuan Gorilla and it deals 7 damage to you.<br>{T}: Gargantuan Gorilla deals damage equal to its power to another target creature. That creature deals damage equal to its power to Gargantuan Gorilla.
+p63
+aVTrample; rampage 2 <i>(Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)</i><br>Gorilla Berserkers can't be blocked except by three or more creatures.
+p64
+aVCounter target activated ability from an artifact, creature, enchantment, or land. That permanent's activated abilities can't be activated this turn. <i>(Mana abilities can't be targeted.)</i><br>Draw a card.
+p65
+aVSearch your library for a card, put that card into your hand, discard a card at random, then shuffle your library.
+p66
+aVTarget creature gets +3/+3 until end of turn.
+p67
+aV{T}: Add {G} to your mana pool.
+p68
+aV{3}, {T}: Target creature gains first strike until end of turn.
+p69
+aVCumulative upkeep {1} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>All creatures get -1/-0.<br>{1}{G}: All creatures get -1/-0 until end of turn.
+p70
+aVGorilla Pack can't attack unless defending player controls a Forest.<br><br>When you control no Forests, sacrifice Gorilla Pack.
+p71
+aVEnchant creature<br>Enchanted creature can't be blocked by green creatures.<br>Enchanted creature gets +2/+2 as long as an opponent controls a green permanent.
+p72
+aVTarget creature gets +3/+3 until end of turn.
+p73
+aVDefender <i>(This creature can't attack.)</i>
+p74
+aVReveal the first card you draw each turn. Whenever you reveal a basic land card this way, draw a card.
+p75
+aVSwampwalk
+p76
+aVChoose one- Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn.
+p77
+aV{T}: Add {G} to your mana pool.
+p78
+aVReturn all green permanents to their owners' hands.
+p79
+aV{T}, Sacrifice Goblin Digging Team: Destroy target Wall.
+p80
+asS'costs'
+p81
+(lp82
+V{2}{G}
+p83
+aV{2}{G}
+p84
+aV{1}{U}{U}
+p85
+aV{2}{U}{U}{U}
+p86
+aV{2}{G}
+p87
+aV{G}
+p88
+aV{2}
+p89
+aV{G}
+p90
+aV{2}{G}
+p91
+aV{W}
+p92
+aV{2}{G}
+p93
+aV{2}{G}
+p94
+aV{2}{G}
+p95
+aV{2}{G}
+p96
+aV{2}{G}
+p97
+aV{G}
+p98
+aV{2}{G}
+p99
+aV{2}{G}
+p100
+asS'names'
+p101
+(lp102
+VFyndhorn Druid
+p103
+aVFyndhorn Druid
+p104
+aVFylamarid
+p105
+aVFyndhorn Elves
+p106
+aVFyndhorn Pollen
+p107
+aVFyndhorn Elves
+p108
+aVFyndhorn Bow
+p109
+aVFyndhorn Elves
+p110
+aVFyndhorn Pollen
+p111
+aVFylgja
+p112
+aVFyndhorn Brownie
+p113
+aVFyndhorn Elder
+p114
+aVFyndhorn Elder
+p115
+aVFyndhorn Brownie
+p116
+aVFyndhorn Elder
+p117
+aVFyndhorn Elves
+p118
+aVFyndhorn Elder
+p119
+aVFyndhorn Elder
+p120
+asS'toughs'
+p121
+(lp122
+V1
+p123
+ag123
+ag123
+aV2
+p124
+aS'N/A'
+p125
+ag123
+ag125
+ag123
+ag125
+ag125
+ag124
+ag124
+ag123
+ag124
+ag123
+aV5
+p126
+ag124
+aV4
+p127
+asS'artists'
+p128
+(lp129
+VRob Alexander
+p130
+aVRob Alexander
+p131
+aVUna Fricker
+p132
+aVIgor Kieryluk
+p133
+aVPhil Foglio
+p134
+aVIgor Kieryluk
+p135
+aVRob Alexander
+p136
+aVJustin Hampton
+p137
+aVPhil Foglio
+p138
+aVEdward P. Beard, Jr.
+p139
+aVRichard Thomas
+p140
+aVChristopher Rush
+p141
+aVDonato Giancola
+p142
+aVRichard Thomas
+p143
+aVGreg Staples
+p144
+aVJustin Hampton
+p145
+aVDonato Giancola
+p146
+aVDonato Giancola
+p147
+asS'powers'
+p148
+(lp149
+V0
+p150
+ag123
+ag124
+aV3
+p151
+ag125
+ag123
+ag125
+ag123
+ag125
+ag125
+ag151
+ag124
+ag123
+ag124
+ag124
+ag126
+ag124
+ag127
+asS'types'
+p152
+(lp153
+VCreature - Elf Druid
+p154
+aVCreature - Elf Druid
+p155
+aVCreature - Squid Beast
+p156
+aVCreature - Elf Druid
+p157
+aVEnchantment
+p158
+aVCreature - Elf Druid
+p159
+aVArtifact
+p160
+aVCreature - Elf Druid
+p161
+aVEnchantment
+p162
+aVEnchantment - Aura
+p163
+aVCreature - Ouphe
+p164
+aVCreature - Elf Druid
+p165
+aVCreature - Elf Druid
+p166
+aVCreature - Ouphe
+p167
+aVCreature - Elf Druid
+p168
+aVCreature - Elf Druid
+p169
+aVCreature - Elf Druid
+p170
+aVCreature - Elf Druid
+p171
+asS'numbers'
+p172
+(lp173
+V58
+p174
+aV151
+p175
+aV77
+p176
+aV210
+p177
+aV166
+p178
+ag127
+aV10
+p179
+aV119
+p180
+aV120
+p181
+aV189
+p182
+aV283
+p183
+aV284
+p184
+aV232
+p185
+aV231
+p186
+aV246
+p187
+aV118
+p188
+aV251
+p189
+aV284
+p190
+as.

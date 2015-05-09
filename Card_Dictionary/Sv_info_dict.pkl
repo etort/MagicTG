@@ -1,0 +1,210 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVUncommon
+p4
+aVUncommon
+p5
+aVUncommon
+p6
+aVUncommon
+p7
+aVUncommon
+p8
+aVUncommon
+p9
+aVUncommon
+p10
+aVUncommon
+p11
+asS'editns'
+p12
+(lp13
+VMagic: The Gathering-Commander
+p14
+aVFallen Empires
+p15
+aVFallen Empires
+p16
+aVMasters Edition II
+p17
+aVRavnica: City of Guilds
+p18
+aVClassic Sixth Edition
+p19
+aVFifth Edition
+p20
+aVBeatdown Box Set
+p21
+aVDuel Decks: Izzet vs. Golgari
+p22
+asS'ids'
+p23
+(lp24
+V247389
+p25
+aV1890
+p26
+aV2013
+p27
+aV184522
+p28
+aV89045
+p29
+aV14723
+p30
+aV4190
+p31
+aV26623
+p32
+aV292959
+p33
+asS'texts'
+p34
+(lp35
+V{T}: Add {1} to your mana pool.<br>{3}{B}{G}: Until end of turn, Svogthos, the Restless Tomb becomes a black and green Plant Zombie creature with "This creature's power and toughness are each equal to the number of creature cards in your graveyard." It's still a land.
+p36
+aV{U}{U}, {T}: Target creature gains shroud until end of turn. Activate this ability only during your upkeep. <i>(It can't be the target of spells or abilities.)</i>
+p37
+aVSvyelunite Temple enters the battlefield tapped.<br>{T}: Add {U} to your mana pool.<br>{T}, Sacrifice Svyelunite Temple: Add {U}{U} to your mana pool.
+p38
+aVAt the beginning of your upkeep, put a spore counter on Thallid.<br>Remove three spore counters from Thallid: Put a 1/1 green Saproling creature token onto the battlefield.
+p39
+aVDefender <i>(This creature can't attack.)</i><br>When Carven Caryatid enters the battlefield, draw a card.
+p40
+aVEnchant land<br>Whenever enchanted land is tapped for mana, its controller adds {G} to his or her mana pool <i>(in addition to the mana the land produces)</i>.
+p41
+aVTrample<br>As long as it's your turn, Angry Mob's power and toughness are each equal to 2 plus the number of Swamps your opponents control. As long as it's not your turn, Angry Mob's power and toughness are each 2.
+p42
+aVB
+p43
+aV{T}: Add {1} to your mana pool.<br>{3}{B}{G}: Until end of turn, Svogthos, the Restless Tomb becomes a black and green Plant Zombie creature with "This creature's power and toughness are each equal to the number of creature cards in your graveyard." It's still a land.
+p44
+asS'costs'
+p45
+(lp46
+S'0'
+p47
+aV{1}{U}
+p48
+ag47
+ag47
+ag47
+ag47
+ag47
+ag47
+ag47
+asS'names'
+p49
+(lp50
+VSvogthos, the Restless Tomb
+p51
+aVSvyelunite Priest
+p52
+aVSvyelunite Temple
+p53
+aVSvyelunite Temple
+p54
+aVSvogthos, the Restless Tomb
+p55
+aVSvyelunite Temple
+p56
+aVSvyelunite Temple
+p57
+aVSvyelunite Temple
+p58
+aVSvogthos, the Restless Tomb
+p59
+asS'toughs'
+p60
+(lp61
+S'N/A'
+p62
+aV1
+p63
+ag62
+ag62
+ag62
+ag62
+ag62
+ag62
+ag62
+asS'artists'
+p64
+(lp65
+VMartina Pilcerova
+p66
+aVRon Spencer
+p67
+aVMark Poole
+p68
+aVMark Poole
+p69
+aVMartina Pilcerova
+p70
+aVLiz Danforth
+p71
+aVLiz Danforth
+p72
+aVLiz Danforth
+p73
+aVMartina Pilcerova
+p74
+asS'powers'
+p75
+(lp76
+g62
+ag63
+ag62
+ag62
+ag62
+ag62
+ag62
+ag62
+ag62
+asS'types'
+p77
+(lp78
+VLand
+p79
+aVCreature - Merfolk Cleric
+p80
+aVLand
+p81
+aVLand
+p82
+aVLand
+p83
+aVLand
+p84
+aVLand
+p85
+aVLand
+p86
+aVLand
+p87
+asS'numbers'
+p88
+(lp89
+V289
+p90
+aV29
+p91
+aV172
+p92
+aV237
+p93
+aV283
+p94
+aV329
+p95
+aV202
+p96
+aV78
+p97
+aV81
+p98
+as.

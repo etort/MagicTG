@@ -1,0 +1,517 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVUncommon
+p4
+aVRare
+p5
+aVRare
+p6
+aVMythic Rare
+p7
+aVUncommon
+p8
+aVUncommon
+p9
+aVUncommon
+p10
+aVCommon
+p11
+aVUncommon
+p12
+aVRare
+p13
+aVCommon
+p14
+aVCommon
+p15
+aVCommon
+p16
+aVUncommon
+p17
+aVUncommon
+p18
+aVUncommon
+p19
+aVCommon
+p20
+aVCommon
+p21
+aVCommon
+p22
+aVCommon
+p23
+aVCommon
+p24
+aVCommon
+p25
+aVRare
+p26
+asS'editns'
+p27
+(lp28
+VFourth Edition
+p29
+aVTempest
+p30
+aVTempest
+p31
+aVThe Dark
+p32
+aVConflux
+p33
+aVAvacyn Restored
+p34
+aVOnslaught
+p35
+aVOnslaught
+p36
+aVOnslaught
+p37
+aVOnslaught
+p38
+aVUrza's Destiny
+p39
+aVShadowmoor
+p40
+aVShadowmoor
+p41
+aVNew Phyrexia
+p42
+aVScourge
+p43
+aVPortal Second Age
+p44
+aVLegions
+p45
+aVMasters Edition
+p46
+aVWeatherlight
+p47
+aVMagic: The Gathering\u2014Conspiracy
+p48
+aVWorldwake
+p49
+aVArchenemy
+p50
+aVPremium Deck Series: Slivers
+p51
+aVHomelands
+p52
+asS'ids'
+p53
+(lp54
+V2144
+p55
+aV4748
+p56
+aV4802
+p57
+aV1747
+p58
+aV183068
+p59
+aV279612
+p60
+aV39419
+p61
+aV39530
+p62
+aV39704
+p63
+aV39906
+p64
+aV14442
+p65
+aV141929
+p66
+aV154392
+p67
+aV194208
+p68
+aV44339
+p69
+aV6535
+p70
+aV42060
+p71
+aV159087
+p72
+aV4479
+p73
+aV382214
+p74
+aV197769
+p75
+aV212591
+p76
+aV207925
+p77
+aV2900
+p78
+asS'texts'
+p79
+(lp80
+V{U}, {T}: Add {3} to your mana pool.
+p81
+aVFlying, swampwalk
+p82
+aVAll Sliver creatures have "{2}: This creature gets +1/+0 until end of turn."
+p83
+aVExile two target nonartifact creatures. Ashes to Ashes deals 5 damage to you.
+p84
+aVApocalypse Hydra enters the battlefield with X +1/+1 counters on it. If X is 5 or more, it enters the battlefield with an additional X +1/+1 counters on it.<br>{1}{R}, Remove a +1/+1 counter from Apocalypse Hydra: Apocalypse Hydra deals 1 damage to target creature or player.
+p85
+aVInstant and sorcery spells cost {2} less to cast.
+p86
+aVTap two untapped Wizards you control: Tap target permanent.
+p87
+aV{T}: Untap target artifact or creature.<br>Morph {U} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p88
+aVReturn up to three target creature cards of the creature type of your choice from your graveyard to your hand.
+p89
+aVFlying<br>When Aphetto Vulture dies, you may put target Zombie card from your graveyard on top of your library.
+p90
+aV{B}, {T}, Sacrifice Apprentice Necromancer: Return target creature card from your graveyard to the battlefield. That creature gains haste. At the beginning of the next end step, sacrifice it.
+p91
+aVWhenever a player casts a white spell, you may pay {1}. If you do, you gain 1 life.
+p92
+aVSacrifice Heap Doll: Exile target card from a graveyard.
+p93
+aV<i>({WP} can be paid with either {W} or 2 life.)</i><br>Target artifact or creature you control gains protection from artifacts or from the color of your choice until end of turn.
+p94
+aVWhenever a permanent is turned face up, you may draw a card.
+p95
+aVCast Remove only during the declare attackers step and only if you've been attacked this step.<br>Return target attacking creature to its owner's hand.
+p96
+aVMorph {3}{B} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i><br>When Aphetto Exterminator is turned face up, target creature gets -3/-3 until end of turn.
+p97
+aV{U}, {T}: Add {3} to your mana pool.
+p98
+aVEnchant creature<br>Enchanted creature doesn't untap during its controller's untap step.<br>At the beginning of the upkeep of enchanted creature's controller, that player may discard a card at random. If he or she does, untap that creature.
+p99
+aVMultikicker {1}{W} <i>(You may pay an additional {1}{W} any number of times as you cast this spell.)</i><br>Flying<br>Apex Hawks enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+p100
+aVMultikicker {1}{W} <i>(You may pay an additional {1}{W} any number of times as you cast this spell.)</i><br>Flying<br>Apex Hawks enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+p101
+aVWhen you set this scheme in motion, until your next turn, if a source would deal damage, it deals double that damage instead.
+p102
+aVReturn up to three target creature cards of the creature type of your choice from your graveyard to your hand.
+p103
+aV{2}, {T}, Sacrifice Apocalypse Chime: Destroy all nontoken permanents from the Homelands expansion. They can't be regenerated.
+p104
+asS'costs'
+p105
+(lp106
+V{1}{U}{U}
+p107
+aV{2}{G}{G}
+p108
+aV{2}{R}{R}{R}
+p109
+aV{1}{U}{U}
+p110
+aV{X}{R}{G}
+p111
+aV{2}{W}{W}
+p112
+aV{2}{U}
+p113
+aV{1}{U}
+p114
+aV{3}{B}
+p115
+aV{4}{B}{B}
+p116
+aV{1}{B}
+p117
+aV{W}
+p118
+aV{B}
+p119
+aV{1}{WP}
+p120
+aV{3}{U}
+p121
+aV{2}{U}
+p122
+aV{2}{B}
+p123
+aV{1}{U}{U}
+p124
+aV{U}
+p125
+aV{2}{W}
+p126
+aV{2}{W}
+p127
+aS'0'
+p128
+aV{3}{B}
+p129
+aV{2}
+p130
+asS'names'
+p131
+(lp132
+VApprentice Wizard
+p133
+aVApes of Rath
+p134
+aVApocalypse
+p135
+aVApprentice Wizard
+p136
+aVApocalypse Hydra
+p137
+aVAppetite for Brains
+p138
+aVAphetto Grifter
+p139
+aVAphetto Alchemist
+p140
+aVAphetto Dredging
+p141
+aVAphetto Vulture
+p142
+aVApprentice Necromancer
+p143
+aVApothecary Initiate
+p144
+aVAphotic Wisps
+p145
+aVApostle's Blessing
+p146
+aVAphetto Runecaster
+p147
+aVApprentice Sorcerer
+p148
+aVAphetto Exterminator
+p149
+aVApprentice Wizard
+p150
+aVApathy
+p151
+aVApex Hawks
+p152
+aVApex Hawks
+p153
+aVApproach My Molten Realm
+p154
+aVAphetto Dredging
+p155
+aVApocalypse Chime
+p156
+asS'toughs'
+p157
+(lp158
+V5
+p159
+aV1
+p160
+aS'N/A'
+p161
+ag160
+aV0
+p162
+ag161
+aV3
+p163
+aV4
+p164
+ag161
+ag160
+ag164
+ag160
+ag161
+ag161
+ag163
+ag160
+ag160
+aV2
+p165
+ag161
+ag163
+ag165
+ag161
+ag161
+ag161
+asS'artists'
+p166
+(lp167
+VDan Frazier
+p168
+aVJeff Laubenstein
+p169
+aVL. A. Williams
+p170
+aVDan Frazier
+p171
+aVJason Chan
+p172
+aVJaime Jones
+p173
+aVGreg Staples
+p174
+aVRon Spears
+p175
+aVMonte Michael Moore
+p176
+aVTony Szczudlo
+p177
+aVPete Venters
+p178
+aVKev Walker
+p179
+aVJim Nelson
+p180
+aVTomasz Jedruszek
+p181
+aVScott M. Fischer
+p182
+aVChristopher Rush
+p183
+aVScott M. Fischer
+p184
+aVDan Frazier
+p185
+aVPhil Foglio
+p186
+aVDavid Palumbo
+p187
+aVDavid Palumbo
+p188
+aVJim Pavelec
+p189
+aVMonte Michael Moore
+p190
+aVMark Poole
+p191
+asS'powers'
+p192
+(lp193
+g159
+ag160
+ag161
+ag160
+ag162
+ag161
+ag163
+ag163
+ag161
+ag160
+ag164
+ag160
+ag161
+ag161
+ag165
+ag160
+ag163
+ag163
+ag161
+ag164
+ag165
+ag161
+ag161
+ag161
+asS'types'
+p194
+(lp195
+VCreature - Human Wizard
+p196
+aVCreature - Ape
+p197
+aVSorcery
+p198
+aVCreature - Human Wizard
+p199
+aVCreature - Hydra
+p200
+aVSorcery
+p201
+aVCreature - Human Wizard
+p202
+aVCreature - Human Wizard
+p203
+aVSorcery
+p204
+aVCreature - Zombie Bird
+p205
+aVCreature - Zombie Wizard
+p206
+aVCreature - Kithkin Cleric
+p207
+aVInstant
+p208
+aVInstant
+p209
+aVCreature - Human Wizard
+p210
+aVCreature - Human Wizard
+p211
+aVCreature - Human Wizard
+p212
+aVCreature - Human Wizard
+p213
+aVEnchantment - Aura
+p214
+aVCreature - Bird
+p215
+aVCreature - Bird
+p216
+aVScheme
+p217
+aVSorcery
+p218
+aVArtifact
+p219
+asS'numbers'
+p220
+(lp221
+V61
+p222
+aV106
+p223
+aV139
+p224
+aV74
+p225
+aV98
+p226
+aV84
+p227
+aV65
+p228
+aV64
+p229
+aV125
+p230
+aV126
+p231
+aV51
+p232
+ag160
+aV55
+p233
+ag165
+aV28
+p234
+aV29
+p235
+aV59
+p236
+aV30
+p237
+aV40
+p238
+aV67
+p239
+ag165
+ag163
+aV28
+p240
+ag160
+as.

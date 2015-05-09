@@ -1,0 +1,314 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVRare
+p4
+aVCommon
+p5
+aVCommon
+p6
+aVRare
+p7
+aVCommon
+p8
+aVCommon
+p9
+aVCommon
+p10
+aVCommon
+p11
+aVCommon
+p12
+aVCommon
+p13
+aVRare
+p14
+aVCommon
+p15
+aVCommon
+p16
+asS'editns'
+p17
+(lp18
+VScars of Mirrodin
+p19
+aVTempest
+p20
+aVModern Masters
+p21
+aVModern Masters
+p22
+aVCommander 2013 Edition
+p23
+aVDuel Decks: Elspeth vs. Tezzeret
+p24
+aVDarksteel
+p25
+aVDarksteel
+p26
+aVDarksteel
+p27
+aVDarksteel
+p28
+aVDarksteel
+p29
+aVRise of the Eldrazi
+p30
+aVLegions
+p31
+aVMagic: The Gathering\u2014Conspiracy
+p32
+asS'ids'
+p33
+(lp34
+V209042
+p35
+aV4602
+p36
+aV370393
+p37
+aV370394
+p38
+aV376318
+p39
+aV222735
+p40
+aV43592
+p41
+aV46155
+p42
+aV46162
+p43
+aV46169
+p44
+aV46176
+p45
+aV198163
+p46
+aV42059
+p47
+aV382256
+p48
+asS'texts'
+p49
+(lp50
+V+2: You gain 1 life for each creature you control.<br>-2: Put three 1/1 white Soldier creature tokens onto the battlefield.<br>-5: Destroy all other permanents except for lands and tokens.
+p51
+aV{4}, {T}: An opponent chooses target creature he or she controls. Put a token that's a copy of that creature onto the battlefield. That token gains haste until end of turn. Exile the token at the beginning of the next end step. Activate this ability only any time you could cast a sorcery.
+p52
+aVTarget creature and all other creatures with the same name as that creature get +2/+2 until end of turn.
+p53
+aVReturn target nonland permanent and all other permanents with the same name as that permanent to their owners' hands.
+p54
+aVLevel up {1}{U} <i>({1}{U}: Put a level counter on this. Level up only as a sorcery.)</i><br>LEVEL 2-3<br>2/4<br>{U}{U}, {T}: Copy target instant or sorcery spell. You may choose new targets for the copy.<br>LEVEL 4+<br>2/5<br>{U}{U}, {T}: Copy target instant or sorcery spell twice. You may choose new targets for the copies.
+p55
+aVReturn target nonland permanent and all other permanents with the same name as that permanent to their owners' hands.
+p56
+aVDestroy target enchantment and all other enchantments with the same name as that enchantment.
+p57
+aVDestroy target artifact and all other artifacts with the same name as that artifact.
+p58
+aVReturn target nonland permanent and all other permanents with the same name as that permanent to their owners' hands.
+p59
+aVTarget creature and all other creatures with the same name as that creature get +2/+2 until end of turn.
+p60
+aVTarget creature and all other creatures with the same name as that creature get -2/-2 until end of turn.
+p61
+aVLevel up {1}{U} <i>({1}{U}: Put a level counter on this. Level up only as a sorcery.)</i><br>LEVEL 2-3<br>2/4<br>{U}{U}, {T}: Copy target instant or sorcery spell. You may choose new targets for the copy.<br>LEVEL 4+<br>2/5<br>{U}{U}, {T}: Copy target instant or sorcery spell twice. You may choose new targets for the copies.
+p62
+aVMorph {2}{U} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i><br>When Echo Tracer is turned face up, return target creature to its owner's hand.
+p63
+aVTarget creature and all other creatures with the same name as that creature get +2/+2 until end of turn.
+p64
+asS'costs'
+p65
+(lp66
+V{2}
+p67
+aV{4}
+p68
+aV{1}{G}
+p69
+aV{1}{U}
+p70
+aV{1}{U}{U}
+p71
+aV{1}{U}
+p72
+aV{1}{W}
+p73
+aV{1}{R}
+p74
+aV{1}{U}
+p75
+aV{1}{G}
+p76
+aV{1}{B}
+p77
+aV{1}{U}{U}
+p78
+aV{2}{U}
+p79
+aV{1}{U}{U}
+p80
+asS'names'
+p81
+(lp82
+VEcho Circlet
+p83
+aVEcho Chamber
+p84
+aVEchoing Courage
+p85
+aVEchoing Truth
+p86
+aVEcho Mage
+p87
+aVEchoing Truth
+p88
+aVEchoing Calm
+p89
+aVEchoing Ruin
+p90
+aVEchoing Truth
+p91
+aVEchoing Courage
+p92
+aVEchoing Decay
+p93
+aVEcho Mage
+p94
+aVEcho Tracer
+p95
+aVEchoing Courage
+p96
+asS'toughs'
+p97
+(lp98
+S'N/A'
+p99
+ag99
+ag99
+ag99
+aV3
+p100
+ag99
+ag99
+ag99
+ag99
+ag99
+ag99
+ag100
+aV2
+p101
+ag99
+asS'artists'
+p102
+(lp103
+VDaarken
+p104
+aVDonato Giancola
+p105
+aS''
+p106
+ag106
+aVMatt Stewart
+p107
+aVGreg Staples
+p108
+aVGreg Staples
+p109
+aVGreg Staples
+p110
+aVGreg Staples
+p111
+aVGreg Staples
+p112
+aVGreg Staples
+p113
+aVMatt Stewart
+p114
+aVScott M. Fischer
+p115
+aVGreg Staples
+p116
+asS'powers'
+p117
+(lp118
+g99
+ag99
+ag99
+ag99
+ag100
+ag99
+ag99
+ag99
+ag99
+ag99
+ag99
+ag101
+ag101
+ag99
+asS'types'
+p119
+(lp120
+VArtifact - Equipment
+p121
+aVArtifact
+p122
+aVInstant
+p123
+aVInstant
+p124
+aVCreature - Human Wizard
+p125
+aVInstant
+p126
+aVInstant
+p127
+aVSorcery
+p128
+aVInstant
+p129
+aVInstant
+p130
+aVInstant
+p131
+aVCreature - Human Wizard
+p132
+aVCreature - Human Wizard
+p133
+aVInstant
+p134
+asS'numbers'
+p135
+(lp136
+V153
+p137
+aV5
+p138
+ag106
+ag106
+aV43
+p139
+aV66
+p140
+ag101
+aV59
+p141
+aV21
+p142
+aV74
+p143
+aV41
+p144
+aV64
+p145
+aV37
+p146
+aV161
+p147
+as.

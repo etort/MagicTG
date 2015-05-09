@@ -1,0 +1,236 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVRare
+p4
+aVUncommon
+p5
+aVRare
+p6
+aVRare
+p7
+aVRare
+p8
+aVUncommon
+p9
+aVRare
+p10
+aVSpecial
+p11
+aVRare
+p12
+asS'editns'
+p13
+(lp14
+VSaviors of Kamigawa
+p15
+aVBorn of the Gods
+p16
+aVMasters Edition III
+p17
+aVChampions of Kamigawa
+p18
+aVChampions of Kamigawa
+p19
+aVJourney into Nyx
+p20
+aVJourney into Nyx
+p21
+aVJourney into Nyx
+p22
+aVVanguard
+p23
+aVPortal Three Kingdoms
+p24
+asS'ids'
+p25
+(lp26
+V74373
+p27
+aV378379
+p28
+aV201304
+p29
+aV50296
+p30
+aV79205
+p31
+aV380408
+p32
+aV380409
+p33
+aV380410
+p34
+aV182294
+p35
+aV10553
+p36
+asS'texts'
+p37
+(lp38
+VFlying<br>At the beginning of your upkeep, return a white creature you control to its owner's hand.
+p39
+aVHeroic- Whenever you cast a spell that targets Elite Skirmisher, you may tap target creature.
+p40
+aVEnchant land<br>Enchanted land is a Swamp.
+p41
+aV{1}{W}: Target permanent you control gains protection from white until end of turn.<br>{1}: Target spell or permanent becomes white until end of turn.
+p42
+aVFlash<br>Tapped creatures you control can block as though they were untapped.
+p43
+aVConstellation- Whenever Eidolon of Blossoms or another enchantment enters the battlefield under your control, draw a card.
+p44
+aVEach player can't cast more than one spell each turn.
+p45
+aVWhenever a player casts a spell with converted mana cost 3 or less, Eidolon of the Great Revel deals 2 damage to that player.
+p46
+aV{1}: Until end of turn, target permanent you control gains protection from a color chosen at random from colors it doesn't have protection from.
+p47
+aVHorsemanship <i>(This creature can't be blocked except by creatures with horsemanship.)</i>
+p48
+asS'costs'
+p49
+(lp50
+V{3}{W}
+p51
+aV{1}{W}{W}
+p52
+aV{2}{W}
+p53
+aV{W}{W}
+p54
+aS'0'
+p55
+aV{2}{W}
+p56
+aV{2}{G}{G}
+p57
+aV{2}{W}
+p58
+ag55
+aV{2}{W}
+p59
+asS'names'
+p60
+(lp61
+VEiganjo Free-Riders
+p62
+aVEidolon of Countless Battles
+p63
+aVEightfold Maze
+p64
+aVEight-and-a-Half-Tails
+p65
+aVEiganjo Castle
+p66
+aVEidolon of Blossoms
+p67
+aVEidolon of Rhetoric
+p68
+aVEidolon of the Great Revel
+p69
+aVEight-and-a-Half-Tails Avatar
+p70
+aVEightfold Maze
+p71
+asS'toughs'
+p72
+(lp73
+V4
+p74
+aS'N/A'
+p75
+ag75
+aV2
+p76
+ag75
+ag75
+ag75
+ag75
+ag75
+ag75
+asS'artists'
+p77
+(lp78
+VKev Walker
+p79
+aVRaymond Swanland
+p80
+aVJesper Myrfors
+p81
+aVDaren Bader
+p82
+aVWayne England
+p83
+aVMin Yum
+p84
+aVRyan Yee
+p85
+aVCyril Van Der Haegen
+p86
+aVUDON
+p87
+aVShang Huitong
+p88
+asS'powers'
+p89
+(lp90
+V3
+p91
+ag75
+ag75
+ag76
+ag75
+ag75
+ag75
+ag75
+ag75
+ag75
+asS'types'
+p92
+(lp93
+VCreature - Human Soldier
+p94
+aVEnchantment Creature - Spirit
+p95
+aVInstant
+p96
+aVLegendary Creature - Fox Cleric
+p97
+aVLegendary Land
+p98
+aVEnchantment Creature - Spirit
+p99
+aVEnchantment Creature - Spirit
+p100
+aVEnchantment Creature - Spirit
+p101
+aVVanguard
+p102
+aVInstant
+p103
+asS'numbers'
+p104
+(lp105
+V8
+p106
+aV7
+p107
+aV9
+p108
+ag106
+aV275
+p109
+aV122
+p110
+aV10
+p111
+aV94
+p112
+aV45
+p113
+ag76
+as.

@@ -1,0 +1,1453 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVCommon
+p4
+aVUncommon
+p5
+aVCommon
+p6
+aVUncommon
+p7
+aVUncommon
+p8
+aVUncommon
+p9
+aVCommon
+p10
+aVUncommon
+p11
+aVCommon
+p12
+aVMythic Rare
+p13
+aVUncommon
+p14
+aVCommon
+p15
+aVUncommon
+p16
+aVCommon
+p17
+aVUncommon
+p18
+aVCommon
+p19
+aVRare
+p20
+aVRare
+p21
+aVRare
+p22
+aVCommon
+p23
+aVRare
+p24
+aVUncommon
+p25
+aVUncommon
+p26
+aVCommon
+p27
+aVUncommon
+p28
+aVRare
+p29
+aVUncommon
+p30
+aVUncommon
+p31
+aVUncommon
+p32
+aVCommon
+p33
+aVCommon
+p34
+aVUncommon
+p35
+aVRare
+p36
+aVUncommon
+p37
+aVUncommon
+p38
+aVUncommon
+p39
+aVUncommon
+p40
+aVCommon
+p41
+aVCommon
+p42
+aVUncommon
+p43
+aVUncommon
+p44
+aVCommon
+p45
+aVCommon
+p46
+aVRare
+p47
+aVUncommon
+p48
+aVRare
+p49
+aVRare
+p50
+aVRare
+p51
+aVCommon
+p52
+aVCommon
+p53
+aVRare
+p54
+aVUncommon
+p55
+aVUncommon
+p56
+aVCommon
+p57
+aVRare
+p58
+aVCommon
+p59
+aVUncommon
+p60
+aVUncommon
+p61
+aVCommon
+p62
+aVUncommon
+p63
+aVUncommon
+p64
+aVUncommon
+p65
+aVUncommon
+p66
+aVCommon
+p67
+aVRare
+p68
+aVCommon
+p69
+aVRare
+p70
+aVRare
+p71
+aVUncommon
+p72
+aVCommon
+p73
+asS'editns'
+p74
+(lp75
+VLimited Edition Beta
+p76
+aVLimited Edition Beta
+p77
+aVFourth Edition
+p78
+aVFourth Edition
+p79
+aVDuel Decks: Ajani vs. Nicol Bolas
+p80
+aVAlliances
+p81
+aVDuel Decks: Knights vs. Dragons
+p82
+aVMagic 2010
+p83
+aVTenth Edition
+p84
+aVVintage Masters
+p85
+aVModern Masters
+p86
+aVApocalypse
+p87
+aVMasters Edition III
+p88
+aVRevised Edition
+p89
+aVRevised Edition
+p90
+aVMasters Edition II
+p91
+aVPlanechase 2012 Edition
+p92
+aVChampions of Kamigawa
+p93
+aVChampions of Kamigawa
+p94
+aVChampions of Kamigawa
+p95
+aVChampions of Kamigawa
+p96
+aVUrza's Destiny
+p97
+aVRavnica: City of Guilds
+p98
+aVCommander 2013 Edition
+p99
+aVCommander 2013 Edition
+p100
+aVCommander 2013 Edition
+p101
+aVOdyssey
+p102
+aVReturn to Ravnica
+p103
+aVColdsnap
+p104
+aVUnlimited Edition
+p105
+aVUnlimited Edition
+p106
+aVIce Age
+p107
+aVIce Age
+p108
+aVClassic Sixth Edition
+p109
+aVDuel Decks: Elspeth vs. Tezzeret
+p110
+aVShards of Alara
+p111
+aVShards of Alara
+p112
+aVShards of Alara
+p113
+aVShards of Alara
+p114
+aVShards of Alara
+p115
+aVMagic 2015 Core Set
+p116
+aVDarksteel
+p117
+aVShadowmoor
+p118
+aVFuture Sight
+p119
+aVPortal Second Age
+p120
+aVMasters Edition
+p121
+aVMasters Edition
+p122
+aVChronicles
+p123
+aVInvasion
+p124
+aVAlara Reborn
+p125
+aVAlara Reborn
+p126
+aVFifth Edition
+p127
+aVFifth Edition
+p128
+aVArchenemy
+p129
+aVKhans of Tarkir
+p130
+aVMirage
+p131
+aVMirage
+p132
+aVMirage
+p133
+aVLimited Edition Alpha
+p134
+aVLimited Edition Alpha
+p135
+aVVisions
+p136
+aVVisions
+p137
+aVMasters Edition IV
+p138
+aVMasters Edition IV
+p139
+aVMasters Edition IV
+p140
+aVLegends
+p141
+aVLorwyn
+p142
+aVArabian Nights
+p143
+aVArabian Nights
+p144
+aVMagic 2011
+p145
+aVPortal
+p146
+asS'ids'
+p147
+(lp148
+V321
+p149
+aV403
+p150
+aV2110
+p151
+aV2162
+p152
+aV249403
+p153
+aV3197
+p154
+aV243438
+p155
+aV193743
+p156
+aV135240
+p157
+aV382981
+p158
+aV370564
+p159
+aV29304
+p160
+aV201241
+p161
+aV1120
+p162
+aV1204
+p163
+aV184552
+p164
+aV226551
+p165
+aV50247
+p166
+aV78686
+p167
+aV80280
+p168
+aV80525
+p169
+aV15256
+p170
+aV88977
+p171
+aV376383
+p172
+aV376384
+p173
+aV376385
+p174
+aV29997
+p175
+aV289221
+p176
+aV121172
+p177
+aV623
+p178
+aV705
+p179
+aV2575
+p180
+aV2692
+p181
+aV11364
+p182
+aV222713
+p183
+aV137900
+p184
+aV175050
+p185
+aV175060
+p186
+aV175262
+p187
+aV179425
+p188
+aV383289
+p189
+aV43579
+p190
+aV153976
+p191
+aV126164
+p192
+aV6519
+p193
+aV159772
+p194
+aV159132
+p195
+aV2810
+p196
+aV23223
+p197
+aV188973
+p198
+aV188966
+p199
+aV3916
+p200
+aV4138
+p201
+aV220484
+p202
+aV386577
+p203
+aV3392
+p204
+aV3393
+p205
+aV3540
+p206
+aV26
+p207
+aV108
+p208
+aV3595
+p209
+aV3752
+p210
+aV221109
+p211
+aV202605
+p212
+aV202545
+p213
+aV1489
+p214
+aV139406
+p215
+aV922
+p216
+aV921
+p217
+aV205230
+p218
+aV4302
+p219
+asS'texts'
+p220
+(lp221
+VTarget spell or permanent becomes green. <i>(Mana symbols on that permanent remain unchanged.)</i>
+p222
+aVWhenever a Forest an opponent controls becomes tapped, you gain 1 life.
+p223
+aVFlying<br>At the beginning of your upkeep, sacrifice Junún Efreet unless you pay {B}{B}.
+p224
+aVTarget creature gains flying until end of turn.
+p225
+aVJungle Shrine enters the battlefield tapped.<br>{T}: Add {R}, {G}, or {W} to your mana pool.
+p226
+aVBanding <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
+p227
+aVWhenever another creature enters the battlefield under your control, put a +1/+1 counter on that creature and a +1/+1 counter on Juniper Order Ranger.
+p228
+aVLightning Bolt deals 3 damage to target creature or player.
+p229
+aV{5}, {T}: Put a 1/1 colorless Insect artifact creature token with flying named Wasp onto the battlefield. <i>(It can't be blocked except by creatures with flying or reach.)</i>
+p230
+aVFlying, protection from black<br>Echo {3}{W}{W} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i><br>When Karmic Guide enters the battlefield, return target creature card from your graveyard to the battlefield.
+p231
+aVFlying<br>When Jugan, the Rising Star dies, you may distribute five +1/+1 counters among any number of target creatures.
+p232
+aVDefender <i>(This creature can't attack.)</i><br>When Jungle Barrier enters the battlefield, draw a card.
+p233
+aV{2}, {T}: Exile the top card of your library face down.<br>{0}: Sacrifice Knowledge Vault. If you do, discard your hand, then put all cards exiled with Knowledge Vault into their owner's hand.<br>When Knowledge Vault leaves the battlefield, put all cards exiled with Knowledge Vault into their owner's graveyard.
+p234
+aVJuggernaut attacks each turn if able.<br>Juggernaut can't be blocked by Walls.
+p235
+aVFlying, trample<br>At the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you.
+p236
+aVGreen creatures you control get +1/+1.
+p237
+aVWhenever a player casts a black, red, or green creature spell, it gains devour 5. <i>(As the creature enters the battlefield, its controller may sacrifice any number of creatures. The creature enters the battlefield with five times that many +1/+1 counters on it.)</i><br>Whenever you roll chaos, put two 1/1 red Goblin creature tokens onto the battlefield.
+p238
+aVFlying<br>When Jugan, the Rising Star dies, you may distribute five +1/+1 counters among any number of target creatures.
+p239
+aV{T}: Initiate of Blood deals 1 damage to target creature that was dealt damage this turn. When that creature dies this turn, flip Initiate of Blood.<br>
+p240
+aVYou may play two additional lands on each of your turns.
+p241
+aVWhenever you cast a Spirit or Arcane spell, Jade Idol becomes a 4/4 Spirit artifact creature until end of turn.
+p242
+aVFlying<br>When Junk Diver dies, return another target artifact card from your graveyard to your hand.
+p243
+aVFlying<br>Whenever a source deals damage to Belltower Sphinx, that source's controller puts that many cards from the top of his or her library into his or her graveyard.
+p244
+aVChoose one- Exile all cards from target player's graveyard; or Jund Charm deals 2 damage to each creature; or put two +1/+1 counters on target creature.
+p245
+aV{T}: Add {1} to your mana pool.<br>{1}, {T}, Sacrifice Jund Panorama: Search your library for a basic Swamp, Mountain, or Forest card and put it onto the battlefield tapped. Then shuffle your library.
+p246
+aVJungle Shrine enters the battlefield tapped.<br>{T}: Add {R}, {G}, or {W} to your mana pool.
+p247
+aVFlashback costs you pay cost up to {2} less.<br>Flashback costs your opponents pay cost {2} more.
+p248
+aVTrample<br>Scavenge {5}{G}{G} <i>({5}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)</i>
+p249
+aVWhenever another creature enters the battlefield under your control, put a +1/+1 counter on that creature and a +1/+1 counter on Juniper Order Ranger.
+p250
+aVLightning Bolt deals 3 damage to target creature or player.
+p251
+aVEnchant artifact<br>Whenever you're dealt damage, put that many vitality counters on Living Artifact.<br>At the beginning of your upkeep, you may remove a vitality counter from Living Artifact. If you do, you gain 1 life.
+p252
+aVEnchant creature<br>Cumulative upkeep {G} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>At the beginning of the upkeep of enchanted creature's controller, Maddening Wind deals 2 damage to that player.
+p253
+aV{T}: All combat damage that would be dealt to you by unblocked creatures this turn is dealt to Kjeldoran Royal Guard instead.
+p254
+aVCreatures with power 3 or greater don't untap during their controllers' untap steps.
+p255
+aVFlying<br>When Kemba's Skyguard enters the battlefield, you gain 2 life.
+p256
+aVChoose one- Exile all cards from target player's graveyard; or Jund Charm deals 2 damage to each creature; or put two +1/+1 counters on target creature.
+p257
+aVWhen Tidehollow Sculler enters the battlefield, target opponent reveals his or her hand and you choose a nonland card from it. Exile that card.<br>When Tidehollow Sculler leaves the battlefield, return the exiled card to its owner's hand.
+p258
+aVSkeletonize deals 3 damage to target creature. When a creature dealt damage this way dies this turn, put a 1/1 black Skeleton creature token onto the battlefield with "{B}: Regenerate this creature."
+p259
+aVJhessian Infiltrator is unblockable.
+p260
+aVCreatures you control gain shroud until end of turn. <i>(They can't be the targets of spells or abilities.)</i>
+p261
+aVKird Chieftain gets +1/+1 as long as you control a Forest.<br>{4}{G}: Target creature gets +2/+2 and gains trample until end of turn. <i>(If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</i>
+p262
+aVJuggernaut attacks each turn if able.<br>Juggernaut can't be blocked by Walls.
+p263
+aVFlash <i>(You may cast this spell any time you could cast an instant.)</i><br>Defender, flying
+p264
+aV{G}, {T}, Discard a card: Put a 1/1 green Elf Druid creature token named Llanowar Elves onto the battlefield. It has "{T}: Add {G} to your mana pool."
+p265
+aVFlying<br>When Screeching Drake enters the battlefield, draw a card, then discard a card.
+p266
+aVYou and target player exchange control of the creature you each control with the highest converted mana cost. Then exchange control of artifacts the same way. If two or more permanents a player controls are tied for highest cost, their controller chooses one of them.
+p267
+aVAt the beginning of your upkeep, Juzám Djinn deals 1 damage to you.
+p268
+aV{T}, Sacrifice Living Armor: Put X +0/+1 counters on target creature, where X is that creature's converted mana cost.
+p269
+aVCreatures with power 1 or less don't untap during their controllers' untap steps.
+p270
+aVWhen you cycle Jund Sojourners or it dies, you may have it deal 1 damage to target creature or player.<br>Cycling {2}{R} <i>({2}{R}, Discard this card: Draw a card.)</i>
+p271
+aVFlying, haste<br>When Karrthus, Tyrant of Jund enters the battlefield, gain control of all Dragons, then untap all Dragons.<br>Other Dragon creatures you control have haste.
+p272
+aVYou and target player exchange control of the creature you each control with the highest converted mana cost. Then exchange control of artifacts the same way. If two or more permanents a player controls are tied for highest cost, their controller chooses one of them.
+p273
+aV{0}: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Any player may activate this ability, but only if he or she owns Personal Incarnation.<br>When Personal Incarnation dies, its owner loses half his or her life, rounded up.
+p274
+aVJuggernaut attacks each turn if able.<br>Juggernaut can't be blocked by Walls.
+p275
+aVWhenever a creature you control with toughness 4 or greater dies, each opponent loses 2 life and you gain 2 life.<br>{2}{B}, Sacrifice another creature: Put a +1/+1 counter on Kheru Bloodsucker.
+p276
+aV{1}{G}, {T}:  Put a 0/1 green Wall creature token with defender named Wood onto the battlefield.<br>Sacrifice a token named Wood: Add {R} to your mana pool.
+p277
+aVWhenever Jungle Wurm becomes blocked, it gets -1/-1 until end of turn for each creature blocking it beyond the first.
+p278
+aVDestroy target creature with converted mana cost X. If that creature dies this way, Kaervek's Purge deals damage equal to the creature's power to the creature's controller.
+p279
+aVTap all lands target player controls and empty his or her mana pool.
+p280
+aVMana Vault doesn't untap during your untap step.<br>At the beginning of your upkeep, you may pay {4}. If you do, untap Mana Vault.<br>At the beginning of your draw step, if Mana Vault is tapped, it deals 1 damage to you.<br>{T}: Add {3} to your mana pool.
+p281
+aVCumulative upkeep {1} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>When you play a card, sacrifice Juju Bubble.<br>{2}: You gain 1 life.
+p282
+aVKaroo enters the battlefield tapped.<br>When Karoo enters the battlefield, sacrifice it unless you return an untapped Plains you control to its owner's hand.<br>{T}: Add {1}{W} to your mana pool.
+p283
+aVEnchant land<br>When enchanted land becomes tapped, destroy it. That land's controller attaches Kudzu to a land of his or her choice.
+p284
+aVTake an extra turn after this one. At the beginning of that turn's end step, you lose the game.
+p285
+aVDestroy target creature or land.
+p286
+aV{1}{G}, {T}: Target creature gets -2/-0 until end of turn.
+p287
+aVWhenever a Merfolk you control becomes tapped, you may gain 1 life.
+p288
+aVAt the beginning of your upkeep, Juzám Djinn deals 1 damage to you.
+p289
+aVFlying<br>At the beginning of your upkeep, sacrifice Junún Efreet unless you pay {B}{B}.
+p290
+aVIf Leyline of Punishment is in your opening hand, you may begin the game with it on the battlefield.<br>Players can't gain life.<br>Damage can't be prevented.
+p291
+aVAs an additional cost to cast Natural Order, sacrifice a green creature.<br>Search your library for a green creature card and put it onto the battlefield. Then shuffle your library.
+p292
+asS'costs'
+p293
+(lp294
+V{4}
+p295
+aV{U}
+p296
+aV{1}{B}{B}
+p297
+aV{U}
+p298
+aS'0'
+p299
+aV{2}{W}
+p300
+aV{3}{G}{W}
+p301
+aV{3}{W}
+p302
+aV{4}
+p303
+aV{2}{U}{U}
+p304
+aV{3}{G}{G}{G}
+p305
+aV{2}{G}{U}
+p306
+aV{G}
+p307
+aV{4}
+p308
+aV{U}
+p309
+aV{2}{W}
+p310
+ag299
+aV{3}{G}{G}{G}
+p311
+aV{1}{U}
+p312
+aV{4}
+p313
+aV{G}
+p314
+aV{3}
+p315
+aV{4}
+p316
+aV{B}{R}{G}
+p317
+ag299
+ag299
+aV{4}
+p318
+aV{2}{B}{G}
+p319
+aV{3}{G}{W}
+p320
+aV{4}
+p321
+aV{U}
+p322
+aV{2}{G}
+p323
+aV{2}{W}{W}
+p324
+aV{3}{U}
+p325
+aV{1}{W}
+p326
+aV{B}{R}{G}
+p327
+aV{2}{R}
+p328
+ag299
+aV{2}{W}
+p329
+ag299
+aV{2}{U}{U}
+p330
+aV{4}
+p331
+aV{G}{G}
+p332
+aV{1}{W}
+p333
+aV{2}{W}
+p334
+aV{3}{U}
+p335
+aV{2}{B}{B}
+p336
+aV{3}{U}
+p337
+aV{2}
+p338
+aV{B/G}{R}
+p339
+aV{B}{R}{G}
+p340
+aV{3}{U}
+p341
+aV{2}{W}{W}
+p342
+aV{4}
+p343
+ag299
+aV{3}{G}
+p344
+aV{3}{G}{G}
+p345
+aV{1}{R}{G}
+p346
+aV{4}
+p347
+aV{U}
+p348
+aV{1}
+p349
+ag299
+aV{4}
+p350
+aV{1}{B}{B}
+p351
+aV{2}{W}
+p352
+aV{3}{U}
+p353
+aV{1}{W}
+p354
+aV{2}{B}{B}
+p355
+aV{1}{B}{B}
+p356
+aV{1}{U}{U}
+p357
+aV{G}
+p358
+asS'names'
+p359
+(lp360
+VJuggernaut
+p361
+aVJump
+p362
+aVJunún Efreet
+p363
+aVJump
+p364
+aVJungle Shrine
+p365
+aVJuniper Order Advocate
+p366
+aVJuniper Order Ranger
+p367
+aVJump
+p368
+aVJuggernaut
+p369
+aVJungle Wurm
+p370
+aVJugan, the Rising Star
+p371
+aVJungle Barrier
+p372
+aVJungle Lion
+p373
+aVJuggernaut
+p374
+aVJump
+p375
+aVJuniper Order Advocate
+p376
+aVJund
+p377
+aVJugan, the Rising Star
+p378
+aVJushi Apprentice (Tomoya the Revealer)
+p379
+aVJunkyo Bell
+p380
+aVJukai Messenger
+p381
+aVJunk Diver
+p382
+aVJunktroller
+p383
+aVJund Charm
+p384
+aVJund Panorama
+p385
+aVJungle Shrine
+p386
+aVJunk Golem
+p387
+aVJudge's Familiar
+p388
+aVJuniper Order Ranger
+p389
+aVJuggernaut
+p390
+aVJump
+p391
+aVJuniper Order Druid
+p392
+aVJustice
+p393
+aVJuxtapose
+p394
+aVJuggernaut
+p395
+aVJund Charm
+p396
+aVJund Battlemage
+p397
+aVJungle Shrine
+p398
+aVJungle Weaver
+p399
+aVJund Panorama
+p400
+aVJuggernaut
+p401
+aVJuggernaut
+p402
+aVJuvenile Gloomwidow
+p403
+aVJudge Unworthy
+p404
+aVJust Fate
+p405
+aVJuxtapose
+p406
+aVJuzám Djinn
+p407
+aVJuxtapose
+p408
+aVJuntu Stakes
+p409
+aVJund Hackblade
+p410
+aVJund Sojourners
+p411
+aVJuxtapose
+p412
+aVJustice
+p413
+aVJuggernaut
+p414
+aVJungle Hollow
+p415
+aVJungle Patrol
+p416
+aVJungle Wurm
+p417
+aVJungle Troll
+p418
+aVJuggernaut
+p419
+aVJump
+p420
+aVJuju Bubble
+p421
+aVJungle Basin
+p422
+aVJuggernaut
+p423
+aVJunún Efreet
+p424
+aVJust Fate
+p425
+aVJuxtapose
+p426
+aVJudge of Currents
+p427
+aVJuzám Djinn
+p428
+aVJunún Efreet
+p429
+aVJuggernaut
+p430
+aVJungle Lion
+p431
+asS'toughs'
+p432
+(lp433
+S'N/A'
+p434
+ag434
+aV5
+p435
+ag434
+ag434
+aV1
+p436
+aV4
+p437
+ag434
+ag434
+aV2
+p438
+ag437
+ag436
+ag435
+ag434
+ag434
+ag438
+ag434
+ag435
+aV3
+p439
+ag434
+ag436
+ag434
+ag434
+ag434
+ag434
+ag434
+ag434
+ag438
+ag439
+ag434
+ag434
+ag436
+ag434
+ag434
+ag434
+ag434
+ag437
+ag434
+aV8
+p440
+ag434
+ag434
+ag434
+ag438
+ag434
+ag434
+ag434
+ag437
+ag434
+ag434
+ag439
+ag438
+ag434
+ag434
+ag434
+ag434
+ag437
+ag439
+ag439
+ag434
+ag434
+ag434
+ag434
+ag434
+ag440
+ag434
+ag434
+ag436
+ag435
+ag436
+ag434
+ag436
+asS'artists'
+p441
+(lp442
+VDan Frazier
+p443
+aVMark Poole
+p444
+aVChristopher Rush
+p445
+aVMark Poole
+p446
+aVWayne Reynolds
+p447
+aVDouglas Shuler
+p448
+aVGreg Hildebrandt
+p449
+aVEric Deschamps
+p450
+aVArnie Swekel
+p451
+aVTom Kyffin
+p452
+aS''
+p453
+aVEdward P. Beard, Jr.
+p454
+aVNicola Leonard
+p455
+aVDan Frazier
+p456
+aVMark Poole
+p457
+aVDouglas Shuler
+p458
+aVMartina Pilcerova
+p459
+aVShishizaru
+p460
+aVArnie Swekel
+p461
+aVKensuke Okabayashi
+p462
+aVTerese Nielsen
+p463
+aVEric Peterson
+p464
+aVChippy
+p465
+aVBrandon Kitkouski
+p466
+aVJaime Jones
+p467
+aVWayne Reynolds
+p468
+aVBrian Snoddy
+p469
+aVJack Wang
+p470
+aVGreg Hildebrandt
+p471
+aVDan Frazier
+p472
+aVMark Poole
+p473
+aVJeff A. Menges
+p474
+aVRuth Thompson
+p475
+aVJustin Hampton
+p476
+aVMark Hyzer
+p477
+aVBrandon Kitkouski
+p478
+aVVance Kovacs
+p479
+aVWayne Reynolds
+p480
+aVTrevor Hairsine
+p481
+aVJaime Jones
+p482
+aVKev Walker
+p483
+aVArnie Swekel
+p484
+aVThomas M. Baxa
+p485
+aVGreg Staples
+p486
+aVBrad Williams
+p487
+aVJustin Hampton
+p488
+aVMark Tedin
+p489
+aVJustin Hampton
+p490
+aVMark Brill
+p491
+aVDan Dos Santos
+p492
+aVJohn Avon
+p493
+aVJustin Hampton
+p494
+aVRuth Thompson
+p495
+aVArnie Swekel
+p496
+aVEytan Zana
+p497
+aVMark Poole
+p498
+aVTom Kyffin
+p499
+aVJohn Bolton
+p500
+aVDan Frazier
+p501
+aVMark Poole
+p502
+aVDonato Giancola
+p503
+aVJohn Avon
+p504
+aVDan Frazier
+p505
+aVChristopher Rush
+p506
+aVBradley Williams
+p507
+aVJustin Hampton
+p508
+aVDan Scott
+p509
+aVMark Tedin
+p510
+aVChristopher Rush
+p511
+aVMark Hyzer
+p512
+aVJanine Johnston
+p513
+asS'powers'
+p514
+(lp515
+g434
+ag434
+ag436
+ag434
+ag434
+ag436
+ag439
+ag434
+ag434
+ag439
+ag437
+ag438
+aV6
+p516
+ag434
+ag434
+ag436
+ag434
+ag435
+ag438
+ag434
+ag436
+ag434
+ag434
+ag434
+ag434
+ag434
+ag434
+ag436
+ag439
+ag434
+ag434
+ag436
+ag434
+ag434
+ag434
+ag434
+ag436
+ag434
+ag435
+ag434
+ag434
+ag434
+ag438
+ag434
+ag434
+ag434
+aV7
+p517
+ag434
+ag434
+ag439
+ag438
+ag434
+ag434
+ag434
+ag434
+ag439
+ag438
+ag438
+ag434
+ag434
+ag434
+ag434
+ag434
+ag440
+ag434
+ag434
+ag436
+ag435
+ag436
+ag434
+ag438
+asS'types'
+p518
+(lp519
+VArtifact Creature - Juggernaut
+p520
+aVInstant
+p521
+aVCreature - Efreet
+p522
+aVInstant
+p523
+aVLand
+p524
+aVCreature - Human Knight
+p525
+aVCreature - Human Knight
+p526
+aVInstant
+p527
+aVArtifact Creature - Juggernaut
+p528
+aVCreature - Wurm
+p529
+aVLegendary Creature - Dragon Spirit
+p530
+aVCreature - Plant Wall
+p531
+aVCreature - Cat
+p532
+aVArtifact Creature - Juggernaut
+p533
+aVInstant
+p534
+aVCreature - Human Knight
+p535
+aVPlane - Alara
+p536
+aVLegendary Creature - Dragon Spirit
+p537
+aVLegendary Creature- Human Wizard
+p538
+aVArtifact
+p539
+aVCreature - Human Monk
+p540
+aVArtifact Creature - Bird
+p541
+aVArtifact Creature - Golem
+p542
+aVInstant
+p543
+aVLand
+p544
+aVLand
+p545
+aVArtifact Creature - Golem
+p546
+aVCreature - Bird
+p547
+aVCreature - Human Knight
+p548
+aVArtifact Creature - Juggernaut
+p549
+aVInstant
+p550
+aVCreature - Human Cleric Druid
+p551
+aVEnchantment
+p552
+aVSorcery
+p553
+aVArtifact Creature - Juggernaut
+p554
+aVInstant
+p555
+aVCreature - Human Shaman
+p556
+aVLand
+p557
+aVCreature - Spider
+p558
+aVLand
+p559
+aVArtifact Creature - Juggernaut
+p560
+aVArtifact Creature - Juggernaut
+p561
+aVCreature - Spider
+p562
+aVInstant
+p563
+aVInstant
+p564
+aVSorcery
+p565
+aVCreature - Djinn
+p566
+aVSorcery
+p567
+aVArtifact
+p568
+aVCreature - Goblin Berserker
+p569
+aVCreature - Viashino Shaman
+p570
+aVSorcery
+p571
+aVEnchantment
+p572
+aVArtifact Creature - Juggernaut
+p573
+aVLand
+p574
+aVCreature - Human Soldier
+p575
+aVCreature - Wurm
+p576
+aVCreature - Troll
+p577
+aVArtifact Creature - Juggernaut
+p578
+aVInstant
+p579
+aVArtifact
+p580
+aVLand
+p581
+aVArtifact Creature - Juggernaut
+p582
+aVCreature - Efreet
+p583
+aVInstant
+p584
+aVSorcery
+p585
+aVCreature - Merfolk Wizard
+p586
+aVCreature - Djinn
+p587
+aVCreature - Efreet
+p588
+aVArtifact Creature - Juggernaut
+p589
+aVCreature - Cat
+p590
+asS'numbers'
+p591
+(lp592
+V145
+p593
+aV146
+p594
+aV54
+p595
+aV70
+p596
+aV34
+p597
+aV94
+p598
+aV21
+p599
+aV59
+p600
+aV328
+p601
+aV217
+p602
+ag453
+aV106
+p603
+aV125
+p604
+ag440
+aV169
+p605
+aV20
+p606
+aV14
+p607
+aV217
+p608
+aV70
+p609
+aV258
+p610
+aV218
+p611
+aV132
+p612
+aV264
+p613
+aV195
+p614
+aV298
+p615
+aV299
+p616
+aV300
+p617
+aV218
+p618
+aV130
+p619
+aV146
+p620
+aV147
+p621
+aV123
+p622
+aV305
+p623
+aV77
+p624
+aV52
+p625
+aV175
+p626
+aV106
+p627
+aV226
+p628
+aV134
+p629
+aV225
+p630
+aV220
+p631
+aV125
+p632
+aV121
+p633
+aV9
+p634
+aV21
+p635
+aV41
+p636
+aV74
+p637
+aV85
+p638
+aV304
+p639
+aV138
+p640
+aV116
+p641
+aV72
+p642
+aV185
+p643
+aV109
+p644
+aV235
+p645
+aV107
+p646
+aV108
+p647
+aV216
+p648
+aV188
+p649
+aV189
+p650
+ag516
+aV114
+p651
+aV209
+p652
+aV88
+p653
+aV16
+p654
+aV242
+p655
+aV22
+p656
+ag440
+aV68
+p657
+aV209
+p658
+aV47
+p659
+as.

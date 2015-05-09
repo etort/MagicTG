@@ -1,0 +1,280 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVCommon
+p4
+aVCommon
+p5
+aVCommon
+p6
+aVRare
+p7
+aVRare
+p8
+aVUncommon
+p9
+aVRare
+p10
+aVRare
+p11
+aVMythic Rare
+p12
+aVUncommon
+p13
+aVCommon
+p14
+asS'editns'
+p15
+(lp16
+VMagic: The Gathering-Commander
+p17
+aVMagic 2013
+p18
+aVAntiquities
+p19
+aVRevised Edition
+p20
+aVUrza's Destiny
+p21
+aVOdyssey
+p22
+aVMirrodin
+p23
+aVUrza's Saga
+p24
+aVInvasion
+p25
+aVJourney into Nyx
+p26
+aVFifth Edition
+p27
+aVMasters Edition IV
+p28
+asS'ids'
+p29
+(lp30
+V247522
+p31
+aV265723
+p32
+aV1058
+p33
+aV1280
+p34
+aV15191
+p35
+aV31834
+p36
+aV46106
+p37
+aV5596
+p38
+aV22964
+p39
+aV380374
+p40
+aV4030
+p41
+aV202463
+p42
+asS'texts'
+p43
+(lp44
+V{B}, Sacrifice a creature: Destroy target nonblack creature.
+p45
+aVFirst strike <i>(This creature deals combat damage before creatures without first strike.)</i><br>When Attended Knight enters the battlefield, put a 1/1 white Soldier creature token onto the battlefield.
+p46
+aVSacrifice an artifact: Atog gets +2/+2 until end of turn.
+p47
+aVFlying<br>{T}: Add one mana of any color to your mana pool.
+p48
+aV{B}, Sacrifice a creature: Destroy target nonblack creature.
+p49
+aVSacrifice a land: Thaumatog gets +1/+1 until end of turn.<br>Sacrifice an enchantment: Thaumatog gets +1/+1 until end of turn.
+p50
+aV{1}{G}, {T}: Counter target activated ability from an artifact source. <i>(Mana abilities can't be targeted.)</i>
+p51
+aVReturn Attunement to its owner's hand: Draw three cards, then discard four cards.
+p52
+aV{X}, {T}: Choose one- Prevent the next X damage that would be dealt to target creature this turn; or you gain X life. Spend only white mana this way.
+p53
+aVIndestructible<br>As long as your devotion to white and black is less than seven, Athreos isn't a creature.<br>Whenever another creature you own dies, return it to your hand unless target opponent pays 3 life.
+p54
+aV{1}{R}{R}: Brothers of Fire deals 1 damage to target creature or player and 1 damage to you.
+p55
+aVEach player chooses a number of lands he or she controls equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.
+p56
+asS'costs'
+p57
+(lp58
+V{1}{B}{B}
+p59
+aV{3}{W}
+p60
+aV{1}{R}
+p61
+aV{1}{R}
+p62
+aV{1}{B}{B}
+p63
+aV{W}{U}{B}{R}{G}
+p64
+aV{1}{R}
+p65
+aV{2}{U}
+p66
+aV{3}{W}{W}
+p67
+aV{2}{B}
+p68
+aV{1}{R}
+p69
+aV{1}{R}
+p70
+asS'names'
+p71
+(lp72
+VAttrition
+p73
+aVAttended Knight
+p74
+aVAtog
+p75
+aVAtog
+p76
+aVAttrition
+p77
+aVAtogatog
+p78
+aVAtog
+p79
+aVAttunement
+p80
+aVAtalya, Samite Master
+p81
+aVAthreos, God of Passage
+p82
+aVAtog
+p83
+aVAtog
+p84
+asS'toughs'
+p85
+(lp86
+S'N/A'
+p87
+aV2
+p88
+aV6
+p89
+ag88
+ag87
+aV3
+p90
+ag88
+ag87
+ag90
+ag87
+aV1
+p91
+aV5
+p92
+asS'artists'
+p93
+(lp94
+VScott M. Fischer
+p95
+aVSeb McKinnon
+p96
+aVJesper Myrfors
+p97
+aVJesper Myrfors
+p98
+aVScott M. Fischer
+p99
+aVRon Spears
+p100
+aVPuddnhead
+p101
+aVRandy Gallegos
+p102
+aVRebecca Guay
+p103
+aVRyan Barger
+p104
+aVJesper Myrfors
+p105
+aVJesper Myrfors
+p106
+asS'powers'
+p107
+(lp108
+g87
+ag88
+ag91
+ag88
+ag87
+ag90
+ag88
+ag87
+ag88
+ag87
+ag91
+ag90
+asS'types'
+p109
+(lp110
+VEnchantment
+p111
+aVCreature - Human Knight
+p112
+aVCreature - Atog
+p113
+aVCreature - Atog
+p114
+aVEnchantment
+p115
+aVLegendary Creature - Atog
+p116
+aVCreature - Atog
+p117
+aVEnchantment
+p118
+aVLegendary Creature - Human Cleric
+p119
+aVLegendary Enchantment Creature - God
+p120
+aVCreature - Atog
+p121
+aVCreature - Atog
+p122
+asS'numbers'
+p123
+(lp124
+V72
+p125
+ag92
+aV42
+p126
+aV60
+p127
+aV52
+p128
+aV286
+p129
+aV86
+p130
+aV61
+p131
+aV4
+p132
+aV146
+p133
+aV120
+p134
+aV109
+p135
+as.

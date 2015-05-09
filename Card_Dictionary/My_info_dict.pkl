@@ -1,0 +1,1588 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVUncommon
+p4
+aVRare
+p5
+aVUncommon
+p6
+aVRare
+p7
+aVRare
+p8
+aVUncommon
+p9
+aVUncommon
+p10
+aVCommon
+p11
+aVUncommon
+p12
+aVCommon
+p13
+aVRare
+p14
+aVRare
+p15
+aVRare
+p16
+aVMythic Rare
+p17
+aVRare
+p18
+aVRare
+p19
+aVRare
+p20
+aVRare
+p21
+aVRare
+p22
+aVRare
+p23
+aVRare
+p24
+aVCommon
+p25
+aVRare
+p26
+aVRare
+p27
+aVCommon
+p28
+aVCommon
+p29
+aVRare
+p30
+aVUncommon
+p31
+aVRare
+p32
+aVCommon
+p33
+aVRare
+p34
+aVUncommon
+p35
+aVRare
+p36
+aVCommon
+p37
+aVCommon
+p38
+aVUncommon
+p39
+aVUncommon
+p40
+aVCommon
+p41
+aVCommon
+p42
+aVUncommon
+p43
+aVRare
+p44
+aVUncommon
+p45
+aVUncommon
+p46
+aVRare
+p47
+aVCommon
+p48
+aVCommon
+p49
+aVRare
+p50
+aVRare
+p51
+aVRare
+p52
+aVUncommon
+p53
+aVCommon
+p54
+aVRare
+p55
+aVCommon
+p56
+aVCommon
+p57
+aVRare
+p58
+aVUncommon
+p59
+aVUncommon
+p60
+aVCommon
+p61
+aVUncommon
+p62
+aVCommon
+p63
+aVRare
+p64
+aVCommon
+p65
+aVCommon
+p66
+aVCommon
+p67
+aVCommon
+p68
+aVUncommon
+p69
+aVCommon
+p70
+aVUncommon
+p71
+aVCommon
+p72
+aVUncommon
+p73
+aVRare
+p74
+aVRare
+p75
+aVUncommon
+p76
+aVSpecial
+p77
+aVSpecial
+p78
+aVUncommon
+p79
+aVUncommon
+p80
+asS'editns'
+p81
+(lp82
+VPlanar Chaos
+p83
+aVAlliances
+p84
+aVScars of Mirrodin
+p85
+aVScars of Mirrodin
+p86
+aVScars of Mirrodin
+p87
+aVScars of Mirrodin
+p88
+aVScars of Mirrodin
+p89
+aVVintage Masters
+p90
+aVModern Masters
+p91
+aVModern Masters
+p92
+aVMirrodin Besieged
+p93
+aVMirrodin Besieged
+p94
+aVMirrodin Besieged
+p95
+aVApocalypse
+p96
+aVFrom the Vault: Exiled
+p97
+aVPlanechase 2012 Edition
+p98
+aVOnslaught
+p99
+aVChampions of Kamigawa
+p100
+aVChampions of Kamigawa
+p101
+aVChampions of Kamigawa
+p102
+aVChampions of Kamigawa
+p103
+aVChampions of Kamigawa
+p104
+aVChampions of Kamigawa
+p105
+aVCommander 2013 Edition
+p106
+aVCommander 2013 Edition
+p107
+aVOdyssey
+p108
+aVOdyssey
+p109
+aVOdyssey
+p110
+aVOdyssey
+p111
+aVOdyssey
+p112
+aVTime Spiral
+p113
+aVGatecrash
+p114
+aVColdsnap
+p115
+aVIce Age
+p116
+aVIce Age
+p117
+aVTorment
+p118
+aVClassic Sixth Edition
+p119
+aVClassic Sixth Edition
+p120
+aVMirrodin
+p121
+aVMirrodin
+p122
+aVMirrodin
+p123
+aVMirrodin
+p124
+aVMirrodin
+p125
+aVMirrodin
+p126
+aVShards of Alara
+p127
+aVDarksteel
+p128
+aVDarksteel
+p129
+aVDarksteel
+p130
+aVDarksteel
+p131
+aVShadowmoor
+p132
+aVNew Phyrexia
+p133
+aVNew Phyrexia
+p134
+aVNew Phyrexia
+p135
+aVFifth Dawn
+p136
+aVFifth Dawn
+p137
+aVFifth Dawn
+p138
+aVFuture Sight
+p139
+aVPortal Second Age
+p140
+aVPlanechase
+p141
+aVMasters Edition
+p142
+aVWorldwake
+p143
+aVAlara Reborn
+p144
+aVArchenemy
+p145
+aVArchenemy
+p146
+aVArchenemy
+p147
+aVArchenemy
+p148
+aVKhans of Tarkir
+p149
+aVKhans of Tarkir
+p150
+aVMirage
+p151
+aVVisions
+p152
+aVMasters Edition IV
+p153
+aVMagic 2011
+p154
+aVHomelands
+p155
+aVPortal Three Kingdoms
+p156
+aVTime Spiral "Timeshifted"
+p157
+aVTime Spiral "Timeshifted"
+p158
+aVPortal
+p159
+aVDark Ascension
+p160
+asS'ids'
+p161
+(lp162
+V124033
+p163
+aV3050
+p164
+aV209717
+p165
+aV220364
+p166
+aV215069
+p167
+aV215114
+p168
+aV209712
+p169
+aV383025
+p170
+aV370436
+p171
+aV370520
+p172
+aV213734
+p173
+aV213757
+p174
+aV214067
+p175
+aV26421
+p176
+aV194976
+p177
+aV271161
+p178
+aV34684
+p179
+aV78608
+p180
+aV78681
+p181
+aV78976
+p182
+aV78986
+p183
+aV79112
+p184
+aV79188
+p185
+aV376421
+p186
+aV376422
+p187
+aV29697
+p188
+aV29801
+p189
+aV29802
+p190
+aV31766
+p191
+aV31772
+p192
+aV111058
+p193
+aV366401
+p194
+aV121141
+p195
+aV2522
+p196
+aV2523
+p197
+aV30607
+p198
+aV15367
+p199
+aV15435
+p200
+aV46013
+p201
+aV46015
+p202
+aV46126
+p203
+aV47450
+p204
+aV48925
+p205
+aV49046
+p206
+aV174975
+p207
+aV45428
+p208
+aV46112
+p209
+aV48049
+p210
+aV50527
+p211
+aV146746
+p212
+aV217995
+p213
+aV218039
+p214
+aV194275
+p215
+aV50176
+p216
+aV50179
+p217
+aV51136
+p218
+aV126156
+p219
+aV6542
+p220
+aV205296
+p221
+aV159831
+p222
+aV194699
+p223
+aV179548
+p224
+aV212611
+p225
+aV212661
+p226
+aV212620
+p227
+aV212607
+p228
+aV386614
+p229
+aV386615
+p230
+aV3351
+p231
+aV3645
+p232
+aV202518
+p233
+aV204978
+p234
+aV2952
+p235
+aV10565
+p236
+aV108828
+p237
+aV109693
+p238
+aV4268
+p239
+aV262678
+p240
+asS'texts'
+p241
+(lp242
+VAt the beginning of your upkeep, put a spore counter on Mycologist.<br>Remove three spore counters from Mycologist: Put a 1/1 green Saproling creature token onto the battlefield.<br>Sacrifice a Saproling: You gain 2 life.
+p243
+aV{B}: Phantasmal Fiend gets +1/-1 until end of turn.<br>{1}{U}: Switch Phantasmal Fiend's power and toughness until end of turn.
+p244
+aVWhenever you cast an artifact spell, you may pay {1}. If you do, put a 1/1 colorless Myr artifact creature token onto the battlefield.
+p245
+aVNecrogen Censer enters the battlefield with two charge counters on it.<br>{T}, Remove a charge counter from Necrogen Censer: Target player loses 2 life.
+p246
+aVFlying<br>When Necrogen Scudder enters the battlefield, you lose 3 life.
+p247
+aVInfect <i>(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</i><br>When Necropede dies, you may put a -1/-1 counter on target creature.
+p248
+aVAs long as Necrotic Ooze is on the battlefield, it has all activated abilities of all creature cards in all graveyards.
+p249
+aVDestroy all green creatures.
+p250
+aVAffinity for artifacts <i>(This spell costs {1} less to cast for each artifact you control.)</i>
+p251
+aVWhen Myr Retriever dies, return another target artifact card from your graveyard to your hand.
+p252
+aV{T}: Put a 1/1 colorless Myr artifact creature token onto the battlefield.<br>{T}, Tap five untapped Myr you control: Search your library for a Myr creature card, put it onto the battlefield, then shuffle your library.
+p253
+aVImprint- {T}: Exile target artifact card from a graveyard.<br>Myr Welder has all activated abilities of all cards exiled with it.
+p254
+aVWhenever a source deals damage to Nested Ghoul, put a 2/2 black Zombie creature token onto the battlefield.
+p255
+aVFlash <i>(You may cast this spell any time you could cast an instant.)</i><br>When Mystic Snake enters the battlefield, counter target spell.
+p256
+aVSearch your library for an instant or sorcery card and reveal that card. Shuffle your library, then put the card on top of it.
+p257
+aVWhen Nest Invader enters the battlefield, put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."
+p258
+aVEnchant creature<br>Enchanted creature gets +8/+8 and has trample.
+p259
+aVAt the beginning of each opponent's upkeep, that player loses 1 life for each card fewer than three in his or her hand.
+p260
+aVShroud <i>(This permanent can't be the target of spells or abilities.)</i>
+p261
+aVYou gain 1 life for each land you control.
+p262
+aVOther Snake creatures you control get +1/+0.<br>Whenever a Warrior you control deals combat damage to a creature, destroy that creature at end of combat.
+p263
+aV{T}: Add {1} to your mana pool.<br>{T}: Add {W} or {U} to your mana pool. Cloudcrest Lake doesn't untap during your next untap step.
+p264
+aVWhenever you cast a Spirit or Arcane spell, target creature gains flying until end of turn.
+p265
+aVWhen Myr Battlesphere enters the battlefield, put four 1/1 colorless Myr artifact creature tokens onto the battlefield.<br>Whenever Myr Battlesphere attacks, you may tap X untapped Myr you control. If you do, Myr Battlesphere gets +X/+0 until end of turn and deals X damage to defending player.
+p266
+aVWhen Mystic Barrier enters the battlefield or at the beginning of your upkeep, choose left or right.<br>Each player may attack only the opponent seated nearest him or her in the last chosen direction and planeswalkers controlled by that player.
+p267
+aVThreshold- Mystic Visionary has flying as long as seven or more cards are in your graveyard.
+p268
+aVProtection from black and from red<br>Threshold- As long as seven or more cards are in your graveyard, Mystic Crusader gets +1/+1 and has flying.
+p269
+aVFirst strike<br>Discard a card: Resilient Wanderer gains protection from the color of your choice until end of turn.
+p270
+aVDiscard any number of cards. Creatures you control get +0/+1 until end of turn for each card discarded this way.
+p271
+aVFlying<br>Your maximum hand size is reduced by two.
+p272
+aVSearch your library for an instant card or a card with flash, reveal it, and put it into your hand. Then shuffle your library.<br>Flashback {5}{B} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
+p273
+aVDestroy target artifact or enchantment.
+p274
+aVDestroy target artifact or enchantment.<br>Draw a card at the beginning of the next turn's upkeep.
+p275
+aVEnchant land you control<br>Cumulative upkeep {1}{U} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>Enchanted land has "{T}: Target creature gets +2/+2 until end of turn."
+p276
+aVCumulative upkeep {1} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>Whenever an opponent casts a noncreature spell, you may draw a card unless that player pays {4}.
+p277
+aVFlying<br>Threshold- As long as seven or more cards are in your graveyard, Mystic Familiar gets +1/+1 and has protection from black.
+p278
+aVCounter target spell. If an artifact or creature spell is countered this way, put that card onto the battlefield under your control instead of into its owner's graveyard.
+p279
+aVCharcoal Diamond enters the battlefield tapped.<br>{T}: Add {B} to your mana pool.
+p280
+aVMyr Adapter gets +1/+1 for each Equipment attached to it.
+p281
+aVAffinity for artifacts <i>(This spell costs {1} less to cast for each artifact you control.)</i>
+p282
+aVWhen Myr Retriever dies, return another target artifact card from your graveyard to your hand.
+p283
+aV{6}, {T}, Sacrifice Myr Incubator: Search your library for any number of artifact cards, exile them, then put that many 1/1 colorless Myr artifact creature tokens onto the battlefield. Then shuffle your library.
+p284
+aVFlash<br>Protection from artifacts
+p285
+aVEquipped creature gets +2/+2.<br>Whenever a creature dealt damage by equipped creature this turn dies, return that card to the battlefield under your control. Attach Scythe of the Wretched to that creature.<br>Equip {4}
+p286
+aV+1: Creatures you control get +1/+1 and gain haste until end of turn.<br>-2: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.<br>-6: Put five 4/4 red Dragon creature tokens with flying onto the battlefield.
+p287
+aV{T}: Target land becomes an artifact in addition to its other types until end of turn.
+p288
+aVWhen Myr Moonvessel dies, add {1} to your mana pool.
+p289
+aVMyr Matrix is indestructible. <i>("Destroy" effects and lethal damage don't destroy it.)</i><br>Myr creatures get +1/+1.<br>{5}: Put a 1/1 colorless Myr artifact creature token onto the battlefield.
+p290
+aVAll permanents are artifacts in addition to their other types.<br>All cards that aren't on the battlefield, spells, and permanents are colorless.<br>Players may spend mana as though it were mana of any color.
+p291
+aVIf you tap a permanent for mana, it produces twice as much of that mana instead.
+p292
+aVSpend only mana produced by creatures to cast Myr Superion.
+p293
+aVLiving weapon <i>(When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)</i><br>Equipped creature gets +3/+1 and has haste.<br>Equip {2}
+p294
+aV<i>({WP} can be paid with either {W} or 2 life.)</i><br>Creatures can't attack you or a planeswalker you control unless their controller pays {WP} for each of those creatures.
+p295
+aV{3}: Switch Myr Quadropod's power and toughness until end of turn.
+p296
+aVAt the beginning of your upkeep, if Myr Servitor is on the battlefield, each player returns all cards named Myr Servitor from his or her graveyard to the battlefield.
+p297
+aVAffinity for artifacts <i>(This spell costs {1} less to cast for each artifact you control.)</i><br>Artifact creature spells you cast have affinity for artifacts. <i>(They cost {1} less to cast for each artifact you control.)</i>
+p298
+aVChroma- Reveal any number of cards in your hand. You gain 2 life for each green mana symbol in those cards' mana costs.
+p299
+aVLook at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.
+p300
+aVAffinity for artifacts <i>(This spell costs {1} less to cast for each artifact you control.)</i>
+p301
+aVCumulative upkeep {1} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>Whenever an opponent casts a noncreature spell, you may draw a card unless that player pays {4}.
+p302
+aVIf a white creature is attacking, you may pay {B}{B} rather than pay Nemesis Trap's mana cost.<br>Exile target attacking creature. Put a token that's a copy of that creature onto the battlefield. Exile it at the beginning of the next end step.
+p303
+aVAs long as you control another multicolored permanent, Naya Hushblade gets +1/+1 and has shroud. <i>(It can't be the target of spells or abilities.)</i>
+p304
+aVWhen you set this scheme in motion, gain control of all nonland permanents your opponents control until end of turn. Untap those permanents. They gain haste until end of turn. Each of them attacks its owner this turn if able.
+p305
+aVWhen you set this scheme in motion, you may pay {X}. If you do, you gain X life and draw X cards.
+p306
+aV<i>(An ongoing scheme remains face up until it's abandoned.)</i><br>At the beginning of your end step, you may put target creature card from an opponent's graveyard onto the battlefield under your control.<br>When a creature put onto the battlefield with this scheme dies, abandon this scheme.
+p307
+aVWhen you set this scheme in motion, each opponent reveals his or her hand. You may choose a noncreature, nonland card revealed this way and cast it without paying its mana cost.
+p308
+aVMystic of the Hidden Way can't be blocked.<br>Morph {2}{U} <i>(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p309
+aVFirst strike, hexproof<br>Whenever Narset, Enlightened Master attacks, exile the top four cards of your library. Until end of turn, you may cast noncreature cards exiled with Narset this turn without paying their mana costs.
+p310
+aVBlack creatures get +2/+0 until end of turn.
+p311
+aVFlying<br>{U}{U}: Rainbow Efreet phases out. <i>(While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)</i>
+p312
+aVWhen Onulet dies, you gain 2 life.
+p313
+aVFlying<br>{1}{B}: Nightwing Shade gets +1/+1 until end of turn.
+p314
+aVAll creatures lose flying and islandwalk.
+p315
+aVB
+p316
+aVProtection from black<br>Threshold- As long as seven or more cards are in your graveyard, Mystic Enforcer gets +3/+3 and has flying.
+p317
+aV{T}, Exile Feldon's Cane: Shuffle your graveyard into your library.
+p318
+aVFlying<br>When Owl Familiar enters the battlefield, draw a card, then discard a card.
+p319
+aVFlash <i>(You may cast this spell any time you could cast an instant.)</i><br>Flying
+p320
+asS'costs'
+p321
+(lp322
+V{1}{W}
+p323
+aV{2}
+p324
+aV{3}
+p325
+aV{0}
+p326
+aV{7}
+p327
+aV{3}
+p328
+aV{3}
+p329
+aV{0}
+p330
+aV{7}
+p331
+aV{2}
+p332
+aV{2}
+p333
+aV{5}
+p334
+aV{3}
+p335
+aV{1}{G}{U}{U}
+p336
+aV{U}
+p337
+aV{3}{G}{G}
+p338
+aV{4}{G}{G}{G}
+p339
+aV{7}{U}{U}{U}
+p340
+aV{5}{W}{W}{W}
+p341
+aV{6}{G}{G}{G}
+p342
+aV{7}{R}{R}{R}
+p343
+aV{5}{B}{B}{B}
+p344
+aV{2}{U}{U}
+p345
+aV{7}
+p346
+aV{4}{W}
+p347
+aV{1}{W}
+p348
+aV{3}{W}
+p349
+aV{1}{W}{W}
+p350
+aV{W}
+p351
+aV{2}{G}{W}
+p352
+aV{3}{U}
+p353
+aV{R}
+p354
+aV{3}{G}
+p355
+aV{U}
+p356
+aV{U}
+p357
+aV{1}{W}
+p358
+aV{U}
+p359
+aV{2}
+p360
+aV{3}
+p361
+aV{7}
+p362
+aV{2}
+p363
+aV{6}
+p364
+aV{1}
+p365
+aV{5}
+p366
+aV{B}
+p367
+aV{3}
+p368
+aV{1}
+p369
+aV{5}
+p370
+aV{6}
+p371
+aS'0'
+p372
+aV{GP}
+p373
+aV{2}{G}
+p374
+aV{2}
+p375
+aV{4}
+p376
+aV{1}
+p377
+aV{11}
+p378
+aV{U}
+p379
+aV{1}{U}{U}
+p380
+aV{7}
+p381
+aV{U}
+p382
+aV{3}{R}{R}{R}
+p383
+aV{1}{G}{G}{W}
+p384
+ag372
+ag372
+ag372
+ag372
+ag372
+aV{4}{U}
+p385
+aV{U}
+p386
+aV{1}{U}
+p387
+aV{2}{U}{U}
+p388
+ag372
+aV{2}{U}{U}
+p389
+aV{1}{U}{U}
+p390
+aV{2}{G}{W}
+p391
+aV{1}{G}{U}{U}
+p392
+aV{1}{U}{U}
+p393
+aV{3}{U}
+p394
+asS'names'
+p395
+(lp396
+VMycologist
+p397
+aVMystic Compass
+p398
+aVMyr Battlesphere
+p399
+aVMyr Galvanizer
+p400
+aVMyr Propagator
+p401
+aVMyr Reservoir
+p402
+aVMyrsmith
+p403
+aVMystic Zealot
+p404
+aVMyr Enforcer
+p405
+aVMyr Retriever
+p406
+aVMyr Sire
+p407
+aVMyr Turbine
+p408
+aVMyr Welder
+p409
+aVMystic Snake
+p410
+aVMystical Tutor
+p411
+aVMycoloth
+p412
+aVMythic Proportions
+p413
+aVMyojin of Seeing Winds
+p414
+aVMyojin of Cleansing Fire
+p415
+aVMyojin of Life's Web
+p416
+aVMyojin of Infinite Rage
+p417
+aVMyojin of Night's Reach
+p418
+aVMystic Restraints
+p419
+aVMyr Battlesphere
+p420
+aVMystic Barrier
+p421
+aVMystic Visionary
+p422
+aVMystic Zealot
+p423
+aVMystic Crusader
+p424
+aVMystic Penitent
+p425
+aVMystic Enforcer
+p426
+aVMystical Teachings
+p427
+aVMystic Genesis
+p428
+aVMystic Melting
+p429
+aVMystic Might
+p430
+aVMystic Remora
+p431
+aVMystic Familiar
+p432
+aVMystical Tutor
+p433
+aVMystic Compass
+p434
+aVMyr Adapter
+p435
+aVMyr Enforcer
+p436
+aVMyr Retriever
+p437
+aVMyr Incubator
+p438
+aVMyr Mindservant
+p439
+aVMyr Prototype
+p440
+aVMycoloth
+p441
+aVMyr Landshaper
+p442
+aVMyr Moonvessel
+p443
+aVMyr Matrix
+p444
+aVMycosynth Lattice
+p445
+aVMystic Gate
+p446
+aVMycosynth Fiend
+p447
+aVMycosynth Wellspring
+p448
+aVMyr Superion
+p449
+aVMyr Quadropod
+p450
+aVMyr Servitor
+p451
+aVMycosynth Golem
+p452
+aVMystic Speculation
+p453
+aVMystic Denial
+p454
+aVMyr Enforcer
+p455
+aVMystic Remora
+p456
+aVMysteries of the Deep
+p457
+aVMycoid Shepherd
+p458
+aVMy Crushing Masterstroke
+p459
+aVMy Genius Knows No Bounds
+p460
+aVMy Undead Horde Awakens
+p461
+aVMy Wish Is Your Command
+p462
+aVMystic Monastery
+p463
+aVMystic of the Hidden Way
+p464
+aVMystical Tutor
+p465
+aVMystic Veil
+p466
+aVMystic Decree
+p467
+aVMystifying Maze
+p468
+aVMystic Decree
+p469
+aVMystic Denial
+p470
+aVMystic Enforcer
+p471
+aVMystic Snake
+p472
+aVMystic Denial
+p473
+aVMystic Retrieval
+p474
+asS'toughs'
+p475
+(lp476
+V2
+p477
+aS'N/A'
+p478
+ag478
+ag478
+ag478
+ag478
+aV1
+p479
+aV3
+p480
+ag478
+ag478
+ag478
+ag478
+ag478
+aV4
+p481
+ag478
+ag479
+ag478
+ag480
+aV6
+p482
+aV8
+p483
+ag481
+ag477
+ag478
+ag478
+ag478
+ag479
+ag481
+ag479
+ag479
+ag479
+ag478
+ag478
+ag478
+ag478
+ag478
+ag477
+ag478
+ag478
+ag478
+ag478
+ag478
+ag478
+ag478
+ag478
+ag477
+ag478
+ag478
+ag478
+ag478
+ag478
+ag481
+ag478
+ag478
+ag478
+ag478
+ag478
+ag478
+ag478
+ag478
+ag478
+ag478
+ag477
+ag478
+ag478
+ag478
+ag478
+ag478
+ag477
+ag478
+ag478
+ag478
+ag478
+ag478
+ag478
+ag480
+aV7
+p484
+ag478
+ag478
+asS'artists'
+p485
+(lp486
+VKev Walker
+p487
+aVAmy Weber
+p488
+aVFranz Vohwinkel
+p489
+aVGreg Staples
+p490
+aVRyan Pancoast
+p491
+aVJung Park
+p492
+aVEric Deschamps
+p493
+aVParente
+p494
+aS''
+p495
+ag495
+ag495
+ag495
+ag495
+aVDaren Bader
+p496
+aVDavid O'Connor
+p497
+ag495
+aVJim Nelson
+p498
+aVKev Walker
+p499
+aVKev Walker
+p500
+aVKev Walker
+p501
+aVKev Walker
+p502
+aVKev Walker
+p503
+aVChristopher Rush
+p504
+aVFranz Vohwinkel
+p505
+aVMatt Stewart
+p506
+aVMatt Cavotta
+p507
+aVPaolo Parente
+p508
+aVKev Walker
+p509
+aVLarry Elmore
+p510
+aVGary Ruddell
+p511
+aVRon Spears
+p512
+aVMike Bierek
+p513
+aVChippy
+p514
+aVNicola Leonard
+p515
+aVKen Meyer, Jr.
+p516
+aVEdward P. Beard, Jr.
+p517
+aVDavid O'Connor
+p518
+aVAmy Weber
+p519
+aVBen Thompson
+p520
+aVGreg Staples
+p521
+aVTrevor Hairsine
+p522
+aVAlex Horley-Orlandelli
+p523
+aVDave Dorman
+p524
+aVDave Dorman
+p525
+aVRaymond Swanland
+p526
+aVGreg Staples
+p527
+aVDany Orizio
+p528
+aVMark Tedin
+p529
+aVAnthony S. Waters
+p530
+aVFred Fields
+p531
+ag495
+ag495
+ag495
+aVChristopher Rush
+p532
+aVJohn Matson
+p533
+aVPaolo Parente
+p534
+aVTrevor Hairsine
+p535
+aVDiTerlizzi
+p536
+aVGreg Staples
+p537
+aVKen Meyer, Jr.
+p538
+aVVéronique Meignaud
+p539
+aVTrevor Claxton
+p540
+aVAlex Horley-Orlandelli
+p541
+aVJohn Stanko
+p542
+aVThomas M. Baxa
+p543
+aVSteve Prescott
+p544
+aVFlorian de Gesincourt
+p545
+aVRyan Alexander Lee
+p546
+aVDavid O'Connor
+p547
+aVD. Alexander Gregory
+p548
+aVLiz Danforth
+p549
+aVRobh Ruppel
+p550
+aVLiz Danforth
+p551
+aVKang Yu
+p552
+aVGary Ruddell
+p553
+aVDaren Bader
+p554
+aVHannibal King
+p555
+aVWayne England
+p556
+asS'powers'
+p557
+(lp558
+V0
+p559
+ag478
+ag478
+ag478
+ag478
+ag478
+ag481
+ag479
+ag478
+ag478
+ag478
+ag478
+ag478
+ag477
+ag478
+ag479
+ag478
+ag480
+ag481
+ag483
+ag484
+aV5
+p560
+ag478
+ag478
+ag478
+ag477
+ag477
+ag477
+ag559
+ag479
+ag478
+ag478
+ag478
+ag478
+ag478
+ag479
+ag478
+ag478
+ag478
+ag478
+ag478
+ag478
+ag478
+ag478
+ag477
+ag478
+ag478
+ag478
+ag478
+ag478
+ag560
+ag478
+ag478
+ag478
+ag478
+ag478
+ag478
+ag478
+ag478
+ag478
+ag478
+ag477
+ag478
+ag478
+ag478
+ag478
+ag478
+ag480
+ag478
+ag478
+ag478
+ag478
+ag478
+ag478
+ag480
+ag481
+ag478
+ag478
+asS'types'
+p561
+(lp562
+VCreature - Human Druid
+p563
+aVArtifact
+p564
+aVArtifact Creature - Myr Construct
+p565
+aVArtifact Creature - Myr
+p566
+aVArtifact Creature - Myr
+p567
+aVArtifact
+p568
+aVCreature - Human Artificer
+p569
+aVCreature - Human Nomad Mystic
+p570
+aVArtifact Creature - Myr
+p571
+aVArtifact Creature - Myr
+p572
+aVArtifact Creature - Myr
+p573
+aVArtifact
+p574
+aVArtifact Creature - Myr
+p575
+aVCreature - Snake
+p576
+aVInstant
+p577
+aVCreature - Fungus
+p578
+aVEnchantment - Aura
+p579
+aVLegendary Creature - Spirit
+p580
+aVLegendary Creature - Spirit
+p581
+aVLegendary Creature - Spirit
+p582
+aVLegendary Creature - Spirit
+p583
+aVLegendary Creature - Spirit
+p584
+aVEnchantment - Aura
+p585
+aVArtifact Creature - Myr Construct
+p586
+aVEnchantment
+p587
+aVCreature - Human Nomad Mystic
+p588
+aVCreature - Human Nomad Mystic
+p589
+aVCreature - Human Nomad Mystic
+p590
+aVCreature - Human Nomad Mystic
+p591
+aVCreature - Human Nomad Mystic
+p592
+aVInstant
+p593
+aVInstant
+p594
+aVInstant
+p595
+aVEnchantment - Aura
+p596
+aVEnchantment
+p597
+aVCreature - Bird
+p598
+aVInstant
+p599
+aVArtifact
+p600
+aVArtifact Creature - Myr
+p601
+aVArtifact Creature - Myr
+p602
+aVArtifact Creature - Myr
+p603
+aVArtifact
+p604
+aVArtifact Creature - Myr
+p605
+aVArtifact Creature - Myr
+p606
+aVCreature - Fungus
+p607
+aVArtifact Creature - Myr
+p608
+aVArtifact Creature - Myr
+p609
+aVArtifact
+p610
+aVArtifact
+p611
+aVLand
+p612
+aVCreature - Horror
+p613
+aVArtifact
+p614
+aVArtifact Creature - Myr
+p615
+aVArtifact Creature - Myr
+p616
+aVArtifact Creature - Myr
+p617
+aVArtifact Creature - Golem
+p618
+aVSorcery
+p619
+aVInstant
+p620
+aVArtifact Creature - Myr
+p621
+aVEnchantment
+p622
+aVInstant
+p623
+aVCreature - Fungus
+p624
+aVScheme
+p625
+aVScheme
+p626
+aVOngoing Scheme
+p627
+aVScheme
+p628
+aVLand
+p629
+aVCreature - Human Monk
+p630
+aVInstant
+p631
+aVEnchantment - Aura
+p632
+aVWorld Enchantment
+p633
+aVLand
+p634
+aVWorld Enchantment
+p635
+aVInstant
+p636
+aVCreature - Human Nomad Mystic
+p637
+aVCreature - Snake
+p638
+aVInstant
+p639
+aVSorcery
+p640
+asS'numbers'
+p641
+(lp642
+V27
+p643
+aV167
+p644
+aV180
+p645
+aV181
+p646
+aV182
+p647
+aV183
+p648
+aV16
+p649
+aV35
+p650
+ag495
+ag495
+aV116
+p651
+aV117
+p652
+aV118
+p653
+aV112
+p654
+ag483
+aV123
+p655
+aV274
+p656
+aV75
+p657
+aV35
+p658
+aV229
+p659
+aV181
+p660
+aV126
+p661
+aV76
+p662
+aV247
+p663
+aV18
+p664
+aV35
+p665
+aV36
+p666
+aV33
+p667
+aV34
+p668
+aV290
+p669
+aV69
+p670
+aV180
+p671
+aV114
+p672
+aV90
+p673
+aV91
+p674
+aV11
+p675
+aV83
+p676
+aV301
+p677
+aV210
+p678
+aV211
+p679
+aV215
+p680
+aV212
+p681
+aV213
+p682
+aV214
+p683
+aV140
+p684
+aV131
+p685
+aV133
+p686
+aV132
+p687
+aV130
+p688
+aV277
+p689
+aV117
+p690
+aV145
+p691
+aV146
+p692
+aV138
+p693
+aV139
+p694
+aV137
+p695
+aV41
+p696
+aV129
+p697
+aV120
+p698
+aV42
+p699
+aV33
+p700
+aV73
+p701
+aV27
+p702
+aV28
+p703
+aV29
+p704
+aV30
+p705
+aV236
+p706
+aV48
+p707
+aV309
+p708
+aV39
+p709
+aV53
+p710
+aV226
+p711
+aV28
+p712
+aV49
+p713
+aV96
+p714
+aV97
+p715
+aV36
+p716
+aV42
+p717
+as.

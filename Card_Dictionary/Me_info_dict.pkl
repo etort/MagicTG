@@ -1,0 +1,3944 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVCommon
+p4
+aVCommon
+p5
+aVRare
+p6
+aVRare
+p7
+aVCommon
+p8
+aVCommon
+p9
+aVUncommon
+p10
+aVRare
+p11
+aVCommon
+p12
+aVUncommon
+p13
+aVCommon
+p14
+aVRare
+p15
+aVCommon
+p16
+aVCommon
+p17
+aVCommon
+p18
+aVRare
+p19
+aVCommon
+p20
+aVCommon
+p21
+aVUncommon
+p22
+aVRare
+p23
+aVUncommon
+p24
+aVUncommon
+p25
+aVCommon
+p26
+aVRare
+p27
+aVRare
+p28
+aVRare
+p29
+aVCommon
+p30
+aVCommon
+p31
+aVCommon
+p32
+aVRare
+p33
+aVUncommon
+p34
+aVCommon
+p35
+aVRare
+p36
+aVRare
+p37
+aVUncommon
+p38
+aVUncommon
+p39
+aVRare
+p40
+aVMythic Rare
+p41
+aVCommon
+p42
+aVRare
+p43
+aVUncommon
+p44
+aVUncommon
+p45
+aVUncommon
+p46
+aVUncommon
+p47
+aVCommon
+p48
+aVCommon
+p49
+aVCommon
+p50
+aVCommon
+p51
+aVCommon
+p52
+aVRare
+p53
+aVCommon
+p54
+aVRare
+p55
+aVCommon
+p56
+aVCommon
+p57
+aVRare
+p58
+aVCommon
+p59
+aVCommon
+p60
+aVUncommon
+p61
+aVCommon
+p62
+aVCommon
+p63
+aVRare
+p64
+aVCommon
+p65
+aVCommon
+p66
+aVRare
+p67
+aVUncommon
+p68
+aVRare
+p69
+aVCommon
+p70
+aVUncommon
+p71
+aVCommon
+p72
+aVRare
+p73
+aVCommon
+p74
+aVUncommon
+p75
+aVRare
+p76
+aVUncommon
+p77
+aVRare
+p78
+aVUncommon
+p79
+aVCommon
+p80
+aVUncommon
+p81
+aVRare
+p82
+aVCommon
+p83
+aVMythic Rare
+p84
+aVRare
+p85
+aVCommon
+p86
+aVCommon
+p87
+aVRare
+p88
+aVUncommon
+p89
+aVUncommon
+p90
+aVCommon
+p91
+aVRare
+p92
+aVRare
+p93
+aVCommon
+p94
+aVUncommon
+p95
+aVUncommon
+p96
+aVCommon
+p97
+aVRare
+p98
+aVCommon
+p99
+aVCommon
+p100
+aVRare
+p101
+aVRare
+p102
+aVRare
+p103
+aVUncommon
+p104
+aVRare
+p105
+aVUncommon
+p106
+aVCommon
+p107
+aVUncommon
+p108
+aVCommon
+p109
+aVRare
+p110
+aVCommon
+p111
+aVRare
+p112
+aVUncommon
+p113
+aVRare
+p114
+aVCommon
+p115
+aVRare
+p116
+aVRare
+p117
+aVCommon
+p118
+aVUncommon
+p119
+aVCommon
+p120
+aVUncommon
+p121
+aVCommon
+p122
+aVRare
+p123
+aVCommon
+p124
+aVCommon
+p125
+aVUncommon
+p126
+aVRare
+p127
+aVUncommon
+p128
+aVCommon
+p129
+aVRare
+p130
+aVUncommon
+p131
+aVCommon
+p132
+aVCommon
+p133
+aVRare
+p134
+aVCommon
+p135
+aVUncommon
+p136
+aVRare
+p137
+aVCommon
+p138
+aVMythic Rare
+p139
+aVRare
+p140
+aVCommon
+p141
+aVCommon
+p142
+aVCommon
+p143
+aVUncommon
+p144
+aVUncommon
+p145
+aVCommon
+p146
+aVCommon
+p147
+aVRare
+p148
+aVRare
+p149
+aVUncommon
+p150
+aVRare
+p151
+aVUncommon
+p152
+aVCommon
+p153
+aVRare
+p154
+aVCommon
+p155
+aVCommon
+p156
+aVCommon
+p157
+aVRare
+p158
+aVUncommon
+p159
+aVRare
+p160
+aVUncommon
+p161
+aVCommon
+p162
+aVUncommon
+p163
+aVUncommon
+p164
+aVCommon
+p165
+aVCommon
+p166
+aVUncommon
+p167
+aVCommon
+p168
+aVUncommon
+p169
+aVRare
+p170
+aVUncommon
+p171
+aVCommon
+p172
+aVRare
+p173
+aVCommon
+p174
+aVRare
+p175
+aVCommon
+p176
+aVUncommon
+p177
+aVUncommon
+p178
+aVUncommon
+p179
+aVUncommon
+p180
+aVUncommon
+p181
+aVCommon
+p182
+aVCommon
+p183
+aVRare
+p184
+aVCommon
+p185
+aVCommon
+p186
+aVCommon
+p187
+aVCommon
+p188
+aVCommon
+p189
+aVCommon
+p190
+aVCommon
+p191
+aVRare
+p192
+aVSpecial
+p193
+aVSpecial
+p194
+aVRare
+p195
+aVCommon
+p196
+aVRare
+p197
+aVRare
+p198
+asS'editns'
+p199
+(lp200
+VMagic: The Gathering-Commander
+p201
+aVMagic 2012
+p202
+aVMagic 2012
+p203
+aVMagic 2012
+p204
+aVLimited Edition Beta
+p205
+aVLimited Edition Beta
+p206
+aVLimited Edition Beta
+p207
+aVSaviors of Kamigawa
+p208
+aVSaviors of Kamigawa
+p209
+aVMorningtide
+p210
+aVMorningtide
+p211
+aVMagic 2013
+p212
+aVFourth Edition
+p213
+aVFourth Edition
+p214
+aVFourth Edition
+p215
+aVPlanar Chaos
+p216
+aVPlanar Chaos
+p217
+aVPlanar Chaos
+p218
+aVScars of Mirrodin
+p219
+aVScars of Mirrodin
+p220
+aVScars of Mirrodin
+p221
+aVBorn of the Gods
+p222
+aVMagic 2010
+p223
+aVMagic 2010
+p224
+aVMagic 2010
+p225
+aVMagic 2010
+p226
+aVMagic 2014 Core Set
+p227
+aVMagic 2014 Core Set
+p228
+aVMagic 2014 Core Set
+p229
+aVTempest
+p230
+aVTempest
+p231
+aVTenth Edition
+p232
+aVTenth Edition
+p233
+aVMercadian Masques
+p234
+aVMercadian Masques
+p235
+aVMercadian Masques
+p236
+aVMercadian Masques
+p237
+aVMercadian Masques
+p238
+aVVintage Masters
+p239
+aVVintage Masters
+p240
+aVModern Masters
+p241
+aVModern Masters
+p242
+aVThe Dark
+p243
+aVMirrodin Besieged
+p244
+aVMirrodin Besieged
+p245
+aVStarter 2000
+p246
+aVFallen Empires
+p247
+aVFallen Empires
+p248
+aVFallen Empires
+p249
+aVFallen Empires
+p250
+aVMasters Edition III
+p251
+aVMasters Edition III
+p252
+aVRevised Edition
+p253
+aVRevised Edition
+p254
+aVRevised Edition
+p255
+aVMasters Edition II
+p256
+aVMasters Edition II
+p257
+aVNinth Edition
+p258
+aVNinth Edition
+p259
+aVEventide
+p260
+aVEventide
+p261
+aVConflux
+p262
+aVAvacyn Restored
+p263
+aVDuel Decks: Sorin vs. Tibalt
+p264
+aVOnslaught
+p265
+aVOnslaught
+p266
+aVChampions of Kamigawa
+p267
+aVBetrayers of Kamigawa
+p268
+aVUrza's Destiny
+p269
+aVUrza's Destiny
+p270
+aVUrza's Destiny
+p271
+aVUrza's Destiny
+p272
+aVOdyssey
+p273
+aVReturn to Ravnica
+p274
+aVGatecrash
+p275
+aVGatecrash
+p276
+aVGatecrash
+p277
+aVGatecrash
+p278
+aVExodus
+p279
+aVExodus
+p280
+aVExodus
+p281
+aVFrom the Vault: Relics
+p282
+aVUnlimited Edition
+p283
+aVUnlimited Edition
+p284
+aVUnlimited Edition
+p285
+aVIce Age
+p286
+aVIce Age
+p287
+aVIce Age
+p288
+aVIce Age
+p289
+aVIce Age
+p290
+aVIce Age
+p291
+aVTorment
+p292
+aVZendikar
+p293
+aVZendikar
+p294
+aVClassic Sixth Edition
+p295
+aVClassic Sixth Edition
+p296
+aVClassic Sixth Edition
+p297
+aVClassic Sixth Edition
+p298
+aVMirrodin
+p299
+aVMirrodin
+p300
+aVShards of Alara
+p301
+aVShards of Alara
+p302
+aVSeventh Edition
+p303
+aVSeventh Edition
+p304
+aVSeventh Edition
+p305
+aVSeventh Edition
+p306
+aVSeventh Edition
+p307
+aVProphecy
+p308
+aVMagic 2015 Core Set
+p309
+aVMagic 2015 Core Set
+p310
+aVMagic 2015 Core Set
+p311
+aVUrza's Legacy
+p312
+aVDarksteel
+p313
+aVDarksteel
+p314
+aVDarksteel
+p315
+aVRise of the Eldrazi
+p316
+aVRise of the Eldrazi
+p317
+aVJudgment
+p318
+aVShadowmoor
+p319
+aVShadowmoor
+p320
+aVShadowmoor
+p321
+aVShadowmoor
+p322
+aVShadowmoor
+p323
+aVShadowmoor
+p324
+aVNew Phyrexia
+p325
+aVNew Phyrexia
+p326
+aVStarter 1999
+p327
+aVFifth Dawn
+p328
+aVScourge
+p329
+aVScourge
+p330
+aVFuture Sight
+p331
+aVPlanechase
+p332
+aVLegions
+p333
+aVUrza's Saga
+p334
+aVUrza's Saga
+p335
+aVMasters Edition
+p336
+aVTheros
+p337
+aVTheros
+p338
+aVTheros
+p339
+aVWeatherlight
+p340
+aVEighth Edition
+p341
+aVEighth Edition
+p342
+aVEighth Edition
+p343
+aVChronicles
+p344
+aVInvasion
+p345
+aVInvasion
+p346
+aVInvasion
+p347
+aVInvasion
+p348
+aVAlara Reborn
+p349
+aVAlara Reborn
+p350
+aVFifth Edition
+p351
+aVFifth Edition
+p352
+aVFifth Edition
+p353
+aVFifth Edition
+p354
+aVFifth Edition
+p355
+aVArchenemy
+p356
+aVArchenemy
+p357
+aVKhans of Tarkir
+p358
+aVKhans of Tarkir
+p359
+aVDuel Decks: Jace vs. Vraska
+p360
+aVDuel Decks: Jace vs. Vraska
+p361
+aVMirage
+p362
+aVMirage
+p363
+aVMirage
+p364
+aVMirage
+p365
+aVMirage
+p366
+aVInnistrad
+p367
+aVInnistrad
+p368
+aVInnistrad
+p369
+aVLimited Edition Alpha
+p370
+aVLimited Edition Alpha
+p371
+aVLimited Edition Alpha
+p372
+aVDragon's Maze
+p373
+aVDragon's Maze
+p374
+aVStronghold
+p375
+aVLorwyn
+p376
+aVLorwyn
+p377
+aVLorwyn
+p378
+aVArabian Nights
+p379
+aVArabian Nights
+p380
+aVPremium Deck Series: Slivers
+p381
+aVMagic 2011
+p382
+aVMagic 2011
+p383
+aVHomelands
+p384
+aVHomelands
+p385
+aVHomelands
+p386
+aVHomelands
+p387
+aVHomelands
+p388
+aVPortal Three Kingdoms
+p389
+aVPortal Three Kingdoms
+p390
+aVTime Spiral "Timeshifted"
+p391
+aVTime Spiral "Timeshifted"
+p392
+aVPortal
+p393
+aVPortal
+p394
+aVPlaneshift
+p395
+aVPlaneshift
+p396
+asS'ids'
+p397
+(lp398
+V247154
+p399
+aV220179
+p400
+aV220106
+p401
+aV220116
+p402
+aV326
+p403
+aV409
+p404
+aV555
+p405
+aV88821
+p406
+aV89406
+p407
+aV152699
+p408
+aV157432
+p409
+aV278211
+p410
+aV2058
+p411
+aV2169
+p412
+aV2350
+p413
+aV125877
+p414
+aV126214
+p415
+aV130714
+p416
+aV194106
+p417
+aV194078
+p418
+aV215103
+p419
+aV378415
+p420
+aV189904
+p421
+aV190174
+p422
+aV191087
+p423
+aV191378
+p424
+aV370794
+p425
+aV370762
+p426
+aV370807
+p427
+aV4617
+p428
+aV4713
+p429
+aV129640
+p430
+aV130900
+p431
+aV19733
+p432
+aV19754
+p433
+aV19850
+p434
+aV19894
+p435
+aV20844
+p436
+aV383012
+p437
+aV383013
+p438
+aV370385
+p439
+aV370513
+p440
+aV1758
+p441
+aV213796
+p442
+aV213812
+p443
+aV25458
+p444
+aV1887
+p445
+aV1885
+p446
+aV1884
+p447
+aV1886
+p448
+aV201287
+p449
+aV201219
+p450
+aV1125
+p451
+aV1210
+p452
+aV1354
+p453
+aV184747
+p454
+aV184650
+p455
+aV84671
+p456
+aV83164
+p457
+aV151088
+p458
+aV151158
+p459
+aV179886
+p460
+aV239966
+p461
+aV368519
+p462
+aV35164
+p463
+aV39451
+p464
+aV75268
+p465
+aV74538
+p466
+aV15157
+p467
+aV15158
+p468
+aV15246
+p469
+aV19096
+p470
+aV29774
+p471
+aV253510
+p472
+aV366373
+p473
+aV366316
+p474
+aV366442
+p475
+aV366293
+p476
+aV6165
+p477
+aV6167
+p478
+aV6056
+p479
+aV212633
+p480
+aV628
+p481
+aV711
+p482
+aV857
+p483
+aV2519
+p484
+aV2636
+p485
+aV2637
+p486
+aV2638
+p487
+aV2704
+p488
+aV2733
+p489
+aV32211
+p490
+aV189625
+p491
+aV170978
+p492
+aV16427
+p493
+aV14781
+p494
+aV11399
+p495
+aV11400
+p496
+aV30008
+p497
+aV46579
+p498
+aV175108
+p499
+aV175113
+p500
+aV11398
+p501
+aV13140
+p502
+aV27080
+p503
+aV25631
+p504
+aV10810
+p505
+aV24563
+p506
+aV383306
+p507
+aV383307
+p508
+aV383308
+p509
+aV8841
+p510
+aV45191
+p511
+aV46154
+p512
+aV51054
+p513
+aV198173
+p514
+aV193505
+p515
+aV36114
+p516
+aV141937
+p517
+aV141977
+p518
+aV146742
+p519
+aV153319
+p520
+aV158759
+p521
+aV158771
+p522
+aV194274
+p523
+aV230066
+p524
+aV21080
+p525
+aV50211
+p526
+aV43733
+p527
+aV47222
+p528
+aV136202
+p529
+aV205370
+p530
+aV44501
+p531
+aV10466
+p532
+aV8862
+p533
+aV159819
+p534
+aV373675
+p535
+aV373741
+p536
+aV373699
+p537
+aV4489
+p538
+aV45231
+p539
+aV45275
+p540
+aV45316
+p541
+aV2833
+p542
+aV22973
+p543
+aV23004
+p544
+aV23193
+p545
+aV26379
+p546
+aV179547
+p547
+aV189644
+p548
+aV4144
+p549
+aV3801
+p550
+aV3924
+p551
+aV3925
+p552
+aV4143
+p553
+aV220532
+p554
+aV220460
+p555
+aV386602
+p556
+aV386603
+p557
+aV380199
+p558
+aV380233
+p559
+aV3344
+p560
+aV3346
+p561
+aV3347
+p562
+aV3502
+p563
+aV3345
+p564
+aV254134
+p565
+aV244682
+p566
+aV222115
+p567
+aV114
+p568
+aV31
+p569
+aV259
+p570
+aV369062
+p571
+aV368957
+p572
+aV5185
+p573
+aV139420
+p574
+aV139663
+p575
+aV139702
+p576
+aV936
+p577
+aV948
+p578
+aV208040
+p579
+aV205108
+p580
+aV205009
+p581
+aV2950
+p582
+aV2949
+p583
+aV2951
+p584
+aV3022
+p585
+aV3021
+p586
+aV10503
+p587
+aV10732
+p588
+aV108821
+p589
+aV108871
+p590
+aV4228
+p591
+aV4267
+p592
+aV25979
+p593
+aV26591
+p594
+asS'texts'
+p595
+(lp596
+VWhenever an opponent casts a spell, that player puts the top two cards of his or her library into his or her graveyard.
+p597
+aVAt the beginning of your upkeep, put a lore counter on Mind Unbound, then draw a card for each lore counter on Mind Unbound.
+p598
+aVTarget player chooses a card in his or her hand and discards the rest.
+p599
+aVCounter target noncreature spell.
+p600
+aV{T}: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. If it doesn't, destroy it at the beginning of the next end step. Activate this ability only during an opponent's turn, before attackers are declared.
+p601
+aVNevinyrral's Disk enters the battlefield tapped.<br>{1}, {T}: Destroy all artifacts, creatures, and enchantments.
+p602
+aVFlying<br>Nightmare's power and toughness are each equal to the number of Swamps you control.
+p603
+aVAt the beginning of your end step, sacrifice Measure of Wickedness and you lose 8 life.<br>Whenever another card is put into your graveyard from anywhere, target opponent gains control of Measure of Wickedness.
+p604
+aVAll creatures get -X/-0, where X is the number of cards in your hand.
+p605
+aVWhen Merrow Witsniper enters the battlefield, target player puts the top card of his or her library into his or her graveyard.
+p606
+aVCowards can't block Warriors.<br>{R}: Target creature becomes a Coward until end of turn.<br>{2}{R}: Target creature becomes a Warrior until end of turn.
+p607
+aVYou may choose new targets for target spell.
+p608
+aVFlying<br>Nightmare's power and toughness are each equal to the number of Swamps you control.
+p609
+aV{W}{W}, {T}: Destroy target black permanent.
+p610
+aV{T}: Prevent the next 1 damage that would be dealt to target creature this turn.
+p611
+aV{T}: Switch target creature's power and toughness until end of turn.
+p612
+aVWhenever you cast an enchantment spell, you may draw a card.
+p613
+aVEnchant creature<br>When Melancholy enters the battlefield, tap enchanted creature.<br>Enchanted creature doesn't untap during its controller's untap step.<br>At the beginning of your upkeep, sacrifice Melancholy unless you pay {B}.
+p614
+aVImprint- Whenever a nontoken creature dies, you may exile that card. If you do, return each other card exiled with Mimic Vat to its owner's graveyard.<br>{3}, {T}: Put a token onto the battlefield that's a copy of the exiled card. It gains haste. Exile it at the beginning of the next end step.
+p615
+aV{4}, {T}, Sacrifice Mindslaver: You control target player during that player's next turn. <i>(You see all cards that player could see and make all decisions for the player.)</i>
+p616
+aVTrample<br>Whenever an artifact is put into a graveyard from the battlefield, Molder Beast gets +2/+0 until end of turn.
+p617
+aVUp to two target creatures each get +4/+4 until end of turn.
+p618
+aVDraw X cards.
+p619
+aV{T}, Sacrifice Mirror of Fate: Choose up to seven face-up exiled cards you own. Exile all the cards from your library, then put the chosen cards on top of your library.
+p620
+aVShroud <i>(This creature can't be the target of spells or abilities.)</i>
+p621
+aVWhenever an opponent casts a blue or black spell, you may put a +1/+1 counter on Mold Adder.
+p622
+aVTarget player discards two cards.
+p623
+aVFirst strike <i>(This creature deals combat damage before creatures without first strike.)</i><br>Whenever an opponent casts a white or blue instant or sorcery spell, Mindsparker deals 2 damage to that player.
+p624
+aVPut two 1/1 red Elemental creature tokens onto the battlefield. Then flip a coin. If you win the flip, return Molten Birth to its owner's hand.
+p625
+aV{T}: Target creature you control gets +1/+0 and gains flying until end of turn. Destroy that creature at the beginning of the next end step.
+p626
+aVAll Slivers have "{2}, Sacrifice this permanent: Draw a card."
+p627
+aVMortivore's power and toughness are each equal to the number of creature cards in all graveyards.<br>{B}: Regenerate Mortivore.
+p628
+aV{2}: Target green or blue creature gets +0/+1 until end of turn.
+p629
+aVFlash<br>Forestwalk<br>You may exile a green card from your hand rather than pay Vine Dryad's mana cost.
+p630
+aVAt the beginning of your upkeep, you may exile the top card of your library face down.<br>{5}, Discard your hand, Sacrifice Kyren Archive: Put all cards exiled with Kyren Archive into their owner's hand.
+p631
+aVVolcanic Wind deals X damage divided as you choose among any number of target creatures, where X is the number of creatures on the battlefield as you cast Volcanic Wind.
+p632
+aVTrample
+p633
+aV{6}, {T}: Search your library for a Rebel permanent card with converted mana cost 5 or less and put it onto the battlefield. Then shuffle your library.
+p634
+aVShuffle your library. Then exile the top card of your library. Until end of turn, you may play that card without paying its mana cost. <i>(If it has X in its mana cost, X is 0.)</i><br>Storm <i>(When you cast this spell, copy it for each spell cast before it this turn.)</i>
+p635
+aV{T}: Add {3} to your mana pool. Spend this mana only to cast artifact spells.
+p636
+aVFlying<br>{1}, Return a land you control to its owner's hand: Put a 1/1 blue Illusion creature token with flying onto the battlefield.
+p637
+aVWhen Meadowboon leaves the battlefield, put a +1/+1 counter on each creature target player controls.<br>Evoke {3}{W} <i>(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</i>
+p638
+aV{T}: Destroy target creature with islandwalk.
+p639
+aVGain control of target artifact until end of turn. Untap that artifact. It gains haste until end of turn.
+p640
+aVDouble strike, protection from black and from green
+p641
+aVW
+p642
+aVEnchant creature <br>Merseine enters the battlefield with three net counters on it. <br>Enchanted creature doesn't untap during its controller's untap step if Merseine has a net counter on it.<br>Pay enchanted creature's mana cost: Remove a net counter from Merseine. Any player may activate this ability, but only if he or she controls the enchanted creature.
+p643
+aVEnchant creature <br>Merseine enters the battlefield with three net counters on it. <br>Enchanted creature doesn't untap during its controller's untap step if Merseine has a net counter on it.<br>Pay enchanted creature's mana cost: Remove a net counter from Merseine. Any player may activate this ability, but only if he or she controls the enchanted creature.
+p644
+aVEnchant creature <br>Merseine enters the battlefield with three net counters on it. <br>Enchanted creature doesn't untap during its controller's untap step if Merseine has a net counter on it.<br>Pay enchanted creature's mana cost: Remove a net counter from Merseine. Any player may activate this ability, but only if he or she controls the enchanted creature.
+p645
+aVEnchant creature <br>Merseine enters the battlefield with three net counters on it. <br>Enchanted creature doesn't untap during its controller's untap step if Merseine has a net counter on it.<br>Pay enchanted creature's mana cost: Remove a net counter from Merseine. Any player may activate this ability, but only if he or she controls the enchanted creature.
+p646
+aV{X}, {T}: Name a card. Target opponent reveals X cards at random from his or her hand. Then that player discards all cards with that name revealed this way. Activate this ability only during your turn.
+p647
+aVWhenever a player casts a spell, counter it unless its controller pays {3}.
+p648
+aV{T}: Orcish Artillery deals 2 damage to target creature or player and 3 damage to you.
+p649
+aVAttacking creatures you control get +1/+0.
+p650
+aVFlying
+p651
+aVProtection from black<br>At the beginning of your upkeep, Minion of Leshrac deals 5 damage to you unless you sacrifice a creature other than Minion of Leshrac. If Minion of Leshrac deals damage to you this way, tap it.<br>{T}: Destroy target creature or land.
+p652
+aV{T}, Sacrifice Mishra's Groundbreaker: Target land becomes a 3/3 artifact creature that's still a land. <i>(This effect lasts indefinitely.)</i>
+p653
+aV{8}, {T}: Aladdin's Ring deals 4 damage to target creature or player.
+p654
+aVFlying
+p655
+aV{T}: Target creature gains flying until end of turn.<br>Whenever you cast a blue spell, you may untap Merrow Levitator.
+p656
+aV{T}: Target player exiles a card from his or her graveyard. <br>Whenever you cast a black spell, you may untap Merrow Bonegnawer.
+p657
+aVTrample<br>At the beginning of your upkeep, if you control a blue permanent, you may put a token that's a copy of Mirror-Sigil Sergeant onto the battlefield.
+p658
+aVProtection from Vampires
+p659
+aVWhen Mesmeric Fiend enters the battlefield, target opponent reveals his or her hand and you choose a nonland card from it. Exile that card.<br>When Mesmeric Fiend leaves the battlefield, return the exiled card to its owner's hand.
+p660
+aVTrample, haste<br>When Menacing Ogre enters the battlefield, each player secretly chooses a number. Then those numbers are revealed. Each player with the highest number loses that much life. If you are one of those players, put two +1/+1 counters on Menacing Ogre.
+p661
+aVR
+p662
+aVEquipped creature has "{2}: This creature gets +1/+0 until end of turn."<br>Whenever equipped creature deals damage to a blocking creature, Kusari-Gama deals that much damage to each other creature defending player controls.<br>Equip {3} <i>({3}: Attach to target creature you control. Equip only as a sorcery.)</i>
+p663
+aVExile target artifact. Search its controller's graveyard, hand, and library for all cards with the same name as that artifact and exile them. Then that player shuffles his or her library.
+p664
+aVMetathran Elite is unblockable as long as it's enchanted.
+p665
+aV{1}{U}, Discard a card: Draw a card.
+p666
+aV{T}: Reveal any number of artifact cards in your hand. Add {2} to your mana pool for each card revealed this way.
+p667
+aVMetathran Soldier is unblockable.
+p668
+aVTrample<br>Threshold- {1}{G}: Regenerate Krosan Avenger. Activate this ability only if seven or more cards are in your graveyard.
+p669
+aVTarget creature you control gets +0/+1 and gains hexproof until end of turn.<br>Overload {1}{U} <i>(You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")</i>
+p670
+aVChoose one- Exile all artifacts; or exile all creatures; or exile all enchantments; or exile all planeswalkers.
+p671
+aVFlash <i>(You may cast this spell any time you could cast an instant.)</i>
+p672
+aVFlying<br>{U}: Metropolis Sprite gets +1/-1 until end of turn.
+p673
+aVReturn target creature card from your graveyard to your hand.<br>Cipher <i>(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)</i>
+p674
+aV{1}, {T}, Discard a card: Regenerate target creature.
+p675
+aVBuyback costs cost {2} less.
+p676
+aV{T}: Draw a card, then discard a card.
+p677
+aV{T}, Sacrifice Memory Jar: Each player exiles all cards from his or her hand face down and draws seven cards. At the beginning of the next end step, each player discards his or her hand and returns to his or her hand each card he or she exiled this way.
+p678
+aVHaste<br>At the beginning of your upkeep, if Nether Shadow is in your graveyard with three or more creature cards above it, you may put Nether Shadow onto the battlefield.
+p679
+aV{T}: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. If it doesn't, destroy it at the beginning of the next end step. Activate this ability only during an opponent's turn, before attackers are declared.
+p680
+aVNevinyrral's Disk enters the battlefield tapped.<br>{1}, {T}: Destroy all artifacts, creatures, and enchantments.
+p681
+aVCumulative upkeep {1} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>{U}, Discard a card: Draw a card.
+p682
+aVAll lands are no longer snow.
+p683
+aVMeteor Shower deals X plus 1 damage divided as you choose among any number of target creatures and/or players.
+p684
+aVCreatures without flying don't untap during their controllers' untap steps.<br>At the beginning of each player's upkeep, that player may choose any number of tapped creatures without flying he or she controls and pay {2} for each creature chosen this way. If the player does, untap those creatures.
+p685
+aVEnchant creature<br>Enchanted creature can't be blocked by red creatures.<br>Enchanted creature gets +2/+2 as long as an opponent controls a red permanent.
+p686
+aV{1}{R}{R}: Until end of turn, whenever you cast a black spell, put a +1/+1 counter on Mountain Titan.
+p687
+aVWhen Mesmeric Fiend enters the battlefield, target opponent reveals his or her hand and you choose a nonland card from it. Exile that card.<br>When Mesmeric Fiend leaves the battlefield, return the exiled card to its owner's hand.
+p688
+aVFlying<br>When Merfolk Wayfinder enters the battlefield, reveal the top three cards of your library. Put all Island cards revealed this way into your hand and the rest on the bottom of your library in any order.
+p689
+aVTarget player discards a card for each Swamp you control.
+p690
+aV{T}, Sacrifice two lands: Draw three cards, then discard one of them.
+p691
+aVFlying<br>Nightmare's power and toughness are each equal to the number of Swamps you control.
+p692
+aV{T}: Orcish Artillery deals 2 damage to target creature or player and 3 damage to you.
+p693
+aVAttacking creatures you control get +1/+0.
+p694
+aVWhenever a permanent becomes untapped, that permanent's controller puts the top card of his or her library into his or her graveyard.
+p695
+aVSacrifice an artifact: Megatog gets +3/+3 and gains trample until end of turn.
+p696
+aVMaster of Etherium's power and toughness are each equal to the number of artifacts you control.<br>Other artifact creatures you control get +1/+1.
+p697
+aVFlying<br>{B}, Sacrifice a creature: Regenerate Skeletal Kathari.
+p698
+aVCreatures with power 3 or greater don't untap during their controllers' untap steps.
+p699
+aVYou may have Lone Wolf assign its combat damage as though it weren't blocked.
+p700
+aVLook at target player's hand and choose two cards from it. Put them on top of that player's library in any order.
+p701
+aVAttacking creatures you control get +1/+0.
+p702
+aVEnchant creature<br>Enchanted creature can't attack or block.
+p703
+aVMercenary Informer can't be the target of black spells or abilities from black sources.<br>{2}{W}: Put target nontoken Mercenary on the bottom of its owner's library.
+p704
+aVAt the beginning of combat on your turn, if you control each creature on the battlefield with the greatest power, gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. <i>(It can attack and {T} this turn.)</i>
+p705
+aVWhenever you attack with two or more creatures, draw a card.
+p706
+aVTarget player discards two cards.
+p707
+aV{T}, Sacrifice Memory Jar: Each player exiles all cards from his or her hand face down and draws seven cards. At the beginning of the next end step, each player discards his or her hand and returns to his or her hand each card he or she exiled this way.
+p708
+aVTap all artifacts.
+p709
+aVMephitic Ooze gets +1/+0 for each artifact you control.<br>Whenever Mephitic Ooze deals combat damage to a creature, destroy that creature. The creature can't be regenerated.
+p710
+aV{1}{U}{U}: Target permanent becomes an artifact in addition to its other types. <i><i>(This effect lasts indefinitely.)</i></i><br>{3}{U}: Gain control of target artifact. <i><i>(This effect lasts indefinitely.)</i></i>
+p711
+aVDefender<br>When Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.
+p712
+aVAs an additional cost to cast Momentous Fall, sacrifice a creature.<br>You draw cards equal to the sacrificed creature's power, then you gain life equal to its toughness.
+p713
+aVPut the top two cards of your library into your graveyard.<br><br>Draw a card.
+p714
+aV{1}{U/B}, {Q}: Target creature gets -2/-0 until end of turn. <i>({Q} is the untap symbol.)</i>
+p715
+aVWhen Medicine Runner enters the battlefield, you may remove a counter from target permanent.
+p716
+aV{T}: Add {1} to your mana pool.<br>{W/U}, {T}: Add {W}{W}, {W}{U}, or {U}{U} to your mana pool.
+p717
+aVWhenever you cast a green spell, Safehold Duo gets +1/+1 until end of turn.<br>Whenever you cast a white spell, Safehold Duo gains vigilance until end of turn.
+p718
+aVPut two 1/1 white Kithkin Soldier creature tokens onto the battlefield if {W} was spent to cast Repel Intruders. Counter up to one target creature spell if {U} was spent to cast Repel Intruders. <i>(Do both if {W}{U} was spent.)</i>
+p719
+aVCounter target blue instant spell.
+p720
+aVWhenever an opponent loses life, that player puts that many cards from the top of his or her library into his or her graveyard. <i>(Damage dealt by sources without infect causes loss of life.)</i>
+p721
+aVYou draw two cards and target opponent discards two cards.
+p722
+aVIf the difference between your life total and target player's life total is 5 or less, exchange life totals with that player.
+p723
+aVFlying<br>Each creature you control is a Vampire in addition to its other creature types and has "Whenever this creature deals damage to a creature, put a +1/+1 counter on this creature."
+p724
+aVPut target permanent an opponent controls on top of its owner's library. That opponent may put an artifact, creature, enchantment, or land card from his or her hand onto the battlefield.
+p725
+aVFlying<br>Whenever Mercurial Kite deals combat damage to a creature, tap that creature. That creature doesn't untap during its controller's next untap step.
+p726
+aVChoose one- Remove two time counters from each permanent and each suspended card; or put two time counters on each permanent with a time counter on it and each suspended card.
+p727
+aVTrample, haste<br>When Menacing Ogre enters the battlefield, each player secretly chooses a number. Then those numbers are revealed. Each player with the highest number loses that much life. If you are one of those players, put two +1/+1 counters on Menacing Ogre.
+p728
+aVWhen Phage the Untouchable enters the battlefield, if you didn't cast it from your hand, you lose the game.<br>Whenever Phage deals combat damage to a creature, destroy that creature. It can't be regenerated. <br>Whenever Phage deals combat damage to a player, that player loses the game.
+p729
+aVDestroy each artifact with converted mana cost X or less.
+p730
+aVFault Line deals X damage to each creature without flying and each player.
+p731
+aVFlying; banding <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
+p732
+aVHaste<br>When Minotaur Skullcleaver enters the battlefield, it gets +2/+0 until end of turn.
+p733
+aVMistcutter Hydra can't be countered.<br>Haste, protection from blue<br>Mistcutter Hydra enters the battlefield with X +1/+1 counters on it.
+p734
+aVDefender<br>When Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.
+p735
+aVWhen Merfolk Traders enters the battlefield, draw a card, then discard a card.
+p736
+aVCounter target instant spell.
+p737
+aVPay 2 life: Regenerate Deepwood Ghoul.
+p738
+aVSwampwalk <i>(This creature is unblockable as long as defending player controls a Swamp.)</i>
+p739
+aV{6}, {T}: Return target permanent you both own and control to your hand.
+p740
+aV{B}: Regenerate Metathran Zombie.
+p741
+aVFlying<br>{X}{U}: You may put a creature card with converted mana cost X from your hand onto the battlefield. If you do, return Metathran Aerostat to its owner's hand.
+p742
+aV{2}{R}{G}, Discard two cards at random: Meteor Storm deals 4 damage to target creature or player.
+p743
+aVFlying<br>Metathran Transport can't be blocked by blue creatures.<br>{U}: Target creature becomes blue until end of turn.
+p744
+aVFlying<br>When Messenger Falcons enters the battlefield, draw a card.
+p745
+aVTarget opponent reveals cards from the top of his or her library until four land cards are revealed. That player puts all cards revealed this way into his or her graveyard.
+p746
+aVProtection from red
+p747
+ag662
+aVHaste<br>At the beginning of your upkeep, if Nether Shadow is in your graveyard with three or more creature cards above it, you may put Nether Shadow onto the battlefield.
+p748
+aVNevinyrral's Disk enters the battlefield tapped.<br>{1}, {T}: Destroy all artifacts, creatures, and enchantments.
+p749
+aVFlying<br>Nightmare's power and toughness are each equal to the number of Swamps you control.
+p750
+aV{1}{U}{U}: Target permanent becomes an artifact in addition to its other types. <i><i>(This effect lasts indefinitely.)</i></i><br>{3}{U}: Gain control of target artifact. <i><i>(This effect lasts indefinitely.)</i></i>
+p751
+aV{W}, {T}: Regenerate target artifact.
+p752
+aVOutlast {B} <i>({B}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)</i><br>Each creature you control with a +1/+1 counter on it has deathtouch.
+p753
+aVCounter target spell unless its controller pays {X}. Mindswipe deals X damage to that spell's controller.
+p754
+aVCounter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.
+p755
+aVFlying<br>When Merfolk Wayfinder enters the battlefield, reveal the top three cards of your library. Put all Island cards revealed this way into your hand and the rest on the bottom of your library in any order.
+p756
+aVIf target spell has only one target and that target is a creature, change that spell's target to another creature.
+p757
+aVIslandwalk<br>Phasing <i>(This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)</i>
+p758
+aVWhen Merfolk Seer dies, you may pay {1}{U}. If you do, draw a card.
+p759
+aVFlying<br>{W}, {T}: Return Mtenda Griffin to its owner's hand and return target Griffin card from your graveyard to your hand. Activate this ability only during your upkeep.
+p760
+aVChange the text of target permanent by replacing all instances of one color word with another or one basic land type with another. <i>(For example, you may change "nonblack creature" to "nongreen creature" or "forestwalk" to "islandwalk." This effect lasts indefinitely.)</i>
+p761
+aVAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Merciless Predator.
+p762
+aVPut two 1/1 white Spirit creature tokens with flying onto the battlefield.
+p763
+aVMikaeus, the Lunarch enters the battlefield with X +1/+1 counters on it.<br>{T}: Put a +1/+1 counter on Mikaeus.<br>{T}, Remove a +1/+1 counter from Mikaeus: Put a +1/+1 counter on each other creature you control.
+p764
+aVFlying<br>At the beginning of your upkeep, sacrifice Phantasmal Forces unless you pay {U}.
+p765
+aVEnchant land<br>Whenever enchanted land becomes tapped, Psychic Venom deals 2 damage to that land's controller.
+p766
+aVTarget spell or permanent becomes white. <i>(Mana symbols on that permanent remain unchanged.)</i>
+p767
+aVCounter target spell unless its controller pays {6}.
+p768
+aVFlying<br>Whenever Mirko Vosk, Mind Drinker deals combat damage to a player, that player reveals cards from the top of his or her library until he or she reveals four land cards, then puts those cards into his or her graveyard.
+p769
+aVWhenever an opponent discards a card, Megrim deals 2 damage to that player.
+p770
+aVIslandwalk<br>When Merrow Harbinger enters the battlefield, you may search your library for a Merfolk card, reveal it, then shuffle your library and put that card on top of it.
+p771
+aVAt the beginning of your end step, untap all Merfolk you control.
+p772
+aVOther Merfolk creatures you control get +1/+1.<br>Whenever you cast a Merfolk spell, you may tap or untap target permanent.
+p773
+aVMerchant Ship can't attack unless defending player controls an Island.<br>Whenever Merchant Ship attacks and isn't blocked, you gain 2 life.<br>When you control no Islands, sacrifice Merchant Ship.
+p774
+aVAs an additional cost to cast Metamorphosis, sacrifice a creature.<br>Add X mana of any one color to your mana pool, where X is one plus the sacrificed creature's converted mana cost. Spend this mana only to cast creature spells.
+p775
+aVAll Sliver creatures get +2/+2.
+p776
+ag662
+aV{T}: Add {1} to your mana pool.<br>{4}, {T}: Exile target attacking creature an opponent controls. At the beginning of the next end step, return it to the battlefield tapped under its owner's control.
+p777
+aVSearch your library for a blue instant card, reveal that card, and put it into your hand. Then shuffle your library.
+p778
+aVFlying<br>{1}{W}: Mesa Falcon gets +0/+1 until end of turn.
+p779
+aVFlying<br>{1}{W}: Mesa Falcon gets +0/+1 until end of turn.
+p780
+aVAt the beginning of each player's upkeep, Primal Order deals damage to that player equal to the number of nonbasic lands he or she controls.
+p781
+aVWhenever Reef Pirates deals damage to an opponent, that player puts the top card of his or her library into his or her graveyard.
+p782
+aVPlainswalk
+p783
+aVG
+p784
+aV{T}: Destroy target creature with islandwalk.
+p785
+aVMerieke Ri Berit doesn't untap during your untap step.<br>{T}: Gain control of target creature for as long as you control Merieke Ri Berit. When Merieke Ri Berit leaves the battlefield or becomes untapped, destroy that creature. It can't be regenerated.
+p786
+aVWhen Mercenary Knight enters the battlefield, sacrifice it unless you discard a creature card.
+p787
+ag642
+aV{T}: Choose a color of a permanent you control. Add one mana of that color to your mana pool.
+p788
+aVAs Meddling Mage enters the battlefield, name a nonland card.<br>The named card can't be cast.
+p789
+asS'costs'
+p790
+(lp791
+V{2}{R/W}{R/W}
+p792
+aV{3}{R}
+p793
+aV{3}
+p794
+aV{2}{R}
+p795
+aV{1}
+p796
+aV{U}
+p797
+aV{1}{W}
+p798
+aV{3}{B}
+p799
+aV{4}{U}{U}{U}
+p800
+aV{U}
+p801
+aV{2}{W}{W}
+p802
+aV{U}
+p803
+aV{1}
+p804
+aV{U}
+p805
+aV{1}{W}
+p806
+aV{2}{U}
+p807
+aV{1}{W}{W}
+p808
+aV{2}{B}
+p809
+aV{3}{U}
+p810
+aV{4}
+p811
+aV{2}{R}{R}
+p812
+aV{6}{B}
+p813
+aV{4}{G}{G}
+p814
+aV{3}
+p815
+aV{3}{R}{R}
+p816
+aV{3}{R}
+p817
+aV{3}{B}{B}
+p818
+aV{1}{G}
+p819
+aV{2}{R}{R}
+p820
+aV{1}
+p821
+aV{2}{U}
+p822
+aV{2}{B}
+p823
+aV{1}{U}
+p824
+aV{2}{G}
+p825
+aV{2}
+p826
+aV{2}{R}
+p827
+aS'0'
+p828
+aV{5}
+p829
+aV{1}{U}{B}{R}
+p830
+aV{4}
+p831
+aV{4}{U}
+p832
+aV{2}{W}{W}
+p833
+aV{U}{U}
+p834
+aV{4}{G}
+p835
+aV{2}{R}
+p836
+aV{U}
+p837
+aV{2}{U}{U}
+p838
+aV{2}{U}{U}
+p839
+aV{2}{U}{U}
+p840
+aV{2}{U}{U}
+p841
+aV{3}{G}{G}
+p842
+aV{4}{G}
+p843
+aV{1}
+p844
+aV{U}
+p845
+aV{1}{W}
+p846
+aV{1}{U}{U}
+p847
+aV{X}{X}{R}
+p848
+aV{W}
+p849
+aV{2}{B}
+p850
+aV{3}{U}
+p851
+aV{B}
+p852
+aV{3}{R}{G}{W}
+p853
+aV{4}{B}
+p854
+aV{1}{B}
+p855
+aV{3}{R}{R}
+p856
+aV{1}{U}
+p857
+aV{4}{U}
+p858
+aV{W}
+p859
+aV{1}{U}{U}
+p860
+aV{1}{U}{U}
+p861
+aV{3}
+p862
+aV{1}{U}
+p863
+aV{3}{G}{G}
+p864
+aV{2}{W}{W}
+p865
+aV{1}{R}{R}
+p866
+aV{2}{G}{U}
+p867
+aV{3}{B}
+p868
+aV{4}{W}{B}
+p869
+aV{3}
+p870
+aV{3}
+p871
+aV{1}{U}
+p872
+aV{5}
+p873
+aV{1}
+p874
+aV{U}
+p875
+aV{1}{W}
+p876
+aV{1}{U}{U}
+p877
+aV{4}{R}
+p878
+aV{3}{R}
+p879
+aV{X}{X}{R}
+p880
+aV{3}{W}
+p881
+aV{W}{U}{B}
+p882
+aV{1}{B}
+p883
+aV{B}{B}
+p884
+aV{3}{U}
+p885
+aV{1}{W}
+p886
+aV{1}
+p887
+aV{1}{U}
+p888
+aV{U}
+p889
+aV{2}
+p890
+aV{4}{R}{R}
+p891
+aV{4}{G}{W}{W}{U}
+p892
+aV{4}{U}{B}{B}{R}
+p893
+aV{1}
+p894
+aV{1}{U}
+p895
+aV{1}{U}
+p896
+aV{2}{B}
+p897
+aV{U}
+p898
+aV{2}{W}
+p899
+aV{3}{G}
+p900
+aV{4}{U}{U}
+p901
+aV{3}{W}
+p902
+aV{5}
+p903
+aV{2}{W}
+p904
+aV{4}{B}
+p905
+aV{7}
+p906
+aV{4}{W}
+p907
+aV{1}{U}
+p908
+aV{U}
+p909
+aV{3}{U/B}
+p910
+aV{1}{G/W}
+p911
+aV{U/B}{U/B}{U/B}{U/B}
+p912
+aV{4}{U}
+p913
+aV{U/B}
+p914
+aV{2}{G/W}
+p915
+aV{6}{G}
+p916
+aV{1}{G}
+p917
+aV{U}
+p918
+aV{4}{B}{B}
+p919
+aV{1}{U}
+p920
+aV{3}{U}
+p921
+aV{3}{U}
+p922
+aV{3}{R}{R}
+p923
+aV{2}{U}
+p924
+aV{X}{R}
+p925
+aV{4}
+p926
+aV{1}{W}
+p927
+aV{3}{B}
+p928
+aV{3}{U}
+p929
+aV{4}{W}{U}
+p930
+aV{1}{U}
+p931
+aV{2}{U}
+p932
+aV{1}{U}
+p933
+aV{2}{B}
+p934
+aV{G}
+p935
+aV{1}{U}
+p936
+aV{2}{U}{U}
+p937
+aV{R}{G}
+p938
+aV{1}{U}{U}
+p939
+aV{W}{U}
+p940
+aV{2}{G/U}{W}
+p941
+aV{1}{W}
+p942
+aV{1}
+p943
+aV{1}{U}
+p944
+aV{U}
+p945
+aV{1}{W}
+p946
+aV{7}
+p947
+aV{1}{W}
+p948
+aV{3}{G}{G}
+p949
+aV{3}{B}
+p950
+aV{B}{B}
+p951
+aV{1}{U}
+p952
+aV{1}{U}
+p953
+aV{1}{U}
+p954
+aV{2}{U}
+p955
+aV{3}{W}{W}
+p956
+aV{1}{U}
+p957
+aV{4}{B}
+p958
+aV{1}{G}
+p959
+ag828
+aV{U}
+p960
+aV{1}
+p961
+aV{1}{W}
+p962
+aV{4}{U}{R}
+p963
+aV{G}
+p964
+aV{2}{B}
+p965
+aV{3}{U}
+p966
+aV{1}{U}
+p967
+aV{2}{U}
+p968
+aV{U}
+p969
+aV{G}
+p970
+aV{1}
+p971
+aV{3}{R}{R}
+p972
+aV{1}{U}
+p973
+aV{1}{U}
+p974
+aV{1}{U}
+p975
+aV{1}{U}
+p976
+aV{1}{W}
+p977
+aV{1}{W}
+p978
+aV{4}{G}
+p979
+aV{3}{G}{G}
+p980
+aV{U}{U}
+p981
+aV{W}{U}{B}
+p982
+aV{2}{B}
+p983
+aV{U}
+p984
+ag828
+aV{W}{U}
+p985
+asS'names'
+p986
+(lp987
+VMemory Erosion
+p988
+aVMerfolk Looter
+p989
+aVMerfolk Mesmerist
+p990
+aVMesa Enchantress
+p991
+aVMeekstone
+p992
+aVMerfolk of the Pearl Trident
+p993
+aVMesa Pegasus
+p994
+aVMeasure of Wickedness
+p995
+aVMeishin, the Mind Cage
+p996
+aVMerrow Witsniper
+p997
+aVMeadowboon
+p998
+aVMerfolk of the Pearl Trident
+p999
+aVMeekstone
+p1000
+aVMerfolk of the Pearl Trident
+p1001
+aVMesa Pegasus
+p1002
+aVMerfolk Thaumaturgist
+p1003
+aVMesa Enchantress
+p1004
+aVMelancholy
+p1005
+aVMelt Terrain
+p1006
+aVMemnite
+p1007
+aVMemoricide
+p1008
+aVMeletis Astronomer
+p1009
+aVMegrim
+p1010
+aVMerfolk Looter
+p1011
+aVMerfolk Sovereign
+p1012
+aVMesa Enchantress
+p1013
+aVMegantic Sliver
+p1014
+aVMerfolk Spy
+p1015
+aVMessenger Drake
+p1016
+aVMetallic Sliver
+p1017
+aVMeditate
+p1018
+aVMegrim
+p1019
+aVMerfolk Looter
+p1020
+aVMegatherium
+p1021
+aVMercadian Lift
+p1022
+aVMercadia's Downfall
+p1023
+aVMercadian Bazaar
+p1024
+aVMercadian Atlas
+p1025
+aVMemory Jar
+p1026
+aVMesmeric Fiend
+p1027
+aVMeloku the Clouded Mirror
+p1028
+aVMeadowboon
+p1029
+aVMerfolk Assassin
+p1030
+aVMelira's Keepers
+p1031
+aVMetallic Mastery
+p1032
+aVMerfolk of the Pearl Trident
+p1033
+aVMerseine
+p1034
+aVMerseine
+p1035
+aVMerseine
+p1036
+aVMerseine
+p1037
+aVMeng Huo, Barbarian King
+p1038
+aVMeng Huo's Horde
+p1039
+aVMeekstone
+p1040
+aVMerfolk of the Pearl Trident
+p1041
+aVMesa Pegasus
+p1042
+aVMesmeric Trance
+p1043
+aVMeteor Shower
+p1044
+aVMending Hands
+p1045
+aVMegrim
+p1046
+aVMerrow Levitator
+p1047
+aVMerrow Bonegnawer
+p1048
+aVMeglonoth
+p1049
+aVMental Agony
+p1050
+aVMesmeric Fiend
+p1051
+aVMenacing Ogre
+p1052
+aVMeddle
+p1053
+aVMeloku the Clouded Mirror
+p1054
+aVMending Hands
+p1055
+aVMetathran Elite
+p1056
+aVMental Discipline
+p1057
+aVMetalworker
+p1058
+aVMetathran Soldier
+p1059
+aVMetamorphic Wurm
+p1060
+aVMercurial Chemister
+p1061
+aVMental Vapors
+p1062
+aVMerciless Eviction
+p1063
+aVMerfolk of the Depths
+p1064
+aVMetropolis Sprite
+p1065
+aVMedicine Bag
+p1066
+aVMemory Crystal
+p1067
+aVMerfolk Looter
+p1068
+aVMemory Jar
+p1069
+aVMeekstone
+p1070
+aVMerfolk of the Pearl Trident
+p1071
+aVMesa Pegasus
+p1072
+aVMesmeric Trance
+p1073
+aVMelee
+p1074
+aVMelting
+p1075
+aVMeteor Shower
+p1076
+aVMercenaries
+p1077
+aVMerieke Ri Berit
+p1078
+aVMesmeric Fiend
+p1079
+aVMerfolk Seastalkers
+p1080
+aVMerfolk Wayfinder
+p1081
+aVMesa Falcon
+p1082
+aVMeekstone
+p1083
+aVMemory Lapse
+p1084
+aVMerfolk of the Pearl Trident
+p1085
+aVMesmeric Orb
+p1086
+aVMegatog
+p1087
+aVMemory Erosion
+p1088
+aVMetallurgeon
+p1089
+aVMeekstone
+p1090
+aVMerfolk Looter
+p1091
+aVMemory Lapse
+p1092
+aVMegrim
+p1093
+aVMerfolk of the Pearl Trident
+p1094
+aVMercenary Informer
+p1095
+aVMeditation Puzzle
+p1096
+aVMercurial Pretender
+p1097
+aVMeteorite
+p1098
+aVMemory Jar
+p1099
+aVMetal Fatigue
+p1100
+aVMephitic Ooze
+p1101
+aVMemnarch
+p1102
+aVMerfolk Observer
+p1103
+aVMerfolk Skyscout
+p1104
+aVMental Note
+p1105
+aVMerrow Grimeblotter
+p1106
+aVMedicine Runner
+p1107
+aVMemory Plunder
+p1108
+aVMerrow Wavebreakers
+p1109
+aVMemory Sluice
+p1110
+aVMercy Killing
+p1111
+aVMelira, Sylvok Outcast
+p1112
+aVMental Misstep
+p1113
+aVMerfolk of the Pearl Trident
+p1114
+aVMephidross Vampire
+p1115
+aVMetamorphose
+p1116
+aVMercurial Kite
+p1117
+aVMesmeric Sliver
+p1118
+aVMenacing Ogre
+p1119
+aVMerchant of Secrets
+p1120
+aVMeltdown
+p1121
+aVMetrognome
+p1122
+aVMesa Pegasus
+p1123
+aVMedomai the Ageless
+p1124
+aVMeletis Charlatan
+p1125
+aVMessenger's Speed
+p1126
+aVMerfolk Traders
+p1127
+aVMerchant of Secrets
+p1128
+aVMerchant Scroll
+p1129
+aVMegrim
+p1130
+aVMetamorphosis
+p1131
+aVMetathran Zombie
+p1132
+aVMetathran Aerostat
+p1133
+aVMeteor Storm
+p1134
+aVMetathran Transport
+p1135
+aVMeddling Mage
+p1136
+aVMessenger Falcons
+p1137
+aVMesa Pegasus
+p1138
+aVMeekstone
+p1139
+aVMemory Lapse
+p1140
+aVMerfolk of the Pearl Trident
+p1141
+aVMesa Falcon
+p1142
+aVMemnarch
+p1143
+aVMetallurgeon
+p1144
+aVMeandering Towershell
+p1145
+aVMer-Ek Nightblade
+p1146
+aVMemory Lapse
+p1147
+aVMerfolk Wayfinder
+p1148
+aVMeddle
+p1149
+aVMerfolk Raiders
+p1150
+aVMerfolk Seer
+p1151
+aVMelesse Spirit
+p1152
+aVMemory Lapse
+p1153
+aVMemory's Journey
+p1154
+aVMentor of the Meek
+p1155
+aVMerciless Predator
+p1156
+aVMerfolk of the Pearl Trident
+p1157
+aVMeekstone
+p1158
+aVMesa Pegasus
+p1159
+aVMelek, Izzet Paragon
+p1160
+aVMending Touch
+p1161
+aVMegrim
+p1162
+aVMerrow Harbinger
+p1163
+aVMerrow Commerce
+p1164
+aVMerrow Reejerey
+p1165
+aVMerchant Ship
+p1166
+aVMetamorphosis
+p1167
+aVMetallic Sliver
+p1168
+aVMerfolk Sovereign
+p1169
+aVMerfolk Spy
+p1170
+aVMemory Lapse
+p1171
+aVMemory Lapse
+p1172
+aVMerchant Scroll
+p1173
+aVMesa Falcon
+p1174
+aVMesa Falcon
+p1175
+aVMeng Huo's Horde
+p1176
+aVMeng Huo, Barbarian King
+p1177
+aVMerfolk Assassin
+p1178
+aVMerieke Ri Berit
+p1179
+aVMercenary Knight
+p1180
+aVMerfolk of the Pearl Trident
+p1181
+aVMeteor Crater
+p1182
+aVMeddling Mage
+p1183
+asS'toughs'
+p1184
+(lp1185
+S'N/A'
+p1186
+aV1
+p1187
+aV2
+p1188
+ag1188
+ag1186
+aV6
+p1189
+ag1187
+ag1186
+ag1186
+ag1187
+aV3
+p1190
+aV4
+p1191
+ag1186
+ag1188
+ag1188
+ag1188
+ag1188
+ag1186
+ag1186
+ag1186
+ag1186
+ag1187
+ag1186
+ag1191
+aV5
+p1192
+ag1187
+ag1187
+ag1190
+ag1190
+ag1186
+ag1186
+ag1186
+ag1192
+ag1191
+ag1186
+ag1186
+ag1186
+ag1186
+ag1186
+ag1190
+ag1192
+ag1187
+ag1187
+ag1190
+ag1186
+ag1187
+ag1186
+ag1186
+ag1186
+ag1186
+ag1189
+ag1191
+ag1186
+ag1192
+ag1187
+ag1186
+ag1186
+ag1186
+ag1186
+ag1190
+ag1187
+ag1188
+ag1186
+ag1187
+ag1191
+ag1186
+ag1191
+ag1186
+ag1187
+ag1186
+ag1186
+ag1190
+ag1190
+ag1187
+ag1186
+ag1186
+aV7
+p1193
+ag1193
+ag1186
+ag1186
+ag1188
+ag1186
+ag1186
+ag1189
+ag1187
+ag1186
+ag1186
+ag1186
+ag1186
+ag1187
+ag1187
+ag1187
+ag1190
+ag1191
+ag1191
+ag1186
+ag1186
+ag1187
+ag1186
+ag1188
+ag1186
+ag1186
+ag1186
+ag1187
+ag1186
+ag1186
+ag1191
+ag1187
+ag1186
+ag1190
+ag1186
+ag1186
+ag1186
+ag1190
+ag1186
+ag1191
+ag1191
+ag1186
+ag1188
+ag1187
+ag1186
+aV9
+p1194
+ag1186
+ag1186
+ag1187
+ag1186
+ag1187
+ag1191
+ag1186
+ag1190
+ag1191
+ag1188
+ag1187
+ag1186
+ag1186
+ag1187
+ag1189
+ag1190
+ag1186
+ag1188
+ag1187
+ag1186
+ag1186
+ag1186
+ag1187
+ag1188
+ag1186
+ag1190
+ag1188
+ag1188
+ag1187
+ag1186
+ag1186
+ag1190
+ag1192
+ag1186
+ag1186
+ag1194
+ag1190
+ag1186
+aV*
+p1195
+ag1186
+ag1187
+ag1190
+ag1191
+ag1186
+ag1186
+ag1189
+ag1186
+ag1187
+ag1186
+ag1188
+ag1191
+ag1186
+ag1186
+ag1190
+ag1186
+ag1188
+ag1188
+ag1186
+ag1186
+ag1188
+ag1192
+ag1186
+ag1186
+ag1186
+ag1188
+ag1188
+ag1192
+ag1191
+ag1188
+ag1187
+ag1191
+ag1187
+ag1186
+ag1190
+asS'artists'
+p1196
+(lp1197
+VHoward Lyon
+p1198
+aS''
+p1199
+ag1199
+ag1199
+aVQuinton Hoover
+p1200
+aVJeff A. Menges
+p1201
+aVMelissa Benson
+p1202
+aVDaren Bader
+p1203
+aVThomas Gianni
+p1204
+aVSteve Prescott
+p1205
+aVSteven Belledin
+p1206
+aVRay Lago
+p1207
+aVQuinton Hoover
+p1208
+aVJeff A. Menges
+p1209
+aVMelissa A. Benson
+p1210
+aVSteve Prescott
+p1211
+aVRandy Gallegos
+p1212
+aVLars Grant-West
+p1213
+aVJohn Avon
+p1214
+aVSvetlin Velinov
+p1215
+aVJames Ryman
+p1216
+aVDan Scott
+p1217
+aVNick Percival
+p1218
+aVAustin Hsu
+p1219
+aVJesper Ejsing
+p1220
+aVRandy Gallegos
+p1221
+aVRyan Barger
+p1222
+aVMatt Cavotta & Richard Whitters
+p1223
+aVYeong-Hao Han
+p1224
+aVL. A. Williams
+p1225
+aVSusan Van Camp
+p1226
+aVNick Percival
+p1227
+aVTristan Elwell
+p1228
+aVPaolo Parente
+p1229
+aVGary Ruddell
+p1230
+aVPete Venters
+p1231
+aVTerese Nielsen
+p1232
+aVDan Frazier
+p1233
+aVDonato Giancola
+p1234
+aVDana Knutson
+p1235
+ag1199
+ag1199
+aVDenise Detwiler
+p1236
+ag1199
+ag1199
+aVDiTerlizzi
+p1237
+aVDrew Tucker
+p1238
+aVMargaret Organ-Kean
+p1239
+aVHeather Hudson
+p1240
+aVPete Venters
+p1241
+aVYang Jun Kwon
+p1242
+aVJulie Baroh
+p1243
+aVQuinton Hoover
+p1244
+aVJeff A. Menges
+p1245
+aVMelissa Benson
+p1246
+aVDan Frazier
+p1247
+aVRick Emond
+p1248
+aVDouglas Shuler
+p1249
+aVNick Percival
+p1250
+aVJim Pavelec
+p1251
+aVJim Nelson
+p1252
+aVSteve Prescott
+p1253
+aVBud Cook
+p1254
+aVDana Knutson
+p1255
+aVRon Spencer
+p1256
+aVBrian Snoddy
+p1257
+aVScott M. Fischer
+p1258
+aVDouglas Shuler
+p1259
+aVJim Nelson
+p1260
+aVEdward P. Beard, Jr.
+p1261
+aVHazeltine
+p1262
+aVPaolo Parente
+p1263
+aVThomas M. Baxa
+p1264
+aVWesley Burt
+p1265
+aVMark Winters
+p1266
+aVRichard Wright
+p1267
+aVScott Chou
+p1268
+aVScott Chou
+p1269
+aVDiTerlizzi
+p1270
+aVMichael Sutfin
+p1271
+aVRon Spencer
+p1272
+aVDonato Giancola
+p1273
+aVQuinton Hoover
+p1274
+aVJeff A. Menges
+p1275
+aVMelissa Benson
+p1276
+aVDan Frazier
+p1277
+aVDameon Willich
+p1278
+aVRandy Gallegos
+p1279
+aVRick Emond
+p1280
+aVCornelius Brudi
+p1281
+aVHeather Hudson
+p1282
+aVDana Knutson
+p1283
+aVEric Deschamps
+p1284
+aVChristopher Moeller
+p1285
+aVMark Poole
+p1286
+aVQuinton Hoover
+p1287
+aVMark Tedin
+p1288
+aVDiTerlizzi
+p1289
+aVDavid Martin
+p1290
+aVPete Venters
+p1291
+aVHoward Lyon
+p1292
+aVWarren Mahy
+p1293
+aVDavid Martin
+p1294
+aVTristan Elwell
+p1295
+aVTristan Elwell
+p1296
+aVPeter Bollinger
+p1297
+aVRay Lago
+p1298
+aVNelson DeCastro
+p1299
+aVMark Winters
+p1300
+aVIzzy
+p1301
+aVScott Murphy
+p1302
+aVDonato Giancola
+p1303
+aVArnie Swekel
+p1304
+aVAlex Horley-Orlandelli
+p1305
+aVCarl Critchlow
+p1306
+aVAnthony Francisco
+p1307
+aVrk post
+p1308
+aVBradley Williams
+p1309
+aVCyril Van Der Haegen
+p1310
+aVChippy
+p1311
+aVDan Scott
+p1312
+aVAlex Horley-Orlandelli
+p1313
+aVWayne England
+p1314
+aVDave Kendall
+p1315
+ag1199
+ag1199
+aVDiTerlizzi
+p1316
+aVMatthew D. Wilson
+p1317
+aVRon Spencer
+p1318
+aVRichard Sardinha
+p1319
+aVMichael Bruinsma
+p1320
+aVRon Spencer
+p1321
+aVGreg Hildebrandt
+p1322
+aVDonato Giancola
+p1323
+aVJeff Laubenstein
+p1324
+aVMelissa A. Benson
+p1325
+aVDavid Palumbo
+p1326
+aVJason A. Engle
+p1327
+aVClint Cearley
+p1328
+aVDiTerlizzi
+p1329
+aVGreg Hildebrandt
+p1330
+aVDavid Martin
+p1331
+aVPeter Bollinger
+p1332
+aVChristopher Rush
+p1333
+aVArnie Swekel
+p1334
+aVGreg Staples
+p1335
+aVJohn Avon
+p1336
+aVGlen Angus
+p1337
+aVTodd Lockwood
+p1338
+aVDavid Palumbo
+p1339
+aVMelissa A. Benson
+p1340
+aVQuinton Hoover
+p1341
+aVMark Tedin
+p1342
+aVJohn Matson
+p1343
+aVMark Poole
+p1344
+aVCarl Critchlow
+p1345
+aVWarren Mahy
+p1346
+aVYW Tang
+p1347
+aVLucas Graciano
+p1348
+aVRebecca Guay
+p1349
+aVChristopher Moeller
+p1350
+aVBrian Snoddy
+p1351
+aVSteve Luke
+p1352
+aVSteve Luke
+p1353
+aVGerry Grace
+p1354
+aVRebecca Guay
+p1355
+aVSlawomir Maniak
+p1356
+aVJana Schirmer & Johannes Voss
+p1357
+aVMichael C. Hayes
+p1358
+aVJeff A. Menges
+p1359
+aVQuinton Hoover
+p1360
+aVMelissa Benson
+p1361
+aVJason Chan
+p1362
+aVKarla Ortiz
+p1363
+aVDonato Giancola
+p1364
+aVSteve Prescott
+p1365
+aVSteve Ellis
+p1366
+aVGreg Staples
+p1367
+aVTom Wänerstrand
+p1368
+aVChristopher Rush
+p1369
+aVL. A. Williams
+p1370
+aVJesper Ejsing
+p1371
+aVMatt Cavotta & Richard Whitters
+p1372
+aVMark Tedin
+p1373
+aVMark Tedin
+p1374
+aVLiz Danforth
+p1375
+aVMark Poole
+p1376
+aVMark Poole
+p1377
+aVs/b Lie Tiu
+p1378
+aVYang Guangmai
+p1379
+aVDennis Detwiller
+p1380
+aVHeather Hudson
+p1381
+aVAdrian Smith
+p1382
+aVDiTerlizzi
+p1383
+aVJohn Avon
+p1384
+aVChristopher Moeller
+p1385
+asS'powers'
+p1386
+(lp1387
+g1186
+ag1188
+ag1187
+ag1187
+ag1186
+ag1192
+ag1187
+ag1186
+ag1186
+ag1187
+ag1190
+ag1187
+ag1186
+ag1188
+ag1188
+ag1187
+aV0
+p1388
+ag1186
+ag1186
+ag1186
+ag1186
+ag1187
+ag1186
+ag1190
+ag1187
+ag1188
+ag1188
+ag1190
+ag1187
+ag1186
+ag1186
+ag1186
+ag1188
+ag1191
+ag1186
+ag1186
+ag1186
+ag1186
+ag1186
+ag1191
+ag1192
+ag1187
+ag1187
+ag1188
+ag1186
+ag1187
+ag1186
+ag1186
+ag1186
+ag1186
+ag1191
+ag1191
+ag1186
+ag1190
+ag1187
+ag1186
+ag1186
+ag1186
+ag1186
+ag1188
+ag1187
+ag1188
+ag1186
+ag1187
+ag1190
+ag1186
+ag1188
+ag1186
+ag1187
+ag1186
+ag1186
+ag1188
+ag1190
+ag1188
+ag1186
+ag1186
+ag1188
+ag1191
+ag1186
+ag1186
+ag1188
+ag1186
+ag1186
+ag1192
+ag1187
+ag1186
+ag1186
+ag1186
+ag1186
+ag1187
+ag1187
+ag1187
+ag1191
+ag1188
+ag1191
+ag1186
+ag1186
+ag1190
+ag1186
+ag1188
+ag1186
+ag1186
+ag1186
+ag1187
+ag1186
+ag1186
+ag1187
+ag1188
+ag1186
+ag1188
+ag1186
+ag1186
+ag1186
+ag1190
+ag1186
+ag1188
+ag1188
+ag1186
+ag1188
+ag1188
+ag1186
+ag1194
+ag1186
+ag1186
+ag1192
+ag1186
+ag1187
+ag1192
+ag1186
+ag1187
+ag1189
+ag1188
+ag1187
+ag1186
+ag1186
+ag1187
+ag1187
+ag1190
+ag1186
+ag1188
+ag1187
+ag1186
+ag1186
+ag1186
+ag1187
+ag1188
+ag1186
+ag1190
+ag1188
+ag1188
+ag1187
+ag1186
+ag1186
+ag1190
+ag1188
+ag1186
+ag1186
+ag1192
+ag1188
+ag1186
+ag1192
+ag1186
+ag1187
+ag1190
+ag1190
+ag1186
+ag1186
+ag1193
+ag1186
+ag1187
+ag1186
+ag1188
+ag1188
+ag1186
+ag1186
+ag1188
+ag1186
+ag1188
+ag1388
+ag1186
+ag1186
+ag1188
+ag1187
+ag1186
+ag1186
+ag1186
+ag1189
+ag1189
+ag1191
+ag1191
+ag1187
+ag1187
+ag1191
+ag1187
+ag1186
+ag1190
+asS'types'
+p1389
+(lp1390
+VEnchantment
+p1391
+aVCreature - Merfolk Rogue
+p1392
+aVCreature - Merfolk Wizard
+p1393
+aVCreature - Human Druid
+p1394
+aVArtifact
+p1395
+aVCreature - Merfolk
+p1396
+aVCreature - Pegasus
+p1397
+aVEnchantment
+p1398
+aVLegendary Enchantment
+p1399
+aVCreature - Merfolk Rogue
+p1400
+aVCreature - Elemental
+p1401
+aVCreature - Merfolk
+p1402
+aVArtifact
+p1403
+aVCreature - Merfolk
+p1404
+aVCreature - Pegasus
+p1405
+aVCreature - Merfolk Wizard
+p1406
+aVCreature - Human Druid
+p1407
+aVEnchantment - Aura
+p1408
+aVSorcery
+p1409
+aVArtifact Creature - Construct
+p1410
+aVSorcery
+p1411
+aVCreature - Human Wizard
+p1412
+aVEnchantment
+p1413
+aVCreature - Merfolk Rogue
+p1414
+aVCreature - Merfolk
+p1415
+aVCreature - Human Druid
+p1416
+aVCreature - Sliver
+p1417
+aVCreature - Merfolk Rogue
+p1418
+aVCreature - Drake
+p1419
+aVArtifact Creature - Sliver
+p1420
+aVInstant
+p1421
+aVEnchantment
+p1422
+aVCreature - Merfolk Rogue
+p1423
+aVCreature - Beast
+p1424
+aVArtifact
+p1425
+aVInstant
+p1426
+aVLand
+p1427
+aVArtifact
+p1428
+aVArtifact
+p1429
+aVCreature - Nightmare Horror
+p1430
+aVLegendary Creature - Moonfolk Wizard
+p1431
+aVCreature - Elemental
+p1432
+aVCreature - Merfolk Assassin
+p1433
+aVCreature - Human Warrior
+p1434
+aVSorcery
+p1435
+aVCreature - Merfolk
+p1436
+aVEnchantment - Aura
+p1437
+aVEnchantment - Aura
+p1438
+aVEnchantment - Aura
+p1439
+aVEnchantment - Aura
+p1440
+aVLegendary Creature - Human Barbarian Soldier
+p1441
+aVCreature - Human Soldier
+p1442
+aVArtifact
+p1443
+aVCreature - Merfolk
+p1444
+aVCreature - Pegasus
+p1445
+aVEnchantment
+p1446
+aVSorcery
+p1447
+aVInstant
+p1448
+aVEnchantment
+p1449
+aVCreature - Merfolk Wizard
+p1450
+aVCreature - Merfolk Rogue
+p1451
+aVCreature - Beast
+p1452
+aVSorcery
+p1453
+aVCreature - Nightmare Horror
+p1454
+aVCreature - Ogre
+p1455
+aVInstant
+p1456
+aVLegendary Creature - Moonfolk Wizard
+p1457
+aVInstant
+p1458
+aVCreature - Metathran Soldier
+p1459
+aVEnchantment
+p1460
+aVArtifact Creature - Construct
+p1461
+aVCreature - Metathran Soldier
+p1462
+aVCreature - Elephant Wurm
+p1463
+aVCreature - Human Wizard
+p1464
+aVSorcery
+p1465
+aVSorcery
+p1466
+aVCreature - Merfolk Soldier
+p1467
+aVCreature - Faerie Rogue
+p1468
+aVArtifact
+p1469
+aVArtifact
+p1470
+aVCreature - Merfolk Rogue
+p1471
+aVArtifact
+p1472
+aVArtifact
+p1473
+aVCreature - Merfolk
+p1474
+aVCreature - Pegasus
+p1475
+aVEnchantment
+p1476
+aVInstant
+p1477
+aVEnchantment
+p1478
+aVSorcery
+p1479
+aVCreature - Human Mercenary
+p1480
+aVLegendary Creature - Human
+p1481
+aVCreature - Nightmare Horror
+p1482
+aVCreature - Merfolk Scout
+p1483
+aVCreature - Merfolk Scout
+p1484
+aVCreature - Bird
+p1485
+aVArtifact
+p1486
+aVInstant
+p1487
+aVCreature - Merfolk
+p1488
+aVArtifact
+p1489
+aVCreature - Atog
+p1490
+aVEnchantment
+p1491
+aVArtifact Creature - Human Artificer
+p1492
+aVArtifact
+p1493
+aVCreature - Merfolk Rogue
+p1494
+aVInstant
+p1495
+aVEnchantment
+p1496
+aVCreature - Merfolk
+p1497
+aVCreature - Human Rebel Mercenary
+p1498
+aVInstant
+p1499
+aVCreature - Shapeshifter
+p1500
+aVArtifact
+p1501
+aVArtifact
+p1502
+aVInstant
+p1503
+aVCreature - Ooze
+p1504
+aVLegendary Artifact Creature - Wizard
+p1505
+aVCreature - Merfolk Rogue
+p1506
+aVCreature - Merfolk Scout
+p1507
+aVInstant
+p1508
+aVCreature - Merfolk Wizard
+p1509
+aVCreature - Elf Cleric
+p1510
+aVInstant
+p1511
+aVCreature - Merfolk Soldier
+p1512
+aVSorcery
+p1513
+aVInstant
+p1514
+aVLegendary Creature - Human Scout
+p1515
+aVInstant
+p1516
+aVCreature - Merfolk
+p1517
+aVCreature - Vampire
+p1518
+aVInstant
+p1519
+aVCreature - Bird
+p1520
+aVCreature - Sliver
+p1521
+aVCreature - Ogre
+p1522
+aVCreature - Human Wizard
+p1523
+aVSorcery
+p1524
+aVArtifact
+p1525
+aVCreature - Pegasus
+p1526
+aVLegendary Creature - Sphinx
+p1527
+aVCreature - Human Wizard
+p1528
+aVEnchantment - Aura
+p1529
+aVCreature - Merfolk
+p1530
+aVCreature - Human Wizard
+p1531
+aVSorcery
+p1532
+aVEnchantment
+p1533
+aVSorcery
+p1534
+aVCreature - Metathran Zombie
+p1535
+aVCreature - Metathran
+p1536
+aVEnchantment
+p1537
+aVCreature - Metathran
+p1538
+aVCreature - Human Wizard
+p1539
+aVCreature - Bird
+p1540
+aVCreature - Pegasus
+p1541
+aVArtifact
+p1542
+aVInstant
+p1543
+aVCreature - Merfolk
+p1544
+aVCreature - Bird
+p1545
+aVLegendary Artifact Creature - Wizard
+p1546
+aVArtifact Creature - Human Artificer
+p1547
+aVCreature - Turtle
+p1548
+aVCreature - Orc Assassin
+p1549
+aVInstant
+p1550
+aVCreature - Merfolk Scout
+p1551
+aVInstant
+p1552
+aVCreature - Merfolk Soldier
+p1553
+aVCreature - Merfolk Wizard
+p1554
+aVCreature - Angel Spirit
+p1555
+aVInstant
+p1556
+aVInstant
+p1557
+aVCreature - Human Soldier
+p1558
+aVTransform Creature - Werewolf
+p1559
+aVCreature - Merfolk
+p1560
+aVArtifact
+p1561
+aVCreature - Pegasus
+p1562
+aVLegendary Creature - Weird Wizard
+p1563
+aVInstant
+p1564
+aVEnchantment
+p1565
+aVCreature - Merfolk Wizard
+p1566
+aVTribal Enchantment - Merfolk
+p1567
+aVCreature - Merfolk Soldier
+p1568
+aVCreature - Human
+p1569
+aVSorcery
+p1570
+aVArtifact Creature - Sliver
+p1571
+aVCreature - Merfolk
+p1572
+aVCreature - Merfolk Rogue
+p1573
+aVInstant
+p1574
+aVInstant
+p1575
+aVSorcery
+p1576
+aVCreature - Bird
+p1577
+aVCreature - Bird
+p1578
+aVCreature - Human Soldier
+p1579
+aVLegendary Creature - Human Barbarian Soldier
+p1580
+aVCreature - Merfolk Assassin
+p1581
+aVLegendary Creature - Human
+p1582
+aVCreature - Human Mercenary Knight
+p1583
+aVCreature - Merfolk
+p1584
+aVLand
+p1585
+aVCreature - Human Wizard
+p1586
+asS'numbers'
+p1587
+(lp1588
+V50
+p1589
+aV65
+p1590
+aV66
+p1591
+aV25
+p1592
+aV171
+p1593
+aV172
+p1594
+aV173
+p1595
+aV82
+p1596
+aV44
+p1597
+aV40
+p1598
+aV17
+p1599
+aV60
+p1600
+aV270
+p1601
+aV271
+p1602
+aV272
+p1603
+aV56
+p1604
+aV26
+p1605
+aV88
+p1606
+aV97
+p1607
+aV174
+p1608
+aV69
+p1609
+aV43
+p1610
+aV104
+p1611
+aV61
+p1612
+aV62
+p1613
+aV20
+p1614
+aV185
+p1615
+aV62
+p1616
+aV63
+p1617
+aV20
+p1618
+aV83
+p1619
+aV157
+p1620
+aV92
+p1621
+aV259
+p1622
+aV306
+p1623
+aV205
+p1624
+aV321
+p1625
+aV305
+p1626
+aV276
+p1627
+aV128
+p1628
+ag1199
+ag1199
+aV30
+p1629
+aV83
+p1630
+aV71
+p1631
+aV27
+p1632
+aV27
+p1633
+aV145
+p1634
+aV146
+p1635
+aV147
+p1636
+aV128
+p1637
+aV129
+p1638
+aV189
+p1639
+aV190
+p1640
+aV191
+p1641
+aV55
+p1642
+aV135
+p1643
+aV29
+p1644
+aV144
+p1645
+aV26
+p1646
+aV37
+p1647
+aV118
+p1648
+aV114
+p1649
+ag1193
+aV219
+p1650
+aV92
+p1651
+aV74
+p1652
+aV15
+p1653
+aV38
+p1654
+aV37
+p1655
+aV135
+p1656
+aV39
+p1657
+aV250
+p1658
+aV180
+p1659
+aV72
+p1660
+aV177
+p1661
+aV221
+p1662
+aV42
+p1663
+aV133
+p1664
+aV134
+p1665
+aV39
+p1666
+aV8
+p1667
+aV171
+p1668
+aV172
+p1669
+aV173
+p1670
+aV87
+p1671
+aV164
+p1672
+aV165
+p1673
+aV166
+p1674
+aV202
+p1675
+aV222
+p1676
+aV69
+p1677
+aV55
+p1678
+aV56
+p1679
+aV31
+p1680
+aV298
+p1681
+aV81
+p1682
+aV82
+p1683
+aV204
+p1684
+aV100
+p1685
+aV50
+p1686
+aV19
+p1687
+aV307
+p1688
+aV89
+p1689
+aV88
+p1690
+aV146
+p1691
+aV90
+p1692
+aV15
+p1693
+aV19
+p1694
+aV68
+p1695
+aV221
+p1696
+aV129
+p1697
+ag1667
+aV47
+p1698
+aV129
+p1699
+aV76
+p1700
+aV77
+p1701
+aV46
+p1702
+aV171
+p1703
+aV230
+p1704
+aV169
+p1705
+aV44
+p1706
+aV170
+p1707
+aV231
+p1708
+aV115
+p1709
+aV38
+p1710
+aV42
+p1711
+aV53
+p1712
+aV40
+p1713
+aV39
+p1714
+aV53
+p1715
+aV59
+p1716
+aV44
+p1717
+aV203
+p1718
+aV301
+p1719
+aV20
+p1720
+aV196
+p1721
+aV54
+p1722
+aV129
+p1723
+aV46
+p1724
+aV90
+p1725
+aV91
+p1726
+aV143
+p1727
+aV88
+p1728
+aV63
+p1729
+aV61
+p1730
+aV256
+p1731
+aV62
+p1732
+ag1667
+aV145
+p1733
+aV187
+p1734
+aV337
+p1735
+aV338
+p1736
+aV339
+p1737
+aV340
+p1738
+aV112
+p1739
+ag1188
+aV141
+p1740
+aV79
+p1741
+aV24
+p1742
+ag1194
+aV72
+p1743
+aV73
+p1744
+aV74
+p1745
+aV182
+p1746
+aV302
+p1747
+aV66
+p1748
+aV21
+p1749
+aV159
+p1750
+ag1667
+aV209
+p1751
+aV210
+p1752
+aV84
+p1753
+aV44
+p1754
+aV123
+p1755
+aV73
+p1756
+aV72
+p1757
+aV74
+p1758
+aV13
+p1759
+aV20
+p1760
+ag1187
+aV65
+p1761
+aV66
+p1762
+aV120
+p1763
+aV121
+p1764
+aV122
+p1765
+aV123
+p1766
+aV124
+p1767
+aV143
+p1768
+aV142
+p1769
+aV25
+p1770
+aV95
+p1771
+aV12
+p1772
+aV156
+p1773
+aV140
+p1774
+aV116
+p1775
+as.

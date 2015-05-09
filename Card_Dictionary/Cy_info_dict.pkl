@@ -1,0 +1,562 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVCommon
+p4
+aVCommon
+p5
+aVCommon
+p6
+aVCommon
+p7
+aVRare
+p8
+aVUncommon
+p9
+aVCommon
+p10
+aVRare
+p11
+aVRare
+p12
+aVCommon
+p13
+aVUncommon
+p14
+aVRare
+p15
+aVUncommon
+p16
+aVRare
+p17
+aVRare
+p18
+aVRare
+p19
+aVCommon
+p20
+aVRare
+p21
+aVCommon
+p22
+aVCommon
+p23
+aVRare
+p24
+aVRare
+p25
+aVRare
+p26
+aVUncommon
+p27
+aVRare
+p28
+asS'editns'
+p29
+(lp30
+VLimited Edition Beta
+p31
+aVFourth Edition
+p32
+aVScars of Mirrodin
+p33
+aVBorn of the Gods
+p34
+aVMagic 2014 Core Set
+p35
+aVConflux
+p36
+aVRavnica: City of Guilds
+p37
+aVTime Spiral
+p38
+aVReturn to Ravnica
+p39
+aVUnlimited Edition
+p40
+aVShards of Alara
+p41
+aVFuture Sight
+p42
+aVChronicles
+p43
+aVJourney into Nyx
+p44
+aVMirage
+p45
+aVLimited Edition Alpha
+p46
+aVMasters Edition IV
+p47
+aVMasters Edition IV
+p48
+aVMasters Edition IV
+p49
+aVLegends
+p50
+aVDissension
+p51
+aVDissension
+p52
+aVDissension
+p53
+aVDissension
+p54
+aVArabian Nights
+p55
+aVMagic 2011
+p56
+asS'ids'
+p57
+(lp58
+V306
+p59
+aV2095
+p60
+aV205477
+p61
+aV378462
+p62
+aV370585
+p63
+aV189081
+p64
+aV89035
+p65
+aV114915
+p66
+aV270798
+p67
+aV608
+p68
+aV174935
+p69
+aV126169
+p70
+aV2829
+p71
+aV380391
+p72
+aV3380
+p73
+aV11
+p74
+aV202533
+p75
+aV202550
+p76
+aV202517
+p77
+aV1433
+p78
+aV107312
+p79
+aV107346
+p80
+aV107353
+p81
+aV107507
+p82
+aV942
+p83
+aV205107
+p84
+asS'texts'
+p85
+(lp86
+V{2}, {T}: Put a mire counter on target non-Swamp land. That land is a Swamp for as long as it has a mire counter on it. Activate this ability only during your upkeep.<br>When Cyclopean Tomb is put into a graveyard from the battlefield, at the beginning of each of your upkeeps for the rest of the game, remove all mire counters from a land that a mire counter was put onto with Cyclopean Tomb but that a mire counter has not been removed from with Cyclopean Tomb.
+p87
+aVWhen Cyclopean Mummy dies, exile it.
+p88
+aVFlying<br>When Darkslick Drake dies, draw a card.
+p89
+aVChoose one or both- Return target enchantment card from your graveyard to your hand; and/or destroy target enchantment.
+p90
+aVArtifacts you control have indestructible. <i>(Effects that say "destroy" don't destroy them. Artifact creatures with indestructible can't be destroyed by damage.)</i>
+p91
+aVDark Temper deals 2 damage to target creature. If you control a black permanent, destroy the creature instead.
+p92
+aV{B}, Sacrifice a creature: Target player loses 1 life.
+p93
+aVWhen Cyclopean Giant dies, target land becomes a Swamp. Exile Cyclopean Giant.
+p94
+aVUnleash <i>(You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)</i>
+p95
+aVTarget spell or permanent becomes black. <i>(Mana symbols on that permanent remain unchanged.)</i>
+p96
+aVAt the beginning of your upkeep, put a 1/1 red Goblin creature token with haste onto the battlefield.<br>Goblin creatures attack each turn if able.
+p97
+aVFlying<br>Morph {2}{W} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p98
+aVDandân can't attack unless defending player controls an Island.<br>When you control no Islands, sacrifice Dandân.
+p99
+aVCreatures you control have haste.
+p100
+aVReturn Cycle of Life to its owner's hand: Target creature you cast this turn becomes 0/1 until your next upkeep. At the beginning of your next upkeep, put a +1/+1 counter on that creature.
+p101
+aVEnchant creature<br>When Earthbind enters the battlefield, if enchanted creature has flying, Earthbind deals 2 damage to that creature and Earthbind gains "Enchanted creature loses flying."
+p102
+aVDakmor Plague deals 3 damage to each creature and each player.
+p103
+aVAdd {B}{B}{B} to your mana pool.
+p104
+aVYou may have Deathcoil Wurm assign its combat damage as though it weren't blocked.
+p105
+aVCounter target instant spell.
+p106
+aVGraft 6 <i>(This creature enters the battlefield with six +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)</i><br>{G}: Target creature with a +1/+1 counter on it gains trample until end of turn.
+p107
+aVChoose a nonlegendary creature on the battlefield. Target creature becomes a copy of that creature until end of turn.
+p108
+aVGraft 2 <i>(This creature enters the battlefield with two +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)</i><br>{U}, {T}: Gain control of target creature with a +1/+1 counter on it for as long as Cytoplast Manipulator remains on the battlefield.
+p109
+aVGraft 4 <i>(This creature enters the battlefield with four +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)</i><br>When Cytoplast Root-Kin enters the battlefield, put a +1/+1 counter on each other creature you control that has a +1/+1 counter on it.<br>{2}: Move a +1/+1 counter from target creature you control onto Cytoplast Root-Kin.
+p110
+aVAt the beginning of your upkeep, put a wind counter on Cyclone, then sacrifice Cyclone unless you pay {G} for each wind counter on it. If you pay, Cyclone deals damage equal to the number of wind counters on it to each creature and each player.
+p111
+aVDestroy target green or white creature.
+p112
+asS'costs'
+p113
+(lp114
+V{4}
+p115
+aV{1}{B}
+p116
+aV{2}{G}
+p117
+aV{2}{R}{R}
+p118
+aV{1}{B}
+p119
+aV{1}{G}
+p120
+aV{2}
+p121
+aV{2}{B}{B}
+p122
+aV{1}{U}
+p123
+aV{4}
+p124
+aV{1}{W}{U}{B}
+p125
+aV{3}{G}{G}
+p126
+aV{2}{G}{G}
+p127
+aV{2}{U}
+p128
+aV{1}{G}{G}
+p129
+aV{4}
+p130
+aV{2}{G}{G}
+p131
+aV{1}{B}
+p132
+aV{4}
+p133
+aV{1}{B}
+p134
+aV{6}{G}
+p135
+aV{1}{G}{U}
+p136
+aV{2}{U}{U}
+p137
+aV{2}{G}{G}
+p138
+aV{2}{G}{G}
+p139
+aV{2}{G}{G}
+p140
+asS'names'
+p141
+(lp142
+VCyclopean Tomb
+p143
+aVCyclopean Mummy
+p144
+aVCystbearer
+p145
+aVCyclops of One-Eyed Pass
+p146
+aVCyclops Tyrant
+p147
+aVCylian Sunsinger
+p148
+aVCyclopean Snare
+p149
+aVCyclopean Giant
+p150
+aVCyclonic Rift
+p151
+aVCyclopean Tomb
+p152
+aVCylian Elf
+p153
+aVCyclical Evolution
+p154
+aVCyclone
+p155
+aVCyclops of Eternal Fury
+p156
+aVCycle of Life
+p157
+aVCyclopean Tomb
+p158
+aVCyclone
+p159
+aVCyclopean Mummy
+p160
+aVCyclopean Tomb
+p161
+aVCyclopean Mummy
+p162
+aVCytospawn Shambler
+p163
+aVCytoshape
+p164
+aVCytoplast Manipulator
+p165
+aVCytoplast Root-Kin
+p166
+aVCyclone
+p167
+aVCyclops Gladiator
+p168
+asS'toughs'
+p169
+(lp170
+S'N/A'
+p171
+aV4
+p172
+aV2
+p173
+aV5
+p174
+aV1
+p175
+ag173
+ag171
+ag173
+ag171
+ag171
+ag172
+ag171
+ag171
+ag171
+ag171
+ag171
+ag171
+ag175
+ag171
+ag172
+aV0
+p176
+ag171
+ag176
+ag175
+ag171
+ag172
+asS'artists'
+p177
+(lp178
+VAnson Maddocks
+p179
+aVEdward P. Beard, Jr.
+p180
+aVKev Walker
+p181
+aVKev Walker
+p182
+aVZack Stella
+p183
+aVJesper Ejsing
+p184
+aVKeith Garletts
+p185
+aVMark Tedin
+p186
+aVChris Rahn
+p187
+aVAnson Maddocks
+p188
+aVSteve Prescott
+p189
+aVMatt Cavotta
+p190
+aVMark Tedin
+p191
+aVMatt Stewart
+p192
+aVChippy
+p193
+aVAnson Maddocks
+p194
+aVMark Tedin
+p195
+aVEdward P. Beard, Jr.
+p196
+aVAnson Maddocks
+p197
+aVEdward Beard, Jr.
+p198
+aVAnthony S. Waters
+p199
+aVAlan Pollack
+p200
+aVDan Scott
+p201
+aVThomas M. Baxa
+p202
+aVMark Tedin
+p203
+aVKev Walker
+p204
+asS'powers'
+p205
+(lp206
+g171
+ag176
+ag173
+ag176
+aV3
+p207
+ag173
+ag171
+ag207
+ag171
+ag171
+ag173
+ag171
+ag171
+ag171
+ag171
+ag171
+ag171
+ag175
+ag171
+aV6
+p208
+ag176
+ag171
+ag176
+ag175
+ag171
+ag172
+asS'types'
+p209
+(lp210
+VArtifact
+p211
+aVCreature - Zombie
+p212
+aVCreature - Beast
+p213
+aVCreature - Cyclops
+p214
+aVCreature - Cyclops
+p215
+aVCreature - Elf Shaman
+p216
+aVArtifact
+p217
+aVCreature - Zombie Giant
+p218
+aVInstant
+p219
+aVArtifact
+p220
+aVCreature - Elf Scout
+p221
+aVSorcery
+p222
+aVEnchantment
+p223
+aVEnchantment Creature - Cyclops
+p224
+aVEnchantment
+p225
+aVArtifact
+p226
+aVEnchantment
+p227
+aVCreature - Zombie
+p228
+aVArtifact
+p229
+aVCreature - Zombie
+p230
+aVCreature - Elemental Mutant
+p231
+aVInstant
+p232
+aVCreature - Human Wizard Mutant
+p233
+aVCreature - Elemental Mutant
+p234
+aVEnchantment
+p235
+aVCreature - Cyclops Warrior
+p236
+asS'numbers'
+p237
+(lp238
+g173
+aV50
+p239
+aV117
+p240
+aV90
+p241
+aV135
+p242
+aV80
+p243
+aV259
+p244
+aV100
+p245
+aV35
+p246
+aV71
+p247
+aV127
+p248
+aV125
+p249
+aV63
+p250
+aV92
+p251
+aV100
+p252
+aV127
+p253
+aV148
+p254
+aV72
+p255
+aV195
+p256
+aV208
+p257
+aV82
+p258
+aV108
+p259
+aV23
+p260
+aV81
+p261
+aV16
+p262
+aV131
+p263
+as.

@@ -1,0 +1,98 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVCommon
+p4
+aVRare
+p5
+asS'editns'
+p6
+(lp7
+VMagic 2013
+p8
+aVTime Spiral
+p9
+aVWeatherlight
+p10
+asS'ids'
+p11
+(lp12
+V249699
+p13
+aV118888
+p14
+aV4523
+p15
+asS'texts'
+p16
+(lp17
+VSearch your library for up to two Forest cards and put them onto the battlefield tapped. Then shuffle your library.
+p18
+aVDestroy target land. Search your library for a Forest card and put that card onto the battlefield tapped. Then shuffle your library.
+p19
+aVCumulative upkeep {2} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay {2} for each age counter on it.)</i><br>Mwonvuli Ooze's power and toughness are each equal to 1 plus twice the number of age counters on it.
+p20
+asS'costs'
+p21
+(lp22
+V{G}
+p23
+aV{2}{G}{G}
+p24
+aV{G}
+p25
+asS'names'
+p26
+(lp27
+VMwonvuli Beast Tracker
+p28
+aVMwonvuli Acid-Moss
+p29
+aVMwonvuli Ooze
+p30
+asS'toughs'
+p31
+(lp32
+V2
+p33
+aS'N/A'
+p34
+ag33
+asS'artists'
+p35
+(lp36
+VZoltan Boros
+p37
+aVRandy Gallegos
+p38
+aVZina Saunders
+p39
+asS'powers'
+p40
+(lp41
+g33
+ag34
+aV3
+p42
+asS'types'
+p43
+(lp44
+VCreature - Human Scout
+p45
+aVSorcery
+p46
+aVCreature - Ooze
+p47
+asS'numbers'
+p48
+(lp49
+V177
+p50
+aV207
+p51
+aV71
+p52
+as.

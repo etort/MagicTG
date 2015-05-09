@@ -1,0 +1,181 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVMythic Rare
+p4
+aVRare
+p5
+aVUncommon
+p6
+aVRare
+p7
+aVRare
+p8
+aVSpecial
+p9
+asS'editns'
+p10
+(lp11
+VMagic 2013
+p12
+aVMagic 2010
+p13
+aVMagic 2014 Core Set
+p14
+aVMagic 2015 Core Set
+p15
+aVScourge
+p16
+aVWeatherlight
+p17
+aVVanguard
+p18
+asS'ids'
+p19
+(lp20
+V253728
+p21
+aV189885
+p22
+aV370619
+p23
+aV383440
+p24
+aV43564
+p25
+aV4446
+p26
+aV12331
+p27
+asS'texts'
+p28
+(lp29
+VCreatures you control gain double strike until end of turn. <i>(They deal both first-strike and regular combat damage.)</i>
+p30
+aVW
+p31
+aS''
+p32
+ag32
+aVFlying<br>Whenever Xantid Swarm attacks, defending player can't cast spells this turn.
+p33
+aV{5}: Until end of turn, Xanthic Statue becomes an 8/8 Golem artifact creature with trample.
+p34
+aVSacrifice a permanent: Regenerate target creature.
+p35
+asS'costs'
+p36
+(lp37
+V{B}
+p38
+aV{3}
+p39
+aV{5}{U}{U}
+p40
+aV{1}{G}
+p41
+aV{G}
+p42
+aV{8}
+p43
+aS'0'
+p44
+asS'names'
+p45
+(lp46
+VXathrid Gorgon
+p47
+aVXathrid Demon
+p48
+aVXathrid Necromancer
+p49
+aVXathrid Slyblade
+p50
+aVXantid Swarm
+p51
+aVXanthic Statue
+p52
+aVXantcha
+p53
+asS'toughs'
+p54
+(lp55
+V3
+p56
+aV5
+p57
+aV7
+p58
+aV1
+p59
+ag59
+aS'N/A'
+p60
+ag60
+asS'artists'
+p61
+(lp62
+VChase Stone
+p63
+aVWayne Reynolds
+p64
+aVMaciej Kuciara
+p65
+aVSteve Prescott
+p66
+aVDavid Martin
+p67
+aVHannibal King
+p68
+aVHeather Hudson
+p69
+asS'powers'
+p70
+(lp71
+g56
+aV2
+p72
+ag56
+aV0
+p73
+ag73
+ag60
+ag60
+asS'types'
+p74
+(lp75
+VCreature - Gorgon
+p76
+aVCreature - Demon
+p77
+aVCreature - Human Wizard
+p78
+aVCreature - Human Assassin
+p79
+aVCreature - Insect
+p80
+aVArtifact
+p81
+aVVanguard
+p82
+asS'numbers'
+p83
+(lp84
+V118
+p85
+aV122
+p86
+aV123
+p87
+aV124
+p88
+aV135
+p89
+aV16
+p90
+aV116
+p91
+as.

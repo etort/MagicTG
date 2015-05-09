@@ -1,0 +1,161 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVCommon
+p4
+aVRare
+p5
+aVRare
+p6
+aVCommon
+p7
+aVCommon
+p8
+asS'editns'
+p9
+(lp10
+VClassic Sixth Edition
+p11
+aVMasters Edition
+p12
+aVFifth Edition
+p13
+aVLorwyn
+p14
+aVArabian Nights
+p15
+aVArabian Nights
+p16
+asS'ids'
+p17
+(lp18
+V14720
+p19
+aV159766
+p20
+aV4028
+p21
+aV140229
+p22
+aV954
+p23
+aV953
+p24
+asS'texts'
+p25
+(lp26
+V{4}, {T}: The next time a source of your choice would deal damage to you this turn, prevent that damage.
+p27
+aV{T}: Target creature gets +1/+1 until end of turn.
+p28
+aS''
+p29
+aVFlash<br>Flying<br>{U}{B}, Pay 1 life: Return Wydwen, the Biting Gale to its owner's hand.
+p30
+aV{T}: Target creature gets +1/+1 until end of turn.
+p31
+aV{T}: Target creature gets +1/+1 until end of turn.
+p32
+asS'costs'
+p33
+(lp34
+V{1}{G}
+p35
+aV{1}{G}
+p36
+aV{1}{G}
+p37
+aV{W}{U}{B}{R}{G}
+p38
+aV{1}{G}
+p39
+aV{1}{G}
+p40
+asS'names'
+p41
+(lp42
+VWyluli Wolf
+p43
+aVWyluli Wolf
+p44
+aVWyluli Wolf
+p45
+aVWydwen, the Biting Gale
+p46
+aVWyluli Wolf
+p47
+aVWyluli Wolf
+p48
+asS'toughs'
+p49
+(lp50
+V1
+p51
+aV4
+p52
+aV5
+p53
+ag53
+aV2
+p54
+ag54
+asS'artists'
+p55
+(lp56
+VSusan Van Camp
+p57
+aVSusan Van Camp
+p58
+aVSusan Van Camp
+p59
+aVMatt Cavotta
+p60
+aVSusan Van Camp
+p61
+aVSusan Van Camp
+p62
+asS'powers'
+p63
+(lp64
+g51
+aV3
+p65
+aV0
+p66
+ag65
+ag54
+ag54
+asS'types'
+p67
+(lp68
+VCreature - Wolf
+p69
+aVCreature - Wolf
+p70
+aVCreature - Wolf
+p71
+aVLegendary Creature - Faerie Wizard
+p72
+aVCreature - Wolf
+p73
+aVCreature - Wolf
+p74
+asS'numbers'
+p75
+(lp76
+V270
+p77
+aV139
+p78
+aV447
+p79
+aV253
+p80
+aV91
+p81
+aV92
+p82
+as.

@@ -1,0 +1,219 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVMythic Rare
+p4
+aVRare
+p5
+aVCommon
+p6
+aVRare
+p7
+aVRare
+p8
+aVCommon
+p9
+aVRare
+p10
+aVRare
+p11
+asS'editns'
+p12
+(lp13
+VMorningtide
+p14
+aVFrom the Vault: Legends
+p15
+aVModern Masters
+p16
+aVEventide
+p17
+aVGatecrash
+p18
+aVShards of Alara
+p19
+aVShadowmoor
+p20
+aVShadowmoor
+p21
+aVLorwyn
+p22
+asS'ids'
+p23
+(lp24
+V153099
+p25
+aV244668
+p26
+aV370429
+p27
+aV153475
+p28
+aV366375
+p29
+aV174886
+p30
+aV141975
+p31
+aV152063
+p32
+aV146582
+p33
+asS'texts'
+p34
+(lp35
+VTrample<br>Borderland Behemoth gets +4/+4 for each other Giant you control.
+p36
+aVFlying<br>{X}{U/B}: Choose a color. Target opponent exiles the top X cards of his or her library. For each card of the chosen color exiled this way, put a 1/1 blue and black Faerie Rogue creature token with flying onto the battlefield.
+p37
+aVFlying<br>{X}{U/B}: Choose a color. Target opponent exiles the top X cards of his or her library. For each card of the chosen color exiled this way, put a 1/1 blue and black Faerie Rogue creature token with flying onto the battlefield.
+p38
+aVTarget player draws a card.<br>Retrace <i>(You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)</i>
+p39
+aVBattalion- Whenever Ordruun Veteran and at least two other creatures attack, Ordruun Veteran gains double strike until end of turn. <i>(It deals both first-strike and regular combat damage.)</i>
+p40
+aV{2}{U}: Untap target artifact.
+p41
+aVDefender, flying<br>Wither <i>(This deals damage to creatures in the form of -1/-1 counters.)</i>
+p42
+aVWhenever Witherscale Wurm blocks or becomes blocked by a creature, that creature gains wither until end of turn. <i>(It deals damage to creatures in the form of -1/-1 counters.)</i><br>Whenever Witherscale Wurm deals damage to an opponent, remove all -1/-1 counters from it.
+p43
+aVWhenever you clash, tap target creature an opponent controls. If you won, that creature doesn't untap during its controller's next untap step. <i>(This ability triggers after the clash ends.)</i>
+p44
+asS'costs'
+p45
+(lp46
+V{1}{B}
+p47
+aV{3}{U/B}{U/B}{U/B}
+p48
+aV{3}{U/B}{U/B}{U/B}
+p49
+aV{2}{U}
+p50
+aV{3}{B}{B}
+p51
+aV{4}{U}{U}
+p52
+aV{U/B}
+p53
+aV{3}{U/B}{U/B}{U/B}
+p54
+aV{2}{B}
+p55
+asS'names'
+p56
+(lp57
+VOona's Blackguard
+p58
+aVOona, Queen of the Fae
+p59
+aVOona, Queen of the Fae
+p60
+aVOona's Grace
+p61
+aVOoze Flux
+p62
+aVOoze Garden
+p63
+aVOona's Gatewarden
+p64
+aVOona, Queen of the Fae
+p65
+aVOona's Prowler
+p66
+asS'toughs'
+p67
+(lp68
+V1
+p69
+aV5
+p70
+aV3
+p71
+aS'N/A'
+p72
+ag72
+ag72
+ag69
+ag71
+ag69
+asS'artists'
+p73
+(lp74
+VKev Walker
+p75
+aVAdam Rex
+p76
+aS''
+p77
+aVRebecca Guay
+p78
+aVZoltan Boros
+p79
+aVAnthony S. Waters
+p80
+aVMike Dringenberg
+p81
+aVAdam Rex
+p82
+aVWayne Reynolds
+p83
+asS'powers'
+p84
+(lp85
+g69
+ag70
+ag71
+ag72
+ag72
+ag72
+aV2
+p86
+ag71
+ag71
+asS'types'
+p87
+(lp88
+VCreature - Faerie Rogue
+p89
+aVLegendary Creature - Faerie Wizard
+p90
+aVLegendary Creature - Faerie Wizard
+p91
+aVInstant
+p92
+aVEnchantment
+p93
+aVEnchantment
+p94
+aVCreature - Faerie Soldier
+p95
+aVLegendary Creature - Faerie Wizard
+p96
+aVCreature - Faerie Rogue
+p97
+asS'numbers'
+p98
+(lp99
+V72
+p100
+aV8
+p101
+ag77
+aV27
+p102
+aV128
+p103
+aV143
+p104
+aV173
+p105
+aV172
+p106
+aV133
+p107
+as.

@@ -1,0 +1,75 @@
+(dp0
+S'rares'
+p1
+(lp2
+VMythic Rare
+p3
+aVMythic Rare
+p4
+asS'editns'
+p5
+(lp6
+VReturn to Ravnica
+p7
+aVDuel Decks: Jace vs. Vraska
+p8
+asS'ids'
+p9
+(lp10
+V290538
+p11
+aV380214
+p12
+asS'texts'
+p13
+(lp14
+VFlying<br>Scavenge {2}{B}{B} <i>({2}{B}{B}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)</i>
+p15
+aV+1: Until your next turn, whenever a creature deals combat damage to Vraska the Unseen, destroy that creature.<br>-3: Destroy target nonland permanent.<br>-7: Put three 1/1 black Assassin creature tokens onto the battlefield with "Whenever this creature deals combat damage to a player, that player loses the game."
+p16
+asS'costs'
+p17
+(lp18
+S'0'
+p19
+ag19
+asS'names'
+p20
+(lp21
+VVraska the Unseen
+p22
+aVVraska the Unseen
+p23
+asS'toughs'
+p24
+(lp25
+S'N/A'
+p26
+ag26
+asS'artists'
+p27
+(lp28
+VAleksi Briclot
+p29
+aVIgor Kieryluk
+p30
+asS'powers'
+p31
+(lp32
+g26
+ag26
+asS'types'
+p33
+(lp34
+VPlaneswalker - Vraska
+p35
+aVPlaneswalker - Vraska
+p36
+asS'numbers'
+p37
+(lp38
+V208
+p39
+aV42
+p40
+as.

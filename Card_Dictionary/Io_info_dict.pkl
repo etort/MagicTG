@@ -1,0 +1,118 @@
+(dp0
+S'rares'
+p1
+(lp2
+VMythic Rare
+p3
+aVCommon
+p4
+aVRare
+p5
+aVCommon
+p6
+asS'editns'
+p7
+(lp8
+VZendikar
+p9
+aVZendikar
+p10
+aVFifth Dawn
+p11
+aVWorldwake
+p12
+asS'ids'
+p13
+(lp14
+V190407
+p15
+aV185711
+p16
+aV72925
+p17
+aV197880
+p18
+asS'texts'
+p19
+(lp20
+VFlying<br>As Iona, Shield of Emeria enters the battlefield, choose a color.<br>Your opponents can't cast spells of the chosen color.
+p21
+aVLandfall- Whenever a land enters the battlefield under your control, you may put a quest counter on Ior Ruin Expedition.<br>Remove three quest counters from Ior Ruin Expedition and sacrifice it: Draw two cards.
+p22
+aVDefender <i>(This creature can't attack.)</i><br>Razorgrass Screen blocks each turn if able.
+p23
+aV+2: Look at the top card of target player's library. You may put that card on the bottom of that player's library.<br>0: Draw three cards, then put two cards from your hand on top of your library in any order.<br>-1: Return target creature to its owner's hand.<br>-12: Exile all cards from target player's library, then that player shuffles his or her hand into his or her library.
+p24
+asS'costs'
+p25
+(lp26
+V{1}{U}
+p27
+aV{6}{W}{W}{W}
+p28
+aV{2}{R}
+p29
+aV{4}{W}
+p30
+asS'names'
+p31
+(lp32
+VIona, Shield of Emeria
+p33
+aVIor Ruin Expedition
+p34
+aVIon Storm
+p35
+aVIona's Judgment
+p36
+asS'toughs'
+p37
+(lp38
+V5
+p39
+aS'N/A'
+p40
+ag40
+ag40
+asS'artists'
+p41
+(lp42
+VJason Chan
+p43
+aVChris Rahn
+p44
+aVMichael Sutfin
+p45
+aVMike Bierek
+p46
+asS'powers'
+p47
+(lp48
+V2
+p49
+ag40
+ag40
+ag40
+asS'types'
+p50
+(lp51
+VLegendary Creature - Angel
+p52
+aVEnchantment
+p53
+aVEnchantment
+p54
+aVSorcery
+p55
+asS'numbers'
+p56
+(lp57
+V13
+p58
+aV49
+p59
+aV68
+p60
+aV8
+p61
+as.

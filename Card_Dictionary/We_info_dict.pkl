@@ -1,0 +1,1463 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVRare
+p4
+aVCommon
+p5
+aVCommon
+p6
+aVCommon
+p7
+aVRare
+p8
+aVCommon
+p9
+aVRare
+p10
+aVCommon
+p11
+aVUncommon
+p12
+aVCommon
+p13
+aVCommon
+p14
+aVCommon
+p15
+aVCommon
+p16
+aVUncommon
+p17
+aVCommon
+p18
+aVCommon
+p19
+aVRare
+p20
+aVCommon
+p21
+aVRare
+p22
+aVRare
+p23
+aVUncommon
+p24
+aVCommon
+p25
+aVRare
+p26
+aVRare
+p27
+aVCommon
+p28
+aVRare
+p29
+aVCommon
+p30
+aVUncommon
+p31
+aVRare
+p32
+aVCommon
+p33
+aVCommon
+p34
+aVRare
+p35
+aVCommon
+p36
+aVCommon
+p37
+aVCommon
+p38
+aVRare
+p39
+aVUncommon
+p40
+aVRare
+p41
+aVCommon
+p42
+aVCommon
+p43
+aVCommon
+p44
+aVRare
+p45
+aVRare
+p46
+aVUncommon
+p47
+aVRare
+p48
+aVRare
+p49
+aVRare
+p50
+aVRare
+p51
+aVRare
+p52
+aVCommon
+p53
+aVCommon
+p54
+aVCommon
+p55
+aVRare
+p56
+aVCommon
+p57
+aVRare
+p58
+aVCommon
+p59
+aVUncommon
+p60
+aVUncommon
+p61
+aVCommon
+p62
+aVUncommon
+p63
+aVCommon
+p64
+aVCommon
+p65
+aVCommon
+p66
+aVUncommon
+p67
+aVUncommon
+p68
+aVCommon
+p69
+aVCommon
+p70
+aVCommon
+p71
+aVCommon
+p72
+aVUncommon
+p73
+aVUncommon
+p74
+asS'editns'
+p75
+(lp76
+VLimited Edition Beta
+p77
+aVLimited Edition Beta
+p78
+aVBattle Royale Box Set
+p79
+aVMorningtide
+p80
+aVMorningtide
+p81
+aVMorningtide
+p82
+aVMagic 2013
+p83
+aVFourth Edition
+p84
+aVFourth Edition
+p85
+aVAntiquities
+p86
+aVBorn of the Gods
+p87
+aVMagic 2010
+p88
+aVMasters Edition III
+p89
+aVMasters Edition III
+p90
+aVMasters Edition III
+p91
+aVMasters Edition III
+p92
+aVRevised Edition
+p93
+aVRevised Edition
+p94
+aVGuildpact
+p95
+aVNinth Edition
+p96
+aVNinth Edition
+p97
+aVNinth Edition
+p98
+aVOnslaught
+p99
+aVOnslaught
+p100
+aVOnslaught
+p101
+aVChampions of Kamigawa
+p102
+aVCommander 2013 Edition
+p103
+aVOdyssey
+p104
+aVTime Spiral
+p105
+aVTime Spiral
+p106
+aVExodus
+p107
+aVUnlimited Edition
+p108
+aVUnlimited Edition
+p109
+aVZendikar
+p110
+aVMirrodin
+p111
+aVShards of Alara
+p112
+aVSeventh Edition
+p113
+aVProphecy
+p114
+aVProphecy
+p115
+aVMagic 2015 Core Set
+p116
+aVUrza's Legacy
+p117
+aVUrza's Legacy
+p118
+aVUrza's Legacy
+p119
+aVDarksteel
+p120
+aVJudgment
+p121
+aVLegions
+p122
+aVUrza's Saga
+p123
+aVWeatherlight
+p124
+aVEighth Edition
+p125
+aVInvasion
+p126
+aVFifth Edition
+p127
+aVKhans of Tarkir
+p128
+aVKhans of Tarkir
+p129
+aVMirage
+p130
+aVLimited Edition Alpha
+p131
+aVLimited Edition Alpha
+p132
+aVMasters Edition IV
+p133
+aVMasters Edition IV
+p134
+aVDragon's Maze
+p135
+aVDragon's Maze
+p136
+aVDissension
+p137
+aVDuel Decks: Izzet vs. Golgari
+p138
+aVLorwyn
+p139
+aVLorwyn
+p140
+aVPortal Three Kingdoms
+p141
+aVPortal Three Kingdoms
+p142
+aVPortal Three Kingdoms
+p143
+aVPortal Three Kingdoms
+p144
+aVPortal Three Kingdoms
+p145
+aVPortal Three Kingdoms
+p146
+aVPortal Three Kingdoms
+p147
+aVDark Ascension
+p148
+asS'ids'
+p149
+(lp150
+V385
+p151
+aV479
+p152
+aV21157
+p153
+aV152737
+p154
+aV152741
+p155
+aV153011
+p156
+aV276416
+p157
+aV2254
+p158
+aV2137
+p159
+aV1034
+p160
+aV378458
+p161
+aV190539
+p162
+aV201305
+p163
+aV206117
+p164
+aV201306
+p165
+aV201307
+p166
+aV1186
+p167
+aV1278
+p168
+aV96903
+p169
+aV83311
+p170
+aV83974
+p171
+aV83994
+p172
+aV39497
+p173
+aV39515
+p174
+aV39680
+p175
+aV50268
+p176
+aV376584
+p177
+aV29785
+p178
+aV108809
+p179
+aV126283
+p180
+aV6034
+p181
+aV687
+p182
+aV781
+p183
+aV191353
+p184
+aV48328
+p185
+aV178096
+p186
+aV13138
+p187
+aV24681
+p188
+aV24684
+p189
+aV383437
+p190
+aV12370
+p191
+aV12430
+p192
+aV12438
+p193
+aV48993
+p194
+aV34823
+p195
+aV42156
+p196
+aV5861
+p197
+aV4445
+p198
+aV45326
+p199
+aV24117
+p200
+aV3888
+p201
+aV386720
+p202
+aV386721
+p203
+aV3559
+p204
+aV90
+p205
+aV184
+p206
+aV202413
+p207
+aV202419
+p208
+aV368950
+p209
+aV369004
+p210
+aV107551
+p211
+aV292741
+p212
+aV139400
+p213
+aV145991
+p214
+aV10484
+p215
+aV10511
+p216
+aV10517
+p217
+aV10519
+p218
+aV10557
+p219
+aV10561
+p220
+aV10583
+p221
+aV262698
+p222
+asS'texts'
+p223
+(lp224
+S''
+p225
+ag225
+aVDestroy all creatures. They can't be regenerated.
+p226
+aVEnchant creature<br>Enchanted creature can't attack.<br>Tap two untapped creatures you control that share a creature type: Exile enchanted creature.
+p227
+aVAt the beginning of your upkeep, target creature other than Weed-Pruner Poplar gets -1/-1 until end of turn.
+p228
+aVFlying<br>Each other Rogue creature you control enters the battlefield with an additional +1/+1 counter on it.<br>Whenever a creature you control with a +1/+1 counter on it deals combat damage to a player, that player discards a card.
+p229
+aVSacrifice a creature: Bloodthrone Vampire gets +2/+2 until end of turn.
+p230
+aVProtection from black<br>At the beginning of each end step, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it.
+p231
+ag225
+aVAttacking creatures get -1/-0.
+p232
+aVIndestructible<br>As long as your devotion to red and green is less than seven, Xenagos isn't a creature.<br>At the beginning of combat on your turn, another target creature you control gains haste and gets +X/+X until end of turn, where X is that creature's power.
+p233
+aVU
+p234
+ag225
+ag225
+ag225
+ag225
+ag225
+ag225
+aVBloodthirst 2 <i>(If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)</i><br>Trample
+p235
+aVDraw two cards.
+p236
+aVAt the beginning of your upkeep, Form of the Dragon deals 5 damage to target creature or player.<br>At the beginning of each end step, your life total becomes 5.<br>Creatures without flying can't attack you.
+p237
+ag225
+aV{T}: You gain 1 life for each Elf on the battlefield.
+p238
+ag225
+ag225
+aVDestroy target artifact or enchantment.<br>Splice onto Arcane {3}{G} <i>(As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)</i>
+p239
+aVWhenever you gain life, you may pay {X}, where X is less than or equal to the amount of life you gained. If you do, draw X cards.
+p240
+aVPut a 3/3 green Elephant creature token onto the battlefield.<br>Flashback {3}{G} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
+p241
+aV{T}: Add {G} to your mana pool.<br>{2}{G}{G}{G}: Weatherseed Totem becomes a 5/3 green Treefolk artifact creature with trample until end of turn.<br>When Weatherseed Totem is put into a graveyard from the battlefield, if it was a creature, return this card to its owner's hand.
+p242
+aVFlying, trample<br>At the beginning of your upkeep, sacrifice a creature other than Liege of the Pit. If you can't, Liege of the Pit deals 7 damage to you.<br>Morph {B}{B}{B}{B} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p243
+aVFlying<br>When Welkin Hawk dies, you may search your library for a card named Welkin Hawk, reveal that card, put it into your hand, then shuffle your library.
+p244
+ag225
+ag225
+aVLandfall- Whenever a land enters the battlefield under your control, you may put a quest counter on Zektar Shrine Expedition.<br>Remove three quest counters from Zektar Shrine Expedition and sacrifice it: Put a 7/1 red Elemental creature token with trample and haste onto the battlefield. Exile it at the beginning of the next end step.
+p245
+aVSacrifice Welding Jar: Regenerate target artifact.
+p246
+aV{T}: Add {1} to your mana pool.<br>{1}, {T}, Sacrifice Naya Panorama: Search your library for a basic Mountain, Forest, or Plains card and put it onto the battlefield tapped. Then shuffle your library.
+p247
+ag225
+aVAt the beginning of your end step, if you control no untapped lands, you gain 2 life.
+p248
+aVAt the beginning of your end step, if you control no untapped lands, draw a card.
+p249
+ag225
+aVFlying, protection from red
+p250
+aV{T}: Target creature gains forestwalk until end of turn.
+p251
+aVTrample<br>When Weatherseed Treefolk dies, return it to its owner's hand.
+p252
+aVWhenever you gain life, you may pay {X}, where X is less than or equal to the amount of life you gained. If you do, draw X cards.
+p253
+aVAt the beginning of each opponent's combat, that player may exile a card from his or her graveyard. If the player doesn't, creatures he or she controls can't attack you this turn.
+p254
+aVMorph {4}{U} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i><br>When Weaver of Lies is turned face up, turn any number of target creatures with morph other than Weaver of Lies face down.
+p255
+aVEach player discards his or her hand, then draws cards equal to the greatest number of cards a player discarded this way.
+p256
+aV{2}: Draw a card. Any player may activate this ability but only during his or her draw step.
+p257
+aVFlying<br>Sacrifice a creature: Fallen Angel gets +2/+1 until end of turn.
+p258
+aVPrevent all damage that would be dealt to a creature by another creature if they share a color.
+p259
+ag225
+aV{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card and put it onto the battlefield. Then shuffle your library.
+p260
+aVFlying<br>Raid- When Wingmate Roc enters the battlefield, if you attacked with a creature this turn, put a 3/4 white Bird creature token with flying onto the battlefield.<br>Whenever Wingmate Roc attacks, you gain 1 life for each attacking creature.
+p261
+aVFlying, protection from blue
+p262
+aVEnchant creature<br>Enchanted creature gets +X/+Y, where X is half the number of Forests you control, rounded down, and Y is half the number of Forests you control, rounded up.
+p263
+ag225
+ag225
+ag225
+aVReach <i>(This creature can block creatures with flying.)</i><br>Scavenge {4}{G}{G} <i>({4}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)</i>
+p264
+aVForestwalk, protection from green
+p265
+aVWeight of Spires deals damage to target creature equal to the number of nonbasic lands that creature's controller controls.
+p266
+aVFlying<br>Whenever you cast an instant or sorcery spell, Wee Dragonauts gets +2/+0 until end of turn.
+p267
+aV{1}{W}: Prevent all damage that would be dealt to target tapped Merfolk or Kithkin creature this turn.
+p268
+aVWhen Adder-Staff Boggart enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Adder-Staff Boggart. <i>(Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)</i>
+p269
+aVHorsemanship <i>(This creature can't be blocked except by creatures with horsemanship.)</i><br>Whenever Wei Night Raiders deals damage to an opponent, that player discards a card.
+p270
+aVTarget opponent chooses a creature he or she controls. Destroy it.
+p271
+aVDestroy all creatures target opponent controls. Draw a card for each creature destroyed this way.
+p272
+aVCast Heavy Fog only during the declare attackers step and only if you've been attacked this step.<br>Prevent all damage that would be dealt to you this turn by attacking creatures.
+p273
+aVYou gain 8 life.
+p274
+aV{T}: Put target creature card from your graveyard on top of your library. Activate this ability only during your turn, before attackers are declared.
+p275
+aVCast Champion's Victory only during the declare attackers step and only if you've been attacked this step.<br>Return target attacking creature to its owner's hand.
+p276
+aVEquipped creature has "{T}: This creature deals 1 damage to target creature or player" and "{T}: This creature deals 3 damage to target Werewolf creature."<br>Equip {5}
+p277
+asS'costs'
+p278
+(lp279
+V{B}
+p280
+aV{G}
+p281
+aV{B}
+p282
+aV{1}{W}
+p283
+aV{4}{B}
+p284
+aV{1}{B}
+p285
+aV{1}{U}
+p286
+aV{G}
+p287
+aV{B}
+p288
+aV{4}
+p289
+aV{3}{B}{B}
+p290
+aV{3}{W}
+p291
+aV{4}{B}
+p292
+aV{1}{B}
+p293
+aV{2}{B}{B}
+p294
+aV{2}{B}
+p295
+aV{B}
+p296
+aV{G}
+p297
+aV{1}{U}{R}
+p298
+aV{W}
+p299
+aV{X}{G}{G}
+p300
+aV{G}
+p301
+aV{1}{G}
+p302
+aV{W}
+p303
+aV{X}{G}{G}
+p304
+aV{G}{G}
+p305
+aV{4}
+p306
+aV{1}{G}
+p307
+aV{3}
+p308
+aV{5}{W}
+p309
+aV{1}{W}
+p310
+aV{B}
+p311
+aV{G}
+p312
+aV{5}{G}
+p313
+aV{0}
+p314
+aV{1}{R}{G}
+p315
+aV{2}{B}{B}
+p316
+aV{4}
+p317
+aV{6}
+p318
+aV{1}{R}{R}
+p319
+aV{2}{U}
+p320
+aV{G}
+p321
+aV{2}{G}{G}{G}
+p322
+aV{4}
+p323
+aV{2}{U}
+p324
+aV{5}{U}{U}
+p325
+aV{2}{B}{B}
+p326
+aV{3}
+p327
+aV{2}{B}{B}
+p328
+aV{2}{U}
+p329
+aV{B}
+p330
+aV{2}{W}
+p331
+aV{4}{U}{U}
+p332
+aV{1}{G}{W}
+p333
+aV{B}
+p334
+aV{G}
+p335
+aV{B}
+p336
+aV{4}
+p337
+aV{2}{R}{W}
+p338
+aV{U}{B}
+p339
+aV{R}
+p340
+aV{1}{U}{R}
+p341
+aV{4}{W}
+p342
+aV{2}{W}
+p343
+aV{2}{B}{B}
+p344
+aV{4}{B}
+p345
+aV{1}{B}
+p346
+aV{1}{B}
+p347
+aV{1}{B}
+p348
+aV{2}{B}
+p349
+aV{3}{B}{B}
+p350
+aS'0'
+p351
+asS'names'
+p352
+(lp353
+VWeakness
+p354
+aVWeb
+p355
+aVWeakness
+p356
+aVWeight of Conscience
+p357
+aVWeed-Pruner Poplar
+p358
+aVWeirding Shaman
+p359
+aVWelkin Tern
+p360
+aVWeb
+p361
+aVWeakness
+p362
+aVWeakstone
+p363
+aVWeight of the Underworld
+p364
+aVWeakness
+p365
+aVWei Elite Companions
+p366
+aVWei Infantry
+p367
+aVWei Night Raiders
+p368
+aVWei Strike Force
+p369
+aVWeakness
+p370
+aVWeb
+p371
+aVWee Dragonauts
+p372
+aVWeathered Wayfarer
+p373
+aVWeird Harvest
+p374
+aVWeb
+p375
+aVWellwisher
+p376
+aVWeathered Wayfarer
+p377
+aVWeird Harvest
+p378
+aVWear Away
+p379
+aVWell of Lost Dreams
+p380
+aVWerebear
+p381
+aVWeatherseed Totem
+p382
+aVWeathered Bodyguards
+p383
+aVWelkin Hawk
+p384
+aVWeakness
+p385
+aVWeb
+p386
+aVWelkin Tern
+p387
+aVWelding Jar
+p388
+aVWelkin Guide
+p389
+aVWestern Paladin
+p390
+aVWell of Life
+p391
+aVWell of Discovery
+p392
+aVWelkin Tern
+p393
+aVWeatherseed Faeries
+p394
+aVWeatherseed Elf
+p395
+aVWeatherseed Treefolk
+p396
+aVWell of Lost Dreams
+p397
+aVWeb of Inertia
+p398
+aVWeaver of Lies
+p399
+aVWestern Paladin
+p400
+aVWell of Knowledge
+p401
+aVWestern Paladin
+p402
+aVWell-Laid Plans
+p403
+aVWeakness
+p404
+aVWeave Fate
+p405
+aVWetland Sambar
+p406
+aVWellspring
+p407
+aVWeakness
+p408
+aVWeb
+p409
+aVWeakness
+p410
+aVWeakstone
+p411
+aVWear // Tear (Tear)
+p412
+aVWeapon Surge
+p413
+aVWeight of Spires
+p414
+aVWee Dragonauts
+p415
+aVWellgabber Apothecary
+p416
+aVWeed Strangle
+p417
+aVWei Night Raiders
+p418
+aVWei Elite Companions
+p419
+aVWei Scout
+p420
+aVWei Infantry
+p421
+aVWei Ambush Force
+p422
+aVWei Strike Force
+p423
+aVWei Assassins
+p424
+aVWerewolf Ransacker
+p425
+asS'toughs'
+p426
+(lp427
+S'N/A'
+p428
+ag428
+ag428
+ag428
+aV3
+p429
+aV1
+p430
+ag430
+ag428
+ag428
+ag428
+ag428
+ag428
+ag429
+ag429
+ag430
+aV2
+p431
+ag428
+ag428
+ag429
+aV5
+p432
+ag428
+ag428
+aV4
+p433
+ag430
+ag428
+ag428
+ag428
+ag430
+ag428
+ag430
+ag431
+ag428
+ag428
+ag430
+ag428
+ag431
+ag429
+ag428
+ag428
+ag429
+ag430
+ag430
+ag429
+ag428
+ag428
+ag433
+ag432
+ag428
+ag429
+ag428
+ag428
+ag428
+ag430
+ag428
+ag428
+ag428
+ag428
+ag428
+ag428
+ag428
+ag428
+ag429
+ag429
+ag428
+ag431
+ag429
+ag430
+ag430
+ag430
+ag430
+ag431
+ag428
+asS'artists'
+p434
+(lp435
+VDouglas Schuler
+p436
+aVRob Alexander
+p437
+aVKev Walker
+p438
+aVHeather Hudson
+p439
+aVJeff Miracola
+p440
+aVMatt Cavotta
+p441
+aVAustin Hsu
+p442
+aVRob Alexander
+p443
+aVDouglas Shuler
+p444
+aVJustin Hampton
+p445
+aVWesley Burt
+p446
+aVKev Walker
+p447
+aVLHQ
+p448
+aVWang Feng
+p449
+aVTang Xiaogu
+p450
+aVSusan Van Camp
+p451
+aVDouglas Shuler
+p452
+aVRob Alexander
+p453
+aVGreg Staples
+p454
+aVGreg & Tim Hildebrandt
+p455
+aVBob Petillo
+p456
+aVHugh Jamieson
+p457
+aVChristopher Rush
+p458
+aVGreg & Tim Hildebrandt
+p459
+aVBob Petillo
+p460
+aVTim Hildebrandt
+p461
+aVJeff Miracola
+p462
+aVCarl Critchlow
+p463
+aVHeather Hudson
+p464
+aVWayne Reynolds
+p465
+aVRob Alexander
+p466
+aVDouglas Schuler
+p467
+aVRob Alexander
+p468
+aVAustin Hsu
+p469
+aVMark Brill
+p470
+aVDavid Palumbo
+p471
+aVPaolo Parente
+p472
+aVTom Wänerstrand
+p473
+aVAlan Rabinowitz
+p474
+aVAustin Hsu
+p475
+aVHazeltine
+p476
+aVHeather Hudson
+p477
+aVHeather Hudson
+p478
+aVJeff Miracola
+p479
+aVDon Hazeltine
+p480
+aVLuca Zontini
+p481
+aVCarl Critchlow
+p482
+aVD. Alexander Gregory
+p483
+aVCarl Critchlow
+p484
+aVKev Walker
+p485
+aVKev Walker
+p486
+aVZack Stella
+p487
+aVJames Zapata
+p488
+aVSusan Van Camp
+p489
+aVDouglas Schuler
+p490
+aVRob Alexander
+p491
+aVDouglas Shuler
+p492
+aVJustin Hampton
+p493
+aVRyan Pancoast
+p494
+aVJason Felix
+p495
+aVMichael Sutfin
+p496
+aVGreg Staples
+p497
+aVBrandon Dorman
+p498
+aVJesper Ejsing
+p499
+aVWang Feng
+p500
+aVLi Youliang
+p501
+aVJiang Zhuqing
+p502
+aVLHQ
+p503
+aVKu Xueming
+p504
+aVTang Xiaogu
+p505
+aVXu Tan
+p506
+aVZoltan Boros
+p507
+asS'powers'
+p508
+(lp509
+g428
+ag428
+ag428
+ag428
+ag429
+ag431
+ag431
+ag428
+ag428
+ag428
+ag428
+ag428
+aV0
+p510
+ag429
+ag431
+ag431
+ag428
+ag428
+ag430
+ag430
+ag428
+ag428
+ag510
+ag431
+ag428
+ag428
+ag428
+ag430
+ag428
+ag431
+ag431
+ag428
+ag428
+ag432
+ag428
+ag430
+ag431
+ag428
+ag428
+ag431
+ag431
+ag430
+ag432
+ag428
+ag428
+ag433
+ag432
+ag428
+ag429
+ag428
+ag428
+ag428
+ag431
+ag428
+ag428
+ag428
+ag428
+ag428
+ag428
+ag428
+ag428
+ag430
+ag431
+ag428
+ag431
+ag429
+ag430
+ag431
+ag430
+ag431
+ag429
+ag428
+asS'types'
+p511
+(lp512
+VEnchantment - Aura
+p513
+aVEnchantment - Aura
+p514
+aVEnchantment - Aura
+p515
+aVEnchantment - Aura
+p516
+aVCreature - Treefolk Assassin
+p517
+aVCreature - Goblin Shaman
+p518
+aVCreature - Bird
+p519
+aVEnchantment - Aura
+p520
+aVEnchantment - Aura
+p521
+aVArtifact
+p522
+aVEnchantment - Aura
+p523
+aVEnchantment - Aura
+p524
+aVCreature - Human Soldier
+p525
+aVCreature - Human Soldier
+p526
+aVCreature - Human Soldier
+p527
+aVCreature - Human Soldier
+p528
+aVEnchantment - Aura
+p529
+aVEnchantment - Aura
+p530
+aVCreature - Faerie Wizard
+p531
+aVCreature - Human Nomad Cleric
+p532
+aVSorcery
+p533
+aVEnchantment - Aura
+p534
+aVCreature - Elf
+p535
+aVCreature - Human Nomad Cleric
+p536
+aVSorcery
+p537
+aVInstant - Arcane
+p538
+aVArtifact
+p539
+aVCreature - Human Bear Druid
+p540
+aVArtifact
+p541
+aVCreature - Human Soldier
+p542
+aVCreature - Bird
+p543
+aVEnchantment - Aura
+p544
+aVEnchantment - Aura
+p545
+aVCreature - Bird
+p546
+aVArtifact
+p547
+aVCreature - Bird Cleric
+p548
+aVCreature - Zombie Knight
+p549
+aVArtifact
+p550
+aVArtifact
+p551
+aVCreature - Bird
+p552
+aVCreature - Faerie
+p553
+aVCreature - Elf
+p554
+aVCreature - Treefolk
+p555
+aVArtifact
+p556
+aVEnchantment
+p557
+aVCreature - Beast
+p558
+aVCreature - Zombie Knight
+p559
+aVArtifact
+p560
+aVCreature - Zombie Knight
+p561
+aVEnchantment
+p562
+aVEnchantment - Aura
+p563
+aVInstant
+p564
+aVCreature - Elk
+p565
+aVEnchantment - Aura
+p566
+aVEnchantment - Aura
+p567
+aVEnchantment - Aura
+p568
+aVEnchantment - Aura
+p569
+aVArtifact
+p570
+aVInstant
+p571
+aVInstant
+p572
+aVInstant
+p573
+aVCreature - Faerie Wizard
+p574
+aVCreature - Merfolk Cleric
+p575
+aVSorcery
+p576
+aVCreature - Human Soldier
+p577
+aVCreature - Human Soldier
+p578
+aVCreature - Human Soldier Scout
+p579
+aVCreature - Human Soldier
+p580
+aVCreature - Human Soldier
+p581
+aVCreature - Human Soldier
+p582
+aVCreature - Human Soldier Assassin
+p583
+aVTransform Creature - Werewolf
+p584
+asS'numbers'
+p585
+(lp586
+V291
+p587
+aV292
+p588
+aV134
+p589
+aV28
+p590
+aV83
+p591
+aV84
+p592
+aV79
+p593
+aV95
+p594
+aV371
+p595
+aV10
+p596
+aV86
+p597
+aV121
+p598
+aV79
+p599
+aV80
+p600
+aV81
+p601
+aV82
+p602
+aV297
+p603
+aV298
+p604
+aV137
+p605
+aV54
+p606
+aV282
+p607
+aV281
+p608
+aV300
+p609
+aV59
+p610
+aV299
+p611
+aV250
+p612
+aV271
+p613
+aV282
+p614
+aV268
+p615
+aV46
+p616
+aV25
+p617
+aV291
+p618
+aV292
+p619
+aV76
+p620
+aV274
+p621
+aV30
+p622
+aV170
+p623
+aV141
+p624
+aV140
+p625
+aV84
+p626
+aV48
+p627
+aV115
+p628
+aV116
+p629
+aV159
+p630
+aV53
+p631
+aV57
+p632
+aV168
+p633
+aV15
+p634
+aV173
+p635
+aV88
+p636
+aV439
+p637
+aV61
+p638
+aV62
+p639
+aV235
+p640
+aV88
+p641
+aV283
+p642
+aV101
+p643
+aV239
+p644
+aV135
+p645
+aV40
+p646
+aV78
+p647
+aV6
+p648
+aV47
+p649
+aV147
+p650
+aV89
+p651
+aV87
+p652
+aV90
+p653
+aV88
+p654
+aV85
+p655
+aV91
+p656
+aV86
+p657
+aV81
+p658
+as.

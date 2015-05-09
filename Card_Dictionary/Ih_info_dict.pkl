@@ -1,0 +1,97 @@
+(dp0
+S'rares'
+p1
+(lp2
+VSpecial
+p3
+aVRare
+p4
+aVUncommon
+p5
+asS'editns'
+p6
+(lp7
+VAnthologies
+p8
+aVMasters Edition II
+p9
+aVHomelands
+p10
+asS'ids'
+p11
+(lp12
+V-2146729974
+p13
+aV184591
+p14
+aV2925
+p15
+asS'texts'
+p16
+(lp17
+V{R}: Goblin Balloon Brigade gains flying until end of turn.
+p18
+aVSearch your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.
+p19
+aVProtection from white
+p20
+asS'costs'
+p21
+(lp22
+V{3}{B}{B}{B}
+p23
+aV{3}{B}{B}{B}
+p24
+aV{3}{B}{B}{B}
+p25
+asS'names'
+p26
+(lp27
+VIhsan's Shade
+p28
+aVIhsan's Shade
+p29
+aVIhsan's Shade
+p30
+asS'toughs'
+p31
+(lp32
+V5
+p33
+ag33
+aV4
+p34
+asS'artists'
+p35
+(lp36
+VChristopher Rush
+p37
+aVChristopher Rush
+p38
+aVChristopher Rush
+p39
+asS'powers'
+p40
+(lp41
+g33
+ag33
+ag34
+asS'types'
+p42
+(lp43
+VLegendary Creature - Shade Knight
+p44
+aVLegendary Creature - Shade Knight
+p45
+aVLegendary Creature - Shade Knight
+p46
+asS'numbers'
+p47
+(lp48
+V10
+p49
+aV95
+p50
+aV15
+p51
+as.

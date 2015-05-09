@@ -1,0 +1,136 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVRare
+p4
+aVCommon
+p5
+aVCommon
+p6
+aVUncommon
+p7
+asS'editns'
+p8
+(lp9
+VAlliances
+p10
+aVMasters Edition II
+p11
+aVUrza's Destiny
+p12
+aVReturn to Ravnica
+p13
+aVGatecrash
+p14
+asS'ids'
+p15
+(lp16
+V3071
+p17
+aV184538
+p18
+aV15183
+p19
+aV265397
+p20
+aV366382
+p21
+asS'texts'
+p22
+(lp23
+VCumulative upkeep\u2014Pay 1 life. <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>At the beginning of each player's upkeep, that player sacrifices a green or white permanent.
+p24
+aVAt the beginning of your upkeep, sacrifice Earthlink unless you pay {2}.<br>Whenever a creature dies, that creature's controller sacrifices a land.
+p25
+aVEnchant creature<br>When enchanted creature dies, target player discards two cards.
+p26
+aVCounter target creature spell. Essence Backlash deals damage equal to that spell's power to its controller.
+p27
+aVEnchant creature you control<br>When enchanted creature dies, target player loses X life and you gain X life, where X is its power.
+p28
+asS'costs'
+p29
+(lp30
+V{1}{B}{B}
+p31
+aV{1}{B}{B}
+p32
+aV{1}{B}
+p33
+aV{R}
+p34
+aV{W}
+p35
+asS'names'
+p36
+(lp37
+VDystopia
+p38
+aVDystopia
+p39
+aVDying Wail
+p40
+aVDynacharge
+p41
+aVDying Wish
+p42
+asS'toughs'
+p43
+(lp44
+S'N/A'
+p45
+ag45
+ag45
+ag45
+ag45
+asS'artists'
+p46
+(lp47
+VRuth Thompson
+p48
+aVRuth Thompson
+p49
+aVBrian Snoddy
+p50
+aVMatt Stewart
+p51
+aVScott Chou
+p52
+asS'powers'
+p53
+(lp54
+g45
+ag45
+ag45
+ag45
+ag45
+asS'types'
+p55
+(lp56
+VEnchantment
+p57
+aVEnchantment
+p58
+aVEnchantment - Aura
+p59
+aVInstant
+p60
+aVEnchantment - Aura
+p61
+asS'numbers'
+p62
+(lp63
+V22
+p64
+aV88
+p65
+aV58
+p66
+aV92
+p67
+aV64
+p68
+as.

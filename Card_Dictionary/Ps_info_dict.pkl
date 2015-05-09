@@ -1,0 +1,961 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVCommon
+p4
+aVRare
+p5
+aVCommon
+p6
+aVUncommon
+p7
+aVCommon
+p8
+aVUncommon
+p9
+aVRare
+p10
+aVRare
+p11
+aVCommon
+p12
+aVRare
+p13
+aVCommon
+p14
+aVCommon
+p15
+aVUncommon
+p16
+aVCommon
+p17
+aVUncommon
+p18
+aVRare
+p19
+aVCommon
+p20
+aVUncommon
+p21
+aVCommon
+p22
+aVUncommon
+p23
+aVCommon
+p24
+aVCommon
+p25
+aVRare
+p26
+aVCommon
+p27
+aVRare
+p28
+aVUncommon
+p29
+aVRare
+p30
+aVUncommon
+p31
+aVCommon
+p32
+aVRare
+p33
+aVRare
+p34
+aVUncommon
+p35
+aVCommon
+p36
+aVRare
+p37
+aVRare
+p38
+aVRare
+p39
+aVCommon
+p40
+aVRare
+p41
+aVUncommon
+p42
+aVCommon
+p43
+aVCommon
+p44
+aVRare
+p45
+aVRare
+p46
+aVCommon
+p47
+aVSpecial
+p48
+asS'editns'
+p49
+(lp50
+VLimited Edition Beta
+p51
+aVLimited Edition Beta
+p52
+aVFourth Edition
+p53
+aVFourth Edition
+p54
+aVPlanar Chaos
+p55
+aVScars of Mirrodin
+p56
+aVVintage Masters
+p57
+aVThe Dark
+p58
+aVMirrodin Besieged
+p59
+aVRevised Edition
+p60
+aVOnslaught
+p61
+aVChampions of Kamigawa
+p62
+aVBetrayers of Kamigawa
+p63
+aVRavnica: City of Guilds
+p64
+aVOdyssey
+p65
+aVOdyssey
+p66
+aVTime Spiral
+p67
+aVTime Spiral
+p68
+aVReturn to Ravnica
+p69
+aVGatecrash
+p70
+aVUnlimited Edition
+p71
+aVUnlimited Edition
+p72
+aVTorment
+p73
+aVClassic Sixth Edition
+p74
+aVClassic Sixth Edition
+p75
+aVMirrodin
+p76
+aVMirrodin
+p77
+aVProphecy
+p78
+aVDarksteel
+p79
+aVNew Phyrexia
+p80
+aVNew Phyrexia
+p81
+aVStarter 1999
+p82
+aVMasters Edition
+p83
+aVMasters Edition
+p84
+aVTheros
+p85
+aVWeatherlight
+p86
+aVInvasion
+p87
+aVFifth Edition
+p88
+aVMirage
+p89
+aVLimited Edition Alpha
+p90
+aVLimited Edition Alpha
+p91
+aVLegends
+p92
+aVLegends
+p93
+aVDissension
+p94
+aVDissension
+p95
+aVTime Spiral "Timeshifted"
+p96
+asS'ids'
+p97
+(lp98
+V417
+p99
+aV418
+p100
+aV2178
+p101
+aV2179
+p102
+aV128944
+p103
+aV206345
+p104
+aV383056
+p105
+aV1760
+p106
+aV214047
+p107
+aV1218
+p108
+aV40173
+p109
+aV80242
+p110
+aV74554
+p111
+aV89114
+p112
+aV31791
+p113
+aV31825
+p114
+aV113559
+p115
+aV116727
+p116
+aV270794
+p117
+aV366296
+p118
+aV719
+p119
+aV720
+p120
+aV33691
+p121
+aV15368
+p122
+aV16430
+p123
+aV46582
+p124
+aV48167
+p125
+aV24593
+p126
+aV48163
+p127
+aV218016
+p128
+aV214347
+p129
+aV21050
+p130
+aV159311
+p131
+aV159269
+p132
+aV373695
+p133
+aV4496
+p134
+aV26287
+p135
+aV3934
+p136
+aV3356
+p137
+aV122
+p138
+aV123
+p139
+aV1494
+p140
+aV1493
+p141
+aV107254
+p142
+aV107338
+p143
+aV108812
+p144
+asS'texts'
+p145
+(lp146
+VPsionic Blast deals 4 damage to target creature or player and 2 damage to you.
+p147
+aV{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+p148
+aV{T}: Psionic Entity deals 2 damage to target creature or player and 3 damage to itself.
+p149
+aVFlying
+p150
+aVAt the beginning of your upkeep, put a spore counter on Psychotrope Thallid.<br>Remove three spore counters from Psychotrope Thallid: Put a 1/1 green Saproling creature token onto the battlefield.<br>{1}, Sacrifice a Saproling: Draw a card.
+p151
+aVRazorverge Thicket enters the battlefield tapped unless you control two or fewer other lands.<br>{T}: Add {G} or {W} to your mana pool.
+p152
+aVDestroy target creature with power 4 or greater.<br>Cycling {2} <i>({2}, Discard this card: Draw a card.)</i>
+p153
+aVAs Psychic Allergy enters the battlefield, choose a color.<br>At the beginning of each opponent's upkeep, Psychic Allergy deals X damage to that player, where X is the number of nontoken permanents of the chosen color he or she controls.<br>At the beginning of your upkeep, destroy Psychic Allergy unless you sacrifice two Islands.
+p154
+aVAttacking creatures get +1/+0 and gain first strike until end of turn.
+p155
+aVForestwalk
+p156
+aVUntil end of turn, Wizards you control gain "{T}: Counter target spell."
+p157
+aVYou may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice that creature at the beginning of the next end step.<br>Splice onto Arcane {2}{R}{R} <i>(As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)</i>
+p158
+aVThe "legend rule" doesn't apply.
+p159
+aVIf an effect would put one or more tokens onto the battlefield under your control, it puts twice that many of those tokens onto the battlefield instead.<br>If an effect would place one or more counters on a permanent you control, it places twice that many of those counters on that permanent instead.
+p160
+aVSacrifice an enchantment: Phantatog gets +1/+1 until end of turn.<br>Discard a card: Phantatog gets +1/+1 until end of turn.
+p161
+aVEnchant creature<br>Whenever enchanted creature is dealt damage, its controller puts that many 1/1 green Squirrel creature tokens onto the battlefield.
+p162
+aVAll Sliver creatures have "{T}: This creature deals 2 damage to target creature or player and 3 damage to itself."
+p163
+aVTarget player reveals his or her hand and the top card of his or her library. You choose a card revealed this way. That player puts the chosen card on the bottom of his or her library.<br>Madness {1}{B} <i>(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)</i>
+p164
+aVUnleash <i>(You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)</i>
+p165
+aVTarget opponent discards two cards and you gain 2 life.
+p166
+aVFlying
+p167
+aVSea Serpent can't attack unless defending player controls an Island.<br><br>When you control no Islands, sacrifice Sea Serpent.
+p168
+aVPsychotic Haze deals 1 damage to each creature and each player.<br>Madness {1}{B} <i>(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)</i>
+p169
+aVReturn target instant or sorcery card from your graveyard to your hand.
+p170
+aVYou may put a creature card from your hand onto the battlefield. If you do, sacrifice it unless you pay its mana cost reduced by up to {2}.
+p171
+aVWhenever a spell or ability causes a player to shuffle his or her library, Psychogenic Probe deals 2 damage to him or her.
+p172
+aVDefender <i>(This creature can't attack.)</i><br>Whenever Psychic Membrane blocks, you may draw a card.
+p173
+aVTarget player reveals his or her hand. You choose an instant or sorcery card from it and exile that card. You may cast that card for as long as it remains exiled. At the beginning of the next end step, if you haven't cast the card, return it to its owner's hand.
+p174
+aVEnchant permanent<br>When Psychic Overload enters the battlefield, tap enchanted permanent.<br>Enchanted permanent doesn't untap during its controller's untap step.<br>Enchanted permanent has "Discard two artifact cards: Untap this permanent."
+p175
+aV<i>({RP} can be paid with either {R} or 2 life.)</i><br>Whenever you cast a spell with {p} in its mana cost, Rage Extractor deals damage equal to that spell's converted mana cost to target creature or player.
+p176
+aVFirst strike<br>Infect <i>(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</i>
+p177
+aVB
+p178
+aVPsychic Purge deals 1 damage to target creature or player.<br>When a spell or ability an opponent controls causes you to discard Psychic Purge, that player loses 5 life.
+p179
+aVEnchant land<br>Whenever enchanted land becomes tapped, Psychic Venom deals 2 damage to that land's controller.
+p180
+aVTrample<br>Other Minotaur creatures you control get +1/+1 and have trample.
+p181
+aVCumulative upkeep\u2014Draw a card. <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>At the beginning of your end step, sacrifice a land and discard your hand.
+p182
+aVWhenever a player chooses one or more targets, each player reveals the top card of his or her library. The player who reveals the card with the highest converted mana cost may change the target or targets. If two or more cards are tied for highest cost, the target or targets remain unchanged. Changing targets this way doesn't trigger this ability.
+p183
+aV{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+p184
+aVAs Quirion Elves enters the battlefield, choose a color.<br>{T}: Add {G} to your mana pool.<br>{T}: Add one mana of the chosen color to your mana pool.
+p185
+aVFlying<br>{R}: Shivan Dragon gets +1/+0 until end of turn.
+p186
+aVDestroy target land.
+p187
+aVCast Reset only during an opponent's turn after his or her upkeep step.<br>Untap all lands you control.
+p188
+aVCreatures you control get +0/+2 until end of turn.
+p189
+aVEnchant opponent<br>Skip your draw step.<br>Whenever enchanted opponent draws a card, you may draw a card.
+p190
+aVTarget multicolored creature gains double strike until end of turn.<br>Draw a card.
+p191
+aVPsionic Blast deals 4 damage to target creature or player and 2 damage to you.
+p192
+asS'costs'
+p193
+(lp194
+V{2}{U}
+p195
+aV{1}{U}
+p196
+aV{4}{U}
+p197
+aV{1}{U}
+p198
+aV{2}{G}
+p199
+aV{5}
+p200
+aV{3}{U}{R}
+p201
+aV{3}{U}{U}
+p202
+aV{5}
+p203
+aV{1}{U}
+p204
+aV{2}{U}{U}
+p205
+aV{1}{U}
+p206
+aV{B}
+p207
+aV{X}{U}{B}
+p208
+aV{1}{U}
+p209
+aV{1}{U}{B}
+p210
+aV{4}{U}
+p211
+aV{1}{B}{B}
+p212
+aV{W}{W}
+p213
+aV{2}{G}{G}{U}{U}
+p214
+aV{2}{U}
+p215
+aV{1}{U}
+p216
+aV{2}{B}{B}
+p217
+aV{4}{U}
+p218
+aV{1}{U}
+p219
+aV{2}
+p220
+aV{2}{U}
+p221
+aV{1}{U}
+p222
+aV{3}{U}
+p223
+aV{3}
+p224
+aV{U}{U}
+p225
+aV{4}{U}
+p226
+aV{U}
+p227
+aV{1}{U}
+p228
+aV{3}{G}{U}
+p229
+aV{2}{U}{U}
+p230
+aV{3}{U}{U}
+p231
+aV{1}{U}
+p232
+aV{4}{U}
+p233
+aV{2}{U}
+p234
+aV{1}{U}
+p235
+aV{U}
+p236
+aV{4}{U}
+p237
+aV{2}{U}{U}
+p238
+aV{1}{R}
+p239
+aV{2}{U}
+p240
+asS'names'
+p241
+(lp242
+VPsionic Blast
+p243
+aVPsychic Venom
+p244
+aVPsionic Entity
+p245
+aVPsychic Venom
+p246
+aVPsychotrope Thallid
+p247
+aVPsychic Miasma
+p248
+aVPsychatog
+p249
+aVPsychic Allergy
+p250
+aVPsychosis Crawler
+p251
+aVPsychic Venom
+p252
+aVPsychic Trance
+p253
+aVPsychic Puppetry
+p254
+aVPsychic Spear
+p255
+aVPsychic Drain
+p256
+aVPsionic Gift
+p257
+aVPsychatog
+p258
+aVPsionic Sliver
+p259
+aVPsychotic Episode
+p260
+aVPsychic Spiral
+p261
+aVPsychic Strike
+p262
+aVPsionic Blast
+p263
+aVPsychic Venom
+p264
+aVPsychotic Haze
+p265
+aVPsychic Transfer
+p266
+aVPsychic Venom
+p267
+aVPsychogenic Probe
+p268
+aVPsychic Membrane
+p269
+aVPsychic Theft
+p270
+aVPsychic Overload
+p271
+aVPsychic Barrier
+p272
+aVPsychic Surgery
+p273
+aVPsychic Transfer
+p274
+aVPsychic Purge
+p275
+aVPsychic Venom
+p276
+aVPsychic Intrusion
+p277
+aVPsychic Vortex
+p278
+aVPsychic Battle
+p279
+aVPsychic Venom
+p280
+aVPsychic Transfer
+p281
+aVPsionic Blast
+p282
+aVPsychic Venom
+p283
+aVPsychic Purge
+p284
+aVPsionic Entity
+p285
+aVPsychic Possession
+p286
+aVPsychotic Fury
+p287
+aVPsionic Blast
+p288
+asS'toughs'
+p289
+(lp290
+S'N/A'
+p291
+ag291
+aV*
+p292
+ag291
+aV1
+p293
+ag291
+aV6
+p294
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+aV2
+p295
+aV4
+p296
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+aV0
+p297
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag293
+ag291
+ag291
+ag291
+asS'artists'
+p298
+(lp299
+VDouglas Schuler
+p300
+aVBrian Snoddy
+p301
+aVJustin Hampton
+p302
+aVBrian Snoddy
+p303
+aVDave Kendall
+p304
+aVSvetlin Velinov
+p305
+aVIzzy
+p306
+aVMark Tedin
+p307
+aS''
+p308
+aVBrian Snoddy
+p309
+aVRebecca Guay
+p310
+aVJoel Thomas
+p311
+aVRon Spears
+p312
+aVNick Percival
+p313
+aVOrizio Daniele
+p314
+aVEdward P. Beard, Jr.
+p315
+aVWayne England
+p316
+aVDrew Tucker
+p317
+aVRyan Pancoast
+p318
+aVMathias Kollros
+p319
+aVDouglas Schuler
+p320
+aVBrian Snoddy
+p321
+aVAlex Horley-Orlandelli
+p322
+aVDom
+p323
+aVBrian Snoddy
+p324
+aVJeremy Jarvis
+p325
+aVTony Szczudlo
+p326
+aVDon Hazeltine
+p327
+aVJeremy Jarvis
+p328
+ag308
+ag308
+aVDom
+p329
+aVSusan Van Camp
+p330
+aVBrian Snoddy
+p331
+aVJaime Jones
+p332
+aVSteve Luke
+p333
+aVRay Lago
+p334
+aVBrian Snoddy
+p335
+aVDom
+p336
+aVDouglas Schuler
+p337
+aVBrian Snoddy
+p338
+aVSusan Van Camp
+p339
+aVSusan Van Camp
+p340
+aVMark Tedin
+p341
+aVKev Walker
+p342
+aVDouglas Shuler
+p343
+asS'powers'
+p344
+(lp345
+g291
+ag291
+ag292
+ag291
+ag293
+ag291
+aV3
+p346
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag295
+ag297
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag297
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag291
+ag293
+ag291
+ag291
+ag291
+asS'types'
+p347
+(lp348
+VInstant
+p349
+aVEnchantment - Aura
+p350
+aVCreature - Illusion
+p351
+aVEnchantment - Aura
+p352
+aVCreature - Fungus
+p353
+aVSorcery
+p354
+aVCreature - Atog
+p355
+aVEnchantment
+p356
+aVArtifact Creature - Horror
+p357
+aVEnchantment - Aura
+p358
+aVInstant
+p359
+aVInstant - Arcane
+p360
+aVSorcery
+p361
+aVSorcery
+p362
+aVEnchantment - Aura
+p363
+aVCreature - Atog
+p364
+aVCreature - Sliver
+p365
+aVSorcery
+p366
+aVInstant
+p367
+aVInstant
+p368
+aVInstant
+p369
+aVEnchantment - Aura
+p370
+aVInstant
+p371
+aVSorcery
+p372
+aVEnchantment - Aura
+p373
+aVArtifact
+p374
+aVCreature - Wall
+p375
+aVSorcery
+p376
+aVEnchantment - Aura
+p377
+aVInstant
+p378
+aVEnchantment
+p379
+aVSorcery
+p380
+aVSorcery
+p381
+aVEnchantment - Aura
+p382
+aVSorcery
+p383
+aVEnchantment
+p384
+aVEnchantment
+p385
+aVEnchantment - Aura
+p386
+aVSorcery
+p387
+aVInstant
+p388
+aVEnchantment - Aura
+p389
+aVSorcery
+p390
+aVCreature - Illusion
+p391
+aVEnchantment - Aura
+p392
+aVInstant
+p393
+aVInstant
+p394
+asS'numbers'
+p395
+(lp396
+V10
+p397
+aV207
+p398
+aV74
+p399
+aV303
+p400
+aV137
+p401
+aV76
+p402
+aV258
+p403
+aV31
+p404
+aV126
+p405
+aV224
+p406
+aV102
+p407
+aV80
+p408
+aV78
+p409
+aV220
+p410
+aV95
+p411
+aV292
+p412
+aV72
+p413
+aV126
+p414
+aV47
+p415
+aV189
+p416
+aV210
+p417
+aV211
+p418
+aV76
+p419
+aV90
+p420
+aV91
+p421
+aV231
+p422
+aV46
+p423
+aV40
+p424
+aV28
+p425
+aV43
+p426
+aV44
+p427
+aV46
+p428
+aV45
+p429
+aV46
+p430
+aV200
+p431
+aV51
+p432
+aV68
+p433
+aV372
+p434
+aV322
+p435
+aV227
+p436
+aV228
+p437
+aV50
+p438
+aV260
+p439
+aV30
+p440
+aV68
+p441
+aV30
+p442
+as.

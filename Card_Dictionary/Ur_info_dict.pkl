@@ -1,0 +1,2003 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVRare
+p4
+aVCommon
+p5
+aVRare
+p6
+aVUncommon
+p7
+aVRare
+p8
+aVUncommon
+p9
+aVCommon
+p10
+aVUncommon
+p11
+aVCommon
+p12
+aVUncommon
+p13
+aVCommon
+p14
+aVCommon
+p15
+aVUncommon
+p16
+aVCommon
+p17
+aVUncommon
+p18
+aVUncommon
+p19
+aVUncommon
+p20
+aVCommon
+p21
+aVCommon
+p22
+aVCommon
+p23
+aVUncommon
+p24
+aVUncommon
+p25
+aVUncommon
+p26
+aVUncommon
+p27
+aVUncommon
+p28
+aVUncommon
+p29
+aVMythic Rare
+p30
+aVRare
+p31
+aVRare
+p32
+aVUncommon
+p33
+aVCommon
+p34
+aVUncommon
+p35
+aVCommon
+p36
+aVUncommon
+p37
+aVUncommon
+p38
+aVUncommon
+p39
+aVUncommon
+p40
+aVRare
+p41
+aVRare
+p42
+aVCommon
+p43
+aVMythic Rare
+p44
+aVUncommon
+p45
+aVUncommon
+p46
+aVCommon
+p47
+aVRare
+p48
+aVRare
+p49
+aVUncommon
+p50
+aVUncommon
+p51
+aVRare
+p52
+aVUncommon
+p53
+aVUncommon
+p54
+aVUncommon
+p55
+aVUncommon
+p56
+aVUncommon
+p57
+aVUncommon
+p58
+aVUncommon
+p59
+aVUncommon
+p60
+aVUncommon
+p61
+aVUncommon
+p62
+aVUncommon
+p63
+aVUncommon
+p64
+aVUncommon
+p65
+aVUncommon
+p66
+aVUncommon
+p67
+aVCommon
+p68
+aVCommon
+p69
+aVUncommon
+p70
+aVUncommon
+p71
+aVRare
+p72
+aVRare
+p73
+aVUncommon
+p74
+aVUncommon
+p75
+aVMythic Rare
+p76
+aVRare
+p77
+aVUncommon
+p78
+aVCommon
+p79
+aVCommon
+p80
+aVCommon
+p81
+aVCommon
+p82
+aVCommon
+p83
+aVSpecial
+p84
+aVCommon
+p85
+aVCommon
+p86
+aVCommon
+p87
+aVLand
+p88
+aVLand
+p89
+aVLand
+p90
+aVLand
+p91
+aVRare
+p92
+aVLand
+p93
+aVLand
+p94
+aVLand
+p95
+aVLand
+p96
+aVLand
+p97
+aVLand
+p98
+aVLand
+p99
+aVLand
+p100
+aVRare
+p101
+aVUncommon
+p102
+aVRare
+p103
+asS'editns'
+p104
+(lp105
+VFourth Edition
+p106
+aVPlanar Chaos
+p107
+aVAntiquities
+p108
+aVAntiquities
+p109
+aVAntiquities
+p110
+aVAntiquities
+p111
+aVAntiquities
+p112
+aVAntiquities
+p113
+aVAntiquities
+p114
+aVAntiquities
+p115
+aVAntiquities
+p116
+aVAntiquities
+p117
+aVAntiquities
+p118
+aVAntiquities
+p119
+aVAntiquities
+p120
+aVAntiquities
+p121
+aVAntiquities
+p122
+aVAlliances
+p123
+aVVintage Masters
+p124
+aVApocalypse
+p125
+aVApocalypse
+p126
+aVMasters Edition III
+p127
+aVNinth Edition
+p128
+aVNinth Edition
+p129
+aVNinth Edition
+p130
+aVNinth Edition
+p131
+aVDuel Decks: Sorin vs. Tibalt
+p132
+aVFrom the Vault: Realms
+p133
+aVUrza's Destiny
+p134
+aVRavnica: City of Guilds
+p135
+aVCommander 2013 Edition
+p136
+aVTime Spiral
+p137
+aVTime Spiral
+p138
+aVReturn to Ravnica
+p139
+aVGatecrash
+p140
+aVGatecrash
+p141
+aVColdsnap
+p142
+aVIce Age
+p143
+aVMagic 2015 Core Set
+p144
+aVUrza's Legacy
+p145
+aVDarksteel
+p146
+aVNew Phyrexia
+p147
+aVUrza's Saga
+p148
+aVMasters Edition
+p149
+aVMasters Edition
+p150
+aVWeatherlight
+p151
+aVWeatherlight
+p152
+aVEighth Edition
+p153
+aVEighth Edition
+p154
+aVEighth Edition
+p155
+aVEighth Edition
+p156
+aVEighth Edition
+p157
+aVWorldwake
+p158
+aVChronicles
+p159
+aVChronicles
+p160
+aVChronicles
+p161
+aVChronicles
+p162
+aVChronicles
+p163
+aVChronicles
+p164
+aVChronicles
+p165
+aVChronicles
+p166
+aVChronicles
+p167
+aVChronicles
+p168
+aVChronicles
+p169
+aVChronicles
+p170
+aVInvasion
+p171
+aVInvasion
+p172
+aVInvasion
+p173
+aVInvasion
+p174
+aVInvasion
+p175
+aVInvasion
+p176
+aVInvasion
+p177
+aVInvasion
+p178
+aVAlara Reborn
+p179
+aVFifth Edition
+p180
+aVFifth Edition
+p181
+aVFifth Edition
+p182
+aVFifth Edition
+p183
+aVFifth Edition
+p184
+aVArchenemy
+p185
+aVMirage
+p186
+aVVanguard
+p187
+aVInnistrad
+p188
+aVVisions
+p189
+aVMasters Edition IV
+p190
+aVMasters Edition IV
+p191
+aVMasters Edition IV
+p192
+aVMasters Edition IV
+p193
+aVMasters Edition IV
+p194
+aVMasters Edition IV
+p195
+aVMasters Edition IV
+p196
+aVMasters Edition IV
+p197
+aVMasters Edition IV
+p198
+aVMasters Edition IV
+p199
+aVMasters Edition IV
+p200
+aVMasters Edition IV
+p201
+aVMasters Edition IV
+p202
+aVMasters Edition IV
+p203
+aVLegends
+p204
+aVLegends
+p205
+aVPlaneshift
+p206
+asS'ids'
+p207
+(lp208
+V2078
+p209
+aV131005
+p210
+aV1031
+p211
+aV1032
+p212
+aV1084
+p213
+aV1030
+p214
+aV1083
+p215
+aV1082
+p216
+aV1081
+p217
+aV1080
+p218
+aV1087
+p219
+aV1086
+p220
+aV1085
+p221
+aV1091
+p222
+aV1090
+p223
+aV1089
+p224
+aV1088
+p225
+aV3064
+p226
+aV383144
+p227
+aV26717
+p228
+aV26802
+p229
+aV201202
+p230
+aV83510
+p231
+aV83314
+p232
+aV83315
+p233
+aV83316
+p234
+aV368522
+p235
+aV287330
+p236
+aV15257
+p237
+aV88979
+p238
+aV376564
+p239
+aV108798
+p240
+aV116384
+p241
+aV270370
+p242
+aV366419
+p243
+aV366415
+p244
+aV121150
+p245
+aV2429
+p246
+aV383425
+p247
+aV12633
+p248
+aV49110
+p249
+aV214378
+p250
+aV5574
+p251
+aV159247
+p252
+aV159842
+p253
+aV4472
+p254
+aV4473
+p255
+aV45464
+p256
+aV45468
+p257
+aV45484
+p258
+aV45493
+p259
+aV45470
+p260
+aV198368
+p261
+aV2891
+p262
+aV2890
+p263
+aV2889
+p264
+aV2888
+p265
+aV2895
+p266
+aV2894
+p267
+aV2893
+p268
+aV2892
+p269
+aV2899
+p270
+aV2898
+p271
+aV2897
+p272
+aV2896
+p273
+aV23018
+p274
+aV23020
+p275
+aV23035
+p276
+aV23038
+p277
+aV23087
+p278
+aV23227
+p279
+aV23242
+p280
+aV25975
+p281
+aV189645
+p282
+aV3817
+p283
+aV3818
+p284
+aV4192
+p285
+aV4193
+p286
+aV4194
+p287
+aV220559
+p288
+aV3319
+p289
+aV12326
+p290
+aV227066
+p291
+aV3628
+p292
+aV221105
+p293
+aV220950
+p294
+aV220949
+p295
+aV220947
+p296
+aV220948
+p297
+aV228268
+p298
+aV220954
+p299
+aV220953
+p300
+aV220951
+p301
+aV220952
+p302
+aV220958
+p303
+aV220957
+p304
+aV220955
+p305
+aV220956
+p306
+aV1695
+p307
+aV1707
+p308
+aV25918
+p309
+asS'texts'
+p310
+(lp311
+VEnchant creature<br>Enchanted creature gets -2/-1.
+p312
+aVEach land is a Swamp in addition to its other land types.
+p313
+aVWhenever a player casts an artifact spell, you may pay {1}. If you do, you gain 1 life.
+p314
+aVWhenever an artifact you control is put into a graveyard from the battlefield, if it wasn't sacrificed, you may pay {3}. If you do, draw a card.
+p315
+aV{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.
+p316
+aV{0}: Urza's Avenger gets -1/-1 and gains your choice of banding, flying, first strike, or trample until end of turn. <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
+p317
+aV{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.
+p318
+aV{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.
+p319
+aV{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.
+p320
+aV{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.
+p321
+aV{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.
+p322
+aV{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.
+p323
+aV{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.
+p324
+aV{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.
+p325
+aV{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.
+p326
+aV{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.
+p327
+aV{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.
+p328
+aVTrample<br>{3}: Urza's Engine gains banding until end of turn. <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i><br>{3}: Attacking creatures banded with Urza's Engine gain trample until end of turn.
+p329
+aVFlying, trample<br>When Worldgorger Dragon enters the battlefield, exile all other permanents you control.<br>When Worldgorger Dragon leaves the battlefield, return the exiled cards to the battlefield under their owners' control.
+p330
+aV{T}: Add {G}, {U}, or {B} to your mana pool.
+p331
+aVReturn up to two target creature cards from your graveyard to your hand.<br><br>Draw a card.
+p332
+aVFlying<br>{B}{R}{G}, {T}: Target player draws a card.
+p333
+aVTrample <i>(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</i><br>At the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}.
+p334
+aS''
+p335
+ag335
+ag335
+aVTarget creature gets -3/-3 until end of turn. You may tap any number of untapped Vampire creatures you control. If you do, put a +1/+1 counter on each of those Vampires.
+p336
+aVEach land is a Swamp in addition to its other land types.
+p337
+aVAs Urza's Incubator enters the battlefield, choose a creature type.<br>Creature spells of the chosen type cost {2} less to cast.
+p338
+aVWhenever you cast a spell, put the cards in your hand on the bottom of your library in any order, then draw that many cards.
+p339
+aV{T}: Add {1} to your mana pool.<br>{7}, {T}: Put a 2/2 colorless Assembly-Worker artifact creature token onto the battlefield.
+p340
+aV{2}{B}, {T}, Discard a card: Each other player loses 2 life. You gain life equal to the life lost this way.
+p341
+aV{T}: Add {1} to your mana pool.<br>{7}, {T}: Put a 2/2 colorless Assembly-Worker artifact creature token onto the battlefield.
+p342
+aVWhen Viashino Racketeer enters the battlefield, you may discard a card. If you do, draw a card.
+p343
+aVEnchant land<br>When Verdant Haven enters the battlefield, you gain 2 life.<br>Whenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool <i>(in addition to the mana the land produces)</i>.
+p344
+aVFirst strike<br>Bloodrush- {2}{R}, Discard Viashino Shanktail: Target attacking creature gets +3/+1 and gains first strike until end of turn.
+p345
+aVUrsine Fylgja enters the battlefield with four healing counters on it.<br>Remove a healing counter from Ursine Fylgja: Prevent the next 1 damage that would be dealt to Ursine Fylgja this turn.<br>{2}{W}: Put a healing counter on Ursine Fylgja.
+p346
+aVFlying<br>Wind Spirit can't be blocked except by two or more creatures.
+p347
+aVDefender <i>(This creature can't attack.)</i><br>{R}: Wall of Fire gets +1/+0 until end of turn.
+p348
+aVEcho {6} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i><br>{T}: Draw a card.
+p349
+aV{T}: Add {2} to your mana pool.
+p350
+aVFlying<br>Infect <i>(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</i><br>{3}{U}: Proliferate. <i>(You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)</i>
+p351
+aV{B}{B}, {T}: Destroy target white creature.
+p352
+aV{T}, Sacrifice Urza's Bauble: Look at a card at random in target player's hand. You draw a card at the beginning of the next turn's upkeep.
+p353
+aVWhenever a player casts an artifact spell, you may pay {1}. If you do, you gain 1 life.
+p354
+aVTarget opponent sacrifices a creature for each creature put into your graveyard from the battlefield this turn.
+p355
+aVAt the beginning of each player's upkeep, if that player controls a nonblack, nonland permanent, Urborg Stalker deals 1 damage to that player.
+p356
+aV{T}: Target permanent becomes the color of your choice until end of turn.
+p357
+aV{3}, {T}: Target player names a card, then reveals the top card of his or her library. If it's the named card, the player puts it into his or her hand. Otherwise, the player puts it into his or her graveyard and Vexing Arcanix deals 2 damage to him or her.
+p358
+aVLhurgoyf's power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1.
+p359
+ag335
+ag335
+aV{T}: Target land you control becomes an X/X Elemental creature until end of turn, where X is the number of Allies you control. It's still a land.
+p360
+aV{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.
+p361
+aV{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.
+p362
+aV{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.
+p363
+aV{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.
+p364
+aV{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.
+p365
+aV{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.
+p366
+aV{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.
+p367
+aV{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.
+p368
+aV{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.
+p369
+aVFlying<br>At the beginning of your upkeep, sacrifice Vaevictis Asmadi unless you pay {B}{R}{G}.<br>{B}: Vaevictis Asmadi gets +1/+0 until end of turn.<br>{R}: Vaevictis Asmadi gets +1/+0 until end of turn.<br>{G}: Vaevictis Asmadi gets +1/+0 until end of turn.
+p370
+aVDefender <i>(This creature can't attack.)</i>
+p371
+aVDefender <i>(This creature can't attack.)</i><br>{2}{U}{U}: Wall of Wonder gets +4/-4 until end of turn and can attack this turn as though it didn't have defender.
+p372
+aVUrborg Phantom can't block.<br>{U}: Prevent all combat damage that would be dealt to and dealt by Urborg Phantom this turn.
+p373
+aVKicker {3} <i>(You may pay an additional {3} as you cast this spell.)</i><br>{B}: Regenerate Urborg Skeleton.<br>If Urborg Skeleton was kicked, it enters the battlefield with a +1/+1 counter on it.
+p374
+aVOther black creatures get -1/-1.
+p375
+aVKicker {1}{U} <i>(You may pay an additional {1}{U} as you cast this spell.)</i><br>When Urborg Emissary enters the battlefield, if it was kicked, return target permanent to its owner's hand.
+p376
+aVKicker {8}{R} <i>(You may pay an additional {8}{R} as you cast this spell.)</i><br>Urza's Rage can't be countered by spells or abilities.<br>Urza's Rage deals 3 damage to target creature or player. If Urza's Rage was kicked, instead it deals 10 damage to that creature or player and the damage can't be prevented.
+p377
+aVMulticolored spells cost up to {2} less to cast.
+p378
+aVUrborg Volcano enters the battlefield tapped.<br>{T}: Add {B} or {R} to your mana pool.
+p379
+aVFlying<br>Urborg Drake attacks each turn if able.
+p380
+aV{T}: Tap target creature unless its controller pays 2 life.
+p381
+aV{0}: Urza's Avenger gets -1/-1 and gains your choice of banding, flying, first strike, or trample until end of turn. <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
+p382
+aV{T}, Sacrifice Urza's Bauble: Look at a card at random in target player's hand. You draw a card at the beginning of the next turn's upkeep.
+p383
+aVEnchant creature<br>At the beginning of the upkeep of enchanted creature's controller, Wanderlust deals 1 damage to that player.
+p384
+aVTrample
+p385
+aVEnchant creature<br>Enchanted creature gets -2/-1.
+p386
+aV{2}{B}, {T}, Discard a card: Each other player loses 2 life. You gain life equal to the life lost this way.
+p387
+aV{B}, Sacrifice Urborg Panther: Destroy target creature blocking Urborg Panther.<br>Sacrifice a creature named Feral Shadow, a creature named Breathstealer, and Urborg Panther: Search your library for a card named Spirit of the Night and put that card onto the battlefield. Then shuffle your library.
+p388
+aV{3}: Urza deals 1 damage to target creature or player.
+p389
+aVWhenever another Human creature dies, put a +1/+1 counter on Village Cannibals.
+p390
+aVEnchant creature<br>When Vampirism enters the battlefield, draw a card at the beginning of the next turn's upkeep.<br>Enchanted creature gets +1/+1 for each other creature you control.<br>Other creatures you control get -1/-1.
+p391
+aVAs long as it's your turn, creatures you control get +2/+0.<br>As long as it's not your turn, creatures you control get -0/-2.
+p392
+aVTrample
+p393
+aVEnchant artifact<br>At the beginning of the upkeep of enchanted artifact's controller, Warp Artifact deals 1 damage to that player.
+p394
+aVEnchant creature<br>Enchanted creature gets -2/-1.
+p395
+aVAttacking creatures get -1/-0.
+p396
+aVEach player discards his or her hand and draws seven cards.
+p397
+aVFirst strike <i>(This creature deals combat damage before creatures without first strike.)</i><br>Protection from black <i>(This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)</i>
+p398
+aVDestroy two target nonblack creatures. You lose 5 life.
+p399
+aVFlying, first strike<br>{W}{W}: Wild Aesthir gets +2/+0 until end of turn. Activate this ability only once each turn.
+p400
+aVFlying
+p401
+aVSwampwalk
+p402
+aVAs Wood Elemental enters the battlefield, sacrifice any number of untapped Forests.<br>Wood Elemental's power and toughness are each equal to the number of Forests sacrificed as it entered the battlefield.
+p403
+aVLook at target opponent's hand and choose a card from it. You control that player until Word of Command finishes resolving. The player plays that card if able. While doing so, the player can activate mana abilities only if they're from lands he or she controls and only if mana they produce is spent to activate other mana abilities of lands he or she controls and/or play that card. If the chosen card is cast as a spell, you control the player while that spell is resolving.
+p404
+aV{T}: Until your next upkeep, target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost.
+p405
+aVWhenever Abomination blocks or becomes blocked by a green or white creature, destroy that creature at end of combat.
+p406
+aV{2}, {T}: Put a charge counter on Black Mana Battery.<br><br>{T}, Remove any number of charge counters from Black Mana Battery: Add {B} to your mana pool, then add an additional {B} to your mana pool for each charge counter removed this way.
+p407
+aVEach player draws two cards, then discards three cards, then loses 4 life.
+p408
+asS'costs'
+p409
+(lp410
+V{6}
+p411
+aS'0'
+p412
+aV{1}
+p413
+aV{3}
+p414
+ag412
+aV{6}
+p415
+ag412
+ag412
+ag412
+ag412
+ag412
+ag412
+ag412
+ag412
+ag412
+ag412
+ag412
+aV{5}
+p416
+aV{1}{B}
+p417
+aV{1}{G}
+p418
+aV{4}{B}
+p419
+ag412
+aV{4}
+p420
+ag412
+ag412
+ag412
+aV{2}{W}
+p421
+ag412
+aV{3}
+p422
+aV{3}{G}{G}
+p423
+ag412
+aV{2}{B}
+p424
+ag412
+aV{1}{B}{B}
+p425
+aV{4}{B}{B}
+p426
+aV{2}{G}{U}
+p427
+aV{4}{W}
+p428
+aV{0}
+p429
+ag412
+aV{6}
+p430
+aV{4}
+p431
+aV{4}
+p432
+aV{6}
+p433
+aV{0}
+p434
+aV{1}
+p435
+aV{B}{B}
+p436
+aV{3}{B}
+p437
+ag412
+ag412
+aV{6}
+p438
+ag412
+ag412
+aV{2}{U}
+p439
+ag412
+ag412
+ag412
+ag412
+ag412
+ag412
+ag412
+ag412
+ag412
+ag412
+ag412
+ag412
+aV{2}{B}
+p440
+aV{B}
+p441
+aV{2}{B}{B}
+p442
+aV{2}{B}
+p443
+aV{2}{R}
+p444
+aV{4}
+p445
+ag412
+aV{1}{U}{B}
+p446
+aV{2}{R}{G}{W}
+p447
+aV{6}
+p448
+aV{0}
+p449
+ag412
+ag412
+ag412
+aV{2}{B}
+p450
+aV{2}{B}
+p451
+ag412
+aV{3}{U}
+p452
+aV{2}{B}
+p453
+aV{1}
+p454
+ag412
+ag412
+ag412
+ag412
+aV{3}
+p455
+ag412
+ag412
+ag412
+ag412
+ag412
+ag412
+ag412
+ag412
+aV{3}{U}{U}{B}{B}
+p456
+ag412
+aV{2}{U}{B}
+p457
+asS'names'
+p458
+(lp459
+VUrza's Avenger
+p460
+aVUrborg, Tomb of Yawgmoth
+p461
+aVUrza's Chalice
+p462
+aVUrza's Miter
+p463
+aVUrza's Power Plant
+p464
+aVUrza's Avenger
+p465
+aVUrza's Mine
+p466
+aVUrza's Mine
+p467
+aVUrza's Mine
+p468
+aVUrza's Mine
+p469
+aVUrza's Power Plant
+p470
+aVUrza's Power Plant
+p471
+aVUrza's Power Plant
+p472
+aVUrza's Tower
+p473
+aVUrza's Tower
+p474
+aVUrza's Tower
+p475
+aVUrza's Tower
+p476
+aVUrza's Engine
+p477
+aVUrborg Uprising
+p478
+aVUrborg Elf
+p479
+aVUrborg Uprising
+p480
+aVUrborg
+p481
+aVUr-Golem's Eye
+p482
+aVUrza's Mine
+p483
+aVUrza's Power Plant
+p484
+aVUrza's Tower
+p485
+aVUrge to Feed
+p486
+aVUrborg, Tomb of Yawgmoth
+p487
+aVUrza's Incubator
+p488
+aVUrsapine
+p489
+aVUrza's Factory
+p490
+aVUrborg Syphon-Mage
+p491
+aVUrza's Factory
+p492
+aVUrban Burgeoning
+p493
+aVUrban Evolution
+p494
+aVUrbis Protector
+p495
+aVUrsine Fylgja
+p496
+aVUrza's Bauble
+p497
+aVUrborg, Tomb of Yawgmoth
+p498
+aVUrza's Blueprints
+p499
+aVUr-Golem's Eye
+p500
+aVUrabrask the Hidden
+p501
+aVUrza's Armor
+p502
+aVUrza's Bauble
+p503
+aVUrza's Chalice
+p504
+aVUrborg Justice
+p505
+aVUrborg Stalker
+p506
+aVUrza's Mine
+p507
+aVUrza's Tower
+p508
+aVUrza's Armor
+p509
+aVUrborg Volcano
+p510
+aVUrza's Power Plant
+p511
+aVUrge to Feed
+p512
+aVUrza's Mine
+p513
+aVUrza's Mine
+p514
+aVUrza's Mine
+p515
+aVUrza's Mine
+p516
+aVUrza's Power Plant
+p517
+aVUrza's Power Plant
+p518
+aVUrza's Power Plant
+p519
+aVUrza's Power Plant
+p520
+aVUrza's Tower
+p521
+aVUrza's Tower
+p522
+aVUrza's Tower
+p523
+aVUrza's Tower
+p524
+aVUrborg Phantom
+p525
+aVUrborg Skeleton
+p526
+aVUrborg Shambler
+p527
+aVUrborg Emissary
+p528
+aVUrza's Rage
+p529
+aVUrza's Filter
+p530
+aVUrborg Volcano
+p531
+aVUrborg Drake
+p532
+aVUril, the Miststalker
+p533
+aVUrza's Avenger
+p534
+aVUrza's Bauble
+p535
+aVUrza's Mine
+p536
+aVUrza's Power Plant
+p537
+aVUrza's Tower
+p538
+aVUrborg Syphon-Mage
+p539
+aVUrborg Panther
+p540
+aVUrza
+p541
+aVUrgent Exorcism
+p542
+aVUrborg Mindsucker
+p543
+aVUrza's Chalice
+p544
+aVUrza's Mine
+p545
+aVUrza's Mine
+p546
+aVUrza's Mine
+p547
+aVUrza's Mine
+p548
+aVUrza's Miter
+p549
+aVUrza's Power Plant
+p550
+aVUrza's Power Plant
+p551
+aVUrza's Power Plant
+p552
+aVUrza's Power Plant
+p553
+aVUrza's Tower
+p554
+aVUrza's Tower
+p555
+aVUrza's Tower
+p556
+aVUrza's Tower
+p557
+aVUr-Drago
+p558
+aVUrborg
+p559
+aVUrza's Guilt
+p560
+asS'toughs'
+p561
+(lp562
+S'N/A'
+p563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+aV2
+p564
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag564
+ag563
+ag564
+ag563
+ag563
+ag563
+aV4
+p565
+aV3
+p566
+ag563
+ag563
+ag563
+ag563
+ag565
+ag563
+ag563
+ag563
+ag563
+ag564
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+aV1
+p567
+ag567
+ag566
+ag567
+ag563
+ag563
+ag563
+ag565
+ag566
+ag563
+ag563
+ag563
+ag563
+ag563
+aV6
+p568
+ag566
+ag563
+ag563
+aV0
+p569
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag564
+ag563
+ag563
+asS'artists'
+p570
+(lp571
+VAmy Weber
+p572
+aVJohn Avon
+p573
+aVJeff A. Menges
+p574
+aVRandy Asplund-Faith
+p575
+aVMark Tedin
+p576
+aVAmy Weber
+p577
+aVAnson Maddocks
+p578
+aVAnson Maddocks
+p579
+aVAnson Maddocks
+p580
+aVAnson Maddocks
+p581
+aVMark Tedin
+p582
+aVMark Tedin
+p583
+aVMark Tedin
+p584
+aVMark Poole
+p585
+aVMark Poole
+p586
+aVMark Poole
+p587
+aVMark Poole
+p588
+aVGreg Simanson
+p589
+aVAdam Rex
+p590
+aVBob Petillo
+p591
+aVAdam Rex
+p592
+aVAndi Rusu
+p593
+aVHeather Hudson
+p594
+aVBrian Snoddy
+p595
+aVBrian Snoddy
+p596
+aVBrian Snoddy
+p597
+aVJohann Bodin
+p598
+aVJohn Avon
+p599
+aVPete Venters
+p600
+aVJim Murray
+p601
+aVMark Tedin
+p602
+aVGreg Staples
+p603
+aVMark Tedin
+p604
+aVNic Klein
+p605
+aVEytan Zana
+p606
+aVSteve Argyle
+p607
+aVYokota Katsumi
+p608
+aVChristopher Rush
+p609
+aVJohn Avon
+p610
+aVTom Wänerstrand
+p611
+aVHeather Hudson
+p612
+ag335
+aVrk post
+p613
+aVChristopher Rush
+p614
+aVJeff A. Menges
+p615
+aVGary Leach
+p616
+aVCliff Nielsen
+p617
+aVBrian Snoddy
+p618
+aVBrian Snoddy
+p619
+aVrk post
+p620
+aVTony Szczudlo
+p621
+aVBrian Snoddy
+p622
+aVJohann Bodin
+p623
+aVAnson Maddocks
+p624
+aVAnson Maddocks
+p625
+aVAnson Maddocks
+p626
+aVAnson Maddocks
+p627
+aVMark Tedin
+p628
+aVMark Tedin
+p629
+aVMark Tedin
+p630
+aVMark Tedin
+p631
+aVMark Poole
+p632
+aVMark Poole
+p633
+aVMark Poole
+p634
+aVMark Poole
+p635
+aVDaren Bader
+p636
+aVAlan Pollack
+p637
+aVPete Venters
+p638
+aVEric Peterson
+p639
+aVMatthew D. Wilson
+p640
+aVDave Dorman
+p641
+aVTony Szczudlo
+p642
+aVSam Wood
+p643
+aVJaime Jones
+p644
+aVAmy Weber
+p645
+aVChristopher Rush
+p646
+aVAnson Maddocks
+p647
+aVMark Tedin
+p648
+aVMark Poole
+p649
+aVGreg Staples
+p650
+aVCliff Nielsen
+p651
+aVMark Tedin
+p652
+aVSvetlin Velinov
+p653
+aVTony DiTerlizzi
+p654
+aVJeff A. Menges
+p655
+aVAnson Maddocks
+p656
+aVAnson Maddocks
+p657
+aVAnson Maddocks
+p658
+aVAnson Maddocks
+p659
+aVRandy Asplund
+p660
+aVMark Tedin
+p661
+aVMark Tedin
+p662
+aVMark Tedin
+p663
+aVMark Tedin
+p664
+aVMark Poole
+p665
+aVMark Poole
+p666
+aVMark Poole
+p667
+aVMark Poole
+p668
+aVChristopher Rush
+p669
+aVBryon Wackwitz
+p670
+aVPaolo Parente
+p671
+asS'powers'
+p672
+(lp673
+g563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag565
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag564
+ag563
+ag564
+ag563
+ag563
+ag563
+ag564
+ag566
+ag563
+ag563
+ag563
+ag563
+ag566
+ag563
+ag563
+ag563
+ag563
+ag567
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag566
+ag569
+ag565
+ag566
+ag563
+ag563
+ag563
+ag567
+ag566
+ag563
+ag563
+ag563
+ag563
+ag563
+ag568
+ag564
+ag563
+ag563
+ag569
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag563
+ag564
+ag563
+ag563
+asS'types'
+p674
+(lp675
+VArtifact Creature - Shapeshifter
+p676
+aVLegendary Land
+p677
+aVArtifact
+p678
+aVArtifact
+p679
+aVLand - Urza's Power-Plant
+p680
+aVArtifact Creature - Shapeshifter
+p681
+aVLand - Urza's Mine
+p682
+aVLand - Urza's Mine
+p683
+aVLand - Urza's Mine
+p684
+aVLand - Urza's Mine
+p685
+aVLand - Urza's Power-Plant
+p686
+aVLand - Urza's Power-Plant
+p687
+aVLand - Urza's Power-Plant
+p688
+aVLand - Urza's Tower
+p689
+aVLand - Urza's Tower
+p690
+aVLand - Urza's Tower
+p691
+aVLand - Urza's Tower
+p692
+aVArtifact Creature - Juggernaut
+p693
+aVSorcery
+p694
+aVCreature - Elf Druid
+p695
+aVSorcery
+p696
+aVLegendary Land
+p697
+aVArtifact
+p698
+aVLand - Urza's Mine
+p699
+aVLand - Urza's Power-Plant
+p700
+aVLand - Urza's Tower
+p701
+aVInstant
+p702
+aVLegendary Land
+p703
+aVArtifact
+p704
+aVCreature - Beast
+p705
+aVLand - Urza\u2019s
+p706
+aVCreature - Human Spellshaper
+p707
+aVLand - Urza's
+p708
+aVEnchantment - Aura
+p709
+aVSorcery
+p710
+aVCreature - Human Cleric
+p711
+aVCreature - Spirit Bear
+p712
+aVArtifact
+p713
+aVLegendary Land
+p714
+aVArtifact
+p715
+aVArtifact
+p716
+aVLegendary Creature - Praetor
+p717
+aVArtifact
+p718
+aVArtifact
+p719
+aVArtifact
+p720
+aVInstant
+p721
+aVCreature - Horror
+p722
+aVLand - Urza's Mine
+p723
+aVLand - Urza's Tower
+p724
+aVArtifact
+p725
+aVLand
+p726
+aVLand - Urza's Power-Plant
+p727
+aVInstant
+p728
+aVLand - Urza's Mine
+p729
+aVLand - Urza's Mine
+p730
+aVLand - Urza's Mine
+p731
+aVLand - Urza's Mine
+p732
+aVLand - Urza's Power-Plant
+p733
+aVLand - Urza's Power-Plant
+p734
+aVLand - Urza's Power-Plant
+p735
+aVLand - Urza's Power-Plant
+p736
+aVLand - Urza's Tower
+p737
+aVLand - Urza's Tower
+p738
+aVLand - Urza's Tower
+p739
+aVLand - Urza's Tower
+p740
+aVCreature - Spirit Minion
+p741
+aVCreature - Skeleton
+p742
+aVCreature - Horror
+p743
+aVCreature - Human Wizard
+p744
+aVInstant
+p745
+aVArtifact
+p746
+aVLand
+p747
+aVCreature - Drake
+p748
+aVLegendary Creature - Beast
+p749
+aVArtifact Creature - Shapeshifter
+p750
+aVArtifact
+p751
+aVLand - Urza's Mine
+p752
+aVLand - Urza's Power-Plant
+p753
+aVLand - Urza's Tower
+p754
+aVCreature - Human Spellshaper
+p755
+aVCreature - Nightstalker Cat
+p756
+aVVanguard
+p757
+aVInstant
+p758
+aVCreature - Horror
+p759
+aVArtifact
+p760
+aVLand - Urza's Mine
+p761
+aVLand - Urza's Mine
+p762
+aVLand - Urza's Mine
+p763
+aVLand - Urza's Mine
+p764
+aVArtifact
+p765
+aVLand - Urza's Power-Plant
+p766
+aVLand - Urza's Power-Plant
+p767
+aVLand - Urza's Power-Plant
+p768
+aVLand - Urza's Power-Plant
+p769
+aVLand - Urza's Tower
+p770
+aVLand - Urza's Tower
+p771
+aVLand - Urza's Tower
+p772
+aVLand - Urza's Tower
+p773
+aVLegendary Creature - Elemental
+p774
+aVLegendary Land
+p775
+aVSorcery
+p776
+asS'numbers'
+p777
+(lp778
+V355
+p779
+aV165
+p780
+aV8
+p781
+aV9
+p782
+aV35
+p783
+aV86
+p784
+aV87
+p785
+aV88
+p786
+aV89
+p787
+aV90
+p788
+aV91
+p789
+aV92
+p790
+aV93
+p791
+aV94
+p792
+aV95
+p793
+aV96
+p794
+aV97
+p795
+aV16
+p796
+aV144
+p797
+aV90
+p798
+aV53
+p799
+aV214
+p800
+aV314
+p801
+aV327
+p802
+aV328
+p803
+aV329
+p804
+aV22
+p805
+aV13
+p806
+aV142
+p807
+aV188
+p808
+aV331
+p809
+aV139
+p810
+aV280
+p811
+aV138
+p812
+aV204
+p813
+aV27
+p814
+aV22
+p815
+aV375
+p816
+aV248
+p817
+aV137
+p818
+aV155
+p819
+aV98
+p820
+aV313
+p821
+aV170
+p822
+aV171
+p823
+aV34
+p824
+aV35
+p825
+aV328
+p826
+aV330
+p827
+aV318
+p828
+aV327
+p829
+aV329
+p830
+aV70
+p831
+aV109
+p832
+aV110
+p833
+aV111
+p834
+aV112
+p835
+aV113
+p836
+aV114
+p837
+aV115
+p838
+aV116
+p839
+aV117
+p840
+aV118
+p841
+aV119
+p842
+aV120
+p843
+aV132
+p844
+aV134
+p845
+aV133
+p846
+aV131
+p847
+aV178
+p848
+aV318
+p849
+aV330
+p850
+aV283
+p851
+aV124
+p852
+aV21
+p853
+aV22
+p854
+aV424
+p855
+aV425
+p856
+aV426
+p857
+aV27
+p858
+aV53
+p859
+aV112
+p860
+aV40
+p861
+aV28
+p862
+aV236
+p863
+aV257
+p864
+aV257
+p865
+aV257
+p866
+aV257
+p867
+aV237
+p868
+aV258
+p869
+aV258
+p870
+aV258
+p871
+aV258
+p872
+aV259
+p873
+aV259
+p874
+aV259
+p875
+aV259
+p876
+aV169
+p877
+aV181
+p878
+aV130
+p879
+as.

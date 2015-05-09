@@ -1,0 +1,539 @@
+(dp0
+S'rares'
+p1
+(lp2
+VMythic Rare
+p3
+aVCommon
+p4
+aVCommon
+p5
+aVCommon
+p6
+aVRare
+p7
+aVUncommon
+p8
+aVRare
+p9
+aVCommon
+p10
+aVUncommon
+p11
+aVUncommon
+p12
+aVCommon
+p13
+aVCommon
+p14
+aVUncommon
+p15
+aVCommon
+p16
+aVCommon
+p17
+aVCommon
+p18
+aVCommon
+p19
+aVCommon
+p20
+aVRare
+p21
+aVUncommon
+p22
+aVUncommon
+p23
+aVCommon
+p24
+aVUncommon
+p25
+aVCommon
+p26
+aVCommon
+p27
+asS'editns'
+p28
+(lp29
+VMagic: The Gathering-Commander
+p30
+aVFourth Edition
+p31
+aVMagic 2010
+p32
+aVMagic 2014 Core Set
+p33
+aVFallen Empires
+p34
+aVNinth Edition
+p35
+aVAvacyn Restored
+p36
+aVAvacyn Restored
+p37
+aVDuel Decks: Sorin vs. Tibalt
+p38
+aVModern Event Deck 2014
+p39
+aVRavnica: City of Guilds
+p40
+aVTime Spiral
+p41
+aVExodus
+p42
+aVZendikar
+p43
+aVZendikar
+p44
+aVProphecy
+p45
+aVShadowmoor
+p46
+aVScourge
+p47
+aVUrza's Saga
+p48
+aVUrza's Saga
+p49
+aVAlara Reborn
+p50
+aVFifth Edition
+p51
+aVMirage
+p52
+aVLegends
+p53
+aVLorwyn
+p54
+asS'ids'
+p55
+(lp56
+V236499
+p57
+aV2199
+p58
+aV190167
+p59
+aV370672
+p60
+aV1837
+p61
+aV84122
+p62
+aV240082
+p63
+aV240019
+p64
+aV368542
+p65
+aV382204
+p66
+aV88962
+p67
+aV108898
+p68
+aV6043
+p69
+aV183403
+p70
+aV189620
+p71
+aV24630
+p72
+aV142028
+p73
+aV42040
+p74
+aV5825
+p75
+aV8787
+p76
+aV179575
+p77
+aV3958
+p78
+aV3561
+p79
+aV1512
+p80
+aV142357
+p81
+asS'texts'
+p82
+(lp83
+VAt the beginning of your upkeep, you gain X life and draw X cards, where X is the number of permanents you own that your opponents control.<br>{R}{W}{U}: Target opponent gains control of target permanent you control.
+p84
+aS''
+p85
+aVW
+p86
+ag85
+aVYou may choose not to untap Zelyon Sword during your untap step.<br>{3}, {T}: Target creature gets +2/+0 for as long as Zelyon Sword remains tapped.
+p87
+aVWhenever Rogue Kavu attacks alone, it gets +2/+0 until end of turn.
+p88
+aVTarget creature gets +2/+2 and gains first strike until end of turn.
+p89
+aVG
+p90
+aVUntil end of turn, creatures you control get +1/+1 and creatures your opponents control get -1/-1.
+p91
+aVUntil end of turn, creatures you control get +1/+1 and creatures your opponents control get -1/-1.
+p92
+aVDestroy target creature that isn't enchanted. It can't be regenerated.<br>Transmute {1}{B}{B} <i>({1}{B}{B}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)</i>
+p93
+aVShadow <i>(This creature can block or be blocked by only creatures with shadow.)</i><br>Whenever Zealot il-Vec attacks and isn't blocked, you may have it deal 1 damage to target creature. If you do, prevent all combat damage Zealot il-Vec would deal this turn.
+p94
+aVAt the beginning of your upkeep, if all nonland permanents you control are white, you gain 1 life.
+p95
+ag90
+ag90
+aVFirst strike<br>{2}: Zerapa Minotaur loses first strike until end of turn. Any player may activate this ability.
+p96
+aVFlash<br>Flying<br>When Glamer Spinners enters the battlefield, attach all Auras enchanting target permanent to another permanent with the same controller.
+p97
+aV{1}{W}: The next 1 damage that would be dealt to Zealous Inquisitor this turn is dealt to target creature instead.
+p98
+aVWhenever Retromancer becomes the target of a spell or ability, Retromancer deals 3 damage to that spell or ability's controller.
+p99
+aVAt the beginning of your upkeep, if you control another nonland permanent, sacrifice Reclusive Wight.
+p100
+ag85
+aVFlying, vigilance
+p101
+aVBad River enters the battlefield tapped.<br>{T}, Sacrifice Bad River: Search your library for an Island or Swamp card and put it onto the battlefield. Then shuffle your library.
+p102
+ag85
+aVEnchant creature<br>Enchanted creature has defender and flying.
+p103
+asS'costs'
+p104
+(lp105
+V{1}{G}{G}
+p106
+aV{1}{U}
+p107
+aV{2}{U}
+p108
+aV{1}{G}{G}
+p109
+aV{3}
+p110
+aV{2}{W}
+p111
+aV{3}{G}{G}
+p112
+aV{4}{G}
+p113
+aV{2}{R}
+p114
+aV{W}{B}
+p115
+aV{5}{U}
+p116
+aV{2}{W}
+p117
+aV{3}{W}
+p118
+aV{2}{W}{W}
+p119
+aV{3}{U}
+p120
+aV{2}{R}{R}
+p121
+aV{W/U}
+p122
+aV{2}{W}
+p123
+aV{4}{U}{U}
+p124
+aV{2}{U}{U}
+p125
+aV{W}{B}
+p126
+aV{1}{U}
+p127
+aV{2}{G}{W}
+p128
+aV{1}{U}
+p129
+aV{2}{G}
+p130
+asS'names'
+p131
+(lp132
+VZedruu the Greathearted
+p133
+aVZephyr Falcon
+p134
+aVZephyr Sprite
+p135
+aVZephyr Charge
+p136
+aVZelyon Sword
+p137
+aVZealous Inquisitor
+p138
+aVZealous Conscripts
+p139
+aVZealous Strike
+p140
+aVZealous Persecution
+p141
+aVZealous Persecution
+p142
+aVZephyr Spirit
+p143
+aVZealot il-Vec
+p144
+aVZealots en-Dal
+p145
+aVZektar Shrine Expedition
+p146
+aVZendikar Farguide
+p147
+aVZerapa Minotaur
+p148
+aVZealous Guardian
+p149
+aVZealous Inquisitor
+p150
+aVZephid
+p151
+aVZephid's Embrace
+p152
+aVZealous Persecution
+p153
+aVZephyr Falcon
+p154
+aVZebra Unicorn
+p155
+aVZephyr Falcon
+p156
+aVZephyr Net
+p157
+asS'toughs'
+p158
+(lp159
+V1
+p160
+aV4
+p161
+aV5
+p162
+aS'N/A'
+p163
+ag163
+aV3
+p164
+ag161
+ag163
+ag163
+ag163
+aV6
+p165
+ag160
+aV2
+p166
+ag163
+ag165
+ag164
+ag160
+ag160
+ag160
+ag163
+ag163
+ag160
+ag160
+ag160
+ag163
+asS'artists'
+p167
+(lp168
+VMark Zug
+p169
+aVHeather Hudson
+p170
+aVKev Walker
+p171
+aVSteve Prescott
+p172
+aVScott Kirschner
+p173
+aVWayne England
+p174
+aVSteve Prescott
+p175
+aVBud Cook
+p176
+aVChristopher Moeller
+p177
+aVChristopher Moeller
+p178
+aVTomas Giorello
+p179
+aVChippy
+p180
+aVBrom
+p181
+aVJustin Sweet
+p182
+aVVincent Proce
+p183
+aVMark Zug
+p184
+aVSteven Belledin
+p185
+aVWayne England
+p186
+aVDaren Bader
+p187
+aVDaren Bader
+p188
+aVChristopher Moeller
+p189
+aVHeather Hudson
+p190
+aVMargaret Organ-Kean
+p191
+aVHeather Hudson
+p192
+aVHeather Hudson
+p193
+asS'powers'
+p194
+(lp195
+g166
+ag161
+aV7
+p196
+ag163
+ag163
+ag161
+ag164
+ag163
+ag163
+ag163
+ag196
+ag160
+ag160
+ag163
+ag166
+ag164
+ag160
+ag160
+ag160
+ag163
+ag163
+aV0
+p197
+ag166
+ag160
+ag163
+asS'types'
+p198
+(lp199
+VLegendary Creature - Minotaur Monk
+p200
+aVCreature - Bird
+p201
+aVCreature - Faerie
+p202
+aVEnchantment
+p203
+aVArtifact
+p204
+aVCreature - Human Cleric
+p205
+aVCreature - Human Warrior
+p206
+aVInstant
+p207
+aVInstant
+p208
+aVInstant
+p209
+aVCreature - Spirit
+p210
+aVCreature - Human Rebel
+p211
+aVCreature - Human Soldier
+p212
+aVEnchantment
+p213
+aVCreature - Elemental
+p214
+aVCreature - Minotaur
+p215
+aVCreature - Kithkin Soldier
+p216
+aVCreature - Human Cleric
+p217
+aVCreature - Illusion
+p218
+aVEnchantment - Aura
+p219
+aVInstant
+p220
+aVCreature - Bird
+p221
+aVCreature - Unicorn
+p222
+aVCreature - Bird
+p223
+aVEnchantment - Aura
+p224
+asS'numbers'
+p225
+(lp226
+V240
+p227
+aV377
+p228
+aV82
+p229
+aV82
+p230
+aV11
+p231
+aV57
+p232
+aV166
+p233
+aV41
+p234
+aV23
+p235
+aV9
+p236
+aV76
+p237
+aV47
+p238
+aV26
+p239
+aV155
+p240
+aV194
+p241
+aV108
+p242
+aV157
+p243
+aV27
+p244
+aV113
+p245
+aV114
+p246
+aV85
+p247
+aV90
+p248
+aV237
+p249
+aV310
+p250
+aV98
+p251
+as.

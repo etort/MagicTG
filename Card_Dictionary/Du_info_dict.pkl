@@ -1,0 +1,1373 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVRare
+p4
+aVCommon
+p5
+aVCommon
+p6
+aVUncommon
+p7
+aVCommon
+p8
+aVUncommon
+p9
+aVCommon
+p10
+aVCommon
+p11
+aVRare
+p12
+aVUncommon
+p13
+aVRare
+p14
+aVCommon
+p15
+aVCommon
+p16
+aVRare
+p17
+aVCommon
+p18
+aVCommon
+p19
+aVRare
+p20
+aVCommon
+p21
+aVCommon
+p22
+aVCommon
+p23
+aVRare
+p24
+aVCommon
+p25
+aVUncommon
+p26
+aVUncommon
+p27
+aVUncommon
+p28
+aVUncommon
+p29
+aVRare
+p30
+aVCommon
+p31
+aVCommon
+p32
+aVUncommon
+p33
+aVRare
+p34
+aVCommon
+p35
+aVCommon
+p36
+aVUncommon
+p37
+aVUncommon
+p38
+aVUncommon
+p39
+aVMythic Rare
+p40
+aVCommon
+p41
+aVUncommon
+p42
+aVRare
+p43
+aVCommon
+p44
+aVRare
+p45
+aVRare
+p46
+aVUncommon
+p47
+aVCommon
+p48
+aVUncommon
+p49
+aVUncommon
+p50
+aVCommon
+p51
+aVCommon
+p52
+aVCommon
+p53
+aVCommon
+p54
+aVCommon
+p55
+aVCommon
+p56
+aVRare
+p57
+aVUncommon
+p58
+aVCommon
+p59
+aVRare
+p60
+aVRare
+p61
+aVCommon
+p62
+aVUncommon
+p63
+aVCommon
+p64
+aVCommon
+p65
+aVCommon
+p66
+aVCommon
+p67
+aVUncommon
+p68
+aVRare
+p69
+asS'editns'
+p70
+(lp71
+VMagic: The Gathering-Commander
+p72
+aVMagic 2012
+p73
+aVMagic 2012
+p74
+aVMagic 2013
+p75
+aVMagic 2013
+p76
+aVMagic 2013
+p77
+aVMagic 2013
+p78
+aVFourth Edition
+p79
+aVPlanar Chaos
+p80
+aVPlanar Chaos
+p81
+aVPlanar Chaos
+p82
+aVCommander's Arsenal
+p83
+aVMagic 2010
+p84
+aVMagic 2014 Core Set
+p85
+aVTempest
+p86
+aVTenth Edition
+p87
+aVTenth Edition
+p88
+aVMercadian Masques
+p89
+aVModern Masters
+p90
+aVThe Dark
+p91
+aVStarter 2000
+p92
+aVGuildpact
+p93
+aVEventide
+p94
+aVEventide
+p95
+aVEventide
+p96
+aVEventide
+p97
+aVEventide
+p98
+aVAvacyn Restored
+p99
+aVDuel Decks: Sorin vs. Tibalt
+p100
+aVModern Event Deck 2014
+p101
+aVRavnica: City of Guilds
+p102
+aVCommander 2013 Edition
+p103
+aVOdyssey
+p104
+aVTime Spiral
+p105
+aVTime Spiral
+p106
+aVTime Spiral
+p107
+aVGatecrash
+p108
+aVGatecrash
+p109
+aVGatecrash
+p110
+aVMirrodin
+p111
+aVMirrodin
+p112
+aVSeventh Edition
+p113
+aVProphecy
+p114
+aVShadowmoor
+p115
+aVNew Phyrexia
+p116
+aVStarter 1999
+p117
+aVFuture Sight
+p118
+aVPlanechase
+p119
+aVUrza's Saga
+p120
+aVMasters Edition
+p121
+aVWeatherlight
+p122
+aVEighth Edition
+p123
+aVPremium Deck Series: Graveborn
+p124
+aVInvasion
+p125
+aVInvasion
+p126
+aVFifth Edition
+p127
+aVFifth Edition
+p128
+aVArchenemy
+p129
+aVKhans of Tarkir
+p130
+aVKhans of Tarkir
+p131
+aVMasters Edition IV
+p132
+aVStronghold
+p133
+aVStronghold
+p134
+aVLegends
+p135
+aVMagic 2011
+p136
+aVMagic 2011
+p137
+aVDark Ascension
+p138
+asS'ids'
+p139
+(lp140
+V247205
+p141
+aV220210
+p142
+aV220259
+p143
+aV260979
+p144
+aV265728
+p145
+aV260988
+p146
+aV276474
+p147
+aV2208
+p148
+aV110501
+p149
+aV124343
+p150
+aV128940
+p151
+aV338451
+p152
+aV190580
+p153
+aV370577
+p154
+aV4697
+p155
+aV129490
+p156
+aV129579
+p157
+aV19772
+p158
+aV370482
+p159
+aV1805
+p160
+aV25493
+p161
+aV107091
+p162
+aV150975
+p163
+aV151106
+p164
+aV151164
+p165
+aV153437
+p166
+aV159068
+p167
+aV240138
+p168
+aV368541
+p169
+aV382183
+p170
+aV88943
+p171
+aV376317
+p172
+aV31807
+p173
+aV108807
+p174
+aV108887
+p175
+aV118893
+p176
+aV366328
+p177
+aV366310
+p178
+aV366457
+p179
+aV46014
+p180
+aV49439
+p181
+aV14557
+p182
+aV24678
+p183
+aV146002
+p184
+aV233077
+p185
+aV21055
+p186
+aV136207
+p187
+aV205380
+p188
+aV5557
+p189
+aV159144
+p190
+aV4574
+p191
+aV45288
+p192
+aV270465
+p193
+aV23019
+p194
+aV25438
+p195
+aV4126
+p196
+aV3972
+p197
+aV220526
+p198
+aV386527
+p199
+aV386528
+p200
+aV202542
+p201
+aV5142
+p202
+aV5141
+p203
+aV1522
+p204
+aV205024
+p205
+aV207335
+p206
+aV249875
+p207
+asS'texts'
+p208
+(lp209
+VWhen Duergar Hedge-Mage enters the battlefield, if you control two or more Mountains, you may destroy target artifact.<br>When Duergar Hedge-Mage enters the battlefield, if you control two or more Plains, you may destroy target enchantment.
+p210
+aV{R}: Fiery Hellhound gets +1/+0 until end of turn.
+p211
+aVFireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.<br>Fireball costs {1} more to cast for each target beyond the first.
+p212
+aVDeathtouch <i>(Any amount of damage this deals to a creature is enough to destroy it.)</i>
+p213
+aVHarbor Bandit gets +1/+1 as long as you control an Island.<br>{1}{U}: Harbor Bandit can't be blocked this turn.
+p214
+aVProtection from white <i>(This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)</i><br>Exalted <i>(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</i>
+p215
+aVWhenever another creature with power 3 or greater enters the battlefield under your control, you may draw a card.
+p216
+aVFirst strike
+p217
+aVEnchant creature<br>Enchanted creature gets +2/+0 and can't be blocked by creatures with flying.
+p218
+aVFlash <i>(You may cast this spell any time you could cast an instant.)</i><br>Flying; fear <i>(This creature can't be blocked except by artifact creatures and/or black creatures.)</i><br>When Dust Elemental enters the battlefield, return three creatures you control to their owner's hand.
+p219
+aVProtection from green<br>At the beginning of each end step, if Dunerider Outlaw dealt damage to an opponent this turn, put a +1/+1 counter on it.
+p220
+aVImprint- When Duplicant enters the battlefield, you may exile target nontoken creature.<br>As long as the exiled card is a creature card, Duplicant has that card's power, toughness, and creature types. It's still a Shapeshifter.
+p221
+aVWhen Elvish Visionary enters the battlefield, draw a card.
+p222
+aV{T}: Add {G} to your mana pool.
+p223
+aVX can't be 0. <br>Target spell's controller exiles it with X delay counters on it.<br>At the beginning of each of that player's upkeeps, if that card is exiled, remove a delay counter from it. If the card has no delay counters on it, he or she puts it onto the stack as a copy of the original spell.
+p224
+aVFlying
+p225
+aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i>
+p226
+aVFlying<br>When Charmed Griffin enters the battlefield, each other player may put an artifact or enchantment card onto the battlefield from his or her hand.
+p227
+aVSuspend 5\u2014{G} <i>(Rather than cast this card from your hand, you may pay {G} and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)</i>
+p228
+aVEnchant land<br>At the beginning of the upkeep of enchanted land's controller, destroy that land unless that player pays {1} or 1 life.
+p229
+aV{R}: Flame Spirit gets +1/+0 until end of turn.
+p230
+aVWhenever a player casts an instant or sorcery spell, if Ink-Treader Nephilim is the only target of that spell, copy the spell for each other creature that spell could target. Each copy targets a different one of those creatures.
+p231
+aVSacrifice Duergar Assailant: Duergar Assailant deals 1 damage to target attacking or blocking creature.
+p232
+aV{1}{R/W}, {Q}: Attacking creatures get +1/+0 until end of turn. <i>({Q} is the untap symbol.)</i>
+p233
+aVTrample <i>(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</i>
+p234
+aVWither <i>(This deals damage to creatures in the form of -1/-1 counters.)</i><br>{R/W}: Duergar Cave-Guard gets +1/+0 until end of turn.
+p235
+aVWhen Duergar Hedge-Mage enters the battlefield, if you control two or more Mountains, you may destroy target artifact.<br>When Duergar Hedge-Mage enters the battlefield, if you control two or more Plains, you may destroy target enchantment.
+p236
+aVDestroy target creature with flying and all Equipment attached to that creature.
+p237
+aVBloodthirst 1 <i>(If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)</i><br>Flying
+p238
+aVTarget opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.
+p239
+aVEnchant permanent<br>You can't choose an untapped permanent as Dream Leash's target as you cast Dream Leash.<br>You control enchanted permanent.
+p240
+aVFlying<br>When Dungeon Geists enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Dungeon Geists.
+p241
+aVDestroy target white creature. It can't be regenerated.<br>Draw a card.
+p242
+aVSuspend 5\u2014{G} <i>(Rather than cast this card from your hand, you may pay {G} and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)</i>
+p243
+aVFlying, protection from black<br>Suspend 3\u2014{1}{W} <i>(Rather than cast this card from your hand, you may pay {1}{W} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)</i>
+p244
+aV{1}{G}, {T}: If Durkwood Tracker is on the battlefield, it deals damage equal to its power to target attacking creature. That creature deals damage equal to its power to Durkwood Tracker.
+p245
+aV{1}{U}{B}: Whenever a card is put into an opponent's graveyard from anywhere this turn, that player loses 1 life.<br>{2}{U}{B}: Target player puts the top two cards of his or her library into his or her graveyard.
+p246
+aVFlying<br>At the beginning of your upkeep, each player reveals the top card of his or her library, loses life equal to that card's converted mana cost, then puts it into his or her hand.
+p247
+aV{B}: Regenerate Dutiful Thrull.
+p248
+aVWhenever Duskworker becomes blocked, regenerate it.<br>{3}: Duskworker gets +1/+0 until end of turn.
+p249
+aVEnchant artifact<br>Enchanted artifact doesn't untap during its controller's untap step.
+p250
+aVYour opponents play with their hands revealed.
+p251
+aVWhenever a nontoken creature enters the battlefield, its controller puts a token that's a copy of that creature onto the battlefield.<br>Whenever a nontoken creature leaves the battlefield, exile all tokens with the same name as that creature.<br>When Dual Nature leaves the battlefield, exile all tokens put onto the battlefield with Dual Nature.
+p252
+aVCrabapple Cohort gets +1/+1 as long as you control another green creature.
+p253
+aVPermanents enter the battlefield tapped this turn.<br>Draw a card.
+p254
+aVYou gain 2 life for each card in your hand.
+p255
+aVEnchant land<br>Whenever enchanted land becomes tapped, its controller loses 2 life.<br>{3}{B}: Destroy enchanted land.
+p256
+aVWhen Duergar Hedge-Mage enters the battlefield, if you control two or more Mountains, you may destroy target artifact.<br>When Duergar Hedge-Mage enters the battlefield, if you control two or more Plains, you may destroy target enchantment.
+p257
+aV{T}: Elite Archers deals 3 damage to target attacking or blocking creature.
+p258
+aVExile two target artifacts.
+p259
+aVFlying, protection from black
+p260
+aVAll creatures get -1/-1 until end of turn.
+p261
+aVTarget opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.
+p262
+aVKicker {3}{B} <i>(You may pay an additional {3}{B} as you cast this spell.)</i><br>If Duskwalker was kicked, it enters the battlefield with two +1/+1 counters on it and with fear. <i>(It can't be blocked except by artifact creatures and/or black creatures.)</i>
+p263
+aVNo more than one creature can attack each turn.<br>No more than one creature can block each turn.
+p264
+aVHipparion can't block creatures with power 3 or greater unless you pay {1}.
+p265
+aVElven Riders can't be blocked except by Walls and/or creatures with flying.
+p266
+aVImprint- When Duplicant enters the battlefield, you may exile target nontoken creature.<br>As long as the exiled card is a creature card, Duplicant has that card's power, toughness, and creature types. It's still a Shapeshifter.
+p267
+aVReturn up to two target creature cards from your graveyard to your hand.
+p268
+aVFirst strike<br>When Efreet Weaponmaster enters the battlefield or is turned face up, another target creature you control gets +3/+0 until end of turn.<br>Morph {2}{U}{R}{W} <i>(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p269
+aVTrample
+p270
+aVFlying<br>{B}: Dungeon Shade gets +1/+1 until end of turn.
+p271
+aV{1}{R}: Target creature can't block Duct Crawler this turn.
+p272
+aVEnchant creature<br>Prevent all combat damage that would be dealt to and dealt by enchanted creature.
+p273
+aV{2}, {T}: You gain 5 life. Shuffle Elixir of Immortality and your graveyard into their owner's library.
+p274
+aVOther Elf creatures you control get +1/+1.<br>{T}: Add {G} to your mana pool for each Elf you control.
+p275
+aVFlying<br>When Dungeon Geists enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Dungeon Geists.
+p276
+asS'costs'
+p277
+(lp278
+V{2}{R/W}
+p279
+aV{3}
+p280
+aV{2}{G}
+p281
+aV{3}{B}
+p282
+aV{B}
+p283
+aV{B}
+p284
+aV{6}{G}
+p285
+aV{4}{G}
+p286
+aV{R}
+p287
+aV{2}{W}{W}
+p288
+aV{B}{B}
+p289
+aV{6}
+p290
+aV{1}{B}{B}
+p291
+aV{2}{R}
+p292
+aV{3}{U}{U}
+p293
+aV{2}{B}
+p294
+aV{R}
+p295
+aS'0'
+p296
+aV{4}{G}{G}
+p297
+aV{1}{W}{W}
+p298
+aV{4}{G}
+p299
+aV{B}{R}{G}{W}
+p300
+aV{R/W}
+p301
+aV{2}{R/W}
+p302
+aV{5}{G}{G}
+p303
+aV{3}{R}
+p304
+aV{2}{R/W}
+p305
+aV{3}{G}
+p306
+aV{1}{B}
+p307
+aV{B}
+p308
+ag296
+aV{2}{U}{U}
+p309
+aV{2}{B}
+p310
+aV{4}{G}{G}
+p311
+aV{5}{W}
+p312
+aV{4}{G}
+p313
+aV{1}{G}{U}
+p314
+aV{U}{B}
+p315
+aV{2}{U}{B}
+p316
+aV{4}
+p317
+aV{6}
+p318
+aV{B}
+p319
+aV{4}{G}{G}
+p320
+aV{2}{B}
+p321
+aV{1}{W}
+p322
+aV{4}{G}
+p323
+aV{2}{W}
+p324
+aV{2}{R/W}
+p325
+aV{B}
+p326
+aV{1}{W}{W}
+p327
+aV{1}{W}
+p328
+aV{2}{B}
+p329
+aV{B}
+p330
+aV{B}
+p331
+aV{1}{G}{W}
+p332
+aV{1}{W}{W}
+p333
+aV{4}{G}
+p334
+aV{6}
+p335
+aV{4}{W}{B}{G}
+p336
+aV{3}{B}
+p337
+aV{1}{W}{W}
+p338
+aV{3}{B}
+p339
+aV{R}
+p340
+aV{4}{G}
+p341
+aV{2}
+p342
+aV{G}
+p343
+aV{2}{U}{U}
+p344
+asS'names'
+p345
+(lp346
+VDuergar Hedge-Mage
+p347
+aVDungrove Elder
+p348
+aVDuskhunter Bat
+p349
+aVDuress
+p350
+aVDuskmantle Prowler
+p351
+aVDuty-Bound Dead
+p352
+aVDuskdale Wurm
+p353
+aVDurkwood Boars
+p354
+aVDust Corona
+p355
+aVDust Elemental
+p356
+aVDunerider Outlaw
+p357
+aVDuplicant
+p358
+aVDuress
+p359
+aVDuress
+p360
+aVDuplicity
+p361
+aVDusk Imp
+p362
+aVDuct Crawler
+p363
+aVDust Bowl
+p364
+aVDurkwood Baloth
+p365
+aVDust to Dust
+p366
+aVDurkwood Boars
+p367
+aVDune-Brood Nephilim
+p368
+aVDuergar Assailant
+p369
+aVDuergar Mine-Captain
+p370
+aVDuskdale Wurm
+p371
+aVDuergar Cave-Guard
+p372
+aVDuergar Hedge-Mage
+p373
+aVDual Casting
+p374
+aVDuskhunter Bat
+p375
+aVDuress
+p376
+aVDuskmantle, House of Shadow
+p377
+aVDungeon Geists
+p378
+aVDusk Imp
+p379
+aVDurkwood Baloth
+p380
+aVDuskrider Peregrine
+p381
+aVDurkwood Tracker
+p382
+aVDuskmantle Guildmage
+p383
+aVDuskmantle Seer
+p384
+aVDutiful Thrull
+p385
+aVDuskworker
+p386
+aVDuplicant
+p387
+aVDuress
+p388
+aVDual Nature
+p389
+aVDusk Urchins
+p390
+aVDue Respect
+p391
+aVDurkwood Boars
+p392
+aVDust of Moments
+p393
+aVDuergar Hedge-Mage
+p394
+aVDuress
+p395
+aVDust to Dust
+p396
+aVDuskrider Falcon
+p397
+aVDusk Imp
+p398
+aVDuress
+p399
+aVDuskwalker
+p400
+aVDueling Grounds
+p401
+aVDust to Dust
+p402
+aVDurkwood Boars
+p403
+aVDuplicant
+p404
+aVDuneblast
+p405
+aVDutiful Return
+p406
+aVDust to Dust
+p407
+aVDungeon Shade
+p408
+aVDuct Crawler
+p409
+aVDurkwood Boars
+p410
+aVDuress
+p411
+aVDuskdale Wurm
+p412
+aVDungeon Geists
+p413
+asS'toughs'
+p414
+(lp415
+V2
+p416
+aV1
+p417
+aV4
+p418
+aS'N/A'
+p419
+ag417
+ag417
+ag417
+aV6
+p420
+ag419
+ag420
+ag417
+ag419
+ag419
+ag419
+ag419
+aV3
+p421
+ag416
+ag419
+ag421
+ag419
+ag418
+ag421
+ag417
+ag417
+aV7
+p422
+ag421
+ag417
+ag419
+ag417
+ag419
+ag419
+ag416
+ag416
+aV5
+p423
+ag421
+ag417
+ag421
+ag417
+ag416
+ag419
+ag419
+ag419
+ag419
+ag416
+ag419
+ag418
+ag419
+ag416
+ag419
+ag419
+ag421
+ag417
+ag419
+ag417
+ag419
+ag419
+ag417
+ag419
+ag419
+ag419
+ag419
+ag417
+ag423
+ag416
+ag419
+ag418
+ag423
+asS'artists'
+p424
+(lp425
+VDave Allsop
+p426
+aS''
+p427
+ag427
+aVSteven Belledin
+p428
+aVJohannes Voss
+p429
+aVJohannes Voss
+p430
+aVDan Dos Santos
+p431
+aVMike Kimble
+p432
+aVLuca Zontini
+p433
+aVrk post
+p434
+aVAlan Pollack
+p435
+aVMarco Nelor
+p436
+aVSteven Belledin
+p437
+aVSteven Belledin
+p438
+aVDan Frazier
+p439
+aVPete Venters
+p440
+aVStephen Daniele
+p441
+aVBen Thompson
+p442
+ag427
+aVDrew Tucker
+p443
+aVMike Kimble
+p444
+aVJim Murray
+p445
+aVPaul Bonner
+p446
+aVMatt Cavotta
+p447
+aVDan Dos Santos
+p448
+aVDave Allsop
+p449
+aVDave Allsop
+p450
+aVSlawomir Maniak
+p451
+aVJesper Ejsing
+p452
+aVSteven Belledin
+p453
+aVMartina Pilcerova
+p454
+aVNils Hamm
+p455
+aVEdward P. Beard, Jr.
+p456
+aVDan Frazier
+p457
+aVUna Fricker
+p458
+aVMichael Phillippi
+p459
+aVSlawomir Maniak
+p460
+aVKev Walker
+p461
+aVDaarken
+p462
+aVGreg Staples
+p463
+aVThomas M. Baxa
+p464
+aVPete Venters
+p465
+aVArnie Swekel
+p466
+aVDarrell Riche
+p467
+ag427
+aVMike Kimble
+p468
+aVZoltan Boros & Gabor Szikszai
+p469
+aVDave Allsop
+p470
+aVLawrence Snelly
+p471
+aVDrew Tucker
+p472
+aVCecil Fernando
+p473
+aVEdward P. Beard, Jr.
+p474
+ag427
+aVDavid Martin
+p475
+aVPete Venters
+p476
+aVDoug Keith
+p477
+aVMike Kimble
+p478
+aVThomas M. Baxa
+p479
+aVRyan Alexander Lee
+p480
+aVSeb McKinnon
+p481
+aVDrew Tucker
+p482
+aVJason Alexander Behnke
+p483
+aVStephen Daniele
+p484
+aVMike Kimble
+p485
+aVSteven Belledin
+p486
+aVDan Dos Santos
+p487
+aVEric Deschamps
+p488
+asS'powers'
+p489
+(lp490
+g416
+ag418
+ag417
+ag419
+ag416
+aV0
+p491
+ag422
+ag416
+ag419
+ag420
+ag417
+ag419
+ag419
+ag419
+ag419
+ag421
+ag416
+ag419
+ag417
+ag419
+ag418
+ag421
+ag417
+ag416
+ag422
+ag417
+ag416
+ag419
+ag417
+ag419
+ag419
+ag416
+ag416
+ag423
+ag421
+ag417
+ag421
+ag416
+ag418
+ag419
+ag419
+ag419
+ag419
+ag416
+ag419
+ag418
+ag419
+ag416
+ag419
+ag419
+ag421
+ag416
+ag419
+ag417
+ag419
+ag419
+ag421
+ag419
+ag419
+ag419
+ag419
+ag417
+ag417
+ag417
+ag419
+ag422
+ag421
+asS'types'
+p492
+(lp493
+VCreature - Dwarf Shaman
+p494
+aVCreature - Treefolk
+p495
+aVCreature - Bat
+p496
+aVSorcery
+p497
+aVCreature - Vampire Rogue
+p498
+aVCreature - Skeleton
+p499
+aVCreature - Wurm
+p500
+aVCreature - Boar
+p501
+aVEnchantment - Aura
+p502
+aVCreature - Elemental
+p503
+aVCreature - Human Rebel Rogue
+p504
+aVArtifact Creature - Shapeshifter
+p505
+aVSorcery
+p506
+aVSorcery
+p507
+aVEnchantment
+p508
+aVCreature - Imp
+p509
+aVCreature - Insect
+p510
+aVLand
+p511
+aVCreature - Beast
+p512
+aVSorcery
+p513
+aVCreature - Boar
+p514
+aVCreature - Nephilim
+p515
+aVCreature - Dwarf Soldier
+p516
+aVCreature - Dwarf Soldier
+p517
+aVCreature - Wurm
+p518
+aVCreature - Dwarf Warrior
+p519
+aVCreature - Dwarf Shaman
+p520
+aVEnchantment - Aura
+p521
+aVCreature - Bat
+p522
+aVSorcery
+p523
+aVLand
+p524
+aVCreature - Spirit
+p525
+aVCreature - Imp
+p526
+aVCreature - Beast
+p527
+aVCreature - Bird
+p528
+aVCreature - Giant
+p529
+aVCreature - Human Wizard
+p530
+aVCreature - Vampire Wizard
+p531
+aVCreature - Thrull
+p532
+aVArtifact Creature - Construct
+p533
+aVArtifact Creature - Shapeshifter
+p534
+aVSorcery
+p535
+aVEnchantment
+p536
+aVCreature - Ouphe
+p537
+aVInstant
+p538
+aVCreature - Boar
+p539
+aVInstant
+p540
+aVCreature - Dwarf Shaman
+p541
+aVSorcery
+p542
+aVSorcery
+p543
+aVCreature - Bird
+p544
+aVCreature - Imp
+p545
+aVSorcery
+p546
+aVCreature - Human Minion
+p547
+aVEnchantment
+p548
+aVSorcery
+p549
+aVCreature - Boar
+p550
+aVArtifact Creature - Shapeshifter
+p551
+aVSorcery
+p552
+aVSorcery
+p553
+aVSorcery
+p554
+aVCreature - Shade Spirit
+p555
+aVCreature - Insect
+p556
+aVCreature - Boar
+p557
+aVSorcery
+p558
+aVCreature - Wurm
+p559
+aVCreature - Spirit
+p560
+asS'numbers'
+p561
+(lp562
+V195
+p563
+aV171
+p564
+aV97
+p565
+aV90
+p566
+aV91
+p567
+aV92
+p568
+aV166
+p569
+aV83
+p570
+aV97
+p571
+ag423
+aV86
+p572
+ag422
+aV96
+p573
+aV97
+p574
+aV74
+p575
+aV140
+p576
+aV198
+p577
+aV316
+p578
+ag427
+aV88
+p579
+aV10
+p580
+aV110
+p581
+aV136
+p582
+aV138
+p583
+aV67
+p584
+aV51
+p585
+aV137
+p586
+aV133
+p587
+ag420
+aV23
+p588
+aV277
+p589
+aV42
+p590
+aV131
+p591
+aV193
+p592
+aV14
+p593
+aV194
+p594
+aV158
+p595
+aV159
+p596
+aV11
+p597
+aV166
+p598
+aV165
+p599
+aV131
+p600
+aV112
+p601
+aV65
+p602
+aV8
+p603
+aV127
+p604
+ag423
+aV101
+p605
+aV132
+p606
+aV10
+p607
+aV103
+p608
+aV130
+p609
+ag427
+aV104
+p610
+aV245
+p611
+aV175
+p612
+aV256
+p613
+aV106
+p614
+aV174
+p615
+aV71
+p616
+aV11
+p617
+aV30
+p618
+aV113
+p619
+aV213
+p620
+aV96
+p621
+aV170
+p622
+aV36
+p623
+as.

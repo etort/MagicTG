@@ -1,0 +1,98 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVRare
+p4
+aVUncommon
+p5
+asS'editns'
+p6
+(lp7
+VTime Spiral
+p8
+aVRise of the Eldrazi
+p9
+aVMagic: The Gathering\u2014Conspiracy
+p10
+asS'ids'
+p11
+(lp12
+V114903
+p13
+aV198171
+p14
+aV382292
+p15
+asS'texts'
+p16
+(lp17
+VVigilance<br>{T}: Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.<br>Suspend 4\u2014{W}{U} <i>(Rather than cast this card from your hand, you may pay {W}{U} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)</i>
+p18
+aVWhen Jaddi Lifestrider enters the battlefield, you may tap any number of untapped creatures you control. You gain 2 life for each creature tapped this way.
+p19
+aVHidden agenda <i>(Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)</i><br>Whenever you cast an instant or sorcery spell with the chosen name, you may draw a card.
+p20
+asS'costs'
+p21
+(lp22
+V{5}{W}{U}
+p23
+aV{G}
+p24
+aS'0'
+p25
+asS'names'
+p26
+(lp27
+VIth, High Arcanist
+p28
+aVIt That Betrays
+p29
+aVIterative Analysis
+p30
+asS'toughs'
+p31
+(lp32
+V1
+p33
+aV6
+p34
+aS'N/A'
+p35
+asS'artists'
+p36
+(lp37
+VZoltan Boros & Gabor Szikszai
+p38
+aVTomasz Jedruszek
+p39
+aVWinona Nelson
+p40
+asS'powers'
+p41
+(lp42
+V2
+p43
+ag33
+ag35
+asS'types'
+p44
+(lp45
+VLegendary Creature - Human Wizard
+p46
+aVCreature - Eldrazi
+p47
+aVConspiracy
+p48
+asS'numbers'
+p49
+(lp50
+V241
+p51
+aV7
+p52
+ag34
+as.

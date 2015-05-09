@@ -1,0 +1,1968 @@
+(dp0
+S'rares'
+p1
+(lp2
+VSpecial
+p3
+aVCommon
+p4
+aVCommon
+p5
+aVRare
+p6
+aVCommon
+p7
+aVRare
+p8
+aVUncommon
+p9
+aVRare
+p10
+aVRare
+p11
+aVUncommon
+p12
+aVUncommon
+p13
+aVUncommon
+p14
+aVUncommon
+p15
+aVCommon
+p16
+aVRare
+p17
+aVRare
+p18
+aVRare
+p19
+aVCommon
+p20
+aVRare
+p21
+aVRare
+p22
+aVUncommon
+p23
+aVCommon
+p24
+aVCommon
+p25
+aVUncommon
+p26
+aVRare
+p27
+aVCommon
+p28
+aVUncommon
+p29
+aVRare
+p30
+aVRare
+p31
+aVCommon
+p32
+aVUncommon
+p33
+aVUncommon
+p34
+aVCommon
+p35
+aVCommon
+p36
+aVRare
+p37
+aVUncommon
+p38
+aVUncommon
+p39
+aVCommon
+p40
+aVUncommon
+p41
+aVCommon
+p42
+aVCommon
+p43
+aVUncommon
+p44
+aVRare
+p45
+aVUncommon
+p46
+aVUncommon
+p47
+aVCommon
+p48
+aVCommon
+p49
+aVUncommon
+p50
+aVUncommon
+p51
+aVUncommon
+p52
+aVUncommon
+p53
+aVUncommon
+p54
+aVCommon
+p55
+aVRare
+p56
+aVMythic Rare
+p57
+aVCommon
+p58
+aVCommon
+p59
+aVCommon
+p60
+aVRare
+p61
+aVUncommon
+p62
+aVRare
+p63
+aVCommon
+p64
+aVCommon
+p65
+aVRare
+p66
+aVUncommon
+p67
+aVRare
+p68
+aVRare
+p69
+aVCommon
+p70
+aVUncommon
+p71
+aVUncommon
+p72
+aVRare
+p73
+aVCommon
+p74
+aVUncommon
+p75
+aVRare
+p76
+aVUncommon
+p77
+aVUncommon
+p78
+aVCommon
+p79
+aVUncommon
+p80
+aVUncommon
+p81
+aVUncommon
+p82
+aVRare
+p83
+aVCommon
+p84
+aVSpecial
+p85
+aVSpecial
+p86
+aVUncommon
+p87
+aVRare
+p88
+aVCommon
+p89
+aVCommon
+p90
+aVRare
+p91
+aVUncommon
+p92
+aVCommon
+p93
+aVMythic Rare
+p94
+aVUncommon
+p95
+aVRare
+p96
+aVCommon
+p97
+aVCommon
+p98
+aVUncommon
+p99
+asS'editns'
+p100
+(lp101
+VAnthologies
+p102
+aVMagic: The Gathering-Commander
+p103
+aVMagic 2012
+p104
+aVLimited Edition Beta
+p105
+aVBattle Royale Box Set
+p106
+aVMorningtide
+p107
+aVMagic 2013
+p108
+aVMagic 2013
+p109
+aVFourth Edition
+p110
+aVDuel Decks: Ajani vs. Nicol Bolas
+p111
+aVDuel Decks: Ajani vs. Nicol Bolas
+p112
+aVScars of Mirrodin
+p113
+aVMagic 2010
+p114
+aVMagic 2014 Core Set
+p115
+aVTenth Edition
+p116
+aVModern Masters
+p117
+aVMirrodin Besieged
+p118
+aVMasters Edition III
+p119
+aVRevised Edition
+p120
+aVNinth Edition
+p121
+aVNinth Edition
+p122
+aVNinth Edition
+p123
+aVEventide
+p124
+aVConflux
+p125
+aVAvacyn Restored
+p126
+aVOnslaught
+p127
+aVOnslaught
+p128
+aVOnslaught
+p129
+aVBetrayers of Kamigawa
+p130
+aVUrza's Destiny
+p131
+aVCommander 2013 Edition
+p132
+aVCommander 2013 Edition
+p133
+aVCommander 2013 Edition
+p134
+aVTime Spiral
+p135
+aVReturn to Ravnica
+p136
+aVReturn to Ravnica
+p137
+aVReturn to Ravnica
+p138
+aVReturn to Ravnica
+p139
+aVReturn to Ravnica
+p140
+aVGatecrash
+p141
+aVGatecrash
+p142
+aVExodus
+p143
+aVUnlimited Edition
+p144
+aVIce Age
+p145
+aVTorment
+p146
+aVZendikar
+p147
+aVMirrodin
+p148
+aVMirrodin
+p149
+aVMirrodin
+p150
+aVMirrodin
+p151
+aVMirrodin
+p152
+aVMirrodin
+p153
+aVSeventh Edition
+p154
+aVMagic 2015 Core Set
+p155
+aVMagic 2015 Core Set
+p156
+aVUrza's Legacy
+p157
+aVUrza's Legacy
+p158
+aVUrza's Legacy
+p159
+aVDarksteel
+p160
+aVShadowmoor
+p161
+aVNew Phyrexia
+p162
+aVNew Phyrexia
+p163
+aVStarter 1999
+p164
+aVScourge
+p165
+aVFuture Sight
+p166
+aVFuture Sight
+p167
+aVFuture Sight
+p168
+aVPortal Second Age
+p169
+aVPlanechase
+p170
+aVDuel Decks: Venser vs. Koth
+p171
+aVUrza's Saga
+p172
+aVUrza's Saga
+p173
+aVEighth Edition
+p174
+aVNemesis
+p175
+aVWorldwake
+p176
+aVWorldwake
+p177
+aVInvasion
+p178
+aVInvasion
+p179
+aVInvasion
+p180
+aVAlara Reborn
+p181
+aVFifth Edition
+p182
+aVDuel Decks: Jace vs. Vraska
+p183
+aVVanguard
+p184
+aVVanguard
+p185
+aVInnistrad
+p186
+aVLimited Edition Alpha
+p187
+aVBeatdown Box Set
+p188
+aVMasters Edition IV
+p189
+aVStronghold
+p190
+aVDissension
+p191
+aVDissension
+p192
+aVPremium Deck Series: Slivers
+p193
+aVMagic 2011
+p194
+aVPortal Three Kingdoms
+p195
+aVPlaneshift
+p196
+aVPlaneshift
+p197
+aVPlaneshift
+p198
+asS'ids'
+p199
+(lp200
+V-2146729922
+p201
+aV247353
+p202
+aV230762
+p203
+aV421
+p204
+aV21199
+p205
+aV157428
+p206
+aV254119
+p207
+aV253693
+p208
+aV2185
+p209
+aV259276
+p210
+aV249404
+p211
+aV208254
+p212
+aV190186
+p213
+aV370643
+p214
+aV129803
+p215
+aV370457
+p216
+aV214054
+p217
+aV201187
+p218
+aV1223
+p219
+aV83540
+p220
+aV83266
+p221
+aV83129
+p222
+aV150999
+p223
+aV183019
+p224
+aV240170
+p225
+aV39706
+p226
+aV41171
+p227
+aV39696
+p228
+aV74628
+p229
+aV15786
+p230
+aV376504
+p231
+aV376505
+p232
+aV376506
+p233
+aV116385
+p234
+aV290532
+p235
+aV290533
+p236
+aV253586
+p237
+aV253607
+p238
+aV270373
+p239
+aV366366
+p240
+aV366281
+p241
+aV6097
+p242
+aV723
+p243
+aV2535
+p244
+aV31833
+p245
+aV178136
+p246
+aV46028
+p247
+aV46069
+p248
+aV46080
+p249
+aV46091
+p250
+aV46102
+p251
+aV46113
+p252
+aV25557
+p253
+aV383384
+p254
+aV383385
+p255
+aV12384
+p256
+aV12397
+p257
+aV12416
+p258
+aV51055
+p259
+aV153995
+p260
+aV218010
+p261
+aV230065
+p262
+aV21068
+p263
+aV45166
+p264
+aV130329
+p265
+aV130704
+p266
+aV136146
+p267
+aV6529
+p268
+aV205345
+p269
+aV270851
+p270
+aV5751
+p271
+aV5803
+p272
+aV45314
+p273
+aV21283
+p274
+aV197859
+p275
+aV194017
+p276
+aV23068
+p277
+aV23149
+p278
+aV23168
+p279
+aV188971
+p280
+aV3945
+p281
+aV380226
+p282
+aV201075
+p283
+aV12143
+p284
+aV220062
+p285
+aV126
+p286
+aV26634
+p287
+aV221496
+p288
+aV5233
+p289
+aV111283
+p290
+aV97073
+p291
+aV207915
+p292
+aV205120
+p293
+aV10591
+p294
+aV22025
+p295
+aV26781
+p296
+aV15137
+p297
+asS'texts'
+p298
+(lp299
+VReach (This creature can block creatures with flying.)
+p300
+aVSlipstream Eel can't attack unless defending player controls an Island.<br>Cycling {1}{U} <i>({1}{U}, Discard this card: Draw a card.)</i>
+p301
+aVTrample <i>(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</i>
+p302
+aVBanding <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
+p303
+aVSlippery Karst enters the battlefield tapped.<br>{T}: Add {G} to your mana pool.<br>Cycling {2} <i>({2}, Discard this card: Draw a card.)</i>
+p304
+aVWhen Meadowboon leaves the battlefield, put a +1/+1 counter on each creature target player controls.<br>Evoke {3}{W} <i>(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</i>
+p305
+aVExchange control of two target creatures.
+p306
+aVDefender <i>(This creature can't attack.)</i><br>{R}: Wall of Fire gets +1/+0 until end of turn.
+p307
+aVAs The Rack enters the battlefield, choose an opponent.<br>At the beginning of the chosen player's upkeep, The Rack deals X damage to that player, where X is 3 minus the number of cards in his or her hand.
+p308
+aVGain control of target creature. Untap that creature. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.
+p309
+aVWhenever Slavering Nulls deals combat damage to a player, if you control a Swamp, you may have that player discard a card.
+p310
+aVMetalcraft- Stoic Rebuttal costs {1} less to cast if you control three or more artifacts.<br>Counter target spell.
+p311
+aVSunpetal Grove enters the battlefield tapped unless you control a Forest or a Plains.<br>{T}: Add {G} or {W} to your mana pool.
+p312
+aVWhenever you cast a green spell or a Forest enters the battlefield under your control, you gain 1 life.
+p313
+aVCounter target spell.
+p314
+aVDestroy target nonblack creature.<br>At the beginning of your next upkeep, pay {2}{B}. If you don't, you lose the game.
+p315
+aVWhen Spine of Ish Sah enters the battlefield, destroy target permanent.<br>When Spine of Ish Sah is put into a graveyard from the battlefield, return Spine of Ish Sah to its owner's hand.
+p316
+aVHorsemanship <i>(This creature can't be blocked except by creatures with horsemanship.)</i><br>When Sun Ce, Young Conquerer enters the battlefield, you may return target creature to its owner's hand.
+p317
+aVEach noncreature artifact loses all abilities and becomes an artifact creature with power and toughness each equal to its converted mana cost. If Titania's Song leaves the battlefield, this effect continues until end of turn.
+p318
+aVOther creatures you control get +0/+1.
+p319
+aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i> <br>Whenever Thieving Magpie deals damage to an opponent, draw a card.
+p320
+aV{T}: Draw a card, then discard a card.
+p321
+aVHexproof <i>(This creature can't be the target of spells or abilities your opponents control.)</i>
+p322
+aVFlying<br>When Sphinx Summoner enters the battlefield, you may search your library for an artifact creature card, reveal it, and put it into your hand. If you do, shuffle your library.
+p323
+aVTrample<br>Whenever another nontoken creature enters the battlefield under your control, you may draw a card.
+p324
+aVSlipstream Eel can't attack unless defending player controls an Island.<br>Cycling {1}{U} <i>({1}{U}, Discard this card: Draw a card.)</i>
+p325
+aVSlice and Dice deals 4 damage to each creature.<br>Cycling {2}{R} <i>({2}{R}, Discard this card: Draw a card.)</i><br>When you cycle Slice and Dice, you may have it deal 1 damage to each creature.
+p326
+aVB
+p327
+aVWhenever an opponent casts a Spirit or Arcane spell, Ishi-Ishi, Akki Crackshot deals 2 damage to that player.
+p328
+aVFlying<br>{2}, Sacrifice Slinking Skirge: Draw a card.
+p329
+aVSlice and Dice deals 4 damage to each creature.<br>Cycling {2}{R} <i>({2}{R}, Discard this card: Draw a card.)</i><br>When you cycle Slice and Dice, you may have it deal 1 damage to each creature.
+p330
+aVDestroy target artifact or enchantment.<br>Draw a card.
+p331
+aVSlippery Karst enters the battlefield tapped.<br>{T}: Add {G} to your mana pool.<br>Cycling {2} <i>({2}, Discard this card: Draw a card.)</i>
+p332
+aVSlipstream Serpent can't attack unless defending player controls an Island.<br>When you control no Islands, sacrifice Slipstream Serpent.<br>Morph {5}{U} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p333
+aVWhen Slum Reaper enters the battlefield, each player sacrifices a creature.
+p334
+aVEnchant nonland permanent<br>At the beginning of the upkeep of enchanted permanent's controller, that player sacrifices it unless he or she pays {X}, where X is its converted mana cost.
+p335
+aVSoulsworn Spirit can't be blocked.<br>When Soulsworn Spirit enters the battlefield, detain target creature an opponent controls. <i>(Until your next turn, that creature can't attack or block and its activated abilities can't be activated.)</i>
+p336
+aVUnleash <i>(You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)</i>
+p337
+aVCreatures can't attack you or a planeswalker you control unless their controller pays {X} for each of those creatures, where X is the number of enchantments you control.
+p338
+aVDestroy target blocked creature.
+p339
+aVFlying<br>Creatures with flying your opponents control get -1/-1.
+p340
+aVBuyback\u2014Pay 4 life. <i>(You may pay 4 life in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)</i><br>Destroy target nonblack creature. It can't be regenerated.
+p341
+aVTake an extra turn after this one.
+p342
+aVWhenever an opponent casts a creature spell, Soul Barrier deals 2 damage to that player unless he or she pays {2}.
+p343
+aVSwampwalk<br>When Slithery Stalker enters the battlefield, exile target green or white creature an opponent controls.<br>When Slithery Stalker leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+p344
+aVLandfall- Whenever a land enters the battlefield under your control, you may put a quest counter on Soul Stair Expedition.<br>Remove three quest counters from Soul Stair Expedition and sacrifice it: Return up to two target creature cards from your graveyard to your hand.
+p345
+aVEquipped creature gets +0/+6.<br>Equip {3} <i>({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)</i>
+p346
+aVFlying<br>Whenever Slith Ascendant deals combat damage to a player, put a +1/+1 counter on it.
+p347
+aVWhenever Slith Strider becomes blocked, draw a card.<br>Whenever Slith Strider deals combat damage to a player, put a +1/+1 counter on it.
+p348
+aVWhenever Slith Bloodletter deals combat damage to a player, put a +1/+1 counter on it.<br>{1}{B}: Regenerate Slith Bloodletter.
+p349
+aVHaste<br>Whenever Slith Firewalker deals combat damage to a player, put a +1/+1 counter on it.
+p350
+aVTrample<br>Whenever Slith Predator deals combat damage to a player, put a +1/+1 counter on it.
+p351
+aVWhenever a player casts a spell, that player returns a land he or she controls to its owner's hand.
+p352
+aVFirst strike<br>{3}{R}{R}: Soul of Shandalar deals 3 damage to target player and 3 damage to up to one target creature that player controls.<br>{3}{R}{R}, Exile Soul of Shandalar from your graveyard: Soul of Shandalar deals 3 damage to target player and 3 damage to up to one target creature that player controls.
+p353
+aVVigilance<br>{4}{W}{W}: Creatures you control get +2/+2 and gain first strike and lifelink until end of turn.<br>{4}{W}{W}, Exile Soul of Theros from your graveyard: Creatures you control get +2/+2 and gain first strike and lifelink until end of turn.
+p354
+aVEnchant creature<br>At the beginning of the upkeep of enchanted creature's controller, that player sacrifices that creature unless he or she pays {2}.<br>When Slow Motion is put into a graveyard from the battlefield, return Slow Motion to its owner's hand.
+p355
+aVEnchant creature<br>Enchanted creature has fear. <i>(It can't be blocked except by artifact creatures and/or black creatures.)</i><br>When Sleeper's Guile is put into a graveyard from the battlefield, return Sleeper's Guile to its owner's hand.
+p356
+aVEnchant creature<br>Enchanted creature can't block.<br>When Sluggishness is put into a graveyard from the battlefield, return Sluggishness to its owner's hand.
+p357
+aVSacrifice an artifact: Target artifact is indestructible this turn. <i>("Destroy" effects and lethal damage don't destroy that artifact.)</i>
+p358
+aVTrample<br>Whenever Hungry Spriggan attacks, it gets +3/+3 until end of turn.
+p359
+aVInfect <i>(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</i><br>You may have Spinebiter assign its combat damage as though it weren't blocked.
+p360
+aV<i>({UP} can be paid with either {U} or 2 life.)</i><br>Flying
+p361
+aVFlying<br>Haste <i>(This creature can attack and {T} as soon as it comes under your control.)</i>
+p362
+aV{3}: Search your library for a Sliver card, reveal that card, and put it into your hand. Then shuffle your library.<br>{3}: Gain control of target Sliver. <i>(This effect lasts indefinitely.)</i>
+p363
+aVTarget player reveals his or her hand. You choose a nonland card from it. That player puts that card into his or her library third from the top.
+p364
+aVEnchant creature<br>Enchanted creature has poisonous 3. <i>(Whenever it deals combat damage to a player, that player gets three poison counters. A player with ten or more poison counters loses the game.)</i>
+p365
+aVOther Rigger creatures you control get +1/+0 and have haste.<br>If a Rigger you control would assemble a Contraption, it assembles two Contraptions instead.
+p366
+aVSearch your library for a basic land card and put that card onto the battlefield. Then shuffle your library.
+p367
+aVWhenever another artifact enters the battlefield under your control or another artifact you control leaves the battlefield, you may pay {1}. If you do, target player loses 1 life and you gain 1 life.
+p368
+aVWhenever Slith Strider becomes blocked, draw a card.<br>Whenever Slith Strider deals combat damage to a player, put a +1/+1 counter on it.
+p369
+aV{1}{W}: Prevent all combat damage that would be dealt this turn by target attacking creature with flying.
+p370
+aVEnchant Swamp<br>When enchanted land becomes tapped, destroy it.<br>When Spreading Algae is put into a graveyard from the battlefield, return Spreading Algae to its owner's hand.
+p371
+aV{T}: Destroy target tapped creature.
+p372
+aV{3}{U}: Return Sliptide Serpent to its owner's hand.
+p373
+aVSmoldering Spires enters the battlefield tapped.<br>When Smoldering Spires enters the battlefield, target creature can't block this turn.<br>{T}: Add {R} to your mana pool.
+p374
+aVDestroy target creature with converted mana cost 3 or less. It can't be regenerated.
+p375
+aV{T}: Target land becomes a Swamp until end of turn.
+p376
+aVForestwalk
+p377
+aVEnchant creature<br>Enchanted creature has fear. <i>(It can't be blocked except by artifact creatures and/or black creatures.)</i><br>Whenever enchanted creature deals combat damage to an opponent, you may draw a card.
+p378
+aVReturn all creatures on the battlefield and all creature cards in graveyards to their owners' hands.
+p379
+ag327
+aVWhenever Slate Street Ruffian becomes blocked, defending player discards a card.
+p380
+aVWhenever you cast a non-Sliver creature spell, exile that spell. If you do, put a token onto the battlefield that's a copy of a random non-Shapeshifter Sliver creature card with the same converted mana cost as that spell.
+p381
+aV{3}: Put a 1/1 colorless Sliver creature token onto the battlefield.
+p382
+aVCreatures you control gain protection from non-Human creatures until end of turn.
+p383
+aVPlayers skip their untap steps.<br><br>At the beginning of your upkeep, sacrifice Stasis unless you pay {U}.
+p384
+aVSvyelunite Temple enters the battlefield tapped.<br>{T}: Add {U} to your mana pool.<br>{T}, Sacrifice Svyelunite Temple: Add {U}{U} to your mana pool.
+p385
+aV{T}: Destroy target tapped creature. Activate this ability only during your turn, before attackers are declared.
+p386
+aV{2}: Put a 1/1 colorless Sliver creature token onto the battlefield.
+p387
+aVDefender <i>(This creature can't attack.)</i><br>{B}: Slithering Shade gets +1/+1 until end of turn.<br>Hellbent- Slithering Shade can attack as though it didn't have defender as long as you have no cards in hand.
+p388
+aVHellbent- When Slaughterhouse Bouncer dies, if you have no cards in hand, target creature gets -3/-3 until end of turn.
+p389
+aVAll Sliver creatures have "{2}: This creature gets +1/+1 until end of turn."
+p390
+ag327
+aVWhen Council of Advisors enters the battlefield, draw a card.
+p391
+aV{R}, {T}: Slingshot Goblin deals 2 damage to target blue creature.
+p392
+aVEnchant creature<br>When Sleeping Potion enters the battlefield, tap enchanted creature.<br>Enchanted creature doesn't untap during its controller's untap step.<br>When enchanted creature becomes the target of a spell or ability, sacrifice Sleeping Potion.
+p393
+aVDestroy target green creature. It can't be regenerated.<br>Draw a card.
+p394
+asS'costs'
+p395
+(lp396
+S'0'
+p397
+aV{X}{U}{U}
+p398
+aV{R}
+p399
+aV{U}
+p400
+ag397
+aV{2}{U}{U}
+p401
+aV{2}{U}{U}
+p402
+aV{2}{R}
+p403
+aV{U}
+p404
+aV{1}{R}{W}
+p405
+aV{4}{B}
+p406
+aV{3}{B}{B}
+p407
+aV{4}{W}
+p408
+aV{R}
+p409
+aV{B}
+p410
+aV{0}
+p411
+aV{1}{R}{R}
+p412
+aV{2}{G}{G}
+p413
+aV{U}
+p414
+aV{4}
+p415
+aV{2}{B}
+p416
+aV{U}
+p417
+aV{G/U}
+p418
+aV{3}{G}{W}{U}
+p419
+ag397
+aV{5}{U}{U}
+p420
+aV{4}{R}{R}
+p421
+aV{4}
+p422
+aV{3}
+p423
+aV{3}{B}
+p424
+aV{4}{R}{R}
+p425
+aV{2}{G}{G}
+p426
+ag397
+aV{7}{U}
+p427
+aV{2}{W}{U}
+p428
+aV{2}{B}{R}
+p429
+aV{X}{G}
+p430
+aV{B/G}
+p431
+aV{2}{B}{G}
+p432
+aV{1}{U}
+p433
+aV{1}{R}{W}
+p434
+aV{2}{B}{B}
+p435
+aV{U}
+p436
+aV{U}
+p437
+aV{1}{B}{B}
+p438
+aV{5}{U}
+p439
+aV{1}
+p440
+aV{1}{W}{W}
+p441
+aV{1}{U}{U}
+p442
+aV{B}{B}
+p443
+aV{R}{R}
+p444
+aV{G}{G}
+p445
+aV{U}
+p446
+ag397
+aV{1}
+p447
+aV{2}{U}
+p448
+aV{2}{B}
+p449
+aV{1}{R}
+p450
+aV{1}{R}
+p451
+aV{2}{R}{R}
+p452
+aV{3}
+p453
+aV{R}
+p454
+aV{U}
+p455
+aV{W}{U}{B}{R}{G}
+p456
+aV{2}
+p457
+aV{0}
+p458
+aV{W}{U}{B}{R}{G}
+p459
+aV{U}
+p460
+aV{1}{W}{U}{B}
+p461
+aV{2}{R}
+p462
+aV{B}
+p463
+ag397
+aV{2}{B}
+p464
+aV{4}{U}{U}
+p465
+aV{R}
+p466
+aV{1}{R}
+p467
+aV{2}{R}
+p468
+aV{2}{U}{B}
+p469
+aV{U}{B}
+p470
+aV{3}{U/R}{B}
+p471
+aV{U}
+p472
+aV{B}
+p473
+ag397
+ag397
+aV{2}{R}{R}
+p474
+aV{U}
+p475
+ag397
+aV{U}
+p476
+aV{W}{U}{B}{R}{G}
+p477
+aV{B}
+p478
+aV{4}{B}
+p479
+aV{W}{U}{B}{R}{G}
+p480
+aV{2}{R}{R}
+p481
+aV{2}{G}{G}
+p482
+aV{2}{R}
+p483
+aV{1}{U}
+p484
+aV{2}{B}
+p485
+asS'names'
+p486
+(lp487
+VSlippery Karst
+p488
+aVSlipstream Eel
+p489
+aVSlaughter Cry
+p490
+aVSleight of Mind
+p491
+aVSlippery Karst
+p492
+aVSlithermuse
+p493
+aVSleep
+p494
+aVSlumbering Dragon
+p495
+aVSleight of Mind
+p496
+aVSlave of Bolas
+p497
+aVSlavering Nulls
+p498
+aVSlice in Twain
+p499
+aVSleep
+p500
+aVSliver Construct
+p501
+aVSleeper Agent
+p502
+aVSlaughter Pact
+p503
+aVSlagstorm
+p504
+aVSlashing Tiger
+p505
+aVSleight of Mind
+p506
+aVSlate of Ancestry
+p507
+aVSlay
+p508
+aVSleight of Hand
+p509
+aVSlippery Bogle
+p510
+aVSludge Strider
+p511
+aVSlayers' Stronghold
+p512
+aVSlipstream Eel
+p513
+aVSlice and Dice
+p514
+aVSlate of Ancestry
+p515
+aVSlumbering Tora
+p516
+aVSlinking Skirge
+p517
+aVSlice and Dice
+p518
+aVSlice in Twain
+p519
+aVSlippery Karst
+p520
+aVSlipstream Serpent
+p521
+aVSlaughter Games
+p522
+aVSlime Molding
+p523
+aVSlitherhead
+p524
+aVSluiceway Scorpion
+p525
+aVSlum Reaper
+p526
+aVSlate Street Ruffian
+p527
+aVSlaughterhorn
+p528
+aVSlaughter
+p529
+aVSleight of Mind
+p530
+aVSleight of Mind
+p531
+aVSlithery Stalker
+p532
+aVSlaughter Cry
+p533
+aVSlagwurm Armor
+p534
+aVSlith Ascendant
+p535
+aVSlith Strider
+p536
+aVSlith Bloodletter
+p537
+aVSlith Firewalker
+p538
+aVSlith Predator
+p539
+aVSleight of Hand
+p540
+aVSliver Hive
+p541
+aVSliver Hivelord
+p542
+aVSlow Motion
+p543
+aVSleeper's Guile
+p544
+aVSluggishness
+p545
+aVSlobad, Goblin Tinkerer
+p546
+aVSlinking Giant
+p547
+aVSlag Fiend
+p548
+aVSlash Panther
+p549
+aVSleight of Hand
+p550
+aVSliver Overlord
+p551
+aVSliversmith
+p552
+aVSlaughter Pact
+p553
+aVSliver Legion
+p554
+aVSleight of Hand
+p555
+aVSludge Strider
+p556
+aVSlith Strider
+p557
+aVSleeper Agent
+p558
+aVSlippery Karst
+p559
+aVSlay
+p560
+aVSliptide Serpent
+p561
+aVSlavering Nulls
+p562
+aVSlingbow Trap
+p563
+aVSlimy Kavu
+p564
+aVSlinking Serpent
+p565
+aVSleeper's Robe
+p566
+aVSlave of Bolas
+p567
+aVSleight of Mind
+p568
+aVSlate Street Ruffian
+p569
+aVSliver Queen Avatar
+p570
+aVSliver Queen, Brood Mother
+p571
+aVSlayer of the Wicked
+p572
+aVSleight of Mind
+p573
+aVSlippery Karst
+p574
+aVSleight of Hand
+p575
+aVSliver Queen
+p576
+aVSlithering Shade
+p577
+aVSlaughterhouse Bouncer
+p578
+aVSliver Overlord
+p579
+aVSleep
+p580
+aVSlashing Tiger
+p581
+aVSlingshot Goblin
+p582
+aVSleeping Potion
+p583
+aVSlay
+p584
+asS'toughs'
+p585
+(lp586
+S'N/A'
+p587
+aV2
+p588
+ag587
+ag587
+ag587
+aV3
+p589
+ag587
+ag588
+ag587
+ag587
+ag588
+ag587
+ag587
+ag587
+aV1
+p590
+ag587
+ag587
+aV4
+p591
+ag587
+ag587
+ag587
+ag587
+ag590
+ag587
+ag587
+ag591
+ag587
+ag587
+ag587
+ag588
+ag587
+ag587
+ag587
+ag590
+ag587
+ag587
+ag589
+ag590
+ag588
+aV9
+p592
+ag588
+ag587
+ag587
+ag587
+ag590
+ag587
+ag587
+ag590
+ag590
+ag589
+ag588
+ag590
+ag587
+ag587
+ag590
+ag587
+ag587
+ag587
+ag591
+ag589
+ag589
+ag587
+ag587
+aV7
+p593
+ag587
+ag587
+ag589
+ag587
+ag587
+ag589
+ag588
+ag587
+ag587
+ag591
+ag590
+ag587
+ag588
+ag589
+ag587
+ag587
+ag587
+ag590
+ag587
+ag587
+ag589
+ag587
+ag587
+ag587
+ag593
+ag590
+ag590
+ag590
+ag587
+ag589
+ag588
+ag587
+ag587
+asS'artists'
+p594
+(lp595
+VStephen Daniele
+p596
+aVMark Tedin
+p597
+aS''
+p598
+aVMark Poole
+p599
+aVStephen Daniele
+p600
+aVSteven Belledin
+p601
+aVChris Rahn
+p602
+aVChris Rahn
+p603
+aVMark Poole
+p604
+aVSteve Argyle
+p605
+aVDave Kendall
+p606
+aVEfrem Palacios
+p607
+aVChris Rahn
+p608
+aVMathias Kollros
+p609
+aVRandy Gallegos
+p610
+ag598
+ag598
+aVChristopher Rush
+p611
+aVMark Poole
+p612
+aVCorey D. Macourek
+p613
+aVBen Thompson
+p614
+aVJim Murray
+p615
+aVDave Allsop
+p616
+aVFranz Vohwinkel
+p617
+aVRyan Yee
+p618
+aVMark Tedin
+p619
+aVMark Brill
+p620
+aVCorey D. Macourek
+p621
+aVDoug Chaffee
+p622
+aVRon Spencer
+p623
+aVMark Brill
+p624
+aVEfrem Palacios
+p625
+aVStephen Daniele
+p626
+aVDarrell Riche
+p627
+aVSteve Prescott
+p628
+aVMarco Nelor
+p629
+aVGreg Staples
+p630
+aVSlawomir Maniak
+p631
+aVKarl Kopinski
+p632
+aVJim Murray
+p633
+aVSteve Prescott
+p634
+aVPete Venters
+p635
+aVMark Poole
+p636
+aVNicola Leonard
+p637
+aVJohn Avon
+p638
+aVMatt Cavotta
+p639
+aVJustin Sweet
+p640
+aVJustin Sweet
+p641
+aVJustin Sweet
+p642
+aVJustin Sweet
+p643
+aVJustin Sweet
+p644
+aVJustin Sweet
+p645
+aVChristopher Moeller
+p646
+aVIgor Kieryluk
+p647
+aVAleksi Briclot
+p648
+aVTodd Lockwood
+p649
+aVDaren Bader
+p650
+aVPete Venters
+p651
+aVKev Walker
+p652
+aVDave Kendall
+p653
+ag598
+ag598
+aVPhil Foglio
+p654
+aVTony Szczudlo
+p655
+aVJohn Avon
+p656
+aVKev Walker
+p657
+aVRon Spears
+p658
+aVPhil Foglio
+p659
+aVFranz Vohwinkel
+p660
+ag598
+aVRandy Gallegos
+p661
+aVStephen Daniele
+p662
+aVBen Thompson
+p663
+aVDaren Bader
+p664
+aVDave Kendall
+p665
+aVDaniel Ljunggren
+p666
+aVRandy Gallegos
+p667
+aVWayne England
+p668
+aVAlan Pollack
+p669
+aVSteve Argyle
+p670
+aVMark Poole
+p671
+aVJim Murray
+p672
+aVUDON
+p673
+aVrk post
+p674
+aVAnthony Palumbo
+p675
+aVMark Poole
+p676
+aVStephen Daniele
+p677
+aVPhil Foglio
+p678
+aVRon Spencer
+p679
+aVDaren Bader
+p680
+aVGreg Staples
+p681
+aVTony Szczudlo
+p682
+aVChris Rahn
+p683
+aVYang Jun Kwon
+p684
+aVJeff Easley
+p685
+aVDaren Bader
+p686
+aVBen Thompson
+p687
+asS'powers'
+p688
+(lp689
+g587
+ag588
+ag587
+ag587
+ag587
+ag589
+ag587
+ag589
+ag587
+ag587
+ag588
+ag587
+ag587
+ag587
+ag590
+ag587
+ag587
+aV6
+p690
+ag587
+ag587
+ag587
+ag587
+ag590
+ag587
+ag587
+ag589
+ag587
+ag587
+ag587
+ag588
+ag587
+ag587
+ag587
+ag590
+ag587
+ag587
+ag590
+ag588
+ag591
+ag588
+ag588
+ag587
+ag587
+ag587
+ag590
+ag587
+ag587
+ag590
+ag590
+ag589
+ag588
+ag590
+ag587
+ag587
+ag591
+ag587
+ag587
+ag587
+aV5
+p691
+ag589
+ag691
+ag587
+ag587
+ag593
+ag587
+ag587
+ag591
+ag587
+ag587
+ag589
+ag588
+ag587
+ag587
+ag591
+ag588
+ag587
+ag588
+ag588
+ag587
+ag587
+ag587
+ag590
+ag587
+ag587
+ag588
+ag587
+ag587
+ag587
+ag593
+ag590
+aV0
+p692
+ag590
+ag587
+ag589
+ag588
+ag587
+ag587
+asS'types'
+p693
+(lp694
+VLand
+p695
+aVCreature - Fish Beast
+p696
+aVInstant
+p697
+aVInstant
+p698
+aVLand
+p699
+aVCreature - Elemental
+p700
+aVSorcery
+p701
+aVCreature - Dragon
+p702
+aVInstant
+p703
+aVSorcery
+p704
+aVCreature - Goblin Zombie
+p705
+aVInstant
+p706
+aVSorcery
+p707
+aVArtifact Creature - Sliver Construct
+p708
+aVCreature - Minion
+p709
+aVInstant
+p710
+aVSorcery
+p711
+aVCreature - Cat
+p712
+aVInstant
+p713
+aVArtifact
+p714
+aVInstant
+p715
+aVSorcery
+p716
+aVCreature - Beast
+p717
+aVArtifact Creature - Insect
+p718
+aVLand
+p719
+aVCreature - Fish Beast
+p720
+aVSorcery
+p721
+aVArtifact
+p722
+aVArtifact
+p723
+aVCreature - Imp
+p724
+aVSorcery
+p725
+aVInstant
+p726
+aVLand
+p727
+aVCreature - Serpent
+p728
+aVSorcery
+p729
+aVSorcery
+p730
+aVCreature - Plant Zombie
+p731
+aVCreature - Scorpion
+p732
+aVCreature - Horror
+p733
+aVCreature - Human Warrior
+p734
+aVCreature - Beast
+p735
+aVInstant
+p736
+aVInstant
+p737
+aVInstant
+p738
+aVCreature - Nightmare Horror
+p739
+aVInstant
+p740
+aVArtifact - Equipment
+p741
+aVCreature - Slith
+p742
+aVCreature - Slith
+p743
+aVCreature - Slith
+p744
+aVCreature - Slith
+p745
+aVCreature - Slith
+p746
+aVSorcery
+p747
+aVLand
+p748
+aVLegendary Creature - Sliver
+p749
+aVEnchantment - Aura
+p750
+aVEnchantment - Aura
+p751
+aVEnchantment - Aura
+p752
+aVLegendary Creature - Goblin Artificer
+p753
+aVCreature - Giant Rogue
+p754
+aVCreature - Construct
+p755
+aVArtifact Creature - Cat
+p756
+aVSorcery
+p757
+aVLegendary Creature - Sliver Mutant
+p758
+aVArtifact Creature - Spellshaper
+p759
+aVInstant
+p760
+aVLegendary Creature - Sliver
+p761
+aVSorcery
+p762
+aVArtifact Creature - Insect
+p763
+aVCreature - Slith
+p764
+aVCreature - Minion
+p765
+aVLand
+p766
+aVInstant
+p767
+aVCreature - Serpent
+p768
+aVCreature - Goblin Zombie
+p769
+aVInstant - Trap
+p770
+aVCreature - Kavu
+p771
+aVCreature - Serpent
+p772
+aVEnchantment - Aura
+p773
+aVSorcery
+p774
+aVInstant
+p775
+aVCreature - Human Warrior
+p776
+aVVanguard
+p777
+aVVanguard
+p778
+aVCreature - Human Soldier
+p779
+aVInstant
+p780
+aVLand
+p781
+aVSorcery
+p782
+aVLegendary Creature - Sliver
+p783
+aVCreature - Shade
+p784
+aVCreature - Ogre Warrior
+p785
+aVLegendary Creature - Sliver Mutant
+p786
+aVSorcery
+p787
+aVCreature - Cat
+p788
+aVCreature - Goblin
+p789
+aVEnchantment - Aura
+p790
+aVInstant
+p791
+asS'numbers'
+p792
+(lp793
+V62
+p794
+aV62
+p795
+aV155
+p796
+aV240
+p797
+aV46
+p798
+aV50
+p799
+aV67
+p800
+aV148
+p801
+aV328
+p802
+aV67
+p803
+aV45
+p804
+aV127
+p805
+aV71
+p806
+aV218
+p807
+aV178
+p808
+ag598
+aV75
+p809
+aV133
+p810
+aV250
+p811
+aV308
+p812
+aV163
+p813
+aV99
+p814
+aV160
+p815
+aV126
+p816
+aV229
+p817
+aV114
+p818
+aV232
+p819
+aV310
+p820
+aV161
+p821
+aV71
+p822
+aV119
+p823
+aV170
+p824
+aV324
+p825
+aV77
+p826
+aV197
+p827
+aV135
+p828
+aV222
+p829
+aV198
+p830
+aV77
+p831
+aV78
+p832
+aV134
+p833
+aV74
+p834
+aV241
+p835
+aV356
+p836
+aV84
+p837
+aV149
+p838
+aV243
+p839
+aV23
+p840
+aV50
+p841
+aV77
+p842
+aV107
+p843
+aV129
+p844
+aV98
+p845
+aV247
+p846
+aV211
+p847
+aV42
+p848
+aV67
+p849
+aV92
+p850
+aV69
+p851
+aV106
+p852
+aV95
+p853
+aV96
+p854
+aV51
+p855
+aV139
+p856
+aV163
+p857
+aV78
+p858
+aV158
+p859
+aV144
+p860
+aV95
+p861
+ag598
+aV159
+p862
+aV327
+p863
+aV164
+p864
+aV43
+p865
+aV92
+p866
+aV111
+p867
+aV170
+p868
+aV274
+p869
+aV273
+p870
+aV136
+p871
+aV391
+p872
+aV53
+p873
+aV92
+p874
+aV97
+p875
+aV32
+p876
+aV13
+p877
+aV76
+p878
+aV62
+p879
+aV134
+p880
+aV55
+p881
+aV54
+p882
+aV24
+p883
+aV73
+p884
+aV145
+p885
+aV72
+p886
+aV34
+p887
+aV55
+p888
+as.

@@ -1,0 +1,57 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+asS'editns'
+p4
+(lp5
+VRise of the Eldrazi
+p6
+asS'ids'
+p7
+(lp8
+V198176
+p9
+asS'texts'
+p10
+(lp11
+VAs an additional cost to cast Induce Despair, reveal a creature card from your hand.<br>Target creature gets -X/-X until end of turn, where X is the revealed card's converted mana cost.
+p12
+asS'costs'
+p13
+(lp14
+V{W}
+p15
+asS'names'
+p16
+(lp17
+VIkiral Outrider
+p18
+asS'toughs'
+p19
+(lp20
+V3
+p21
+asS'artists'
+p22
+(lp23
+VKekai Kotaki
+p24
+asS'powers'
+p25
+(lp26
+V6
+p27
+asS'types'
+p28
+(lp29
+VCreature - Human Soldier
+p30
+asS'numbers'
+p31
+(lp32
+V27
+p33
+as.

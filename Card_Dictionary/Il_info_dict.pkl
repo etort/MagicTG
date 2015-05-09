@@ -1,0 +1,677 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVCommon
+p4
+aVUncommon
+p5
+aVUncommon
+p6
+aVUncommon
+p7
+aVUncommon
+p8
+aVUncommon
+p9
+aVRare
+p10
+aVUncommon
+p11
+aVCommon
+p12
+aVRare
+p13
+aVUncommon
+p14
+aVRare
+p15
+aVRare
+p16
+aVCommon
+p17
+aVRare
+p18
+aVUncommon
+p19
+aVCommon
+p20
+aVRare
+p21
+aVRare
+p22
+aVUncommon
+p23
+aVUncommon
+p24
+aVRare
+p25
+aVUncommon
+p26
+aVCommon
+p27
+aVRare
+p28
+aVCommon
+p29
+aVRare
+p30
+aVUncommon
+p31
+aVUncommon
+p32
+aVRare
+p33
+aVRare
+p34
+asS'editns'
+p35
+(lp36
+VLimited Edition Beta
+p37
+aVMagic 2010
+p38
+aVMagic 2014 Core Set
+p39
+aVApocalypse
+p40
+aVApocalypse
+p41
+aVApocalypse
+p42
+aVApocalypse
+p43
+aVMasters Edition III
+p44
+aVPlanechase 2012 Edition
+p45
+aVUrza's Destiny
+p46
+aVCommander 2013 Edition
+p47
+aVGatecrash
+p48
+aVGatecrash
+p49
+aVUnlimited Edition
+p50
+aVIce Age
+p51
+aVIce Age
+p52
+aVIce Age
+p53
+aVIce Age
+p54
+aVIce Age
+p55
+aVClassic Sixth Edition
+p56
+aVMagic 2015 Core Set
+p57
+aVShadowmoor
+p58
+aVUrza's Saga
+p59
+aVMasters Edition
+p60
+aVMasters Edition
+p61
+aVMasters Edition
+p62
+aVTheros
+p63
+aVMagic: The Gathering\u2014Conspiracy
+p64
+aVAlara Reborn
+p65
+aVMirage
+p66
+aVMirage
+p67
+aVLimited Edition Alpha
+p68
+asS'ids'
+p69
+(lp70
+V315
+p71
+aV189897
+p72
+aV370701
+p73
+aV26447
+p74
+aV27163
+p75
+aV-27164
+p76
+aV27164
+p77
+aV201199
+p78
+aV265143
+p79
+aV19097
+p80
+aV376369
+p81
+aV366354
+p82
+aV366426
+p83
+aV617
+p84
+aV2511
+p85
+aV2512
+p86
+aV2513
+p87
+aV2514
+p88
+aV2515
+p89
+aV16449
+p90
+aV383274
+p91
+aV146040
+p92
+aV5570
+p93
+aV159232
+p94
+aV159233
+p95
+aV159749
+p96
+aV373545
+p97
+aV382288
+p98
+aV179596
+p99
+aV3496
+p100
+aV3454
+p101
+aV20
+p102
+asS'texts'
+p103
+(lp104
+V{1}: The next time a source of your choice would deal damage to target creature this turn, that source deals that damage to you instead.
+p105
+aVFlying
+p106
+aVAt the beginning of your upkeep, look at the top card of your library. If it's a land card, you may put it onto the battlefield.
+p107
+aVKicker {2}{R} and/or {3}{U} <i>(You may pay an additional {2}{R} and/or {3}{U} as you cast this spell.)</i><br>Illuminate deals X damage to target creature. If Illuminate was kicked with its {2}{R} kicker, it deals X damage to that creature's controller. If Illuminate was kicked with its {3}{U} kicker, you draw X cards.
+p108
+aVTarget spell or permanent becomes the color of your choice until end of turn.<br>
+p109
+aVDestroy target artifact.
+p110
+aVTarget spell or permanent becomes the color of your choice until end of turn.<br>
+p111
+aVU
+p112
+aVEnchant creature<br>Enchanted creature gets +4/+4 and has first strike, and all creatures able to block it do so.<br>Totem armor <i>(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)</i>
+p113
+aVEnchant creature<br>Enchanted creature has flying.<br>{2}, Sacrifice Illuminated Wings: Draw a card.
+p114
+aVCast Illusionist's Gambit only during the declare blockers step on an opponent's turn.<br>Remove all attacking creatures from combat and untap them. After this phase, there is an additional combat phase. Each of those creatures attacks that combat if able. They can't attack you or a planeswalker you control that combat.
+p115
+aVWhenever an ability of equipped creature is activated, if it isn't a mana ability, copy that ability. You may choose new targets for the copy.<br>Equip {3}
+p116
+aVReturn each creature card with converted mana cost X from your graveyard to the battlefield.
+p117
+aV{X}: You may choose a creature card in your hand whose mana cost could be paid by some amount of, or all of, the mana you spent on {X}. If you do, you may cast that card face down as a 2/2 creature spell without paying its mana cost. If the creature that spell becomes as it resolves has not been turned face up and would assign or deal damage, be dealt damage, or become tapped, instead it's turned face up and assigns or deals damage, is dealt damage, or becomes tapped. Activate this ability only any time you could cast a sorcery.
+p118
+aVFlying<br>Cumulative upkeep {U} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i>
+p119
+aVCumulative upkeep {U} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>At the beginning of your upkeep, choose a land type. Illusionary Presence gains landwalk of the chosen type until end of turn.
+p120
+aVCumulative upkeep {2} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>As Illusionary Terrain enters the battlefield, choose two basic land types.<br>Basic lands of the first chosen type are the second chosen type.
+p121
+aVDefender, flying, first strike<br>Cumulative upkeep {U} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i>
+p122
+aVCumulative upkeep {2} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>When Illusions of Grandeur enters the battlefield, you gain 20 life.<br>When Illusions of Grandeur leaves the battlefield, you lose 20 life.
+p123
+aVIslandwalk<br>{G}: Regenerate River Boa.
+p124
+aVCreatures you control get +2/+1 until end of turn.
+p125
+aVFlying<br>Briarberry Cohort gets +1/+1 as long as you control another blue creature.
+p126
+aVExile Ill-Gotten Gains. Each player discards his or her hand, then returns up to three cards from his or her graveyard to his or her hand.
+p127
+aVFlying<br>Cumulative upkeep {U} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i>
+p128
+aVDefender, flying, first strike<br>Cumulative upkeep {U} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i>
+p129
+aVCumulative upkeep {2} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>When Illusions of Grandeur enters the battlefield, you gain 20 life.<br>When Illusions of Grandeur leaves the battlefield, you lose 20 life.
+p130
+aV{T}: Add an amount of {G} to your mana pool equal to your devotion to green. <i>(Each {G} in the mana costs of permanents you control counts toward your devotion to green.)</i>
+p131
+aVExile Ill-Gotten Gains. Each player discards his or her hand, then returns up to three cards from his or her graveyard to his or her hand.
+p132
+aVIntimidation Bolt deals 3 damage to target creature. Other creatures can't attack this turn.
+p133
+aVTrample
+p134
+aVIncinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.
+p135
+aVTarget spell or permanent becomes green. <i>(Mana symbols on that permanent remain unchanged.)</i>
+p136
+asS'costs'
+p137
+(lp138
+V{2}
+p139
+aV{1}{B}{B}
+p140
+aV{2}{W}
+p141
+aV{X}{R}
+p142
+aV{U}
+p143
+aV{2}{G}
+p144
+aV{U}
+p145
+aV{2}
+p146
+aV{2}{U}
+p147
+aV{1}{U}
+p148
+aV{2}{U}{U}
+p149
+aV{4}{B}
+p150
+aV{G}{U}
+p151
+aV{2}
+p152
+aV{3}{U}
+p153
+aV{1}{U}{U}
+p154
+aV{U}{U}
+p155
+aV{4}{U}
+p156
+aV{3}{U}
+p157
+aV{3}{R}{R}
+p158
+aV{2}{G}
+p159
+aV{5}
+p160
+aV{2}{B}{B}
+p161
+aV{3}{U}
+p162
+aV{4}{U}
+p163
+aV{3}{U}
+p164
+aV{G}
+p165
+aV{5}{R}{R}
+p166
+aV{1}{U}{B}
+p167
+aV{W}{W}
+p168
+aV{3}{R}{R}
+p169
+aV{2}
+p170
+asS'names'
+p171
+(lp172
+VIllusionary Mask
+p173
+aVIllusionary Servant
+p174
+aVIllusionary Armor
+p175
+aVIlluminate
+p176
+aVIllusion // Reality (Illusion)
+p177
+aVIllusion // Reality (Reality)
+p178
+aVIllusion // Reality (Illusion)
+p179
+aVIllusionary Mask
+p180
+aVIllusory Angel
+p181
+aVIlluminated Wings
+p182
+aVIllusionist's Gambit
+p183
+aVIllness in the Ranks
+p184
+aVIllusionist's Bracers
+p185
+aVIllusionary Mask
+p186
+aVIllusionary Forces
+p187
+aVIllusionary Presence
+p188
+aVIllusionary Terrain
+p189
+aVIllusionary Wall
+p190
+aVIllusions of Grandeur
+p191
+aVIllicit Auction
+p192
+aVIllusory Angel
+p193
+aVIlluminated Folio
+p194
+aVIll-Gotten Gains
+p195
+aVIllusionary Forces
+p196
+aVIllusionary Wall
+p197
+aVIllusions of Grandeur
+p198
+aVIll-Tempered Cyclops
+p199
+aVIll-Gotten Gains
+p200
+aVIllusory Demon
+p201
+aVIllumination
+p202
+aVIllicit Auction
+p203
+aVIllusionary Mask
+p204
+asS'toughs'
+p205
+(lp206
+S'N/A'
+p207
+aV4
+p208
+ag207
+ag207
+ag207
+ag207
+ag207
+ag207
+aV2
+p209
+ag207
+ag207
+ag207
+ag207
+ag207
+ag208
+aV3
+p210
+ag207
+aV1
+p211
+ag207
+ag207
+ag209
+ag207
+ag207
+ag209
+ag210
+ag207
+ag209
+ag207
+ag208
+ag207
+ag207
+ag207
+asS'artists'
+p212
+(lp213
+VAmy Weber
+p214
+aVDave Kendall
+p215
+aVMathias Kollros
+p216
+aVChristopher Moeller
+p217
+aVJohn Avon
+p218
+aVDavid Martin
+p219
+aS''
+p220
+aVScott Kirschner
+p221
+ag220
+aVJim Nelson
+p222
+aVZoltan Boros
+p223
+aVNils Hamm
+p224
+aVSvetlin Velinov
+p225
+aVAmy Weber
+p226
+aVJustin Hampton
+p227
+aVKaja Foglio
+p228
+aVRob Alexander
+p229
+aVMark Poole
+p230
+aVQuinton Hoover
+p231
+aVScott Kirschner
+p232
+aVAllen Williams
+p233
+aVJim Pavelec
+p234
+aVGreg Staples
+p235
+aVJustin Hampton
+p236
+aVMark Poole
+p237
+aVQuinton Hoover
+p238
+aVPeter Mohrbacher
+p239
+aVGreg Staples
+p240
+aVNils Hamm
+p241
+aVDavid O'Connor
+p242
+aVScott Kirschner
+p243
+aVAmy Weber
+p244
+asS'powers'
+p245
+(lp246
+g207
+ag209
+ag207
+ag207
+ag207
+ag207
+ag207
+ag207
+ag209
+ag207
+ag207
+ag207
+ag207
+ag207
+ag208
+ag210
+ag207
+ag211
+ag207
+ag207
+ag209
+ag207
+ag207
+ag211
+ag210
+ag207
+ag211
+ag207
+ag208
+ag207
+ag207
+ag207
+asS'types'
+p247
+(lp248
+VArtifact
+p249
+aVCreature - Illusion
+p250
+aVEnchantment - Aura
+p251
+aVSorcery
+p252
+aVInstant
+p253
+aVInstant
+p254
+aVInstant
+p255
+aVArtifact
+p256
+aVCreature - Angel Illusion
+p257
+aVEnchantment - Aura
+p258
+aVInstant
+p259
+aVEnchantment
+p260
+aVArtifact - Equipment
+p261
+aVArtifact
+p262
+aVCreature - Illusion
+p263
+aVCreature - Illusion
+p264
+aVEnchantment
+p265
+aVCreature - Illusion Wall
+p266
+aVEnchantment
+p267
+aVSorcery
+p268
+aVCreature - Angel Illusion
+p269
+aVArtifact
+p270
+aVSorcery
+p271
+aVCreature - Illusion
+p272
+aVCreature - Illusion Wall
+p273
+aVEnchantment
+p274
+aVCreature - Cyclops
+p275
+aVSorcery
+p276
+aVCreature - Demon Illusion
+p277
+aVInstant
+p278
+aVSorcery
+p279
+aVArtifact
+p280
+asS'numbers'
+p281
+(lp282
+V131
+p283
+aV57
+p284
+aV59
+p285
+aV63
+p286
+aV129
+p287
+aV129
+p288
+ag220
+aV197
+p289
+aV100
+p290
+aV34
+p291
+aV47
+p292
+aV69
+p293
+aV231
+p294
+ag209
+aV81
+p295
+aV82
+p296
+aV83
+p297
+aV84
+p298
+aV85
+p299
+aV190
+p300
+aV59
+p301
+aV254
+p302
+aV138
+p303
+aV38
+p304
+aV39
+p305
+aV40
+p306
+aV125
+p307
+aV114
+p308
+aV21
+p309
+aV176
+p310
+aV291
+p311
+aV177
+p312
+as.

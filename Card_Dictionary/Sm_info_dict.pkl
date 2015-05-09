@@ -1,0 +1,876 @@
+(dp0
+S'rares'
+p1
+(lp2
+VSpecial
+p3
+aVUncommon
+p4
+aVRare
+p5
+aVCommon
+p6
+aVRare
+p7
+aVCommon
+p8
+aVCommon
+p9
+aVRare
+p10
+aVCommon
+p11
+aVRare
+p12
+aVUncommon
+p13
+aVCommon
+p14
+aVUncommon
+p15
+aVMythic Rare
+p16
+aVCommon
+p17
+aVCommon
+p18
+aVUncommon
+p19
+aVCommon
+p20
+aVUncommon
+p21
+aVRare
+p22
+aVCommon
+p23
+aVCommon
+p24
+aVCommon
+p25
+aVCommon
+p26
+aVCommon
+p27
+aVRare
+p28
+aVCommon
+p29
+aVUncommon
+p30
+aVCommon
+p31
+aVUncommon
+p32
+aVUncommon
+p33
+aVRare
+p34
+aVCommon
+p35
+aVCommon
+p36
+aVCommon
+p37
+aVRare
+p38
+aVCommon
+p39
+aVRare
+p40
+aVCommon
+p41
+aVCommon
+p42
+aVCommon
+p43
+aVCommon
+p44
+asS'editns'
+p45
+(lp46
+VAnthologies
+p47
+aVMagic 2012
+p48
+aVLimited Edition Beta
+p49
+aVMagic 2013
+p50
+aVFourth Edition
+p51
+aVMagic 2014 Core Set
+p52
+aVTenth Edition
+p53
+aVVintage Masters
+p54
+aVApocalypse
+p55
+aVRevised Edition
+p56
+aVGuildpact
+p57
+aVEventide
+p58
+aVOnslaught
+p59
+aVFrom the Vault: Annihilation (2014)
+p60
+aVRavnica: City of Guilds
+p61
+aVCommander 2013 Edition
+p62
+aVTime Spiral
+p63
+aVGatecrash
+p64
+aVGatecrash
+p65
+aVUnlimited Edition
+p66
+aVRise of the Eldrazi
+p67
+aVShadowmoor
+p68
+aVShadowmoor
+p69
+aVPlanechase
+p70
+aVLegions
+p71
+aVUrza's Saga
+p72
+aVUrza's Saga
+p73
+aVMagic: The Gathering\u2014Conspiracy
+p74
+aVWorldwake
+p75
+aVWorldwake
+p76
+aVInvasion
+p77
+aVFifth Edition
+p78
+aVKhans of Tarkir
+p79
+aVKhans of Tarkir
+p80
+aVInnistrad
+p81
+aVLimited Edition Alpha
+p82
+aVBeatdown Box Set
+p83
+aVMasters Edition IV
+p84
+aVDragon's Maze
+p85
+aVStronghold
+p86
+aVLorwyn
+p87
+aVDuel Decks: Heroes vs. Monsters
+p88
+asS'ids'
+p89
+(lp90
+V-2146729963
+p91
+aV237010
+p92
+aV518
+p93
+aV249691
+p94
+aV2305
+p95
+aV370784
+p96
+aV130532
+p97
+aV383100
+p98
+aV29605
+p99
+aV1319
+p100
+aV96932
+p101
+aV157211
+p102
+aV41023
+p103
+aV386294
+p104
+aV83646
+p105
+aV376507
+p106
+aV113531
+p107
+aV366456
+p108
+aV366257
+p109
+aV820
+p110
+aV193595
+p111
+aV147376
+p112
+aV158243
+p113
+aV205398
+p114
+aV43714
+p115
+aV5730
+p116
+aV5804
+p117
+aV382367
+p118
+aV197785
+p119
+aV191578
+p120
+aV23179
+p121
+aV4089
+p122
+aV386669
+p123
+aV386670
+p124
+aV220377
+p125
+aV223
+p126
+aV26635
+p127
+aV233306
+p128
+aV369067
+p129
+aV5234
+p130
+aV139465
+p131
+aV373372
+p132
+asS'texts'
+p133
+(lp134
+V{T}: Cuombajj Witches deals 1 damage to target creature or player and 1 damage to target creature or player of an opponent's choice.
+p135
+aVTarget creature gains protection from the color of your choice until end of turn. <i>(It can't be blocked, targeted, dealt damage, or enchanted by anything of that color.)</i>
+p136
+aVTake an extra turn after this one.
+p137
+aVAs an additional cost to cast Wild Guess, discard a card.<br>Draw two cards.
+p138
+aVWhenever Thicket Basilisk blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.
+p139
+aVSliver creatures you control get +0/+1.
+p140
+aVFirst strike <i>(This creature deals combat damage before creatures without first strike.)</i><br>When Ancestor's Chosen enters the battlefield, you gain 1 life for each card in your graveyard.
+p141
+aVSpark Spray deals 1 damage to target creature or player.<br>Cycling {R} <i>({R}, Discard this card: Draw a card.)</i>
+p142
+aVDestroy target artifact.<br>Draw a card.
+p143
+aVDestroy all enchantments.
+p144
+aV<i>({R/G} can be paid with either {R} or {G}.)</i><br>Sacrifice Wild Cantor: Add one mana of any color to your mana pool.
+p145
+aVWither <i>(This deals damage to creatures in the form of -1/-1 counters.)</i>
+p146
+aVDestroy target creature with converted mana cost 3 or less. It can't be regenerated.
+p147
+aVAt the beginning of your upkeep, you may put a soot counter on Smokestack.<br>At the beginning of each player's upkeep, that player sacrifices a permanent for each soot counter on Smokestack.
+p148
+aVB
+p149
+aVSmoldering Crater enters the battlefield tapped.<br>{T}: Add {R} to your mana pool.<br>Cycling {2} <i>({2}, Discard this card: Draw a card.)</i>
+p150
+aVEach player loses 1 life, discards a card, sacrifices a creature, then sacrifices a land.
+p151
+aVEnchant creature<br>You control enchanted creature.<br>Discard two cards: Soul Ransom's controller sacrifices it, then draws two cards. Only any opponent may activate this ability.
+p152
+aVTrample, lifelink, haste<br>At the beginning of the end step, sacrifice Spark Trooper.
+p153
+aVEach player shuffles his or her hand and graveyard into his or her library, then draws seven cards. <i>(Then put Timetwister into its owner's graveyard.)</i>
+p154
+aVFirst strike<br>Soulsurge Elemental's power is equal to the number of creatures you control.
+p155
+aVChoose one- Target player discards two cards; or target player reveals his or her hand, you choose a card from it, then that player discards that card.
+p156
+aVDraw two cards, then discard a card.<br>Conspire <i>(As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it.)</i>
+p157
+aV{T}: Add two mana in any combination of colors to your mana pool. Spend this mana only to cast Elemental spells or activate abilities of Elementals.
+p158
+aV{7}{B}: Target creature gets -3/-3 until end of turn.
+p159
+aVAt the beginning of your upkeep, you may put a soot counter on Smokestack.<br>At the beginning of each player's upkeep, that player sacrifices a permanent for each soot counter on Smokestack.
+p160
+aVSteam Blast deals 2 damage to each creature and each player.
+p161
+aVWill of the council- Choose target instant or sorcery spell. Starting with you, each player votes for denial or duplication. If denial gets more votes, counter the spell. If duplication gets more votes or the vote is tied, copy the spell. You may choose new targets for the copy.
+p162
+aVLandfall- Whenever a land enters the battlefield under your control, Snapping Creeper gains vigilance until end of turn.
+p163
+aVMultikicker {1}{U} <i>(You may pay an additional {1}{U} any number of times as you cast this spell.)</i><br>Counter target spell unless its controller pays {2}. Draw a card for each time Spell Contortion was kicked.
+p164
+aVAt the beginning of your upkeep, target player loses 1 life.<br>Sacrifice Smoldering Tar: Smoldering Tar deals 4 damage to target creature. Activate this ability only any time you could cast a sorcery.
+p165
+ag149
+aVTrample<br>Morph {2}{G}{U}{R} <i>(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p166
+aV+1: Until your next turn, creatures you control get +1/+0 and gain lifelink.<br>\u22122: Put a 2/2 black Vampire creature token with flying onto the battlefield.<br>\u22126: You get an emblem with "At the beginning of each opponent's upkeep, that player sacrifices a creature."
+p167
+aVEnchant creature<br>Enchanted creature gets +2/+2 and has flying.
+p168
+aV{R}: Regenerate Uthden Troll.
+p169
+aVSmoldering Crater enters the battlefield tapped.<br>{T}: Add {R} to your mana pool.<br>Cycling {2} <i>({2}, Discard this card: Draw a card.)</i>
+p170
+aV{T}: Add {1} to your mana pool.<br><br>{T}, Sacrifice Strip Mine: Destroy target land.
+p171
+aVHaste
+p172
+aVDestroy target blocked creature.
+p173
+aV{T}: Add two mana in any combination of colors to your mana pool. Spend this mana only to cast Elemental spells or activate abilities of Elementals.
+p174
+aVDestroy target creature with power 4 or greater.
+p175
+asS'costs'
+p176
+(lp177
+S'0'
+p178
+aV{4}{W}
+p179
+aV{R}{R}
+p180
+aV{R}{R}
+p181
+aV{R}{R}
+p182
+aV{1}{W}
+p183
+aV{2}{R}
+p184
+aV{1}
+p185
+aV{2}{R}
+p186
+aV{R}{R}
+p187
+aV{2}{B}{B}
+p188
+aV{3}{B}
+p189
+aV{1}{B}
+p190
+aV{4}
+p191
+aV{2}{R}
+p192
+ag178
+aV{B}{B}
+p193
+aV{2}{B}
+p194
+aV{2}{G}
+p195
+aV{R}{R}
+p196
+aV{7}
+p197
+aV{B}
+p198
+aV{1}{R}
+p199
+aV{1}{R}
+p200
+aV{2}{B}
+p201
+aV{4}
+p202
+ag178
+aV{1}{W}{U}
+p203
+ag178
+aV{3}{G}
+p204
+aV{2}{B}{R}
+p205
+aV{R}{R}
+p206
+aV{1}{U}
+p207
+aV{3}{W}
+p208
+aV{1}{B}
+p209
+aV{R}{R}
+p210
+ag178
+aV{R}{R}
+p211
+aV{1}{G}
+p212
+aV{W}
+p213
+aV{1}{R}
+p214
+aV{3}{W}
+p215
+asS'names'
+p216
+(lp217
+VSmoldering Crater
+p218
+aVSmallpox
+p219
+aVSmoke
+p220
+aVSmelt
+p221
+aVSmoke
+p222
+aVSmelt
+p223
+aVSmash
+p224
+aVSmokestack
+p225
+aVSmash
+p226
+aVSmoke
+p227
+aVSmogsteed Rider
+p228
+aVSmoldering Butcher
+p229
+aVSmother
+p230
+aVSmokestack
+p231
+aVSmash
+p232
+aVSmoldering Crater
+p233
+aVSmallpox
+p234
+aVSmite
+p235
+aVSmog Elemental
+p236
+aVSmoke
+p237
+aVSmite
+p238
+aVSmolder Initiate
+p239
+aVSmash to Smithereens
+p240
+aVSmokebraider
+p241
+aVSmokespew Invoker
+p242
+aVSmokestack
+p243
+aVSmoldering Crater
+p244
+aVSmallpox
+p245
+aVSmoldering Spires
+p246
+aVSmother
+p247
+aVSmoldering Tar
+p248
+aVSmoke
+p249
+aVSmite the Monstrous
+p250
+aVSmoke Teller
+p251
+aVSmite the Monstrous
+p252
+aVSmoke
+p253
+aVSmoldering Crater
+p254
+aVSmoke
+p255
+aVSmelt-Ward Gatekeepers
+p256
+aVSmite
+p257
+aVSmokebraider
+p258
+aVSmite the Monstrous
+p259
+asS'toughs'
+p260
+(lp261
+S'N/A'
+p262
+ag262
+ag262
+ag262
+ag262
+ag262
+ag262
+ag262
+ag262
+ag262
+aV2
+p263
+ag263
+ag262
+ag262
+ag262
+ag262
+ag262
+ag262
+aV1
+p264
+ag262
+ag262
+ag263
+ag262
+aV4
+p265
+ag264
+ag262
+ag262
+ag262
+ag262
+ag262
+ag262
+ag262
+ag262
+aV5
+p266
+ag262
+ag262
+ag262
+ag262
+ag263
+ag262
+ag264
+ag262
+asS'artists'
+p267
+(lp268
+VMark Tedin
+p269
+aS''
+p270
+aVJesper Myrfors
+p271
+aVZoltan Boros
+p272
+aVJesper Myrfors
+p273
+aVZoltan Boros
+p274
+aVParente
+p275
+aVDaniel Ljunggren
+p276
+aVPete Venters
+p277
+aVJesper Myrfors
+p278
+aVAlex Horley-Orlandelli
+p279
+aVZoltan Boros & Gabor Szikszai
+p280
+aVCarl Critchlow
+p281
+aVDaniel Ljunggren
+p282
+aVPaolo Parente
+p283
+aVMark Tedin
+p284
+aVJanine Johnston
+p285
+aVDaren Bader
+p286
+aVYeong-Hao Han
+p287
+aVJesper Myrfors
+p288
+aVCyril Van Der Haegen
+p289
+aVChippy
+p290
+aVPete Venters
+p291
+aVAnthony S. Waters
+p292
+aVThomas M. Baxa
+p293
+aVScott Kirschner
+p294
+aVMark Tedin
+p295
+aVRyan Pancoast
+p296
+aVRob Alexander
+p297
+aVKarl Kopinski
+p298
+aVDavid Day
+p299
+aVTom Kyffin
+p300
+aVGreg Staples
+p301
+aVMin Yum
+p302
+aVJason Felix
+p303
+aVJesper Myrfors
+p304
+aVMark Tedin
+p305
+aVJesper Myrfors
+p306
+aVDaarken
+p307
+aVDaren Bader
+p308
+aVAnthony S. Waters
+p309
+aVJason Felix
+p310
+asS'powers'
+p311
+(lp312
+g262
+ag262
+ag262
+ag262
+ag262
+ag262
+ag262
+ag262
+ag262
+ag262
+ag263
+ag265
+ag262
+ag262
+ag262
+ag262
+ag262
+ag262
+ag263
+ag262
+ag262
+aV3
+p313
+ag262
+ag265
+ag313
+ag262
+ag262
+ag262
+ag262
+ag262
+ag262
+ag262
+ag262
+ag263
+ag262
+ag262
+ag262
+ag262
+ag263
+ag262
+ag264
+ag262
+asS'types'
+p314
+(lp315
+VLand
+p316
+aVSorcery
+p317
+aVEnchantment
+p318
+aVInstant
+p319
+aVEnchantment
+p320
+aVInstant
+p321
+aVInstant
+p322
+aVArtifact
+p323
+aVInstant
+p324
+aVEnchantment
+p325
+aVCreature - Human Wizard
+p326
+aVCreature - Elemental Warrior
+p327
+aVInstant
+p328
+aVArtifact
+p329
+aVInstant
+p330
+aVLand
+p331
+aVSorcery
+p332
+aVInstant
+p333
+aVCreature - Elemental
+p334
+aVEnchantment
+p335
+aVInstant
+p336
+aVCreature - Elemental Shaman
+p337
+aVInstant
+p338
+aVCreature - Elemental Shaman
+p339
+aVCreature - Zombie Mutant
+p340
+aVArtifact
+p341
+aVLand
+p342
+aVSorcery
+p343
+aVLand
+p344
+aVInstant
+p345
+aVEnchantment
+p346
+aVEnchantment
+p347
+aVInstant
+p348
+aVCreature - Human Shaman
+p349
+aVInstant
+p350
+aVEnchantment
+p351
+aVLand
+p352
+aVEnchantment
+p353
+aVCreature - Human Warrior
+p354
+aVInstant
+p355
+aVCreature - Elemental Shaman
+p356
+aVInstant
+p357
+asS'numbers'
+p358
+(lp359
+V21
+p360
+aV108
+p361
+aV241
+p362
+aV149
+p363
+aV329
+p364
+aV156
+p365
+aV235
+p366
+aV282
+p367
+aV69
+p368
+aV251
+p369
+aV63
+p370
+aV42
+p371
+aV170
+p372
+aV11
+p373
+aV143
+p374
+aV325
+p375
+aV131
+p376
+aVx
+p377
+aV79
+p378
+aV242
+p379
+aV43
+p380
+aV78
+p381
+aV107
+p382
+aV66
+p383
+aV81
+p384
+aV309
+p385
+aV328
+p386
+aV125
+p387
+aV143
+p388
+aV68
+p389
+aV275
+p390
+aV392
+p391
+aV24
+p392
+aV151
+p393
+aV33
+p394
+aV46
+p395
+aV10
+p396
+aV137
+p397
+aV39
+p398
+aV82
+p399
+aV189
+p400
+aV29
+p401
+as.

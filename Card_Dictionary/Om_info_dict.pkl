@@ -1,0 +1,220 @@
+(dp0
+S'rares'
+p1
+(lp2
+VMythic Rare
+p3
+aVMythic Rare
+p4
+aVRare
+p5
+aVCommon
+p6
+aVRare
+p7
+aVCommon
+p8
+aVMythic Rare
+p9
+aVRare
+p10
+aVCommon
+p11
+asS'editns'
+p12
+(lp13
+VMagic 2013
+p14
+aVFrom the Vault: Legends
+p15
+aVAlliances
+p16
+aVMirrodin
+p17
+aVNew Phyrexia
+p18
+aVTheros
+p19
+aVWorldwake
+p20
+aVDissension
+p21
+aVPortal
+p22
+asS'ids'
+p23
+(lp24
+V288937
+p25
+aV259295
+p26
+aV3177
+p27
+aV48605
+p28
+aV233042
+p29
+aV373693
+p30
+aV197759
+p31
+aV83737
+p32
+aV4269
+p33
+asS'texts'
+p34
+(lp35
+VTap all creatures target player controls. Those creatures don't untap during that player's next untap step.
+p36
+aVGreen mana doesn't empty from your mana pool as steps and phases end.<br>Omnath, Locus of Mana gets +1/+1 for each green mana in your mana pool.
+p37
+aVAs an additional cost to cast Primitive Justice, you may pay {1}{R} and/or {1}{G} any number of times.<br>Destroy target artifact. For each additional {1}{R} you paid, destroy another target artifact. For each additional {1}{G} you paid, destroy another target artifact, and you gain 1 life.
+p38
+aVDefender <i>(This creature can't attack.)</i>
+p39
+aV{BP}: Pestilent Souleater gains infect until end of turn. <i>({BP} can be paid with either {B} or 2 life. A creature with infect deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</i>
+p40
+aVEnchant creature<br>Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Nylea.<br>When you sacrifice Ordeal of Nylea, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+p41
+aVIf an opponent had a green creature enter the battlefield under his or her control this turn, you may pay {U} rather than pay Permafrost Trap's mana cost.<br>Tap up to two target creatures. Those creatures don't untap during their controller's next untap step.
+p42
+aV{T}: Target creature becomes a 3/3 Frog until end of turn.
+p43
+aVSearch your library for a sorcery card and reveal that card. Shuffle your library, then put the card on top of it.
+p44
+asS'costs'
+p45
+(lp46
+V{1}{U}
+p47
+aV{2}{G}
+p48
+aV{3}{R}{R}
+p49
+aV{2}
+p50
+aV{3}{R}
+p51
+aV{1}{G}
+p52
+aV{3}{G}{G}{W}{W}
+p53
+aV{1}{G}{G}{U}
+p54
+aV{1}{U}
+p55
+asS'names'
+p56
+(lp57
+VOmniscience
+p58
+aVOmnath, Locus of Mana
+p59
+aVOmen of Fire
+p60
+aVOmega Myr
+p61
+aVOmen Machine
+p62
+aVOmenspeaker
+p63
+aVOmnath, Locus of Mana
+p64
+aVOmnibian
+p65
+aVOmen
+p66
+asS'toughs'
+p67
+(lp68
+S'N/A'
+p69
+aV1
+p70
+ag69
+ag69
+ag69
+aV5
+p71
+ag70
+aV3
+p72
+ag69
+asS'artists'
+p73
+(lp74
+VJason Chan
+p75
+aVMike Bierek
+p76
+aVPete Venters
+p77
+aVDany Orizio
+p78
+aS''
+p79
+aVDallas Williams
+p80
+aVMike Bierek
+p81
+aVJim Nelson
+p82
+aVEric Peterson
+p83
+asS'powers'
+p84
+(lp85
+g69
+ag70
+ag69
+ag69
+ag69
+aV2
+p86
+ag71
+ag72
+ag69
+asS'types'
+p87
+(lp88
+VEnchantment
+p89
+aVLegendary Creature - Elemental
+p90
+aVInstant
+p91
+aVArtifact Creature - Myr
+p92
+aVArtifact
+p93
+aVCreature - Human Wizard
+p94
+aVLegendary Creature - Elemental
+p95
+aVCreature - Frog
+p96
+aVSorcery
+p97
+asS'numbers'
+p98
+(lp99
+V63
+p100
+aV7
+p101
+aV82
+p102
+aV223
+p103
+aV148
+p104
+aV57
+p105
+aV109
+p106
+aV119
+p107
+aV37
+p108
+as.

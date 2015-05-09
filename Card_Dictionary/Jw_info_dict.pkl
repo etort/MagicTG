@@ -1,0 +1,156 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVUncommon
+p4
+aVUncommon
+p5
+aVUncommon
+p6
+aVCommon
+p7
+aVRare
+p8
+asS'editns'
+p9
+(lp10
+VMagic: The Gathering-Commander
+p11
+aVPlanechase 2012 Edition
+p12
+aVCommander 2013 Edition
+p13
+aVZendikar
+p14
+aVRise of the Eldrazi
+p15
+aVWorldwake
+p16
+asS'ids'
+p17
+(lp18
+V247548
+p19
+aV271132
+p20
+aV376386
+p21
+aV189627
+p22
+aV193470
+p23
+aV198390
+p24
+asS'texts'
+p25
+(lp26
+VJwar Isle Refuge enters the battlefield tapped.<br>When Jwar Isle Refuge enters the battlefield, you gain 1 life.<br>{T}: Add {U} or {B} to your mana pool.
+p27
+aVFlying<br>{B}: Regenerate Kathari Remnant.<br>Cascade <i>(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</i>
+p28
+aVJwar Isle Refuge enters the battlefield tapped.<br>When Jwar Isle Refuge enters the battlefield, you gain 1 life.<br>{T}: Add {U} or {B} to your mana pool.
+p29
+aVJwar Isle Refuge enters the battlefield tapped.<br>When Jwar Isle Refuge enters the battlefield, you gain 1 life.<br>{T}: Add {U} or {B} to your mana pool.
+p30
+aVLevel up {R} <i>({R}: Put a level counter on this. Level up only as a sorcery.)</i><br>LEVEL 4-7<br>4/4<br>Flying<br>LEVEL 8+<br>8/8<br>Flying, trample<br>{R}: Kargan Dragonlord gets +1/+0 until end of turn.
+p31
+aVWhenever Kalastria Highborn or another Vampire you control dies, you may pay {B}. If you do, target player loses 2 life and you gain 2 life.
+p32
+asS'costs'
+p33
+(lp34
+S'0'
+p35
+ag35
+ag35
+ag35
+aV{G}
+p36
+aV{G}
+p37
+asS'names'
+p38
+(lp39
+VJwar Isle Refuge
+p40
+aVJwar Isle Refuge
+p41
+aVJwar Isle Refuge
+p42
+aVJwar Isle Refuge
+p43
+aVJwari Scuttler
+p44
+aVJwari Shapeshifter
+p45
+asS'toughs'
+p46
+(lp47
+S'N/A'
+p48
+ag48
+ag48
+ag48
+aV8
+p49
+aV2
+p50
+asS'artists'
+p51
+(lp52
+VCyril Van Der Haegen
+p53
+aS''
+p54
+aVCyril Van Der Haegen
+p55
+aVCyril Van Der Haegen
+p56
+aVAndrew Robinson
+p57
+aVKev Walker
+p58
+asS'powers'
+p59
+(lp60
+g48
+ag48
+ag48
+ag48
+aV1
+p61
+ag61
+asS'types'
+p62
+(lp63
+VLand
+p64
+aVLand
+p65
+aVLand
+p66
+aVLand
+p67
+aVCreature - Crab
+p68
+aVCreature - Shapeshifter Ally
+p69
+asS'numbers'
+p70
+(lp71
+V279
+p72
+aV105
+p73
+aV300
+p74
+aV215
+p75
+aV73
+p76
+aV32
+p77
+as.

@@ -1,0 +1,137 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVRare
+p4
+aVRare
+p5
+aVRare
+p6
+aVRare
+p7
+asS'editns'
+p8
+(lp9
+VMasters Edition III
+p10
+aVMasters Edition III
+p11
+aVChronicles
+p12
+aVLegends
+p13
+aVPortal Three Kingdoms
+p14
+asS'ids'
+p15
+(lp16
+V201164
+p17
+aV201208
+p18
+aV2885
+p19
+aV1697
+p20
+aV10590
+p21
+asS'texts'
+p22
+(lp23
+S''
+p24
+ag24
+ag24
+aV{B}{R}{G}, {T}: Return target creature card from your graveyard to your hand.
+p25
+aVPut target card from your graveyard on top of your library.
+p26
+asS'costs'
+p27
+(lp28
+V{2}{B}{B}
+p29
+aV{B}{R}{G}
+p30
+aV{B}{R}{G}
+p31
+aV{B}{R}{G}
+p32
+aV{2}{B}{B}
+p33
+asS'names'
+p34
+(lp35
+VXiahou Dun, the One-Eyed
+p36
+aVXira Arien
+p37
+aVXira Arien
+p38
+aVXira Arien
+p39
+aVXiahou Dun, the One-Eyed
+p40
+asS'toughs'
+p41
+(lp42
+V3
+p43
+aV2
+p44
+aV6
+p45
+aV7
+p46
+ag44
+asS'artists'
+p47
+(lp48
+VMelissa A. Benson
+p49
+aVLi Youliang
+p50
+aVMelissa Benson
+p51
+aVMelissa Benson
+p52
+aVJunko Taguchi
+p53
+asS'powers'
+p54
+(lp55
+g43
+ag43
+ag44
+ag46
+ag43
+asS'types'
+p56
+(lp57
+VLegendary Creature - Human Soldier
+p58
+aVLegendary Creature - Insect Wizard
+p59
+aVLegendary Creature - Insect Wizard
+p60
+aVLegendary Creature - Insect Wizard
+p61
+aVLegendary Creature - Human Soldier
+p62
+asS'numbers'
+p63
+(lp64
+V83
+p65
+aV187
+p66
+aV124
+p67
+aV171
+p68
+aV92
+p69
+as.

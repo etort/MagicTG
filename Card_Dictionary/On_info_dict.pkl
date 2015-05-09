@@ -1,0 +1,520 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVUncommon
+p4
+aVUncommon
+p5
+aVRare
+p6
+aVRare
+p7
+aVUncommon
+p8
+aVRare
+p9
+aVCommon
+p10
+aVCommon
+p11
+aVUncommon
+p12
+aVUncommon
+p13
+aVUncommon
+p14
+aVCommon
+p15
+aVUncommon
+p16
+aVCommon
+p17
+aVUncommon
+p18
+aVCommon
+p19
+aVCommon
+p20
+aVUncommon
+p21
+aVCommon
+p22
+aVCommon
+p23
+aVSpecial
+p24
+aVCommon
+p25
+aVCommon
+p26
+asS'editns'
+p27
+(lp28
+VMagic: The Gathering-Commander
+p29
+aVMagic 2012
+p30
+aVSaviors of Kamigawa
+p31
+aVSaviors of Kamigawa
+p32
+aVFourth Edition
+p33
+aVAntiquities
+p34
+aVRevised Edition
+p35
+aVPlanechase 2012 Edition
+p36
+aVPlanechase 2012 Edition
+p37
+aVChampions of Kamigawa
+p38
+aVCommander 2013 Edition
+p39
+aVGatecrash
+p40
+aVExodus
+p41
+aVIce Age
+p42
+aVZendikar
+p43
+aVMirrodin
+p44
+aVShards of Alara
+p45
+aVRise of the Eldrazi
+p46
+aVScourge
+p47
+aVMasters Edition
+p48
+aVArchenemy
+p49
+aVVanguard
+p50
+aVInnistrad
+p51
+aVMasters Edition IV
+p52
+asS'ids'
+p53
+(lp54
+V247411
+p55
+aV220072
+p56
+aV74048
+p57
+aV88817
+p58
+aV2063
+p59
+aV1015
+p60
+aV1130
+p61
+aV226513
+p62
+aV271153
+p63
+aV50394
+p64
+aV376437
+p65
+aV366261
+p66
+aV6115
+p67
+aV2417
+p68
+aV192210
+p69
+aV48385
+p70
+aV174831
+p71
+aV194929
+p72
+aV43543
+p73
+aV159116
+p74
+aV212622
+p75
+aV182253
+p76
+aV220045
+p77
+aV221104
+p78
+asS'texts'
+p79
+(lp80
+VHaste<br>At the beginning of your upkeep, return a red creature you control to its owner's hand.
+p81
+aVWhen Phantasmal Bear becomes the target of a spell or ability, sacrifice it.
+p82
+aVHaste<br>At the beginning of your upkeep, return a red creature you control to its owner's hand.
+p83
+aVDiscard your hand.
+p84
+aVWhen Onulet dies, you gain 2 life.
+p85
+aVWhen Onulet dies, you gain 2 life.
+p86
+aVCounter target spell unless its controller pays {X}. If he or she doesn't, that player taps all lands with mana abilities he or she controls and empties his or her mana pool.
+p87
+aVAll creatures are black and have deathtouch.<br>Whenever you roll chaos, creatures you control get +1/+0 and gain first strike until end of turn.
+p88
+aVCreatures you control get +3/+3 and gain trample until end of turn.
+p89
+aV{1}: Look at the top three cards of your library, then put them back in any order.<br>{T}: Draw a card, then put Sensei's Divining Top on top of its owner's library.
+p90
+aVChoose one- Put a 5/5 green Beast creature token onto the battlefield; or put five 1/1 green Insect creature tokens onto the battlefield.<br>Entwine {G}{G}{G} <i>(Choose both if you pay the entwine cost.)</i>
+p91
+aV{1}{G}, Remove one or more +1/+1 counters from among creatures you control: Put an X/X green Ooze creature token onto the battlefield, where X is the number of +1/+1 counters removed this way.
+p92
+aVWhenever you cast a creature spell, tap target creature.
+p93
+aVWhenever a player casts a black spell, you may pay {3}. If you do, untap target permanent.
+p94
+aVYou may play an additional land on each of your turns.<br>Play with the top card of your library revealed.<br>You may play the top card of your library if it's a land card.
+p95
+aVChoose one- Put a 5/5 green Beast creature token onto the battlefield; or put five 1/1 green Insect creature tokens onto the battlefield.<br>Entwine {G}{G}{G} <i>(Choose both if you pay the entwine cost.)</i>
+p96
+aV{4}{W}, {T}, Sacrifice Protomatter Powder: Return target artifact card from your graveyard to the battlefield.
+p97
+aVWhenever Pawn of Ulamog or another nontoken creature you control dies, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."
+p98
+aVEnchant creature<br>Whenever enchanted creature deals combat damage to a player, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
+p99
+aVWhen Onulet dies, you gain 2 life.
+p100
+aVWhen you set this scheme in motion, each opponent sacrifices a creature. Then each opponent who didn't sacrifice a creature discards two cards.
+p101
+aVCreatures you control have haste.<br>At the beginning of your upkeep, return a creature you control to its owner's hand.
+p102
+aVIf an effect would put one or more tokens onto the battlefield under your control, it puts twice that many of those tokens onto the battlefield instead.
+p103
+aV{0}: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Any player may activate this ability, but only if he or she owns Personal Incarnation.<br>When Personal Incarnation dies, its owner loses half his or her life, rounded up.
+p104
+asS'costs'
+p105
+(lp106
+V{3}
+p107
+aV{4}{U}{U}
+p108
+aV{5}{R}
+p109
+aV{B}
+p110
+aV{3}
+p111
+aV{3}
+p112
+aV{3}
+p113
+aS'0'
+p114
+aV{3}{G}
+p115
+aV{2}{B}
+p116
+aV{5}{G}
+p117
+aV{1}{W}{W}{B}{B}
+p118
+aV{R}
+p119
+aV{2}
+p120
+aV{3}{B}{B}
+p121
+aV{5}{G}
+p122
+aV{2}{B}
+p123
+aV{2}
+p124
+aV{G}
+p125
+aV{3}
+p126
+ag114
+ag114
+aV{1}{R}
+p127
+aV{3}
+p128
+asS'names'
+p129
+(lp130
+VOni of Wild Places
+p131
+aVOnyx Mage
+p132
+aVOni of Wild Places
+p133
+aVOne with Nothing
+p134
+aVOnulet
+p135
+aVOnulet
+p136
+aVOnulet
+p137
+aVOnakke Catacomb
+p138
+aVOndu Giant
+p139
+aVOni Possession
+p140
+aVOne Dozen Eyes
+p141
+aVOne Thousand Lashes
+p142
+aVOnslaught
+p143
+aVOnyx Talisman
+p144
+aVOndu Cleric
+p145
+aVOne Dozen Eyes
+p146
+aVOnyx Goblet
+p147
+aVOndu Giant
+p148
+aVOne with Nature
+p149
+aVOnulet
+p150
+aVOnly Blood Ends Your Nightmares
+p151
+aVOni of Wild Places Avatar
+p152
+aVOne-Eyed Scarecrow
+p153
+aVOnulet
+p154
+asS'toughs'
+p155
+(lp156
+V5
+p157
+aV2
+p158
+ag157
+aS'N/A'
+p159
+ag159
+ag159
+ag159
+ag159
+aV1
+p160
+ag159
+ag159
+ag159
+ag159
+ag159
+ag158
+ag159
+ag159
+ag160
+ag159
+ag159
+ag159
+ag159
+ag159
+ag159
+asS'artists'
+p161
+(lp162
+VMark Tedin
+p163
+aS''
+p164
+aVMark Tedin
+p165
+aVJim Nelson
+p166
+aVAnson Maddocks
+p167
+aVAnson Maddocks
+p168
+aVKerstin Kaman
+p169
+aVJim Nelson
+p170
+ag164
+aVAleksi Briclot
+p171
+aVDarrell Riche
+p172
+aVDaarken
+p173
+aVPaolo Parente
+p174
+aVSandra Everingham
+p175
+aVJim Murray
+p176
+aVDarrell Riche
+p177
+aVrk post
+p178
+aVIgor Kieryluk
+p179
+aVDaren Bader
+p180
+aVAnson Maddocks
+p181
+aVPaul Bonner
+p182
+aVUDON
+p183
+aVDave Kendall
+p184
+aVAnson Maddocks
+p185
+asS'powers'
+p186
+(lp187
+V6
+p188
+aV0
+p189
+ag188
+ag159
+ag159
+ag159
+ag159
+ag159
+ag158
+ag159
+ag159
+ag159
+ag159
+ag159
+aV4
+p190
+ag159
+ag159
+aV3
+p191
+ag159
+ag159
+ag159
+ag159
+ag159
+ag159
+asS'types'
+p192
+(lp193
+VCreature - Demon Spirit
+p194
+aVCreature - Human Wizard
+p195
+aVCreature - Demon Spirit
+p196
+aVInstant
+p197
+aVArtifact Creature - Construct
+p198
+aVArtifact Creature - Construct
+p199
+aVArtifact Creature - Construct
+p200
+aVPlane - Shandalar
+p201
+aVCreature - Giant Druid
+p202
+aVEnchantment - Aura
+p203
+aVSorcery
+p204
+aVEnchantment - Aura
+p205
+aVEnchantment
+p206
+aVArtifact
+p207
+aVCreature - Kor Cleric Ally
+p208
+aVSorcery
+p209
+aVArtifact
+p210
+aVCreature - Giant Druid
+p211
+aVEnchantment - Aura
+p212
+aVArtifact Creature - Construct
+p213
+aVScheme
+p214
+aVVanguard
+p215
+aVArtifact Creature - Scarecrow
+p216
+aVArtifact Creature - Construct
+p217
+asS'numbers'
+p218
+(lp219
+V130
+p220
+aV103
+p221
+aV108
+p222
+aV84
+p223
+aV32
+p224
+aV68
+p225
+aV203
+p226
+aV24
+p227
+aV129
+p228
+aV135
+p229
+aV159
+p230
+aV183
+p231
+aV92
+p232
+aV20
+p233
+aV30
+p234
+aV126
+p235
+aV81
+p236
+aV202
+p237
+aV125
+p238
+aV161
+p239
+aV34
+p240
+aV50
+p241
+aV230
+p242
+aV219
+p243
+as.

@@ -1,0 +1,116 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVRare
+p4
+aVUncommon
+p5
+aVRare
+p6
+asS'editns'
+p7
+(lp8
+VSaviors of Kamigawa
+p9
+aVMorningtide
+p10
+aVEventide
+p11
+aVAlara Reborn
+p12
+asS'ids'
+p13
+(lp14
+V88789
+p15
+aV152938
+p16
+aV157412
+p17
+aV175109
+p18
+asS'texts'
+p19
+(lp20
+VDraw three cards. Discard three cards at the beginning of the next end step.
+p21
+aVSearch your library for an enchantment card, reveal it, and put it into your hand. Then shuffle your library.
+p22
+aV{2}: Draw a card if you have no cards in hand.
+p23
+aVHaste<br>Swampcycling {2}, mountaincycling {2} <i>({2}, Discard this card: Search your library for a Swamp or Mountain card, reveal it, and put it into your hand. Then shuffle your library.)</i>
+p24
+asS'costs'
+p25
+(lp26
+V{U}{U}
+p27
+aV{2}{W}
+p28
+aV{3}{U}
+p29
+aV{2}{W}{W}{B}{B}
+p30
+asS'names'
+p31
+(lp32
+VIdeas Unbound
+p33
+aVIdyllic Tutor
+p34
+aVIdle Thoughts
+p35
+aVIdentity Crisis
+p36
+asS'toughs'
+p37
+(lp38
+S'N/A'
+p39
+ag39
+ag39
+ag39
+asS'artists'
+p40
+(lp41
+VMark Tedin
+p42
+aVHoward Lyon
+p43
+aVSteven Belledin
+p44
+aVThomas M. Baxa
+p45
+asS'powers'
+p46
+(lp47
+g39
+ag39
+ag39
+ag39
+asS'types'
+p48
+(lp49
+VSorcery - Arcane
+p50
+aVSorcery
+p51
+aVEnchantment
+p52
+aVSorcery
+p53
+asS'numbers'
+p54
+(lp55
+V40
+p56
+aV12
+p57
+aV23
+p58
+aV81
+p59
+as.

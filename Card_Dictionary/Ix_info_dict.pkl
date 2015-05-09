@@ -1,0 +1,99 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVRare
+p4
+aVRare
+p5
+asS'editns'
+p6
+(lp7
+VOnslaught
+p8
+aVOnslaught
+p9
+aVTime Spiral
+p10
+asS'ids'
+p11
+(lp12
+V39843
+p13
+aV40578
+p14
+aV124313
+p15
+asS'texts'
+p16
+(lp17
+VCounter target spell unless its controller pays {2} for each Wizard on the battlefield.
+p18
+aVFace-down creatures get +1/+1.<br>{2}{U}: Turn target face-down creature face up.
+p19
+aVAs Ixidron enters the battlefield, turn all other nontoken creatures face down. <i>(They're 2/2 creatures.)</i><br>Ixidron's power and toughness are each equal to the number of face-down creatures on the battlefield.
+p20
+asS'costs'
+p21
+(lp22
+V{2}{U}
+p23
+aV{3}{U}{U}
+p24
+aV{3}{U}{U}
+p25
+asS'names'
+p26
+(lp27
+VIxidor's Will
+p28
+aVIxidor, Reality Sculptor
+p29
+aVIxidron
+p30
+asS'toughs'
+p31
+(lp32
+S'N/A'
+p33
+aV3
+p34
+aV1
+p35
+asS'artists'
+p36
+(lp37
+VEric Peterson
+p38
+aVKev Walker
+p39
+aVTerese Nielsen
+p40
+asS'powers'
+p41
+(lp42
+g33
+aV4
+p43
+ag35
+asS'types'
+p44
+(lp45
+VInstant
+p46
+aVLegendary Creature - Human Wizard
+p47
+aVCreature - Illusion
+p48
+asS'numbers'
+p49
+(lp50
+V90
+p51
+aV89
+p52
+aV65
+p53
+as.

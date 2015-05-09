@@ -1,0 +1,176 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVUncommon
+p4
+aVMythic Rare
+p5
+aVRare
+p6
+aVMythic Rare
+p7
+aVRare
+p8
+aVUncommon
+p9
+asS'editns'
+p10
+(lp11
+VFourth Edition
+p12
+aVAntiquities
+p13
+aVBorn of the Gods
+p14
+aVNew Phyrexia
+p15
+aVTheros
+p16
+aVFifth Edition
+p17
+aVMasters Edition IV
+p18
+asS'ids'
+p19
+(lp20
+V2140
+p21
+aV1048
+p22
+aV378528
+p23
+aV227544
+p24
+aV373502
+p25
+aV3889
+p26
+aV202563
+p27
+asS'texts'
+p28
+(lp29
+V{T}: Until your next upkeep, target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost.
+p30
+aV{T}: Until your next upkeep, target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost.
+p31
+aS''
+p32
+aVW
+p33
+ag32
+ag32
+ag32
+asS'costs'
+p34
+(lp35
+V{1}{B}{B}
+p36
+aV{1}{B}{B}
+p37
+aV{5}{R}
+p38
+aV{3}{U}
+p39
+aS'0'
+p40
+aV{1}{B}{B}
+p41
+aV{1}{B}{B}
+p42
+asS'names'
+p43
+(lp44
+VXenic Poltergeist
+p45
+aVXenic Poltergeist
+p46
+aVXenagos, God of Revels
+p47
+aVXenograft
+p48
+aVXenagos, the Reveler
+p49
+aVXenic Poltergeist
+p50
+aVXenic Poltergeist
+p51
+asS'toughs'
+p52
+(lp53
+V3
+p54
+aV4
+p55
+aS'N/A'
+p56
+ag56
+ag56
+ag54
+ag55
+asS'artists'
+p57
+(lp58
+VDan Frazier
+p59
+aVDan Frazier
+p60
+aVJason Chan
+p61
+ag32
+aVJason Chan
+p62
+aVMike Kerr
+p63
+aVDan Frazier
+p64
+asS'powers'
+p65
+(lp66
+V2
+p67
+aV0
+p68
+ag56
+ag56
+ag56
+ag67
+ag54
+asS'types'
+p69
+(lp70
+VCreature - Spirit
+p71
+aVCreature - Spirit
+p72
+aVLegendary Enchantment Creature - God
+p73
+aVEnchantment
+p74
+aVPlaneswalker - Xenagos
+p75
+aVCreature - Spirit
+p76
+aVCreature - Spirit
+p77
+asS'numbers'
+p78
+(lp79
+V60
+p80
+aV99
+p81
+aV156
+p82
+aV51
+p83
+aV209
+p84
+aV448
+p85
+aV104
+p86
+as.

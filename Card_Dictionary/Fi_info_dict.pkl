@@ -1,0 +1,4124 @@
+(dp0
+S'rares'
+p1
+(lp2
+VSpecial
+p3
+aVCommon
+p4
+aVUncommon
+p5
+aVUncommon
+p6
+aVCommon
+p7
+aVUncommon
+p8
+aVCommon
+p9
+aVUncommon
+p10
+aVCommon
+p11
+aVUncommon
+p12
+aVCommon
+p13
+aVCommon
+p14
+aVCommon
+p15
+aVUncommon
+p16
+aVCommon
+p17
+aVCommon
+p18
+aVCommon
+p19
+aVRare
+p20
+aVUncommon
+p21
+aVCommon
+p22
+aVCommon
+p23
+aVCommon
+p24
+aVCommon
+p25
+aVUncommon
+p26
+aVRare
+p27
+aVCommon
+p28
+aVCommon
+p29
+aVCommon
+p30
+aVUncommon
+p31
+aVCommon
+p32
+aVRare
+p33
+aVUncommon
+p34
+aVUncommon
+p35
+aVCommon
+p36
+aVRare
+p37
+aVUncommon
+p38
+aVCommon
+p39
+aVCommon
+p40
+aVRare
+p41
+aVUncommon
+p42
+aVUncommon
+p43
+aVRare
+p44
+aVCommon
+p45
+aVUncommon
+p46
+aVUncommon
+p47
+aVCommon
+p48
+aVUncommon
+p49
+aVUncommon
+p50
+aVUncommon
+p51
+aVCommon
+p52
+aVCommon
+p53
+aVCommon
+p54
+aVRare
+p55
+aVUncommon
+p56
+aVCommon
+p57
+aVCommon
+p58
+aVRare
+p59
+aVCommon
+p60
+aVRare
+p61
+aVCommon
+p62
+aVCommon
+p63
+aVRare
+p64
+aVRare
+p65
+aVCommon
+p66
+aVUncommon
+p67
+aVCommon
+p68
+aVCommon
+p69
+aVUncommon
+p70
+aVRare
+p71
+aVUncommon
+p72
+aVCommon
+p73
+aVCommon
+p74
+aVRare
+p75
+aVCommon
+p76
+aVMythic Rare
+p77
+aVCommon
+p78
+aVCommon
+p79
+aVRare
+p80
+aVUncommon
+p81
+aVRare
+p82
+aVRare
+p83
+aVUncommon
+p84
+aVUncommon
+p85
+aVCommon
+p86
+aVCommon
+p87
+aVCommon
+p88
+aVUncommon
+p89
+aVUncommon
+p90
+aVRare
+p91
+aVUncommon
+p92
+aVRare
+p93
+aVRare
+p94
+aVRare
+p95
+aVRare
+p96
+aVCommon
+p97
+aVUncommon
+p98
+aVCommon
+p99
+aVRare
+p100
+aVUncommon
+p101
+aVCommon
+p102
+aVUncommon
+p103
+aVCommon
+p104
+aVRare
+p105
+aVUncommon
+p106
+aVCommon
+p107
+aVRare
+p108
+aVUncommon
+p109
+aVCommon
+p110
+aVUncommon
+p111
+aVUncommon
+p112
+aVRare
+p113
+aVUncommon
+p114
+aVUncommon
+p115
+aVUncommon
+p116
+aVRare
+p117
+aVUncommon
+p118
+aVUncommon
+p119
+aVCommon
+p120
+aVUncommon
+p121
+aVUncommon
+p122
+aVRare
+p123
+aVUncommon
+p124
+aVCommon
+p125
+aVRare
+p126
+aVUncommon
+p127
+aVCommon
+p128
+aVRare
+p129
+aVCommon
+p130
+aVRare
+p131
+aVCommon
+p132
+aVUncommon
+p133
+aVCommon
+p134
+aVCommon
+p135
+aVUncommon
+p136
+aVUncommon
+p137
+aVCommon
+p138
+aVRare
+p139
+aVRare
+p140
+aVCommon
+p141
+aVCommon
+p142
+aVUncommon
+p143
+aVUncommon
+p144
+aVUncommon
+p145
+aVUncommon
+p146
+aVCommon
+p147
+aVRare
+p148
+aVCommon
+p149
+aVUncommon
+p150
+aVUncommon
+p151
+aVCommon
+p152
+aVRare
+p153
+aVRare
+p154
+aVRare
+p155
+aVCommon
+p156
+aVUncommon
+p157
+aVCommon
+p158
+aVCommon
+p159
+aVCommon
+p160
+aVCommon
+p161
+aVUncommon
+p162
+aVUncommon
+p163
+aVCommon
+p164
+aVRare
+p165
+aVUncommon
+p166
+aVCommon
+p167
+aVSpecial
+p168
+aVUncommon
+p169
+aVUncommon
+p170
+aVCommon
+p171
+aVCommon
+p172
+aVCommon
+p173
+aVRare
+p174
+aVCommon
+p175
+aVUncommon
+p176
+aVRare
+p177
+aVUncommon
+p178
+aVRare
+p179
+aVCommon
+p180
+aVRare
+p181
+aVUncommon
+p182
+aVCommon
+p183
+aVCommon
+p184
+aVUncommon
+p185
+aVCommon
+p186
+aVCommon
+p187
+aVCommon
+p188
+aVUncommon
+p189
+aVUncommon
+p190
+aVUncommon
+p191
+aVCommon
+p192
+aVSpecial
+p193
+aVSpecial
+p194
+aVSpecial
+p195
+aVRare
+p196
+aVUncommon
+p197
+aVUncommon
+p198
+aVRare
+p199
+aVUncommon
+p200
+aVCommon
+p201
+aVRare
+p202
+aVRare
+p203
+aVUncommon
+p204
+aVCommon
+p205
+aVRare
+p206
+aVRare
+p207
+aVCommon
+p208
+asS'editns'
+p209
+(lp210
+VAnthologies
+p211
+aVMagic: The Gathering-Commander
+p212
+aVMagic: The Gathering-Commander
+p213
+aVMagic: The Gathering-Commander
+p214
+aVMagic: The Gathering-Commander
+p215
+aVMagic: The Gathering-Commander
+p216
+aVMagic 2012
+p217
+aVMagic 2012
+p218
+aVMagic 2012
+p219
+aVLimited Edition Beta
+p220
+aVLimited Edition Beta
+p221
+aVLimited Edition Beta
+p222
+aVSaviors of Kamigawa
+p223
+aVBattle Royale Box Set
+p224
+aVMorningtide
+p225
+aVMorningtide
+p226
+aVMagic 2013
+p227
+aVMagic 2013
+p228
+aVFourth Edition
+p229
+aVFourth Edition
+p230
+aVFourth Edition
+p231
+aVFourth Edition
+p232
+aVPlanar Chaos
+p233
+aVDuel Decks: Ajani vs. Nicol Bolas
+p234
+aVDuel Decks: Ajani vs. Nicol Bolas
+p235
+aVDuel Decks: Knights vs. Dragons
+p236
+aVDuel Decks: Knights vs. Dragons
+p237
+aVMagic 2010
+p238
+aVMagic 2010
+p239
+aVMagic 2010
+p240
+aVMagic 2014 Core Set
+p241
+aVMagic 2014 Core Set
+p242
+aVTempest
+p243
+aVTempest
+p244
+aVTempest
+p245
+aVTempest
+p246
+aVTenth Edition
+p247
+aVTenth Edition
+p248
+aVTenth Edition
+p249
+aVVintage Masters
+p250
+aVVintage Masters
+p251
+aVModern Masters
+p252
+aVModern Masters
+p253
+aVThe Dark
+p254
+aVThe Dark
+p255
+aVThe Dark
+p256
+aVApocalypse
+p257
+aVApocalypse
+p258
+aVApocalypse
+p259
+aVMasters Edition III
+p260
+aVMasters Edition III
+p261
+aVMasters Edition III
+p262
+aVMasters Edition III
+p263
+aVRevised Edition
+p264
+aVRevised Edition
+p265
+aVRevised Edition
+p266
+aVMasters Edition II
+p267
+aVNinth Edition
+p268
+aVNinth Edition
+p269
+aVNinth Edition
+p270
+aVEventide
+p271
+aVEventide
+p272
+aVEventide
+p273
+aVConflux
+p274
+aVConflux
+p275
+aVPlanechase 2012 Edition
+p276
+aVPlanechase 2012 Edition
+p277
+aVPlanechase 2012 Edition
+p278
+aVDuel Decks: Sorin vs. Tibalt
+p279
+aVDuel Decks: Sorin vs. Tibalt
+p280
+aVChampions of Kamigawa
+p281
+aVBetrayers of Kamigawa
+p282
+aVBetrayers of Kamigawa
+p283
+aVUrza's Destiny
+p284
+aVFrom the Vault: Annihilation (2014)
+p285
+aVRavnica: City of Guilds
+p286
+aVRavnica: City of Guilds
+p287
+aVRavnica: City of Guilds
+p288
+aVCommander 2013 Edition
+p289
+aVCommander 2013 Edition
+p290
+aVCommander 2013 Edition
+p291
+aVCommander 2013 Edition
+p292
+aVCommander 2013 Edition
+p293
+aVCommander 2013 Edition
+p294
+aVOdyssey
+p295
+aVOdyssey
+p296
+aVTime Spiral
+p297
+aVTime Spiral
+p298
+aVReturn to Ravnica
+p299
+aVGatecrash
+p300
+aVGatecrash
+p301
+aVGatecrash
+p302
+aVExodus
+p303
+aVColdsnap
+p304
+aVUnlimited Edition
+p305
+aVUnlimited Edition
+p306
+aVUnlimited Edition
+p307
+aVIce Age
+p308
+aVIce Age
+p309
+aVTorment
+p310
+aVClassic Sixth Edition
+p311
+aVClassic Sixth Edition
+p312
+aVClassic Sixth Edition
+p313
+aVClassic Sixth Edition
+p314
+aVClassic Sixth Edition
+p315
+aVMirrodin
+p316
+aVMirrodin
+p317
+aVMirrodin
+p318
+aVShards of Alara
+p319
+aVShards of Alara
+p320
+aVSeventh Edition
+p321
+aVSeventh Edition
+p322
+aVSeventh Edition
+p323
+aVSeventh Edition
+p324
+aVProphecy
+p325
+aVMagic 2015 Core Set
+p326
+aVDarksteel
+p327
+aVRise of the Eldrazi
+p328
+aVJudgment
+p329
+aVJudgment
+p330
+aVShadowmoor
+p331
+aVShadowmoor
+p332
+aVShadowmoor
+p333
+aVStarter 1999
+p334
+aVStarter 1999
+p335
+aVFifth Dawn
+p336
+aVFifth Dawn
+p337
+aVScourge
+p338
+aVScourge
+p339
+aVPlanechase
+p340
+aVPlanechase
+p341
+aVDuel Decks: Venser vs. Koth
+p342
+aVUrza's Saga
+p343
+aVUrza's Saga
+p344
+aVMasters Edition
+p345
+aVMasters Edition
+p346
+aVTheros
+p347
+aVWeatherlight
+p348
+aVWeatherlight
+p349
+aVWeatherlight
+p350
+aVMagic: The Gathering\u2014Conspiracy
+p351
+aVMagic: The Gathering\u2014Conspiracy
+p352
+aVEighth Edition
+p353
+aVChronicles
+p354
+aVChronicles
+p355
+aVInvasion
+p356
+aVInvasion
+p357
+aVInvasion
+p358
+aVInvasion
+p359
+aVAlara Reborn
+p360
+aVAlara Reborn
+p361
+aVAlara Reborn
+p362
+aVAlara Reborn
+p363
+aVAlara Reborn
+p364
+aVFifth Edition
+p365
+aVFifth Edition
+p366
+aVFifth Edition
+p367
+aVArchenemy
+p368
+aVArchenemy
+p369
+aVArchenemy
+p370
+aVArchenemy
+p371
+aVKhans of Tarkir
+p372
+aVMirage
+p373
+aVMirage
+p374
+aVMirage
+p375
+aVVanguard
+p376
+aVInnistrad
+p377
+aVLimited Edition Alpha
+p378
+aVLimited Edition Alpha
+p379
+aVLimited Edition Alpha
+p380
+aVVisions
+p381
+aVVisions
+p382
+aVBeatdown Box Set
+p383
+aVMasters Edition IV
+p384
+aVMasters Edition IV
+p385
+aVMasters Edition IV
+p386
+aVLegends
+p387
+aVLegends
+p388
+aVLegends
+p389
+aVDuel Decks: Izzet vs. Golgari
+p390
+aVLorwyn
+p391
+aVLorwyn
+p392
+aVLorwyn
+p393
+aVArabian Nights
+p394
+aVArabian Nights
+p395
+aVMagic 2011
+p396
+aVMagic 2011
+p397
+aVMagic 2011
+p398
+aVPortal Three Kingdoms
+p399
+aVPortal Three Kingdoms
+p400
+aVTime Spiral "Timeshifted"
+p401
+aVTime Spiral "Timeshifted"
+p402
+aVTime Spiral "Timeshifted"
+p403
+aVDuel Decks: Heroes vs. Monsters
+p404
+aVDuel Decks: Heroes vs. Monsters
+p405
+aVPremium Deck Series: Fire and Lightning
+p406
+aVPremium Deck Series: Fire and Lightning
+p407
+aVPremium Deck Series: Fire and Lightning
+p408
+aVPremium Deck Series: Fire and Lightning
+p409
+aVPortal
+p410
+aVPortal
+p411
+aVPortal
+p412
+aVPortal
+p413
+aVPortal
+p414
+aVDark Ascension
+p415
+aVDark Ascension
+p416
+asS'ids'
+p417
+(lp418
+V-2146729957
+p419
+aV247404
+p420
+aV247159
+p421
+aV247407
+p422
+aV247378
+p423
+aV-247159
+p424
+aV238331
+p425
+aV221550
+p426
+aV226588
+p427
+aV491
+p428
+aV492
+p429
+aV493
+p430
+aV74166
+p431
+aV21163
+p432
+aV152534
+p433
+aV152641
+p434
+aV259212
+p435
+aV259202
+p436
+aV2274
+p437
+aV2277
+p438
+aV2275
+p439
+aV2276
+p440
+aV130720
+p441
+aV259270
+p442
+aV249366
+p443
+aV243493
+p444
+aV243469
+p445
+aV191075
+p446
+aV191076
+p447
+aV191079
+p448
+aV370786
+p449
+aV370715
+p450
+aV4813
+p451
+aV4814
+p452
+aV4874
+p453
+aV4700
+p454
+aV129548
+p455
+aV130379
+p456
+aV135258
+p457
+aV382935
+p458
+aV382936
+p459
+aV370466
+p460
+aV370367
+p461
+aV1809
+p462
+aV1788
+p463
+aV1789
+p464
+aV-27166
+p465
+aV27165
+p466
+aV27166
+p467
+aV201277
+p468
+aV201256
+p469
+aV201186
+p470
+aV201216
+p471
+aV1290
+p472
+aV1291
+p473
+aV1292
+p474
+aV184723
+p475
+aV83438
+p476
+aV84066
+p477
+aV82983
+p478
+aV151149
+p479
+aV157200
+p480
+aV158106
+p481
+aV179519
+p482
+aV179439
+p483
+aV275259
+p484
+aV271138
+p485
+aV276068
+p486
+aV368510
+p487
+aV368496
+p488
+aV50272
+p489
+aV74451
+p490
+aV81991
+p491
+aV15121
+p492
+aV386289
+p493
+aV83620
+p494
+aV83672
+p495
+aV89074
+p496
+aV376331
+p497
+aV376332
+p498
+aV376333
+p499
+aV376334
+p500
+aV376335
+p501
+aV376336
+p502
+aV30570
+p503
+aV31804
+p504
+aV109727
+p505
+aV111064
+p506
+aV290541
+p507
+aV366311
+p508
+aV366341
+p509
+aV366386
+p510
+aV5184
+p511
+aV121265
+p512
+aV794
+p513
+aV793
+p514
+aV795
+p515
+aV2724
+p516
+aV2725
+p517
+aV32918
+p518
+aV15405
+p519
+aV16622
+p520
+aV14655
+p521
+aV15419
+p522
+aV14616
+p523
+aV48073
+p524
+aV48203
+p525
+aV48377
+p526
+aV174888
+p527
+aV176447
+p528
+aV12970
+p529
+aV13031
+p530
+aV15853
+p531
+aV15813
+p532
+aV24649
+p533
+aV383239
+p534
+aV46768
+p535
+aV198170
+p536
+aV33722
+p537
+aV34929
+p538
+aV146753
+p539
+aV153314
+p540
+aV158753
+p541
+aV20192
+p542
+aV20198
+p543
+aV46159
+p544
+aV50117
+p545
+aV44218
+p546
+aV43611
+p547
+aV198097
+p548
+aV205412
+p549
+aV279855
+p550
+aV10425
+p551
+aV5568
+p552
+aV159836
+p553
+aV159147
+p554
+aV373552
+p555
+aV4547
+p556
+aV4546
+p557
+aV4548
+p558
+aV382267
+p559
+aV382268
+p560
+aV45253
+p561
+aV2843
+p562
+aV2805
+p563
+aV22970
+p564
+aV23017
+p565
+aV23083
+p566
+aV23180
+p567
+aV183005
+p568
+aV179562
+p569
+aV188965
+p570
+aV180609
+p571
+aV188974
+p572
+aV4047
+p573
+aV4049
+p574
+aV4048
+p575
+aV220521
+p576
+aV220475
+p577
+aV220478
+p578
+aV220500
+p579
+aV386536
+p580
+aV3444
+p581
+aV3250
+p582
+aV3445
+p583
+aV191136
+p584
+aV222007
+p585
+aV196
+p586
+aV197
+p587
+aV198
+p588
+aV3686
+p589
+aV3737
+p590
+aV26621
+p591
+aV202575
+p592
+aV202537
+p593
+aV221511
+p594
+aV1481
+p595
+aV1526
+p596
+aV1573
+p597
+aV292753
+p598
+aV140338
+p599
+aV143372
+p600
+aV146171
+p601
+aV931
+p602
+aV930
+p603
+aV205093
+p604
+aV204992
+p605
+aV205223
+p606
+aV10535
+p607
+aV10632
+p608
+aV108877
+p609
+aV108880
+p610
+aV108893
+p611
+aV373388
+p612
+aV373397
+p613
+aV234703
+p614
+aV236456
+p615
+aV234702
+p616
+aV234736
+p617
+aV4222
+p618
+aV4336
+p619
+aV4337
+p620
+aV4338
+p621
+aV4339
+p622
+aV262837
+p623
+aV262832
+p624
+asS'texts'
+p625
+(lp626
+V{T}, Sacrifice Goblin Digging Team: Destroy target Wall.
+p627
+aVWhen Fierce Empath enters the battlefield, you may search your library for a creature card with converted mana cost 6 or greater, reveal it, put it into your hand, then shuffle your library.
+p628
+aVFire deals 2 damage divided as you choose among one or two target creatures and/or players.<br>
+p629
+aVFirespout deals 3 damage to each creature without flying if {R} was spent to cast Firespout and 3 damage to each creature with flying if {G} was spent to cast it. <i>(Do both if {R}{G} was spent.)</i>
+p630
+aVEnchant creature<br>When Fists of Ironwood enters the battlefield, put two 1/1 green Saproling creature tokens onto the battlefield.<br>Enchanted creature has trample.
+p631
+aV<br>Tap target permanent.<br>Draw a card.
+p632
+aVEnchant creature<br>Enchanted creature has flying.
+p633
+aVPrevent all combat damage that would be dealt this turn.
+p634
+aVTap up to two target creatures. Those creatures don't untap during their controller's next untap step.
+p635
+aV{1}: The next time an unblocked creature of your choice would deal combat damage to you this turn, prevent all but 1 of that damage.
+p636
+aVG
+p637
+ag637
+aVWhenever you cast a Spirit or Arcane spell, regenerate Fiddlehead Kami.
+p638
+aV{T}: Fire Ants deals 1 damage to each other creature without flying.
+p639
+aVWhenever Fire Juggler becomes blocked, clash with an opponent. If you win, Fire Juggler deals 4 damage to each creature blocking it. <i>(Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)</i>
+p640
+aVFlying<br>When Final-Sting Faerie enters the battlefield, destroy target creature that was dealt damage this turn.
+p641
+aV{T}: Put X 1/1 red Goblin creature tokens onto the battlefield, where X is the number of Goblins you control.
+p642
+aVPut two 1/1 red Goblin creature tokens onto the battlefield.
+p643
+aV{R}: Goblin Balloon Brigade gains flying until end of turn.
+p644
+aVTrample<br>Goblin Rock Sled doesn't untap during your untap step if it attacked during your last turn.<br>Goblin Rock Sled can't attack unless defending player controls a Mountain.
+p645
+aVPrevent all combat damage that would be dealt this turn.
+p646
+aVTrample <i>(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</i><br>At the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}.
+p647
+aV{1}{R}, {T}, Discard a card: Target creature can't be blocked this turn except by artifact creatures and/or red creatures.
+p648
+aVFirst strike<br>Unearth {U}{B}{R} <i>({U}{B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</i>
+p649
+aVFlying, first strike<br>At the beginning of your upkeep, if Firemane Angel is in your graveyard or on the battlefield, you may gain 1 life.<br>{6}{R}{R}{W}{W}: Return Firemane Angel from your graveyard to the battlefield. Activate this ability only during your upkeep.
+p650
+aVFiery Fall deals 5 damage to target creature.<br>Basic landcycling {1}{R} <i>({1}{R}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)</i>
+p651
+aVChangeling <i>(This card is every creature type at all times.)</i><br>{R}: Fire-Belly Changeling gets +1/+0 until end of turn. Activate this ability no more than twice each turn.
+p652
+aV{T}: Add {1} to your mana pool.<br>{5}, {T}, Sacrifice Gargoyle Castle: Put a 3/4 colorless Gargoyle artifact creature token with flying onto the battlefield.
+p653
+aV+1: Untap two target lands.<br>-1: Put a 3/3 green Beast creature token onto the battlefield.<br>-4: Creatures you control get +3/+3 and gain trample until end of turn.
+p654
+aVTarget creature gets +3/+3 until end of turn.
+p655
+aVWhen Fleshpulper Giant enters the battlefield, you may destroy target creature with toughness 2 or less.
+p656
+aVPrevent all combat damage that would be dealt this turn.
+p657
+aV{T}: Fireslinger deals 1 damage to target creature or player and 1 damage to you.
+p658
+aV{R}: Flowstone Giant gets +2/-2 until end of turn.
+p659
+aVEnchant creature<br>As Flickering Ward enters the battlefield, choose a color.<br>Enchanted creature has protection from the chosen color. This effect doesn't remove Flickering Ward.<br>{W}: Return Flickering Ward to its owner's hand.
+p660
+ag637
+aVEnchant creature<br>{R}: Enchanted creature gets +1/+0 until end of turn.
+p661
+aVIf you would draw a card, you may instead choose land or nonland and reveal cards from the top of your library until you reveal a card of the chosen kind. Put that card into your hand and put all other cards revealed this way on the bottom of your library in any order.
+p662
+aVExile X target creature cards from your graveyard. For each creature card exiled this way, put a 2/2 black Zombie creature token onto the battlefield.
+p663
+aVWhen Flametongue Kavu enters the battlefield, it deals 4 damage to target creature.
+p664
+aVFlying<br>At the beginning of your upkeep, Fledgling Djinn deals 1 damage to you.
+p665
+aV{R/W}: Figure of Destiny becomes a 2/2 Kithkin Spirit.<br>{R/W}{R/W}{R/W}: If Figure of Destiny is a Spirit, it becomes a 4/4 Kithkin Spirit Warrior.<br>{R/W}{R/W}{R/W}{R/W}{R/W}{R/W}: If Figure of Destiny is a Warrior, it becomes an 8/8 Kithkin Spirit Warrior Avatar with flying and first strike.
+p666
+aVFiery Fall deals 5 damage to target creature.<br>Basic landcycling {1}{R} <i>({1}{R}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)</i>
+p667
+aVFire and Brimstone deals 4 damage to target player who declared an attacking creature this turn and 4 damage to you.
+p668
+aVDestroy target creature or land. It can't be regenerated.
+p669
+aV{U}{U}: Tap target creature without flying.
+p670
+aVTap target permanent.<br>Draw a card.
+p671
+aVFire deals 2 damage divided as you choose among one or two target creatures and/or players.<br>
+p672
+aVFire deals 2 damage divided as you choose among one or two target creatures and/or players.<br>
+p673
+aVFlying<br>{G}, {T}: Add {R} to your mana pool.
+p674
+aVFlying<br>If Firestorm Phoenix would die, return Firestorm Phoenix to its owner's hand instead. Until that player's next turn, that player plays with that card revealed in his or her hand and can't play it.
+p675
+aVChoose one- Destroy target red permanent; or return target Mountain to its owner's hand.
+p676
+aVCounter target spell unless its controller pays {1}.
+p677
+ag637
+ag637
+ag637
+aV{1}{G}: Folk of the Pines gets +1/+0 until end of turn.
+p678
+aVTarget player reveals three cards from his or her hand and you choose one of them. That player discards that card.
+p679
+aV{1}{G}: Return target basic land card from your graveyard to your hand.
+p680
+aVOther Goblin creatures get +1/+1 and have mountainwalk. <i>(They're unblockable as long as defending player controls a Mountain.)</i>
+p681
+aVFire at Will deals 3 damage divided as you choose among one, two, or three target attacking or blocking creatures.
+p682
+aVChroma- {2}, Sacrifice a creature: Fiery Bombardment deals damage to target creature or player equal to the number of red mana symbols in the sacrificed creature's mana cost.
+p683
+aV{R/W}: Figure of Destiny becomes a 2/2 Kithkin Spirit.<br>{R/W}{R/W}{R/W}: If Figure of Destiny is a Spirit, it becomes a 4/4 Kithkin Spirit Warrior.<br>{R/W}{R/W}{R/W}{R/W}{R/W}{R/W}: If Figure of Destiny is a Warrior, it becomes an 8/8 Kithkin Spirit Warrior Avatar with flying and first strike.
+p684
+aVDestroy target artifact or enchantment. If that permanent was blue or black, draw a card.
+p685
+aV{W}{U}{B}{R}{G}: Fleshformer gets +2/+2 and gains fear until end of turn. Target creature gets -2/-2 until end of turn. Activate this ability only during your turn. <i>(A creature with fear can't be blocked except by artifact creatures and/or black creatures.)</i>
+p686
+aVAs an additional cost to cast Fiery Conclusion, sacrifice a creature.<br>Fiery Conclusion deals 5 damage to target creature.
+p687
+aVFiery Fall deals 5 damage to target creature.<br>Basic landcycling {1}{R} <i>({1}{R}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)</i>
+p688
+aVCreatures you control have haste.<br>Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.
+p689
+aVWhenever a nontoken creature is put into your graveyard from the battlefield, put a 1/1 white Spirit creature token with flying onto the battlefield.
+p690
+aVWhen Fiend Hunter enters the battlefield, you may exile another target creature.<br>When Fiend Hunter leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+p691
+aVEnchant creature<br>Enchanted creature can't be blocked by Spirits.<br>{1}{U}: Return Field of Reality to its owner's hand.
+p692
+aVWhenever you cast a Spirit or Arcane spell, you may put a ki counter on Petalmane Baku.<br>{1}, Remove X ki counters from Petalmane Baku: Add X mana of any one color to your mana pool.
+p693
+aVReveal the top X cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.
+p694
+aVTap an untapped creature you control: Prevent the next 1 damage that would be dealt to target creature this turn.
+p695
+aVFirespout deals 3 damage to each creature without flying if {R} was spent to cast Firespout and 3 damage to each creature with flying if {G} was spent to cast it. <i>(Do both if {R}{G} was spent.)</i>
+p696
+aVAs an additional cost to cast Fiery Conclusion, sacrifice a creature.<br>Fiery Conclusion deals 5 damage to target creature.
+p697
+aVEnchant creature<br>When Flight of Fancy enters the battlefield, draw two cards.<br>Enchanted creature has flying.
+p698
+aVWhen Hunted Troll enters the battlefield, put four 1/1 blue Faerie creature tokens with flying onto the battlefield under target opponent's control.<br>{G}: Regenerate Hunted Troll.
+p699
+aVWhen Fiend Hunter enters the battlefield, you may exile another target creature.<br>When Fiend Hunter leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+p700
+aVFiery Justice deals 5 damage divided as you choose among any number of target creatures and/or players. Target opponent gains 5 life.
+p701
+aVFlying<br>When Filigree Angel enters the battlefield, you gain 3 life for each artifact you control.
+p702
+aVFireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.<br>Fireball costs {1} more to cast for each target beyond the first.
+p703
+aVCreatures you control have haste.<br>Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.
+p704
+aVChoose one or both- Destroy target artifact; and/or destroy target nonbasic land.
+p705
+aVScorching Missile deals 4 damage to target player.<br>Flashback {9}{R} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
+p706
+aV{2}{B}: Infected Vermin deals 1 damage to each creature and each player.<br>Threshold- {3}{B}: Infected Vermin deals 3 damage to each creature and each player. Activate this ability only if seven or more cards are in your graveyard.
+p707
+aVAll Sliver creatures have haste.<br>All Slivers have "{1}, Sacrifice this permanent: Target Sliver creature gets +2/+2 until end of turn."
+p708
+aVEcho {5}{R} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i><br>When Firemaw Kavu enters the battlefield, it deals 2 damage to target creature.<br>When Firemaw Kavu leaves the battlefield, it deals 4 damage to target creature.
+p709
+aVDefender<br>When Gatecreeper Vine enters the battlefield, you may search your library for a basic land card or a Gate card, reveal it, put it into your hand, then shuffle your library.
+p710
+aVBattalion- Whenever Firefist Striker and at least two other creatures attack, target creature can't block this turn.
+p711
+aVFlying<br>Battalion- Whenever Firemane Avenger and at least two other creatures attack, Firemane Avenger deals 3 damage to target creature or player and you gain 3 life.
+p712
+aVWhenever a creature you control deals combat damage, put a blaze counter on Five-Alarm Fire.<br>Remove five blaze counters from Five-Alarm Fire: Five-Alarm Fire deals 5 damage to target creature or player.
+p713
+aVFor each blocking creature, flip a coin. If you win the flip, prevent all combat damage that would be dealt by that creature this turn.
+p714
+aVCounter target red or green spell.
+p715
+aVFireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.<br>Fireball costs {1} more to cast for each target beyond the first.
+p716
+ag637
+ag637
+aVGreen creatures can't attack unless their controller sacrifices a land for each green creature he or she controls that's attacking.
+p717
+aVAs an additional cost to cast Fumarole, pay 3 life.<br>Destroy target creature and target land.
+p718
+aVFiery Temper deals 3 damage to target creature or player.<br>Madness {R} <i>(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)</i>
+p719
+aV{X}, Sacrifice Snake Basket: Put X 1/1 green Snake creature tokens onto the battlefield. Activate this ability only any time you could cast a sorcery.
+p720
+aV{T}: Add {1} to your mana pool.<br>{T}: Add {W} or {U} to your mana pool. Adarkar Wastes deals 1 damage to you.
+p721
+ag637
+ag637
+ag637
+aVFlip a coin until you lose a flip or choose to stop flipping. If you lose a flip, Fiery Gambit has no effect. If you win one or more flips, Fiery Gambit deals 3 damage to target creature. If you win two or more flips, Fiery Gambit deals 6 damage to each opponent. If you win three or more flips, draw nine cards and untap all lands you control.
+p722
+aVEquipped creature has double strike. <i>(It deals both first-strike and regular combat damage.)</i><br>Equip {2} <i>({2}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)</i>
+p723
+ag637
+aVDestroy target artifact or enchantment.
+p724
+aV{T}: You may tap or untap another target permanent.<br>Unearth {U} <i>({U}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</i>
+p725
+aVTake an extra turn after this one. At the beginning of that turn's end step, you lose the game.
+p726
+aVReach <i>(This creature can block creatures with flying.)</i>
+p727
+aVDefender <i>(This creature can't attack.)</i>
+p728
+aVCreatures you control get +1/+1.
+p729
+aVWhenever Fickle Efreet attacks or blocks, flip a coin at end of combat. If you lose the flip, an opponent gains control of Fickle Efreet.
+p730
+ag637
+aVFireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.<br>Fireball costs {1} more to cast for each target beyond the first.
+p731
+aVChoose one or both- Destroy target artifact; and/or destroy target nonbasic land.
+p732
+aVSwampwalk<br>As long as Filth is in your graveyard and you control a Swamp, creatures you control have swampwalk.
+p733
+aVPut X 1/1 red Elemental Cat creature tokens with haste onto the battlefield. Exile them at the beginning of the next end step.<br>Flashback\u2014{R}{R}, Sacrifice X Mountains. <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
+p734
+aVDestroy all artifacts and enchantments. You gain 2 life for each permanent destroyed this way.
+p735
+aV{1}{U}, {Q}: Merrow Wavebreakers gains flying until end of turn. <i>({Q} is the untap symbol.)</i>
+p736
+aVIf {U} was spent to cast River's Grasp, return up to one target creature to its owner's hand. If {B} was spent to cast River's Grasp, target player reveals his or her hand, you choose a nonland card from it, then that player discards that card. <i>(Do both if {U}{B} was spent.)</i>
+p737
+aVFire Tempest deals 6 damage to each creature and each player.
+p738
+aVWhenever Hollow Dogs attacks, it gets +2/+0 until end of turn.
+p739
+aVTarget player discards two cards.<br>Scry 2. <i>(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</i>
+p740
+aVYou may pay {W}{U}{B}{R}{G} rather than pay the mana cost for spells that you cast.
+p741
+aVWhen Fierce Empath enters the battlefield, you may search your library for a creature card with converted mana cost 6 or greater, reveal it, put it into your hand, then shuffle your library.
+p742
+aVTarget player loses life equal to the damage already dealt to him or her this turn.
+p743
+aVWhenever a player casts a spell, that player may gain 2 life.<br>Whenever you roll , you may gain 10 life.
+p744
+aVCreatures you control have haste.<br>Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.
+p745
+aV{R}: Fiery Hellhound gets +1/+0 until end of turn.
+p746
+aVEnchant creature<br>{R}: Enchanted creature gets +1/+0 until end of turn.<br>When Fiery Mantle is put into a graveyard from the battlefield, return Fiery Mantle to its owner's hand.
+p747
+ag637
+aVAs an additional cost to cast Fire Covenant, pay X life.<br>Fire Covenant deals X damage divided as you choose among any number of target creatures.
+p748
+aVDestroy target creature or land. It can't be regenerated.
+p749
+aV{3}{G}{W}: Monstrosity 1. <i>(If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)</i><br>As long as Fleecemane Lion is monstrous, it has hexproof and indestructible.
+p750
+aVAs an additional cost to cast Firestorm, discard X cards.<br>Firestorm deals X damage to each of X target creatures and/or players.
+p751
+aVEnchant creature you control<br>Enchanted creature has "{T}: This creature deals 1 damage to target creature or player."<br>Sacrifice Fire Whip: Fire Whip deals 1 damage to target creature or player.
+p752
+aVTarget creature gets +3/+3 and gains first strike until end of turn.
+p753
+aVCreatures you control have haste.<br>Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.
+p754
+aVEquipped creature has double strike. <i>(It deals both first-strike and regular combat damage.)</i><br>Equip {2} <i>({2}: Attach to target creature you control. Equip only as a sorcery.)</i>
+p755
+aV{2}{U}{U}: Draw a card.
+p756
+aV{2}, {T}: You gain 1 life.
+p757
+aV{5}, Sacrifice Gauntlets of Chaos: Exchange control of target artifact, creature, or land you control and target permanent an opponent controls that shares one of those types with it. If those permanents are exchanged this way, destroy all Auras attached to them.
+p758
+aVAt the beginning of each opponent's combat, separate all creatures that player controls into two piles. Only creatures in the pile of his or her choice can attack this turn.
+p759
+aV{R}: Firescreamer gets +1/+0 until end of turn.
+p760
+aV{G}, {T}: You may put a basic land card from your hand onto the battlefield.
+p761
+aVCreatures you control have haste.<br>Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.
+p762
+aVYou may pay {1} and return a basic land you control to its owner's hand rather than pay Fieldmist Borderpost's mana cost.<br>Fieldmist Borderpost enters the battlefield tapped.<br>{T}: Add {W} or {U} to your mana pool.
+p763
+aVDestroy all blocking creatures and all blocked creatures.
+p764
+aVFlying<br>When Filigree Angel enters the battlefield, you gain 3 life for each artifact you control.
+p765
+aVExalted <i>(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</i><br>Whenever a creature you control attacks alone, if it's the first combat phase of the turn, untap that creature. After this phase, there is an additional combat phase.
+p766
+aVYou may pay {1} and return a basic land you control to its owner's hand rather than pay Firewild Borderpost's mana cost.<br>Firewild Borderpost enters the battlefield tapped.<br>{T}: Add {R} or {G} to your mana pool.
+p767
+aVDestroy all Plains.
+p768
+aVFlip a coin. If you win the flip, you gain 1 life and target opponent loses 1 life, and you decide whether to flip again. If you lose the flip, you lose 1 life and that opponent gains 1 life, and that player decides whether to flip again. Double the life stakes with each flip.
+p769
+aVPrevent all combat damage that would be dealt this turn.
+p770
+aVYou may pay {1} and return a basic land you control to its owner's hand rather than pay Fieldmist Borderpost's mana cost.<br>Fieldmist Borderpost enters the battlefield tapped.<br>{T}: Add {W} or {U} to your mana pool.
+p771
+aVWhen Fierce Empath enters the battlefield, you may search your library for a creature card with converted mana cost 6 or greater, reveal it, put it into your hand, then shuffle your library.
+p772
+aVFireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.<br>Fireball costs {1} more to cast for each target beyond the first.
+p773
+aVCreatures you control have haste.<br>Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.
+p774
+aV{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card and put it onto the battlefield. Then shuffle your library.
+p775
+aVFire Diamond enters the battlefield tapped.<br>{T}: Add {R} to your mana pool.
+p776
+aVEnchant creature<br>{R}: Enchanted creature gets +1/+0 until end of turn.
+p777
+aVFlare deals 1 damage to target creature or player.<br><br>Draw a card at the beginning of the next turn's upkeep.
+p778
+aV{X}: Put a +1/+1 counter on target creature with fewer than X +1/+1 counters on it.
+p779
+aVWhen Fiend Hunter enters the battlefield, you may exile another target creature.<br>When Fiend Hunter leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+p780
+aV{R}: Goblin Balloon Brigade gains flying until end of turn.
+p781
+aVOther Goblin creatures get +1/+1 and have mountainwalk. <i>(They're unblockable as long as defending player controls a Mountain.)</i>
+p782
+aVFlying<br>{R}: Granite Gargoyle gets +0/+1 until end of turn.
+p783
+aVWhenever Goblin Swine-Rider becomes blocked, it deals 2 damage to each attacking creature and each blocking creature.
+p784
+aVFlying<br>{T}: If the top card of target player's graveyard is a creature card, put that card on top of that player's library.
+p785
+aVPrevent all combat damage that would be dealt this turn.
+p786
+aV{X}{X}{1}, {T}: Tap X target lands.
+p787
+aV{2}, {T}: Target creature gains flying until end of turn.
+p788
+aVPrevent all combat damage that would be dealt this turn.
+p789
+aVPut X glyph counters on target creature that target Wall blocked this turn, where X is the power of that blocked creature. The creature gains "This creature doesn't untap during your untap step if it has a glyph counter on it" and "At the beginning of your upkeep, remove a glyph counter from this creature."
+p790
+aVGiant Turtle can't attack if it attacked during your last turn.
+p791
+aVTarget blocking Wall you control gets +10/+0 until end of combat. Prevent all damage that would be dealt to it this turn. Destroy it at the beginning of the next end step.
+p792
+aVFire deals 2 damage divided as you choose among one or two target creatures and/or players.<br>
+p793
+aVChangeling <i>(This card is every creature type at all times.)</i><br>{R}: Fire-Belly Changeling gets +1/+0 until end of turn. Activate this ability no more than twice each turn.
+p794
+aVTarget creature gets +2/+2 until end of turn. Clash with an opponent. If you win, that creature gets an additional +2/+2 and gains trample until end of turn. <i>(Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)</i>
+p795
+aVEnchant creature<br>At the beginning of your end step, clash with an opponent. If you win, gain control of enchanted creature. Otherwise, that player gains control of enchanted creature. <i>(Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)</i>
+p796
+aVEnchant creature <i>(Target a creature as you cast this. This card enters the battlefield attached to that creature.)</i><br>Enchanted creature has islandwalk. <i>(This creature is unblockable as long as defending player controls an Island.)</i>
+p797
+aVEnchant creature <i>(Target a creature as you cast this. This card enters the battlefield attached to that creature.)</i><br>Enchanted creature has islandwalk. <i>(This creature is unblockable as long as defending player controls an Island.)</i>
+p798
+aVAs an additional cost to cast Fling, sacrifice a creature.<br>Fling deals damage equal to the sacrificed creature's power to target creature or player.
+p799
+aVPrevent all combat damage that would be dealt this turn.
+p800
+aVScry 4, then draw two cards. <i>(To scry 4, look at the top four cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</i>
+p801
+aVWhen Imperial Recruiter enters the battlefield, search your library for a creature card with power 2 or less, reveal it, and put it into your hand. Then shuffle your library.
+p802
+aV{T}: Return Lady Sun and another target creature to their owners' hands. Activate this ability only during your turn, before attackers are declared.
+p803
+aVEnchant creature you control<br>Enchanted creature has "{T}: This creature deals 1 damage to target creature or player."<br>Sacrifice Fire Whip: Fire Whip deals 1 damage to target creature or player.
+p804
+aVFiery Temper deals 3 damage to target creature or player.<br>Madness {R} <i>(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)</i>
+p805
+aVFiery Justice deals 5 damage divided as you choose among any number of target creatures and/or players. Target opponent gains 5 life.
+p806
+aV{R/W}: Figure of Destiny becomes a 2/2 Kithkin Spirit.<br>{R/W}{R/W}{R/W}: If Figure of Destiny is a Spirit, it becomes a 4/4 Kithkin Spirit Warrior.<br>{R/W}{R/W}{R/W}{R/W}{R/W}{R/W}: If Figure of Destiny is a Warrior, it becomes an 8/8 Kithkin Spirit Warrior Avatar with flying and first strike.
+p807
+aVCreatures you control have haste.<br>Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.
+p808
+aVFireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.<br>Fireball costs {1} more to cast for each target beyond the first.
+p809
+aV{R/W}: Figure of Destiny becomes a 2/2 Kithkin Spirit.<br>{R/W}{R/W}{R/W}: If Figure of Destiny is a Spirit, it becomes a 4/4 Kithkin Spirit Warrior.<br>{R/W}{R/W}{R/W}{R/W}{R/W}{R/W}: If Figure of Destiny is a Warrior, it becomes an 8/8 Kithkin Spirit Warrior Avatar with flying and first strike.
+p810
+aVIf a red instant or sorcery spell you control would deal damage, it deals double that damage instead.
+p811
+aVYou may sacrifice two Mountains rather than pay Fireblast's mana cost.<br>Fireblast deals 4 damage to target creature or player.
+p812
+aVAs an additional cost to cast Final Strike, sacrifice a creature.<br>Final Strike deals damage to target opponent equal to the sacrificed creature's power.
+p813
+aVForked Lightning deals 4 damage divided as you choose among one, two, or three target creatures.
+p814
+aVDestroy target creature or land.
+p815
+aVWhen Pillaging Horde enters the battlefield, sacrifice it unless you discard a card at random.
+p816
+aVTarget creature gets +4/+0 until end of turn.
+p817
+aVFlying<br>Whenever Fiend of the Shadows deals combat damage to a player, that player exiles a card from his or her hand. You may play that card for as long as it remains exiled.<br>Sacrifice a Human: Regenerate Fiend of the Shadows.
+p818
+aVFires of Undeath deals 2 damage to target creature or player.<br>Flashback {5}{B} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
+p819
+asS'costs'
+p820
+(lp821
+V{X}{R}
+p822
+aV{2}{G}
+p823
+aV{1}{R}
+p824
+aV{2}{R/G}
+p825
+aV{1}{G}
+p826
+aV{1}{R}{W}{U}
+p827
+aV{1}{G}{G}
+p828
+aV{1}{R}{R}
+p829
+aV{X}{R}
+p830
+aV{3}{R}{R}
+p831
+aV{X}{R}
+p832
+aV{R}
+p833
+aV{4}{G}
+p834
+aV{2}{R}
+p835
+aV{2}{R}
+p836
+aV{3}{B}
+p837
+aV{3}{R}
+p838
+aV{1}{R}
+p839
+aV{3}{R}{R}
+p840
+aV{3}{R}{R}
+p841
+aV{X}{R}
+p842
+aV{R}
+p843
+aV{R}
+p844
+aV{B}{R}
+p845
+aV{1}{U}{B}{R}
+p846
+aV{5}{R}
+p847
+aV{1}{R}
+p848
+aV{2}{W}
+p849
+aV{2}{U}
+p850
+aV{1}{R}{R}
+p851
+aV{1}{U}
+p852
+aV{B}
+p853
+aV{3}{R}
+p854
+aV{1}{R}
+p855
+aV{2}{W}{W}
+p856
+aV{2}{U}{U}
+p857
+aV{R}
+p858
+aV{1}{R}
+p859
+aV{1}{W}{W}
+p860
+aV{G}
+p861
+aV{4}{R}{R}
+p862
+aV{R/W}
+p863
+aV{2}{U}
+p864
+aV{3}{W}{W}
+p865
+aV{1}{R}{R}
+p866
+aV{3}{R}{R}
+p867
+aV{1}{U}
+p868
+aV{1}{R}
+p869
+aV{1}{R}
+p870
+aV{1}{R}
+p871
+aV{1}{R}{R}
+p872
+aV{1}{G}
+p873
+aV{4}{R}{R}
+p874
+aV{3}{R}{R}
+p875
+aV{X}{R}
+p876
+aV{R}
+p877
+aV{6}{R}{R}{R}
+p878
+aV{1}{U}
+p879
+aV{3}{B}{B}
+p880
+aV{R}
+p881
+aV{R/W}{R/W}{R/W}
+p882
+aV{1}{R}
+p883
+aV{R/W}
+p884
+aV{5}{R}
+p885
+aV{2}{G}
+p886
+aV{1}{R}
+p887
+aV{5}{R}
+p888
+aV{1}{R}{G}
+p889
+aV{2}{W}{W}
+p890
+aV{1}{W}{W}
+p891
+aV{2}{U}
+p892
+aV{1}{R}
+p893
+aV{4}{W}{W}
+p894
+aV{1}{W}
+p895
+aV{2}{R/G}
+p896
+aV{1}{R}
+p897
+aV{1}{G}
+p898
+aV{3}{R}{W}{W}
+p899
+aV{1}{W}{W}
+p900
+aV{R}{G}{W}
+p901
+aV{5}{W}{W}{U}
+p902
+aV{X}{R}
+p903
+aV{1}{R}{G}
+p904
+aV{3}{R}{R}
+p905
+aV{R}
+p906
+aV{1}{B}
+p907
+aV{1}{R}{G}
+p908
+aV{5}{R}
+p909
+aV{5}{U}{R}
+p910
+aV{2}{G}{U}
+p911
+aV{1}{R}
+p912
+aV{2}{R}{W}
+p913
+aV{R}
+p914
+aV{1}{W}{W}
+p915
+aV{X}{R}
+p916
+aV{3}{R}{R}
+p917
+aV{R}
+p918
+aV{R}{G}{W}
+p919
+aV{1}{B}{R}
+p920
+aV{1}{R}{R}
+p921
+aV{2}
+p922
+aV{1}{R}
+p923
+aV{R}{R}
+p924
+aV{3}{R}{R}
+p925
+aV{R}
+p926
+aV{2}{R}
+p927
+aV{3}
+p928
+aV{1}{R}
+p929
+aV{1}{G}
+p930
+aV{G}
+p931
+aV{R}{R}
+p932
+aV{2}{U}{U}
+p933
+aV{2}
+p934
+aV{3}{R}{R}
+p935
+aV{3}{R}
+p936
+aV{8}{G}
+p937
+aV{X}{R}
+p938
+aV{3}{R}{R}
+p939
+aV{3}{B}
+p940
+aV{X}{R}{R}
+p941
+aS'0'
+p942
+aV{2}{R/G}
+p943
+aV{1}{B/R}
+p944
+aV{5}{R}{R}
+p945
+aV{3}{R}{R}
+p946
+aV{3}{B}
+p947
+aV{3}
+p948
+aV{2}{G}
+p949
+aV{3}{B}{B}
+p950
+ag942
+aV{1}{R}{G}
+p951
+aV{3}{R}{R}
+p952
+aV{1}{R}
+p953
+aV{2}{R}
+p954
+aV{1}{B}{R}
+p955
+aV{3}{R}{R}
+p956
+aV{2}{B}
+p957
+aV{R}
+p958
+aV{1}{R}
+p959
+aV{1}{R}
+p960
+aV{1}{U}
+p961
+aV{1}{R}{G}
+p962
+aV{2}{U}{U}
+p963
+aV{1}{R}{R}
+p964
+aV{1}{U}
+p965
+aV{3}{W}
+p966
+aV{3}{B}
+p967
+aV{1}{R}
+p968
+aV{1}{R}{G}
+p969
+aV{1}{W}{U}
+p970
+aV{R}{W}
+p971
+aV{5}{W}{W}{U}
+p972
+aV{2}{G}{W}{U}
+p973
+aV{1}{R}{G}
+p974
+aV{1}{R}{R}
+p975
+aV{R}
+p976
+aV{X}{R}
+p977
+aV{1}{W}{U}
+p978
+aV{2}{G}
+p979
+aV{X}{R}
+p980
+aV{1}{R}{G}
+p981
+aV{W}
+p982
+aV{R}{R}
+p983
+aV{2}
+p984
+aV{R}
+p985
+ag942
+aV{1}{W}{W}
+p986
+aV{3}{R}{R}
+p987
+aV{X}{R}
+p988
+aV{R}
+p989
+aV{4}{R}{R}
+p990
+aV{4}{U}{R}
+p991
+aV{X}{R}
+p992
+aV{2}{R}
+p993
+aV{5}{R}{R}
+p994
+aV{X}{R}
+p995
+aV{U}
+p996
+aV{1}{G}
+p997
+aV{4}{R}{R}
+p998
+aV{1}{R}
+p999
+aV{2}{U}{B}
+p1000
+aV{5}{B}
+p1001
+aV{4}{U}{U}
+p1002
+aV{1}{U}
+p1003
+aV{1}{U}
+p1004
+aV{2}{W}
+p1005
+aV{1}{G}
+p1006
+aV{1}{R}{R}
+p1007
+aV{R}
+p1008
+aV{1}{R}
+p1009
+aV{1}{R}
+p1010
+aV{1}{R}{R}
+p1011
+aV{R}{G}{W}
+p1012
+aV{R/W}
+p1013
+aV{1}{R}{G}
+p1014
+aV{X}{R}
+p1015
+aV{R/W}
+p1016
+aV{3}{R}{R}
+p1017
+aV{4}{R}{R}
+p1018
+aV{2}{B}{B}
+p1019
+aV{6}{R}{R}{R}
+p1020
+aV{2}{R}
+p1021
+aV{4}{R}
+p1022
+aV{5}{R}{R}
+p1023
+aV{3}{B}{B}
+p1024
+aV{2}{R}
+p1025
+asS'names'
+p1026
+(lp1027
+VFireball
+p1028
+aVFierce Empath
+p1029
+aVFire // Ice (Fire)
+p1030
+aVFirespout
+p1031
+aVFists of Ironwood
+p1032
+aVFire // Ice (Ice)
+p1033
+aVFiery Hellhound
+p1034
+aVFireball
+p1035
+aVFirebreathing
+p1036
+aVFire Elemental
+p1037
+aVFireball
+p1038
+aVFirebreathing
+p1039
+aVFiddlehead Kami
+p1040
+aVFire Ants
+p1041
+aVFire Juggler
+p1042
+aVFinal-Sting Faerie
+p1043
+aVFire Elemental
+p1044
+aVFirewing Phoenix
+p1045
+aVFire Elemental
+p1046
+aVFissure
+p1047
+aVFireball
+p1048
+aVFirebreathing
+p1049
+aVFirefright Mage
+p1050
+aVFire-Field Ogre
+p1051
+aVFiremane Angel
+p1052
+aVFiery Fall
+p1053
+aVFire-Belly Changeling
+p1054
+aVFiery Hellhound
+p1055
+aVFireball
+p1056
+aVFirebreathing
+p1057
+aVFiendslayer Paladin
+p1058
+aVFireshrieker
+p1059
+aVFirefly
+p1060
+aVFireslinger
+p1061
+aVField of Souls
+p1062
+aVFighting Drake
+p1063
+aVFirebreathing
+p1064
+aVFists of the Anvil
+p1065
+aVField Marshal
+p1066
+aVFireblast
+p1067
+aVFires of Yavimaya
+p1068
+aVFigure of Destiny
+p1069
+aVFiery Fall
+p1070
+aVFire and Brimstone
+p1071
+aVFire Drake
+p1072
+aVFissure
+p1073
+aVFire // Ice (Ice)
+p1074
+aVFire // Ice (Fire)
+p1075
+aVFire // Ice (Fire)
+p1076
+aVFire Ambush
+p1077
+aVFire Drake
+p1078
+aVFire Sprites
+p1079
+aVFirestorm Phoenix
+p1080
+aVFire Elemental
+p1081
+aVFireball
+p1082
+aVFirebreathing
+p1083
+aVFire Dragon
+p1084
+aVFishliver Oil
+p1085
+aVFinal Punishment
+p1086
+aVFirebreathing
+p1087
+aVFire at Will
+p1088
+aVFiery Bombardment
+p1089
+aVFigure of Destiny
+p1090
+aVFiery Fall
+p1091
+aVFiligree Fracture
+p1092
+aVFiery Conclusion
+p1093
+aVFiery Fall
+p1094
+aVFires of Yavimaya
+p1095
+aVField of Souls
+p1096
+aVFiend Hunter
+p1097
+aVField of Reality
+p1098
+aVFirst Volley
+p1099
+aVFinal Judgment
+p1100
+aVField Surgeon
+p1101
+aVFirespout
+p1102
+aVFiery Conclusion
+p1103
+aVFists of Ironwood
+p1104
+aVFiremane Angel
+p1105
+aVFiend Hunter
+p1106
+aVFiery Justice
+p1107
+aVFiligree Angel
+p1108
+aVFireball
+p1109
+aVFires of Yavimaya
+p1110
+aVFissure Vent
+p1111
+aVFirebolt
+p1112
+aVFilthy Cur
+p1113
+aVFirewake Sliver
+p1114
+aVFiremaw Kavu
+p1115
+aVFiremind's Foresight
+p1116
+aVFirefist Striker
+p1117
+aVFiremane Avenger
+p1118
+aVFive-Alarm Fire
+p1119
+aVFighting Chance
+p1120
+aVField Marshal
+p1121
+aVFireball
+p1122
+aVFire Elemental
+p1123
+aVFirebreathing
+p1124
+aVFiery Justice
+p1125
+aVFire Covenant
+p1126
+aVFiery Temper
+p1127
+aVFire Diamond
+p1128
+aVFit of Rage
+p1129
+aVFinal Fortune
+p1130
+aVFire Elemental
+p1131
+aVFirebreathing
+p1132
+aVFiery Gambit
+p1133
+aVFireshrieker
+p1134
+aVFists of the Anvil
+p1135
+aVFiligree Sages
+p1136
+aVFire-Field Ogre
+p1137
+aVFinal Fortune
+p1138
+aVFighting Drake
+p1139
+aVFire Diamond
+p1140
+aVFire Elemental
+p1141
+aVFickle Efreet
+p1142
+aVFirst Response
+p1143
+aVFireball
+p1144
+aVFissure Vent
+p1145
+aVFilth
+p1146
+aVFirecat Blitz
+p1147
+aVFire-Lit Thicket
+p1148
+aVFirespout
+p1149
+aVFists of the Demigod
+p1150
+aVFire Tempest
+p1151
+aVFire Elemental
+p1152
+aVFill with Fright
+p1153
+aVFist of Suns
+p1154
+aVFierce Empath
+p1155
+aVFinal Punishment
+p1156
+aVFields of Summer
+p1157
+aVFires of Yavimaya
+p1158
+aVFiery Hellhound
+p1159
+aVFiery Mantle
+p1160
+aVFire Ants
+p1161
+aVFire Covenant
+p1162
+aVFissure
+p1163
+aVFiredrinker Satyr
+p1164
+aVFirestorm
+p1165
+aVFire Whip
+p1166
+aVFit of Rage
+p1167
+aVFires of Yavimaya
+p1168
+aVFireshrieker
+p1169
+aVFighting Drake
+p1170
+aVFire Drake
+p1171
+aVFishliver Oil
+p1172
+aVFight or Flight
+p1173
+aVFirescreamer
+p1174
+aVFirebrand Ranger
+p1175
+aVFires of Yavimaya
+p1176
+aVFieldmist Borderpost
+p1177
+aVFight to the Death
+p1178
+aVFiligree Angel
+p1179
+aVFinest Hour
+p1180
+aVFirewild Borderpost
+p1181
+aVFire Drake
+p1182
+aVFirebreathing
+p1183
+aVFireball
+p1184
+aVFieldmist Borderpost
+p1185
+aVFierce Empath
+p1186
+aVFireball
+p1187
+aVFires of Yavimaya
+p1188
+aVFirehoof Cavalry
+p1189
+aVFinal Fortune
+p1190
+aVFire Diamond
+p1191
+aVFirebreathing
+p1192
+aVFigure of Destiny Avatar
+p1193
+aVFiend Hunter
+p1194
+aVFire Elemental
+p1195
+aVFireball
+p1196
+aVFirebreathing
+p1197
+aVFireblast
+p1198
+aVFirestorm Hellkite
+p1199
+aVFireball
+p1200
+aVFire Imp
+p1201
+aVFire Tempest
+p1202
+aVFireball
+p1203
+aVField of Dreams
+p1204
+aVFire Sprites
+p1205
+aVFirestorm Phoenix
+p1206
+aVFire // Ice (Fire)
+p1207
+aVFire-Belly Changeling
+p1208
+aVFistful of Force
+p1209
+aVFinal Revels
+p1210
+aVFishliver Oil
+p1211
+aVFishliver Oil
+p1212
+aVFiery Hellhound
+p1213
+aVFire Servant
+p1214
+aVFireball
+p1215
+aVFire Bowman
+p1216
+aVFire Ambush
+p1217
+aVFire Whip
+p1218
+aVFiery Temper
+p1219
+aVFiery Justice
+p1220
+aVFigure of Destiny
+p1221
+aVFires of Yavimaya
+p1222
+aVFireball
+p1223
+aVFigure of Destiny
+p1224
+aVFire Servant
+p1225
+aVFireblast
+p1226
+aVFinal Strike
+p1227
+aVFire Dragon
+p1228
+aVFire Imp
+p1229
+aVFire Snake
+p1230
+aVFire Tempest
+p1231
+aVFiend of the Shadows
+p1232
+aVFires of Undeath
+p1233
+asS'toughs'
+p1234
+(lp1235
+S'N/A'
+p1236
+aV1
+p1237
+ag1236
+ag1236
+ag1236
+ag1236
+ag1237
+ag1236
+ag1236
+ag1237
+ag1236
+ag1236
+aV3
+p1238
+ag1237
+aV2
+p1239
+ag1239
+ag1238
+ag1238
+ag1237
+ag1236
+ag1236
+ag1236
+ag1237
+ag1237
+ag1239
+ag1236
+ag1237
+ag1237
+ag1236
+ag1236
+ag1237
+ag1236
+ag1237
+ag1238
+ag1236
+aV6
+p1240
+ag1236
+ag1236
+ag1238
+ag1236
+ag1236
+aV7
+p1241
+ag1236
+ag1236
+aV5
+p1242
+ag1236
+ag1236
+ag1236
+ag1236
+ag1236
+ag1239
+ag1239
+ag1237
+ag1242
+ag1236
+ag1236
+ag1240
+ag1236
+ag1236
+ag1236
+ag1236
+ag1236
+ag1239
+ag1236
+ag1236
+ag1236
+ag1236
+ag1236
+ag1236
+ag1238
+ag1236
+ag1236
+ag1236
+ag1242
+ag1236
+ag1236
+ag1236
+ag1240
+ag1240
+ag1236
+ag1236
+ag1236
+ag1236
+ag1236
+ag1236
+ag1239
+ag1237
+ag1239
+ag1236
+ag1237
+ag1237
+ag1236
+ag1236
+ag1237
+ag1236
+ag1237
+ag1236
+ag1236
+ag1236
+ag1236
+ag1236
+ag1236
+ag1236
+ag1240
+ag1236
+ag1236
+ag1236
+ag1236
+ag1236
+ag1237
+ag1236
+ag1238
+ag1236
+aV4
+p1243
+ag1239
+ag1236
+ag1236
+ag1236
+ag1239
+ag1236
+ag1236
+ag1236
+ag1236
+ag1236
+ag1243
+ag1236
+ag1236
+ag1237
+ag1236
+ag1236
+ag1236
+ag1241
+ag1236
+ag1237
+ag1236
+ag1236
+ag1238
+ag1236
+ag1236
+ag1236
+ag1236
+ag1236
+ag1243
+ag1242
+ag1236
+ag1236
+ag1239
+ag1237
+ag1236
+ag1236
+ag1236
+ag1236
+ag1236
+ag1236
+ag1239
+ag1236
+ag1236
+ag1236
+aV0
+p1244
+ag1236
+ag1236
+ag1237
+ag1236
+ag1236
+ag1236
+ag1236
+ag1239
+ag1242
+ag1236
+ag1236
+ag1236
+ag1237
+ag1236
+ag1237
+ag1236
+ag1236
+ag1236
+ag1239
+ag1237
+ag1236
+ag1238
+ag1236
+ag1236
+ag1236
+ag1236
+ag1239
+ag1239
+ag1236
+ag1237
+ag1236
+ag1236
+ag1236
+ag1236
+ag1237
+ag1236
+ag1236
+ag1237
+ag1238
+ag1236
+ag1236
+ag1240
+ag1237
+ag1237
+ag1236
+ag1239
+ag1236
+asS'artists'
+p1245
+(lp1246
+VMark Tedin
+p1247
+aVAlan Pollack
+p1248
+aVDavid Martin
+p1249
+aVJeff Miracola
+p1250
+aVGlen Angus
+p1251
+aVDavid Martin
+p1252
+aS''
+p1253
+ag1253
+ag1253
+aVMelissa Benson
+p1254
+aVMark Tedin
+p1255
+aVDan Frazier
+p1256
+aVRebecca Guay
+p1257
+aVTom Fleming
+p1258
+aVThomas Denmark
+p1259
+aVWayne Reynolds
+p1260
+aVSlawomir Maniak
+p1261
+aVJames Paick
+p1262
+aVMelissa A. Benson
+p1263
+aVDouglas Shuler
+p1264
+aVMark Tedin
+p1265
+aVDan Frazier
+p1266
+aVGreg Staples
+p1267
+aVMitch Cotie
+p1268
+aVMatt Cavotta
+p1269
+aVDaarken
+p1270
+aVRandy Gallegos
+p1271
+aVTed Galaday
+p1272
+aVDave Dorman
+p1273
+aVAleksi Briclot
+p1274
+aVWesley Burt
+p1275
+aVChristopher Moeller
+p1276
+aVStephen Daniele
+p1277
+aVJeff Reitz
+p1278
+aVRichard Kane Ferguson
+p1279
+aVDiTerlizzi
+p1280
+aVAleksi Briclot
+p1281
+aVPete Venters
+p1282
+aVStephen Tappin
+p1283
+aVMike Bierek
+p1284
+aVIzzy
+p1285
+ag1253
+ag1253
+aVJeff A. Menges
+p1286
+aVChristopher Rush
+p1287
+aVDouglas Shuler
+p1288
+aVFranz Vohwinkel
+p1289
+aVDavid Martin
+p1290
+aVDavid Martin
+p1291
+aVChristopher Rush
+p1292
+aVJulie Baroh
+p1293
+aVJeff A. Menges
+p1294
+aVTom Wänerstrand
+p1295
+aVMelissa Benson
+p1296
+aVMark Tedin
+p1297
+aVDan Frazier
+p1298
+aVWilliam Simpson
+p1299
+aVRalph Horsley
+p1300
+aVMatt Thompson
+p1301
+aVMike Kerr
+p1302
+aVPete Venters
+p1303
+aVNils Hamm
+p1304
+aVScott M. Fischer
+p1305
+aVDaarken
+p1306
+aVHoward Lyon
+p1307
+ag1253
+ag1253
+ag1253
+aVRichard Kane Ferguson
+p1308
+aVWayne Reynolds
+p1309
+aVChristopher Rush
+p1310
+aVGlen Angus
+p1311
+aVKev Walker
+p1312
+aVHeather Hudson
+p1313
+aVRaymond Swanland
+p1314
+aVPaolo Parente
+p1315
+aVGlen Angus
+p1316
+aVMatt Cavotta
+p1317
+aVWayne Reynolds
+p1318
+aVMathias Kollros
+p1319
+aVRichard Whitters
+p1320
+aVDave Dorman
+p1321
+aVIzzy
+p1322
+aVPhilip Straub
+p1323
+aVRon Spencer
+p1324
+aVAdam Rex
+p1325
+aVAnthony S. Waters
+p1326
+aVGreg Hildebrandt
+p1327
+aVDan Scott
+p1328
+aVTyler Jacobson
+p1329
+aVWayne Reynolds
+p1330
+aVKarl Kopinski
+p1331
+aVMike Raabe
+p1332
+aVStephen Tappin
+p1333
+aVMark Tedin
+p1334
+aVMelissa Benson
+p1335
+aVDan Frazier
+p1336
+aVMelissa Benson
+p1337
+aVDan Frazier
+p1338
+aVGreg & Tim Hildebrandt
+p1339
+aVRichard Thomas
+p1340
+aVDouglas Shuler
+p1341
+aVD. Alexander Gregory
+p1342
+aVMelissa A. Benson
+p1343
+aVMike Kerr
+p1344
+aVScott M. Fischer
+p1345
+aVChristopher Moeller
+p1346
+aVPete Venters
+p1347
+aVDan Scott
+p1348
+aVMitch Cotie
+p1349
+aVGreg & Tim Hildebrandt
+p1350
+aVMatt Cavotta
+p1351
+aVDavid Martin
+p1352
+aVDouglas Shuler
+p1353
+aVDave Dorman
+p1354
+aVSlawomir Maniak
+p1355
+aVDave Dorman
+p1356
+aVPhilip Straub
+p1357
+aVThomas M. Baxa
+p1358
+aVDavid Martin
+p1359
+aVRalph Horsley
+p1360
+aVJeff Miracola
+p1361
+aVDan Scott
+p1362
+aVMike Dringenberg
+p1363
+aVMelissa A. Benson
+p1364
+aVLuca Zontini
+p1365
+aVArnie Swekel
+p1366
+aVAlan Pollack
+p1367
+aVMatt Thompson
+p1368
+aVDaniel Ljunggren
+p1369
+aVVal Mayerik
+p1370
+ag1253
+aVBob Eggleton
+p1371
+aVTom Fleming
+p1372
+aVDan Frazier
+p1373
+aVDouglas Shuler
+p1374
+aVAnthony Palumbo
+p1375
+aVJeff Miracola
+p1376
+aVJeff Miracola
+p1377
+aVDouglas Shuler
+p1378
+aVIzzy
+p1379
+aVChristopher Moeller
+p1380
+aVMatt Cavotta
+p1381
+aVChristopher Rush
+p1382
+aVAnson Maddocks
+p1383
+aVRandy Gallegos
+p1384
+aVAlan Pollack
+p1385
+aVQuinton Hoover
+p1386
+aVVal Mayerik
+p1387
+aVMichael Bruinsma
+p1388
+aVMichael Komarck
+p1389
+aVRichard Whitters
+p1390
+aVMichael Komarck
+p1391
+aVJean-Sébastien Rossbach
+p1392
+aVChristopher Rush
+p1393
+aVDan Frazier
+p1394
+aVMark Tedin
+p1395
+aVMichael Bruinsma
+p1396
+aVAlan Pollack
+p1397
+aVDave Dorman
+p1398
+aVVal Mayerik
+p1399
+aVYW Tang
+p1400
+aVD. Alexander Gregory
+p1401
+aVRichard Thomas
+p1402
+aVMike Kerr
+p1403
+aVUDON
+p1404
+aVWayne Reynolds
+p1405
+aVMelissa Benson
+p1406
+aVMark Tedin
+p1407
+aVDan Frazier
+p1408
+aVMichael Danza
+p1409
+aVPete Venters
+p1410
+aVMark Tedin
+p1411
+aVDiTerlizzi
+p1412
+aVMike Dringenberg
+p1413
+aVMark Tedin
+p1414
+aVKaja Foglio
+p1415
+aVJulie Baroh
+p1416
+aVJeff A. Menges
+p1417
+aVDan Scott
+p1418
+aVRandy Gallegos
+p1419
+aVRalph Horsley
+p1420
+aVOmar Rayyan
+p1421
+aVAnson Maddocks
+p1422
+aVAnson Maddocks
+p1423
+aVTed Galaday
+p1424
+aVRyan Yee
+p1425
+aVDave Dorman
+p1426
+aVCai Tingting
+p1427
+aVTang Xiaogu
+p1428
+aVJeff Miracola
+p1429
+aVGreg & Tim Hildebrandt
+p1430
+aVMelissa A. Benson
+p1431
+aVScott M. Fischer
+p1432
+aVIzzy
+p1433
+ag1253
+ag1253
+ag1253
+ag1253
+aVJohn Coulthart
+p1434
+aVWilliam Simpson
+p1435
+aVDiTerlizzi
+p1436
+aVSteve Luke
+p1437
+aVMike Dringenberg
+p1438
+aVJana Schirmer & Johannes Voss
+p1439
+aVIzzy
+p1440
+asS'powers'
+p1441
+(lp1442
+g1236
+ag1237
+ag1236
+ag1236
+ag1236
+ag1236
+ag1239
+ag1236
+ag1236
+ag1239
+ag1236
+ag1236
+ag1238
+ag1239
+ag1239
+ag1239
+ag1242
+ag1243
+ag1237
+ag1236
+ag1236
+ag1236
+ag1237
+ag1243
+ag1243
+ag1236
+ag1237
+ag1241
+ag1236
+ag1236
+ag1239
+ag1236
+ag1237
+ag1238
+ag1236
+ag1241
+ag1236
+ag1236
+ag1242
+ag1236
+ag1236
+ag1241
+ag1236
+ag1236
+ag1243
+ag1236
+ag1236
+ag1236
+ag1236
+ag1236
+ag1237
+ag1237
+ag1237
+ag1237
+ag1236
+ag1236
+ag1240
+ag1236
+ag1236
+ag1236
+ag1236
+ag1236
+ag1239
+ag1236
+ag1236
+ag1236
+ag1236
+ag1236
+ag1236
+ag1237
+ag1236
+ag1236
+ag1236
+ag1244
+ag1236
+ag1236
+ag1236
+ag1240
+aV8
+p1443
+ag1236
+ag1236
+ag1236
+ag1236
+ag1236
+ag1236
+ag1238
+ag1237
+ag1243
+ag1236
+ag1237
+ag1239
+ag1236
+ag1236
+ag1239
+ag1236
+ag1239
+ag1236
+ag1236
+ag1236
+ag1236
+ag1236
+ag1236
+ag1236
+ag1238
+ag1236
+ag1236
+ag1236
+ag1236
+ag1236
+ag1238
+ag1236
+ag1238
+ag1236
+ag1239
+ag1242
+ag1236
+ag1236
+ag1236
+ag1239
+ag1236
+ag1236
+ag1236
+ag1236
+ag1236
+ag1242
+ag1236
+ag1236
+ag1237
+ag1236
+ag1236
+ag1236
+ag1237
+ag1236
+ag1239
+ag1236
+ag1236
+ag1239
+ag1236
+ag1236
+ag1236
+ag1236
+ag1236
+ag1239
+ag1243
+ag1236
+ag1236
+ag1239
+ag1239
+ag1236
+ag1236
+ag1236
+ag1236
+ag1236
+ag1236
+ag1239
+ag1236
+ag1236
+ag1236
+ag1244
+ag1236
+ag1236
+ag1237
+ag1236
+ag1236
+ag1236
+ag1236
+ag1237
+ag1243
+ag1236
+ag1236
+ag1236
+ag1237
+ag1236
+ag1239
+ag1236
+ag1236
+ag1236
+ag1239
+ag1244
+ag1236
+ag1237
+ag1236
+ag1236
+ag1236
+ag1236
+ag1239
+ag1243
+ag1236
+ag1237
+ag1236
+ag1236
+ag1236
+ag1236
+ag1237
+ag1236
+ag1236
+ag1237
+ag1243
+ag1236
+ag1236
+ag1240
+ag1239
+ag1238
+ag1236
+ag1239
+ag1236
+asS'types'
+p1444
+(lp1445
+VSorcery
+p1446
+aVCreature - Elf
+p1447
+aVInstant
+p1448
+aVSorcery
+p1449
+aVEnchantment - Aura
+p1450
+aVInstant
+p1451
+aVCreature - Elemental Hound
+p1452
+aVSorcery
+p1453
+aVEnchantment - Aura
+p1454
+aVCreature - Elemental
+p1455
+aVSorcery
+p1456
+aVEnchantment - Aura
+p1457
+aVCreature - Spirit
+p1458
+aVCreature - Insect
+p1459
+aVCreature - Goblin Shaman
+p1460
+aVCreature - Faerie Assassin
+p1461
+aVCreature - Elemental
+p1462
+aVCreature - Phoenix
+p1463
+aVCreature - Elemental
+p1464
+aVInstant
+p1465
+aVSorcery
+p1466
+aVEnchantment - Aura
+p1467
+aVCreature - Goblin Spellshaper
+p1468
+aVCreature - Ogre Mutant
+p1469
+aVCreature - Angel
+p1470
+aVInstant
+p1471
+aVCreature - Shapeshifter
+p1472
+aVCreature - Elemental Hound
+p1473
+aVSorcery
+p1474
+aVEnchantment - Aura
+p1475
+aVCreature - Human Knight
+p1476
+aVArtifact - Equipment
+p1477
+aVCreature - Insect
+p1478
+aVCreature - Human Wizard
+p1479
+aVEnchantment
+p1480
+aVCreature - Drake
+p1481
+aVEnchantment - Aura
+p1482
+aVInstant
+p1483
+aVCreature - Human Soldier
+p1484
+aVInstant
+p1485
+aVEnchantment
+p1486
+aVCreature - Kithkin
+p1487
+aVInstant
+p1488
+aVInstant
+p1489
+aVCreature - Drake
+p1490
+aVInstant
+p1491
+aVInstant
+p1492
+aVInstant
+p1493
+aVInstant
+p1494
+aVSorcery
+p1495
+aVCreature - Drake
+p1496
+aVCreature - Faerie
+p1497
+aVCreature - Phoenix
+p1498
+aVCreature - Elemental
+p1499
+aVSorcery
+p1500
+aVEnchantment - Aura
+p1501
+aVCreature - Dragon
+p1502
+aVEnchantment - Aura
+p1503
+aVSorcery
+p1504
+aVEnchantment - Aura
+p1505
+aVInstant
+p1506
+aVEnchantment
+p1507
+aVCreature - Kithkin
+p1508
+aVInstant
+p1509
+aVInstant
+p1510
+aVInstant
+p1511
+aVInstant
+p1512
+aVEnchantment
+p1513
+aVEnchantment
+p1514
+aVCreature - Human Cleric
+p1515
+aVEnchantment - Aura
+p1516
+aVInstant - Arcane
+p1517
+aVSorcery
+p1518
+aVCreature - Human Cleric
+p1519
+aVSorcery
+p1520
+aVInstant
+p1521
+aVEnchantment - Aura
+p1522
+aVCreature - Angel
+p1523
+aVCreature - Human Cleric
+p1524
+aVSorcery
+p1525
+aVArtifact Creature - Angel
+p1526
+aVSorcery
+p1527
+aVEnchantment
+p1528
+aVSorcery
+p1529
+aVSorcery
+p1530
+aVCreature - Hound
+p1531
+aVCreature - Sliver
+p1532
+aVCreature - Kavu
+p1533
+aVInstant
+p1534
+aVCreature - Human Soldier
+p1535
+aVCreature - Angel
+p1536
+aVEnchantment
+p1537
+aVInstant
+p1538
+aVCreature - Human Soldier
+p1539
+aVSorcery
+p1540
+aVCreature - Elemental
+p1541
+aVEnchantment - Aura
+p1542
+aVSorcery
+p1543
+aVInstant
+p1544
+aVInstant
+p1545
+aVArtifact
+p1546
+aVSorcery
+p1547
+aVInstant
+p1548
+aVCreature - Elemental
+p1549
+aVEnchantment - Aura
+p1550
+aVSorcery
+p1551
+aVArtifact - Equipment
+p1552
+aVInstant
+p1553
+aVArtifact Creature - Vedalken Wizard
+p1554
+aVCreature - Ogre Mutant
+p1555
+aVInstant
+p1556
+aVCreature - Drake
+p1557
+aVArtifact
+p1558
+aVCreature - Elemental
+p1559
+aVCreature - Efreet
+p1560
+aVEnchantment
+p1561
+aVSorcery
+p1562
+aVSorcery
+p1563
+aVCreature - Incarnation
+p1564
+aVSorcery
+p1565
+aVLand
+p1566
+aVSorcery
+p1567
+aVEnchantment - Aura
+p1568
+aVSorcery
+p1569
+aVCreature - Elemental
+p1570
+aVSorcery
+p1571
+aVArtifact
+p1572
+aVCreature - Elf
+p1573
+aVSorcery
+p1574
+aVPlane - Moag
+p1575
+aVEnchantment
+p1576
+aVCreature - Elemental Hound
+p1577
+aVEnchantment - Aura
+p1578
+aVCreature - Insect
+p1579
+aVInstant
+p1580
+aVInstant
+p1581
+aVCreature - Satyr Shaman
+p1582
+aVInstant
+p1583
+aVEnchantment - Aura
+p1584
+aVSorcery
+p1585
+aVEnchantment
+p1586
+aVArtifact - Equipment
+p1587
+aVCreature - Drake
+p1588
+aVCreature - Drake
+p1589
+aVEnchantment - Aura
+p1590
+aVEnchantment
+p1591
+aVCreature - Kavu
+p1592
+aVCreature - Human Soldier
+p1593
+aVEnchantment
+p1594
+aVArtifact
+p1595
+aVInstant
+p1596
+aVArtifact Creature - Angel
+p1597
+aVEnchantment
+p1598
+aVArtifact
+p1599
+aVCreature - Drake
+p1600
+aVEnchantment - Aura
+p1601
+aVSorcery
+p1602
+aVArtifact
+p1603
+aVCreature - Elf
+p1604
+aVSorcery
+p1605
+aVEnchantment
+p1606
+aVCreature - Human Berserker
+p1607
+aVInstant
+p1608
+aVArtifact
+p1609
+aVEnchantment - Aura
+p1610
+aVVanguard
+p1611
+aVCreature - Human Cleric
+p1612
+aVCreature - Elemental
+p1613
+aVSorcery
+p1614
+aVEnchantment - Aura
+p1615
+aVInstant
+p1616
+aVCreature - Dragon
+p1617
+aVSorcery
+p1618
+aVCreature - Imp
+p1619
+aVSorcery
+p1620
+aVSorcery
+p1621
+aVWorld Enchantment
+p1622
+aVCreature - Faerie
+p1623
+aVCreature - Phoenix
+p1624
+aVInstant
+p1625
+aVCreature - Shapeshifter
+p1626
+aVInstant
+p1627
+aVSorcery
+p1628
+aVEnchantment - Aura
+p1629
+aVEnchantment - Aura
+p1630
+aVCreature - Elemental Hound
+p1631
+aVCreature - Elemental
+p1632
+aVSorcery
+p1633
+aVCreature - Human Soldier Archer
+p1634
+aVSorcery
+p1635
+aVEnchantment - Aura
+p1636
+aVInstant
+p1637
+aVSorcery
+p1638
+aVCreature - Kithkin
+p1639
+aVEnchantment
+p1640
+aVSorcery
+p1641
+aVCreature - Kithkin
+p1642
+aVCreature - Elemental
+p1643
+aVInstant
+p1644
+aVSorcery
+p1645
+aVCreature - Dragon
+p1646
+aVCreature - Imp
+p1647
+aVCreature - Snake
+p1648
+aVSorcery
+p1649
+aVCreature - Vampire Wizard
+p1650
+aVInstant
+p1651
+asS'numbers'
+p1652
+(lp1653
+V27
+p1654
+aV155
+p1655
+aV198
+p1656
+aV199
+p1657
+aV156
+p1658
+aV198
+p1659
+aV130
+p1660
+aV131
+p1661
+aV132
+p1662
+aV93
+p1663
+aV94
+p1664
+aV95
+p1665
+aV130
+p1666
+aV31
+p1667
+aV90
+p1668
+aV63
+p1669
+aV130
+p1670
+aV131
+p1671
+aV105
+p1672
+aV106
+p1673
+aV207
+p1674
+aV208
+p1675
+aV99
+p1676
+aV53
+p1677
+aV21
+p1678
+aV76
+p1679
+aV51
+p1680
+aV135
+p1681
+aV136
+p1682
+aV137
+p1683
+aV18
+p1684
+aV210
+p1685
+aV146
+p1686
+aV147
+p1687
+aV180
+p1688
+aV258
+p1689
+aV200
+p1690
+aV201
+p1691
+aV15
+p1692
+aV159
+p1693
+aV252
+p1694
+ag1253
+ag1253
+aV59
+p1695
+aV91
+p1696
+aV92
+p1697
+aV128
+p1698
+aV128
+p1699
+aV129
+p1700
+aV97
+p1701
+aV98
+p1702
+aV118
+p1703
+aV99
+p1704
+aV124
+p1705
+aV125
+p1706
+aV126
+p1707
+aV125
+p1708
+aV77
+p1709
+aV131
+p1710
+aV181
+p1711
+aV140
+p1712
+aV52
+p1713
+aV139
+p1714
+aV63
+p1715
+aV82
+p1716
+aV81
+p1717
+aV82
+p1718
+aV83
+p1719
+aV30
+p1720
+aV11
+p1721
+aV60
+p1722
+aV100
+p1723
+ag1243
+ag1443
+ag1240
+aV122
+p1724
+aV164
+p1725
+aV205
+p1726
+aV11
+p1727
+aV188
+p1728
+aV189
+p1729
+aV106
+p1730
+aV190
+p1731
+aV107
+p1732
+aV193
+p1733
+aV136
+p1734
+aV238
+p1735
+aV153
+p1736
+aV162
+p1737
+aV90
+p1738
+aV163
+p1739
+aV91
+p1740
+aV82
+p1741
+ag1242
+aV11
+p1742
+aV98
+p1743
+aV99
+p1744
+aV213
+p1745
+aV214
+p1746
+aV97
+p1747
+aV284
+p1748
+aV178
+p1749
+aV175
+p1750
+aV176
+p1751
+aV177
+p1752
+aV90
+p1753
+aV171
+p1754
+aV91
+p1755
+aV44
+p1756
+aV168
+p1757
+aV182
+p1758
+aV73
+p1759
+aV296
+p1760
+aV183
+p1761
+aV89
+p1762
+aV12
+p1763
+aV60
+p1764
+aV144
+p1765
+aV66
+p1766
+aV88
+p1767
+aV271
+p1768
+aV205
+p1769
+aV187
+p1770
+aV97
+p1771
+aV96
+p1772
+aV50
+p1773
+aV123
+p1774
+aV119
+p1775
+aV67
+p1776
+aV10
+p1777
+aV87
+p1778
+ag1253
+aV186
+p1779
+aV187
+p1780
+aV145
+p1781
+aV93
+p1782
+aV122
+p1783
+aV84
+p1784
+aV137
+p1785
+aV138
+p1786
+aV188
+p1787
+aV199
+p1788
+aV77
+p1789
+aV71
+p1790
+aV72
+p1791
+aV16
+p1792
+aV106
+p1793
+aV143
+p1794
+aV246
+p1795
+ag1242
+aV97
+p1796
+ag1240
+aV126
+p1797
+aV54
+p1798
+aV132
+p1799
+aV133
+p1800
+aV270
+p1801
+aV85
+p1802
+aV55
+p1803
+aV37
+p1804
+aV86
+p1805
+aV11
+p1806
+aV273
+p1807
+aV274
+p1808
+aV275
+p1809
+aV82
+p1810
+aV15
+p1811
+aV145
+p1812
+aV146
+p1813
+aV147
+p1814
+aV66
+p1815
+aV100
+p1816
+aV42
+p1817
+aV113
+p1818
+aV114
+p1819
+aV115
+p1820
+aV43
+p1821
+aV65
+p1822
+aV94
+p1823
+aV32
+p1824
+aV164
+p1825
+aV212
+p1826
+aV113
+p1827
+aV57
+p1828
+aV58
+p1829
+aV136
+p1830
+aV137
+p1831
+aV138
+p1832
+aV112
+p1833
+aV111
+p1834
+aV63
+p1835
+aV62
+p1836
+aV92
+p1837
+ag1238
+aV70
+p1838
+ag1253
+ag1253
+ag1253
+ag1253
+aV10
+p1839
+aV59
+p1840
+aV60
+p1841
+aV61
+p1842
+aV127
+p1843
+aV62
+p1844
+aV88
+p1845
+as.

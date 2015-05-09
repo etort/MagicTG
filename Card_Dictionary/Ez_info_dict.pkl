@@ -1,0 +1,100 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVCommon
+p4
+aVRare
+p5
+asS'editns'
+p6
+(lp7
+VScars of Mirrodin
+p8
+aVScars of Mirrodin
+p9
+aVScars of Mirrodin
+p10
+asS'ids'
+p11
+(lp12
+V194243
+p13
+aV194092
+p14
+aV212707
+p15
+asS'texts'
+p16
+(lp17
+VReach <i>(This creature can block creatures with flying.)</i><br>Whenever Ezuri's Archers blocks a creature with flying, Ezuri's Archers gets +3/+0 until end of turn.
+p18
+aVMetalcraft- As long as you control three or more artifacts, Ezuri's Brigade gets +4/+4 and has trample.
+p19
+aV{R}, Sacrifice an artifact: Ferrovore gets +3/+0 until end of turn.
+p20
+asS'costs'
+p21
+(lp22
+V{X}{B}{B}
+p23
+aV{1}{G}{G}
+p24
+aV{G}
+p25
+asS'names'
+p26
+(lp27
+VEzuri, Renegade Leader
+p28
+aVEzuri's Archers
+p29
+aVEzuri's Brigade
+p30
+asS'toughs'
+p31
+(lp32
+V3
+p33
+aV4
+p34
+aV1
+p35
+asS'artists'
+p36
+(lp37
+VKarl Kopinski
+p38
+aVShelly Wan
+p39
+aVNic Klein
+p40
+asS'powers'
+p41
+(lp42
+V2
+p43
+ag43
+aV0
+p44
+asS'types'
+p45
+(lp46
+VLegendary Creature - Elf Warrior
+p47
+aVCreature - Elf Archer
+p48
+aVCreature - Elf Warrior
+p49
+asS'numbers'
+p50
+(lp51
+V119
+p52
+aV120
+p53
+aV121
+p54
+as.

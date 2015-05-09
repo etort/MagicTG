@@ -1,0 +1,160 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVCommon
+p4
+aVCommon
+p5
+aVCommon
+p6
+aVCommon
+p7
+aVCommon
+p8
+asS'editns'
+p9
+(lp10
+VFourth Edition
+p11
+aVGuildpact
+p12
+aVSeventh Edition
+p13
+aVUrza's Legacy
+p14
+aVMasters Edition IV
+p15
+aVLegends
+p16
+asS'ids'
+p17
+(lp18
+V2353
+p19
+aV96974
+p20
+aV12980
+p21
+aV8786
+p22
+aV202436
+p23
+aV1627
+p24
+asS'texts'
+p25
+(lp26
+VFirst strike; banding <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
+p27
+aV{B}, Sacrifice a creature: Destroy each creature with the same converted mana cost as the sacrificed creature.
+p28
+aVTremor deals 1 damage to each creature without flying.
+p29
+aV{T}, Sacrifice Phyrexian Plaguelord: Target creature gets -4/-4 until end of turn.<br>Sacrifice a creature: Target creature gets -1/-1 until end of turn.
+p30
+aVEnchant land<br>As Phantasmal Terrain enters the battlefield, choose a basic land type.<br>Enchanted land is the chosen type.
+p31
+aVCounter target creature spell.
+p32
+asS'costs'
+p33
+(lp34
+V{1}{W}
+p35
+aV{3}{B}
+p36
+aV{B}
+p37
+aV{B}
+p38
+aV{1}{W}
+p39
+aV{1}{W}
+p40
+asS'names'
+p41
+(lp42
+VOsai Vultures
+p43
+aVOstiary Thrull
+p44
+aVOstracize
+p45
+aVOstracize
+p46
+aVOsai Vultures
+p47
+aVOsai Vultures
+p48
+asS'toughs'
+p49
+(lp50
+V1
+p51
+aV2
+p52
+aS'N/A'
+p53
+ag53
+aV4
+p54
+aV3
+p55
+asS'artists'
+p56
+(lp57
+VDan Frazier
+p58
+aVRon Spencer
+p59
+aVHannibal King
+p60
+aVChippy
+p61
+aVDan Frazier
+p62
+aVDan Frazier
+p63
+asS'powers'
+p64
+(lp65
+g51
+ag52
+ag53
+ag53
+ag52
+ag55
+asS'types'
+p66
+(lp67
+VCreature - Bird
+p68
+aVCreature - Thrull
+p69
+aVSorcery
+p70
+aVSorcery
+p71
+aVCreature - Bird
+p72
+aVCreature - Bird
+p73
+asS'numbers'
+p74
+(lp75
+V134
+p76
+aV55
+p77
+aV153
+p78
+aV57
+p79
+aV21
+p80
+aV254
+p81
+as.

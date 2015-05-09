@@ -1,0 +1,140 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVRare
+p4
+aVRare
+p5
+aVRare
+p6
+aVRare
+p7
+asS'editns'
+p8
+(lp9
+VMagic: The Gathering-Commander
+p10
+aVBattle Royale Box Set
+p11
+aVIce Age
+p12
+aVEighth Edition
+p13
+aVFifth Edition
+p14
+asS'ids'
+p15
+(lp16
+V247151
+p17
+aV11380
+p18
+aV2576
+p19
+aV46622
+p20
+aV3992
+p21
+asS'texts'
+p22
+(lp23
+VLhurgoyf's power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1.
+p24
+aVHaste <i>(This creature can attack and {T} as soon as it comes under your control.)</i>
+p25
+aVTarget player discards a card.<br>Draw a card at the beginning of the next turn's upkeep.
+p26
+aVHammer of Bogardan deals 3 damage to target creature or player.<br>{2}{R}{R}{R}: Return Hammer of Bogardan from your graveyard to your hand. Activate this ability only during your upkeep.
+p27
+aVSwampwalk
+p28
+asS'costs'
+p29
+(lp30
+V{1}{R}
+p31
+aV{2}{G}{G}
+p32
+aV{2}{G}{G}
+p33
+aV{2}{G}{G}
+p34
+aV{2}{G}{G}
+p35
+asS'names'
+p36
+(lp37
+VLhurgoyf
+p38
+aVLhurgoyf
+p39
+aVLhurgoyf
+p40
+aVLhurgoyf
+p41
+aVLhurgoyf
+p42
+asS'toughs'
+p43
+(lp44
+V5
+p45
+aV*
+p46
+aV3
+p47
+aV4
+p48
+aV1
+p49
+asS'artists'
+p50
+(lp51
+VPete Venters
+p52
+aVPete Venters
+p53
+aVPete Venters
+p54
+aVPete Venters
+p55
+aVPete Venters
+p56
+asS'powers'
+p57
+(lp58
+g46
+ag46
+ag47
+ag45
+ag49
+asS'types'
+p59
+(lp60
+VCreature - Lhurgoyf
+p61
+aVCreature - Lhurgoyf
+p62
+aVCreature - Lhurgoyf
+p63
+aVCreature - Lhurgoyf
+p64
+aVCreature - Lhurgoyf
+p65
+asS'numbers'
+p66
+(lp67
+V165
+p68
+aV85
+p69
+aV314
+p70
+aV259
+p71
+aV322
+p72
+as.

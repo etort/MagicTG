@@ -1,0 +1,201 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVCommon
+p4
+aVCommon
+p5
+aVUncommon
+p6
+aVCommon
+p7
+aVCommon
+p8
+aVCommon
+p9
+aVCommon
+p10
+asS'editns'
+p11
+(lp12
+VMagic: The Gathering-Commander
+p13
+aVPlanar Chaos
+p14
+aVVintage Masters
+p15
+aVReturn to Ravnica
+p16
+aVTorment
+p17
+aVTheros
+p18
+aVDissension
+p19
+aVLorwyn
+p20
+asS'ids'
+p21
+(lp22
+V247188
+p23
+aV126024
+p24
+aV382845
+p25
+aV270361
+p26
+aV34465
+p27
+aV373715
+p28
+aV107472
+p29
+aV142354
+p30
+asS'texts'
+p31
+(lp32
+VGraft 2 <i>(This creature enters the battlefield with two +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)</i><br>{G}: Target creature with a +1/+1 counter on it gains reach until end of turn. <i>(It can block creatures with flying.)</i>
+p33
+aVAs Aquamorph Entity enters the battlefield or is turned face up, it becomes your choice of 5/1 or 1/5.<br>Morph {2}{U} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p34
+aVDiscard a card: Switch Aquamoeba's power and toughness until end of turn.
+p35
+aV{2}{U}, {T}: Target creature gets -2/-0 until end of turn.
+p36
+aVDiscard a card: Switch Aquamoeba's power and toughness until end of turn.
+p37
+aVEnchant creature<br>Enchanted creature can't be blocked.<br>Whenever enchanted creature attacks, scry 1. <i>(Look at the top card of your library. You may put that card on the bottom of your library.)</i>
+p38
+aVGraft 2 <i>(This creature enters the battlefield with two +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)</i><br>{G}: Target creature with a +1/+1 counter on it gains reach until end of turn. <i>(It can block creatures with flying.)</i>
+p39
+aVPut a flood counter on target land. That land is an Island in addition to its other types for as long as it has a flood counter on it. If you control a Merfolk, draw a card.
+p40
+asS'costs'
+p41
+(lp42
+V{1}{G}
+p43
+aV{2}{U}{U}
+p44
+aV{1}{U}
+p45
+aV{3}{U}
+p46
+aV{1}{U}
+p47
+aV{U}
+p48
+aV{1}{G}
+p49
+aV{3}{R}{R}
+p50
+asS'names'
+p51
+(lp52
+VAquastrand Spider
+p53
+aVAquamorph Entity
+p54
+aVAquamoeba
+p55
+aVAquus Steed
+p56
+aVAquamoeba
+p57
+aVAqueous Form
+p58
+aVAquastrand Spider
+p59
+aVAquitect's Will
+p60
+asS'toughs'
+p61
+(lp62
+V0
+p63
+aV*
+p64
+aV3
+p65
+ag65
+ag65
+aS'N/A'
+p66
+aV4
+p67
+ag66
+asS'artists'
+p68
+(lp69
+VDany Orizio
+p70
+aVBrian Despain
+p71
+aVArnie Swekel
+p72
+aVWarren Mahy
+p73
+aVArnie Swekel
+p74
+aVSlawomir Maniak
+p75
+aVDany Orizio
+p76
+aVJeff Easley
+p77
+asS'powers'
+p78
+(lp79
+g63
+ag64
+aV1
+p80
+ag80
+ag80
+ag66
+ag63
+ag66
+asS'types'
+p81
+(lp82
+VCreature - Spider Mutant
+p83
+aVCreature - Shapeshifter
+p84
+aVCreature - Elemental Beast
+p85
+aVCreature - Beast
+p86
+aVCreature - Elemental Beast
+p87
+aVEnchantment - Aura
+p88
+aVCreature - Spider Mutant
+p89
+aVTribal Sorcery - Merfolk
+p90
+asS'numbers'
+p91
+(lp92
+V141
+p93
+aV33
+p94
+aV56
+p95
+aV29
+p96
+aV24
+p97
+aV39
+p98
+aV80
+p99
+aV52
+p100
+as.

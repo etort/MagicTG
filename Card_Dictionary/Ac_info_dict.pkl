@@ -1,0 +1,1052 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVRare
+p4
+aVUncommon
+p5
+aVCommon
+p6
+aVUncommon
+p7
+aVCommon
+p8
+aVUncommon
+p9
+aVUncommon
+p10
+aVUncommon
+p11
+aVCommon
+p12
+aVUncommon
+p13
+aVCommon
+p14
+aVUncommon
+p15
+aVCommon
+p16
+aVCommon
+p17
+aVUncommon
+p18
+aVRare
+p19
+aVRare
+p20
+aVUncommon
+p21
+aVUncommon
+p22
+aVCommon
+p23
+aVRare
+p24
+aVUncommon
+p25
+aVRare
+p26
+aVCommon
+p27
+aVRare
+p28
+aVCommon
+p29
+aVCommon
+p30
+aVCommon
+p31
+aVCommon
+p32
+aVUncommon
+p33
+aVUncommon
+p34
+aVRare
+p35
+aVCommon
+p36
+aVCommon
+p37
+aVUncommon
+p38
+aVCommon
+p39
+aVUncommon
+p40
+aVRare
+p41
+aVCommon
+p42
+aVCommon
+p43
+aVCommon
+p44
+aVUncommon
+p45
+aVRare
+p46
+aVRare
+p47
+aVUncommon
+p48
+aVRare
+p49
+aVCommon
+p50
+aVUncommon
+p51
+aVUncommon
+p52
+aVCommon
+p53
+asS'editns'
+p54
+(lp55
+VMagic: The Gathering-Commander
+p56
+aVMagic: The Gathering-Commander
+p57
+aVMagic 2012
+p58
+aVMagic 2012
+p59
+aVMagic 2013
+p60
+aVScars of Mirrodin
+p61
+aVScars of Mirrodin
+p62
+aVBorn of the Gods
+p63
+aVMagic 2010
+p64
+aVMagic 2010
+p65
+aVMagic 2010
+p66
+aVMagic 2014 Core Set
+p67
+aVMagic 2014 Core Set
+p68
+aVMagic 2014 Core Set
+p69
+aVMagic 2014 Core Set
+p70
+aVTenth Edition
+p71
+aVVintage Masters
+p72
+aVModern Masters
+p73
+aVMirrodin Besieged
+p74
+aVMasters Edition III
+p75
+aVOnslaught
+p76
+aVUrza's Destiny
+p77
+aVCommander 2013 Edition
+p78
+aVCommander 2013 Edition
+p79
+aVOdyssey
+p80
+aVTime Spiral
+p81
+aVGatecrash
+p82
+aVTorment
+p83
+aVTorment
+p84
+aVMagic 2015 Core Set
+p85
+aVMagic 2015 Core Set
+p86
+aVNew Phyrexia
+p87
+aVFifth Dawn
+p88
+aVScourge
+p89
+aVPlanechase
+p90
+aVUrza's Saga
+p91
+aVUrza's Saga
+p92
+aVUrza's Saga
+p93
+aVMagic: The Gathering\u2014Conspiracy
+p94
+aVNemesis
+p95
+aVChronicles
+p96
+aVKhans of Tarkir
+p97
+aVDuel Decks: Jace vs. Vraska
+p98
+aVMirage
+p99
+aVMasters Edition IV
+p100
+aVStronghold
+p101
+aVLegends
+p102
+aVLegends
+p103
+aVPremium Deck Series: Slivers
+p104
+aVMagic 2011
+p105
+aVMagic 2011
+p106
+asS'ids'
+p107
+(lp108
+V247317
+p109
+aV233197
+p110
+aV226906
+p111
+aV226589
+p112
+aV265718
+p113
+aV209046
+p114
+aV209290
+p115
+aV378373
+p116
+aV189880
+p117
+aV190579
+p118
+aV191082
+p119
+aV370735
+p120
+aV370581
+p121
+aV370811
+p122
+aV370618
+p123
+aV132072
+p124
+aV382835
+p125
+aV370424
+p126
+aV213818
+p127
+aV201098
+p128
+aV26715
+p129
+aV15138
+p130
+aV376237
+p131
+aV376238
+p132
+aV30692
+p133
+aV116725
+p134
+aV366305
+p135
+aV29857
+p136
+aV29873
+p137
+aV383175
+p138
+aV383176
+p139
+aV230076
+p140
+aV51088
+p141
+aV43539
+p142
+aV198073
+p143
+aV5722
+p144
+aV5865
+p145
+aV9713
+p146
+aV382205
+p147
+aV21285
+p148
+aV2839
+p149
+aV386470
+p150
+aV380236
+p151
+aV3239
+p152
+aV233299
+p153
+aV5108
+p154
+aV1470
+p155
+aV1556
+p156
+aV207897
+p157
+aV207333
+p158
+aV205072
+p159
+asS'texts'
+p160
+(lp161
+VDeathtouch <i>(Any amount of damage this deals to a creature is enough to destroy it.)</i><br>When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.
+p162
+aV{1}, {T}: Acorn Catapult deals 1 damage to target creature or player. That creature's controller or that player puts a 1/1 green Squirrel creature token onto the battlefield.
+p163
+aVDeathtouch <i>(Any amount of damage this deals to a creature is enough to destroy it.)</i><br>When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.
+p164
+aVGain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. <i>(It can attack and {T} this turn.)</i>
+p165
+aVOther Elf creatures you control get +1/+1.<br>{T}: Add {G} to your mana pool for each Elf you control.
+p166
+aVEquipped creature gets +0/+3 and has vigilance.<br>Equip {3}
+p167
+aVReach<br>When Acid Web Spider enters the battlefield, you may destroy target Equipment.
+p168
+aVPrevent the next X damage that would be dealt to target creature this turn, where X is your devotion to white. If damage is prevented this way, Acolyte's Reward deals that much damage to target creature or player. <i>(Each {W} in the mana costs of permanents you control counts toward your devotion to white.)</i>
+p169
+aVDeathtouch <i>(Any amount of damage this deals to a creature is enough to destroy it.)</i><br>When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.
+p170
+aV{1}{B}, {T}: Target player loses 1 life.
+p171
+aVGain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. <i>(It can attack and {T} this turn.)</i>
+p172
+aVIntimidate <i>(This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)</i><br>Whenever Academy Raider deals combat damage to a player, you may discard a card. If you do, draw a card.
+p173
+aVEquipped creature gets +0/+3 and has vigilance. <i>(Attacking doesn't cause it to tap.)</i><br>Equip {3} <i>({3}: Attach to target creature you control. Equip only as a sorcery.)</i>
+p174
+aVIntimidate <i>(This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)</i>
+p175
+aVGain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. <i>(It can attack and {T} this turn.)</i>
+p176
+aVHail of Arrows deals X damage divided as you choose among any number of target attacking creatures.
+p177
+aVAcademy Elite enters the battlefield with X +1/+1 counters on it, where X is the number of instant and sorcery cards in all graveyards.<br>{2}{U}, Remove a +1/+1 counter from Academy Elite: Draw a card, then discard a card.
+p178
+aV{T}: Add {1} to your mana pool.<br>{1}{U}, {T}: Put target artifact card from your graveyard on top of your library.
+p179
+aVBattle cry <i>(Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)</i>
+p180
+aVChoose one- Destroy target blue permanent; or return target Island to its owner's hand.
+p181
+aVWhen Accursed Centaur enters the battlefield, sacrifice a creature.
+p182
+aVWhen Academy Rector dies, you may exile it. If you do, search your library for an enchantment card, put that card onto the battlefield, then shuffle your library.
+p183
+aVDeathtouch <i>(Any amount of damage this deals to a creature is enough to destroy it.)</i><br>When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.
+p184
+aVWhen Act of Authority enters the battlefield, you may exile target artifact or enchantment.<br>At the beginning of your upkeep, you may exile target artifact or enchantment. If you do, its controller gains control of Act of Authority.
+p185
+aV{1}{G}, Exile two cards from your graveyard: Put a 2/2 green Bear creature token onto the battlefield.
+p186
+aV{T}: Add {1} to your mana pool.<br>{1}{U}, {T}: Put target artifact card from your graveyard on top of your library.
+p187
+aVGain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. <i>(It can attack and {T} this turn.)</i>
+p188
+aVTarget creature gains haste until end of turn.<br>Draw a card.
+p189
+aVPut two 1/1 green Squirrel creature tokens onto the battlefield.<br>Flashback\u2014{1}{G}, Pay 3 life. <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
+p190
+aVIntimidate <i>(This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)</i>
+p191
+aVExile the top three cards of your library. Until end of turn, you may play cards exiled this way. <i>(If you cast a spell this way, you still pay its costs. You can play a land this way only if you have an available land play remaining.)</i>
+p192
+aV<i>({RP} can be paid with either {R} or 2 life.)</i><br>Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.
+p193
+aVSearch target opponent's library for an artifact card and put that card onto the battlefield under your control. Then that player shuffles his or her library.
+p194
+aVTarget creature gets +X/+X until end of turn, where X is the highest converted mana cost among permanents you control.
+p195
+aVAt the beginning of your end step, if you have no cards in hand, draw seven cards.<br>Whenever you roll , discard your hand.
+p196
+aVAcidic Soil deals damage to each player equal to the number of lands he or she controls.
+p197
+aVEcho {1}{G} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i><br>{1}{G}: Regenerate Albino Troll.
+p198
+aVSwampwalk <i>(This creature is unblockable as long as defending player controls a Swamp.)</i>
+p199
+aVAcademy Elite enters the battlefield with X +1/+1 counters on it, where X is the number of instant and sorcery cards in all graveyards.<br>{2}{U}, Remove a +1/+1 counter from Academy Elite: Draw a card, then discard a card.
+p200
+aVDraw a card, then draw cards equal to the number of cards named Accumulated Knowledge in all graveyards.
+p201
+aVChoose one- Destroy target blue permanent; or return target Island to its owner's hand.
+p202
+aVGain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+p203
+aVDeathtouch <i>(Any amount of damage this deals to a creature is enough to destroy it.)</i><br>When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.
+p204
+aV{4}, {T}: Whenever target creature deals combat damage to a non-Wall creature this turn, destroy that non-Wall creature. When the targeted creature leaves the battlefield this turn, sacrifice Acidic Dagger. Activate this ability only before blockers are declared.
+p205
+aVDestroy all Forests.
+p206
+aVAll Slivers have "{2}, Sacrifice this permanent: This permanent deals 2 damage to target creature or player."
+p207
+aVWhen Brine Hag dies, all creatures that dealt damage to it this turn become 0/2. <i>(This effect lasts indefinitely.)</i>
+p208
+aVIf target creature has toughness 5 or greater, it gets +4/-4 until end of turn. Otherwise, it gets +4/-X until end of turn, where X is its toughness minus 1.
+p209
+aVAll Slivers have "{2}, Sacrifice this permanent: This permanent deals 2 damage to target creature or player."
+p210
+aVDeathtouch <i>(Any amount of damage this deals to a creature is enough to destroy it.)</i><br>When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.
+p211
+aVGain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. <i>(It can attack and {T} this turn.)</i>
+p212
+asS'costs'
+p213
+(lp214
+V{3}{G}{G}
+p215
+aV{4}
+p216
+aV{3}{G}{G}
+p217
+aV{2}{R}
+p218
+aV{1}{R}
+p219
+aV{0}
+p220
+aV{3}{G}{G}
+p221
+aV{1}{W}
+p222
+aV{3}{G}{G}
+p223
+aV{B}
+p224
+aV{2}{R}
+p225
+aV{2}{R}
+p226
+aV{0}
+p227
+aV{3}{B}
+p228
+aV{2}{R}
+p229
+aV{1}{U}{U}
+p230
+aV{3}{U}
+p231
+aS'0'
+p232
+aV{1}{W}
+p233
+aV{R}
+p234
+aV{B}
+p235
+aV{3}{W}
+p236
+aV{3}{G}{G}
+p237
+aV{1}{W}{W}
+p238
+aV{3}{R}
+p239
+ag232
+aV{2}{R}
+p240
+aV{1}{R}
+p241
+aV{3}{G}
+p242
+aV{3}{B}
+p243
+aV{2}{R}
+p244
+aV{3}{RP}{RP}
+p245
+aV{3}{U}{U}
+p246
+aV{3}{G}{G}
+p247
+ag232
+aV{2}{R}
+p248
+aV{1}{G}
+p249
+aV{1}{U}{U}
+p250
+aV{3}{U}
+p251
+aV{1}{U}
+p252
+aV{R}
+p253
+aV{2}{R}
+p254
+aV{3}{G}{G}
+p255
+aV{4}
+p256
+aV{3}{U}
+p257
+aV{B}{R}
+p258
+aV{3}{U}
+p259
+aV{R}
+p260
+aV{B}{R}
+p261
+aV{3}{G}{G}
+p262
+aV{2}{R}
+p263
+asS'names'
+p264
+(lp265
+VAcidic Slime
+p266
+aVAcorn Catapult
+p267
+aVAcidic Slime
+p268
+aVAct of Treason
+p269
+aVAcidic Slime
+p270
+aVAccorder's Shield
+p271
+aVAcid Web Spider
+p272
+aVAcolyte's Reward
+p273
+aVAcidic Slime
+p274
+aVAcolyte of Xathrid
+p275
+aVAct of Treason
+p276
+aVAcademy Raider
+p277
+aVAccorder's Shield
+p278
+aVAccursed Spirit
+p279
+aVAct of Treason
+p280
+aVAcademy Researchers
+p281
+aVAcademy Elite
+p282
+aVAcademy Ruins
+p283
+aVAccorder Paladin
+p284
+aVActive Volcano
+p285
+aVAccursed Centaur
+p286
+aVAcademy Rector
+p287
+aVAcidic Slime
+p288
+aVAct of Authority
+p289
+aVAcceptable Losses
+p290
+aVAcademy Ruins
+p291
+aVAct of Treason
+p292
+aVAccelerate
+p293
+aVAcorn Harvest
+p294
+aVAccursed Spirit
+p295
+aVAct on Impulse
+p296
+aVAct of Aggression
+p297
+aVAcquire
+p298
+aVAccelerated Mutation
+p299
+aVAcademy at Tolaria West
+p300
+aVAcidic Soil
+p301
+aVAcridian
+p302
+aVAcademy Researchers
+p303
+aVAcademy Elite
+p304
+aVAccumulated Knowledge
+p305
+aVActive Volcano
+p306
+aVAct of Treason
+p307
+aVAcidic Slime
+p308
+aVAcidic Dagger
+p309
+aVAcid Rain
+p310
+aVAcidic Sliver
+p311
+aVAcid Rain
+p312
+aVActive Volcano
+p313
+aVAcidic Sliver
+p314
+aVAcidic Slime
+p315
+aVAct of Treason
+p316
+asS'toughs'
+p317
+(lp318
+V2
+p319
+aS'N/A'
+p320
+ag319
+ag320
+aV3
+p321
+ag320
+aV5
+p322
+ag320
+ag319
+aV1
+p323
+ag320
+ag323
+ag320
+ag319
+ag320
+ag323
+aV0
+p324
+ag320
+ag323
+ag320
+ag319
+ag319
+ag319
+ag320
+ag320
+ag320
+ag320
+ag320
+ag320
+ag319
+ag320
+ag320
+ag320
+ag320
+ag320
+ag320
+ag321
+ag323
+ag324
+ag320
+ag320
+ag320
+ag319
+ag320
+ag320
+ag319
+ag320
+ag320
+ag319
+ag319
+ag320
+asS'artists'
+p325
+(lp326
+VKarl Kopinski
+p327
+aVJesper Ejsing
+p328
+aVDavid Palumbo
+p329
+aVSteve Luke
+p330
+aVKarl Kopinski
+p331
+aVAlan Pollack
+p332
+aVAustin Hsu
+p333
+aVSlawomir Maniak
+p334
+aVKarl Kopinski
+p335
+aVChris Rahn
+p336
+aVEric Deschamps
+p337
+aVKarl Kopinski
+p338
+aVAlan Pollack
+p339
+aVKev Walker
+p340
+aVEric Deschamps
+p341
+aVStephen Daniele
+p342
+aVVolkan Baga
+p343
+aS''
+p344
+aVMark Tedin
+p345
+aVMark Poole
+p346
+aVJerry Tiritilli
+p347
+aVHeather Hudson
+p348
+aVKarl Kopinski
+p349
+aVVÈronique Meignaud
+p350
+aVMike Ploog
+p351
+aVZoltan Boros & Gabor Szikszai
+p352
+aVMatt Stewart
+p353
+aVGary Ruddell
+p354
+aVEdward P. Beard, Jr.
+p355
+aVKev Walker
+p356
+aVBrad Rigney
+p357
+aVMark Tedin
+p358
+aVDaren Bader
+p359
+aVEdward P. Beard, Jr.
+p360
+aVJames Paick
+p361
+aVScott M. Fischer
+p362
+aVrk post
+p363
+aVStephen Daniele
+p364
+aVVolkan Baga
+p365
+aVRandy Gallegos
+p366
+aVJustin Hampton
+p367
+aVMin Yum
+p368
+aVKarl Kopinski
+p369
+aVPatrick Beel
+p370
+aVNÈNÈ Thomas
+p371
+aVJeff Miracola
+p372
+aVNÈNÈ Thomas
+p373
+aVBrian Snoddy
+p374
+aVJeff Miracola
+p375
+aVKarl Kopinski
+p376
+aVEric Deschamps
+p377
+asS'powers'
+p378
+(lp379
+g319
+ag320
+ag319
+ag320
+ag319
+ag320
+ag321
+ag320
+ag319
+ag324
+ag320
+ag323
+ag320
+ag321
+ag320
+ag319
+ag324
+ag320
+ag321
+ag320
+ag319
+ag319
+ag319
+ag320
+ag320
+ag320
+ag320
+ag320
+ag320
+ag321
+ag320
+ag320
+ag320
+ag320
+ag320
+ag320
+ag321
+ag319
+ag324
+ag320
+ag320
+ag320
+ag319
+ag320
+ag320
+ag319
+ag320
+ag320
+ag319
+ag319
+ag320
+asS'types'
+p380
+(lp381
+VCreature - Ooze
+p382
+aVArtifact
+p383
+aVCreature - Ooze
+p384
+aVSorcery
+p385
+aVCreature - Ooze
+p386
+aVArtifact - Equipment
+p387
+aVCreature - Spider
+p388
+aVInstant
+p389
+aVCreature - Ooze
+p390
+aVCreature - Human Cleric
+p391
+aVSorcery
+p392
+aVCreature - Human Warrior
+p393
+aVArtifact - Equipment
+p394
+aVCreature - Spirit
+p395
+aVSorcery
+p396
+aVCreature - Human Wizard
+p397
+aVCreature - Human Wizard
+p398
+aVLegendary Land
+p399
+aVCreature - Human Knight
+p400
+aVInstant
+p401
+aVCreature - Zombie Centaur
+p402
+aVCreature - Human Cleric
+p403
+aVCreature - Ooze
+p404
+aVEnchantment
+p405
+aVSorcery
+p406
+aVLegendary Land
+p407
+aVSorcery
+p408
+aVInstant
+p409
+aVSorcery
+p410
+aVCreature - Spirit
+p411
+aVSorcery
+p412
+aVInstant
+p413
+aVSorcery
+p414
+aVInstant
+p415
+aVPlane - Dominaria
+p416
+aVSorcery
+p417
+aVCreature - Insect
+p418
+aVCreature - Human Wizard
+p419
+aVCreature - Human Wizard
+p420
+aVInstant
+p421
+aVInstant
+p422
+aVSorcery
+p423
+aVCreature - Ooze
+p424
+aVArtifact
+p425
+aVSorcery
+p426
+aVCreature - Sliver
+p427
+aVSorcery
+p428
+aVInstant
+p429
+aVCreature - Sliver
+p430
+aVCreature - Ooze
+p431
+aVSorcery
+p432
+asS'numbers'
+p433
+(lp434
+V140
+p435
+aV241
+p436
+aV161
+p437
+aV121
+p438
+aV159
+p439
+aV136
+p440
+aV108
+p441
+ag323
+aV165
+p442
+aV83
+p443
+aV124
+p444
+aV124
+p445
+aV204
+p446
+aV83
+p447
+aV125
+p448
+aV63
+p449
+aV55
+p450
+ag344
+ag323
+aV85
+p451
+aV123
+p452
+ag323
+aV134
+p453
+ag323
+aV172
+p454
+aV269
+p455
+aV85
+p456
+aV90
+p457
+aV118
+p458
+aV85
+p459
+aV126
+p460
+aV78
+p461
+aV21
+p462
+aV109
+p463
+ag323
+aV172
+p464
+aV230
+p465
+aV58
+p466
+aV20
+p467
+aV26
+p468
+aV22
+p469
+aV95
+p470
+aV64
+p471
+ag323
+aV36
+p472
+aV8
+p473
+aV38
+p474
+aV183
+p475
+aV13
+p476
+aV161
+p477
+aV121
+p478
+as.

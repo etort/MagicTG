@@ -1,0 +1,7268 @@
+(dp0
+S'rares'
+p1
+(lp2
+VSpecial
+p3
+aVSpecial
+p4
+aVSpecial
+p5
+aVSpecial
+p6
+aVSpecial
+p7
+aVSpecial
+p8
+aVSpecial
+p9
+aVSpecial
+p10
+aVSpecial
+p11
+aVSpecial
+p12
+aVSpecial
+p13
+aVSpecial
+p14
+aVSpecial
+p15
+aVSpecial
+p16
+aVUncommon
+p17
+aVUncommon
+p18
+aVCommon
+p19
+aVCommon
+p20
+aVUncommon
+p21
+aVCommon
+p22
+aVUncommon
+p23
+aVRare
+p24
+aVCommon
+p25
+aVUncommon
+p26
+aVCommon
+p27
+aVCommon
+p28
+aVCommon
+p29
+aVCommon
+p30
+aVUncommon
+p31
+aVRare
+p32
+aVUncommon
+p33
+aVCommon
+p34
+aVCommon
+p35
+aVCommon
+p36
+aVUncommon
+p37
+aVCommon
+p38
+aVRare
+p39
+aVCommon
+p40
+aVRare
+p41
+aVUncommon
+p42
+aVCommon
+p43
+aVCommon
+p44
+aVCommon
+p45
+aVCommon
+p46
+aVCommon
+p47
+aVCommon
+p48
+aVCommon
+p49
+aVCommon
+p50
+aVCommon
+p51
+aVCommon
+p52
+aVCommon
+p53
+aVUncommon
+p54
+aVCommon
+p55
+aVUncommon
+p56
+aVUncommon
+p57
+aVUncommon
+p58
+aVUncommon
+p59
+aVRare
+p60
+aVCommon
+p61
+aVUncommon
+p62
+aVRare
+p63
+aVCommon
+p64
+aVUncommon
+p65
+aVRare
+p66
+aVCommon
+p67
+aVCommon
+p68
+aVCommon
+p69
+aVUncommon
+p70
+aVCommon
+p71
+aVCommon
+p72
+aVUncommon
+p73
+aVRare
+p74
+aVCommon
+p75
+aVCommon
+p76
+aVRare
+p77
+aVUncommon
+p78
+aVUncommon
+p79
+aVUncommon
+p80
+aVUncommon
+p81
+aVCommon
+p82
+aVCommon
+p83
+aVRare
+p84
+aVCommon
+p85
+aVCommon
+p86
+aVCommon
+p87
+aVCommon
+p88
+aVUncommon
+p89
+aVUncommon
+p90
+aVUncommon
+p91
+aVCommon
+p92
+aVCommon
+p93
+aVRare
+p94
+aVCommon
+p95
+aVUncommon
+p96
+aVCommon
+p97
+aVCommon
+p98
+aVCommon
+p99
+aVCommon
+p100
+aVCommon
+p101
+aVCommon
+p102
+aVCommon
+p103
+aVCommon
+p104
+aVRare
+p105
+aVCommon
+p106
+aVUncommon
+p107
+aVRare
+p108
+aVMythic Rare
+p109
+aVUncommon
+p110
+aVRare
+p111
+aVCommon
+p112
+aVUncommon
+p113
+aVRare
+p114
+aVUncommon
+p115
+aVCommon
+p116
+aVCommon
+p117
+aVCommon
+p118
+aVCommon
+p119
+aVCommon
+p120
+aVUncommon
+p121
+aVRare
+p122
+aVCommon
+p123
+aVCommon
+p124
+aVRare
+p125
+aVUncommon
+p126
+aVUncommon
+p127
+aVCommon
+p128
+aVUncommon
+p129
+aVRare
+p130
+aVCommon
+p131
+aVCommon
+p132
+aVRare
+p133
+aVUncommon
+p134
+aVRare
+p135
+aVCommon
+p136
+aVRare
+p137
+aVUncommon
+p138
+aVCommon
+p139
+aVRare
+p140
+aVUncommon
+p141
+aVCommon
+p142
+aVRare
+p143
+aVCommon
+p144
+aVRare
+p145
+aVUncommon
+p146
+aVCommon
+p147
+aVUncommon
+p148
+aVCommon
+p149
+aVCommon
+p150
+aVUncommon
+p151
+aVRare
+p152
+aVUncommon
+p153
+aVCommon
+p154
+aVCommon
+p155
+aVUncommon
+p156
+aVCommon
+p157
+aVCommon
+p158
+aVUncommon
+p159
+aVRare
+p160
+aVCommon
+p161
+aVUncommon
+p162
+aVCommon
+p163
+aVUncommon
+p164
+aVCommon
+p165
+aVCommon
+p166
+aVUncommon
+p167
+aVCommon
+p168
+aVUncommon
+p169
+aVUncommon
+p170
+aVUncommon
+p171
+aVCommon
+p172
+aVUncommon
+p173
+aVCommon
+p174
+aVCommon
+p175
+aVRare
+p176
+aVCommon
+p177
+aVCommon
+p178
+aVUncommon
+p179
+aVRare
+p180
+aVRare
+p181
+aVCommon
+p182
+aVUncommon
+p183
+aVCommon
+p184
+aVCommon
+p185
+aVUncommon
+p186
+aVCommon
+p187
+aVRare
+p188
+aVUncommon
+p189
+aVCommon
+p190
+aVCommon
+p191
+aVUncommon
+p192
+aVCommon
+p193
+aVUncommon
+p194
+aVCommon
+p195
+aVCommon
+p196
+aVRare
+p197
+aVRare
+p198
+aVCommon
+p199
+aVCommon
+p200
+aVCommon
+p201
+aVCommon
+p202
+aVUncommon
+p203
+aVUncommon
+p204
+aVCommon
+p205
+aVRare
+p206
+aVCommon
+p207
+aVCommon
+p208
+aVCommon
+p209
+aVRare
+p210
+aVMythic Rare
+p211
+aVCommon
+p212
+aVCommon
+p213
+aVCommon
+p214
+aVCommon
+p215
+aVUncommon
+p216
+aVCommon
+p217
+aVUncommon
+p218
+aVUncommon
+p219
+aVCommon
+p220
+aVCommon
+p221
+aVRare
+p222
+aVCommon
+p223
+aVRare
+p224
+aVRare
+p225
+aVCommon
+p226
+aVCommon
+p227
+aVRare
+p228
+aVUncommon
+p229
+aVCommon
+p230
+aVCommon
+p231
+aVRare
+p232
+aVCommon
+p233
+aVRare
+p234
+aVCommon
+p235
+aVUncommon
+p236
+aVCommon
+p237
+aVUncommon
+p238
+aVCommon
+p239
+aVUncommon
+p240
+aVUncommon
+p241
+aVRare
+p242
+aVUncommon
+p243
+aVCommon
+p244
+aVCommon
+p245
+aVUncommon
+p246
+aVCommon
+p247
+aVUncommon
+p248
+aVUncommon
+p249
+aVCommon
+p250
+aVCommon
+p251
+aVUncommon
+p252
+aVCommon
+p253
+aVUncommon
+p254
+aVUncommon
+p255
+aVRare
+p256
+aVCommon
+p257
+aVCommon
+p258
+aVCommon
+p259
+aVUncommon
+p260
+aVUncommon
+p261
+aVCommon
+p262
+aVCommon
+p263
+aVCommon
+p264
+aVCommon
+p265
+aVUncommon
+p266
+aVCommon
+p267
+aVRare
+p268
+aVUncommon
+p269
+aVCommon
+p270
+aVCommon
+p271
+aVUncommon
+p272
+aVUncommon
+p273
+aVCommon
+p274
+aVCommon
+p275
+aVUncommon
+p276
+aVCommon
+p277
+aVCommon
+p278
+aVUncommon
+p279
+aVUncommon
+p280
+aVCommon
+p281
+aVCommon
+p282
+aVCommon
+p283
+aVCommon
+p284
+aVCommon
+p285
+aVUncommon
+p286
+aVUncommon
+p287
+aVRare
+p288
+aVCommon
+p289
+aVCommon
+p290
+aVRare
+p291
+aVUncommon
+p292
+aVCommon
+p293
+aVCommon
+p294
+aVUncommon
+p295
+aVRare
+p296
+aVCommon
+p297
+aVCommon
+p298
+aVRare
+p299
+aVUncommon
+p300
+aVCommon
+p301
+aVCommon
+p302
+aVCommon
+p303
+aVUncommon
+p304
+aVUncommon
+p305
+aVCommon
+p306
+aVMythic Rare
+p307
+aVCommon
+p308
+aVUncommon
+p309
+aVUncommon
+p310
+aVCommon
+p311
+aVCommon
+p312
+aVRare
+p313
+aVRare
+p314
+aVCommon
+p315
+aVCommon
+p316
+aVCommon
+p317
+aVUncommon
+p318
+aVCommon
+p319
+aVUncommon
+p320
+aVUncommon
+p321
+aVCommon
+p322
+aVCommon
+p323
+aVSpecial
+p324
+aVSpecial
+p325
+aVUncommon
+p326
+aVRare
+p327
+aVCommon
+p328
+aVCommon
+p329
+aVUncommon
+p330
+aVCommon
+p331
+aVCommon
+p332
+aVCommon
+p333
+aVCommon
+p334
+aVUncommon
+p335
+aVCommon
+p336
+aVUncommon
+p337
+aVCommon
+p338
+aVUncommon
+p339
+aVCommon
+p340
+aVCommon
+p341
+aVRare
+p342
+aVRare
+p343
+aVCommon
+p344
+aVCommon
+p345
+aVUncommon
+p346
+aVRare
+p347
+aVCommon
+p348
+aVCommon
+p349
+aVCommon
+p350
+aVUncommon
+p351
+aVCommon
+p352
+aVUncommon
+p353
+aVCommon
+p354
+aVUncommon
+p355
+aVCommon
+p356
+aVRare
+p357
+aVCommon
+p358
+aVCommon
+p359
+aVCommon
+p360
+aVSpecial
+p361
+aVCommon
+p362
+aVCommon
+p363
+aVCommon
+p364
+aVRare
+p365
+asS'editns'
+p366
+(lp367
+VAnthologies
+p368
+aVAnthologies
+p369
+aVAnthologies
+p370
+aVAnthologies
+p371
+aVAnthologies
+p372
+aVAnthologies
+p373
+aVAnthologies
+p374
+aVAnthologies
+p375
+aVAnthologies
+p376
+aVAnthologies
+p377
+aVAnthologies
+p378
+aVAnthologies
+p379
+aVAnthologies
+p380
+aVAnthologies
+p381
+aVMagic: The Gathering-Commander
+p382
+aVMagic: The Gathering-Commander
+p383
+aVMagic: The Gathering-Commander
+p384
+aVMagic: The Gathering-Commander
+p385
+aVMagic: The Gathering-Commander
+p386
+aVMagic 2012
+p387
+aVMagic 2012
+p388
+aVMagic 2012
+p389
+aVMagic 2012
+p390
+aVMagic 2012
+p391
+aVMagic 2012
+p392
+aVMagic 2012
+p393
+aVMagic 2012
+p394
+aVMagic 2012
+p395
+aVLimited Edition Beta
+p396
+aVLimited Edition Beta
+p397
+aVSaviors of Kamigawa
+p398
+aVBattle Royale Box Set
+p399
+aVMagic 2013
+p400
+aVMagic 2013
+p401
+aVFourth Edition
+p402
+aVFourth Edition
+p403
+aVFourth Edition
+p404
+aVPlanar Chaos
+p405
+aVAntiquities
+p406
+aVAntiquities
+p407
+aVAlliances
+p408
+aVAlliances
+p409
+aVAlliances
+p410
+aVAlliances
+p411
+aVAlliances
+p412
+aVAlliances
+p413
+aVAlliances
+p414
+aVAlliances
+p415
+aVScars of Mirrodin
+p416
+aVScars of Mirrodin
+p417
+aVScars of Mirrodin
+p418
+aVScars of Mirrodin
+p419
+aVScars of Mirrodin
+p420
+aVScars of Mirrodin
+p421
+aVBorn of the Gods
+p422
+aVBorn of the Gods
+p423
+aVMagic 2010
+p424
+aVMagic 2010
+p425
+aVMagic 2010
+p426
+aVMagic 2010
+p427
+aVMagic 2014 Core Set
+p428
+aVMagic 2014 Core Set
+p429
+aVTempest
+p430
+aVTenth Edition
+p431
+aVTenth Edition
+p432
+aVTenth Edition
+p433
+aVTenth Edition
+p434
+aVTenth Edition
+p435
+aVVintage Masters
+p436
+aVVintage Masters
+p437
+aVVintage Masters
+p438
+aVVintage Masters
+p439
+aVVintage Masters
+p440
+aVVintage Masters
+p441
+aVVintage Masters
+p442
+aVVintage Masters
+p443
+aVVintage Masters
+p444
+aVVintage Masters
+p445
+aVVintage Masters
+p446
+aVThe Dark
+p447
+aVThe Dark
+p448
+aVThe Dark
+p449
+aVThe Dark
+p450
+aVThe Dark
+p451
+aVThe Dark
+p452
+aVThe Dark
+p453
+aVMirrodin Besieged
+p454
+aVMirrodin Besieged
+p455
+aVMirrodin Besieged
+p456
+aVStarter 2000
+p457
+aVFallen Empires
+p458
+aVFallen Empires
+p459
+aVFallen Empires
+p460
+aVFallen Empires
+p461
+aVFallen Empires
+p462
+aVFallen Empires
+p463
+aVFallen Empires
+p464
+aVFallen Empires
+p465
+aVFallen Empires
+p466
+aVFallen Empires
+p467
+aVFallen Empires
+p468
+aVFallen Empires
+p469
+aVFallen Empires
+p470
+aVApocalypse
+p471
+aVApocalypse
+p472
+aVApocalypse
+p473
+aVFrom the Vault: Exiled
+p474
+aVRevised Edition
+p475
+aVRevised Edition
+p476
+aVMasters Edition II
+p477
+aVMasters Edition II
+p478
+aVGuildpact
+p479
+aVGuildpact
+p480
+aVNinth Edition
+p481
+aVNinth Edition
+p482
+aVNinth Edition
+p483
+aVNinth Edition
+p484
+aVNinth Edition
+p485
+aVNinth Edition
+p486
+aVNinth Edition
+p487
+aVNinth Edition
+p488
+aVConflux
+p489
+aVConflux
+p490
+aVAvacyn Restored
+p491
+aVAvacyn Restored
+p492
+aVDuel Decks: Sorin vs. Tibalt
+p493
+aVOnslaught
+p494
+aVOnslaught
+p495
+aVOnslaught
+p496
+aVOnslaught
+p497
+aVOnslaught
+p498
+aVOnslaught
+p499
+aVOnslaught
+p500
+aVOnslaught
+p501
+aVChampions of Kamigawa
+p502
+aVChampions of Kamigawa
+p503
+aVBetrayers of Kamigawa
+p504
+aVBetrayers of Kamigawa
+p505
+aVBetrayers of Kamigawa
+p506
+aVUrza's Destiny
+p507
+aVUrza's Destiny
+p508
+aVUrza's Destiny
+p509
+aVUrza's Destiny
+p510
+aVUrza's Destiny
+p511
+aVUrza's Destiny
+p512
+aVRavnica: City of Guilds
+p513
+aVRavnica: City of Guilds
+p514
+aVRavnica: City of Guilds
+p515
+aVRavnica: City of Guilds
+p516
+aVRavnica: City of Guilds
+p517
+aVRavnica: City of Guilds
+p518
+aVRavnica: City of Guilds
+p519
+aVRavnica: City of Guilds
+p520
+aVRavnica: City of Guilds
+p521
+aVRavnica: City of Guilds
+p522
+aVRavnica: City of Guilds
+p523
+aVCommander 2013 Edition
+p524
+aVCommander 2013 Edition
+p525
+aVCommander 2013 Edition
+p526
+aVCommander 2013 Edition
+p527
+aVCommander 2013 Edition
+p528
+aVOdyssey
+p529
+aVTime Spiral
+p530
+aVTime Spiral
+p531
+aVReturn to Ravnica
+p532
+aVReturn to Ravnica
+p533
+aVReturn to Ravnica
+p534
+aVReturn to Ravnica
+p535
+aVReturn to Ravnica
+p536
+aVReturn to Ravnica
+p537
+aVReturn to Ravnica
+p538
+aVReturn to Ravnica
+p539
+aVReturn to Ravnica
+p540
+aVGatecrash
+p541
+aVColdsnap
+p542
+aVColdsnap
+p543
+aVUnlimited Edition
+p544
+aVUnlimited Edition
+p545
+aVIce Age
+p546
+aVIce Age
+p547
+aVIce Age
+p548
+aVIce Age
+p549
+aVIce Age
+p550
+aVIce Age
+p551
+aVZendikar
+p552
+aVZendikar
+p553
+aVZendikar
+p554
+aVZendikar
+p555
+aVZendikar
+p556
+aVZendikar
+p557
+aVClassic Sixth Edition
+p558
+aVClassic Sixth Edition
+p559
+aVClassic Sixth Edition
+p560
+aVClassic Sixth Edition
+p561
+aVClassic Sixth Edition
+p562
+aVClassic Sixth Edition
+p563
+aVClassic Sixth Edition
+p564
+aVMirrodin
+p565
+aVMirrodin
+p566
+aVMirrodin
+p567
+aVMirrodin
+p568
+aVMirrodin
+p569
+aVMirrodin
+p570
+aVMirrodin
+p571
+aVDuel Decks: Elspeth vs. Tezzeret
+p572
+aVShards of Alara
+p573
+aVShards of Alara
+p574
+aVShards of Alara
+p575
+aVShards of Alara
+p576
+aVShards of Alara
+p577
+aVSeventh Edition
+p578
+aVSeventh Edition
+p579
+aVSeventh Edition
+p580
+aVSeventh Edition
+p581
+aVSeventh Edition
+p582
+aVSeventh Edition
+p583
+aVSeventh Edition
+p584
+aVSeventh Edition
+p585
+aVSeventh Edition
+p586
+aVSeventh Edition
+p587
+aVSeventh Edition
+p588
+aVMagic 2015 Core Set
+p589
+aVMagic 2015 Core Set
+p590
+aVMagic 2015 Core Set
+p591
+aVUrza's Legacy
+p592
+aVUrza's Legacy
+p593
+aVDarksteel
+p594
+aVRise of the Eldrazi
+p595
+aVRise of the Eldrazi
+p596
+aVJudgment
+p597
+aVJudgment
+p598
+aVShadowmoor
+p599
+aVShadowmoor
+p600
+aVStarter 1999
+p601
+aVStarter 1999
+p602
+aVStarter 1999
+p603
+aVStarter 1999
+p604
+aVStarter 1999
+p605
+aVStarter 1999
+p606
+aVStarter 1999
+p607
+aVStarter 1999
+p608
+aVStarter 1999
+p609
+aVStarter 1999
+p610
+aVFifth Dawn
+p611
+aVFifth Dawn
+p612
+aVScourge
+p613
+aVScourge
+p614
+aVScourge
+p615
+aVScourge
+p616
+aVFuture Sight
+p617
+aVPortal Second Age
+p618
+aVPortal Second Age
+p619
+aVPortal Second Age
+p620
+aVPortal Second Age
+p621
+aVPortal Second Age
+p622
+aVPortal Second Age
+p623
+aVPortal Second Age
+p624
+aVPortal Second Age
+p625
+aVPortal Second Age
+p626
+aVPortal Second Age
+p627
+aVPortal Second Age
+p628
+aVPortal Second Age
+p629
+aVPlanechase
+p630
+aVPlanechase
+p631
+aVPlanechase
+p632
+aVLegions
+p633
+aVLegions
+p634
+aVLegions
+p635
+aVLegions
+p636
+aVLegions
+p637
+aVLegions
+p638
+aVLegions
+p639
+aVLegions
+p640
+aVUrza's Saga
+p641
+aVUrza's Saga
+p642
+aVUrza's Saga
+p643
+aVUrza's Saga
+p644
+aVUrza's Saga
+p645
+aVUrza's Saga
+p646
+aVUrza's Saga
+p647
+aVUrza's Saga
+p648
+aVUrza's Saga
+p649
+aVMasters Edition
+p650
+aVMasters Edition
+p651
+aVMasters Edition
+p652
+aVMasters Edition
+p653
+aVMasters Edition
+p654
+aVTheros
+p655
+aVWeatherlight
+p656
+aVWeatherlight
+p657
+aVWeatherlight
+p658
+aVEighth Edition
+p659
+aVEighth Edition
+p660
+aVEighth Edition
+p661
+aVEighth Edition
+p662
+aVWorldwake
+p663
+aVWorldwake
+p664
+aVChronicles
+p665
+aVChronicles
+p666
+aVChronicles
+p667
+aVChronicles
+p668
+aVInvasion
+p669
+aVInvasion
+p670
+aVJourney into Nyx
+p671
+aVJourney into Nyx
+p672
+aVJourney into Nyx
+p673
+aVJourney into Nyx
+p674
+aVJourney into Nyx
+p675
+aVAlara Reborn
+p676
+aVAlara Reborn
+p677
+aVFifth Edition
+p678
+aVFifth Edition
+p679
+aVFifth Edition
+p680
+aVFifth Edition
+p681
+aVFifth Edition
+p682
+aVKhans of Tarkir
+p683
+aVDuel Decks: Jace vs. Vraska
+p684
+aVMirage
+p685
+aVMirage
+p686
+aVMirage
+p687
+aVMirage
+p688
+aVVanguard
+p689
+aVVanguard
+p690
+aVLimited Edition Alpha
+p691
+aVLimited Edition Alpha
+p692
+aVVisions
+p693
+aVVisions
+p694
+aVVisions
+p695
+aVMasters Edition IV
+p696
+aVMasters Edition IV
+p697
+aVMasters Edition IV
+p698
+aVMasters Edition IV
+p699
+aVMasters Edition IV
+p700
+aVMasters Edition IV
+p701
+aVMasters Edition IV
+p702
+aVMasters Edition IV
+p703
+aVDragon's Maze
+p704
+aVDragon's Maze
+p705
+aVDragon's Maze
+p706
+aVLegends
+p707
+aVDissension
+p708
+aVDissension
+p709
+aVDuel Decks: Izzet vs. Golgari
+p710
+aVDuel Decks: Izzet vs. Golgari
+p711
+aVDuel Decks: Izzet vs. Golgari
+p712
+aVDuel Decks: Izzet vs. Golgari
+p713
+aVDuel Decks: Izzet vs. Golgari
+p714
+aVDuel Decks: Izzet vs. Golgari
+p715
+aVDuel Decks: Izzet vs. Golgari
+p716
+aVLorwyn
+p717
+aVLorwyn
+p718
+aVLorwyn
+p719
+aVLorwyn
+p720
+aVMagic 2011
+p721
+aVMagic 2011
+p722
+aVMagic 2011
+p723
+aVMagic 2011
+p724
+aVMagic 2011
+p725
+aVTime Spiral "Timeshifted"
+p726
+aVDuel Decks: Heroes vs. Monsters
+p727
+aVPortal
+p728
+aVPortal
+p729
+aVPlaneshift
+p730
+asS'ids'
+p731
+(lp732
+V-2146729982
+p733
+aV-2146729981
+p734
+aV-2146729973
+p735
+aV-2146729972
+p736
+aV-2146729971
+p737
+aV-2146729970
+p738
+aV-2146729969
+p739
+aV-2146729956
+p740
+aV-2146729955
+p741
+aV-2146729954
+p742
+aV-2146729953
+p743
+aV-2146729952
+p744
+aV-2146729951
+p745
+aV-2146729916
+p746
+aV247529
+p747
+aV247379
+p748
+aV247380
+p749
+aV247381
+p750
+aV247546
+p751
+aV242485
+p752
+aV229952
+p753
+aV221201
+p754
+aV228959
+p755
+aV220435
+p756
+aV221199
+p757
+aV245185
+p758
+aV236461
+p759
+aV220294
+p760
+aV496
+p761
+aV497
+p762
+aV74015
+p763
+aV21205
+p764
+aV266050
+p765
+aV278070
+p766
+aV2280
+p767
+aV2282
+p768
+aV2281
+p769
+aV122280
+p770
+aV1007
+p771
+aV1061
+p772
+aV3141
+p773
+aV3171
+p774
+aV3174
+p775
+aV3140
+p776
+aV3143
+p777
+aV3142
+p778
+aV3172
+p779
+aV3173
+p780
+aV194373
+p781
+aV194384
+p782
+aV213926
+p783
+aV206360
+p784
+aV194314
+p785
+aV205472
+p786
+aV378386
+p787
+aV378530
+p788
+aV191092
+p789
+aV190558
+p790
+aV191074
+p791
+aV191597
+p792
+aV370674
+p793
+aV370610
+p794
+aV4821
+p795
+aV129578
+p796
+aV129580
+p797
+aV129582
+p798
+aV130380
+p799
+aV135221
+p800
+aV382956
+p801
+aV382957
+p802
+aV382958
+p803
+aV382959
+p804
+aV382960
+p805
+aV382961
+p806
+aV382962
+p807
+aV382963
+p808
+aV382964
+p809
+aV382965
+p810
+aV382966
+p811
+aV1790
+p812
+aV1794
+p813
+aV1795
+p814
+aV1796
+p815
+aV1791
+p816
+aV1792
+p817
+aV1793
+p818
+aV213799
+p819
+aV213782
+p820
+aV213798
+p821
+aV25486
+p822
+aV1947
+p823
+aV1950
+p824
+aV1951
+p825
+aV1954
+p826
+aV1949
+p827
+aV1948
+p828
+aV1953
+p829
+aV1952
+p830
+aV1958
+p831
+aV1957
+p832
+aV1956
+p833
+aV1955
+p834
+aV1959
+p835
+aV26760
+p836
+aV27664
+p837
+aV29417
+p838
+aV194973
+p839
+aV1295
+p840
+aV1296
+p841
+aV184690
+p842
+aV184693
+p843
+aV96935
+p844
+aV97211
+p845
+aV82957
+p846
+aV83018
+p847
+aV83109
+p848
+aV83374
+p849
+aV94910
+p850
+aV84540
+p851
+aV83111
+p852
+aV83305
+p853
+aV185142
+p854
+aV179487
+p855
+aV240029
+p856
+aV239998
+p857
+aV368478
+p858
+aV13012
+p859
+aV33695
+p860
+aV39722
+p861
+aV39826
+p862
+aV39840
+p863
+aV39942
+p864
+aV40193
+p865
+aV39477
+p866
+aV78192
+p867
+aV-78688
+p868
+aV74433
+p869
+aV74475
+p870
+aV74668
+p871
+aV15202
+p872
+aV15212
+p873
+aV15223
+p874
+aV15771
+p875
+aV15876
+p876
+aV15197
+p877
+aV83838
+p878
+aV87939
+p879
+aV87965
+p880
+aV88959
+p881
+aV88960
+p882
+aV88994
+p883
+aV89019
+p884
+aV89038
+p885
+aV89069
+p886
+aV95536
+p887
+aV83803
+p888
+aV376349
+p889
+aV376350
+p890
+aV376351
+p891
+aV376352
+p892
+aV376353
+p893
+aV29980
+p894
+aV118923
+p895
+aV124758
+p896
+aV253643
+p897
+aV253548
+p898
+aV270788
+p899
+aV265385
+p900
+aV253508
+p901
+aV270964
+p902
+aV253645
+p903
+aV290535
+p904
+aV270796
+p905
+aV366302
+p906
+aV121185
+p907
+aV121219
+p908
+aV798
+p909
+aV799
+p910
+aV2405
+p911
+aV2571
+p912
+aV2624
+p913
+aV2625
+p914
+aV2626
+p915
+aV2627
+p916
+aV177501
+p917
+aV170987
+p918
+aV180411
+p919
+aV180473
+p920
+aV185701
+p921
+aV198523
+p922
+aV15415
+p923
+aV15417
+p924
+aV14618
+p925
+aV16443
+p926
+aV14657
+p927
+aV15421
+p928
+aV15427
+p929
+aV46024
+p930
+aV46044
+p931
+aV46049
+p932
+aV46061
+p933
+aV48077
+p934
+aV48592
+p935
+aV49771
+p936
+aV222708
+p937
+aV174822
+p938
+aV174938
+p939
+aV174939
+p940
+aV175105
+p941
+aV177596
+p942
+aV11307
+p943
+aV13047
+p944
+aV13100
+p945
+aV15810
+p946
+aV25674
+p947
+aV25676
+p948
+aV25679
+p949
+aV25672
+p950
+aV15805
+p951
+aV11309
+p952
+aV13122
+p953
+aV383257
+p954
+aV383258
+p955
+aV383259
+p956
+aV12643
+p957
+aV13001
+p958
+aV46735
+p959
+aV194902
+p960
+aV193432
+p961
+aV34399
+p962
+aV34917
+p963
+aV142019
+p964
+aV159413
+p965
+aV20196
+p966
+aV20214
+p967
+aV20216
+p968
+aV20213
+p969
+aV20185
+p970
+aV20195
+p971
+aV21066
+p972
+aV20202
+p973
+aV20211
+p974
+aV21073
+p975
+aV48215
+p976
+aV51170
+p977
+aV43567
+p978
+aV43591
+p979
+aV43525
+p980
+aV44292
+p981
+aV130311
+p982
+aV6594
+p983
+aV6598
+p984
+aV6603
+p985
+aV6604
+p986
+aV6616
+p987
+aV6587
+p988
+aV6584
+p989
+aV6602
+p990
+aV6596
+p991
+aV6585
+p992
+aV6582
+p993
+aV6583
+p994
+aV198087
+p995
+aV205388
+p996
+aV205283
+p997
+aV39888
+p998
+aV42274
+p999
+aV44286
+p1000
+aV44294
+p1001
+aV44317
+p1002
+aV44656
+p1003
+aV45123
+p1004
+aV45125
+p1005
+aV5541
+p1006
+aV5653
+p1007
+aV5760
+p1008
+aV8818
+p1009
+aV9851
+p1010
+aV8824
+p1011
+aV5701
+p1012
+aV5543
+p1013
+aV5683
+p1014
+aV159730
+p1015
+aV159731
+p1016
+aV159229
+p1017
+aV159758
+p1018
+aV159759
+p1019
+aV373516
+p1020
+aV4549
+p1021
+aV4550
+p1022
+aV4551
+p1023
+aV45344
+p1024
+aV45363
+p1025
+aV45384
+p1026
+aV45343
+p1027
+aV194681
+p1028
+aV197153
+p1029
+aV2844
+p1030
+aV2845
+p1031
+aV2846
+p1032
+aV2847
+p1033
+aV23037
+p1034
+aV5680
+p1035
+aV380425
+p1036
+aV380426
+p1037
+aV380427
+p1038
+aV380428
+p1039
+aV380429
+p1040
+aV183994
+p1041
+aV179561
+p1042
+aV4057
+p1043
+aV4059
+p1044
+aV4055
+p1045
+aV4056
+p1046
+aV4058
+p1047
+aV386547
+p1048
+aV380220
+p1049
+aV3449
+p1050
+aV3450
+p1051
+aV3451
+p1052
+aV3448
+p1053
+aV210149
+p1054
+aV182251
+p1055
+aV201
+p1056
+aV202
+p1057
+aV3688
+p1058
+aV3713
+p1059
+aV3687
+p1060
+aV221507
+p1061
+aV202608
+p1062
+aV202426
+p1063
+aV202471
+p1064
+aV202475
+p1065
+aV202584
+p1066
+aV202479
+p1067
+aV202562
+p1068
+aV368964
+p1069
+aV369023
+p1070
+aV368960
+p1071
+aV1653
+p1072
+aV107395
+p1073
+aV107542
+p1074
+aV338414
+p1075
+aV292948
+p1076
+aV338406
+p1077
+aV292950
+p1078
+aV292951
+p1079
+aV292952
+p1080
+aV292953
+p1081
+aV139397
+p1082
+aV139698
+p1083
+aV142356
+p1084
+aV142363
+p1085
+aV208010
+p1086
+aV205096
+p1087
+aV205052
+p1088
+aV207999
+p1089
+aV208295
+p1090
+aV107280
+p1091
+aV373398
+p1092
+aV4342
+p1093
+aV4299
+p1094
+aV8902
+p1095
+asS'texts'
+p1096
+(lp1097
+VOther Goblin creatures get +1/+1 and have mountainwalk. (They can't be blocked as long as defending player controls a Mountain.)
+p1098
+aV{2}{R}, Sacrifice two Goblins: Put three 1/1 red Goblin creature tokens onto the battlefield.
+p1099
+aVTrample<br><br>Goblin Mutant can't attack if defending player controls an untapped creature with power 3 or greater.<br><br>Goblin Mutant can't block creatures with power 3 or greater.
+p1100
+aVPut X 1/1 red Goblin creature tokens onto the battlefield.
+p1101
+aVWhen Goblin Recruiter enters the battlefield, search your library for any number of Goblin cards and reveal those cards. Shuffle your library, then put them on top of it in any order.
+p1102
+aVWhenever Goblin Snowman blocks, prevent all combat damage that would be dealt to and dealt by it this turn.<br><br>{T}: Goblin Snowman deals 1 damage to target creature it's blocking.
+p1103
+aVYou may exile a red card from your hand rather than pay Pyrokinesis's mana cost.<br><br>Pyrokinesis deals 4 damage divided as you choose among any number of target creatures.
+p1104
+aVAs an additional cost to cast Goblin Grenade, sacrifice a Goblin.<br><br>Goblin Grenade deals 5 damage to target creature or player.
+p1105
+aVWhen Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, and put it into your hand. If you do, shuffle your library.
+p1106
+aV{R}, {T}: Destroy target artifact. That artifact deals damage equal to its converted mana cost to Goblin Tinkerer.
+p1107
+aVWhenever Goblin Vandal attacks and isn't blocked, you may pay {R}. If you do, destroy target artifact defending player controls and Goblin Vandal assigns no combat damage this turn.
+p1108
+aVLightning Bolt deals 3 damage to target creature or player.
+p1109
+aVSacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.
+p1110
+aV{G}, {T}, Sacrifice Scavenger Folk: Destroy target artifact.
+p1111
+aVWhenever Goblin Cadets blocks or becomes blocked, target opponent gains control of it. <i>(This removes Goblin Cadets from combat.)</i>
+p1112
+aV{4}{B}, Sacrifice a creature: Return target creature card from your graveyard to your hand.<br>{4}{G}: Put a +1/+1 counter on target creature.
+p1113
+aVGolgari Rot Farm enters the battlefield tapped.<br>When Golgari Rot Farm enters the battlefield, return a land you control to its owner's hand.<br>{T}: Add {B}{G} to your mana pool.
+p1114
+aV{1}, {T}: Add {B}{G} to your mana pool.
+p1115
+aVDefender, flying<br>{T}: Put Gomazoa and each creature it's blocking on top of their owners' libraries, then those players shuffle their libraries.
+p1116
+aV{T}: Target creature with power 2 or less is unblockable this turn.
+p1117
+aVEnchant creature<br>Enchanted creature gets +2/+2 and has haste. <i>(It can attack and {T} no matter when it came under its controller's control.)</i>
+p1118
+aVBloodthirst 2 <i>(If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)</i>
+p1119
+aVDuring your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments.
+p1120
+aVDeathtouch<br>Whenever Grave Titan enters the battlefield or attacks, put two 2/2 black Zombie creature tokens onto the battlefield.
+p1121
+aVWhen Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.
+p1122
+aVDeathtouch <i>(Any amount of damage this deals to a creature is enough to destroy it.)</i>
+p1123
+aVEquipped creature gets +3/+0.<br>Equip {3} <i>({3}: Attach to target creature you control. Equip only as a sorcery.)</i>
+p1124
+aVAs long as you control a Griffin creature, Griffin Rider gets +3/+3 and has flying.
+p1125
+aVEnchant creature<br>Enchanted creature gets +0/+2.<br>{W}: Enchanted creature gets +0/+1 until end of turn.
+p1126
+aVEnchant creature<br>Enchanted creature gets +1/+2.
+p1127
+aV{R}: Godo's Irregulars deals 1 damage to target creature blocking it.
+p1128
+aVR
+p1129
+aVWhen Mindclaw Shaman enters the battlefield, target opponent reveals his or her hand. You may cast an instant or sorcery card from it without paying its mana cost.
+p1130
+aVMogg Flunkies can't attack or block alone.
+p1131
+aV{T}: Target creature can't be regenerated this turn.
+p1132
+aVEnchant creature<br>Enchanted creature gets +2/-2.
+p1133
+aVReturn all artifacts target player owns to his or her hand.
+p1134
+aVFlying<br>When Gossamer Phantasm becomes the target of a spell or ability, sacrifice it.
+p1135
+aV{1}, {T}: Each nontoken permanent from the Antiquities expansion is sacrificed by its controller.
+p1136
+aV{T}: Flip a coin. If you win the flip, draw a card. If you lose the flip, counter target artifact spell you control that isn't the target of an ability from another creature named Goblin Artisans.
+p1137
+aVHail Storm deals 2 damage to each attacking creature and 1 damage to you and each creature you control.
+p1138
+aVCast Gorilla War Cry only during combat before blockers are declared.<br>Creatures can't be blocked this turn except by two or more creatures.<br>Draw a card at the beginning of the next turn's upkeep.
+p1139
+aVReturn all Islands to their owners' hands.<br><br>Each player sacrifices a Plains or a white permanent for each white permanent he or she controls.
+p1140
+aV{1}{G}: Regenerate Gorilla Chieftain.
+p1141
+aV{X}{X}{1}: Destroy target noncreature artifact with converted mana cost X.
+p1142
+aVCast Gorilla War Cry only during combat before blockers are declared.<br>Creatures can't be blocked this turn except by two or more creatures.<br>Draw a card at the beginning of the next turn's upkeep.
+p1143
+aVGuerrilla Tactics deals 2 damage to target creature or player.<br>When a spell or ability an opponent controls causes you to discard Guerrilla Tactics, Guerrilla Tactics deals 4 damage to target creature or player.
+p1144
+aVGuerrilla Tactics deals 2 damage to target creature or player.<br>When a spell or ability an opponent controls causes you to discard Guerrilla Tactics, Guerrilla Tactics deals 4 damage to target creature or player.
+p1145
+aV{T}: Add {W} to your mana pool.
+p1146
+aVAt the beginning of your upkeep, you may put a charge counter on Golden Urn.<br>{T}, Sacrifice Golden Urn: You gain life equal to the number of charge counters on Golden Urn.
+p1147
+aV{2}: Target artifact creature gets +1/+1 until end of turn.<br>{2}: Target artifact creature gains your choice of flying, trample, or haste until end of turn.
+p1148
+aVWhenever you cast an artifact spell, you may put a charge counter on Golem Foundry.<br>Remove three charge counters from Golem Foundry: Put a 3/3 colorless Golem artifact creature token onto the battlefield.
+p1149
+aVWhenever a player casts an artifact spell, you may gain 1 life.
+p1150
+aVEquipped creature gets +2/+2 and has infect. <i>(It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</i><br>Whenever Grafted Exoskeleton becomes unattached from a permanent, sacrifice that permanent.<br>Equip {2}
+p1151
+aVEquipped creature has deathtouch.<br>Equip {2}
+p1152
+aVReach<br>{3}{B}: Graverobber Spider gets +X/+X until end of turn, where X is the number of creature cards in your graveyard. Activate this ability only once each turn.
+p1153
+aVFlying<br>If a source an opponent controls would deal damage to you, prevent 1 of that damage.
+p1154
+aVThe next 2 damage that a source of your choice would deal to you and/or permanents you control this turn is dealt to target creature or player instead.
+p1155
+aVExile all cards from target player's graveyard other than basic land cards. For each card exiled this way, search that player's library for all cards with the same name as that card and exile them. Then that player shuffles his or her library.
+p1156
+aVWhenever a player casts an instant or sorcery spell, each other player copies that spell. Each of those players may choose new targets for his or her copy.
+p1157
+aVChoose target creature card in a graveyard that was put there from the battlefield this turn. Put that card onto the battlefield under your control.
+p1158
+aVSliver creatures you control have trample. <i>(If a Sliver you control would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</i>
+p1159
+aVDuring combat, players can't cast instant spells or activate abilities that aren't mana abilities.
+p1160
+aV{1}{R}: Target creature can't block Duct Crawler this turn.
+p1161
+aVWhenever a creature you control dies, each other player sacrifices a creature.
+p1162
+aVWhen Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.
+p1163
+aVWhenever you cast a white, blue, black, or red spell, put a +1/+1 counter on Quirion Dryad.
+p1164
+aV{W}{U}{B}{R}{G}: Exile target permanent.<br>If Legacy Weapon would be put into a graveyard from anywhere, reveal Legacy Weapon and shuffle it into its owner's library instead.
+p1165
+aVGoblin Goon can't attack unless you control more creatures than defending player.<br>Goblin Goon can't block unless you control more creatures than attacking player.
+p1166
+aVWhenever Goblin Lackey deals damage to a player, you may put a Goblin permanent card from your hand onto the battlefield.
+p1167
+aVWhen Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, and put it into your hand. If you do, shuffle your library.
+p1168
+aVEcho {R} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i>
+p1169
+aVProtection from blue<br>Whenever Goblin Piledriver attacks, it gets +2/+0 until end of turn for each other attacking Goblin.
+p1170
+aVHaste<br>When Goblin Ringleader enters the battlefield, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library in any order.
+p1171
+aVWhen Goblin Settler enters the battlefield, destroy target land.
+p1172
+aV{2}, Sacrifice a land: Put two 1/1 red and white Goblin Soldier creature tokens onto the battlefield.
+p1173
+aVGoblin spells you cast cost {1} less to cast.<br>Goblin creatures you control have haste.
+p1174
+aVGrand Coliseum enters the battlefield tapped.<br>{T}: Add {1} to your mana pool.<br>{T}: Add one mana of any color to your mana pool. Grand Coliseum deals 1 damage to you.
+p1175
+aVGrasslands enters the battlefield tapped.<br>{T}, Sacrifice Grasslands: Search your library for a Forest or Plains card and put it onto the battlefield. Then shuffle your library.
+p1176
+aVEnchant land<br>As long as enchanted land is a basic Mountain, Goblin creatures get +0/+2.
+p1177
+aVEnchant land<br>As long as enchanted land is a basic Mountain, Goblin creatures get +1/+0.<br>When Goblin Shrine leaves the battlefield, it deals 1 damage to each Goblin creature.
+p1178
+aV{T}: You may put a Goblin permanent card from your hand onto the battlefield.<br>{R}: Target Goblin gains protection from white until end of turn.
+p1179
+aVMountainwalk<br>When you control a Dwarf, sacrifice Goblins of the Flarg.
+p1180
+aVTrample<br>Goblin Rock Sled doesn't untap during your untap step if it attacked during your last turn.<br>Goblin Rock Sled can't attack unless defending player controls a Mountain.
+p1181
+aVInferno deals 6 damage to each creature and each player.
+p1182
+aVFirst strike
+p1183
+aVDestroy target nonartifact creature.
+p1184
+aVBattle cry <i>(Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)</i>
+p1185
+aVSacrifice Gore Vassal: Put a -1/-1 counter on target creature. Then if that creature's toughness is 1 or greater, regenerate it.
+p1186
+aVU
+p1187
+aVSacrifice a Goblin: Regenerate target creature.
+p1188
+aVIslandwalk<br>At the beginning of combat, unless you pay {R}, whenever Goblin Flotilla blocks or becomes blocked by a creature this combat, that creature gains first strike until end of turn.
+p1189
+aVAs an additional cost to cast Goblin Grenade, sacrifice a Goblin.<br>Goblin Grenade deals 5 damage to target creature or player.
+p1190
+aV{R}: Target creature you control with toughness 2 or less gains flying until end of turn. Flip a coin at the beginning of the next end step. If you lose the flip, sacrifice that creature.
+p1191
+aVSacrifice a Goblin: Regenerate target creature.
+p1192
+aVSacrifice a Goblin: Regenerate target creature.
+p1193
+aVAs an additional cost to cast Goblin Grenade, sacrifice a Goblin.<br>Goblin Grenade deals 5 damage to target creature or player.
+p1194
+aVAs an additional cost to cast Goblin Grenade, sacrifice a Goblin.<br>Goblin Grenade deals 5 damage to target creature or player.
+p1195
+aVEach creature you control can't be blocked except by two or more creatures.
+p1196
+aVEach creature you control can't be blocked except by two or more creatures.
+p1197
+aVEach creature you control can't be blocked except by two or more creatures.
+p1198
+aVEach creature you control can't be blocked except by two or more creatures.
+p1199
+aV{2}{R}, Sacrifice two Goblins: Put three 1/1 red Goblin creature tokens onto the battlefield.
+p1200
+aV{R}, Sacrifice Goblin Legionnaire: Goblin Legionnaire deals 2 damage to target creature or player.<br>{W}, Sacrifice Goblin Legionnaire: Prevent the next 2 damage that would be dealt to target creature or player this turn.
+p1201
+aVHaste<br>When Goblin Ringleader enters the battlefield, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library in any order.
+p1202
+aV{2}, Sacrifice a land: Put two 1/1 red and white Goblin Soldier creature tokens onto the battlefield.
+p1203
+aVWhenever Goblin Lackey deals damage to a player, you may put a Goblin permanent card from your hand onto the battlefield.
+p1204
+aVTarget creature gets +X/+0 until end of turn.
+p1205
+aVAt the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card.
+p1206
+aV{1}{B}, {T}: Target creature gets -1/-1 until end of turn.
+p1207
+aV{T}: Exile a card from your hand face down. You may look at it for as long as it remains exiled.<br>{T}: Return a card you own exiled with Gustha's Scepter to your hand.<br>When you lose control of Gustha's Scepter, put all cards exiled with Gustha's Scepter into their owner's graveyard.
+p1208
+aV{T}: Add {1} to your mana pool.<br>{2}{U}{R}, {T}: Exile the top card of your library. Until your next turn, you may cast that card if it's an instant or sorcery.
+p1209
+aVUlasht, the Hate Seed enters the battlefield with a +1/+1 counter on it for each other red creature you control and a +1/+1 counter on it for each other green creature you control.<br>{1}, Remove a +1/+1 counter from Ulasht: Choose one- Ulasht deals 1 damage to target creature; or put a 1/1 green Saproling creature token onto the battlefield.
+p1210
+aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i><br>First strike <i>(This creature deals combat damage before creatures without first strike.)</i>
+p1211
+aVWhenever a creature becomes the target of a spell or ability, return that creature to its owner's hand. <i>(It won't be affected by the spell or ability.)</i>
+p1212
+aVAs Booby Trap enters the battlefield, name a card other than a basic land card and choose an opponent.<br>The chosen player reveals each card he or she draws.<br>When the chosen player draws the named card, sacrifice Booby Trap. If you do, Booby Trap deals 10 damage to that player.
+p1213
+aVFlying
+p1214
+aV{T}: Draw a card.
+p1215
+aV{2}: Jade Statue becomes a 3/6 Golem artifact creature until end of combat. Activate this ability only during combat.
+p1216
+aV{2}, {T}, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles his or her library.
+p1217
+aV{T}: Add {1} to your mana pool.<br>{T}: Add {R} or {G} to your mana pool. Karplusan Forest deals 1 damage to you.
+p1218
+aV{T}: Target land you control becomes the basic land type of your choice until end of turn.
+p1219
+aVWhen Grixis Slavedriver leaves the battlefield, put a 2/2 black Zombie creature token onto the battlefield.<br>Unearth {3}{B} <i>({3}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</i>
+p1220
+aVFlying<br>When Goldnight Redeemer enters the battlefield, you gain 2 life for each other creature you control.
+p1221
+aVReturn target creature card from your graveyard to your hand. Target player sacrifices a creature.
+p1222
+aVWhen Goblin Arsonist dies, you may have it deal 1 damage to target creature or player.
+p1223
+aV{T}: Add {1} to your mana pool.<br>{1}{R}, {T}: Target Goblin creature gets +2/+0 until end of turn.
+p1224
+aVGoblin Sharpshooter doesn't untap during your untap step.<br>Whenever a creature dies, untap Goblin Sharpshooter.<br>{T}: Goblin Sharpshooter deals 1 damage to target creature or player.
+p1225
+aV{1}{R}: Target Goblin creature gets +1/+0 until end of turn.<br>Morph {R} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p1226
+aVSacrifice a Goblin: Target creature gets +1/+1 until end of turn.
+p1227
+aVWhen Goblin Pyromancer enters the battlefield, Goblin creatures get +3/+0 until end of turn.<br>At the beginning of the end step, destroy all Goblins.
+p1228
+aV{2}{R}: Reveal cards from the top of your library until you reveal a nonland card. Goblin Machinist gets +X/+0 until end of turn, where X is that card's converted mana cost. Put the revealed cards on the bottom of your library in any order.
+p1229
+aVProtection from blue<br>Whenever Goblin Piledriver attacks, it gets +2/+0 until end of turn for each other attacking Goblin.
+p1230
+aVUntap target creature. It gets +2/+4 until end of turn.
+p1231
+aVFlying<br>When Yosei, the Morning Star dies, target player skips his or her next untap step. Tap up to five target permanents that player controls.
+p1232
+aS''
+p1233
+aVGoblin Cohort can't attack unless you've cast a creature spell this turn.
+p1234
+aVWhenever you cast a Spirit or Arcane spell, you may put a ki counter on Hired Muscle.<br>At the beginning of the end step, if there are two or more ki counters on Hired Muscle, you may flip it.<br>----<br>Scarmaker<br>Legendary Creature- Spirit<br>4/4<br>Remove a ki counter from Scarmaker: Target creature gains fear until end of turn. <i>(It can't be blocked except by artifact creatures and/or black creatures.)</i>
+p1235
+aVTarget creature gets +4/+4 until end of turn. If it's a Spirit, it gains trample until end of turn.
+p1236
+aVWhen Goblin Masons dies, destroy target Wall.
+p1237
+aVEcho {4}{R}{R} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i><br>When Goblin Marshal enters the battlefield or dies, put two 1/1 red Goblin creature tokens onto the battlefield.
+p1238
+aVTrample
+p1239
+aV{2}: Goblin Festival deals 1 damage to target creature or player. Flip a coin. If you lose the flip, choose one of your opponents. That player gains control of Goblin Festival.
+p1240
+aVFirst strike, haste
+p1241
+aVWhen Goblin Gardener dies, destroy target land.
+p1242
+aVReach <i>(This creature can block creatures with flying.)</i><br>Selesnya Sagittars can block an additional creature.
+p1243
+aV{T}: Each player draws a card, then discards a card.
+p1244
+aVWhen Sparkmage Apprentice enters the battlefield, it deals 1 damage to target creature or player.
+p1245
+aVWhen Zephyr Spirit blocks, return it to its owner's hand.
+p1246
+aVEach player shuffles his or her graveyard into his or her library.
+p1247
+aVEnchant creature<br>Enchanted creature has "At the beginning of your end step, sacrifice this creature unless it attacked this turn."
+p1248
+aVName a card. Target player reveals cards from the top of his or her library until the named card is revealed. If it is, that player puts the rest of the revealed cards into his or her graveyard and puts the named card on top of his or her library. Otherwise, the player shuffles his or her library.
+p1249
+aVWhenever a land enters the battlefield under your control, untap Stone-Seeder Hierophant.<br>{T}: Untap target land.
+p1250
+aV<i>({T}: Add {B} or {G} to your mana pool.)</i><br>As Overgrown Tomb enters the battlefield, you may pay 2 life. If you don't, Overgrown Tomb enters the battlefield tapped.
+p1251
+aV{1}, {T}: Add {G}{W} to your mana pool.
+p1252
+ag1187
+aVSacrifice a creature: Goblin Bombardment deals 1 damage to target creature or player.
+p1253
+aVGoblin Sharpshooter doesn't untap during your untap step.<br>Whenever a creature dies, untap Goblin Sharpshooter.<br>{T}: Goblin Sharpshooter deals 1 damage to target creature or player.
+p1254
+aVGolgari Guildgate enters the battlefield tapped.<br>{T}: Add {B} or {G} to your mana pool.
+p1255
+aV{4}{B}, Sacrifice a creature: Return target creature card from your graveyard to your hand.<br>{4}{G}: Put a +1/+1 counter on target creature.
+p1256
+aVGolgari Rot Farm enters the battlefield tapped.<br>When Golgari Rot Farm enters the battlefield, return a land you control to its owner's hand.<br>{T}: Add {B}{G} to your mana pool.
+p1257
+aV{2}{G}, {T}: Target creature gets +X/+X until end of turn, where X is that creature's power.
+p1258
+aVWhenever Gorgon Recluse blocks or becomes blocked by a nonblack creature, destroy that creature at end of combat.<br>Madness {B}{B} <i>(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)</i>
+p1259
+aVSacrifice Goblin Skycutter: Goblin Skycutter deals 2 damage to target creature with flying. That creature loses flying until end of turn.
+p1260
+aVChoose one- All creatures get -1/-1 until end of turn; or destroy target enchantment; or regenerate each creature you control.
+p1261
+aVAll creatures able to block Golgari Decoy do so.<br>Scavenge {3}{G}{G} <i>({3}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)</i>
+p1262
+aVGolgari Guildgate enters the battlefield tapped.<br>{T}: Add {B} or {G} to your mana pool.
+p1263
+aV{T}: Add {B} or {G} to your mana pool.<br>{B}{G}: Golgari Keyrune becomes a 2/2 black and green Insect artifact creature with deathtouch until end of turn.
+p1264
+aVUnleash <i>(You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)</i>
+p1265
+aVWhenever a creature you don't control dies, return it to the battlefield under your control with an additional +1/+1 counter on it at the beginning of the next end step. That creature is a black Zombie in addition to its other colors and types.
+p1266
+aVUnleash <i>(You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)</i><br>{1}{B}: Regenerate Grim Roustabout.
+p1267
+aVReveal the top five cards of your library. You may put a creature or land card from among them into your hand. Put the rest into your graveyard.
+p1268
+aV{T}: Add {1} to your mana pool.<br>{3}{G}{W}, {T}, Tap two untapped creatures you control, Sacrifice Grove of the Guardian: Put an 8/8 green and white Elemental creature token with vigilance onto the battlefield.
+p1269
+aV<i>({T}: Add {W} or {B} to your mana pool.)</i><br>As Godless Shrine enters the battlefield, you may pay 2 life. If you don't, Godless Shrine enters the battlefield tapped.
+p1270
+aVPrevent all damage that Goblin Furrier would deal to snow creatures.
+p1271
+aV{T}: Target creature can't block this turn.<br>{snow}: Goblin Rimerunner gains haste until end of turn. <i>({snow} can be paid with one mana from a snow permanent.)</i>
+p1272
+aVEnchant creature<br>Enchanted creature gets +1/+2.
+p1273
+aVTarget creature gets +X/+0 until end of turn.
+p1274
+aVSacrifice Goblin Lyre: Flip a coin. If you win the flip, Goblin Lyre deals damage to target opponent equal to the number of creatures you control. If you lose the flip, Goblin Lyre deals damage to you equal to the number of creatures that opponent controls.
+p1275
+aVEnchant land you control<br>Enchanted land has "{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn."
+p1276
+aV{R}{R}, {T}: Target creature you control is unblockable this turn. Destroy it and Goblin Sappers at end of combat.<br>{R}{R}{R}{R}, {T}: Target creature you control is unblockable this turn. Destroy it at end of combat.
+p1277
+aV{1}{R}: Goblin Ski Patrol gets +2/+0 and gains flying. Its controller sacrifices it at the beginning of the next end step. Activate this ability only once and only if you control a snow Mountain.
+p1278
+aVWhenever Goblin Snowman blocks, prevent all combat damage that would be dealt to and dealt by it this turn.<br>{T}: Goblin Snowman deals 1 damage to target creature it's blocking.
+p1279
+aVWhenever Grizzled Wolverine becomes blocked, you may pay {R}. If you do, Grizzled Wolverine gets +2/+0 until end of turn.
+p1280
+aVKicker {R} <i>(You may pay an additional {R} as you cast this spell.)</i><br>When Goblin Bushwhacker enters the battlefield, if it was kicked, creatures you control get +1/+0 and gain haste until end of turn.
+p1281
+aVHaste<br>Whenever Goblin Guide attacks, defending player reveals the top card of his or her library. If it's a land card, that player puts it into his or her hand.
+p1282
+aVKicker {R} <i>(You may pay an additional {R} as you cast this spell.)</i><br>Haste<br>When Goblin Ruinblaster enters the battlefield, if it was kicked, destroy target nonbasic land.
+p1283
+aVWhen Goblin Shortcutter enters the battlefield, target creature can't block this turn.
+p1284
+aVEnchant creature<br>Enchanted creature gets +2/+2 and has haste. <i>(It can attack and {T} no matter when it came under its controller's control.)</i>
+p1285
+aVDefender, flying<br>{T}: Put Gomazoa and each creature it's blocking on top of their owners' libraries, then those players shuffle their libraries.
+p1286
+aVFlying<br>{X}, {T}: Crimson Hellkite deals X damage to target creature. Spend only red mana this way.
+p1287
+aVSearch your library for a creature card and reveal that card. Shuffle your library, then put the card on top of it.
+p1288
+aVHavenwood Battleground enters the battlefield tapped.<br>{T}: Add {G} to your mana pool.<br>{T}, Sacrifice Havenwood Battleground: Add {G}{G} to your mana pool.
+p1289
+aVChoose one- Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn.
+p1290
+aVWhen Hecatomb enters the battlefield, sacrifice Hecatomb unless you sacrifice four creatures.<br>Tap an untapped Swamp you control: Hecatomb deals 1 damage to target creature or player.
+p1291
+aVTarget creature gets +X/+0 until end of turn.
+p1292
+aVAt the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card.
+p1293
+aV{T}: Add {W} to your mana pool.
+p1294
+aVGoblin War Wagon doesn't untap during your untap step.<br>At the beginning of your upkeep, you may pay {2}. If you do, untap Goblin War Wagon.
+p1295
+aV{3}{R}, Sacrifice Goblin Replica: Destroy target artifact.
+p1296
+aVEquipped creature gets +1/+0 for each Equipment attached to it.<br>Equip {2} <i>({2}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)</i>
+p1297
+aVFlying<br>Goblin Dirigible doesn't untap during your untap step.<br>At the beginning of your upkeep, you may pay {4}. If you do, untap Goblin Dirigible.
+p1298
+aVFirst strike, haste
+p1299
+aV{3}, {T} or {B}, {T}: Return target artifact creature card from your graveyard to your hand.
+p1300
+ag1187
+aVWhen Ranger of Eos enters the battlefield, you may search your library for up to two creature cards with converted mana cost 1 or less, reveal them, and put them into your hand. If you do, shuffle your library.
+p1301
+aVAt the beginning of your end step, if you control a creature with power 5 or greater, you may draw a card.<br>{T}: Add {1} to your mana pool.
+p1302
+aV{R}, {T}: Target creature gets +2/+0 until end of turn.<br>{W}, {T}: Tap target creature.
+p1303
+aVEach creature card in your graveyard has unearth {2}{B}. <i>({2}{B}: Return the card to the battlefield. The creature gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</i>
+p1304
+aVChoose one or both- Branching Bolt deals 3 damage to target creature with flying; and/or Branching Bolt deals 3 damage to target creature without flying.
+p1305
+aV{T}, Sacrifice Goblin Digging Team: Destroy target Wall.
+p1306
+aVWhen Staunch Defenders enters the battlefield, you gain 4 life.
+p1307
+aVFlying<br>When Abyssal Horror enters the battlefield, target player discards two cards.
+p1308
+aV{T}: Add {2} to your mana pool.
+p1309
+aVEach player sacrifices four lands. Wildfire deals 4 damage to each creature.
+p1310
+aV{1}{R}: Reckless Embermage deals 1 damage to target creature or player and 1 damage to itself.
+p1311
+aVFlying<br>{R}: Shivan Dragon gets +1/+0 until end of turn.
+p1312
+aVAt the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card.
+p1313
+aVDraw four cards. You lose half your life, rounded up.
+p1314
+aVInferno deals 6 damage to each creature and each player.
+p1315
+aVTarget player draws two cards.
+p1316
+aV{T}: Put a charge counter on Grindclock.<br>{T}: Target player puts the top X cards of his or her library into his or her graveyard, where X is the number of charge counters on Grindclock.
+p1317
+aVEnchant creature<br>When Hammerhand enters the battlefield, target creature can't block this turn.<br>Enchanted creature gets +1/+1 and has haste. <i>(It can attack and {T} no matter when it came under your control.)</i>
+p1318
+aVEquipped creature gets +4/+4.<br>{0}: Until end of turn, Haunted Plate Mail becomes a 4/4 Spirit artifact creature that's no longer an Equipment. Activate this ability only if you control no creatures.<br>Equip {4} <i>({4}: Attach to target creature you control. Equip only as a sorcery.)</i>
+p1319
+aVWhenever Goblin Medics becomes tapped, it deals 1 damage to target creature or player.
+p1320
+aV{T}: Choose target artifact a player controls and target artifact card in that player's graveyard. If both targets are still legal as this ability resolves, that player simultaneously sacrifices the artifact and returns the artifact card to the battlefield.
+p1321
+aV{R}, {T}: Flip a coin. If you win the flip, destroy target artifact and untap Goblin Archaeologist. If you lose the flip, sacrifice Goblin Archaeologist.
+p1322
+aV{T}: Target creature with power 2 or less is unblockable this turn.
+p1323
+aVCreatures with flying get +2/+0.<br>Creatures without flying get -2/-0.
+p1324
+aVYou may choose an artifact or enchantment card you own from outside the game, reveal that card, and put it into your hand. Exile Golden Wish.
+p1325
+aVWhen Goretusk Firebeast enters the battlefield, it deals 4 damage to target player.
+p1326
+aVWhenever a player casts a red spell, you may pay {1}. If you do, target creature can't block this turn.
+p1327
+aVG
+p1328
+aVWhen Goblin Commando enters the battlefield, it deals 2 damage to target creature.
+p1329
+aVWhen Goblin Settler enters the battlefield, destroy target land.
+p1330
+aVDestroy all creatures with flying.
+p1331
+aVYou may have Lone Wolf assign its combat damage as though it weren't blocked.
+p1332
+aVWhen Loyal Sentry blocks a creature, destroy that creature and Loyal Sentry.
+p1333
+aVForestwalk
+p1334
+aVWhen Man-o'-War enters the battlefield, return target creature to its owner's hand.
+p1335
+aVTarget player discards two cards.
+p1336
+aVTarget creature gets +4/+4 until end of turn.
+p1337
+aVFlying
+p1338
+aV{2}: Goblin Cannon deals 1 damage to target creature or player. Sacrifice Goblin Cannon.
+p1339
+aVFirst strike<br>Goblin Brawler can't be equipped.
+p1340
+aVWhenever Goblin Psychopath attacks or blocks, flip a coin. If you lose the flip, the next time it would deal combat damage this turn, it deals that damage to you instead.
+p1341
+aVGoblin spells you cast cost {1} less to cast.<br>Goblin creatures you control have haste.
+p1342
+aVGoblin Brigand attacks each turn if able.
+p1343
+aVGoblin War Strike deals damage equal to the number of Goblins you control to target player.
+p1344
+aVYou draw X cards and you lose X life, where X is the number of creatures you control.
+p1345
+aVIf Cunning Giant is unblocked, you may have it assign its combat damage to a creature defending player controls.
+p1346
+aVReach <i>(This creature can block creatures with flying.)</i>
+p1347
+aVPut target card from your graveyard on top of your library.
+p1348
+aVSwampwalk
+p1349
+aV{T}: You may put a green creature card from your hand onto the battlefield. Activate this ability only during your turn, before attackers are declared.
+p1350
+aVLava Axe deals 5 damage to target player.
+p1351
+aVYou may have Lone Wolf assign its combat damage as though it weren't blocked.
+p1352
+aVWhen Magma Giant enters the battlefield, it deals 2 damage to each creature and each player.
+p1353
+aVTarget player discards two cards.
+p1354
+aVTarget creature gets +4/+4 until end of turn.
+p1355
+ag1129
+ag1129
+aVWhenever a land enters the battlefield, that land's controller puts three 0/1 white Goat creature tokens onto the battlefield.<br>Whenever you roll , put a 0/1 white Goat creature token onto the battlefield.
+p1356
+aVPut X 1/1 red Goblin creature tokens onto the battlefield.
+p1357
+aV{T}: Add {W} to your mana pool.
+p1358
+aVGoblin Goon can't attack unless you control more creatures than defending player.<br>Goblin Goon can't block unless you control more creatures than attacking player.
+p1359
+aV{T}: Goblin Dynamo deals 1 damage to target creature or player.<br>{X}{R}, {T}, Sacrifice Goblin Dynamo: Goblin Dynamo deals X damage to target creature or player.
+p1360
+aVWhen Goblin Firebug leaves the battlefield, sacrifice a land.
+p1361
+aVSacrifice a Goblin: Regenerate Goblin Turncoat.
+p1362
+aV{T}, Sacrifice a Forest: Add three mana in any combination of {R} and/or {G} to your mana pool.
+p1363
+aVWhenever Goblin Assassin or another Goblin enters the battlefield, each player flips a coin. Each player whose coin comes up tails sacrifices a creature.
+p1364
+aV{T}, Sacrifice a Goblin: Goblin creatures get +2/+0 until end of turn.
+p1365
+aVProvoke <i>(When this attacks, you may have target creature defending player controls untap and block it if able.)</i>
+p1366
+aVWhenever Goblin Cadets blocks or becomes blocked, target opponent gains control of it. <i>(This removes Goblin Cadets from combat.)</i>
+p1367
+aVEcho {R} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i>
+p1368
+aVWhenever Cave Tiger becomes blocked by a creature, Cave Tiger gets +1/+1 until end of turn.
+p1369
+aVPut a +1/+1 counter on each creature you control.
+p1370
+aV{2}, Sacrifice a permanent: Return target creature to its owner's hand.
+p1371
+aVMountainwalk
+p1372
+aVAt the beginning of your draw step, draw an additional card.<br>At the beginning of your end step, discard your hand.
+p1373
+aVSacrifice a creature: Draw cards equal to the sacrificed creature's power, then discard three cards.
+p1374
+aVChoose one- Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn.
+p1375
+aVSacrifice a Goblin: Regenerate target creature.
+p1376
+aVAs an additional cost to cast Goblin Grenade, sacrifice a Goblin.<br>Goblin Grenade deals 5 damage to target creature or player.
+p1377
+aVTrample<br>Goblin Mutant can't attack if defending player controls an untapped creature with power 3 or greater.<br>Goblin Mutant can't block creatures with power 3 or greater.
+p1378
+aV{T}: You may put a Goblin permanent card from your hand onto the battlefield.<br>{R}: Target Goblin gains protection from white until end of turn.
+p1379
+aVMountainwalk<br>When you control a Dwarf, sacrifice Goblins of the Flarg.
+p1380
+aVDefender
+p1381
+aVAt the beginning of your upkeep, you may flip a coin. If you win the flip, put a fuse counter on Goblin Bomb. If you lose the flip, remove a fuse counter from Goblin Bomb.<br>Remove five fuse counters from Goblin Bomb, Sacrifice Goblin Bomb: Goblin Bomb deals 20 damage to target player.
+p1382
+aVWhenever Goblin Grenadiers attacks and isn't blocked, you may sacrifice it. If you do, destroy target creature and target land.
+p1383
+aVWhenever Goblin Vandal attacks and isn't blocked, you may pay {R}. If you do, destroy target artifact defending player controls and Goblin Vandal assigns no combat damage this turn.
+p1384
+aVLook at the top five cards of your library, then put them back in any order.
+p1385
+aVInferno deals 6 damage to each creature and each player.
+p1386
+aVTarget player draws two cards.
+p1387
+aVWhenever a player casts a red spell, you may pay {1}. If you do, you gain 1 life.
+p1388
+aVFlying
+p1389
+aVReach <i>(This creature can block creatures with flying.)</i>
+p1390
+aV{T}: Flip a coin. If you win the flip, draw a card. If you lose the flip, counter target artifact spell you control that isn't the target of an ability from another creature named Goblin Artisans.
+p1391
+aVMountainwalk<br>When you control a Dwarf, sacrifice Goblins of the Flarg.
+p1392
+aVWhenever Hasran Ogress attacks, it deals 3 damage to you unless you pay {2}.
+p1393
+aV{T}, Sacrifice a creature: Return target creature card from your graveyard to the battlefield. Activate this ability only during your upkeep.
+p1394
+aV{1}{B}: Regenerate Goham Djinn.<br>Goham Djinn gets -2/-2 as long as black is the most common color among all permanents or is tied for most common.
+p1395
+aVPlay with the top card of your library revealed.
+p1396
+aVGodhunter Octopus can't attack unless defending player controls an enchantment or an enchanted permanent.
+p1397
+aVEquipped creature gets +3/+3.<br>Whenever equipped creature blocks or becomes blocked by one or more creatures, you may exile one of those creatures.<br>Opponents can't cast cards with the same name as cards exiled with Godsend.<br>Equip {3}
+p1398
+aV{T}: Add {G} to your mana pool.
+p1399
+aVConstellation- Whenever Goldenhide Ox or another enchantment enters the battlefield under your control, target creature must be blocked this turn if able.
+p1400
+aVFlying
+p1401
+aVWhenever a creature with power 5 or greater enters the battlefield under your control, you may put a +1/+1 counter on Godtracker of Jund.
+p1402
+aVDevour 1 <i>(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)</i>
+p1403
+aVIncinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.
+p1404
+aVInferno deals 6 damage to each creature and each player.
+p1405
+aVHollow Trees enters the battlefield tapped.<br>You may choose not to untap Hollow Trees during your untap step.<br>At the beginning of your upkeep, if Hollow Trees is tapped, put a storage counter on it.<br>{T}, Remove any number of storage counters from Hollow Trees: Add {G} to your mana pool for each storage counter removed this way.
+p1406
+aVEnchant creature<br>Enchanted creature gets +1/+2.
+p1407
+aVTarget creature gets +X/+0 until end of turn.
+p1408
+aVMorph {B} <i>(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i><br>Whenever another nontoken creature you control dies, draw a card.
+p1409
+aVGolgari Guildgate enters the battlefield tapped.<br>{T}: Add {B} or {G} to your mana pool.
+p1410
+aVPut three 1/1 red Goblin Scout creature tokens with mountainwalk onto the battlefield.
+p1411
+aV{R}, {T}, Sacrifice a Goblin: Red creatures get +1/+1 until end of turn.
+p1412
+aV{R}, {T}: Destroy target artifact. That artifact deals damage equal to its converted mana cost to Goblin Tinkerer.
+p1413
+aVIf Gravebane Zombie would die, put Gravebane Zombie on top of its owner's library instead.
+p1414
+aVAttacking creatures you control get +1/+0.
+p1415
+aVAttacking creatures you control get +1/+0.
+p1416
+aVDestroy target land.
+p1417
+aV{1}, {T}: Tap target artifact, creature, or land.
+p1418
+aVChoose one- Destroy target artifact creature; or attacking creatures get +1/+0 until end of turn; or target creature with power 2 or less is unblockable this turn.
+p1419
+aVChoose one- Target creature gains first strike until end of turn; or target player gains 2 life; or destroy target Aura.
+p1420
+aVThe next time a source of your choice would deal damage to target creature or player this turn, prevent that damage. If damage from a red source is prevented this way, Honorable Passage deals that much damage to the source's controller.
+p1421
+aVEnchant land<br>As long as enchanted land is a basic Mountain, Goblin creatures get +1/+0.<br>When Goblin Shrine leaves the battlefield, it deals 1 damage to each Goblin creature.
+p1422
+aV{2}{R}, Sacrifice two Goblins: Put three 1/1 red Goblin creature tokens onto the battlefield.
+p1423
+aVCast Gorilla War Cry only during combat before blockers are declared.<br>Creatures can't be blocked this turn except by two or more creatures.<br>Draw a card at the beginning of the next turn's upkeep.
+p1424
+aV{T}: Grapeshot Catapult deals 1 damage to target creature with flying.
+p1425
+aVTarget creature can't be regenerated this turn.<br><br>Draw a card at the beginning of the next turn's upkeep.
+p1426
+aVAs long as Guardian Beast is untapped, noncreature artifacts you control can't be enchanted, they're indestructible, and other players can't gain control of them. This effect doesn't remove Auras already attached to those artifacts.
+p1427
+aVCast Harsh Justice only during the declare attackers step and only if you've been attacked this step.<br>This turn, whenever an attacking creature deals combat damage to you, it deals that much damage to its controller.
+p1428
+aVWhenever Hasran Ogress attacks, it deals 3 damage to you unless you pay {2}.
+p1429
+aVGolgari Guildgate enters the battlefield tapped.<br>{T}: Add {B} or {G} to your mana pool.
+p1430
+aV{T}: Add {R} or {G} to your mana pool.<br>{R}{G}, {T}, Sacrifice Gruul Cluestone: Draw a card.
+p1431
+aVGruul Guildgate enters the battlefield tapped.<br>{T}: Add {R} or {G} to your mana pool.
+p1432
+aVGreen creatures you control get +0/+2.
+p1433
+aVGain control of target monocolored creature.<br>Forecast- {1}{U}, Reveal Govern the Guildless from your hand: Target creature becomes the color or colors of your choice until end of turn. <i>(Activate this ability only during your upkeep and only once each turn.)</i>
+p1434
+aVHellbent- As long as you have no cards in hand, Gobhobbler Rats gets +1/+0 and has "{B}: Regenerate Gobhobbler Rats."
+p1435
+aVInstant and sorcery spells you cast cost {1} less to cast.
+p1436
+aVWhenever a nontoken creature you control dies, put a 1/1 green Saproling creature token onto the battlefield.
+p1437
+aVGolgari Grave-Troll enters the battlefield with a +1/+1 counter on it for each creature card in your graveyard.<br>{1}, Remove a +1/+1 counter from Golgari Grave-Troll: Regenerate Golgari Grave-Troll.<br>Dredge 6 <i>(If you would draw a card, instead you may put exactly six cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)</i>
+p1438
+aVGolgari Rot Farm enters the battlefield tapped.<br>When Golgari Rot Farm enters the battlefield, return a land you control to its owner's hand.<br>{T}: Add {B}{G} to your mana pool.
+p1439
+aV{B}, Sacrifice a creature: Target player loses 1 life.
+p1440
+aV{1}, {T}: Add {B}{G} to your mana pool.
+p1441
+aVWhen Golgari Thug dies, put target creature card from your graveyard on top of your library.<br>Dredge 4 <i>(If you would draw a card, instead you may put exactly four cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)</i>
+p1442
+aV{W}, {T}: Tap target creature.
+p1443
+aVAs an additional cost to cast Goldmeadow Stalwart, reveal a Kithkin card from your hand or pay {3}.
+p1444
+aVGoldmeadow Dodger can't be blocked by creatures with power 4 or greater.
+p1445
+aVWhen Goatnapper enters the battlefield, untap target Goat and gain control of it until end of turn. It gains haste until end of turn.
+p1446
+aVDeathtouch<br>Whenever Grave Titan enters the battlefield or attacks, put two 2/2 black Zombie creature tokens onto the battlefield.
+p1447
+aVWhen Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.
+p1448
+aVDeathtouch <i>(Any amount of damage this deals to a creature is enough to destroy it.)</i>
+p1449
+aVIslandwalk <i>(This creature is unblockable as long as defending player controls an Island.)</i><br>Harbor Serpent can't attack unless there are five or more Islands on the battlefield.
+p1450
+aVExile all cards from target player's graveyard other than basic land cards. For each card exiled this way, search that player's library for all cards with the same name as that card and exile them. Then that player shuffles his or her library.
+p1451
+aVWhenever Goblin Snowman blocks, prevent all combat damage that would be dealt to and dealt by it this turn.<br>{T}: Goblin Snowman deals 1 damage to target creature it's blocking.
+p1452
+aVBloodthirst 2 <i>(If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)</i>
+p1453
+aVHaste
+p1454
+aVWhen Man-o'-War enters the battlefield, return target creature to its owner's hand.
+p1455
+aVEach player hides at least one item, then all players reveal them simultaneously. Each player loses life equal to the number of items he or she revealed. The player who revealed the fewest items then loses half his or her life, rounded up. If two or more players are tied for fewest, each loses half his or her life, rounded up.
+p1456
+asS'costs'
+p1457
+(lp1458
+V{1}{R}{R}
+p1459
+aV{2}{R}
+p1460
+aV{R}
+p1461
+aV{2}{R}{R}
+p1462
+aV{X}{1}{R}{R}
+p1463
+aV{1}{R}
+p1464
+aV{3}{R}
+p1465
+aV{R}
+p1466
+aV{R}
+p1467
+aV{2}{R}
+p1468
+aV{2}{R}
+p1469
+aV{1}{R}
+p1470
+aV{R}
+p1471
+aV{2}{G}{G}
+p1472
+aV{2}{W}
+p1473
+aV{R}
+p1474
+aS'0'
+p1475
+aV{B/G}{B/G}
+p1476
+aV{2}
+p1477
+aV{1}{W}{W}
+p1478
+aV{W}
+p1479
+aV{G}
+p1480
+aV{R}
+p1481
+aV{2}{R}{R}
+p1482
+aV{1}{R}{R}
+p1483
+aV{R}
+p1484
+aV{R}
+p1485
+aV{1}{R}
+p1486
+aV{R}
+p1487
+aV{1}{R}{R}
+p1488
+aV{R}
+p1489
+aV{2}{G}
+p1490
+aV{3}{R}{R}
+p1491
+aV{3}{R}
+p1492
+aV{R}
+p1493
+aV{1}{R}
+p1494
+aV{1}{R}{R}
+p1495
+aV{1}{U}
+p1496
+aV{4}
+p1497
+aV{R}
+p1498
+aV{3}{G}{G}
+p1499
+aV{R}
+p1500
+aV{1}{R}
+p1501
+aV{3}{G}{G}
+p1502
+aV{2}{G}{G}
+p1503
+aV{2}{G}{G}
+p1504
+aV{R}
+p1505
+aV{1}{R}
+p1506
+aV{2}
+p1507
+aV{R}
+p1508
+aV{2}
+p1509
+aV{1}
+p1510
+aV{5}
+p1511
+aV{3}
+p1512
+aV{1}{W}
+p1513
+aV{1}
+p1514
+aV{G}
+p1515
+aV{3}{G}
+p1516
+aV{1}{W}
+p1517
+aV{1}{R}{R}
+p1518
+aV{G}
+p1519
+aV{2}{U}
+p1520
+aV{1}{R}
+p1521
+aV{1}{R}{R}
+p1522
+aV{1}{R}
+p1523
+aV{2}{R}
+p1524
+aV{1}{R}
+p1525
+aV{1}{R}
+p1526
+aV{1}{W}
+p1527
+aV{4}{R}
+p1528
+aV{1}{R}{R}
+p1529
+aV{3}{R}
+p1530
+aV{R}
+p1531
+aV{2}{R}
+p1532
+aV{R}
+p1533
+aV{1}{R}
+p1534
+aV{3}{R}
+p1535
+aV{3}{R}
+p1536
+aV{1}{R}{W}
+p1537
+aV{1}{R}{R}
+p1538
+aV{1}{R}{R}
+p1539
+aV{2}{R}{R}
+p1540
+aV{R}
+p1541
+aV{R}
+p1542
+aV{2}{R}
+p1543
+aV{1}{R}
+p1544
+aV{1}{B}
+p1545
+aV{R}{R}
+p1546
+aV{2}{W}
+p1547
+aV{2}{R}
+p1548
+aV{R}
+p1549
+aV{2}{R}
+p1550
+aV{R}
+p1551
+aV{1}{R}
+p1552
+aV{R}
+p1553
+aV{R}
+p1554
+aV{R}
+p1555
+aV{R}
+p1556
+aV{2}{R}
+p1557
+aV{2}{R}
+p1558
+aV{2}{R}
+p1559
+aV{2}{R}
+p1560
+aV{2}{R}
+p1561
+aV{R}{W}
+p1562
+aV{3}{R}
+p1563
+aV{1}{R}{W}
+p1564
+aV{R}
+p1565
+aV{R}
+p1566
+aV{1}{R}{R}
+p1567
+aV{1}{R}
+p1568
+aV{R}
+p1569
+ag1475
+aV{U}{R}{R}
+p1570
+aV{1}{R}
+p1571
+aV{R}
+p1572
+aV{2}{R}
+p1573
+aV{1}{R}
+p1574
+aV{1}{R}
+p1575
+aV{R}
+p1576
+aV{1}{R}{R}
+p1577
+aV{2}{R}
+p1578
+aV{B}{R}
+p1579
+aV{2}{R}{R}
+p1580
+aV{1}{B}
+p1581
+aV{2}{G}
+p1582
+aV{R}
+p1583
+ag1475
+aV{2}{R}
+p1584
+aV{R}
+p1585
+aV{R}
+p1586
+aV{3}{R}
+p1587
+aV{4}{R}
+p1588
+aV{1}{R}
+p1589
+aV{2}{R}
+p1590
+aV{5}{R}
+p1591
+aV{3}{R}
+p1592
+aV{R}
+p1593
+aV{1}{B}
+p1594
+ag1475
+aV{1}{R}
+p1595
+aV{4}{R}{R}
+p1596
+aV{2}{G}
+p1597
+aV{1}{R}
+p1598
+aV{3}{R}
+p1599
+aV{3}{R}
+p1600
+aV{B/G}{B/G}
+p1601
+ag1475
+aV{3}{R}
+p1602
+aV{6}{G}{G}
+p1603
+aV{4}{G}
+p1604
+aV{1}{B}
+p1605
+aV{1}{G}{G}
+p1606
+aV{3}{B}{G}
+p1607
+aV{1}{B}{G}
+p1608
+aV{2}
+p1609
+aV{2}{R}
+p1610
+aV{1}{R}
+p1611
+aV{2}{R}
+p1612
+ag1475
+aV{B/G}{B/G}
+p1613
+ag1475
+aV{3}{G}{G}
+p1614
+aV{3}{B}{B}
+p1615
+aV{1}{R}
+p1616
+aV{4}{G}
+p1617
+aV{U}{R}
+p1618
+aV{3}{R}{R}
+p1619
+aV{B}{G}
+p1620
+aV{3}{G}
+p1621
+ag1475
+aV{3}
+p1622
+aV{3}{B/G}{B/G}
+p1623
+aV{1}{R}
+p1624
+ag1475
+aV{1}{R}
+p1625
+aV{2}{R}
+p1626
+aV{R}
+p1627
+aV{1}{R}{R}
+p1628
+aV{3}
+p1629
+aV{2}{G}
+p1630
+aV{2}{R}{R}
+p1631
+aV{1}{R}
+p1632
+aV{1}{R}
+p1633
+aV{3}{R}
+p1634
+aV{3}{G}{G}
+p1635
+aV{R}
+p1636
+aV{R}
+p1637
+aV{2}{R}
+p1638
+aV{1}{R}
+p1639
+aV{1}{R}
+p1640
+aV{2}{R}
+p1641
+aV{1}{R}
+p1642
+aV{R}
+p1643
+aV{1}{R}
+p1644
+aV{1}{R}{R}
+p1645
+aV{2}{R}
+p1646
+aV{2}{G}{G}
+p1647
+aV{2}
+p1648
+aV{4}
+p1649
+aV{3}
+p1650
+aV{1}
+p1651
+aV{6}
+p1652
+aV{1}{R}
+p1653
+aV{4}
+p1654
+aV{1}{W}
+p1655
+aV{3}{G}
+p1656
+aV{1}{W}
+p1657
+aV{1}{G}
+p1658
+aV{5}{B}
+p1659
+aV{1}{R}{R}
+p1660
+aV{R}
+p1661
+aV{2}{G}{G}
+p1662
+aV{2}{R}
+p1663
+aV{2}{R}
+p1664
+aV{3}{R}
+p1665
+aV{2}{R}
+p1666
+aV{1}{R}
+p1667
+aV{2}{R}
+p1668
+aV{1}{R}
+p1669
+aV{1}{R}{R}
+p1670
+aV{1}{R}
+p1671
+aV{1}{R}
+p1672
+aV{X}{G}{G}
+p1673
+aV{4}{U}{U}
+p1674
+aV{2}{R}
+p1675
+aV{R}
+p1676
+aV{1}{R}
+p1677
+aV{1}{W}
+p1678
+aV{R}
+p1679
+aV{3}{W}{W}
+p1680
+aV{5}{R}
+p1681
+aV{W/U}{W/U}{W/U}{W/U}{W/U}
+p1682
+aV{W}
+p1683
+aV{4}{R}
+p1684
+aV{2}{R}
+p1685
+aV{3}{R}
+p1686
+aV{2}{R}
+p1687
+aV{1}{R}{R}
+p1688
+aV{1}{R}
+p1689
+aV{2}{R}
+p1690
+aV{1}{R}
+p1691
+aV{R}
+p1692
+aV{2}{G}
+p1693
+aV{4}
+p1694
+aV{2}{R}
+p1695
+aV{3}{R}
+p1696
+aV{1}{R}{R}
+p1697
+aV{1}{R}
+p1698
+aV{R}
+p1699
+aV{3}{W}
+p1700
+aV{R}
+p1701
+aV{R}
+p1702
+aV{2}{R}
+p1703
+aV{1}{R}{R}
+p1704
+aV{3}{G}
+p1705
+aV{2}{R}
+p1706
+aV{1}{R}
+p1707
+aV{1}{R}
+p1708
+aV{2}{R}
+p1709
+aV{R}
+p1710
+aV{1}{R}
+p1711
+aV{1}{R}
+p1712
+ag1475
+aV{X}{1}{R}{R}
+p1713
+aV{2}
+p1714
+aV{3}{R}
+p1715
+aV{5}{R}{R}
+p1716
+aV{1}{R}
+p1717
+aV{1}{B}
+p1718
+aV{3}{R}
+p1719
+aV{3}{R}{R}
+p1720
+aV{1}{R}
+p1721
+aV{R}
+p1722
+aV{R}
+p1723
+aV{R}
+p1724
+aV{1}{R}
+p1725
+aV{X}{1}{R}{R}
+p1726
+aV{R}
+p1727
+aV{2}{R}
+p1728
+aV{1}{R}
+p1729
+aV{2}{R}
+p1730
+aV{2}{G}
+p1731
+aV{R}
+p1732
+aV{R}
+p1733
+aV{2}{R}{R}
+p1734
+aV{2}{R}{R}
+p1735
+aV{R}
+p1736
+aV{2}{W}
+p1737
+aV{1}{R}
+p1738
+aV{3}{R}
+p1739
+aV{R}
+p1740
+aV{2}{R}
+p1741
+aV{1}{R}
+p1742
+aV{1}{R}{R}
+p1743
+aV{1}{R}
+p1744
+aV{2}{R}
+p1745
+aV{5}{U}{U}
+p1746
+aV{R}
+p1747
+aV{R}
+p1748
+aV{1}{R}{R}
+p1749
+aV{R}
+p1750
+aV{5}{B}
+p1751
+aV{R}
+p1752
+aV{B}
+p1753
+aV{5}{U}
+p1754
+aV{1}{W}{W}
+p1755
+aV{1}{G}
+p1756
+aV{5}{G}
+p1757
+aV{1}{R}{G}
+p1758
+aV{3}{R}{G}
+p1759
+aV{1}{R}{R}
+p1760
+aV{2}{R}
+p1761
+aV{R}
+p1762
+aV{2}{R}
+p1763
+aV{2}{R}
+p1764
+aV{2}{R}
+p1765
+ag1475
+aV{3}{R}{R}
+p1766
+aV{R}
+p1767
+aV{1}{R}
+p1768
+aV{1}{R}
+p1769
+ag1475
+ag1475
+aV{R}
+p1770
+aV{1}{R}{R}
+p1771
+aV{R}
+p1772
+aV{W}{W}
+p1773
+aV{1}{R}
+p1774
+aV{1}{R}
+p1775
+aV{2}{R}
+p1776
+aV{1}{R}{R}
+p1777
+aV{R}
+p1778
+aV{1}{R}{R}
+p1779
+aV{1}{R}{R}
+p1780
+aV{2}{R}
+p1781
+aV{1}{R}
+p1782
+aV{1}{U}{R}
+p1783
+aV{3}
+p1784
+ag1475
+aV{3}{W}{W}{U}{U}
+p1785
+aV{5}{U}
+p1786
+aV{B}{R}
+p1787
+aV{U}{R}
+p1788
+aV{1}{B}{G}
+p1789
+aV{4}{G}
+p1790
+ag1475
+aV{3}{B}{G}
+p1791
+aV{2}
+p1792
+aV{1}{B}
+p1793
+aV{W}
+p1794
+aV{W}
+p1795
+aV{1}{U}
+p1796
+aV{1}{U}
+p1797
+aV{4}{G}
+p1798
+aV{G}
+p1799
+aV{3}{G}
+p1800
+aV{R}
+p1801
+aV{1}{R}{R}
+p1802
+aV{3}{R}
+p1803
+aV{2}{R}{R}
+p1804
+aV{1}{R}
+p1805
+aV{2}{G}
+p1806
+aV{5}{R}{R}
+p1807
+asS'names'
+p1808
+(lp1809
+VGoblin King
+p1810
+aVGoblin Warrens
+p1811
+aVGoblin Balloon Brigade
+p1812
+aVGoblin Mutant
+p1813
+aVGoblin Offensive
+p1814
+aVGoblin Recruiter
+p1815
+aVGoblin Snowman
+p1816
+aVGoblin Digging Team
+p1817
+aVGoblin Grenade
+p1818
+aVGoblin Hero
+p1819
+aVGoblin Matron
+p1820
+aVGoblin Tinkerer
+p1821
+aVGoblin Vandal
+p1822
+aVGorilla Chieftain
+p1823
+aVGoblin Cadets
+p1824
+aVGolgari Guildmage
+p1825
+aVGolgari Rot Farm
+p1826
+aVGolgari Signet
+p1827
+aVGomazoa
+p1828
+aVGoblin Arsonist
+p1829
+aVGoblin Bangchuckers
+p1830
+aVGoblin Chieftain
+p1831
+aVGoblin Fireslinger
+p1832
+aVGoblin Grenade
+p1833
+aVGoblin Piker
+p1834
+aVGoblin Tunneler
+p1835
+aVGoblin War Paint
+p1836
+aVGorehorn Minotaurs
+p1837
+aVGoblin Balloon Brigade
+p1838
+aVGoblin King
+p1839
+aVGodo's Irregulars
+p1840
+aVGorilla Warrior
+p1841
+aVGoblin Arsonist
+p1842
+aVGoblin Battle Jester
+p1843
+aVGoblin Balloon Brigade
+p1844
+aVGoblin Rock Sled
+p1845
+aVGoblin King
+p1846
+aVGossamer Phantasm
+p1847
+aVGolgothian Sylex
+p1848
+aVGoblin Artisans
+p1849
+aVGorilla Berserkers
+p1850
+aVGorilla Shaman
+p1851
+aVGorilla War Cry
+p1852
+aVGorilla Berserkers
+p1853
+aVGorilla Chieftain
+p1854
+aVGorilla Chieftain
+p1855
+aVGorilla Shaman
+p1856
+aVGorilla War Cry
+p1857
+aVGoblin Gaveleer
+p1858
+aVGold Myr
+p1859
+aVGolden Urn
+p1860
+aVGolem Artisan
+p1861
+aVGolem Foundry
+p1862
+aVGolem's Heart
+p1863
+aVGod-Favored General
+p1864
+aVGorgon's Head
+p1865
+aVGoblin Artillery
+p1866
+aVGoblin Chieftain
+p1867
+aVGoblin Piker
+p1868
+aVGorgon Flail
+p1869
+aVGoblin Diplomats
+p1870
+aVGoblin Shortcutter
+p1871
+aVGoblin Bombardment
+p1872
+aVGoblin King
+p1873
+aVGoblin Piker
+p1874
+aVGoblin Sky Raider
+p1875
+aVGoblin Elite Infantry
+p1876
+aVGoblin Lore
+p1877
+aVGoblin Commando
+p1878
+aVGoblin General
+p1879
+aVGoblin Goon
+p1880
+aVGoblin Lackey
+p1881
+aVGoblin Matron
+p1882
+aVGoblin Patrol
+p1883
+aVGoblin Piledriver
+p1884
+aVGoblin Ringleader
+p1885
+aVGoblin Settler
+p1886
+aVGoblin Trenches
+p1887
+aVGoblin Warchief
+p1888
+aVGoblin Caves
+p1889
+aVGoblin Shrine
+p1890
+aVGoblin Wizard
+p1891
+aVGoblins of the Flarg
+p1892
+aVGoblin Digging Team
+p1893
+aVGoblin Hero
+p1894
+aVGoblin Rock Sled
+p1895
+aVGo for the Throat
+p1896
+aVGoblin Wardriver
+p1897
+aVGore Vassal
+p1898
+aVGoblin Hero
+p1899
+aVGoblin Chirurgeon
+p1900
+aVGoblin Flotilla
+p1901
+aVGoblin Grenade
+p1902
+aVGoblin Kites
+p1903
+aVGoblin Chirurgeon
+p1904
+aVGoblin Chirurgeon
+p1905
+aVGoblin Grenade
+p1906
+aVGoblin Grenade
+p1907
+aVGoblin War Drums
+p1908
+aVGoblin War Drums
+p1909
+aVGoblin War Drums
+p1910
+aVGoblin War Drums
+p1911
+aVGoblin Warrens
+p1912
+aVGoblin Legionnaire
+p1913
+aVGoblin Ringleader
+p1914
+aVGoblin Trenches
+p1915
+aVGoblin Lackey
+p1916
+aVGoblin Balloon Brigade
+p1917
+aVGoblin King
+p1918
+aVGoblin Ski Patrol
+p1919
+aVGorilla Shaman
+p1920
+aVGodless Shrine
+p1921
+aVGoblin Flectomancer
+p1922
+aVGoblin Piker
+p1923
+aVGoblin Mountaineer
+p1924
+aVGoblin Chariot
+p1925
+aVGoblin Brigand
+p1926
+aVGoblin Raider
+p1927
+aVGoblin Balloon Brigade
+p1928
+aVGoblin King
+p1929
+aVGoblin Sky Raider
+p1930
+aVGoblin Outlander
+p1931
+aVGoblin Razerunners
+p1932
+aVGoldnight Commander
+p1933
+aVGoldnight Redeemer
+p1934
+aVGoblin Arsonist
+p1935
+aVGoblin Burrows
+p1936
+aVGoblin Sharpshooter
+p1937
+aVGoblin Taskmaster
+p1938
+aVGoblin Sledder
+p1939
+aVGoblin Pyromancer
+p1940
+aVGoblin Machinist
+p1941
+aVGoblin Piledriver
+p1942
+aVGoblin Sky Raider
+p1943
+aVGodo, Bandit Warlord
+p1944
+aVGoka the Unjust
+p1945
+aVGoblin Cohort
+p1946
+aVGoryo's Vengeance
+p1947
+aVGods' Eye, Gate to the Reikai
+p1948
+aVGoblin Masons
+p1949
+aVGoblin Marshal
+p1950
+aVGoliath Beetle
+p1951
+aVGoblin Festival
+p1952
+aVGoblin Berserker
+p1953
+aVGoblin Gardener
+p1954
+aVGolgari Guildmage
+p1955
+aVGolgari Rot Farm
+p1956
+aVGoblin Fire Fiend
+p1957
+aVGoliath Spider
+p1958
+aVGolgari Grave-Troll
+p1959
+aVGolgari Thug
+p1960
+aVGolgari Brownscale
+p1961
+aVGolgari Rotwurm
+p1962
+aVGolgari Germination
+p1963
+aVGolgari Signet
+p1964
+aVGoblin Spelunkers
+p1965
+aVGoblin Bombardment
+p1966
+aVGoblin Sharpshooter
+p1967
+aVGolgari Guildgate
+p1968
+aVGolgari Guildmage
+p1969
+aVGolgari Rot Farm
+p1970
+aVGorilla Titan
+p1971
+aVGorgon Recluse
+p1972
+aVGoblin Skycutter
+p1973
+aVGobbling Ooze
+p1974
+aVGoblin Electromancer
+p1975
+aVGoblin Rally
+p1976
+aVGolgari Charm
+p1977
+aVGolgari Decoy
+p1978
+aVGolgari Guildgate
+p1979
+aVGolgari Keyrune
+p1980
+aVGolgari Longlegs
+p1981
+aVGore-House Chainwalker
+p1982
+aVGodless Shrine
+p1983
+aVGoblin Furrier
+p1984
+aVGoblin Rimerunner
+p1985
+aVGoblin Balloon Brigade
+p1986
+aVGoblin King
+p1987
+aVGoblin Lyre
+p1988
+aVGorilla Pack
+p1989
+aVGoblin Mutant
+p1990
+aVGoblin Sappers
+p1991
+aVGoblin Ski Patrol
+p1992
+aVGoblin Snowman
+p1993
+aVGoblin Bushwhacker
+p1994
+aVGoblin Guide
+p1995
+aVGoblin Ruinblaster
+p1996
+aVGoblin Shortcutter
+p1997
+aVGoblin War Paint
+p1998
+aVGomazoa
+p1999
+aVGoblin Hero
+p2000
+aVGoblin Recruiter
+p2001
+aVGoblin Digging Team
+p2002
+aVGoblin Elite Infantry
+p2003
+aVGoblin King
+p2004
+aVGoblin Warrens
+p2005
+aVGorilla Chieftain
+p2006
+aVGold Myr
+p2007
+aVGoblin War Wagon
+p2008
+aVGoblin Replica
+p2009
+aVGolem-Skin Gauntlets
+p2010
+aVGoblin Dirigible
+p2011
+aVGoblin Striker
+p2012
+aVGoblin Charbelcher
+p2013
+aVGoldmeadow Harrier
+p2014
+aVGodtoucher
+p2015
+aVGoblin Mountaineer
+p2016
+aVGoblin Assault
+p2017
+aVGodsire
+p2018
+aVGoblin Deathraiders
+p2019
+aVGoblin Digging Team
+p2020
+aVGorilla Chieftain
+p2021
+aVGoblin Spelunkers
+p2022
+aVGoblin Matron
+p2023
+aVGoblin Gardener
+p2024
+aVGoblin War Drums
+p2025
+aVGoblin Glider
+p2026
+aVGoblin Chariot
+p2027
+aVGoblin Elite Infantry
+p2028
+aVGoblin King
+p2029
+aVGoblin Raider
+p2030
+aVGoblin Kaboomist
+p2031
+aVGoblin Rabblemaster
+p2032
+aVGoblin Roughrider
+p2033
+aVGoblin Medics
+p2034
+aVGoblin Welder
+p2035
+aVGoblin Archaeologist
+p2036
+aVGoblin Arsonist
+p2037
+aVGoblin Tunneler
+p2038
+aVGolden Wish
+p2039
+aVGoretusk Firebeast
+p2040
+aVGodhead of Awe
+p2041
+aVGoldenglow Moth
+p2042
+aVGoblin Commando
+p2043
+aVGoblin Cavaliers
+p2044
+aVGoblin Settler
+p2045
+aVGoblin Chariot
+p2046
+aVGoblin General
+p2047
+aVGoblin Glider
+p2048
+aVGoblin Hero
+p2049
+aVGoblin Lore
+p2050
+aVGoblin Mountaineer
+p2051
+aVGorilla Warrior
+p2052
+aVGoblin Cannon
+p2053
+aVGoblin Brawler
+p2054
+aVGoblin Psychopath
+p2055
+aVGoblin Warchief
+p2056
+aVGoblin Brigand
+p2057
+aVGoblin War Strike
+p2058
+aVGoldmeadow Lookout
+p2059
+aVGoblin War Strike
+p2060
+aVGoblin Firestarter
+p2061
+aVGoblin War Cry
+p2062
+aVGoblin General
+p2063
+aVGolden Bear
+p2064
+aVGoblin Cavaliers
+p2065
+aVGoblin Glider
+p2066
+aVGoblin Lore
+p2067
+aVGoblin Matron
+p2068
+aVGoblin Mountaineer
+p2069
+aVGoblin Piker
+p2070
+aVGoblin Raider
+p2071
+aVGoldmeadow
+p2072
+aVGoblin Offensive
+p2073
+aVGold Myr
+p2074
+aVGoblin Goon
+p2075
+aVGoblin Dynamo
+p2076
+aVGoblin Firebug
+p2077
+aVGoblin Turncoat
+p2078
+aVGoblin Clearcutter
+p2079
+aVGoblin Assassin
+p2080
+aVGoblin Lookout
+p2081
+aVGoblin Grappler
+p2082
+aVGoblin Cadets
+p2083
+aVGoblin Patrol
+p2084
+aVGoblin War Buggy
+p2085
+aVGoblin Offensive
+p2086
+aVGoblin Lackey
+p2087
+aVGoblin Matron
+p2088
+aVGoblin Raider
+p2089
+aVGoblin Spelunkers
+p2090
+aVGorilla Warrior
+p2091
+aVGoblin Chirurgeon
+p2092
+aVGoblin Grenade
+p2093
+aVGoblin Mutant
+p2094
+aVGoblin Wizard
+p2095
+aVGoblins of the Flarg
+p2096
+aVGods Willing
+p2097
+aVGoblin Bomb
+p2098
+aVGoblin Grenadiers
+p2099
+aVGoblin Vandal
+p2100
+aVGoblin Chariot
+p2101
+aVGoblin Glider
+p2102
+aVGoblin King
+p2103
+aVGoblin Raider
+p2104
+aVGoblin Roughrider
+p2105
+aVGoliath Sphinx
+p2106
+aVGoblin Artisans
+p2107
+aVGoblin Digging Team
+p2108
+aVGoblin Shrine
+p2109
+aVGoblins of the Flarg
+p2110
+aVGoham Djinn
+p2111
+aVGoblin Spy
+p2112
+aVGodhunter Octopus
+p2113
+aVGodsend
+p2114
+aVGolden Hind
+p2115
+aVGoldenhide Ox
+p2116
+aVGold-Forged Sentinel
+p2117
+aVGodtracker of Jund
+p2118
+aVGorger Wurm
+p2119
+aVGoblin King
+p2120
+aVGoblin Warrens
+p2121
+aVGoblin Digging Team
+p2122
+aVGoblin Hero
+p2123
+aVGoblin War Drums
+p2124
+aVGoblinslide
+p2125
+aVGolgari Guildgate
+p2126
+aVGoblin Scouts
+p2127
+aVGoblin Soothsayer
+p2128
+aVGoblin Tinkerer
+p2129
+aVGoblin Elite Infantry
+p2130
+aVGoblin Warchief Avatar
+p2131
+aVGoblin Warchief Avatar
+p2132
+aVGoblin Balloon Brigade
+p2133
+aVGoblin King
+p2134
+aVGoblin Swine-Rider
+p2135
+aVGossamer Chains
+p2136
+aVGoblin Recruiter
+p2137
+aVGoblin Bully
+p2138
+aVGoblin Cavaliers
+p2139
+aVGoblin Caves
+p2140
+aVGoblin Firestarter
+p2141
+aVGoblin General
+p2142
+aVGoblin Shrine
+p2143
+aVGoblin Warrens
+p2144
+aVGorilla War Cry
+p2145
+aVGoblin Test Pilot
+p2146
+aVGolgari Cluestone
+p2147
+aVGolgari Guildgate
+p2148
+aVGosta Dirk
+p2149
+aVGovern the Guildless
+p2150
+aVGobhobbler Rats
+p2151
+aVGoblin Electromancer
+p2152
+aVGolgari Germination
+p2153
+aVGolgari Grave-Troll
+p2154
+aVGolgari Rot Farm
+p2155
+aVGolgari Rotwurm
+p2156
+aVGolgari Signet
+p2157
+aVGolgari Thug
+p2158
+aVGoldmeadow Harrier
+p2159
+aVGoldmeadow Stalwart
+p2160
+aVGoldmeadow Dodger
+p2161
+aVGoatnapper
+p2162
+aVGoblin Balloon Brigade
+p2163
+aVGoblin Chieftain
+p2164
+aVGoblin Piker
+p2165
+aVGoblin Tunneler
+p2166
+aVGoldenglow Moth
+p2167
+aVGoblin Snowman
+p2168
+aVGorehorn Minotaurs
+p2169
+aVGoblin Bully
+p2170
+aVGorilla Warrior
+p2171
+aVGoblin Game
+p2172
+asS'toughs'
+p2173
+(lp2174
+V2
+p2175
+aS'N/A'
+p2176
+aV1
+p2177
+aV3
+p2178
+ag2176
+ag2177
+ag2177
+ag2178
+ag2176
+ag2177
+ag2175
+ag2177
+ag2175
+aV4
+p2179
+aV0
+p2180
+ag2177
+ag2176
+ag2176
+ag2175
+aV6
+p2181
+ag2175
+ag2177
+ag2177
+ag2176
+ag2177
+ag2175
+ag2176
+ag2175
+ag2177
+ag2175
+ag2177
+ag2175
+ag2177
+ag2179
+ag2175
+ag2177
+ag2177
+ag2177
+ag2176
+ag2177
+ag2175
+ag2177
+ag2176
+ag2177
+ag2177
+ag2179
+ag2177
+ag2176
+ag2175
+ag2176
+ag2176
+ag2176
+ag2176
+ag2176
+aV5
+p2182
+ag2176
+aV7
+p2183
+ag2175
+ag2178
+ag2176
+ag2179
+ag2177
+ag2176
+ag2179
+ag2177
+ag2175
+ag2178
+ag2176
+ag2179
+ag2179
+ag2177
+ag2175
+ag2177
+ag2181
+ag2177
+ag2177
+ag2177
+ag2176
+ag2175
+ag2176
+ag2176
+ag2175
+ag2177
+ag2179
+ag2175
+ag2179
+ag2176
+ag2175
+ag2178
+ag2175
+ag2175
+ag2175
+ag2176
+ag2176
+ag2175
+ag2175
+ag2176
+ag2176
+ag2176
+ag2176
+ag2176
+ag2176
+ag2176
+ag2175
+ag2175
+ag2176
+ag2177
+ag2178
+ag2179
+ag2177
+ag2177
+ag2176
+ag2175
+ag2177
+aV*
+p2184
+ag2182
+ag2175
+ag2177
+ag2179
+ag2175
+ag2178
+ag2175
+ag2177
+ag2177
+ag2178
+ag2177
+ag2176
+ag2175
+ag2179
+ag2175
+ag2178
+ag2182
+ag2175
+ag2178
+ag2178
+ag2175
+ag2175
+ag2176
+ag2176
+ag2177
+ag2175
+ag2178
+ag2176
+ag2175
+ag2182
+aV9
+p2185
+ag2176
+ag2177
+ag2177
+ag2177
+ag2182
+ag2183
+ag2178
+ag2176
+ag2176
+ag2175
+ag2176
+ag2175
+ag2176
+ag2179
+ag2176
+ag2182
+ag2175
+ag2179
+ag2178
+ag2175
+ag2176
+ag2176
+ag2175
+ag2176
+ag2176
+ag2179
+ag2177
+ag2176
+aV1+*
+p2186
+ag2176
+ag2177
+ag2175
+ag2176
+ag2175
+ag2178
+ag2177
+ag2177
+ag2175
+ag2178
+ag2177
+ag2175
+ag2177
+ag2176
+ag2177
+ag2182
+ag2175
+ag2179
+ag2179
+ag2183
+ag2176
+ag2177
+ag2176
+ag2176
+ag2176
+ag2176
+ag2176
+ag2179
+ag2176
+ag2178
+ag2177
+ag2182
+ag2176
+ag2178
+ag2177
+ag2177
+ag2178
+ag2175
+ag2177
+ag2179
+ag2176
+ag2177
+ag2183
+ag2175
+ag2175
+ag2175
+ag2179
+ag2177
+ag2177
+ag2182
+ag2178
+ag2177
+ag2177
+ag2175
+ag2176
+ag2175
+ag2179
+ag2177
+ag2175
+ag2175
+ag2177
+ag2175
+ag2177
+ag2177
+ag2175
+ag2176
+ag2177
+ag2175
+ag2176
+ag2178
+ag2182
+ag2175
+ag2177
+ag2176
+ag2177
+ag2176
+ag2177
+ag2176
+ag2177
+ag2178
+ag2175
+ag2177
+ag2176
+ag2177
+ag2177
+ag2177
+ag2175
+ag2176
+ag2176
+ag2176
+ag2181
+ag2179
+ag2175
+ag2177
+ag2178
+ag2175
+ag2175
+ag2177
+ag2177
+ag2175
+ag2182
+ag2176
+ag2175
+ag2175
+ag2175
+ag2177
+ag2178
+ag2175
+ag2176
+ag2177
+ag2175
+ag2178
+ag2176
+ag2176
+ag2178
+ag2177
+ag2177
+ag2175
+ag2178
+ag2179
+ag2175
+ag2183
+ag2177
+ag2175
+ag2176
+ag2175
+ag2182
+ag2178
+ag2178
+ag2176
+ag2179
+ag2176
+ag2176
+ag2182
+ag2178
+ag2177
+ag2176
+ag2178
+ag2177
+ag2176
+ag2176
+ag2176
+ag2176
+ag2175
+ag2175
+ag2179
+ag2176
+ag2176
+ag2179
+ag2177
+ag2179
+ag2176
+ag2175
+ag2182
+ag2179
+ag2176
+ag2177
+ag2179
+ag2176
+ag2176
+ag2176
+ag2175
+ag2176
+ag2176
+ag2183
+ag2176
+ag2182
+ag2175
+ag2176
+ag2180
+ag2176
+ag2179
+ag2176
+ag2177
+ag2177
+ag2175
+ag2184
+ag2177
+ag2178
+ag2175
+ag2179
+ag2179
+ag2177
+ag2177
+ag2178
+ag2177
+ag2175
+ag2176
+asS'artists'
+p2187
+(lp2188
+VJesper Myrfors
+p2189
+aVDan Frazier
+p2190
+aVAndi Rusu
+p2191
+aVDaniel Gelon
+p2192
+aVCarl Critchlow
+p2193
+aVScott Kirschner
+p2194
+aVDaniel Gelon
+p2195
+aVPhil Foglio
+p2196
+aVRon Spencer
+p2197
+aVPete Venters
+p2198
+aVDaniel Gelon
+p2199
+aVHannibal King
+p2200
+aVFranz Vohwinkel
+p2201
+aVQuinton Hoover
+p2202
+aVJerry Tiritilli
+p2203
+aVZoltan Boros & Gabor Szikszai
+p2204
+aVJohn Avon
+p2205
+aVGreg Hildebrandt
+p2206
+aVChippy
+p2207
+ag1233
+ag1233
+ag1233
+ag1233
+ag1233
+ag1233
+ag1233
+ag1233
+ag1233
+aVAndi Rusu
+p2208
+aVJesper Myrfors
+p2209
+aVTim Hildebrandt
+p2210
+aVJohn Matson
+p2211
+aVWayne Reynolds
+p2212
+aVSteve Prescott
+p2213
+aVAndi Rusu
+p2214
+aVDennis Detwiller
+p2215
+aVJesper Myrfors
+p2216
+aVJon Foster
+p2217
+aVKerstin Kaman
+p2218
+aVJulie Baroh
+p2219
+aVJohn Matson
+p2220
+aVAnthony Waters
+p2221
+aVBryon Wackwitz
+p2222
+aVJohn Matson
+p2223
+aVQuinton Hoover
+p2224
+aVQuinton Hoover
+p2225
+aVAnthony Waters
+p2226
+aVBryon Wackwitz
+p2227
+aVSvetlin Velinov
+p2228
+aVAlan Pollack
+p2229
+aVCharles Urbach
+p2230
+aVNic Klein
+p2231
+aVNic Klein
+p2232
+aVMatt Cavotta
+p2233
+aVDavid Palumbo
+p2234
+aVMichael C. Hayes
+p2235
+aVAlex Horley-Orlandelli
+p2236
+aVSam Wood
+p2237
+aVDiTerlizzi
+p2238
+aVLars Grant-West
+p2239
+aVIzzy
+p2240
+aVJesper Ejsing
+p2241
+aVBrian Snoddy
+p2242
+aVRon Spears
+p2243
+aVDiTerlizzi
+p2244
+aVDaren Bader
+p2245
+aVRobert Bliss
+p2246
+aVD. Alexander Gregory
+p2247
+aVTodd Lockwood
+p2248
+aVKeith Parkinson
+p2249
+aVGreg Staples
+p2250
+aVChristopher Moeller
+p2251
+aVDan Frazier
+p2252
+aVGreg Staples
+p2253
+aVDave Kendall
+p2254
+aVGabor Szikszai
+p2255
+aVCarl Critchlow
+p2256
+aVWayne England
+p2257
+aVGreg & Tim Hildebrandt
+p2258
+aVDrew Tucker
+p2259
+aVRon Spencer
+p2260
+aVDaniel Gelon
+p2261
+aVTom Wänerstrand
+p2262
+aVRon Spencer
+p2263
+aVMark Tedin
+p2264
+aVDenise Detwiler
+p2265
+ag1233
+ag1233
+ag1233
+aVPete Venters
+p2266
+aVDan Frazier
+p2267
+aVTom Wänerstrand
+p2268
+aVRon Spencer
+p2269
+aVAnson Maddocks
+p2270
+aVPhil Foglio
+p2271
+aVDaniel Gelon
+p2272
+aVChristopher Rush
+p2273
+aVDan Frazier
+p2274
+aVJeff A. Menges
+p2275
+aVRichard Kane Ferguson
+p2276
+aVHeather Hudson
+p2277
+aVDan Frazier
+p2278
+aVDan Frazier
+p2279
+aVMark Romanoski
+p2280
+aVMark Romanoski
+p2281
+aVWayne England
+p2282
+aVChristopher Moeller
+p2283
+aVAndi Rusu
+p2284
+aVJesper Myrfors
+p2285
+aVMark Poole
+p2286
+aVAnthony S. Waters
+p2287
+aVRob Alexander
+p2288
+aVMatt Cavotta
+p2289
+aVDiTerlizzi
+p2290
+aVPete Venters
+p2291
+aVJohn Howe
+p2292
+aVArnie Swekel
+p2293
+aVGreg Staples
+p2294
+aVLars Grant-West
+p2295
+aVRon Spears
+p2296
+aVDaren Bader
+p2297
+aVTrevor Claxton
+p2298
+aVRaymond Swanland
+p2299
+aVKarl Kopinski
+p2300
+aVSam Wolfe Connelly
+p2301
+aVWayne Reynolds
+p2302
+aVDavid Martin
+p2303
+aVGreg Staples
+p2304
+aVTrevor Hairsine
+p2305
+aVRon Spencer
+p2306
+aVEdward P. Beard, Jr.
+p2307
+aVDoug Chaffee
+p2308
+aVMatt Cavotta
+p2309
+aVDaren Bader
+p2310
+aVPaolo Parente
+p2311
+aVCarl Critchlow
+p2312
+aVDarrell Riche
+p2313
+aVIttoku
+p2314
+aVJohn Avon
+p2315
+aVDiTerlizzi
+p2316
+aVDiTerlizzi
+p2317
+aVHazeltine
+p2318
+aVJeff Laubenstein
+p2319
+aVChristopher Rush
+p2320
+aVDan Frazier
+p2321
+aVZoltan Boros & Gabor Szikszai
+p2322
+aVJohn Avon
+p2323
+aVPaolo Parente
+p2324
+aVAlan Pollack
+p2325
+aVGreg Hildebrandt
+p2326
+aVKev Walker
+p2327
+aVCarl Critchlow
+p2328
+aVWayne England
+p2329
+aVThomas M. Baxa
+p2330
+aVGreg Hildebrandt
+p2331
+aVGlenn Fabry
+p2332
+aVBrian Snoddy
+p2333
+aVWayne Reynolds
+p2334
+aVEytan Zana
+p2335
+aVZoltan Boros & Gabor Szikszai
+p2336
+aVJohn Avon
+p2337
+aVHeather Hudson
+p2338
+aVDarrell Riche
+p2339
+aVClint Langley
+p2340
+aVJohann Bodin
+p2341
+aVSvetlin Velinov
+p2342
+aVNic Klein
+p2343
+aVZoltan Boros
+p2344
+aVMarco Nelor
+p2345
+aVEytan Zana
+p2346
+aVDaniel Ljunggren
+p2347
+aVVolkan Baga
+p2348
+aVDan Scott
+p2349
+aVCliff Childs
+p2350
+aVWarren Mahy
+p2351
+aVChristopher Rush
+p2352
+aVAndi Rusu
+p2353
+aVJesper Myrfors
+p2354
+aVMike Kimble
+p2355
+aVAnthony Waters
+p2356
+aVDaniel Gelon
+p2357
+aVJeff A. Menges
+p2358
+aVMark Poole
+p2359
+aVDaniel Gelon
+p2360
+aVMark Tedin
+p2361
+aVWarren Mahy
+p2362
+aVMatt Cavotta
+p2363
+aVJesper Ejsing
+p2364
+aVAustin Hsu
+p2365
+aVChippy
+p2366
+aVPete Venters
+p2367
+aVScott Kirschner
+p2368
+aVPhil Foglio
+p2369
+aVRobert Bliss
+p2370
+aVPhil Foglio
+p2371
+aVDan Frazier
+p2372
+aVQuinton Hoover
+p2373
+aVKev Walker
+p2374
+aVDoug Chaffee
+p2375
+aVCarl Critchlow
+p2376
+aVAlan Pollack
+p2377
+aVMichael Sutfin
+p2378
+aVKevin Dobler
+p2379
+aVStephen Tappin
+p2380
+aVSteve Prescott
+p2381
+aVJesper Ejsing
+p2382
+aVMichael Ryan
+p2383
+aVJaime Jones
+p2384
+aVJim Murray
+p2385
+aVRaymond Swanland
+p2386
+aVBen Thompson
+p2387
+aVCarl Critchlow
+p2388
+aVMatt Cavotta
+p2389
+aVDan Frazier
+p2390
+aVJerry Tiritilli
+p2391
+aVPeter Bollinger
+p2392
+aVPatrick Faricy
+p2393
+aVJohn Howe
+p2394
+aVDaren Bader
+p2395
+aVRon Spears
+p2396
+aVArnie Swekel
+p2397
+aVKev Walker
+p2398
+aVSvetlin Velinov
+p2399
+aVJesper Ejsing
+p2400
+aVJeff Laubenstein
+p2401
+aVScott M. Fischer
+p2402
+aVJim Nelson
+p2403
+aVWayne Reynolds
+p2404
+aVJesper Ejsing
+p2405
+aVAlan Pollack
+p2406
+aVKeith Garletts
+p2407
+aVMark Zug
+p2408
+aVHoward Lyon
+p2409
+aVTodd Lockwood
+p2410
+aVDiTerlizzi
+p2411
+aVCarl Critchlow
+p2412
+aVPete Venters
+p2413
+aVKeith Parkinson
+p2414
+aVPete Venters
+p2415
+aVPete Venters
+p2416
+aVD. Alexander Gregory
+p2417
+aVDiTerlizzi
+p2418
+aVJohn Matson
+p2419
+aVDoug Chaffee
+p2420
+aVHeather Hudson
+p2421
+aVPete Venters
+p2422
+aVTim Hildebrandt
+p2423
+aVArnie Swekel
+p2424
+aVPete Venters
+p2425
+aVSteve Prescott
+p2426
+aVMichael Weaver
+p2427
+aVKeith Parkinson
+p2428
+aVMichael Weaver
+p2429
+aVKeith Parkinson
+p2430
+aVUna Fricker
+p2431
+aVDiTerlizzi
+p2432
+aVPete Venters
+p2433
+aVD. Alexander Gregory
+p2434
+aVDaniel Gelon
+p2435
+aVDiTerlizzi
+p2436
+aVDiTerlizzi
+p2437
+aVMatt Stawicki
+p2438
+aVWarren Mahy
+p2439
+aVCarl Critchlow
+p2440
+aVKev Walker
+p2441
+aVGreg Staples
+p2442
+aVRon Spencer
+p2443
+aVChristopher Moeller
+p2444
+aVJim Nelson
+p2445
+aVEric Peterson
+p2446
+aVDave Dorman
+p2447
+aVJim Nelson
+p2448
+aVChristopher Moeller
+p2449
+aVJerry Tiritilli
+p2450
+aVGreg Staples
+p2451
+aVDiTerlizzi
+p2452
+aVCarl Critchlow
+p2453
+aVJerry Tiritilli
+p2454
+aVDiTerlizzi
+p2455
+aVGreg Staples
+p2456
+aVDiTerlizzi
+p2457
+aVSteve White
+p2458
+aVDan Frazier
+p2459
+aVRon Spencer
+p2460
+aVDaniel Gelon
+p2461
+aVDaniel Gelon
+p2462
+aVTom Wänerstrand
+p2463
+aVMark Winters
+p2464
+aVRon Spencer
+p2465
+aVDan Frazier
+p2466
+aVFranz Vohwinkel
+p2467
+aVJohn Howe
+p2468
+aVPatrick Faricy
+p2469
+aVRon Spears
+p2470
+aVGreg Staples
+p2471
+aVJesper Ejsing
+p2472
+aVGreg Staples
+p2473
+aVJulie Baroh
+p2474
+aVRon Spencer
+p2475
+aVRon Spencer
+p2476
+aVTom Wänerstrand
+p2477
+aVRon Spencer
+p2478
+aVScott M. Fischer
+p2479
+aVTyler Jacobson
+p2480
+aVDaniel Ljunggren
+p2481
+aVCyril Van Der Haegen
+p2482
+aVJack Wang
+p2483
+aVJames Zapata
+p2484
+aVJustin Sweet
+p2485
+aVParente
+p2486
+aVPhil Foglio
+p2487
+aVDan Frazier
+p2488
+aVPhil Foglio
+p2489
+aVPete Venters
+p2490
+aVDan Frazier
+p2491
+aVKev Walker
+p2492
+aVEytan Zana
+p2493
+aVGeofrey Darrow
+p2494
+aVRobert Bliss
+p2495
+aVHannibal King
+p2496
+aVRobert Bliss
+p2497
+aVUDON
+p2498
+aVUDON
+p2499
+aVAndi Rusu
+p2500
+aVJesper Myrfors
+p2501
+aVG. Darrow and I. Rabarot
+p2502
+aVSteve Luke
+p2503
+aVScott Kirschner
+p2504
+aVPete Venters
+p2505
+aVDiTerlizzi
+p2506
+aVDrew Tucker
+p2507
+aVKeith Parkinson
+p2508
+aVKeith Parkinson
+p2509
+aVRon Spencer
+p2510
+aVDan Frazier
+p2511
+aVBryon Wackwitz
+p2512
+aVSvetlin Velinov
+p2513
+aVRaoul Vitale
+p2514
+aVEytan Zana
+p2515
+aVRichard Thomas
+p2516
+aVAlex Horley-Orlandelli
+p2517
+aVMichael Sutfin
+p2518
+aVSvetlin Velinov
+p2519
+aVThomas M. Baxa
+p2520
+aVGreg Hildebrandt
+p2521
+aVJohn Avon
+p2522
+aVWayne England
+p2523
+aVRaoul Vitale
+p2524
+aVJohann Bodin
+p2525
+aVSteve Prescott
+p2526
+aVWayne Reynolds
+p2527
+aVOmar Rayyan
+p2528
+aVRon Spencer
+p2529
+aVLars Grant-West
+p2530
+aVSam Wood
+p2531
+aVDiTerlizzi
+p2532
+aVJesper Ejsing
+p2533
+aVHoward Lyon
+p2534
+aVDaniel Gelon
+p2535
+aVWayne Reynolds
+p2536
+aVPete Venters
+p2537
+aVJohn Matson
+p2538
+aVDiTerlizzi
+p2539
+asS'powers'
+p2540
+(lp2541
+g2175
+ag2176
+ag2177
+ag2182
+ag2176
+ag2177
+ag2177
+ag2177
+ag2176
+ag2177
+ag2175
+ag2177
+ag2177
+ag2175
+ag2175
+ag2175
+ag2176
+ag2176
+ag2180
+ag2177
+ag2177
+ag2175
+ag2175
+ag2176
+ag2177
+ag2175
+ag2176
+ag2177
+ag2177
+ag2175
+ag2177
+ag2178
+ag2177
+ag2175
+ag2175
+ag2177
+ag2180
+ag2175
+ag2176
+ag2177
+ag2177
+ag2182
+ag2176
+ag2181
+ag2181
+ag2175
+ag2179
+ag2176
+ag2179
+ag2176
+ag2176
+ag2176
+ag2176
+ag2176
+ag2181
+ag2176
+ag2175
+ag2177
+ag2175
+ag2176
+ag2175
+ag2175
+ag2176
+ag2175
+ag2178
+ag2175
+ag2177
+ag2176
+ag2175
+ag2181
+ag2175
+ag2177
+ag2181
+ag2177
+ag2177
+ag2175
+ag2177
+ag2176
+ag2175
+ag2176
+ag2176
+ag2175
+ag2177
+ag2179
+ag2177
+ag2175
+ag2176
+ag2175
+ag2178
+ag2175
+ag2180
+ag2175
+ag2176
+ag2176
+ag2180
+ag2180
+ag2176
+ag2176
+ag2176
+ag2176
+ag2176
+ag2176
+ag2176
+ag2175
+ag2177
+ag2176
+ag2177
+ag2175
+ag2182
+ag2177
+ag2177
+ag2176
+ag2175
+ag2175
+ag2184
+ag2182
+ag2180
+ag2177
+ag2175
+ag2175
+ag2178
+ag2175
+ag2180
+ag2175
+ag2179
+ag2177
+ag2176
+ag2175
+ag2182
+ag2175
+ag2175
+ag2182
+ag2175
+ag2178
+ag2178
+ag2175
+ag2175
+ag2176
+ag2176
+ag2177
+ag2178
+ag2175
+ag2176
+ag2175
+ag2182
+ag2185
+ag2176
+ag2175
+ag2177
+ag2177
+ag2181
+ag2183
+ag2175
+ag2176
+ag2176
+ag2175
+ag2176
+ag2180
+ag2176
+ag2179
+ag2176
+ag2182
+ag2175
+ag2175
+ag2178
+ag2175
+ag2176
+ag2176
+ag2175
+ag2176
+ag2176
+ag2182
+ag2175
+ag2176
+aV1+*
+p2542
+ag2176
+ag2177
+ag2175
+ag2176
+ag2175
+ag2175
+ag2180
+ag2180
+ag2177
+ag2177
+ag2175
+ag2175
+ag2175
+ag2176
+ag2180
+ag2178
+ag2175
+ag2179
+ag2175
+ag2180
+ag2176
+ag2177
+ag2176
+ag2176
+ag2176
+ag2176
+ag2176
+ag2178
+ag2176
+ag2178
+ag2180
+ag2177
+ag2176
+ag2175
+ag2182
+ag2177
+ag2178
+ag2175
+ag2177
+ag2182
+ag2176
+ag2175
+ag2180
+ag2175
+ag2175
+ag2175
+ag2180
+ag2182
+ag2177
+ag2179
+ag2179
+ag2177
+ag2175
+ag2177
+ag2176
+ag2175
+ag2179
+ag2175
+ag2175
+ag2178
+ag2177
+ag2175
+ag2177
+ag2177
+ag2175
+ag2176
+ag2177
+ag2178
+ag2176
+ag2178
+ag2182
+ag2175
+ag2177
+ag2176
+ag2177
+ag2176
+ag2177
+ag2176
+ag2177
+ag2179
+ag2178
+ag2177
+ag2176
+ag2177
+ag2177
+ag2175
+ag2175
+ag2176
+ag2176
+ag2176
+ag2181
+ag2179
+ag2175
+ag2175
+ag2178
+ag2175
+ag2177
+ag2177
+ag2175
+ag2180
+ag2179
+ag2176
+ag2177
+ag2175
+ag2177
+ag2177
+ag2178
+ag2175
+ag2176
+ag2177
+ag2180
+ag2182
+ag2176
+ag2176
+ag2182
+ag2177
+ag2177
+ag2179
+ag2178
+ag2175
+ag2178
+aV8
+p2543
+ag2177
+ag2177
+ag2176
+ag2175
+ag2182
+ag2178
+ag2175
+ag2176
+ag2177
+ag2176
+ag2176
+ag2182
+ag2175
+ag2175
+ag2176
+ag2178
+ag2175
+ag2176
+ag2176
+ag2176
+ag2176
+ag2175
+ag2175
+ag2543
+ag2176
+ag2176
+ag2175
+ag2177
+ag2179
+ag2176
+ag2175
+ag2181
+ag2178
+ag2176
+ag2177
+ag2182
+ag2176
+ag2176
+ag2176
+ag2180
+ag2176
+ag2176
+ag2183
+ag2176
+ag2182
+ag2175
+ag2176
+ag2180
+ag2176
+ag2182
+ag2176
+ag2177
+ag2177
+ag2175
+ag2177
+ag2175
+ag2175
+ag2177
+ag2175
+ag2175
+ag2177
+ag2177
+ag2178
+ag2175
+ag2178
+ag2176
+asS'types'
+p2544
+(lp2545
+VCreature - Goblin
+p2546
+aVEnchantment
+p2547
+aVCreature - Goblin Warrior
+p2548
+aVCreature - Goblin Mutant
+p2549
+aVSorcery
+p2550
+aVCreature - Goblin
+p2551
+aVCreature - Goblin
+p2552
+aVCreature - Goblin
+p2553
+aVSorcery
+p2554
+aVCreature - Goblin
+p2555
+aVCreature - Goblin
+p2556
+aVCreature - Goblin Artificer
+p2557
+aVCreature - Goblin Rogue
+p2558
+aVCreature - Ape
+p2559
+aVCreature - Goblin
+p2560
+aVCreature - Elf Shaman
+p2561
+aVLand
+p2562
+aVArtifact
+p2563
+aVCreature - Jellyfish
+p2564
+aVCreature - Goblin Shaman
+p2565
+aVCreature - Goblin Warrior
+p2566
+aVCreature - Goblin
+p2567
+aVCreature - Goblin Warrior
+p2568
+aVSorcery
+p2569
+aVCreature - Goblin Warrior
+p2570
+aVCreature - Goblin Rogue
+p2571
+aVEnchantment - Aura
+p2572
+aVCreature - Minotaur Warrior
+p2573
+aVCreature - Goblin Warrior
+p2574
+aVCreature - Goblin
+p2575
+aVCreature - Human Warrior
+p2576
+aVCreature - Ape Warrior
+p2577
+aVCreature - Goblin Shaman
+p2578
+aVCreature - Goblin
+p2579
+aVCreature - Goblin Warrior
+p2580
+aVCreature - Goblin
+p2581
+aVCreature - Goblin
+p2582
+aVCreature - Illusion
+p2583
+aVArtifact
+p2584
+aVCreature - Goblin Artificer
+p2585
+aVCreature - Ape Berserker
+p2586
+aVCreature - Ape Shaman
+p2587
+aVInstant
+p2588
+aVCreature - Ape Berserker
+p2589
+aVCreature - Ape
+p2590
+aVCreature - Ape
+p2591
+aVCreature - Ape Shaman
+p2592
+aVInstant
+p2593
+aVCreature - Goblin Warrior
+p2594
+aVArtifact Creature - Myr
+p2595
+aVArtifact
+p2596
+aVArtifact Creature - Golem
+p2597
+aVArtifact
+p2598
+aVArtifact
+p2599
+aVCreature - Human Soldier
+p2600
+aVArtifact - Equipment
+p2601
+aVCreature - Goblin Warrior
+p2602
+aVCreature - Goblin
+p2603
+aVCreature - Goblin Warrior
+p2604
+aVArtifact - Equipment
+p2605
+aVCreature - Goblin
+p2606
+aVCreature - Goblin Scout
+p2607
+aVEnchantment
+p2608
+aVCreature - Goblin
+p2609
+aVCreature - Goblin Warrior
+p2610
+aVCreature - Goblin Warrior
+p2611
+aVCreature - Goblin Warrior
+p2612
+aVSorcery
+p2613
+aVCreature - Goblin
+p2614
+aVCreature - Goblin Warrior
+p2615
+aVCreature - Goblin Mutant
+p2616
+aVCreature - Goblin
+p2617
+aVCreature - Goblin
+p2618
+aVCreature - Goblin
+p2619
+aVCreature - Goblin Warrior
+p2620
+aVCreature - Goblin
+p2621
+aVCreature - Goblin
+p2622
+aVEnchantment
+p2623
+aVCreature - Goblin Warrior
+p2624
+aVEnchantment - Aura
+p2625
+aVEnchantment - Aura
+p2626
+aVCreature - Goblin Wizard
+p2627
+aVCreature - Goblin Warrior
+p2628
+aVCreature - Goblin
+p2629
+aVCreature - Goblin
+p2630
+aVCreature - Goblin
+p2631
+aVInstant
+p2632
+aVCreature - Goblin Warrior
+p2633
+aVCreature - Hound
+p2634
+aVCreature - Goblin
+p2635
+aVCreature - Goblin Shaman
+p2636
+aVCreature - Goblin
+p2637
+aVSorcery
+p2638
+aVEnchantment
+p2639
+aVCreature - Goblin Shaman
+p2640
+aVCreature - Goblin Shaman
+p2641
+aVSorcery
+p2642
+aVSorcery
+p2643
+aVEnchantment
+p2644
+aVEnchantment
+p2645
+aVEnchantment
+p2646
+aVEnchantment
+p2647
+aVEnchantment
+p2648
+aVCreature - Goblin Soldier
+p2649
+aVCreature - Goblin
+p2650
+aVEnchantment
+p2651
+aVCreature - Goblin
+p2652
+aVCreature - Goblin Warrior
+p2653
+aVCreature - Goblin
+p2654
+aVCreature - Goblin
+p2655
+aVCreature - Ape Shaman
+p2656
+aVLand - Plains Swamp
+p2657
+aVCreature - Goblin Wizard
+p2658
+aVCreature - Goblin Warrior
+p2659
+aVCreature - Goblin Scout
+p2660
+aVCreature - Goblin Warrior
+p2661
+aVCreature - Goblin Warrior
+p2662
+aVCreature - Goblin Warrior
+p2663
+aVCreature - Goblin Warrior
+p2664
+aVCreature - Goblin
+p2665
+aVCreature - Goblin Warrior
+p2666
+aVCreature - Goblin Scout
+p2667
+aVCreature - Goblin Warrior
+p2668
+aVCreature - Human Cleric Soldier
+p2669
+aVCreature - Angel
+p2670
+aVCreature - Goblin Shaman
+p2671
+aVLand
+p2672
+aVCreature - Goblin
+p2673
+aVCreature - Goblin
+p2674
+aVCreature - Goblin
+p2675
+aVCreature - Goblin Wizard
+p2676
+aVCreature - Goblin
+p2677
+aVCreature - Goblin Warrior
+p2678
+aVCreature - Goblin Warrior
+p2679
+aVLegendary Creature - Human Barbarian
+p2680
+aVCreature - Ogre Shaman
+p2681
+aVCreature - Goblin Warrior
+p2682
+aVInstant - Arcane
+p2683
+aVLegendary Land
+p2684
+aVCreature - Goblin
+p2685
+aVCreature - Goblin Warrior
+p2686
+aVCreature - Insect
+p2687
+aVEnchantment
+p2688
+aVCreature - Goblin Berserker
+p2689
+aVCreature - Goblin
+p2690
+aVCreature - Elf Shaman
+p2691
+aVLand
+p2692
+aVCreature - Goblin Berserker
+p2693
+aVCreature - Spider
+p2694
+aVCreature - Skeleton Troll
+p2695
+aVCreature - Human Warrior
+p2696
+aVCreature - Lizard
+p2697
+aVCreature - Zombie Wurm
+p2698
+aVEnchantment
+p2699
+aVArtifact
+p2700
+aVCreature - Goblin Warrior
+p2701
+aVEnchantment
+p2702
+aVCreature - Goblin
+p2703
+aVLand - Gate
+p2704
+aVCreature - Elf Shaman
+p2705
+aVLand
+p2706
+aVCreature - Ape
+p2707
+aVCreature - Gorgon
+p2708
+aVCreature - Goblin Warrior
+p2709
+aVCreature - Ooze
+p2710
+aVCreature - Goblin Wizard
+p2711
+aVSorcery
+p2712
+aVInstant
+p2713
+aVCreature - Elf Rogue
+p2714
+aVLand - Gate
+p2715
+aVArtifact
+p2716
+aVCreature - Insect
+p2717
+aVCreature - Human Warrior
+p2718
+aVLand - Plains Swamp
+p2719
+aVCreature - Goblin Warrior
+p2720
+aVSnow Creature - Goblin Warrior
+p2721
+aVCreature - Goblin Warrior
+p2722
+aVCreature - Goblin
+p2723
+aVArtifact
+p2724
+aVCreature - Ape
+p2725
+aVCreature - Goblin Mutant
+p2726
+aVCreature - Goblin
+p2727
+aVCreature - Goblin
+p2728
+aVCreature - Goblin
+p2729
+aVCreature - Goblin Warrior
+p2730
+aVCreature - Goblin Scout
+p2731
+aVCreature - Goblin Shaman
+p2732
+aVCreature - Goblin Scout
+p2733
+aVEnchantment - Aura
+p2734
+aVCreature - Jellyfish
+p2735
+aVCreature - Goblin
+p2736
+aVCreature - Goblin
+p2737
+aVCreature - Goblin
+p2738
+aVCreature - Goblin Warrior
+p2739
+aVCreature - Goblin
+p2740
+aVEnchantment
+p2741
+aVCreature - Ape
+p2742
+aVArtifact Creature - Myr
+p2743
+aVArtifact Creature - Juggernaut
+p2744
+aVArtifact Creature - Goblin
+p2745
+aVArtifact - Equipment
+p2746
+aVArtifact Creature - Construct
+p2747
+aVCreature - Goblin Berserker
+p2748
+aVArtifact
+p2749
+aVCreature - Kithkin Soldier
+p2750
+aVCreature - Elf Cleric
+p2751
+aVCreature - Goblin Scout
+p2752
+aVEnchantment
+p2753
+aVCreature - Beast
+p2754
+aVCreature - Goblin Warrior
+p2755
+aVCreature - Goblin
+p2756
+aVCreature - Ape
+p2757
+aVCreature - Goblin Warrior
+p2758
+aVCreature - Goblin
+p2759
+aVCreature - Goblin
+p2760
+aVEnchantment
+p2761
+aVCreature - Goblin
+p2762
+aVCreature - Goblin Warrior
+p2763
+aVCreature - Goblin Warrior
+p2764
+aVCreature - Goblin
+p2765
+aVCreature - Goblin Warrior
+p2766
+aVCreature - Goblin Warrior
+p2767
+aVCreature - Goblin Warrior
+p2768
+aVCreature - Goblin Knight
+p2769
+aVCreature - Goblin Shaman
+p2770
+aVCreature - Goblin Artificer
+p2771
+aVCreature - Goblin Artificer
+p2772
+aVCreature - Goblin Shaman
+p2773
+aVCreature - Goblin Rogue
+p2774
+aVSorcery
+p2775
+aVCreature - Elemental Boar Beast
+p2776
+aVCreature - Spirit Avatar
+p2777
+aVCreature - Insect
+p2778
+aVCreature - Goblin
+p2779
+aVCreature - Goblin
+p2780
+aVCreature - Goblin
+p2781
+aVCreature - Goblin Warrior
+p2782
+aVCreature - Goblin Warrior
+p2783
+aVCreature - Goblin
+p2784
+aVCreature - Goblin
+p2785
+aVSorcery
+p2786
+aVCreature - Goblin Scout
+p2787
+aVCreature - Ape Warrior
+p2788
+aVArtifact
+p2789
+aVCreature - Goblin Warrior
+p2790
+aVCreature - Goblin Mutant
+p2791
+aVCreature - Goblin
+p2792
+aVCreature - Goblin Warrior
+p2793
+aVSorcery
+p2794
+aVCreature - Kithkin Spellshaper
+p2795
+aVSorcery
+p2796
+aVCreature - Goblin
+p2797
+aVSorcery
+p2798
+aVCreature - Goblin Warrior
+p2799
+aVCreature - Bear
+p2800
+aVCreature - Goblin
+p2801
+aVCreature - Goblin
+p2802
+aVSorcery
+p2803
+aVCreature - Goblin
+p2804
+aVCreature - Goblin Scout
+p2805
+aVCreature - Goblin Warrior
+p2806
+aVCreature - Goblin Warrior
+p2807
+aVPlane - Lorwyn
+p2808
+aVSorcery
+p2809
+aVArtifact Creature - Myr
+p2810
+aVCreature - Goblin Mutant
+p2811
+aVCreature - Goblin Mutant
+p2812
+aVCreature - Goblin
+p2813
+aVCreature - Goblin Mercenary
+p2814
+aVCreature - Goblin
+p2815
+aVCreature - Goblin Assassin
+p2816
+aVCreature - Goblin
+p2817
+aVCreature - Goblin
+p2818
+aVCreature - Goblin
+p2819
+aVCreature - Goblin
+p2820
+aVCreature - Goblin
+p2821
+aVSorcery
+p2822
+aVCreature - Goblin
+p2823
+aVCreature - Goblin
+p2824
+aVCreature - Goblin Warrior
+p2825
+aVCreature - Goblin Warrior
+p2826
+aVCreature - Ape Warrior
+p2827
+aVCreature - Goblin Shaman
+p2828
+aVSorcery
+p2829
+aVCreature - Goblin Mutant
+p2830
+aVCreature - Goblin Wizard
+p2831
+aVCreature - Goblin Warrior
+p2832
+aVInstant
+p2833
+aVEnchantment
+p2834
+aVCreature - Goblin
+p2835
+aVCreature - Goblin Rogue
+p2836
+aVCreature - Goblin Warrior
+p2837
+aVCreature - Goblin
+p2838
+aVCreature - Goblin
+p2839
+aVCreature - Goblin Warrior
+p2840
+aVCreature - Goblin Knight
+p2841
+aVCreature - Sphinx
+p2842
+aVCreature - Goblin Artificer
+p2843
+aVCreature - Goblin
+p2844
+aVEnchantment - Aura
+p2845
+aVCreature - Goblin Warrior
+p2846
+aVCreature - Djinn
+p2847
+aVCreature - Goblin Rogue
+p2848
+aVCreature - Octopus
+p2849
+aVLegendary Artifact - Equipment
+p2850
+aVCreature - Elk
+p2851
+aVEnchantment Creature - Ox
+p2852
+aVArtifact Creature - Chimera
+p2853
+aVCreature - Elf Shaman
+p2854
+aVCreature - Wurm
+p2855
+aVCreature - Goblin
+p2856
+aVEnchantment
+p2857
+aVCreature - Goblin
+p2858
+aVCreature - Goblin
+p2859
+aVEnchantment
+p2860
+aVEnchantment
+p2861
+aVLand - Gate
+p2862
+aVSorcery
+p2863
+aVCreature - Goblin Shaman
+p2864
+aVCreature - Goblin Artificer
+p2865
+aVCreature - Goblin Warrior
+p2866
+aVVanguard
+p2867
+aVVanguard
+p2868
+aVCreature - Goblin Warrior
+p2869
+aVCreature - Goblin
+p2870
+aVCreature - Goblin
+p2871
+aVEnchantment
+p2872
+aVCreature - Goblin
+p2873
+aVCreature - Goblin
+p2874
+aVCreature - Goblin
+p2875
+aVEnchantment - Aura
+p2876
+aVCreature - Goblin
+p2877
+aVCreature - Goblin Warrior
+p2878
+aVEnchantment - Aura
+p2879
+aVEnchantment
+p2880
+aVInstant
+p2881
+aVCreature - Goblin Wizard
+p2882
+aVArtifact
+p2883
+aVLand - Gate
+p2884
+aVLegendary Creature - Human Warrior
+p2885
+aVSorcery
+p2886
+aVCreature - Rat
+p2887
+aVCreature - Goblin Wizard
+p2888
+aVEnchantment
+p2889
+aVCreature - Skeleton Troll
+p2890
+aVLand
+p2891
+aVCreature - Zombie Wurm
+p2892
+aVArtifact
+p2893
+aVCreature - Human Warrior
+p2894
+aVCreature - Kithkin Soldier
+p2895
+aVCreature - Kithkin Soldier
+p2896
+aVCreature - Kithkin Rogue
+p2897
+aVCreature - Goblin Rogue
+p2898
+aVCreature - Goblin Warrior
+p2899
+aVCreature - Goblin
+p2900
+aVCreature - Goblin Warrior
+p2901
+aVCreature - Goblin Rogue
+p2902
+aVCreature - Insect
+p2903
+aVCreature - Goblin
+p2904
+aVCreature - Minotaur Warrior
+p2905
+aVCreature - Goblin
+p2906
+aVCreature - Ape Warrior
+p2907
+aVSorcery
+p2908
+asS'numbers'
+p2909
+(lp2910
+g2175
+ag2178
+aV11
+p2911
+aV12
+p2912
+aV13
+p2913
+aV14
+p2914
+aV15
+p2915
+aV28
+p2916
+aV29
+p2917
+aV30
+p2918
+aV31
+p2919
+aV32
+p2920
+aV33
+p2921
+aV68
+p2922
+aV125
+p2923
+aV201
+p2924
+aV275
+p2925
+aV249
+p2926
+aV48
+p2927
+aV136
+p2928
+aV137
+p2929
+aV138
+p2930
+aV139
+p2931
+aV140
+p2932
+aV141
+p2933
+aV142
+p2934
+aV143
+p2935
+aV144
+p2936
+aV113
+p2937
+aV114
+p2938
+aV101
+p2939
+aV50
+p2940
+aV134
+p2941
+aV135
+p2942
+aV107
+p2943
+aV108
+p2944
+aV224
+p2945
+aV55
+p2946
+ag2177
+aV57
+p2947
+aV61
+p2948
+aV80
+p2949
+aV81
+p2950
+aV153
+p2951
+aV154
+p2952
+aV155
+p2953
+aV156
+p2954
+aV157
+p2955
+aV92
+p2956
+aV157
+p2957
+aV158
+p2958
+aV159
+p2959
+aV160
+p2960
+aV161
+p2961
+aV14
+p2962
+aV158
+p2963
+aV138
+p2964
+aV139
+p2965
+aV140
+p2966
+aV211
+p2967
+aV141
+p2968
+aV142
+p2969
+aV151
+p2970
+aV207
+p2971
+aV209
+p2972
+aV210
+p2973
+aV206
+p2974
+aV208
+p2975
+aV164
+p2976
+aV165
+p2977
+aV166
+p2978
+aV167
+p2979
+aV168
+p2980
+aV169
+p2981
+aV170
+p2982
+aV171
+p2983
+aV172
+p2984
+aV253
+p2985
+aV173
+p2986
+aV49
+p2987
+aV50
+p2988
+aV51
+p2989
+aV52
+p2990
+aV96
+p2991
+aV97
+p2992
+aV98
+p2993
+aV43
+p2994
+aV64
+p2995
+ag2183
+aV18
+p2996
+aV53
+p2997
+aV54
+p2998
+aV55
+p2999
+aV56
+p3000
+aV108
+p3001
+aV109
+p3002
+aV110
+p3003
+aV111
+p3004
+aV112
+p3005
+aV113
+p3006
+aV114
+p3007
+aV115
+p3008
+aV116
+p3009
+aV103
+p3010
+aV62
+p3011
+aV104
+p3012
+ag2182
+aV143
+p3013
+aV144
+p3014
+aV128
+p3015
+aV129
+p3016
+aV157
+p3017
+aV116
+p3018
+aV194
+p3019
+aV193
+p3020
+aV191
+p3021
+aV190
+p3022
+ag2543
+aV189
+p3023
+aV192
+p3024
+aV195
+p3025
+aV109
+p3026
+aV64
+p3027
+aV22
+p3028
+aV23
+p3029
+aV42
+p3030
+aV318
+p3031
+aV207
+p3032
+aV210
+p3033
+aV209
+p3034
+aV206
+p3035
+aV204
+p3036
+aV205
+p3037
+aV208
+p3038
+aV169
+p3039
+aV173b
+p3040
+aV106
+p3041
+aV67
+p3042
+aV164
+p3043
+aV86
+p3044
+aV85
+p3045
+aV107
+p3046
+aV83
+p3047
+aV82
+p3048
+aV84
+p3049
+aV248
+p3050
+aV278
+p3051
+aV127
+p3052
+aV168
+p3053
+aV167
+p3054
+aV87
+p3055
+aV166
+p3056
+aV210
+p3057
+aV209
+p3058
+aV262
+p3059
+aV128
+p3060
+aV110
+p3061
+aV111
+p3062
+aV290
+p3063
+aV229
+p3064
+aV291
+p3065
+aV241
+p3066
+aV111
+p3067
+aV159
+p3068
+aV126
+p3069
+aV163
+p3070
+aV95
+p3071
+aV164
+p3072
+aV127
+p3073
+aV239
+p3074
+aV229
+p3075
+aV216
+p3076
+aV96
+p3077
+aV242
+p3078
+aV82
+p3079
+aV83
+p3080
+aV117
+p3081
+aV118
+p3082
+aV11
+p3083
+aV121
+p3084
+aV156
+p3085
+aV157
+p3086
+aV158
+p3087
+aV159
+p3088
+aV125
+p3089
+aV126
+p3090
+aV127
+p3091
+aV128
+p3092
+aV129
+p3093
+aV46
+p3094
+aV184
+p3095
+aV186
+p3096
+aV182
+p3097
+aV183
+p3098
+aV185
+p3099
+aV187
+p3100
+aV235
+p3101
+aV180
+p3102
+aV179
+p3103
+aV178
+p3104
+aV181
+p3105
+aV177
+p3106
+aV94
+p3107
+aV176
+p3108
+ag2178
+aV133
+p3109
+aV102
+p3110
+aV101
+p3111
+aV170
+p3112
+aV169
+p3113
+aV186
+p3114
+aV250
+p3115
+aV193
+p3116
+aV191
+p3117
+aV188
+p3118
+aV194
+p3119
+aV189
+p3120
+aV185
+p3121
+aV187
+p3122
+aV190
+p3123
+aV192
+p3124
+aV144
+p3125
+aV145
+p3126
+aV146
+p3127
+aV79
+p3128
+aV80
+p3129
+aV63
+p3130
+aV147
+p3131
+aV148
+p3132
+aV12
+p3133
+aV91
+p3134
+aV142
+p3135
+ag2181
+aV100
+p3136
+aV98
+p3137
+aV106
+p3138
+aV99
+p3139
+aV101
+p3140
+aV102
+p3141
+aV103
+p3142
+aV104
+p3143
+aV105
+p3144
+aV128
+p3145
+aV125
+p3146
+aV66
+p3147
+aV95
+p3148
+aV97
+p3149
+aV94
+p3150
+aV96
+p3151
+aV22
+p3152
+aV58
+p3153
+aV61
+p3154
+aV63
+p3155
+aV64
+p3156
+aV70
+p3157
+aV107
+p3158
+aV108
+p3159
+aV109
+p3160
+aV110
+p3161
+aV111
+p3162
+aV112
+p3163
+aV113
+p3164
+aV13
+p3165
+aV56
+p3166
+aV114
+p3167
+aV99
+p3168
+aV97
+p3169
+aV98
+p3170
+aV72
+p3171
+aV96
+p3172
+aV95
+p3173
+aV101
+p3174
+aV100
+p3175
+aV189
+p3176
+aV193
+p3177
+aV196
+p3178
+aV192
+p3179
+aV190
+p3180
+aV191
+p3181
+aV194
+p3182
+aV195
+p3183
+aV256
+p3184
+aV94
+p3185
+aV95
+p3186
+aV96
+p3187
+aV97
+p3188
+aV98
+p3189
+aV16
+p3190
+aV85
+p3191
+aV86
+p3192
+aV87
+p3193
+aV188
+p3194
+aV189
+p3195
+aV190
+p3196
+aV191
+p3197
+aV82
+p3198
+aV28
+p3199
+aV24
+p3200
+aV76
+p3201
+aV77
+p3202
+aV78
+p3203
+aV107
+p3204
+aV145
+p3205
+aV39
+p3206
+aV12
+p3207
+aV124
+p3208
+aV125
+p3209
+aV161
+p3210
+aV55
+p3211
+aV56
+p3212
+aV137
+p3213
+aV138
+p3214
+aV289
+p3215
+aV290
+p3216
+aV291
+p3217
+aV109
+p3218
+aV76
+p3219
+aV148
+p3220
+aV149
+p3221
+aV150
+p3222
+aV285
+p3223
+ag2181
+ag2182
+aV158
+p3224
+aV159
+p3225
+aV67
+p3226
+aV84
+p3227
+aV128
+p3228
+aV117
+p3229
+aV118
+p3230
+aV119
+p3231
+aV120
+p3232
+aV121
+p3233
+aV122
+p3234
+aV123
+p3235
+aV124
+p3236
+aV74
+p3237
+aV139
+p3238
+aV149
+p3239
+aV132
+p3240
+aV25
+p3241
+aV111
+p3242
+ag2178
+aV70
+p3243
+aV60
+p3244
+aV80
+p3245
+aV63
+p3246
+aV66
+p3247
+aV48
+p3248
+aV17
+p3249
+aV18
+p3250
+aV16
+p3251
+aV172
+p3252
+aV140
+p3253
+aV141
+p3254
+aV142
+p3255
+aV143
+p3256
+aV15
+p3257
+aV64
+p3258
+aV52
+p3259
+aV63
+p3260
+aV137
+p3261
+aV61
+p3262
+as.

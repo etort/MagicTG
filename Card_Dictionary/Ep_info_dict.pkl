@@ -1,0 +1,318 @@
+(dp0
+S'rares'
+p1
+(lp2
+VMythic Rare
+p3
+aVUncommon
+p4
+aVCommon
+p5
+aVCommon
+p6
+aVRare
+p7
+aVUncommon
+p8
+aVRare
+p9
+aVMythic Rare
+p10
+aVRare
+p11
+aVCommon
+p12
+aVRare
+p13
+aVRare
+p14
+aVCommon
+p15
+aVRare
+p16
+asS'editns'
+p17
+(lp18
+VBorn of the Gods
+p19
+aVBorn of the Gods
+p20
+aVBorn of the Gods
+p21
+aVBorn of the Gods
+p22
+aVVintage Masters
+p23
+aVModern Masters
+p24
+aVOdyssey
+p25
+aVReturn to Ravnica
+p26
+aVExodus
+p27
+aVMagic 2015 Core Set
+p28
+aVJudgment
+p29
+aVFuture Sight
+p30
+aVTheros
+p31
+aVLorwyn
+p32
+asS'ids'
+p33
+(lp34
+V378517
+p35
+aV378518
+p36
+aV378381
+p37
+aV378463
+p38
+aV382924
+p39
+aV370497
+p40
+aV30547
+p41
+aV253552
+p42
+aV6073
+p43
+aV383233
+p44
+aV33697
+p45
+aV136143
+p46
+aV373724
+p47
+aV143732
+p48
+asS'texts'
+p49
+(lp50
+VEnchant creature<br>When Ephara's Enlightenment enters the battlefield, put a +1/+1 counter on enchanted creature.<br>Enchanted creature has flying.<br>Whenever a creature enters the battlefield under your control, you may return Ephara's Enlightenment to its owner's hand.
+p51
+aVEnchant creature<br>Enchanted creature has "{1}{W}, {T}: You gain 3 life."
+p52
+aVEnchant creature<br>Enchanted creature has "{R}, {T}, Discard a card: Draw a card."
+p53
+aVEnchant creature<br>When Eternity Snare enters the battlefield, draw a card.<br>Enchanted creature doesn't untap during its controller's untap step.
+p54
+aVFlying<br>{3}{W}{W}: Return Eternal Dragon from your graveyard to your hand. Activate this ability only during your upkeep.<br>Plainscycling {2} <i>({2}, Discard this card: Search your library for a Plains card, reveal it, and put it into your hand. Then shuffle your library.)</i>
+p55
+aVEpochrasite enters the battlefield with three +1/+1 counters on it if you didn't cast it from your hand.<br>When Epochrasite dies, exile it with three time counters on it and it gains suspend. <i>(At the beginning of your upkeep, remove a time counter. When the last is removed, cast this card without paying its mana cost. It has haste.)</i>
+p56
+aV{1}{G}, Sacrifice Twigwalker: Two target creatures each get +2/+2 until end of turn.
+p57
+aVExplosive Impact deals 5 damage to target creature or player.
+p58
+aVFlying<br>Discard a card: Return Ephemeron to its owner's hand.
+p59
+aV{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+p60
+aVAt the beginning of your upkeep, if you control twenty or more creatures, you win the game.
+p61
+aVWhenever you cast a spell, creatures you control can't be the targets of spells or abilities your opponents control this turn.
+p62
+aVBestow {5}{B} <i>(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)</i><br>Discard a creature card: Erebos's Emissary gets +2/+2 until end of turn. If Erebos's Emissary is an Aura, enchanted creature gets +2/+2 until end of turn instead.<br>Enchanted creature gets +3/+3.
+p63
+aVFlash<br>Enchant creature<br>Enchanted creature gets +5/+5 and has trample.
+p64
+asS'costs'
+p65
+(lp66
+V{2}{W}{U}
+p67
+aV{1}{W}{U}
+p68
+aV{W}
+p69
+aV{R}
+p70
+aV{1}{W}{W}
+p71
+aV{2}
+p72
+aV{4}{R}
+p73
+aV{X}{U}{R}
+p74
+aV{4}{U}{U}
+p75
+aV{4}{B}{B}
+p76
+aV{2}{G}{G}
+p77
+aV{2}
+p78
+aV{4}{W}{W}
+p79
+aV{1}{W}
+p80
+asS'names'
+p81
+(lp82
+VEphara, God of the Polis
+p83
+aVEphara's Enlightenment
+p84
+aVEphara's Radiance
+p85
+aVEpiphany Storm
+p86
+aVEphemeron
+p87
+aVEpochrasite
+p88
+aVEpicenter
+p89
+aVEpic Experiment
+p90
+aVEphemeron
+p91
+aVEphemeral Shields
+p92
+aVEpic Struggle
+p93
+aVEpochrasite
+p94
+aVEphara's Warden
+p95
+aVEpic Proportions
+p96
+asS'toughs'
+p97
+(lp98
+S'N/A'
+p99
+ag99
+ag99
+ag99
+aV2
+p100
+ag99
+ag99
+ag99
+aV3
+p101
+ag99
+ag99
+ag99
+ag101
+ag99
+asS'artists'
+p102
+(lp103
+VEric Deschamps
+p104
+aVWesley Burt
+p105
+aVJames Ryman
+p106
+aVClint Cearley
+p107
+aVKeith Parkinson
+p108
+aS''
+p109
+aVAnthony S. Waters
+p110
+aVDan Scott
+p111
+aVKeith Parkinson
+p112
+aVYohann Schepacz
+p113
+aVGreg & Tim Hildebrandt
+p114
+aVMichael Bruinsma
+p115
+aVZack Stella
+p116
+aVJesper Ejsing
+p117
+asS'powers'
+p118
+(lp119
+g99
+ag99
+ag99
+ag99
+aV4
+p120
+ag99
+ag99
+ag99
+ag101
+ag99
+ag99
+ag99
+ag101
+ag99
+asS'types'
+p121
+(lp122
+VLegendary Enchantment Creature - God
+p123
+aVEnchantment - Aura
+p124
+aVEnchantment - Aura
+p125
+aVEnchantment - Aura
+p126
+aVCreature - Illusion
+p127
+aVArtifact Creature - Construct
+p128
+aVSorcery
+p129
+aVSorcery
+p130
+aVCreature - Illusion
+p131
+aVInstant
+p132
+aVEnchantment
+p133
+aVArtifact Creature - Construct
+p134
+aVCreature - Human Cleric
+p135
+aVEnchantment - Aura
+p136
+asS'numbers'
+p137
+(lp138
+V145
+p139
+aV146
+p140
+aV9
+p141
+aV91
+p142
+aV66
+p143
+ag109
+aV192
+p144
+aV159
+p145
+aV31
+p146
+aV11
+p147
+aV112
+p148
+aV162
+p149
+aV10
+p150
+aV209
+p151
+as.

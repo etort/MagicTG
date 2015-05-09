@@ -1,0 +1,562 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVUncommon
+p4
+aVUncommon
+p5
+aVUncommon
+p6
+aVUncommon
+p7
+aVUncommon
+p8
+aVUncommon
+p9
+aVUncommon
+p10
+aVUncommon
+p11
+aVCommon
+p12
+aVUncommon
+p13
+aVUncommon
+p14
+aVUncommon
+p15
+aVUncommon
+p16
+aVUncommon
+p17
+aVUncommon
+p18
+aVUncommon
+p19
+aVCommon
+p20
+aVUncommon
+p21
+aVCommon
+p22
+aVCommon
+p23
+aVUncommon
+p24
+aVUncommon
+p25
+aVUncommon
+p26
+aVCommon
+p27
+aVUncommon
+p28
+asS'editns'
+p29
+(lp30
+VLimited Edition Beta
+p31
+aVBattle Royale Box Set
+p32
+aVFourth Edition
+p33
+aVMagic 2010
+p34
+aVMagic 2014 Core Set
+p35
+aVTenth Edition
+p36
+aVRevised Edition
+p37
+aVNinth Edition
+p38
+aVOnslaught
+p39
+aVOnslaught
+p40
+aVUnlimited Edition
+p41
+aVClassic Sixth Edition
+p42
+aVSeventh Edition
+p43
+aVStarter 1999
+p44
+aVPortal Second Age
+p45
+aVMagic: The Gathering\u2014Conspiracy
+p46
+aVEighth Edition
+p47
+aVNemesis
+p48
+aVFifth Edition
+p49
+aVKhans of Tarkir
+p50
+aVKhans of Tarkir
+p51
+aVLimited Edition Alpha
+p52
+aVBeatdown Box Set
+p53
+aVMasters Edition IV
+p54
+aVLegends
+p55
+aVMagic 2011
+p56
+asS'ids'
+p57
+(lp58
+V389
+p59
+aV21121
+p60
+aV2142
+p61
+aV189884
+p62
+aV370688
+p63
+aV129459
+p64
+aV1189
+p65
+aV82988
+p66
+aV39755
+p67
+aV39889
+p68
+aV691
+p69
+aV15371
+p70
+aV15802
+p71
+aV21041
+p72
+aV6536
+p73
+aV382210
+p74
+aV45255
+p75
+aV22377
+p76
+aV3892
+p77
+aV386471
+p78
+aV386472
+p79
+aV94
+p80
+aV26654
+p81
+aV221985
+p82
+aV1513
+p83
+aV205070
+p84
+asS'texts'
+p85
+(lp86
+VEnchant Wall<br>Enchanted Wall can attack as though it didn't have defender.
+p87
+aVFlying<br>{T}: Target attacking or blocking creature gets +1/+1 until end of turn.
+p88
+aV{8}, {T}: Aladdin's Ring deals 4 damage to target creature or player.
+p89
+aVFlying
+p90
+aVFlying<br>{2}{U}: Tap target creature with flying.
+p91
+aVFlying
+p92
+aVEnchant Wall<br>Enchanted Wall can attack as though it didn't have defender.
+p93
+aV{X}{W}, {T}: Ballista Squad deals X damage to target attacking or blocking creature.
+p94
+aVFlying<br>{1}{R}, Sacrifice a Goblin creature: Airdrop Condor deals damage equal to the sacrificed creature's power to target creature or player.
+p95
+aVDraw a card for each Bird on the battlefield.
+p96
+aVEnchant creature card in a graveyard<br>When Animate Dead enters the battlefield, if it's on the battlefield, it loses "enchant creature card in a graveyard" and gains "enchant creature put onto the battlefield with Animate Dead." Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it.<br>Enchanted creature gets -1/-0.
+p97
+aVDestroy all lands.
+p98
+aVBlaze deals X damage to target creature or player.
+p99
+aVFlying, vigilance
+p100
+aVReturn target sorcery card from your graveyard to your hand.
+p101
+aVFlying<br>{2}{U}: Tap target creature with flying.
+p102
+aVEnchant creature <i>(Target a creature as you cast this. This card enters the battlefield attached to that creature.)</i><br>Enchanted creature gets +1/+1 for each Forest you control.
+p103
+aVEnchant creature<br>Enchanted creature has flying.<br>Enchanted creature can block only creatures with flying.
+p104
+aVFlying
+p105
+aVOutlast {1}{W} <i>({1}{W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)</i><br>Each creature you control with a +1/+1 counter on it has first strike.
+p106
+aVFirst strike<br>Morph {4}{R} <i>(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p107
+aVFlying<br>{T}: Add one mana of any color to your mana pool.
+p108
+aVWhen Balduvian Horde enters the battlefield, sacrifice it unless you discard a card at random.
+p109
+aVFlying
+p110
+aVCreatures can't attack a player unless that player cast a spell or put a nontoken permanent onto the battlefield during his or her last turn.
+p111
+aVFlying<br>{2}{U}: Tap target creature with flying.
+p112
+asS'costs'
+p113
+(lp114
+V{3}{U}{U}
+p115
+aV{3}{U}{U}
+p116
+aV{3}{U}{U}
+p117
+aV{3}{U}{U}
+p118
+aV{4}{U}
+p119
+aV{3}{U}{U}
+p120
+aV{3}{U}{U}
+p121
+aV{3}{U}{U}
+p122
+aV{4}{R}
+p123
+aV{3}{U}
+p124
+aV{3}{U}{U}
+p125
+aV{3}{U}{U}
+p126
+aV{3}{U}{U}
+p127
+aV{3}{U}{U}
+p128
+aV{3}{U}{U}
+p129
+aV{4}{U}
+p130
+aV{3}{U}{U}
+p131
+aV{U}
+p132
+aV{3}{U}{U}
+p133
+aV{1}{W}
+p134
+aV{5}{R}
+p135
+aV{3}{U}{U}
+p136
+aV{3}{U}{U}
+p137
+aV{3}{U}{U}
+p138
+aV{G}
+p139
+aV{4}{U}
+p140
+asS'names'
+p141
+(lp142
+VAir Elemental
+p143
+aVAir Elemental
+p144
+aVAir Elemental
+p145
+aVAir Elemental
+p146
+aVAir Servant
+p147
+aVAir Elemental
+p148
+aVAir Elemental
+p149
+aVAir Elemental
+p150
+aVAirdrop Condor
+p151
+aVAirborne Aid
+p152
+aVAir Elemental
+p153
+aVAir Elemental
+p154
+aVAir Elemental
+p155
+aVAir Elemental
+p156
+aVAir Elemental
+p157
+aVAir Servant
+p158
+aVAir Elemental
+p159
+aVAir Bladder
+p160
+aVAir Elemental
+p161
+aVAinok Bond-Kin
+p162
+aVAinok Tracker
+p163
+aVAir Elemental
+p164
+aVAir Elemental
+p165
+aVAir Elemental
+p166
+aVAisling Leprechaun
+p167
+aVAir Servant
+p168
+asS'toughs'
+p169
+(lp170
+V4
+p171
+ag171
+aV1
+p172
+ag171
+aV3
+p173
+ag171
+aV5
+p174
+ag172
+ag174
+aS'N/A'
+p175
+ag171
+ag172
+ag173
+ag171
+ag171
+ag171
+aV7
+p176
+ag175
+aV2
+p177
+ag172
+ag173
+ag171
+ag171
+ag172
+aV6
+p178
+ag173
+asS'artists'
+p179
+(lp180
+VRichard Thomas
+p181
+aVD. Alexander Gregory
+p182
+aVRichard Thomas
+p183
+aVKev Walker
+p184
+aVLars Grant-West
+p185
+aVKev Walker
+p186
+aVRichard Thomas
+p187
+aVNick Percival
+p188
+aVGlen Angus
+p189
+aVBradley Williams
+p190
+aVRichard Thomas
+p191
+aVDoug Chaffee
+p192
+aVWayne England
+p193
+aVDoug Chaffee
+p194
+aVDoug Chaffee
+p195
+aVLars Grant-West
+p196
+aVWayne England
+p197
+aVDonato Giancola
+p198
+aVD. Alexander Gregory
+p199
+aVChris Rahn
+p200
+aVEvan Shipard
+p201
+aVRichard Thomas
+p202
+aVDoug Chaffee
+p203
+aVBrian Snoddy
+p204
+aVQuinton Hoover
+p205
+aVLars Grant-West
+p206
+asS'powers'
+p207
+(lp208
+g171
+ag171
+ag178
+ag171
+ag171
+ag171
+ag171
+ag172
+ag174
+ag175
+ag171
+ag177
+ag177
+ag171
+ag171
+ag178
+ag176
+ag175
+ag177
+ag177
+ag173
+ag171
+ag171
+ag177
+ag178
+ag171
+asS'types'
+p209
+(lp210
+VCreature - Elemental
+p211
+aVCreature - Elemental
+p212
+aVCreature - Elemental
+p213
+aVCreature - Elemental
+p214
+aVCreature - Elemental
+p215
+aVCreature - Elemental
+p216
+aVCreature - Elemental
+p217
+aVCreature - Elemental
+p218
+aVCreature - Bird
+p219
+aVSorcery
+p220
+aVCreature - Elemental
+p221
+aVCreature - Elemental
+p222
+aVCreature - Elemental
+p223
+aVCreature - Elemental
+p224
+aVCreature - Elemental
+p225
+aVCreature - Elemental
+p226
+aVCreature - Elemental
+p227
+aVEnchantment - Aura
+p228
+aVCreature - Elemental
+p229
+aVCreature - Hound Soldier
+p230
+aVCreature - Hound Scout
+p231
+aVCreature - Elemental
+p232
+aVCreature - Elemental
+p233
+aVCreature - Elemental
+p234
+aVCreature - Faerie
+p235
+aVCreature - Elemental
+p236
+asS'numbers'
+p237
+(lp238
+V17
+p239
+aV53
+p240
+aV141
+p241
+aV42
+p242
+aV42
+p243
+aV64
+p244
+aV51
+p245
+aV58
+p246
+aV186
+p247
+aV62
+p248
+aV21
+p249
+aV56
+p250
+aV58
+p251
+aV32
+p252
+aV87
+p253
+aV90
+p254
+aV59
+p255
+aV28
+p256
+aV57
+p257
+ag173
+aV96
+p258
+aV91
+p259
+aV26
+p260
+aV37
+p261
+aV59
+p262
+aV42
+p263
+as.

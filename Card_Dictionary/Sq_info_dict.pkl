@@ -1,0 +1,659 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVCommon
+p4
+aVCommon
+p5
+aVRare
+p6
+aVRare
+p7
+aVUncommon
+p8
+aVCommon
+p9
+aVRare
+p10
+aVRare
+p11
+aVCommon
+p12
+aVCommon
+p13
+aVUncommon
+p14
+aVUncommon
+p15
+aVCommon
+p16
+aVRare
+p17
+aVUncommon
+p18
+aVRare
+p19
+aVCommon
+p20
+aVCommon
+p21
+aVRare
+p22
+aVCommon
+p23
+aVUncommon
+p24
+aVUncommon
+p25
+aVSpecial
+p26
+aVSpecial
+p27
+aVRare
+p28
+aVUncommon
+p29
+aVUncommon
+p30
+aVUncommon
+p31
+aVCommon
+p32
+aVSpecial
+p33
+asS'editns'
+p34
+(lp35
+VMagic: The Gathering-Commander
+p36
+aVMorningtide
+p37
+aVTempest
+p38
+aVTenth Edition
+p39
+aVMercadian Masques
+p40
+aVMercadian Masques
+p41
+aVMercadian Masques
+p42
+aVMercadian Masques
+p43
+aVModern Masters
+p44
+aVThe Dark
+p45
+aVApocalypse
+p46
+aVApocalypse
+p47
+aVChampions of Kamigawa
+p48
+aVUrza's Destiny
+p49
+aVOdyssey
+p50
+aVOdyssey
+p51
+aVTime Spiral
+p52
+aVColdsnap
+p53
+aVSeventh Edition
+p54
+aVProphecy
+p55
+aVStarter 1999
+p56
+aVMagic: The Gathering\u2014Conspiracy
+p57
+aVJourney into Nyx
+p58
+aVVanguard
+p59
+aVVanguard
+p60
+aVVisions
+p61
+aVMasters Edition IV
+p62
+aVDissension
+p63
+aVLorwyn
+p64
+aVMagic 2011
+p65
+aVTime Spiral "Timeshifted"
+p66
+asS'ids'
+p67
+(lp68
+V247333
+p69
+aV152847
+p70
+aV4629
+p71
+aV106473
+p72
+aV19685
+p73
+aV19856
+p74
+aV19636
+p75
+aV19716
+p76
+aV370461
+p77
+aV1817
+p78
+aV26785
+p79
+aV26831
+p80
+aV80290
+p81
+aV15170
+p82
+aV29979
+p83
+aV31836
+p84
+aV109702
+p85
+aV121273
+p86
+aV25586
+p87
+aV24672
+p88
+aV20220
+p89
+aV382374
+p90
+aV380507
+p91
+aV4969
+p92
+aV182293
+p93
+aV3744
+p94
+aV221513
+p95
+aV107303
+p96
+aV139710
+p97
+aV208279
+p98
+aV108908
+p99
+asS'texts'
+p100
+(lp101
+V{2}: Squallmonger deals 1 damage to each creature with flying and each player. Any player may activate this ability.
+p102
+aVKinship- At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Squeaking Pie Grubfellows, you may reveal it. If you do, each opponent discards a card.
+p103
+aVTap an untapped creature you control: Telethopter gains flying until end of turn.
+p104
+aVAt the beginning of your upkeep, you may return Squee, Goblin Nabob from your graveyard to your hand.
+p105
+aVFear <i>(This creature can't be blocked except by artifact creatures and/or black creatures.)</i><br>{4}, {T}: Search your library for a Mercenary permanent card with converted mana cost 4 or less and put it onto the battlefield. Then shuffle your library.
+p106
+aVAll creatures have forestwalk.
+p107
+aVVigilance <i>(Attacking doesn't cause this creature to tap.)</i>
+p108
+aVDestroy target land.
+p109
+aVAt the beginning of your upkeep, you may return Squee, Goblin Nabob from your graveyard to your hand.
+p110
+aVDestroy all Goblins.
+p111
+aVEnchant creature<br>Enchanted creature gets +2/+2.<br>When enchanted creature dies, return that card to its owner's hand.
+p112
+aVChoose a number. Flip a coin that many times or until you lose a flip, whichever comes first. If you win all the flips, draw two cards for each flip.
+p113
+aVFlying<br>{3}, Return three lands you control to their owner's hand: Return target creature to its owner's hand.
+p114
+aVFear <i>(This creature can't be blocked except by artifact creatures and/or black creatures.)</i>
+p115
+aVTrample<br>Gorilla Titan gets +4/+4 as long as there are no cards in your graveyard.
+p116
+aVEnchant land<br>Enchanted land has "{T}: Target player loses 3 life."
+p117
+aVSquall Line deals X damage to each creature with flying and each player.
+p118
+aVEnchant creature<br>Cumulative upkeep {U} or {B} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>You control enchanted creature.<br>When Krovikan Whispers is put into a graveyard from the battlefield, you lose 2 life for each age counter on it.
+p119
+aVAll lands are 2/2 creatures that are still lands.
+p120
+aV{1}{G}, Sacrifice a land: Put two 1/1 green Squirrel creature tokens onto the battlefield.<br>{1}{G}, Sacrifice a land: Squirrel creatures get +1/+1 until end of turn.
+p121
+aVWhen Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+p122
+aVEach player loses 1 life for each creature he or she controls.
+p123
+aVFlying<br>{2}{U}{R}: Scry 1, then reveal the top card of your library. Stormchaser Chimera gets +X/+0 until end of turn, where X is that card's converted mana cost. <i>(To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)</i>
+p124
+aVYour opponents play with their hands revealed.
+p125
+aV{1}: Prevent the next 1 damage that would be dealt to target creature you control this turn.
+p126
+aVWhen Suleiman's Legacy enters the battlefield, destroy all Djinns and Efreets. They can't be regenerated.<br>Whenever a Djinn or Efreet enters the battlefield, destroy it. It can't be regenerated.
+p127
+aVYou may choose not to untap Tawnos's Weaponry during your untap step.<br>{2}, {T}: Target creature gets +1/+1 for as long as Tawnos's Weaponry remains tapped.
+p128
+aVFear <i>(This creature can't be blocked except by artifact creatures and/or black creatures.)</i><br>When Squealing Devil enters the battlefield, you may pay {X}. If you do, target creature gets +X/+0 until end of turn.<br>When Squealing Devil enters the battlefield, sacrifice it unless {B} was spent to cast it.
+p129
+aVAs an additional cost to cast Squeaking Pie Sneak, reveal a Goblin card from your hand or pay {3}.<br>Fear <i>(This creature can't be blocked except by artifact creatures and/or black creatures.)</i>
+p130
+aV{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+p131
+aVFlying<br>Whenever Cockatrice blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.
+p132
+asS'costs'
+p133
+(lp134
+V{W}
+p135
+aV{3}{B}
+p136
+aV{1}
+p137
+aV{2}{R}
+p138
+aV{3}{U}
+p139
+aV{3}{G}
+p140
+aV{2}{G}
+p141
+aV{2}{R}
+p142
+aV{2}{R}
+p143
+aV{1}{W}
+p144
+aV{R}{W}
+p145
+aV{1}{U}{R}
+p146
+aV{1}{U}
+p147
+aV{1}{B}
+p148
+aV{1}{G}{G}
+p149
+aV{1}{G}{G}
+p150
+aV{X}{G}{G}
+p151
+aV{1}{W}
+p152
+aV{2}{G}
+p153
+aV{2}{G}{G}
+p154
+aV{2}{G}
+p155
+aV{2}{G}
+p156
+aV{4}{B}{B}
+p157
+aS'0'
+p158
+ag158
+aV{B}{G}
+p159
+aV{2}{G}
+p160
+aV{1}{R}
+p161
+aV{1}{B}
+p162
+aV{1}{W}
+p163
+aV{1}{W}
+p164
+asS'names'
+p165
+(lp166
+VSquallmonger
+p167
+aVSqueaking Pie Grubfellows
+p168
+aVSquee's Toy
+p169
+aVSquee, Goblin Nabob
+p170
+aVSqueeze
+p171
+aVSquallmonger
+p172
+aVSquall
+p173
+aVSquee, Goblin Nabob
+p174
+aVSquee, Goblin Nabob
+p175
+aVSquire
+p176
+aVSquee's Embrace
+p177
+aVSquee's Revenge
+p178
+aVSquelch
+p179
+aVSquirming Mass
+p180
+aVSquirrel Mob
+p181
+aVSquirrel Nest
+p182
+aVSquall Line
+p183
+aVSquall Drifter
+p184
+aVSquall
+p185
+aVSquirrel Wrangler
+p186
+aVSquall
+p187
+aVSquirrel Nest
+p188
+aVSquelching Leeches
+p189
+aVSquee
+p190
+aVSquee, Goblin Nabob Avatar
+p191
+aVSquandered Resources
+p192
+aVSquall
+p193
+aVSquealing Devil
+p194
+aVSqueaking Pie Sneak
+p195
+aVSquadron Hawk
+p196
+aVSquire
+p197
+asS'toughs'
+p198
+(lp199
+V3
+p200
+aV2
+p201
+aS'N/A'
+p202
+aV1
+p203
+ag202
+ag203
+ag202
+ag200
+ag203
+ag201
+ag202
+ag202
+ag202
+ag201
+ag203
+ag202
+ag202
+ag202
+ag202
+ag201
+ag202
+ag202
+aV7
+p204
+ag202
+ag202
+ag202
+ag202
+ag203
+ag201
+ag203
+ag201
+asS'artists'
+p205
+(lp206
+VHeather Hudson
+p207
+aVJim Pavelec
+p208
+aVHeather Hudson
+p209
+aVGreg Staples
+p210
+aVDiTerlizzi
+p211
+aVHeather Hudson
+p212
+aVVal Mayerik
+p213
+aVDavid Monette
+p214
+aS''
+p215
+aVDenise Detwiler
+p216
+aVRebecca Guay
+p217
+aVKev Walker
+p218
+aVMatt Cavotta
+p219
+aVRon Spencer
+p220
+aVCarl Critchlow
+p221
+aVAnthony S. Waters
+p222
+aVLars Grant-West
+p223
+aVJoel Thomas
+p224
+aVGreg Staples
+p225
+aVCarl Critchlow
+p226
+aVCarl Critchlow
+p227
+aVDaniel Ljunggren
+p228
+aVSvetlin Velinov
+p229
+aVDaniel Gelon
+p230
+aVUDON
+p231
+aVRomas Kukalis
+p232
+aVCarl Critchlow
+p233
+aVMatt Cavotta
+p234
+aVJeff Miracola
+p235
+aVRob Alexander
+p236
+aVDennis Detwiller
+p237
+asS'powers'
+p238
+(lp239
+g204
+ag200
+ag202
+ag203
+ag202
+ag203
+ag202
+ag200
+ag203
+ag201
+ag202
+ag202
+ag202
+ag201
+ag203
+ag202
+ag202
+ag202
+ag202
+ag201
+ag202
+ag202
+aV0
+p240
+ag202
+ag202
+ag202
+ag202
+ag201
+ag201
+ag203
+ag203
+asS'types'
+p241
+(lp242
+VCreature - Monger
+p243
+aVCreature - Goblin Shaman
+p244
+aVArtifact
+p245
+aVLegendary Creature - Goblin
+p246
+aVEnchantment
+p247
+aVCreature - Monger
+p248
+aVSorcery
+p249
+aVLegendary Creature - Goblin
+p250
+aVLegendary Creature - Goblin
+p251
+aVCreature - Human Soldier
+p252
+aVEnchantment - Aura
+p253
+aVSorcery
+p254
+aVInstant
+p255
+aVCreature - Horror
+p256
+aVCreature - Squirrel
+p257
+aVEnchantment - Aura
+p258
+aVInstant
+p259
+aVSnow Creature - Elemental
+p260
+aVSorcery
+p261
+aVCreature - Human Druid
+p262
+aVSorcery
+p263
+aVEnchantment - Aura
+p264
+aVCreature - Leech
+p265
+aVVanguard
+p266
+aVVanguard
+p267
+aVEnchantment
+p268
+aVSorcery
+p269
+aVCreature - Devil
+p270
+aVCreature - Goblin Rogue
+p271
+aVCreature - Bird
+p272
+aVCreature - Human Soldier
+p273
+asS'numbers'
+p274
+(lp275
+V173
+p276
+aV78
+p277
+aV30
+p278
+aV239
+p279
+aV105
+p280
+aV276
+p281
+aV275
+p282
+aV214
+p283
+ag215
+aV65
+p284
+aV122
+p285
+aV123
+p286
+aV92
+p287
+aV73
+p288
+aV273
+p289
+aV274
+p290
+aV222
+p291
+aV17
+p292
+aV271
+p293
+aV127
+p294
+aV143
+p295
+aV180
+p296
+aV84
+p297
+aV98
+p298
+aV71
+p299
+aV106
+p300
+aV168
+p301
+aV72
+p302
+aV142
+p303
+aV33
+p304
+aV15
+p305
+as.

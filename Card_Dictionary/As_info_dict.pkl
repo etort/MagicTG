@@ -1,0 +1,1902 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVRare
+p4
+aVRare
+p5
+aVUncommon
+p6
+aVUncommon
+p7
+aVRare
+p8
+aVUncommon
+p9
+aVUncommon
+p10
+aVUncommon
+p11
+aVRare
+p12
+aVCommon
+p13
+aVCommon
+p14
+aVRare
+p15
+aVCommon
+p16
+aVUncommon
+p17
+aVCommon
+p18
+aVCommon
+p19
+aVRare
+p20
+aVCommon
+p21
+aVRare
+p22
+aVCommon
+p23
+aVRare
+p24
+aVUncommon
+p25
+aVCommon
+p26
+aVUncommon
+p27
+aVCommon
+p28
+aVRare
+p29
+aVUncommon
+p30
+aVRare
+p31
+aVRare
+p32
+aVCommon
+p33
+aVCommon
+p34
+aVCommon
+p35
+aVCommon
+p36
+aVCommon
+p37
+aVUncommon
+p38
+aVCommon
+p39
+aVUncommon
+p40
+aVRare
+p41
+aVCommon
+p42
+aVUncommon
+p43
+aVUncommon
+p44
+aVCommon
+p45
+aVRare
+p46
+aVUncommon
+p47
+aVCommon
+p48
+aVRare
+p49
+aVRare
+p50
+aVUncommon
+p51
+aVUncommon
+p52
+aVRare
+p53
+aVUncommon
+p54
+aVUncommon
+p55
+aVCommon
+p56
+aVRare
+p57
+aVUncommon
+p58
+aVCommon
+p59
+aVRare
+p60
+aVUncommon
+p61
+aVUncommon
+p62
+aVCommon
+p63
+aVMythic Rare
+p64
+aVMythic Rare
+p65
+aVCommon
+p66
+aVCommon
+p67
+aVRare
+p68
+aVCommon
+p69
+aVCommon
+p70
+aVUncommon
+p71
+aVUncommon
+p72
+aVUncommon
+p73
+aVCommon
+p74
+aVCommon
+p75
+aVRare
+p76
+aVUncommon
+p77
+aVUncommon
+p78
+aVMythic Rare
+p79
+aVRare
+p80
+aVRare
+p81
+aVSpecial
+p82
+aVSpecial
+p83
+aVSpecial
+p84
+aVCommon
+p85
+aVRare
+p86
+aVRare
+p87
+aVUncommon
+p88
+aVCommon
+p89
+aVRare
+p90
+aVRare
+p91
+aVCommon
+p92
+aVCommon
+p93
+aVSpecial
+p94
+aVSpecial
+p95
+aVUncommon
+p96
+asS'editns'
+p97
+(lp98
+VMagic 2012
+p99
+aVLimited Edition Beta
+p100
+aVSaviors of Kamigawa
+p101
+aVFourth Edition
+p102
+aVFourth Edition
+p103
+aVFourth Edition
+p104
+aVAntiquities
+p105
+aVAntiquities
+p106
+aVAntiquities
+p107
+aVAlliances
+p108
+aVAlliances
+p109
+aVAlliances
+p110
+aVScars of Mirrodin
+p111
+aVScars of Mirrodin
+p112
+aVBorn of the Gods
+p113
+aVBorn of the Gods
+p114
+aVBorn of the Gods
+p115
+aVBorn of the Gods
+p116
+aVMagic 2010
+p117
+aVTenth Edition
+p118
+aVTenth Edition
+p119
+aVMercadian Masques
+p120
+aVVintage Masters
+p121
+aVThe Dark
+p122
+aVMasters Edition III
+p123
+aVMasters Edition III
+p124
+aVRevised Edition
+p125
+aVMasters Edition II
+p126
+aVMasters Edition II
+p127
+aVEventide
+p128
+aVConflux
+p129
+aVPlanechase 2012 Edition
+p130
+aVPlanechase 2012 Edition
+p131
+aVDuel Decks: Sorin vs. Tibalt
+p132
+aVOnslaught
+p133
+aVOnslaught
+p134
+aVChampions of Kamigawa
+p135
+aVBetrayers of Kamigawa
+p136
+aVOdyssey
+p137
+aVTime Spiral
+p138
+aVTime Spiral
+p139
+aVTime Spiral
+p140
+aVTime Spiral
+p141
+aVReturn to Ravnica
+p142
+aVReturn to Ravnica
+p143
+aVGatecrash
+p144
+aVGatecrash
+p145
+aVUnlimited Edition
+p146
+aVIce Age
+p147
+aVClassic Sixth Edition
+p148
+aVClassic Sixth Edition
+p149
+aVMirrodin
+p150
+aVDuel Decks: Elspeth vs. Tezzeret
+p151
+aVShadowmoor
+p152
+aVShadowmoor
+p153
+aVShadowmoor
+p154
+aVScourge
+p155
+aVPlanechase
+p156
+aVPlanechase
+p157
+aVPlanechase
+p158
+aVMasters Edition
+p159
+aVTheros
+p160
+aVTheros
+p161
+aVTheros
+p162
+aVMagic: The Gathering\u2014Conspiracy
+p163
+aVNemesis
+p164
+aVChronicles
+p165
+aVChronicles
+p166
+aVInvasion
+p167
+aVInvasion
+p168
+aVInvasion
+p169
+aVJourney into Nyx
+p170
+aVFifth Edition
+p171
+aVFifth Edition
+p172
+aVFifth Edition
+p173
+aVFifth Edition
+p174
+aVKhans of Tarkir
+p175
+aVMirage
+p176
+aVMirage
+p177
+aVVanguard
+p178
+aVVanguard
+p179
+aVVanguard
+p180
+aVInnistrad
+p181
+aVLimited Edition Alpha
+p182
+aVMasters Edition IV
+p183
+aVDragon's Maze
+p184
+aVDissension
+p185
+aVLorwyn
+p186
+aVLorwyn
+p187
+aVMagic 2011
+p188
+aVMagic 2011
+p189
+aVTime Spiral "Timeshifted"
+p190
+aVTime Spiral "Timeshifted"
+p191
+aVPortal
+p192
+asS'ids'
+p193
+(lp194
+V236449
+p195
+aV435
+p196
+aV87334
+p197
+aV2019
+p198
+aV2086
+p199
+aV2200
+p200
+aV994
+p201
+aV995
+p202
+aV996
+p203
+aV3042
+p204
+aV3043
+p205
+aV3044
+p206
+aV215082
+p207
+aV194119
+p208
+aV378431
+p209
+aV378489
+p210
+aV378432
+p211
+aV378529
+p212
+aV193745
+p213
+aV106525
+p214
+aV135194
+p215
+aV19761
+p216
+aV382850
+p217
+aV1728
+p218
+aV201250
+p219
+aV201218
+p220
+aV1235
+p221
+aV184601
+p222
+aV184760
+p223
+aV151137
+p224
+aV150826
+p225
+aV226526
+p226
+aV271218
+p227
+aV368476
+p228
+aV25879
+p229
+aV41148
+p230
+aV80509
+p231
+aV74469
+p232
+aV29965
+p233
+aV114905
+p234
+aV114916
+p235
+aV116740
+p236
+aV114918
+p237
+aV253623
+p238
+aV289216
+p239
+aV366337
+p240
+aV366470
+p241
+aV737
+p242
+aV2438
+p243
+aV11158
+p244
+aV15384
+p245
+aV49062
+p246
+aV226984
+p247
+aV142060
+p248
+aV146065
+p249
+aV153981
+p250
+aV45833
+p251
+aV205263
+p252
+aV205409
+p253
+aV-205409
+p254
+aV159110
+p255
+aV373689
+p256
+aV373500
+p257
+aV373631
+p258
+aV382215
+p259
+aV22897
+p260
+aV2776
+p261
+aV2777
+p262
+aV-20580
+p263
+aV20579
+p264
+aV20580
+p265
+aV380373
+p266
+aV3762
+p267
+aV3961
+p268
+aV3824
+p269
+aV3761
+p270
+aV386482
+p271
+aV3527
+p272
+aV3273
+p273
+aV182283
+p274
+aV191134
+p275
+aV12329
+p276
+aV233255
+p277
+aV140
+p278
+aV202622
+p279
+aV369016
+p280
+aV97107
+p281
+aV141822
+p282
+aV146595
+p283
+aV205217
+p284
+aV208296
+p285
+aV109704
+p286
+aV-109704
+p287
+aV4208
+p288
+asS'texts'
+p289
+(lp290
+VSpells you control can't be countered by blue or black spells this turn, and creatures you control can't be the targets of blue or black spells this turn.
+p291
+aVBasalt Monolith doesn't untap during your untap step.<br>{T}: Add {3} to your mana pool.<br>{3}: Untap Basalt Monolith.
+p292
+aVAs Ashes of the Fallen enters the battlefield, choose a creature type.<br>Each creature card in your graveyard has the chosen creature type in addition to its other types.
+p293
+aVYou may choose not to untap Ashnod's Battle Gear during your untap step.<br>{2}, {T}: Target creature you control gets +2/-2 for as long as Ashnod's Battle Gear remains tapped.
+p294
+aVExile two target nonartifact creatures. Ashes to Ashes deals 5 damage to you.
+p295
+aVBanding <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
+p296
+aVSacrifice a creature: Add {2} to your mana pool.
+p297
+aVYou may choose not to untap Ashnod's Battle Gear during your untap step.<br>{2}, {T}: Target creature you control gets +2/-2 for as long as Ashnod's Battle Gear remains tapped.
+p298
+aV{T}, Sacrifice Ashnod's Transmogrant: Put a +1/+1 counter on target nonartifact creature. That creature becomes an artifact in addition to its other types.
+p299
+aV{3}, {T}: Target player looks at the top three cards of his or her library, puts one of them back on top of his or her library, then exiles the rest.
+p300
+aV{1}, {T}, Sacrifice Astrolabe: Add two mana of any one color to your mana pool. Draw a card at the beginning of the next turn's upkeep.
+p301
+aVEnchant creature<br>Enchanted creature can't be blocked unless defending player pays {3} for each creature he or she controls that's blocking it.
+p302
+aVTarget creature gains double strike until end of turn. <i>(It deals both first-strike and regular combat damage.)</i>
+p303
+aVMetalcraft- Auriok Edgewright has double strike as long as you control three or more artifacts.
+p304
+aVHeroic- Whenever you cast a spell that targets Ashiok's Adept, each opponent discards a card.
+p305
+aVTarget creature gets +X/+X until end of turn, where X is your devotion to green. <i>(Each {G} in the mana costs of permanents you control counts toward your devotion to green.)</i>
+p306
+aVDestroy target untapped creature.
+p307
+aVAstral Cornucopia enters the battlefield with X charge counters on it.<br>{T}: Choose a color. Add one mana of that color to your mana pool for each charge counter on Astral Cornucopia.
+p308
+aVDestroy target tapped creature.
+p309
+aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i><br>Other black creatures get +1/+1. <br>Nonblack creatures get -1/-1.
+p310
+aVDestroy target land.
+p311
+aV{T}: Add {G} to your mana pool.<br><br>Sacrifice Horn of Ramos: Add {G} to your mana pool.
+p312
+aVWhenever a player cycles a card, you may exile target creature. If you do, return that card to the battlefield under its owner's control at the beginning of the next end step.
+p313
+aVTrample <i>(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</i><br>Haste <i>(This creature can attack and {T} as soon as it comes under your control.)</i><br>At the beginning of the end step, sacrifice Ball Lightning.
+p314
+aVExile two target nonartifact creatures. Ashes to Ashes deals 5 damage to you.
+p315
+aV{1}, {T}, Sacrifice Astrolabe: Add two mana of any one color to your mana pool. Draw a card at the beginning of the next turn's upkeep.
+p316
+aVBanding <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
+p317
+aVHaste<br>{B}: Return Ashen Ghoul from your graveyard to the battlefield. Activate this ability only during your upkeep and only if three or more creature cards are above Ashen Ghoul.
+p318
+aV{3}, {T}: Target player looks at the top three cards of his or her library, puts one of them back on top of his or her library, then exiles the rest.
+p319
+aVWhenever Ashling, the Extinguisher deals combat damage to a player, choose target creature that player controls. He or she sacrifices that creature.
+p320
+aVEnchant creature<br>Enchanted creature has flying, first strike, and vigilance.
+p321
+aVNo more than one creature can attack each combat.<br>No more than one creature can block each combat.<br>Whenever you roll chaos, Astral Arena deals 2 damage to each creature.
+p322
+aVDestroy target tapped creature.
+p323
+aVWhenever Ashmouth Hound blocks or becomes blocked by a creature, Ashmouth Hound deals 1 damage to that creature.
+p324
+aVFlying<br>Ascending Aven can block only creatures with flying.<br>Morph {2}{U} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p325
+aVWhenever a player cycles a card, you may exile target creature. If you do, return that card to the battlefield under its owner's control at the beginning of the next end step.
+p326
+aVVillainous Ogre can't block.<br>As long as you control a Demon, Villainous Ogre has "{B}: Regenerate Villainous Ogre."
+p327
+aVEquipped creature gets +2/+1.<br>Whenever a creature enters the battlefield under your control, attach Ronin Warclub to that creature.<br>Equip {5} <i>({5}: Attach to target creature you control. Equip only as a sorcery.)</i>
+p328
+aVTrample<br>Savage Firecat enters the battlefield with seven +1/+1 counters on it.<br>Whenever you tap a land for mana, remove a +1/+1 counter from Savage Firecat.
+p329
+aVFlash <i>(You may cast this spell any time you could cast an instant.)</i>
+p330
+aV{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.
+p331
+aVEnchant creature<br>Enchanted creature has shroud. <i>(It can't be the target of spells or abilities.)</i><br>When Aspect of Mongoose is put into a graveyard from the battlefield, return Aspect of Mongoose to its owner's hand.
+p332
+aVCounter target spell.
+p333
+aVFirst strike, haste<br>Whenever a player casts a spell from a graveyard, Ash Zealot deals 3 damage to that player.
+p334
+aVDestroy target creature. Its controller discards a card.
+p335
+aVFlying
+p336
+aVAt the beginning of your upkeep, put a muster counter on Assemble the Legion. Then put a 1/1 red and white Soldier creature token with haste onto the battlefield for each muster counter on Assemble the Legion.
+p337
+aVBasalt Monolith doesn't untap during your untap step.<br>{T}: Add {3} to your mana pool.<br>{3}: Untap Basalt Monolith.
+p338
+aVHaste<br>{B}: Return Ashen Ghoul from your graveyard to the battlefield. Activate this ability only during your upkeep and only if three or more creature cards are above Ashen Ghoul.
+p339
+aVSacrifice a creature: Add {2} to your mana pool.
+p340
+aVFlying
+p341
+aVWhenever an artifact is put into a graveyard from the battlefield, you may have target opponent lose 1 life.
+p342
+aV{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.
+p343
+aV{T}: Add one mana of any color to your mana pool.<br>{T}: Target creature becomes the color or colors of your choice until end of turn.
+p344
+aVPuncture Bolt deals 1 damage to target creature. Put a -1/-1 counter on that creature.
+p345
+aVHaste<br>{T}: Target black or red creature gains haste until end of turn.
+p346
+aVTarget creature gets +1/+2 until end of turn.<br>Storm <i>(When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)</i>
+p347
+aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i><br>Other black creatures get +1/+1. <br>Nonblack creatures get -1/-1.
+p348
+aVAssault deals 2 damage to target creature or player.<br>
+p349
+aV<br>Put a 3/3 green Elephant creature token onto the battlefield.
+p350
+aV{T}, Sacrifice Ashnod's Transmogrant: Put a +1/+1 counter on target nonartifact creature. That creature becomes an artifact in addition to its other types.
+p351
+aVFlying<br>When Ashen Rider enters the battlefield or dies, exile target permanent.
+p352
+aV+2: Exile the top three cards of target opponent's library.<br>-X: Put a creature card with converted mana cost X exiled with Ashiok, Nightmare Weaver onto the battlefield under your control. That creature is a Nightmare in addition to its other types.<br>-10: Exile all cards from all opponents' hands and graveyards.
+p353
+aV{2}{B}: Regenerate Asphodel Wanderer.
+p354
+aVDestroy target tapped creature.
+p355
+aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i><br>Other black creatures get +1/+1. <br>Nonblack creatures get -1/-1.
+p356
+aVBanding <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i><br>{T}: Counter target activated ability from an artifact source unless that ability's controller pays {W}. <i>(Mana abilities can't be targeted.)</i>
+p357
+aVFlying
+p358
+aV<br>Put a 3/3 green Elephant creature token onto the battlefield.
+p359
+aVAssault deals 2 damage to target creature or player.<br>
+p360
+aVAssault deals 2 damage to target creature or player.<br>
+p361
+aVEnchant creature<br>Enchanted creature gets +1/+3 and has deathtouch. <i>(Any amount of damage it deals to a creature is enough to destroy it.)</i>
+p362
+aV{T}, Sacrifice Ashnod's Transmogrant: Put a +1/+1 counter on target nonartifact creature. That creature becomes an artifact in addition to its other types.
+p363
+aVEnchant creature<br>Enchanted creature gets +X/+Y, where X is half the number of Forests you control, rounded down, and Y is half the number of Forests you control, rounded up.
+p364
+aVAt the beginning of combat on your turn, Battering Ram gains banding until end of combat. <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's blocking.)</i><br>Whenever Battering Ram becomes blocked by a Wall, destroy that Wall at end of combat.
+p365
+aVBanding <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
+p366
+aVWhenever Avalanche Tusker attacks, target creature defending player controls blocks it this combat if able.
+p367
+aVIslandwalk<br><br>At the beginning of your upkeep, you lose 2 life.
+p368
+aV{T}, Sacrifice a Swamp: Target creature gets +1/+1 until end of turn.<br>{T}, Sacrifice a creature: Target creature gets +2/+2 until end of turn.
+p369
+aV{2}: Ashling the Pilgrim Avatar deals 1 damage to each creature and each player.
+p370
+aV{5}: Destroy all nonland permanents. Activate this ability only once and only during your turn.
+p371
+aVWhenever a creature deals damage to you, destroy it.
+p372
+aVWhenever Ashmouth Hound blocks or becomes blocked by a creature, Ashmouth Hound deals 1 damage to that creature.
+p373
+aVEnchant creature<br>Enchanted creature has protection from blue. This effect doesn't remove Blue Ward.
+p374
+aVSacrifice an artifact: Atog gets +2/+2 until end of turn.
+p375
+aVTarget player sacrifices a creature.<br>Fuse <i>(You may cast one or both halves of this card from your hand.)</i>
+p376
+aVFlying, trample
+p377
+aV{1}{R}: Put a +1/+1 counter on Ashling the Pilgrim. If this is the third time this ability has resolved this turn, remove all +1/+1 counters from Ashling the Pilgrim, and it deals that much damage to each creature and each player.
+p378
+aVBlind-Spot Giant can't attack or block unless you control another Giant.
+p379
+aVFlying
+p380
+aVFlying<br>When Augury Owl enters the battlefield, scry 3. <i>(To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</i>
+p381
+aS''
+p382
+ag382
+aVCast Assassin's Blade only during the declare attackers step and only if you've been attacked this step.<br>Destroy target nonblack attacking creature.
+p383
+asS'costs'
+p384
+(lp385
+V{3}{W}
+p386
+aV{1}{G}
+p387
+aV{2}
+p388
+aV{2}
+p389
+aV{1}{B}{B}
+p390
+aV{1}{G}
+p391
+aV{3}
+p392
+aV{2}
+p393
+aV{1}
+p394
+aV{2}
+p395
+aV{3}
+p396
+aV{3}
+p397
+aV{3}{G}{G}
+p398
+aV{R}
+p399
+aV{2}{B}
+p400
+aV{G}
+p401
+aV{1}{B}{B}
+p402
+aV{X}{X}{X}
+p403
+aV{3}{W}
+p404
+aV{4}{B}{B}
+p405
+aV{2}{B}
+p406
+aV{5}
+p407
+aV{2}{W}
+p408
+aV{1}{B}{B}
+p409
+aV{1}{B}{B}
+p410
+aV{3}
+p411
+aV{1}{G}
+p412
+aV{3}{B}
+p413
+aV{2}
+p414
+aV{2}{B}{B}
+p415
+aV{2}{W}
+p416
+aS'0'
+p417
+aV{2}{B}
+p418
+aV{1}{R}
+p419
+aV{2}{U}{U}
+p420
+aV{2}{W}
+p421
+aV{1}{B}
+p422
+aV{5}{R}{R}
+p423
+aV{6}{R}{R}
+p424
+aV{1}{G}
+p425
+aV{3}
+p426
+aV{1}{G}
+p427
+aV{2}{B}
+p428
+aV{R}{R}
+p429
+aV{4}{B}{B}
+p430
+aV{3}{W}
+p431
+aV{3}{R}{W}
+p432
+aV{1}{G}
+p433
+aV{3}{B}
+p434
+aV{3}
+p435
+aV{2}{B}{B}
+p436
+aV{5}{U}{U}
+p437
+aV{3}
+p438
+aV{5}{B}
+p439
+aV{1}{B/R}{B/R}{B/R}
+p440
+aV{B/R}{B/R}{B/R}
+p441
+aV{2}{W}
+p442
+aV{4}{B}{B}
+p443
+aV{R}
+p444
+aV{3}{G}
+p445
+aV{1}
+p446
+aV{4}{W}{W}{B}{B}
+p447
+ag417
+aV{1}{U}{B}
+p448
+aV{2}{B}
+p449
+aV{4}{B}{B}
+p450
+aV{3}
+p451
+aV{1}
+p452
+aV{3}{G}
+p453
+aV{R}
+p454
+aV{R}
+p455
+aV{2}
+p456
+aV{1}
+p457
+aV{1}{G}
+p458
+aV{1}{B}{B}
+p459
+aV{3}
+p460
+aV{2}{R}{R}
+p461
+aV{2}{G}{W}
+p462
+aV{2}{B}{B}
+p463
+ag417
+ag417
+ag417
+aV{1}{R}
+p464
+aV{1}{G}
+p465
+aV{3}
+p466
+aV{2}{W}{U}
+p467
+aV{2}{G}{U}
+p468
+aV{G}
+p469
+aV{2}{B}{B}
+p470
+aV{4}{U}
+p471
+aV{2}{B}
+p472
+aV{R}
+p473
+aV{3}{G}
+p474
+aV{1}{B}
+p475
+asS'names'
+p476
+(lp477
+VAssault Griffin
+p478
+aVAspect of Wolf
+p479
+aVAshes of the Fallen
+p480
+aVAshnod's Battle Gear
+p481
+aVAshes to Ashes
+p482
+aVAspect of Wolf
+p483
+aVAshnod's Altar
+p484
+aVAshnod's Battle Gear
+p485
+aVAshnod's Transmogrant
+p486
+aVAshnod's Cylix
+p487
+aVAstrolabe
+p488
+aVAstrolabe
+p489
+aVAsceticism
+p490
+aVAssault Strobe
+p491
+aVAshiok's Adept
+p492
+aVAspect of Hydra
+p493
+aVAsphyxiate
+p494
+aVAstral Cornucopia
+p495
+aVAssassinate
+p496
+aVAscendant Evincar
+p497
+aVAssassinate
+p498
+aVAssembly Hall
+p499
+aVAstral Slide
+p500
+aVAshes to Ashes
+p501
+aVAshes to Ashes
+p502
+aVAstrolabe
+p503
+aVAspect of Wolf
+p504
+aVAshen Ghoul
+p505
+aVAshnod's Cylix
+p506
+aVAshling, the Extinguisher
+p507
+aVAsha's Favor
+p508
+aVAstral Arena
+p509
+aVAssassinate
+p510
+aVAshmouth Hound
+p511
+aVAscending Aven
+p512
+aVAstral Slide
+p513
+aVAshen-Skin Zubera
+p514
+aVAshen Monstrosity
+p515
+aVAshen Firebeast
+p516
+aVAshcoat Bear
+p517
+aVAssembly-Worker
+p518
+aVAspect of Mongoose
+p519
+aVAssassinate
+p520
+aVAsh Zealot
+p521
+aVAssassin's Strike
+p522
+aVAssault Griffin
+p523
+aVAssemble the Legion
+p524
+aVAspect of Wolf
+p525
+aVAshen Ghoul
+p526
+aVAshnod's Altar
+p527
+aVAshen Powder
+p528
+aVAssert Authority
+p529
+aVAssembly-Worker
+p530
+aVAshenmoor Cohort
+p531
+aVAshenmoor Liege
+p532
+aVAshenmoor Gouger
+p533
+aVAstral Steel
+p534
+aVAscendant Evincar
+p535
+aVAssault // Battery (Assault)
+p536
+aVAssault // Battery (Battery)
+p537
+aVAshnod's Transmogrant
+p538
+aVAshen Rider
+p539
+aVAshiok, Nightmare Weaver
+p540
+aVAsphodel Wanderer
+p541
+aVAssassinate
+p542
+aVAscendant Evincar
+p543
+aVAshnod's Altar
+p544
+aVAshnod's Transmogrant
+p545
+aVAssault // Battery (Battery)
+p546
+aVAssault // Battery (Assault)
+p547
+aVAssault // Battery (Assault)
+p548
+aVAspect of Gorgon
+p549
+aVAshnod's Transmogrant
+p550
+aVAspect of Wolf
+p551
+aVAshes to Ashes
+p552
+aVAshnod's Altar
+p553
+aVAshcloud Phoenix
+p554
+aVAsmira, Holy Avenger
+p555
+aVAshen Powder
+p556
+aVAshling the Pilgrim Avatar
+p557
+aVAshling, the Extinguisher Avatar
+p558
+aVAshnod
+p559
+aVAshmouth Hound
+p560
+aVAspect of Wolf
+p561
+aVAshnod's Altar
+p562
+aVAscended Lawmage
+p563
+aVAssault Zeppelid
+p564
+aVAshling the Pilgrim
+p565
+aVAshling's Prerogative
+p566
+aVAssassinate
+p567
+aVAssault Griffin
+p568
+aVAssault // Battery (Assault)
+p569
+aVAssault // Battery (Battery)
+p570
+aVAssassin's Blade
+p571
+asS'toughs'
+p572
+(lp573
+V3
+p574
+aS'N/A'
+p575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+aV2
+p576
+ag575
+ag575
+ag575
+ag575
+ag574
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag574
+ag575
+aV4
+p577
+ag575
+ag575
+ag575
+aV1
+p578
+ag576
+ag575
+ag576
+ag577
+ag578
+aV5
+p579
+ag575
+ag575
+ag575
+ag576
+ag575
+ag578
+ag575
+ag575
+ag574
+ag575
+ag575
+ag575
+ag575
+ag578
+ag578
+ag578
+ag575
+aV0
+p580
+ag575
+ag575
+ag575
+ag578
+ag575
+ag578
+ag575
+ag579
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag578
+ag576
+ag575
+ag575
+ag575
+ag575
+ag578
+ag575
+ag575
+ag576
+ag576
+ag578
+ag575
+ag575
+ag579
+ag575
+ag575
+ag575
+asS'artists'
+p581
+(lp582
+g382
+aVJeff A. Menges
+p583
+aVDan Frazier
+p584
+aVMark Poole
+p585
+aVDrew Tucker
+p586
+aVJeff A. Menges
+p587
+aVAnson Maddocks
+p588
+aVMark Poole
+p589
+aVMark Tedin
+p590
+aVNicola Leonard
+p591
+aVAmy Weber
+p592
+aVAmy Weber
+p593
+aVDaarken
+p594
+aVKev Walker
+p595
+aVKarla Ortiz
+p596
+aVMark Winters
+p597
+aVKev Walker
+p598
+aVAleksi Briclot
+p599
+aVKev Walker
+p600
+aVMark Zug
+p601
+aVKev Walker
+p602
+aVVal Mayerik
+p603
+aVRon Spears
+p604
+aVDrew Tucker
+p605
+aVAmy Weber
+p606
+aVScott Kirschner
+p607
+aVJeff A. Menges
+p608
+aVRon Spencer
+p609
+aVNicola Leonard
+p610
+aVWayne Reynolds
+p611
+aVDonato Giancola
+p612
+aVMartina Pilcerova
+p613
+ag382
+aVDaarken
+p614
+aVRon Spencer
+p615
+aVRon Spears
+p616
+aVWayne Reynolds
+p617
+aVChris Appelhans
+p618
+aVMark Tedin
+p619
+aVCarl Critchlow
+p620
+aVChippy
+p621
+aVDave Dorman
+p622
+aVKev Walker
+p623
+aVEric Deschamps
+p624
+aVChase Stone
+p625
+aVEric Velhagen
+p626
+aVEric Deschamps
+p627
+aVJeff A. Menges
+p628
+aVRon Spencer
+p629
+aVAnson Maddocks
+p630
+aVGeofrey Darrow
+p631
+aVGreg Hildebrandt
+p632
+aVChippy
+p633
+aVLucio Parrillo
+p634
+aVMark Zug
+p635
+aVMatt Cavotta
+p636
+aVMatt Cavotta
+p637
+aVMark Zug
+p638
+aVBen Thompson
+p639
+aVBen Thompson
+p640
+aVMark Tedin
+p641
+aVChris Rahn
+p642
+aVKarla Ortiz
+p643
+aVScott Chou
+p644
+aVKev Walker
+p645
+aVMark Zug
+p646
+aVAnson Maddocks
+p647
+aVMark Tedin
+p648
+aVBen Thompson
+p649
+aVBen Thompson
+p650
+aVBen Thompson
+p651
+aVWillian Murai
+p652
+aVMark Tedin
+p653
+aVJanine Johnston
+p654
+aVDoug Keith
+p655
+aVAnson Maddocks
+p656
+aVHoward Lyon
+p657
+aVRebecca Guay
+p658
+aVGeofrey Darrow
+p659
+aVUDON
+p660
+aVUDON
+p661
+aVRon Spencer
+p662
+aVDaarken
+p663
+aVJeff A. Menges
+p664
+aVAnson Maddocks
+p665
+aVRyan Yee
+p666
+aVJeremy Jarvis
+p667
+aVWayne Reynolds
+p668
+aVWarren Mahy
+p669
+aVKev Walker
+p670
+aVJesper Ejsing
+p671
+ag382
+ag382
+aVJohn Matson
+p672
+asS'powers'
+p673
+(lp674
+g576
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag574
+ag575
+ag575
+ag575
+ag575
+ag574
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag576
+ag575
+ag577
+ag575
+ag575
+ag575
+ag576
+ag574
+ag575
+ag578
+aV7
+p675
+ag578
+ag574
+ag575
+ag575
+ag575
+ag576
+ag575
+ag576
+ag575
+ag575
+ag574
+ag575
+ag575
+ag575
+ag575
+ag578
+ag578
+ag576
+ag575
+ag580
+ag575
+ag575
+ag575
+ag576
+ag575
+ag578
+ag575
+ag574
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag575
+ag577
+ag576
+ag575
+ag575
+ag575
+ag575
+ag576
+ag575
+ag575
+ag574
+ag576
+ag578
+ag575
+ag575
+ag574
+ag575
+ag575
+ag575
+asS'types'
+p676
+(lp677
+VCreature - Griffin
+p678
+aVEnchantment - Aura
+p679
+aVArtifact
+p680
+aVArtifact
+p681
+aVSorcery
+p682
+aVEnchantment - Aura
+p683
+aVArtifact
+p684
+aVArtifact
+p685
+aVArtifact
+p686
+aVArtifact
+p687
+aVArtifact
+p688
+aVArtifact
+p689
+aVEnchantment
+p690
+aVSorcery
+p691
+aVCreature - Human Wizard
+p692
+aVInstant
+p693
+aVSorcery
+p694
+aVArtifact
+p695
+aVSorcery
+p696
+aVLegendary Creature - Vampire
+p697
+aVSorcery
+p698
+aVArtifact
+p699
+aVEnchantment
+p700
+aVSorcery
+p701
+aVSorcery
+p702
+aVArtifact
+p703
+aVEnchantment - Aura
+p704
+aVCreature - Zombie
+p705
+aVArtifact
+p706
+aVLegendary Creature - Elemental Shaman
+p707
+aVEnchantment - Aura
+p708
+aVPlane - Kolbahan
+p709
+aVSorcery
+p710
+aVCreature - Elemental Hound
+p711
+aVCreature - Bird Soldier
+p712
+aVEnchantment
+p713
+aVCreature - Zubera Spirit
+p714
+aVCreature - Spirit
+p715
+aVCreature - Elemental Beast
+p716
+aVCreature - Bear
+p717
+aVArtifact Creature - Assembly-Worker
+p718
+aVEnchantment - Aura
+p719
+aVSorcery
+p720
+aVCreature - Human Warrior
+p721
+aVSorcery
+p722
+aVCreature - Griffin
+p723
+aVEnchantment
+p724
+aVEnchantment - Aura
+p725
+aVCreature - Zombie
+p726
+aVArtifact
+p727
+aVSorcery
+p728
+aVInstant
+p729
+aVArtifact Creature - Assembly-Worker
+p730
+aVCreature - Elemental Warrior
+p731
+aVCreature - Elemental Knight
+p732
+aVCreature - Elemental Warrior
+p733
+aVInstant
+p734
+aVLegendary Creature - Vampire
+p735
+aVSorcery
+p736
+aVSorcery
+p737
+aVArtifact
+p738
+aVCreature - Archon
+p739
+aVPlaneswalker - Ashiok
+p740
+aVCreature - Skeleton Soldier
+p741
+aVSorcery
+p742
+aVLegendary Creature - Vampire
+p743
+aVArtifact
+p744
+aVArtifact
+p745
+aVSorcery
+p746
+aVSorcery
+p747
+aVSorcery
+p748
+aVEnchantment - Aura
+p749
+aVArtifact
+p750
+aVEnchantment - Aura
+p751
+aVSorcery
+p752
+aVArtifact
+p753
+aVCreature - Phoenix
+p754
+aVLegendary Creature - Human Cleric
+p755
+aVSorcery
+p756
+aVVanguard
+p757
+aVVanguard
+p758
+aVVanguard
+p759
+aVCreature - Elemental Hound
+p760
+aVEnchantment - Aura
+p761
+aVArtifact
+p762
+aVCreature - Vedalken Wizard
+p763
+aVCreature - Beast
+p764
+aVLegendary Creature - Elemental Shaman
+p765
+aVEnchantment
+p766
+aVSorcery
+p767
+aVCreature - Griffin
+p768
+aVSorcery
+p769
+aVSorcery
+p770
+aVInstant
+p771
+asS'numbers'
+p772
+(lp773
+V8
+p774
+aV23
+p775
+aV152
+p776
+ag574
+aV48
+p777
+aV150
+p778
+aV39
+p779
+aV40
+p780
+aV41
+p781
+ag576
+ag574
+aV129
+p782
+aV110
+p783
+aV82
+p784
+aV59
+p785
+aV117
+p786
+aV60
+p787
+aV157
+p788
+aV84
+p789
+aV127
+p790
+aV128
+p791
+aV286
+p792
+aV13
+p793
+aV75
+p794
+aV58
+p795
+aV189
+p796
+aV59
+p797
+aV78
+p798
+aV203
+p799
+aV33
+p800
+ag576
+ag574
+aV45
+p801
+aV45
+p802
+aV68
+p803
+ag577
+aV101
+p804
+aV93
+p805
+aV174
+p806
+aV190
+p807
+aV248
+p808
+aV191
+p809
+aV95
+p810
+aV86
+p811
+aV57
+p812
+aVx
+p813
+aV142
+p814
+aV28
+p815
+aV32
+p816
+aV274
+p817
+aV112
+p818
+aV30
+p819
+aV45
+p820
+aV56
+p821
+aV181
+p822
+aV180
+p823
+ag576
+aV17
+p824
+aV103
+p825
+aV103
+p826
+aV152
+p827
+aV187
+p828
+aV188
+p829
+aV77
+p830
+aV113
+p831
+aV51
+p832
+aV48
+p833
+aV49
+p834
+aV295
+p835
+aV295
+p836
+aV295
+p837
+aV60
+p838
+ag574
+aV93
+p839
+aV208
+p840
+aV209
+p841
+aV99
+p842
+aV203
+p843
+aV247
+p844
+aV73
+p845
+aV81
+p846
+aV6
+p847
+aV128
+p848
+aV96
+p849
+aV181
+p850
+aV53
+p851
+aV103
+p852
+aV149
+p853
+aV150
+p854
+aV81
+p855
+ag847
+ag382
+ag382
+ag576
+as.

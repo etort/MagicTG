@@ -1,0 +1,1043 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVCommon
+p4
+aVUncommon
+p5
+aVRare
+p6
+aVCommon
+p7
+aVRare
+p8
+aVCommon
+p9
+aVCommon
+p10
+aVRare
+p11
+aVRare
+p12
+aVCommon
+p13
+aVUncommon
+p14
+aVCommon
+p15
+aVRare
+p16
+aVCommon
+p17
+aVCommon
+p18
+aVUncommon
+p19
+aVRare
+p20
+aVUncommon
+p21
+aVCommon
+p22
+aVRare
+p23
+aVUncommon
+p24
+aVRare
+p25
+aVCommon
+p26
+aVCommon
+p27
+aVCommon
+p28
+aVUncommon
+p29
+aVUncommon
+p30
+aVCommon
+p31
+aVCommon
+p32
+aVUncommon
+p33
+aVUncommon
+p34
+aVRare
+p35
+aVUncommon
+p36
+aVUncommon
+p37
+aVUncommon
+p38
+aVRare
+p39
+aVUncommon
+p40
+aVCommon
+p41
+aVRare
+p42
+aVCommon
+p43
+aVCommon
+p44
+aVCommon
+p45
+aVCommon
+p46
+aVUncommon
+p47
+aVUncommon
+p48
+aVUncommon
+p49
+aVCommon
+p50
+aVUncommon
+p51
+aVCommon
+p52
+aVRare
+p53
+asS'editns'
+p54
+(lp55
+VMagic: The Gathering-Commander
+p56
+aVMagic 2012
+p57
+aVMagic 2012
+p58
+aVLimited Edition Beta
+p59
+aVMagic 2013
+p60
+aVFourth Edition
+p61
+aVMagic 2010
+p62
+aVApocalypse
+p63
+aVMasters Edition III
+p64
+aVRevised Edition
+p65
+aVNinth Edition
+p66
+aVNinth Edition
+p67
+aVConflux
+p68
+aVChampions of Kamigawa
+p69
+aVOdyssey
+p70
+aVOdyssey
+p71
+aVOdyssey
+p72
+aVOdyssey
+p73
+aVOdyssey
+p74
+aVColdsnap
+p75
+aVUnlimited Edition
+p76
+aVTorment
+p77
+aVClassic Sixth Edition
+p78
+aVMagic 2015 Core Set
+p79
+aVRise of the Eldrazi
+p80
+aVScourge
+p81
+aVFuture Sight
+p82
+aVLegions
+p83
+aVWeatherlight
+p84
+aVMagic: The Gathering\u2014Conspiracy
+p85
+aVEighth Edition
+p86
+aVPremium Deck Series: Graveborn
+p87
+aVFifth Edition
+p88
+aVArchenemy
+p89
+aVArchenemy
+p90
+aVMirage
+p91
+aVLimited Edition Alpha
+p92
+aVMasters Edition IV
+p93
+aVPortal Three Kingdoms
+p94
+aVPortal Three Kingdoms
+p95
+aVPortal Three Kingdoms
+p96
+aVPortal Three Kingdoms
+p97
+aVPortal Three Kingdoms
+p98
+aVPortal Three Kingdoms
+p99
+aVPortal Three Kingdoms
+p100
+aVPortal Three Kingdoms
+p101
+aVPortal Three Kingdoms
+p102
+aVPortal Three Kingdoms
+p103
+aVPortal Three Kingdoms
+p104
+aVPortal Three Kingdoms
+p105
+aVDark Ascension
+p106
+asS'ids'
+p107
+(lp108
+V247274
+p109
+aV226558
+p110
+aV241860
+p111
+aV388
+p112
+aV276299
+p113
+aV2141
+p114
+aV190545
+p115
+aV26801
+p116
+aV201313
+p117
+aV1188
+p118
+aV83237
+p119
+aV83342
+p120
+aV185138
+p121
+aV80274
+p122
+aV29732
+p123
+aV29735
+p124
+aV29957
+p125
+aV29984
+p126
+aV29847
+p127
+aV121154
+p128
+aV690
+p129
+aV34819
+p130
+aV14599
+p131
+aV383443
+p132
+aV193543
+p133
+aV43515
+p134
+aV132215
+p135
+aV42270
+p136
+aV4475
+p137
+aV382414
+p138
+aV45318
+p139
+aV270454
+p140
+aV3890
+p141
+aV220579
+p142
+aV220580
+p143
+aV3322
+p144
+aV93
+p145
+aV202440
+p146
+aV10506
+p147
+aV10510
+p148
+aV10534
+p149
+aV10540
+p150
+aV10564
+p151
+aV10582
+p152
+aV10586
+p153
+aV10594
+p154
+aV10598
+p155
+aV10608
+p156
+aV10636
+p157
+aV10558
+p158
+aV262669
+p159
+asS'texts'
+p160
+(lp161
+V{T}: Add {1} to your mana pool.<br>Morph {2} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p162
+aS''
+p163
+ag163
+ag163
+aVDestroy target land.
+p164
+ag163
+aVB
+p165
+aV{1}{B}: Choose a color. Whenever Zombie Boa becomes blocked by a creature of that color this turn, destroy that creature. Activate this ability only any time you could cast a sorcery.
+p166
+ag163
+ag163
+aVGoblin Brigand attacks each turn if able.
+p167
+ag163
+ag163
+aVWhen Iname, Death Aspect enters the battlefield, you may search your library for any number of Spirit cards and put them into your graveyard. If you do, shuffle your library.
+p168
+aV{T}, Exile two cards from your graveyard and Zombie Assassin: Destroy target nonblack creature. It can't be regenerated.
+p169
+aVWhenever Zombie Cannibal deals combat damage to a player, you may exile target card from that player's graveyard.
+p170
+aVAs an additional cost to cast Skeletal Scrying, exile X cards from your graveyard.<br>You draw X cards and you lose X life.
+p171
+aVTap an untapped Druid you control: Add {G} to your mana pool.
+p172
+ag163
+aVSnow landwalk<br>{snow}: Regenerate Zombie Musher. <i>({snow} can be paid with one mana from a snow permanent.)</i>
+p173
+ag163
+aVTap an untapped Zombie you control: Target land becomes a Swamp until end of turn.<br>Tap an untapped Zombie you control: Target creature gains swampwalk until end of turn.
+p174
+aVSpitting Earth deals damage to target creature equal to the number of Mountains you control.
+p175
+ag163
+aVG
+p176
+aVMorph\u2014Pay 5 life. <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p177
+aVConvoke <i>(Each creature you tap while casting this spell reduces its total cost by {1} or by one mana of that creature's color.)</i><br>Kicker {4} <i>(You may pay an additional {4} as you cast this spell.)</i><br>If Kavu Primarch was kicked, it enters the battlefield with four +1/+1 counters on it.
+p178
+aVAmplify 1 <i>(As this creature enters the battlefield, put a +1/+1 counter on it for each Zombie card you reveal in your hand.)</i><br>Trample
+p179
+aVExile the top creature card of your graveyard: Regenerate Zombie Scavengers.
+p180
+ag163
+aV{B}{B}, {T}: Destroy target white creature.
+p181
+aVDiscard two cards: Put a 2/2 black Zombie creature token onto the battlefield.
+p182
+ag163
+aVReturn target creature card from your graveyard to the battlefield.
+p183
+aVTarget creature gets +2/+2 until end of turn.<br>
+p184
+aVZombie Mob enters the battlefield with a +1/+1 counter on it for each creature card in your graveyard.<br>When Zombie Mob enters the battlefield, exile all creature cards from your graveyard.
+p185
+ag163
+ag163
+aVWhen Zodiac Dragon is put into your graveyard from the battlefield, you may return it to your hand.
+p186
+aVCreatures you control have horsemanship. <i>(They can't be blocked except by creatures with horsemanship.)</i>
+p187
+aVDraw four cards, then discard three cards at random.
+p188
+aVDestroy target nonblack creature.
+p189
+aVWhenever Trained Cheetah becomes blocked, it gets +1/+1 until end of turn.
+p190
+aVWhenever Slashing Tiger becomes blocked, it gets +2/+2 until end of turn.
+p191
+aVCreatures you control get +1/+1 until end of turn.
+p192
+aVRockslide Ambush deals damage to target creature equal to the number of Mountains you control.
+p193
+aVHorsemanship <i>(This creature can't be blocked except by creatures with horsemanship.)</i>
+p194
+aV{T}: You gain 1 life. Activate this ability only during your turn, before attackers are declared.
+p195
+aVSearch your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.
+p196
+ag163
+ag163
+asS'costs'
+p197
+(lp198
+S'0'
+p199
+aV{2}{B}
+p200
+aV{5}{R}
+p201
+aV{1}{B}{B}
+p202
+aV{1}{B}
+p203
+aV{1}{B}{B}
+p204
+aV{X}{G}
+p205
+aV{4}{B}
+p206
+aV{7}{R}{R}
+p207
+aV{1}{B}{B}
+p208
+aV{1}{G}
+p209
+aV{3}{B}
+p210
+aV{1}{B}
+p211
+aV{1}{R}{R}
+p212
+aV{4}{B}
+p213
+aV{B}
+p214
+aV{1}{B}
+p215
+aV{3}{G}
+p216
+aV{3}{B}
+p217
+aV{3}{B}
+p218
+aV{1}{B}{B}
+p219
+aV{B}{B}{B}
+p220
+aV{1}{B}{B}
+p221
+aV{1}{B}
+p222
+aV{3}{R}{R}
+p223
+aV{3}{B}{B}
+p224
+ag199
+aV{6}{B}
+p225
+aV{2}{B}
+p226
+aV{1}{G}
+p227
+aV{3}{B}
+p228
+aV{1}{B}
+p229
+aV{1}{B}{B}
+p230
+aV{1}{B}
+p231
+aV{3}{B}
+p232
+aV{2}{B}{B}
+p233
+aV{1}{B}{B}
+p234
+aV{1}{B}{B}
+p235
+aV{1}{G}
+p236
+aV{7}{R}{R}
+p237
+aV{2}{R}
+p238
+aV{R}
+p239
+aV{B}
+p240
+aV{G}
+p241
+aV{3}{B}
+p242
+aV{2}{G}{G}
+p243
+aV{3}{G}
+p244
+aV{2}{B}
+p245
+aV{3}{G}
+p246
+aV{1}{G}
+p247
+aV{G}
+p248
+asS'names'
+p249
+(lp250
+VZoetic Cavern
+p251
+aVZombie Goliath
+p252
+aVZombie Infestation
+p253
+aVZombie Master
+p254
+aVZombie Goliath
+p255
+aVZombie Master
+p256
+aVZombie Goliath
+p257
+aVZombie Boa
+p258
+aVZodiac Dragon
+p259
+aVZombie Master
+p260
+aVZodiac Monkey
+p261
+aVZombify
+p262
+aVZombie Outlander
+p263
+aVZo-Zu the Punisher
+p264
+aVZombie Assassin
+p265
+aVZombie Cannibal
+p266
+aVZombie Infestation
+p267
+aVZoologist
+p268
+aVZombify
+p269
+aVZombie Musher
+p270
+aVZombie Master
+p271
+aVZombie Trailblazer
+p272
+aVZombie Master
+p273
+aVZof Shade
+p274
+aVZof Shade
+p275
+aVZombie Cutthroat
+p276
+aVZoetic Cavern
+p277
+aVZombie Brute
+p278
+aVZombie Scavengers
+p279
+aVZombie Goliath
+p280
+aVZombify
+p281
+aVZombie Infestation
+p282
+aVZombie Master
+p283
+aVZombie Infestation
+p284
+aVZombify
+p285
+aVZombie Mob
+p286
+aVZombie Master
+p287
+aVZombie Master
+p288
+aVZodiac Rooster
+p289
+aVZodiac Dragon
+p290
+aVZodiac Dog
+p291
+aVZodiac Goat
+p292
+aVZodiac Rat
+p293
+aVZodiac Rabbit
+p294
+aVZodiac Pig
+p295
+aVZodiac Tiger
+p296
+aVZodiac Horse
+p297
+aVZodiac Snake
+p298
+aVZodiac Ox
+p299
+aVZodiac Monkey
+p300
+aVZombie Apocalypse
+p301
+asS'toughs'
+p302
+(lp303
+S'N/A'
+p304
+aV6
+p305
+ag304
+aV3
+p306
+aV1
+p307
+aV2
+p308
+aV7
+p309
+ag306
+aV4
+p310
+aV8
+p311
+ag306
+ag304
+ag306
+ag308
+ag308
+ag307
+ag304
+aV*
+p312
+ag304
+ag304
+ag306
+ag308
+ag306
+aV0
+p313
+ag306
+ag310
+ag304
+ag310
+ag308
+ag305
+ag304
+ag304
+ag311
+ag304
+ag304
+ag307
+ag311
+ag306
+ag307
+ag311
+ag308
+ag307
+ag307
+ag307
+ag306
+ag310
+ag306
+ag308
+ag306
+ag307
+ag304
+asS'artists'
+p314
+(lp315
+VLars Grant-West
+p316
+ag163
+ag163
+aVJeff A. Menges
+p317
+aVE. M. Gist
+p318
+aVJeff A. Menges
+p319
+aVE. M. Gist
+p320
+aVGreg Staples
+p321
+ag163
+aVJeff A. Menges
+p322
+aVRichard Sardinha
+p323
+aVMark Romanoski
+p324
+aVNils Hamm
+p325
+aVMatt Cavotta
+p326
+aVPete Venters
+p327
+aVAdam Rex
+p328
+aVThomas M. Baxa
+p329
+aVAlex Horley-Orlandelli
+p330
+aVMark Romanoski
+p331
+aVKev Walker
+p332
+aVJeff A. Menges
+p333
+aVBrian Snoddy
+p334
+aVJeff A. Menges
+p335
+aVJason A. Engle
+p336
+aVJason A. Engle
+p337
+aVThomas M. Baxa
+p338
+aVLars Grant-West
+p339
+aVGreg Hildebrandt
+p340
+aVPatrick Kochakji
+p341
+aVE. M. Gist
+p342
+aVMark Romanoski
+p343
+ag163
+aVStuart Griffin
+p344
+aVThomas M. Baxa
+p345
+aVMark Romanoski
+p346
+aVTerese Nielsen
+p347
+aVJeff A. Menges
+p348
+aVJeff A. Menges
+p349
+aVAi Desheng
+p350
+aVQi Baocheng
+p351
+aVQi Baocheng
+p352
+aVQi Baocheng
+p353
+aVQi Baocheng
+p354
+aVAi Desheng
+p355
+aVQi Baocheng
+p356
+aVAi Desheng
+p357
+aVAi Desheng
+p358
+aVQi Baocheng
+p359
+aVAi Desheng
+p360
+aVAi Desheng
+p361
+ag163
+asS'powers'
+p362
+(lp363
+g304
+aV5
+p364
+ag304
+ag308
+ag310
+ag308
+ag307
+ag308
+ag310
+ag313
+ag313
+ag304
+ag310
+ag308
+ag306
+ag307
+ag304
+ag312
+ag304
+ag304
+ag308
+ag308
+ag308
+ag313
+ag313
+ag306
+ag304
+ag364
+ag308
+ag307
+ag304
+ag304
+ag313
+ag304
+ag304
+ag307
+ag313
+ag308
+ag308
+ag311
+ag308
+ag307
+ag307
+ag307
+ag306
+ag306
+ag306
+ag308
+ag306
+ag308
+ag304
+asS'types'
+p365
+(lp366
+VLand
+p367
+aVCreature - Zombie Giant
+p368
+aVEnchantment
+p369
+aVCreature - Zombie
+p370
+aVCreature - Zombie Giant
+p371
+aVCreature - Zombie
+p372
+aVCreature - Zombie Giant
+p373
+aVCreature - Zombie Snake
+p374
+aVCreature - Dragon
+p375
+aVCreature - Zombie
+p376
+aVCreature - Ape
+p377
+aVSorcery
+p378
+aVCreature - Zombie Scout
+p379
+aVLegendary Creature - Goblin Warrior
+p380
+aVCreature - Zombie Assassin
+p381
+aVCreature - Zombie
+p382
+aVEnchantment
+p383
+aVCreature - Human Druid
+p384
+aVSorcery
+p385
+aVSnow Creature - Zombie
+p386
+aVCreature - Zombie
+p387
+aVCreature - Zombie Scout
+p388
+aVCreature - Zombie
+p389
+aVCreature - Shade
+p390
+aVCreature - Shade
+p391
+aVCreature - Zombie
+p392
+aVLand
+p393
+aVCreature - Zombie
+p394
+aVCreature - Zombie
+p395
+aVCreature - Zombie Giant
+p396
+aVSorcery
+p397
+aVEnchantment
+p398
+aVCreature - Zombie
+p399
+aVEnchantment
+p400
+aVSorcery
+p401
+aVCreature - Zombie
+p402
+aVCreature - Zombie
+p403
+aVCreature - Zombie
+p404
+aVCreature - Bird
+p405
+aVCreature - Dragon
+p406
+aVCreature - Hound
+p407
+aVCreature - Goat
+p408
+aVCreature - Rat
+p409
+aVCreature - Rabbit
+p410
+aVCreature - Boar
+p411
+aVCreature - Cat
+p412
+aVCreature - Horse
+p413
+aVCreature - Snake
+p414
+aVCreature - Ox
+p415
+aVCreature - Ape
+p416
+aVSorcery
+p417
+asS'numbers'
+p418
+(lp419
+V298
+p420
+aV119
+p421
+aV120
+p422
+aV302
+p423
+aV119
+p424
+aV378
+p425
+aV123
+p426
+aV54
+p427
+aV112
+p428
+aV306
+p429
+aV285
+p430
+aV171
+p431
+aV133
+p432
+aV200
+p433
+aV168
+p434
+aV169
+p435
+aV170
+p436
+aV285
+p437
+aV171
+p438
+aV75
+p439
+aV302
+p440
+aV89
+p441
+aV162
+p442
+aV125
+p443
+aV132
+p444
+aV81
+p445
+aV180
+p446
+aV87
+p447
+aV37
+p448
+aV135
+p449
+aV174
+p450
+ag163
+aV449
+p451
+aV28
+p452
+aV29
+p453
+aV56
+p454
+aV290
+p455
+aV105
+p456
+aV163
+p457
+aV131
+p458
+aV130
+p459
+aV132
+p460
+aV98
+p461
+aV162
+p462
+aV97
+p463
+aV164
+p464
+aV159
+p465
+aV99
+p466
+aV161
+p467
+aV160
+p468
+aV80
+p469
+as.

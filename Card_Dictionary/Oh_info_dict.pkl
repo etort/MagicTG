@@ -1,0 +1,96 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVRare
+p4
+aVRare
+p5
+asS'editns'
+p6
+(lp7
+VColdsnap
+p8
+aVColdsnap
+p9
+aVDuel Decks: Jace vs. Vraska
+p10
+asS'ids'
+p11
+(lp12
+V121144
+p13
+aV121266
+p14
+aV380265
+p15
+asS'texts'
+p16
+(lp17
+V{2}{snow}: Target snow creature gains first strike until end of turn. <i>({snow} can be paid with one mana from a snow permanent.)</i>
+p18
+aVW
+p19
+aVWhenever Ohran Viper deals combat damage to a creature, destroy that creature at end of combat.<br>Whenever Ohran Viper deals combat damage to a player, you may draw a card.
+p20
+asS'costs'
+p21
+(lp22
+V{3}{R}
+p23
+aV{1}{G}{G}
+p24
+aV{1}{B}
+p25
+asS'names'
+p26
+(lp27
+VOhran Yeti
+p28
+aVOhran Viper
+p29
+aVOhran Viper
+p30
+asS'toughs'
+p31
+(lp32
+S'N/A'
+p33
+ag33
+ag33
+asS'artists'
+p34
+(lp35
+VWayne Reynolds
+p36
+aVKev Walker
+p37
+aVKev Walker
+p38
+asS'powers'
+p39
+(lp40
+g33
+ag33
+ag33
+asS'types'
+p41
+(lp42
+VSnow Creature - Yeti
+p43
+aVSnow Creature - Snake
+p44
+aVSnow Creature - Snake
+p45
+asS'numbers'
+p46
+(lp47
+V93
+p48
+aV115
+p49
+aV57
+p50
+as.

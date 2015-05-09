@@ -1,0 +1,500 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVRare
+p4
+aVRare
+p5
+aVRare
+p6
+aVCommon
+p7
+aVUncommon
+p8
+aVRare
+p9
+aVUncommon
+p10
+aVCommon
+p11
+aVUncommon
+p12
+aVRare
+p13
+aVUncommon
+p14
+aVRare
+p15
+aVRare
+p16
+aVUncommon
+p17
+aVCommon
+p18
+aVCommon
+p19
+aVCommon
+p20
+aVCommon
+p21
+aVUncommon
+p22
+aVRare
+p23
+aVUncommon
+p24
+aVRare
+p25
+asS'editns'
+p26
+(lp27
+VMagic: The Gathering-Commander
+p28
+aVMagic: The Gathering-Commander
+p29
+aVPlanar Chaos
+p30
+aVPlanar Chaos
+p31
+aVBorn of the Gods
+p32
+aVTempest
+p33
+aVVintage Masters
+p34
+aVEventide
+p35
+aVPlanechase 2012 Edition
+p36
+aVChampions of Kamigawa
+p37
+aVRavnica: City of Guilds
+p38
+aVRavnica: City of Guilds
+p39
+aVOdyssey
+p40
+aVExodus
+p41
+aVMirrodin
+p42
+aVRise of the Eldrazi
+p43
+aVJudgment
+p44
+aVShadowmoor
+p45
+aVNew Phyrexia
+p46
+aVPlanechase
+p47
+aVWeatherlight
+p48
+aVAlara Reborn
+p49
+aVMirage
+p50
+asS'ids'
+p51
+(lp52
+V247207
+p53
+aV247362
+p54
+aV124062
+p55
+aV125874
+p56
+aV378417
+p57
+aV4776
+p58
+aV383034
+p59
+aV153058
+p60
+aV271178
+p61
+aV50431
+p62
+aV83726
+p63
+aV83913
+p64
+aV29987
+p65
+aV5176
+p66
+aV50104
+p67
+aV193647
+p68
+aV34245
+p69
+aV142035
+p70
+aV218040
+p71
+aV205297
+p72
+aV4437
+p73
+aV179580
+p74
+aV3506
+p75
+asS'texts'
+p76
+(lp77
+VWhen Nucklavee enters the battlefield, you may return target red sorcery card from your graveyard to your hand.<br>When Nucklavee enters the battlefield, you may return target blue instant card from your graveyard to your hand.
+p78
+aVFlying<br>Whenever Numot, the Devastator deals combat damage to a player, you may pay {2}{R}. If you do, destroy up to two target lands.
+p79
+aVFlying<br>Whenever Numot, the Devastator deals combat damage to a player, you may pay {2}{R}. If you do, destroy up to two target lands.
+p80
+aVSkip your draw step.<br>Whenever you play a card, draw a card.<br>Your maximum hand size is two.
+p81
+aVBestow {1}{R} <i>(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)</i><br>Enchanted creature gets +1/+1.
+p82
+aVTarget creature loses shadow until end of turn.<br><br>Draw a card.
+p83
+aVDraw a card.<br>Madness {U} <i>(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)</i>
+p84
+aVWhen Nucklavee enters the battlefield, you may return target red sorcery card from your graveyard to your hand.<br>When Nucklavee enters the battlefield, you may return target blue instant card from your graveyard to your hand.
+p85
+aVNinjutsu {3}{B} <i>({3}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i><br>Whenever Okiba-Gang Shinobi deals combat damage to a player, that player discards two cards.
+p86
+aV{B}: Target player dealt damage by Wicked Akuba this turn loses 1 life.
+p87
+aV<i>({T}: Add {U} or {B} to your mana pool.)</i><br>As Watery Grave enters the battlefield, you may pay 2 life. If you don't, Watery Grave enters the battlefield tapped.
+p88
+aV{2}, {T}, Put a blood counter on Bloodletter Quill: Draw a card, then lose 1 life for each blood counter on Bloodletter Quill.<br>{U}{B}: Remove a blood counter from Bloodletter Quill.
+p89
+aVWhenever a green nontoken creature dies, that creature's controller may search his or her library for a card with the same name as that creature and put it onto the battlefield. If that player does, he or she shuffles his or her library.
+p90
+aV{2}, {T}, Discard your hand: Counter target noncreature spell.
+p91
+aVImprint- When Mourner's Shield enters the battlefield, you may exile target card from a graveyard.<br>{2}, {T}: Prevent all damage that would be dealt this turn by a source of your choice that shares a color with the exiled card.
+p92
+aVPut target creature into its owner's library second from the top. Its controller gains 3 life.
+p93
+aV{T}: Return two target cards from an opponent's graveyard to his or her hand. Destroy target artifact or enchantment.
+p94
+aVRaven's Run Dragoon can't be blocked by black creatures.
+p95
+aVPlayers can't draw cards.<br>At the beginning of each player's draw step, that player exiles the top card of his or her library. If it's a land card, the player puts it onto the battlefield. Otherwise, the player casts it without paying its mana cost if able.
+p96
+aV{2}, {T}: Put a 0/1 colorless Pest artifact creature token onto the battlefield.
+p97
+aVActivated abilities of artifacts can't be activated.
+p98
+aVCounter target spell unless its controller pays {4}. You gain 4 life.
+p99
+aVCumulative upkeep {1} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>As Prismatic Circle enters the battlefield, choose a color.<br>{1}: The next time a source of your choice of the chosen color would deal damage to you this turn, prevent that damage.
+p100
+asS'costs'
+p101
+(lp102
+V{U}{R}
+p103
+aV{4}{U/R}{U/R}
+p104
+aV{3}{R}{W}{U}
+p105
+aV{4}{B}{B}
+p106
+aV{2}{G}
+p107
+aV{1}{G}
+p108
+aV{2}{G}{G}
+p109
+aV{4}{U/R}{U/R}
+p110
+aV{2}{G}
+p111
+aV{3}{B}
+p112
+aV{9}
+p113
+aV{3}{G}
+p114
+aV{5}{G}
+p115
+aV{4}
+p116
+aV{3}
+p117
+aV{7}
+p118
+aV{2}{G}
+p119
+aV{G}
+p120
+aV{GP}
+p121
+aV{3}
+p122
+aV{2}
+p123
+aV{1}{G}{U}
+p124
+aV{3}{W}
+p125
+asS'names'
+p126
+(lp127
+VNucklavee
+p128
+aVNumot, the Devastator
+p129
+aVNumot, the Devastator
+p130
+aVNull Profusion
+p131
+aVNullify
+p132
+aVNurturing Licid
+p133
+aVNull Rod
+p134
+aVNucklavee
+p135
+aVNullmage Advocate
+p136
+aVNumai Outcast
+p137
+aVNullstone Gargoyle
+p138
+aVNullmage Shepherd
+p139
+aVNut Collector
+p140
+aVNull Brooch
+p141
+aVNuisance Engine
+p142
+aVNull Champion
+p143
+aVNullmage Advocate
+p144
+aVNurturer Initiate
+p145
+aVNumbing Dose
+p146
+aVNuisance Engine
+p147
+aVNull Rod
+p148
+aVNulltread Gargantuan
+p149
+aVNull Chamber
+p150
+asS'toughs'
+p151
+(lp152
+V4
+p153
+aV6
+p154
+ag154
+aS'N/A'
+p155
+ag155
+aV1
+p156
+ag155
+ag153
+aV2
+p157
+ag156
+ag155
+ag157
+ag157
+ag155
+ag155
+ag157
+aV3
+p158
+ag158
+ag155
+ag155
+ag155
+ag153
+ag155
+asS'artists'
+p159
+(lp160
+VTrevor Hairsine
+p161
+aVDan Dos Santos
+p162
+aVDan Dos Santos
+p163
+aVKev Walker
+p164
+aVAdam Paquette
+p165
+aVMark Poole
+p166
+aVAnson Maddocks
+p167
+aVTrevor Hairsine
+p168
+aS''
+p169
+aVAdam Rex
+p170
+aVGlenn Fabry
+p171
+aVStephen Tappin
+p172
+aVChristopher Moeller
+p173
+aVDiTerlizzi
+p174
+aVStephen Tappin
+p175
+aVChris Rahn
+p176
+aVDarrell Riche
+p177
+aVJim Pavelec
+p178
+ag169
+aVStephen Tappin
+p179
+aVAnson Maddocks
+p180
+aVAnthony Francisco
+p181
+aVDouglas Shuler
+p182
+asS'powers'
+p183
+(lp184
+g154
+ag154
+ag154
+ag155
+ag155
+ag157
+ag155
+ag153
+ag157
+ag156
+ag155
+ag158
+ag157
+ag155
+ag155
+ag153
+ag157
+ag156
+ag155
+ag155
+ag155
+ag157
+ag155
+asS'types'
+p185
+(lp186
+VCreature - Beast
+p187
+aVLegendary Creature - Dragon
+p188
+aVLegendary Creature - Dragon
+p189
+aVEnchantment
+p190
+aVInstant
+p191
+aVCreature - Licid
+p192
+aVArtifact
+p193
+aVCreature - Beast
+p194
+aVCreature - Insect Druid
+p195
+aVCreature - Human Samurai
+p196
+aVArtifact Creature - Gargoyle
+p197
+aVCreature - Elf Shaman
+p198
+aVCreature - Human Druid
+p199
+aVArtifact
+p200
+aVArtifact
+p201
+aVCreature - Zombie Warrior
+p202
+aVCreature - Insect Druid
+p203
+aVCreature - Elf Shaman
+p204
+aVEnchantment - Aura
+p205
+aVArtifact
+p206
+aVArtifact
+p207
+aVCreature - Beast
+p208
+aVWorld Enchantment
+p209
+asS'numbers'
+p210
+(lp211
+V214
+p212
+aV215
+p213
+aV160
+p214
+aV89
+p215
+aV45
+p216
+aV126
+p217
+aV278
+p218
+aV110
+p219
+aV127
+p220
+aV134
+p221
+aV266
+p222
+aV174
+p223
+aV259
+p224
+aV136
+p225
+aV221
+p226
+aV121
+p227
+aV126
+p228
+aV124
+p229
+aV40
+p230
+aV121
+p231
+aV8
+p232
+aV102
+p233
+aV186
+p234
+as.

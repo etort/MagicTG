@@ -1,0 +1,493 @@
+(dp0
+S'rares'
+p1
+(lp2
+VSpecial
+p3
+aVCommon
+p4
+aVRare
+p5
+aVRare
+p6
+aVCommon
+p7
+aVCommon
+p8
+aVUncommon
+p9
+aVRare
+p10
+aVRare
+p11
+aVCommon
+p12
+aVCommon
+p13
+aVUncommon
+p14
+aVUncommon
+p15
+aVRare
+p16
+aVCommon
+p17
+aVCommon
+p18
+aVRare
+p19
+aVRare
+p20
+aVCommon
+p21
+aVRare
+p22
+aVCommon
+p23
+aVRare
+p24
+aVCommon
+p25
+asS'editns'
+p26
+(lp27
+VAnthologies
+p28
+aVMagic: The Gathering-Commander
+p29
+aVMagic 2012
+p30
+aVPlanar Chaos
+p31
+aVAlliances
+p32
+aVAlliances
+p33
+aVBorn of the Gods
+p34
+aVMercadian Masques
+p35
+aVFallen Empires
+p36
+aVMasters Edition II
+p37
+aVEventide
+p38
+aVConflux
+p39
+aVCommander 2013 Edition
+p40
+aVOdyssey
+p41
+aVReturn to Ravnica
+p42
+aVGatecrash
+p43
+aVIce Age
+p44
+aVMagic 2015 Core Set
+p45
+aVMagic 2015 Core Set
+p46
+aVJourney into Nyx
+p47
+aVJourney into Nyx
+p48
+aVDuel Decks: Jace vs. Vraska
+p49
+aVMasters Edition IV
+p50
+asS'ids'
+p51
+(lp52
+V-2146729965
+p53
+aV247295
+p54
+aV220086
+p55
+aV122449
+p56
+aV3040
+p57
+aV3041
+p58
+aV378402
+p59
+aV19667
+p60
+aV1827
+p61
+aV184464
+p62
+aV153427
+p63
+aV153946
+p64
+aV376239
+p65
+aV29922
+p66
+aV289227
+p67
+aV366294
+p68
+aV2393
+p69
+aV383160
+p70
+aV383177
+p71
+aV380364
+p72
+aV380365
+p73
+aV380272
+p74
+aV202510
+p75
+asS'texts'
+p76
+(lp77
+VPolluted Mire enters the battlefield tapped.<br><br>{T}: Add {B} to your mana pool.<br><br>Cycling {2} ({2}, Discard this card: Draw a card.)
+p78
+aVWhen Æthersnipe enters the battlefield, return target nonland permanent to its owner's hand.<br>Evoke {1}{U}{U} <i>(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</i>
+p79
+aVFlying<br>When Aegis Angel enters the battlefield, another target permanent is indestructible for as long as you control Aegis Angel. <i>(Effects that say "destroy" don't destroy that permanent. An indestructible creature can't be destroyed by damage.)</i>
+p80
+aVAeon Chronicler's power and toughness are each equal to the number of cards in your hand.<br>Suspend X\u2014{X}{3}{U}. X can't be 0.  <i>(Rather than cast this card from your hand, you may pay {X}{3}{U} and exile it with X time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)</i><br>Whenever a time counter is removed from Aeon Chronicler while it's exiled, draw a card.
+p81
+aVFlying<br>Aesthir Glider can't block.
+p82
+aV{R}: Add {B} to your mana pool.
+p83
+aVInspired- Whenever Aerie Worshippers becomes untapped, you may pay {2}{U}. If you do, put a 2/2 blue Bird enchantment creature token with flying onto the battlefield.
+p84
+aVWhen Saprazzan Bailiff enters the battlefield, exile all artifact and enchantment cards from all graveyards.<br>When Saprazzan Bailiff leaves the battlefield, return all artifact and enchantment cards from all graveyards to their owners' hands.
+p85
+aV{1}, {T}, Sacrifice Aeolipile: Aeolipile deals 2 damage to target creature or player.
+p86
+aV{1}, {T}, Sacrifice Aeolipile: Aeolipile deals 2 damage to target creature or player.
+p87
+aVSacrifice Aerie Ouphes: Aerie Ouphes deals damage equal to its power to target creature with flying.<br>Persist <i>(When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)</i>
+p88
+aVFlying<br>{1}{G}{U}: Creatures you control gain shroud until end of turn.
+p89
+aVFlying<br>{1}{G}{U}: Creatures you control gain shroud until end of turn. <i>(They can't be the targets of spells or abilities.)</i>
+p90
+aVWhenever a player casts a spell, that player gains X life, where X is the number of cards in all graveyards with the same name as that spell.
+p91
+aVDestroy target creature with flying. You gain 2 life.
+p92
+aVTarget creature gets +1/+1 and gains flying and first strike until end of turn.
+p93
+aV{1}, {T}: Target 1/1 creature gets +1/+2 until end of turn.
+p94
+aVFlying<br>When Aegis Angel enters the battlefield, another target permanent gains indestructible for as long as you control Aegis Angel. <i>(Effects that say "destroy" don't destroy it. A creature with indestructible can't be destroyed by damage.)</i>
+p95
+aVAeronaut Tinkerer has flying as long as you control an artifact. <i>(It can't be blocked except by creatures with flying or reach.)</i>
+p96
+aVYou have hexproof. <i>(You can't be the target of spells or abilities your opponents control.)</i>
+p97
+aVStrive- Aerial Formation costs {2}{U} more to cast for each target beyond the first.<br>Any number of target creatures each get +1/+1 and gain flying until end of turn.
+p98
+aVAeon Chronicler's power and toughness are each equal to the number of cards in your hand.<br>Suspend X\u2014{X}{3}{U}. X can't be 0.  <i>(Rather than cast this card from your hand, you may pay {X}{3}{U} and exile it with X time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)</i><br>Whenever a time counter is removed from Aeon Chronicler while it's exiled, draw a card.
+p99
+aVFlying<br>Aesthir Glider can't block.
+p100
+asS'costs'
+p101
+(lp102
+V{3}
+p103
+aV{5}{U}
+p104
+aV{4}{W}{W}
+p105
+aV{3}{U}{U}
+p106
+aV{3}
+p107
+aV{3}
+p108
+aV{3}{U}
+p109
+aV{4}{U}{U}
+p110
+aV{2}
+p111
+aV{2}
+p112
+aV{4}{G}
+p113
+aV{4}{W}
+p114
+aV{4}{W}
+p115
+aV{W}
+p116
+aV{2}{G}
+p117
+aV{1}{W}
+p118
+aV{3}
+p119
+aV{4}{W}{W}
+p120
+aV{2}{U}
+p121
+aV{1}{W}
+p122
+aV{U}
+p123
+aV{3}{U}{U}
+p124
+aV{3}
+p125
+asS'names'
+p126
+(lp127
+VAesthir Glider
+p128
+aVAethersnipe
+p129
+aVAegis Angel
+p130
+aVAeon Chronicler
+p131
+aVAesthir Glider
+p132
+aVAesthir Glider
+p133
+aVAerie Worshippers
+p134
+aVAerial Caravan
+p135
+aVAeolipile
+p136
+aVAeolipile
+p137
+aVAerie Ouphes
+p138
+aVAerie Mystics
+p139
+aVAerie Mystics
+p140
+aVAegis of Honor
+p141
+aVAerial Predation
+p142
+aVAerial Maneuver
+p143
+aVAegis of the Meek
+p144
+aVAegis Angel
+p145
+aVAeronaut Tinkerer
+p146
+aVAegis of the Gods
+p147
+aVAerial Formation
+p148
+aVAeon Chronicler
+p149
+aVAesthir Glider
+p150
+asS'toughs'
+p151
+(lp152
+S'N/A'
+p153
+aV4
+p154
+aV2
+p155
+aV*
+p156
+ag153
+ag153
+ag154
+aV3
+p157
+ag153
+ag153
+ag157
+ag157
+ag157
+ag153
+ag153
+ag153
+ag153
+aV5
+p158
+ag157
+ag153
+ag153
+ag156
+ag153
+asS'artists'
+p159
+(lp160
+VRuth Thompson
+p161
+aVZoltan Boros & Gabor Szikszai
+p162
+aVCliff Childs
+p163
+aVDan Dos Santos
+p164
+aVRuth Thompson
+p165
+aVRuth Thompson
+p166
+aVMike Sass
+p167
+aVDiTerlizzi
+p168
+aVHeather Hudson
+p169
+aVHeather Hudson
+p170
+aVJesper Ejsing
+p171
+aVMark Zug
+p172
+aVMark Zug
+p173
+aVRon Spears
+p174
+aVBD
+p175
+aVScott Chou
+p176
+aVL. A. Williams
+p177
+aVAleksi Briclot
+p178
+aVWillian Murai
+p179
+aVYefim Kligerman
+p180
+aVZack Stella
+p181
+aVDan Dos Santos
+p182
+aVRuth Thompson
+p183
+asS'powers'
+p184
+(lp185
+g153
+ag154
+ag155
+ag156
+ag153
+ag153
+ag155
+ag154
+ag153
+ag153
+ag157
+ag157
+ag157
+ag153
+ag153
+ag153
+ag153
+ag158
+ag155
+ag153
+ag153
+ag156
+ag153
+asS'types'
+p186
+(lp187
+VArtifact Creature - Bird
+p188
+aVCreature - Elemental
+p189
+aVCreature - Angel
+p190
+aVCreature - Avatar
+p191
+aVArtifact Creature - Bird
+p192
+aVArtifact Creature - Bird
+p193
+aVCreature - Human Cleric
+p194
+aVCreature - Human Soldier
+p195
+aVArtifact
+p196
+aVArtifact
+p197
+aVCreature - Ouphe
+p198
+aVCreature - Bird Wizard
+p199
+aVCreature - Bird Wizard
+p200
+aVEnchantment
+p201
+aVInstant
+p202
+aVInstant
+p203
+aVArtifact
+p204
+aVCreature - Angel
+p205
+aVCreature - Human Artificer
+p206
+aVEnchantment Creature - Human Soldier
+p207
+aVInstant
+p208
+aVCreature - Avatar
+p209
+aVArtifact Creature - Bird
+p210
+asS'numbers'
+p211
+(lp212
+V19
+p213
+aV39
+p214
+aV1
+p215
+aV32
+p216
+ag215
+aV126
+p217
+aV30
+p218
+aV58
+p219
+ag215
+aV202
+p220
+aV65
+p221
+ag215
+ag155
+ag215
+aV113
+p222
+ag215
+ag155
+aV270
+p223
+aV43
+p224
+ag215
+aV30
+p225
+aV17
+p226
+aV176
+p227
+as.

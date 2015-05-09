@@ -1,0 +1,56 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+asS'editns'
+p4
+(lp5
+VMirage
+p6
+asS'ids'
+p7
+(lp8
+V3475
+p9
+asS'texts'
+p10
+(lp11
+V{1}{R}{R}, {T}: Search your library for a Dragon permanent card and put that card onto the battlefield. Then shuffle your library. That Dragon gains haste until end of turn. Exile it at the beginning of the next end step.
+p12
+asS'costs'
+p13
+(lp14
+V{3}{R}{R}
+p15
+asS'names'
+p16
+(lp17
+VZirilan of the Claw
+p18
+asS'toughs'
+p19
+(lp20
+V1
+p21
+asS'artists'
+p22
+(lp23
+VAndrew Robinson
+p24
+asS'powers'
+p25
+(lp26
+g21
+asS'types'
+p27
+(lp28
+VLegendary Creature - Viashino Shaman
+p29
+asS'numbers'
+p30
+(lp31
+V163
+p32
+as.

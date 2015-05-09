@@ -1,0 +1,119 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVUncommon
+p4
+aVCommon
+p5
+aVCommon
+p6
+asS'editns'
+p7
+(lp8
+VVintage Masters
+p9
+aVStarter 1999
+p10
+aVMasters Edition IV
+p11
+aVPortal
+p12
+asS'ids'
+p13
+(lp14
+V383039
+p15
+aV21042
+p16
+aV202498
+p17
+aV4270
+p18
+asS'texts'
+p19
+(lp20
+VFading 5 <i>(This enchantment enters the battlefield with five fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)</i><br>Remove a fade counter from Parallax Wave: Exile target creature.<br>When Parallax Wave leaves the battlefield, each player returns to the battlefield all cards he or she owns exiled with Parallax Wave.
+p21
+aVTarget player loses 4 life and you gain 4 life.
+p22
+aVEnchant artifact<br>Enchanted artifact's activated abilities cost {2} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.
+p23
+aVLook at target opponent's hand.<br><br>Draw a card.
+p24
+asS'costs'
+p25
+(lp26
+V{2}{U}
+p27
+aV{1}{U}
+p28
+aV{1}{U}
+p29
+aV{1}{U}
+p30
+asS'names'
+p31
+(lp32
+VOwl Familiar
+p33
+aVOwl Familiar
+p34
+aVOwl Familiar
+p35
+aVOwl Familiar
+p36
+asS'toughs'
+p37
+(lp38
+V4
+p39
+aV1
+p40
+aV2
+p41
+ag40
+asS'artists'
+p42
+(lp43
+VJanine Johnston
+p44
+aVJanine Johnston
+p45
+aVJanine Johnston
+p46
+aVJanine Johnston
+p47
+asS'powers'
+p48
+(lp49
+V3
+p50
+ag40
+ag50
+ag40
+asS'types'
+p51
+(lp52
+VCreature - Bird
+p53
+aVCreature - Bird
+p54
+aVCreature - Bird
+p55
+aVCreature - Bird
+p56
+asS'numbers'
+p57
+(lp58
+V85
+p59
+aV43
+p60
+aV54
+p61
+aV38
+p62
+as.

@@ -1,0 +1,757 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVCommon
+p4
+aVCommon
+p5
+aVCommon
+p6
+aVCommon
+p7
+aVCommon
+p8
+aVUncommon
+p9
+aVRare
+p10
+aVCommon
+p11
+aVUncommon
+p12
+aVUncommon
+p13
+aVCommon
+p14
+aVCommon
+p15
+aVUncommon
+p16
+aVCommon
+p17
+aVUncommon
+p18
+aVCommon
+p19
+aVCommon
+p20
+aVCommon
+p21
+aVCommon
+p22
+aVCommon
+p23
+aVUncommon
+p24
+aVUncommon
+p25
+aVUncommon
+p26
+aVUncommon
+p27
+aVCommon
+p28
+aVCommon
+p29
+aVUncommon
+p30
+aVCommon
+p31
+aVRare
+p32
+aVUncommon
+p33
+aVCommon
+p34
+aVCommon
+p35
+aVMythic Rare
+p36
+aVSpecial
+p37
+aVCommon
+p38
+asS'editns'
+p39
+(lp40
+VMagic 2013
+p41
+aVMagic 2013
+p42
+aVPlanar Chaos
+p43
+aVDuel Decks: Ajani vs. Nicol Bolas
+p44
+aVMagic 2010
+p45
+aVMagic 2014 Core Set
+p46
+aVTempest
+p47
+aVTempest
+p48
+aVTenth Edition
+p49
+aVModern Masters
+p50
+aVMasters Edition II
+p51
+aVMasters Edition II
+p52
+aVConflux
+p53
+aVConflux
+p54
+aVAvacyn Restored
+p55
+aVOnslaught
+p56
+aVCommander 2013 Edition
+p57
+aVOdyssey
+p58
+aVReturn to Ravnica
+p59
+aVIce Age
+p60
+aVIce Age
+p61
+aVIce Age
+p62
+aVDuel Decks: Elspeth vs. Tezzeret
+p63
+aVShards of Alara
+p64
+aVShards of Alara
+p65
+aVShards of Alara
+p66
+aVDarksteel
+p67
+aVRise of the Eldrazi
+p68
+aVRise of the Eldrazi
+p69
+aVLegions
+p70
+aVInvasion
+p71
+aVAlara Reborn
+p72
+aVAlara Reborn
+p73
+aVInnistrad
+p74
+aVTime Spiral "Timeshifted"
+p75
+aVPlaneshift
+p76
+asS'ids'
+p77
+(lp78
+V276209
+p79
+aV276300
+p80
+aV122428
+p81
+aV249374
+p82
+aV193742
+p83
+aV370694
+p84
+aV4606
+p85
+aV4699
+p86
+aV135191
+p87
+aV370498
+p88
+aV184718
+p89
+aV184731
+p90
+aV184983
+p91
+aV180158
+p92
+aV271114
+p93
+aV41135
+p94
+aV376322
+p95
+aV31813
+p96
+aV290527
+p97
+aV2505
+p98
+aV2557
+p99
+aV2723
+p100
+aV226715
+p101
+aV137913
+p102
+aV174872
+p103
+aV179431
+p104
+aV50536
+p105
+aV193643
+p106
+aV194939
+p107
+aV42025
+p108
+aV22997
+p109
+aV188967
+p110
+aV188968
+p111
+aV254133
+p112
+aV106647
+p113
+aV21276
+p114
+asS'texts'
+p115
+(lp116
+VDefender <i>(This creature can't attack.)</i><br>Flying<br>Prevent all combat damage that would be dealt to and dealt by Fog Bank.
+p117
+aV+1: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.<br>-3: Target creature gets +X/+X or -X/-X until end of turn, where X is the number of Swamps you control.<br>-6: You get an emblem with "Swamps you control have \u2018{T}: Add {B}{B}{B}{B} to your mana pool.'"
+p118
+aVWhenever another creature enters the battlefield, you gain 1 life.
+p119
+aVWhenever another creature enters the battlefield, you gain 1 life.
+p120
+aVCounter target red or green spell.
+p121
+aVEquipped creature has double strike. <i>(It deals both first-strike and regular combat damage.)</i><br>Equip {2} <i>({2}: Attach to target creature you control. Equip only as a sorcery.)</i>
+p122
+aV{3}, {T}: Put an elixir counter on Essence Bottle.<br>{T}, Remove all elixir counters from Essence Bottle: You gain 2 life for each elixir counter removed this way.
+p123
+aVFlying<br>Fylamarid can't be blocked by blue creatures.<br>{U}: Target creature becomes blue until end of turn.
+p124
+aVTarget player reveals his or her hand. You choose a nonland card from it. That player discards that card.
+p125
+aVFlying<br>At the beginning of your upkeep, return an artifact you control to its owner's hand.
+p126
+aVEnchant creature<br>Whenever enchanted creature attacks and isn't blocked, its controller may have it deal damage equal to its power plus 2 to another target creature. If that player does, the attacking creature assigns no combat damage this turn.
+p127
+aVWhenever Farrel's Zealot attacks and isn't blocked, you may have it deal 3 damage to target creature. If you do, Farrel's Zealot assigns no combat damage this turn.
+p128
+aVFlying<br>At the beginning of your upkeep, return an artifact you control to its owner's hand.
+p129
+aVFlying<br>{1}{W}{B}, {T}: Destroy target creature or enchantment.<br>{2}{U}: Untap Ethersworn Adjudicator.
+p130
+aV{B}: Evernight Shade gets +1/+1 until end of turn.<br>Undying <i>(When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</i>
+p131
+aVReturn two target creatures to their owners' hands.<br>Cycling {2}{U} <i>({2}{U}, Discard this card: Draw a card.)</i>
+p132
+aV{T}: Add {1} to your mana pool.<br>{1}, {T}, Sacrifice Esper Panorama: Search your library for a basic Plains, Island, or Swamp card and put it onto the battlefield tapped. Then shuffle your library.
+p133
+aVWhen Phantom Whelp attacks or blocks, return it to its owner's hand at end of combat. <i>(Return it only if it's on the battlefield.)</i>
+p134
+aVPut a 1/1 white Bird creature token with flying onto the battlefield, then populate. <i>(Put a token onto the battlefield that's a copy of a creature token you control.)</i>
+p135
+aVEnchant creature<br>Enchanted creature gets +2/+0.<br>At the beginning of the upkeep of enchanted creature's controller, put a -0/-1 counter on that creature.
+p136
+aVTarget creature gets +3/+0 and gains trample until end of turn.
+p137
+aVAs an additional cost to cast Fire Covenant, pay X life.<br>Fire Covenant deals X damage divided as you choose among any number of target creatures.
+p138
+aVMultikicker {2} <i>(You may pay an additional {2} any number of times as you cast this spell.)</i><br>Everflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.<br>{T}: Add {1} to your mana pool for each charge counter on Everflowing Chalice.
+p139
+aVChoose one- Destroy target enchantment; or draw two cards; or target player discards two cards.
+p140
+aVWhenever another creature dies, you may put X +1/+1 counters on Kresh the Bloodbraided, where X is that creature's power.
+p141
+aVG
+p142
+aVEssence Drain deals 3 damage to target creature or player and you gain 3 life.
+p143
+aVLifelink<br>Whenever Escaped Null blocks or becomes blocked, it gets +5/+0 until end of turn.
+p144
+aVTarget player loses 3 life. You gain 3 life and put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."
+p145
+aVWhenever a Sliver deals damage, its controller gains that much life.
+p146
+aVEnchant permanent<br>As long as enchanted permanent is red or green, it has "At the beginning of your upkeep, sacrifice this permanent unless you pay its mana cost."
+p147
+aVWhen you cycle Esper Sojourners or it dies, you may tap or untap target permanent.<br>Cycling {2}{U} <i>({2}{U}, Discard this card: Draw a card.)</i>
+p148
+aVAs long as you control another multicolored permanent, Esper Stormblade gets +1/+1 and has flying.
+p149
+aVCreatures you control enter the battlefield as a copy of Essence of the Wild.
+p150
+aVWhenever a Sliver deals damage, its controller gains that much life.
+p151
+aV{2}{U}: Return target white or black creature you control to its owner's hand.
+p152
+asS'costs'
+p153
+(lp154
+V{1}{U}{U}
+p155
+aV{3}{B}
+p156
+aV{G}
+p157
+aV{3}{U}{B}{R}
+p158
+aV{6}{G}
+p159
+aV{G}
+p160
+aV{2}
+p161
+aV{3}{U}{U}
+p162
+aV{4}{B}
+p163
+aV{W}
+p164
+aV{1}{G}{G}
+p165
+aV{U}
+p166
+aV{2}{W}{U}
+p167
+aV{2}{U}
+p168
+aV{1}{W}{W}
+p169
+aV{3}{U}{U}
+p170
+aS'0'
+p171
+aV{1}{U}
+p172
+aV{2}{U}{R}
+p173
+aV{U}
+p174
+aV{1}{G}{G}
+p175
+aV{1}{U}{B}
+p176
+aV{2}
+p177
+aV{W}{U}{B}
+p178
+aV{2}{R}
+p179
+ag171
+aV{4}{B}
+p180
+aV{3}{B}
+p181
+aV{5}{B}
+p182
+aV{3}{W}
+p183
+aV{U}
+p184
+aV{W}{U}{B}
+p185
+aV{W/B}{U}
+p186
+aV{3}{G}{G}{G}
+p187
+aV{3}{W}
+p188
+aV{2}{U}
+p189
+asS'names'
+p190
+(lp191
+VEssence Scatter
+p192
+aVEssence Drain
+p193
+aVEssence Warden
+p194
+aVEssence Warden
+p195
+aVEssence Scatter
+p196
+aVEssence Scatter
+p197
+aVEssence Bottle
+p198
+aVEscaped Shapeshifter
+p199
+aVEssence Drain
+p200
+aVEsperzoa
+p201
+aVEssence Filter
+p202
+aVEssence Flare
+p203
+aVEsper Cormorants
+p204
+aVEsperzoa
+p205
+aVEssence Harvest
+p206
+aVEssence Fracture
+p207
+aVEsper Panorama
+p208
+aVEscape Artist
+p209
+aVEssence Backlash
+p210
+aVEssence Flare
+p211
+aVEssence Filter
+p212
+aVEssence Vortex
+p213
+aVEsperzoa
+p214
+aVEsper Charm
+p215
+aVEsper Battlemage
+p216
+aVEsper Panorama
+p217
+aVEssence Drain
+p218
+aVEscaped Null
+p219
+aVEssence Feed
+p220
+aVEssence Sliver
+p221
+aVEssence Leak
+p222
+aVEsper Sojourners
+p223
+aVEsper Stormblade
+p224
+aVEssence of the Wild
+p225
+aVEssence Sliver
+p226
+aVEscape Routes
+p227
+asS'toughs'
+p228
+(lp229
+S'N/A'
+p230
+ag230
+aV1
+p231
+aV2
+p232
+ag230
+ag230
+ag230
+ag231
+ag230
+ag230
+ag230
+ag230
+ag230
+ag230
+ag230
+ag230
+ag230
+ag232
+ag230
+ag230
+ag230
+ag230
+ag230
+ag230
+ag230
+ag230
+ag230
+ag231
+ag230
+aV3
+p233
+ag230
+ag230
+ag230
+ag233
+ag233
+ag230
+asS'artists'
+p234
+(lp235
+VJon Foster
+p236
+aVJim Nelson
+p237
+aVTerese Nielsen
+p238
+aVTerese Nielsen
+p239
+aVJon Foster
+p240
+aVJon Foster
+p241
+aVDonato Giancola
+p242
+aVDouglas Shuler
+p243
+aVJim Nelson
+p244
+aS''
+p245
+aVRick Emond
+p246
+aVRichard Kane Ferguson
+p247
+aVWarren Mahy
+p248
+aVWarren Mahy
+p249
+aVNic Klein
+p250
+aVWayne England
+p251
+aVFranz Vohwinkel
+p252
+aVScott M. Fischer
+p253
+aVJung Park
+p254
+aVRichard Kane Ferguson
+p255
+aVRick Emond
+p256
+aVMargaret Organ-Kean
+p257
+aVWarren Mahy
+p258
+aVMichael Bruinsma
+p259
+aVMatt Cavotta
+p260
+aVFranz Vohwinkel
+p261
+aVTony Szczudlo
+p262
+aVRyan Pancoast
+p263
+aVDaarken
+p264
+aVGlen Angus
+p265
+aVAdam Rex
+p266
+aVJohn Avon
+p267
+aVMatt Stewart
+p268
+aVTerese Nielsen
+p269
+aVGlen Angus
+p270
+aVMarc Fishman
+p271
+asS'powers'
+p272
+(lp273
+g230
+ag230
+ag231
+ag231
+ag230
+ag230
+ag230
+aV0
+p274
+ag230
+ag230
+ag230
+ag230
+ag230
+ag230
+ag230
+ag230
+ag230
+ag232
+ag230
+ag230
+ag230
+ag230
+ag230
+ag230
+ag230
+ag230
+ag230
+ag274
+ag230
+ag233
+ag230
+ag230
+ag230
+ag232
+ag233
+ag230
+asS'types'
+p275
+(lp276
+VInstant
+p277
+aVSorcery
+p278
+aVCreature - Elf Shaman
+p279
+aVCreature - Elf Shaman
+p280
+aVInstant
+p281
+aVInstant
+p282
+aVArtifact
+p283
+aVCreature - Shapeshifter
+p284
+aVSorcery
+p285
+aVArtifact Creature - Jellyfish
+p286
+aVSorcery
+p287
+aVEnchantment - Aura
+p288
+aVArtifact Creature - Bird
+p289
+aVArtifact Creature - Jellyfish
+p290
+aVSorcery
+p291
+aVSorcery
+p292
+aVLand
+p293
+aVCreature - Human Wizard
+p294
+aVInstant
+p295
+aVEnchantment - Aura
+p296
+aVSorcery
+p297
+aVInstant
+p298
+aVArtifact Creature - Jellyfish
+p299
+aVInstant
+p300
+aVArtifact Creature - Human Wizard
+p301
+aVLand
+p302
+aVSorcery
+p303
+aVCreature - Zombie Berserker
+p304
+aVSorcery
+p305
+aVCreature - Sliver
+p306
+aVEnchantment - Aura
+p307
+aVArtifact Creature - Vedalken Wizard
+p308
+aVArtifact Creature - Vedalken Wizard
+p309
+aVCreature - Avatar
+p310
+aVCreature - Sliver
+p311
+aVEnchantment
+p312
+asS'numbers'
+p313
+(lp314
+V50
+p315
+aV93
+p316
+aV145
+p317
+ag233
+aV51
+p318
+aV55
+p319
+aV9
+p320
+aV76
+p321
+aV141
+p322
+ag245
+aV160
+p323
+aV48
+p324
+aV105
+p325
+aV25
+p326
+aV100
+p327
+aV82
+p328
+aV286
+p329
+aV84
+p330
+aV160
+p331
+aV77
+p332
+aV111
+p333
+aV212
+p334
+aV47
+p335
+aV167
+p336
+aV40
+p337
+aV223
+p338
+aV43
+p339
+aV109
+p340
+aV110
+p341
+aV13
+p342
+aV55
+p343
+aV107
+p344
+aV132
+p345
+aV178
+p346
+aV8
+p347
+aV25
+p348
+as.

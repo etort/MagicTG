@@ -1,0 +1,719 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVRare
+p4
+aVUncommon
+p5
+aVCommon
+p6
+aVCommon
+p7
+aVRare
+p8
+aVUncommon
+p9
+aVRare
+p10
+aVUncommon
+p11
+aVMythic Rare
+p12
+aVCommon
+p13
+aVRare
+p14
+aVMythic Rare
+p15
+aVRare
+p16
+aVUncommon
+p17
+aVRare
+p18
+aVRare
+p19
+aVRare
+p20
+aVCommon
+p21
+aVUncommon
+p22
+aVRare
+p23
+aVMythic Rare
+p24
+aVRare
+p25
+aVRare
+p26
+aVRare
+p27
+aVCommon
+p28
+aVUncommon
+p29
+aVUncommon
+p30
+aVCommon
+p31
+aVCommon
+p32
+aVUncommon
+p33
+aVUncommon
+p34
+aVUncommon
+p35
+aVUncommon
+p36
+asS'editns'
+p37
+(lp38
+VPlanar Chaos
+p39
+aVTempest
+p40
+aVMercadian Masques
+p41
+aVMasters Edition III
+p42
+aVMasters Edition III
+p43
+aVMasters Edition II
+p44
+aVMasters Edition II
+p45
+aVNinth Edition
+p46
+aVBetrayers of Kamigawa
+p47
+aVCommander 2013 Edition
+p48
+aVTime Spiral
+p49
+aVColdsnap
+p50
+aVFrom the Vault: Relics
+p51
+aVIce Age
+p52
+aVIce Age
+p53
+aVIce Age
+p54
+aVProphecy
+p55
+aVJudgment
+p56
+aVDuel Decks: Venser vs. Koth
+p57
+aVMagic: The Gathering\u2014Conspiracy
+p58
+aVChronicles
+p59
+aVAlara Reborn
+p60
+aVFifth Edition
+p61
+aVKhans of Tarkir
+p62
+aVKhans of Tarkir
+p63
+aVKhans of Tarkir
+p64
+aVKhans of Tarkir
+p65
+aVKhans of Tarkir
+p66
+aVKhans of Tarkir
+p67
+aVKhans of Tarkir
+p68
+aVDragon's Maze
+p69
+aVLegends
+p70
+aVLegends
+p71
+aVArabian Nights
+p72
+asS'ids'
+p73
+(lp74
+V124344
+p75
+aV4612
+p76
+aV19884
+p77
+aV201128
+p78
+aV201196
+p79
+aV184638
+p80
+aV184639
+p81
+aV84595
+p82
+aV81976
+p83
+aV376382
+p84
+aV113571
+p85
+aV122066
+p86
+aV212627
+p87
+aV2411
+p88
+aV2412
+p89
+aV2410
+p90
+aV24566
+p91
+aV36451
+p92
+aV282601
+p93
+aV382293
+p94
+aV2786
+p95
+aV180605
+p96
+aV3797
+p97
+aV386570
+p98
+aV386571
+p99
+aV386572
+p100
+aV386573
+p101
+aV386574
+p102
+aV386575
+p103
+aV386576
+p104
+aV368947
+p105
+aV1660
+p106
+aV1661
+p107
+aV910
+p108
+asS'texts'
+p109
+(lp110
+VForestwalk<br>Whenever Jedit Ojanen of Efrava attacks or blocks, put a 2/2 green Cat Warrior creature token with forestwalk onto the battlefield.
+p111
+aVBlack spells you cast cost {1} less to cast.
+p112
+aV{X}{X}, {T}: Prevent the next X damage that would be dealt to target creature or player this turn.
+p113
+aVFlying<br>{G}: Killer Bees gets +1/+1 until end of turn.
+p114
+aVAt end of combat, destroy all creatures blocking or blocked by Kjeldoran Frostbeast.
+p115
+aVWhenever Johtull Wurm becomes blocked, it gets -2/-1 until end of turn for each creature blocking it beyond the first.
+p116
+aVWhenever Joven's Ferrets attacks, it gets +0/+2 until end of turn.<br>At end of combat, tap all creatures that blocked Joven's Ferrets this turn. They don't untap during their controller's next untap step.
+p117
+aVChange the text of target permanent by replacing all instances of one color word with another or one basic land type with another. <i>(For example, you may change "nonblack creature" to "nongreen creature" or "forestwalk" to "islandwalk." This effect lasts indefinitely.)</i>
+p118
+aVFlying<br>Whenever Shimmering Glasskite becomes the target of a spell or ability for the first time in a turn, counter that spell or ability.
+p119
+aVFlying<br>When Jeleva, Nephalia's Scourge enters the battlefield, each player exiles the top X cards of his or her library, where X is the amount of mana spent to cast Jeleva.<br>Whenever Jeleva attacks, you may cast an instant or sorcery card exiled with it without paying its mana cost.
+p120
+aVVigilance<br>When Jedit's Dragoons enters the battlefield, you gain 4 life.
+p121
+aVTrample<br>Cumulative upkeep\u2014Put a +1/+1 counter on a creature an opponent controls. <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i>
+p122
+aV{2}, {T}, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles his or her library.
+p123
+aVJester's Mask enters the battlefield tapped.<br>{1}, {T}, Sacrifice Jester's Mask: Target opponent puts the cards from his or her hand on top of his or her library. Search that player's library for that many cards. That player puts those cards into his or her hand, then shuffles his or her library.
+p124
+aV{1}, {T}: Put a charge counter on Jeweled Amulet. Note the type of mana spent to pay this activation cost. Activate this ability only if there are no charge counters on Jeweled Amulet.<br>{T}, Remove a charge counter from Jeweled Amulet: Add one mana of Jeweled Amulet's last noted type to your mana pool.
+p125
+aVAt the beginning of your upkeep, sacrifice Justice unless you pay {W}{W}.<br><br>Whenever a red creature or spell deals damage, Justice deals that much damage to that creature's or spell's controller.
+p126
+aVFlying<br>Sacrifice two lands: Jeweled Spirit gains protection from artifacts or from the color of your choice until end of turn.
+p127
+aVFirst strike, haste<br>{T}: Jeska, Warrior Adept deals 1 damage to target creature or player.
+p128
+aVVigilance<br>When Jedit's Dragoons enters the battlefield, you gain 4 life.
+p129
+aVFlying<br>Whenever Jetting Glasskite becomes the target of a spell or ability for the first time in a turn, counter that spell or ability.
+p130
+aVYou and target player exchange control of the creature you each control with the highest converted mana cost. Then exchange control of artifacts the same way. If two or more permanents a player controls are tied for highest cost, their controller chooses one of them.
+p131
+aVFear <i>(This creature can't be blocked except by artifact creatures and/or black creatures.)</i><br>Islandcycling {2}, swampcycling {2} <i>({2}, Discard this card: Search your library for an Island or Swamp card, reveal it, and put it into your hand. Then shuffle your library.)</i>
+p132
+aV{2}, {T}, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles his or her library.
+p133
+aVWhenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn. Untap those creatures.<br>Whenever you cast a noncreature spell, you may draw a card. If you do, discard a card.
+p134
+aV{T}: Add {U}, {R}, or {W} to your mana pool.<br>{U}{R}{W}, {T}, Sacrifice Jeskai Banner: Draw a card.
+p135
+aVChoose one-<br>\u2022 Put target creature on top of its owner's library.<br>\u2022 Jeskai Charm deals 4 damage to target opponent.<br>\u2022 Creatures you control get +1/+1 and gain lifelink until end of turn.
+p136
+aVProwess <i>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i><br>Whenever Jeskai Elder deals combat damage to a player, you may draw a card. If you do, discard a card.
+p137
+aVProwess <i>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i>
+p138
+aVFlying<br>Prowess <i>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i>
+p139
+aVJungle Hollow enters the battlefield tapped.<br>When Jungle Hollow enters the battlefield, you gain 1 life.<br>{T}: Add {B} or {G} to your mana pool.
+p140
+aVEnchant creature<br>Enchanted creature can't attack or block, and its activated abilities can't be activated.<br>{1}{G}{U}, Return Krasis Incubation to its owner's hand: Put two +1/+1 counters on enchanted creature.
+p141
+aVFirst strike<br>Creatures with plainswalk can be blocked as though they didn't have plainswalk.<br>Creatures with forestwalk can be blocked as though they didn't have forestwalk.
+p142
+aVFlying<br>At the beginning of your upkeep, sacrifice Nicol Bolas unless you pay {U}{B}{R}.<br>Whenever Nicol Bolas deals damage to an opponent, that player discards his or her hand.
+p143
+aVRemove Jeweled Bird from your deck before playing if you're not playing for ante.<br>{T}: Put Jeweled Bird into the ante. If you do, put all other cards you own from the ante into your graveyard, then draw a card.
+p144
+asS'costs'
+p145
+(lp146
+V{3}{G}{G}{G}
+p147
+aV{2}
+p148
+aV{2}
+p149
+aV{4}{W}{W}{U}
+p150
+aV{3}{R}{G}{G}
+p151
+aV{5}
+p152
+aV{0}
+p153
+aV{4}
+p154
+aV{4}{U}{U}
+p155
+aV{1}{U}{B}{R}
+p156
+aV{5}{W}
+p157
+aV{3}
+p158
+aV{4}
+p159
+aV{5}
+p160
+aV{0}
+p161
+aV{4}
+p162
+aV{3}{W}{W}
+p163
+aV{2}{R}{R}
+p164
+aV{5}{R}
+p165
+aV{1}{W}
+p166
+aV{1}
+p167
+aV{G}{W}{U}
+p168
+aV{4}
+p169
+aV{1}{R}
+p170
+aV{U}{R}{W}
+p171
+aV{3}
+p172
+aV{U}{R}{W}
+p173
+aV{1}{U}
+p174
+aV{1}{W}
+p175
+aV{2}{U}
+p176
+aV{3}{W}{U}
+p177
+aV{4}{W}{W}{U}
+p178
+aV{3}{R}{G}{G}
+p179
+aV{1}
+p180
+asS'names'
+p181
+(lp182
+VJedit Ojanen of Efrava
+p183
+aVJet Medallion
+p184
+aVJeweled Torque
+p185
+aVJedit Ojanen
+p186
+aVJerrard of the Closed Fist
+p187
+aVJester's Mask
+p188
+aVJeweled Amulet
+p189
+aVJester's Cap
+p190
+aVJetting Glasskite
+p191
+aVJeleva, Nephalia's Scourge
+p192
+aVJedit's Dragoons
+p193
+aVJester's Scepter
+p194
+aVJester's Cap
+p195
+aVJester's Mask
+p196
+aVJeweled Amulet
+p197
+aVJester's Cap
+p198
+aVJeweled Spirit
+p199
+aVJeska, Warrior Adept
+p200
+aVJedit's Dragoons
+p201
+aVJetting Glasskite
+p202
+aVJeweled Bird
+p203
+aVJenara, Asura of War
+p204
+aVJester's Cap
+p205
+aVJeering Instigator
+p206
+aVJeskai Ascendancy
+p207
+aVJeskai Banner
+p208
+aVJeskai Charm
+p209
+aVJeskai Elder
+p210
+aVJeskai Student
+p211
+aVJeskai Windscout
+p212
+aVJelenn Sphinx
+p213
+aVJedit Ojanen
+p214
+aVJerrard of the Closed Fist
+p215
+aVJeweled Bird
+p216
+asS'toughs'
+p217
+(lp218
+V5
+p219
+aS'N/A'
+p220
+ag220
+aV3
+p221
+ag219
+ag220
+ag220
+ag220
+aV4
+p222
+aV2
+p223
+aV1
+p224
+ag220
+ag220
+ag220
+ag220
+ag220
+ag221
+ag224
+aV6
+p225
+ag223
+ag220
+ag221
+ag220
+ag224
+ag220
+ag220
+ag220
+ag223
+ag221
+ag224
+ag219
+ag219
+ag219
+ag220
+asS'artists'
+p226
+(lp227
+VCarl Critchlow
+p228
+aVSue Ellen Brown
+p229
+aVMark Zug
+p230
+aVAndi Rusu
+p231
+aVJanine Johnston
+p232
+aVDan Frazier
+p233
+aVDan Frazier
+p234
+aVD. Alexander Gregory
+p235
+aVShishizaru
+p236
+aVCynthia Sheppard
+p237
+aVJohn Matson
+p238
+aVMatt Cavotta
+p239
+aVD. Alexander Gregory
+p240
+aVDan Frazier
+p241
+aVDan Frazier
+p242
+aVDan Frazier
+p243
+aVChristopher Moeller
+p244
+aVrk post
+p245
+aS''
+p246
+aVShishizaru
+p247
+aVAmy Weber
+p248
+aVChris Rahn
+p249
+aVDan Frazier
+p250
+aVWillian Murai
+p251
+aVDan Scott
+p252
+aVDaniel Ljunggren
+p253
+aVMathias Kollros
+p254
+aVCraig J Spearing
+p255
+aVDavid Gaillet
+p256
+aVJohann Bodin
+p257
+aVWesley Burt
+p258
+aVMark Poole
+p259
+aVAndi Rusu
+p260
+aVAmy Weber
+p261
+asS'powers'
+p262
+(lp263
+g219
+ag220
+ag220
+ag221
+ag219
+ag220
+ag220
+ag220
+ag222
+ag223
+ag224
+ag220
+ag220
+ag220
+ag220
+ag220
+ag221
+ag221
+ag223
+ag224
+ag220
+ag222
+ag220
+ag223
+ag220
+ag220
+ag220
+ag224
+ag224
+ag223
+ag224
+ag222
+ag219
+ag220
+asS'types'
+p264
+(lp265
+VLegendary Creature - Cat Warrior
+p266
+aVArtifact
+p267
+aVArtifact
+p268
+aVLegendary Creature - Cat Warrior
+p269
+aVLegendary Creature - Human Knight
+p270
+aVArtifact
+p271
+aVArtifact
+p272
+aVArtifact
+p273
+aVCreature - Spirit
+p274
+aVLegendary Creature - Vampire Wizard
+p275
+aVCreature - Cat Soldier
+p276
+aVArtifact
+p277
+aVArtifact
+p278
+aVArtifact
+p279
+aVArtifact
+p280
+aVArtifact
+p281
+aVCreature - Spirit
+p282
+aVLegendary Creature - Human Barbarian Warrior
+p283
+aVCreature - Cat Soldier
+p284
+aVCreature - Spirit
+p285
+aVArtifact
+p286
+aVLegendary Creature - Angel
+p287
+aVArtifact
+p288
+aVCreature - Goblin Rogue
+p289
+aVEnchantment
+p290
+aVArtifact
+p291
+aVInstant
+p292
+aVCreature - Human Monk
+p293
+aVCreature - Human Monk
+p294
+aVCreature - Bird Scout
+p295
+aVCreature - Sphinx
+p296
+aVLegendary Creature - Cat Warrior
+p297
+aVLegendary Creature - Human Knight
+p298
+aVArtifact
+p299
+asS'numbers'
+p300
+(lp301
+V131
+p302
+aV15
+p303
+aV301
+p304
+aV153
+p305
+aV154
+p306
+aV211
+p307
+aV212
+p308
+aV301
+p309
+aV38
+p310
+aV194
+p311
+aV25
+p312
+aV137
+p313
+ag219
+aV14
+p314
+aV15
+p315
+aV302
+p316
+aV12
+p317
+aV93
+p318
+ag246
+aV100
+p319
+aV83
+p320
+aV128
+p321
+aV14
+p322
+aV113
+p323
+aV180
+p324
+aV222
+p325
+aV181
+p326
+aV43
+p327
+aV14
+p328
+aV44
+p329
+aV77
+p330
+aV138
+p331
+aV139
+p332
+ag223
+as.

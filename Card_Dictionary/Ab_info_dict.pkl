@@ -1,0 +1,1212 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVUncommon
+p4
+aVUncommon
+p5
+aVUncommon
+p6
+aVRare
+p7
+aVCommon
+p8
+aVUncommon
+p9
+aVRare
+p10
+aVCommon
+p11
+aVCommon
+p12
+aVCommon
+p13
+aVCommon
+p14
+aVCommon
+p15
+aVCommon
+p16
+aVRare
+p17
+aVRare
+p18
+aVUncommon
+p19
+aVUncommon
+p20
+aVUncommon
+p21
+aVRare
+p22
+aVUncommon
+p23
+aVRare
+p24
+aVUncommon
+p25
+aVUncommon
+p26
+aVCommon
+p27
+aVRare
+p28
+aVCommon
+p29
+aVUncommon
+p30
+aVUncommon
+p31
+aVUncommon
+p32
+aVRare
+p33
+aVRare
+p34
+aVRare
+p35
+aVCommon
+p36
+aVCommon
+p37
+aVRare
+p38
+aVRare
+p39
+aVUncommon
+p40
+aVUncommon
+p41
+aVMythic Rare
+p42
+aVUncommon
+p43
+aVRare
+p44
+aVUncommon
+p45
+aVUncommon
+p46
+aVCommon
+p47
+aVRare
+p48
+aVCommon
+p49
+aVUncommon
+p50
+aVUncommon
+p51
+aVUncommon
+p52
+aVCommon
+p53
+aVRare
+p54
+aVUncommon
+p55
+aVCommon
+p56
+aVUncommon
+p57
+aVUncommon
+p58
+aVCommon
+p59
+aVUncommon
+p60
+aVCommon
+p61
+asS'editns'
+p62
+(lp63
+VBattle Royale Box Set
+p64
+aVFourth Edition
+p65
+aVScars of Mirrodin
+p66
+aVTempest
+p67
+aVTenth Edition
+p68
+aVModern Masters
+p69
+aVMasters Edition II
+p70
+aVGuildpact
+p71
+aVGuildpact
+p72
+aVConflux
+p73
+aVAvacyn Restored
+p74
+aVDuel Decks: Sorin vs. Tibalt
+p75
+aVOdyssey
+p76
+aVOdyssey
+p77
+aVOdyssey
+p78
+aVReturn to Ravnica
+p79
+aVIce Age
+p80
+aVClassic Sixth Edition
+p81
+aVClassic Sixth Edition
+p82
+aVClassic Sixth Edition
+p83
+aVDuel Decks: Elspeth vs. Tezzeret
+p84
+aVSeventh Edition
+p85
+aVSeventh Edition
+p86
+aVProphecy
+p87
+aVUrza's Legacy
+p88
+aVStarter 1999
+p89
+aVFifth Dawn
+p90
+aVPortal Second Age
+p91
+aVUrza's Saga
+p92
+aVUrza's Saga
+p93
+aVUrza's Saga
+p94
+aVUrza's Saga
+p95
+aVTheros
+p96
+aVWeatherlight
+p97
+aVWeatherlight
+p98
+aVWeatherlight
+p99
+aVWeatherlight
+p100
+aVWeatherlight
+p101
+aVEighth Edition
+p102
+aVWorldwake
+p103
+aVChronicles
+p104
+aVInvasion
+p105
+aVFifth Edition
+p106
+aVFifth Edition
+p107
+aVKhans of Tarkir
+p108
+aVKhans of Tarkir
+p109
+aVKhans of Tarkir
+p110
+aVKhans of Tarkir
+p111
+aVKhans of Tarkir
+p112
+aVKhans of Tarkir
+p113
+aVKhans of Tarkir
+p114
+aVMirage
+p115
+aVInnistrad
+p116
+aVInnistrad
+p117
+aVLegends
+p118
+aVArabian Nights
+p119
+aVHomelands
+p120
+aVHomelands
+p121
+aVHomelands
+p122
+asS'ids'
+p123
+(lp124
+V21167
+p125
+aV2084
+p126
+aV194371
+p127
+aV4635
+p128
+aV130483
+p129
+aV370360
+p130
+aV184585
+p131
+aV96858
+p132
+aV96953
+p133
+aV179513
+p134
+aV240017
+p135
+aV368527
+p136
+aV29728
+p137
+aV31761
+p138
+aV31821
+p139
+aV253561
+p140
+aV2437
+p141
+aV14526
+p142
+aV15381
+p143
+aV15383
+p144
+aV222765
+p145
+aV13111
+p146
+aV25636
+p147
+aV24561
+p148
+aV12414
+p149
+aV21019
+p150
+aV50164
+p151
+aV6567
+p152
+aV5716
+p153
+aV8437
+p154
+aV5551
+p155
+aV5636
+p156
+aV373661
+p157
+aV4447
+p158
+aV4477
+p159
+aV4505
+p160
+aV4563
+p161
+aV4476
+p162
+aV45307
+p163
+aV197869
+p164
+aV2838
+p165
+aV23155
+p166
+aV4098
+p167
+aV3822
+p168
+aV386463
+p169
+aV386464
+p170
+aV386465
+p171
+aV386466
+p172
+aV386467
+p173
+aV386468
+p174
+aV386469
+p175
+aV3272
+p176
+aV222911
+p177
+aV235595
+p178
+aV1427
+p179
+aV968
+p180
+aV3012
+p181
+aV3010
+p182
+aV3011
+p183
+asS'texts'
+p184
+(lp185
+VFlying
+p186
+aVWhenever Abomination blocks or becomes blocked by a green or white creature, destroy that creature at end of combat.
+p187
+aV{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.<br>{T}: Prevent the next 2 damage that would be dealt to target artifact creature this turn.
+p188
+aV{T}: Add {2} to your mana pool. Ancient Tomb deals 2 damage to you.
+p189
+aVReturn target card from your graveyard to your hand.
+p190
+aVTarget player loses 4 life and you gain 4 life.<br>Basic landcycling {1}{B} <i>({1}{B}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)</i>
+p191
+aVFlying, protection from red
+p192
+aV{1}, {T}: Add {R}{G} to your mana pool.
+p193
+aVFlying<br>When Shrieking Grotesque enters the battlefield, if {B} was spent to cast Shrieking Grotesque, target player discards a card.
+p194
+aVTarget player loses 4 life and you gain 4 life.<br>Basic landcycling {1}{B} <i>({1}{B}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)</i>
+p195
+aVAggravate deals 1 damage to each creature target player controls. Each creature dealt damage this way attacks this turn if able.
+p196
+aVTarget player loses 4 life and you gain 4 life.<br>Basic landcycling {1}{B} <i>({1}{B}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)</i>
+p197
+aVEnchant creature<br>Enchanted creature has flying.<br>Threshold- Enchanted creature has shroud as long as seven or more cards are in your graveyard. <i>(It can't be the target of spells or abilities.)</i>
+p198
+aVSeafloor Debris enters the battlefield tapped.<br>{T}: Add {U} to your mana pool.<br>{T}, Sacrifice Seafloor Debris: Add one mana of any color to your mana pool.
+p199
+aV{3}{U}, Exile Shifty Doppelganger: You may put a creature card from your hand onto the battlefield. If you do, that creature gains haste until end of turn. At the beginning of the next end step, sacrifice that creature. If you do, return Shifty Doppelganger to the battlefield.
+p200
+aVAbrupt Decay can't be countered by spells or abilities.<br>Destroy target nonland permanent with converted mana cost 3 or less.
+p201
+aV{W}, Sacrifice an enchantment: Destroy target enchantment.<br><br>{3}{U}{U}: Counter target enchantment spell.
+p202
+aVLook at target opponent's hand and choose a card from it. Put that card on top of that player's library.
+p203
+aV{B}, {T}: Tap target creature. Abyssal Hunter deals damage equal to Abyssal Hunter's power to that creature.
+p204
+aV{T}, Sacrifice a Swamp: Target creature gets +1/+1 until end of turn.<br>{T}, Sacrifice a creature: Target creature gets +2/+2 until end of turn.
+p205
+aVYou may discard a Plains card rather than pay Abolish's mana cost.<br>Destroy target artifact or enchantment.
+p206
+aV{T}: Elite Archers deals 3 damage to target attacking or blocking creature.
+p207
+aVTarget opponent reveals his or her hand. You draw a card for each Mountain and red card in it.
+p208
+aVYou may discard a Plains card rather than pay Abolish's mana cost.<br>Destroy target artifact or enchantment.
+p209
+aVSwitch target creature's power and toughness until end of turn.
+p210
+aVTarget creature gets +3/+3 and gains flying until end of turn. <i>(It can't be blocked except by creatures with flying or reach.)</i>
+p211
+aVChoose one- You gain 5 life; or prevent the next 5 damage that would be dealt to target creature this turn.<br>Entwine {2} <i>(Choose both if you pay the entwine cost.)</i>
+p212
+aVReturn all Nightstalker permanent cards from your graveyard to the battlefield. Then destroy all Swamps you control.
+p213
+aVAll creatures have protection from black.
+p214
+aVAt the beginning of your upkeep, you may put a verse counter on Serra's Liturgy.<br>{W}, Sacrifice Serra's Liturgy: Destroy up to X target artifacts and/or enchantments, where X is the number of verse counters on Serra's Liturgy.
+p215
+aVFlying<br>When Abyssal Horror enters the battlefield, target player discards two cards.
+p216
+aVWhen Academy Researchers enters the battlefield, you may put an Aura card from your hand onto the battlefield attached to Academy Researchers.
+p217
+aVFlying<br>When Abhorrent Overlord enters the battlefield, put a number of 1/1 black Harpy creature tokens with flying onto the battlefield equal to your devotion to black. <i>(Each {B} in the mana costs of permanents you control counts toward your devotion to black.)</i><br>At the beginning of your upkeep, sacrifice a creature.
+p218
+aVWhen Abyssal Gatekeeper dies, each player sacrifices a creature.
+p219
+aVAs an additional cost to cast Abjure, sacrifice a blue permanent.<br>Counter target spell.
+p220
+aVCumulative upkeep\u2014Put a -1/-1 counter on Aboroth. <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i>
+p221
+aVUntil end of turn, target player can't cast instant or sorcery spells, and that player can't activate abilities that aren't mana abilities.<br>Draw a card.
+p222
+aVEnchant creature<br>When Abduction enters the battlefield, untap enchanted creature.<br>You control enchanted creature.<br>When enchanted creature dies, return that card to the battlefield under its owner's control.
+p223
+aVBeast of Burden's power and toughness are each equal to the number of creatures on the battlefield.
+p224
+aVFlying, trample<br>You can't win the game and your opponents can't lose the game.
+p225
+aV{1}{R}{R}, {T}: Gain control of target artifact for as long as you control Aladdin.
+p226
+aVCounter target spell. You gain 3 life.
+p227
+aV{W}, Sacrifice an enchantment: Destroy target enchantment.<br><br>{3}{U}{U}: Counter target enchantment spell.
+p228
+aVEnchant creature card in a graveyard<br>When Animate Dead enters the battlefield, if it's on the battlefield, it loses "enchant creature card in a graveyard" and gains "enchant creature put onto the battlefield with Animate Dead." Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it.<br>Enchanted creature gets -1/-0.
+p229
+aVFlying<br>Whenever Abomination of Gudul deals combat damage to a player, you may draw a card. If you do, discard a card.<br>Morph {2}{B}{G}{U} <i>(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p230
+aVWhen Abzan Ascendancy enters the battlefield, put a +1/+1 counter on each creature you control.<br>Whenever a nontoken creature you control dies, put a 1/1 white Spirit creature token with flying onto the battlefield.
+p231
+aV{T}: Add {W}, {B}, or {G} to your mana pool.<br>{W}{B}{G}, {T}, Sacrifice Abzan Banner: Draw a card.
+p232
+aVOutlast {W} <i>({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)</i><br>Each creature you control with a +1/+1 counter on it has lifelink.
+p233
+aVChoose one-<br>\u2022 Exile target creature with power 3 or greater.<br>\u2022 You draw two cards and you lose 2 life.<br>\u2022 Distribute two +1/+1 counters among one or two target creatures.
+p234
+aVOutlast {W} <i>({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)</i><br>Each creature you control with a +1/+1 counter on it has flying.
+p235
+aVLifelink <i>(Damage dealt by this creature also causes you to gain that much life.)</i><br>Morph {2}{W}{B}{G} <i>(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p236
+aVYou may choose not to untap Amber Prison during your untap step.<br>{4}, {T}: Tap target artifact, creature, or land. That permanent doesn't untap during its controller's untap step for as long as Amber Prison remains tapped.
+p237
+aVFirst strike<br>Whenever a creature dealt damage by Abattoir Ghoul this turn dies, you gain life equal to that creature's toughness.
+p238
+aVFlying, vigilance
+p239
+aVEnchant land<br>When enchanted land becomes tapped, destroy it.
+p240
+aVWhen Abu Ja'far dies, destroy all creatures blocking or blocked by it. They can't be regenerated.
+p241
+aVAysen Crusader's power and toughness are each equal to 2 plus the number of Soldiers and Warriors you control.
+p242
+aV{W}, {T}: Abbey Matron gets +0/+3 until end of turn.
+p243
+aVCreature spells can't be cast.<br>Pay 4 life: Destroy Æther Storm. It can't be regenerated. Any player may activate this ability.
+p244
+asS'costs'
+p245
+(lp246
+V{2}{B}{B}
+p247
+aV{3}{B}{B}
+p248
+aV{1}{W}
+p249
+aV{X}{1}{B}
+p250
+aV{2}{G}{G}
+p251
+aV{2}{R}{G}
+p252
+aV{2}{W}{W}{W}
+p253
+aV{1}{B}{B}
+p254
+aV{3}{W}
+p255
+aV{6}{B}
+p256
+aV{4}{R}
+p257
+aV{6}{B}
+p258
+aV{U}
+p259
+aS'0'
+p260
+aV{4}{U}{U}
+p261
+aV{B}{G}
+p262
+aV{2}{B}{B}
+p263
+aV{2}{U}{U}
+p264
+aV{2}{B}{B}
+p265
+aV{3}{B}
+p266
+aV{1}{W}{W}
+p267
+aV{4}{B}{B}
+p268
+aV{2}{B}{B}
+p269
+aV{1}{W}{W}
+p270
+aV{R}
+p271
+aV{4}{B}{B}
+p272
+aV{3}{W}
+p273
+aV{3}{B}
+p274
+aV{1}{W}
+p275
+aV{1}{W}
+p276
+aV{2}{G}{G}
+p277
+aV{4}{B}{B}
+p278
+aV{5}{B}{B}
+p279
+aV{1}{B}
+p280
+aV{U}
+p281
+aV{4}{G}{G}
+p282
+aV{1}{W}
+p283
+aV{2}{U}{U}
+p284
+aV{2}{B}{B}
+p285
+aV{2}{B}{B}
+p286
+aV{W}
+p287
+aV{W}{U}{U}
+p288
+aV{2}{W}{W}{W}
+p289
+aV{2}{B}{B}
+p290
+aV{3}{B}{G}{U}
+p291
+aV{W}{B}{G}
+p292
+aV{3}
+p293
+aV{3}{W}
+p294
+aV{W}{B}{G}
+p295
+aV{2}{W}
+p296
+aV{3}{W}{B}{G}
+p297
+aV{3}{B}
+p298
+aV{3}{B}
+p299
+aV{3}{W}
+p300
+aV{3}{B}{B}
+p301
+aV{W}
+p302
+aV{2}{W}
+p303
+aV{2}{W}{W}{W}
+p304
+aV{2}{W}
+p305
+asS'names'
+p306
+(lp307
+VAbyssal Specter
+p308
+aVAbomination
+p309
+aVAbuna Acolyte
+p310
+aVAbandon Hope
+p311
+aVAbundance
+p312
+aVAbsorb Vis
+p313
+aVAbbey Gargoyles
+p314
+aVAbyssal Nocturnus
+p315
+aVAbsolver Thrull
+p316
+aVAbsorb Vis
+p317
+aVAbundant Growth
+p318
+aVAbsorb Vis
+p319
+aVAboshan's Desire
+p320
+aVAbandoned Outpost
+p321
+aVAboshan, Cephalid Emperor
+p322
+aVAbrupt Decay
+p323
+aVAbyssal Specter
+p324
+aVAbduction
+p325
+aVAbyssal Specter
+p326
+aVAbyssal Hunter
+p327
+aVAbolish
+p328
+aVAbyssal Horror
+p329
+aVAbyssal Specter
+p330
+aVAbolish
+p331
+aVAbout Face
+p332
+aVAbyssal Horror
+p333
+aVAbuna's Chant
+p334
+aVAbyssal Nightstalker
+p335
+aVAbsolute Grace
+p336
+aVAbsolute Law
+p337
+aVAbundance
+p338
+aVAbyssal Horror
+p339
+aVAbhorrent Overlord
+p340
+aVAbyssal Gatekeeper
+p341
+aVAbjure
+p342
+aVAboroth
+p343
+aVAbeyance
+p344
+aVAbduction
+p345
+aVAbyssal Specter
+p346
+aVAbyssal Persecutor
+p347
+aVAbu Ja'far
+p348
+aVAbsorb
+p349
+aVAbbey Gargoyles
+p350
+aVAbyssal Specter
+p351
+aVAbomination of Gudul
+p352
+aVAbzan Ascendancy
+p353
+aVAbzan Banner
+p354
+aVAbzan Battle Priest
+p355
+aVAbzan Charm
+p356
+aVAbzan Falconer
+p357
+aVAbzan Guide
+p358
+aVAbyssal Hunter
+p359
+aVAbattoir Ghoul
+p360
+aVAbbey Griffin
+p361
+aVAbomination
+p362
+aVAbu Ja'far
+p363
+aVAbbey Matron
+p364
+aVAbbey Gargoyles
+p365
+aVAbbey Matron
+p366
+asS'toughs'
+p367
+(lp368
+V3
+p369
+aV1
+p370
+ag370
+aS'N/A'
+p371
+ag371
+ag371
+aV4
+p372
+aV2
+p373
+ag369
+ag371
+ag371
+ag371
+ag371
+ag371
+ag372
+ag371
+ag369
+ag371
+ag369
+ag370
+ag371
+ag373
+ag369
+ag371
+ag371
+ag373
+ag371
+ag373
+ag371
+ag371
+ag371
+ag372
+aV6
+p374
+ag373
+ag371
+ag370
+ag371
+ag371
+ag370
+ag374
+aV7
+p375
+ag371
+ag374
+ag372
+ag372
+ag371
+ag371
+ag373
+ag371
+ag369
+ag372
+ag373
+ag373
+ag373
+ag373
+ag370
+ag370
+ag373
+ag369
+asS'artists'
+p376
+(lp377
+VGeorge Pratt
+p378
+aVMark Tedin
+p379
+aVIgor Kieryluk
+p380
+aVAlan Pollack
+p381
+aVRebecca Guay
+p382
+aS''
+p383
+aVChristopher Rush
+p384
+aVJon Foster
+p385
+aVRob Alexander
+p386
+aVBrandon Kitkouski
+p387
+aVVincent Proce
+p388
+aVBrandon Kitkouski
+p389
+aVCiruelo
+p390
+aVEdward P. Beard, Jr.
+p391
+aVChristopher Moeller
+p392
+aVSvetlin Velinov
+p393
+aVRuth Thompson
+p394
+aVColin MacNeil
+p395
+aVGeorge Pratt
+p396
+aVSteve Luke
+p397
+aVKev Walker
+p398
+aVDaren Bader
+p399
+aVMichael Sutfin
+p400
+aVKev Walker
+p401
+aVMelissa A. Benson
+p402
+aVrk post
+p403
+aVJohn Matson
+p404
+aVSam Woods
+p405
+aVJeff Miracola
+p406
+aVMark Zug
+p407
+aVRebecca Guay
+p408
+aVrk post
+p409
+aVSlawomir Maniak
+p410
+aVMark Tedin
+p411
+aVTed Naifeh
+p412
+aVBrom
+p413
+aVThomas Gianni
+p414
+aVColin MacNeil
+p415
+aVMichael Sutfin
+p416
+aVChippy
+p417
+aVKen Meyer, Jr.
+p418
+aVAndrew Goldhawk
+p419
+aVChristopher Rush
+p420
+aVGeorge Pratt
+p421
+aVErica Yang
+p422
+aVMark Winters
+p423
+aVDaniel Ljunggren
+p424
+aVChris Rahn
+p425
+aVMathias Kollros
+p426
+aVSteven Belledin
+p427
+aVSteve Prescott
+p428
+aVSteve Luke
+p429
+aVVolkan Baga
+p430
+aVJaime Jones
+p431
+aVMark Tedin
+p432
+aVKen Meyer Jr.
+p433
+aVMike Kimble
+p434
+aVChristopher Rush
+p435
+aVMike Kimble
+p436
+asS'powers'
+p437
+(lp438
+g373
+ag370
+ag370
+ag371
+ag371
+ag371
+ag369
+ag373
+ag373
+ag371
+ag371
+ag371
+ag371
+ag371
+ag372
+ag371
+ag373
+ag371
+ag373
+ag370
+ag371
+ag373
+ag369
+ag371
+ag371
+ag373
+ag371
+ag373
+ag371
+ag371
+ag371
+ag369
+ag374
+ag369
+ag371
+ag370
+ag371
+ag371
+ag370
+ag374
+ag375
+ag371
+ag374
+ag372
+ag369
+ag371
+ag371
+ag369
+ag371
+ag373
+ag372
+ag373
+ag369
+ag373
+ag370
+aV0
+p439
+ag370
+ag439
+ag369
+asS'types'
+p440
+(lp441
+VCreature - Specter
+p442
+aVCreature - Horror
+p443
+aVCreature - Cat Cleric
+p444
+aVSorcery
+p445
+aVEnchantment
+p446
+aVSorcery
+p447
+aVCreature - Gargoyle
+p448
+aVCreature - Horror
+p449
+aVCreature - Thrull Cleric
+p450
+aVSorcery
+p451
+aVEnchantment - Aura
+p452
+aVSorcery
+p453
+aVEnchantment - Aura
+p454
+aVLand
+p455
+aVLegendary Creature - Cephalid
+p456
+aVInstant
+p457
+aVCreature - Specter
+p458
+aVEnchantment - Aura
+p459
+aVCreature - Specter
+p460
+aVCreature - Human Assassin
+p461
+aVInstant
+p462
+aVCreature - Horror
+p463
+aVCreature - Specter
+p464
+aVInstant
+p465
+aVInstant
+p466
+aVCreature - Horror
+p467
+aVInstant
+p468
+aVCreature - Nightstalker
+p469
+aVEnchantment
+p470
+aVEnchantment
+p471
+aVEnchantment
+p472
+aVCreature - Horror
+p473
+aVCreature - Demon
+p474
+aVCreature - Horror
+p475
+aVInstant
+p476
+aVCreature - Elemental
+p477
+aVInstant
+p478
+aVEnchantment - Aura
+p479
+aVCreature - Specter
+p480
+aVCreature - Demon
+p481
+aVCreature - Human
+p482
+aVInstant
+p483
+aVCreature - Gargoyle
+p484
+aVCreature - Specter
+p485
+aVCreature - Horror
+p486
+aVEnchantment
+p487
+aVArtifact
+p488
+aVCreature - Human Cleric
+p489
+aVInstant
+p490
+aVCreature - Human Soldier
+p491
+aVCreature - Human Warrior
+p492
+aVCreature - Human Assassin
+p493
+aVCreature - Zombie
+p494
+aVCreature - Griffin
+p495
+aVCreature - Horror
+p496
+aVCreature - Human
+p497
+aVCreature - Human Cleric
+p498
+aVCreature - Gargoyle
+p499
+aVCreature - Human Cleric
+p500
+asS'numbers'
+p501
+(lp502
+V52
+p503
+aV47
+p504
+ag370
+aV35
+p505
+aV249
+p506
+ag383
+ag370
+aV43
+p507
+ag370
+aV40
+p508
+aV167
+p509
+aV31
+p510
+aV59
+p511
+aV312
+p512
+aV58
+p513
+aV141
+p514
+aV243
+p515
+aV55
+p516
+aV110
+p517
+aV109
+p518
+aV29
+p519
+aV115
+p520
+aV116
+p521
+ag370
+aV73
+p522
+aV63
+p523
+ag370
+aV48
+p524
+ag370
+ag373
+aV229
+p525
+aV115
+p526
+aV75
+p527
+aV17
+p528
+aV38
+p529
+aV58
+p530
+aV96
+p531
+aV117
+p532
+aV117
+p533
+aV47
+p534
+aV42
+p535
+aV226
+p536
+aV160
+p537
+aV203
+p538
+aV159
+p539
+aV160
+p540
+aV215
+p541
+ag370
+aV161
+p542
+ag373
+aV162
+p543
+aV244
+p544
+aV85
+p545
+ag370
+aV182
+p546
+aV26
+p547
+aV64
+p548
+aV82
+p549
+aV83
+p550
+as.

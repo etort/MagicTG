@@ -1,0 +1,794 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVCommon
+p4
+aVCommon
+p5
+aVCommon
+p6
+aVCommon
+p7
+aVRare
+p8
+aVCommon
+p9
+aVCommon
+p10
+aVUncommon
+p11
+aVCommon
+p12
+aVCommon
+p13
+aVCommon
+p14
+aVRare
+p15
+aVCommon
+p16
+aVCommon
+p17
+aVRare
+p18
+aVRare
+p19
+aVRare
+p20
+aVCommon
+p21
+aVRare
+p22
+aVRare
+p23
+aVUncommon
+p24
+aVRare
+p25
+aVCommon
+p26
+aVCommon
+p27
+aVRare
+p28
+aVRare
+p29
+aVCommon
+p30
+aVCommon
+p31
+aVRare
+p32
+aVCommon
+p33
+aVCommon
+p34
+aVCommon
+p35
+aVCommon
+p36
+aVCommon
+p37
+aVCommon
+p38
+aVRare
+p39
+aVCommon
+p40
+asS'editns'
+p41
+(lp42
+VMagic 2012
+p43
+aVMorningtide
+p44
+aVFourth Edition
+p45
+aVFourth Edition
+p46
+aVAntiquities
+p47
+aVTenth Edition
+p48
+aVModern Masters
+p49
+aVModern Masters
+p50
+aVThe Dark
+p51
+aVMasters Edition III
+p52
+aVMasters Edition II
+p53
+aVAvacyn Restored
+p54
+aVOdyssey
+p55
+aVTime Spiral
+p56
+aVTime Spiral
+p57
+aVIce Age
+p58
+aVTorment
+p59
+aVClassic Sixth Edition
+p60
+aVMagic 2015 Core Set
+p61
+aVScourge
+p62
+aVMasters Edition
+p63
+aVEighth Edition
+p64
+aVWorldwake
+p65
+aVFifth Edition
+p66
+aVFifth Edition
+p67
+aVMirage
+p68
+aVMirage
+p69
+aVInnistrad
+p70
+aVMasters Edition IV
+p71
+aVStronghold
+p72
+aVLegends
+p73
+aVLorwyn
+p74
+aVPremium Deck Series: Slivers
+p75
+aVHomelands
+p76
+aVHomelands
+p77
+aVHomelands
+p78
+aVPortal Three Kingdoms
+p79
+aVPlaneshift
+p80
+asS'ids'
+p81
+(lp82
+V220218
+p83
+aV152998
+p84
+aV2317
+p85
+aV2016
+p86
+aV992
+p87
+aV129913
+p88
+aV370571
+p89
+aV370576
+p90
+aV1746
+p91
+aV201265
+p92
+aV184543
+p93
+aV270988
+p94
+aV29929
+p95
+aV113509
+p96
+aV113619
+p97
+aV2394
+p98
+aV34378
+p99
+aV15403
+p100
+aV383183
+p101
+aV43599
+p102
+aV159828
+p103
+aV45313
+p104
+aV191577
+p105
+aV3759
+p106
+aV4029
+p107
+aV3241
+p108
+aV3240
+p109
+aV220644
+p110
+aV202567
+p111
+aV5109
+p112
+aV1601
+p113
+aV140339
+p114
+aV207921
+p115
+aV2987
+p116
+aV2989
+p117
+aV2988
+p118
+aV10493
+p119
+aV26409
+p120
+asS'texts'
+p121
+(lp122
+VEnchant creature<br>Enchanted creature gets +4/+4, has flying and first strike, and is an Angel in addition to its other types.<br>When enchanted creature dies, return Angelic Destiny to its owner's hand.
+p123
+aVFlying<br>Kinship- At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Nightshade Schemers, you may reveal it. If you do, each opponent loses 2 life.
+p124
+aVEach player chooses a number of lands he or she controls equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.
+p125
+aVEnchant creature card in a graveyard<br>When Animate Dead enters the battlefield, if it's on the battlefield, it loses "enchant creature card in a graveyard" and gains "enchant creature put onto the battlefield with Animate Dead." Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it.<br>Enchanted creature gets -1/-0.
+p126
+aV{2}, {T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+p127
+aVAt the beginning of your upkeep, flip a coin. If you lose the flip, return Scoria Wurm to its owner's hand.
+p128
+aV{4}, {T}: Search your library for a Rebel permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.
+p129
+aVAmrou Seekers can't be blocked except by artifact creatures and/or white creatures.
+p130
+aVTarget player reveals his or her hand and discards all nonland cards.
+p131
+aVAmrou Kithkin can't be blocked by creatures with power 3 or greater.
+p132
+aVFirst strike, haste
+p133
+aVFlying<br>When Angel of Glory's Rise enters the battlefield, exile all Zombies, then return all Human creature cards from your graveyard to the battlefield.
+p134
+aVFlying<br>Cognivore's power and toughness are each equal to the number of instant cards in all graveyards.
+p135
+aVAmrou Seekers can't be blocked except by artifact creatures and/or white creatures.
+p136
+aV{4}, {T}: Search your library for a Rebel permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.
+p137
+aVRemove Amulet of Quoz from your deck before playing if you're not playing for ante.<br>{T}, Sacrifice Amulet of Quoz: Target opponent may add the top card of his or her library to the ante. If he or she doesn't, you flip a coin. If you win the flip, that player loses the game. If you lose the flip, you lose the game. Activate this ability only during your upkeep.
+p138
+aV{3}: Target player puts the top three cards of his or her library into his or her graveyard.
+p139
+aV{2}, {T}, Sacrifice Grinning Totem: Search target opponent's library for a card and exile it. Then that player shuffles his or her library. Until the beginning of your next upkeep, you may play that card. At the beginning of your next upkeep, if you haven't played it, put it into its owner's graveyard.
+p140
+aV{2}{U}: Target creature can't be blocked this turn.
+p141
+aVForests you control are 1/1 green Elf creatures that are still lands.<br>{1}{G}, Sacrifice an Elf: Target creature gets +3/+3 until end of turn.
+p142
+aVTarget player reveals his or her hand and discards all nonland cards.
+p143
+aVTarget player discards a card for each Swamp you control.
+p144
+aVWhenever a permanent enters the battlefield tapped and under your control, untap it.
+p145
+aV{2}, {T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+p146
+aVBrassclaw Orcs can't block creatures with power 2 or greater.
+p147
+aV{5}, {T}, Exile Amulet of Unmaking: Exile target artifact, creature, or land. Activate this ability only any time you could cast a sorcery.
+p148
+aVLook at the top seven cards of your library. Put two of them into your hand and the rest into your graveyard.
+p149
+aVFlash <i>(You may cast this spell any time you could cast an instant.)</i><br>Deathtouch <i>(Any amount of damage this deals to a creature is enough to destroy it.)</i>
+p150
+aVCreatures you control get +1/+1 as long as you control no nonartifact, nonwhite creatures.
+p151
+aV{1}, Discard a card at random: Put a +1/+1 counter on target creature.
+p152
+aV{1}: Carrion Ants gets +1/+1 until end of turn.
+p153
+aVChangeling <i>(This card is every creature type at all times.)</i><br>{T}: Target creature gains all creature types until end of turn.<br>{T}: Target creature loses all creature types until end of turn.
+p154
+aVChangeling <i>(This card is every creature type at all times.)</i><br>{T}: Target creature gains all creature types until end of turn.<br>{T}: Target creature loses all creature types until end of turn.
+p155
+aVBlocking creatures gain first strike until end of turn.
+p156
+aVFirst strike, haste
+p157
+aVFirst strike <i>(This creature deals combat damage before creatures without first strike.)</i>
+p158
+aVYou may have Lone Wolf assign its combat damage as though it weren't blocked.
+p159
+aVWhenever Amphibious Kavu blocks or becomes blocked by one or more blue and/or black creatures, Amphibious Kavu gets +3/+3 until end of turn.
+p160
+asS'costs'
+p161
+(lp162
+V{3}{U}
+p163
+aV{3}{G}
+p164
+aV{W}{W}
+p165
+aV{2}
+p166
+aV{2}
+p167
+aV{1}{U}{U}
+p168
+aV{1}{W}
+p169
+aV{2}{W}
+p170
+aV{3}{U}{U}{U}
+p171
+aV{W}{W}
+p172
+aV{4}{R}
+p173
+aV{3}{R}{R}
+p174
+aV{5}{U}{U}
+p175
+aV{2}{W}
+p176
+aV{1}{W}
+p177
+aV{6}
+p178
+aV{1}{U}{U}
+p179
+aV{4}
+p180
+aV{1}{R}
+p181
+aV{3}{G}{G}
+p182
+aV{3}{U}{U}{U}
+p183
+aV{3}{B}
+p184
+aV{1}
+p185
+aV{2}
+p186
+aV{4}{R}
+p187
+aV{5}
+p188
+aV{4}
+p189
+aV{1}{G}
+p190
+aV{2}
+p191
+aV{1}{R}
+p192
+aV{W}{W}
+p193
+aV{3}{B}
+p194
+aV{1}{U}
+p195
+aV{3}{R}
+p196
+aV{4}{R}
+p197
+aV{4}{R}
+p198
+aV{3}{B}
+p199
+aV{2}{G}
+p200
+asS'names'
+p201
+(lp202
+VAmphin Cutthroat
+p203
+aVAmbassador Oak
+p204
+aVAmrou Kithkin
+p205
+aVAmulet of Kroog
+p206
+aVAmulet of Kroog
+p207
+aVAmbassador Laquatus
+p208
+aVAmrou Scout
+p209
+aVAmrou Seekers
+p210
+aVAmnesia
+p211
+aVAmrou Kithkin
+p212
+aVAmbush Party
+p213
+aVAmass the Components
+p214
+aVAmugaba
+p215
+aVAmrou Seekers
+p216
+aVAmrou Scout
+p217
+aVAmulet of Quoz
+p218
+aVAmbassador Laquatus
+p219
+aVAmber Prison
+p220
+aVAmphin Pathmage
+p221
+aVAmbush Commander
+p222
+aVAmnesia
+p223
+aVAmbition's Cost
+p224
+aVAmulet of Vigor
+p225
+aVAmulet of Kroog
+p226
+aVAmbush Party
+p227
+aVAmulet of Unmaking
+p228
+aVAmber Prison
+p229
+aVAmbush Viper
+p230
+aVAmulet of Kroog
+p231
+aVAmok
+p232
+aVAmrou Kithkin
+p233
+aVAmoeboid Changeling
+p234
+aVAmoeboid Changeling
+p235
+aVAmbush
+p236
+aVAmbush Party
+p237
+aVAmbush Party
+p238
+aVAmbition's Cost
+p239
+aVAmphibious Kavu
+p240
+asS'toughs'
+p241
+(lp242
+V1
+p243
+aV3
+p244
+aV2
+p245
+aS'N/A'
+p246
+ag246
+ag245
+ag243
+ag244
+ag246
+ag243
+ag244
+ag246
+aV*
+p247
+ag245
+ag244
+ag246
+ag244
+ag246
+ag243
+ag245
+ag246
+ag246
+ag246
+ag246
+aV6
+p248
+ag246
+ag246
+ag243
+ag246
+ag246
+aV4
+p249
+aV5
+p250
+ag243
+ag246
+ag245
+ag243
+ag246
+ag248
+asS'artists'
+p251
+(lp252
+S''
+p253
+aVSteve Prescott
+p254
+aVQuinton Hoover
+p255
+aVMargaret Organ-Kean
+p256
+aVMargaret Organ-Kean
+p257
+aVJim Murray
+p258
+ag253
+ag253
+aVMark Poole
+p259
+aVAnson Maddocks
+p260
+aVCharles Gillespie
+p261
+aVMatt Stewart
+p262
+aVHeather Hudson
+p263
+aVQuinton Hoover
+p264
+aVQuinton Hoover
+p265
+aVDan Frazier
+p266
+aVEric Peterson
+p267
+aVDonato Giancola
+p268
+aVMark Winters
+p269
+aVDarrell Riche
+p270
+aVMark Poole
+p271
+aVJunko Taguchi
+p272
+aVWarren Mahy
+p273
+aVMargaret Organ-Kean
+p274
+aVCharles Gillespie
+p275
+aVKaja Foglio
+p276
+aVDonato Giancola
+p277
+aVAlan Pollack
+p278
+aVMargaret Organ-Kean
+p279
+aVDermot Power
+p280
+aVQuinton Hoover
+p281
+aVNils Hamm
+p282
+aVNils Hamm
+p283
+aVAlan Rabinowitz
+p284
+aVMark Poole
+p285
+aVMark Poole
+p286
+aVJunko Taguchi
+p287
+aVWayne England
+p288
+asS'powers'
+p289
+(lp290
+g243
+ag244
+ag243
+ag246
+ag246
+ag245
+ag245
+ag244
+ag246
+ag243
+ag244
+ag246
+ag247
+ag245
+ag244
+ag246
+ag243
+ag246
+ag244
+ag245
+ag246
+ag246
+ag246
+ag246
+aV7
+p291
+ag246
+ag246
+ag245
+ag246
+ag246
+aV8
+p292
+ag243
+ag243
+ag246
+ag245
+ag243
+ag246
+ag245
+asS'types'
+p293
+(lp294
+VCreature - Salamander Rogue
+p295
+aVCreature - Treefolk Warrior
+p296
+aVCreature - Kithkin
+p297
+aVArtifact
+p298
+aVArtifact
+p299
+aVLegendary Creature - Merfolk Wizard
+p300
+aVCreature - Kithkin Rebel Scout
+p301
+aVCreature - Kithkin Rebel
+p302
+aVSorcery
+p303
+aVCreature - Kithkin
+p304
+aVCreature - Human Rogue
+p305
+aVSorcery
+p306
+aVCreature - Illusion
+p307
+aVCreature - Kithkin Rebel
+p308
+aVCreature - Kithkin Rebel Scout
+p309
+aVArtifact
+p310
+aVLegendary Creature - Merfolk Wizard
+p311
+aVArtifact
+p312
+aVCreature - Salamander Wizard
+p313
+aVCreature - Elf
+p314
+aVSorcery
+p315
+aVSorcery
+p316
+aVArtifact
+p317
+aVArtifact
+p318
+aVCreature - Human Rogue
+p319
+aVArtifact
+p320
+aVArtifact
+p321
+aVCreature - Snake
+p322
+aVArtifact
+p323
+aVEnchantment
+p324
+aVCreature - Kithkin
+p325
+aVCreature - Shapeshifter
+p326
+aVCreature - Shapeshifter
+p327
+aVInstant
+p328
+aVCreature - Human Rogue
+p329
+aVCreature - Human Rogue
+p330
+aVSorcery
+p331
+aVCreature - Kavu
+p332
+asS'numbers'
+p333
+(lp334
+V43
+p335
+aV113
+p336
+aV120
+p337
+aV144
+p338
+aV37
+p339
+aV65
+p340
+ag253
+ag253
+aV24
+p341
+ag244
+aV115
+p342
+aV43
+p343
+aV61
+p344
+ag245
+ag243
+ag244
+aV23
+p345
+aV272
+p346
+aV45
+p347
+aV111
+p348
+aV29
+p349
+aV118
+p350
+aV121
+p351
+ag243
+aV119
+p352
+ag245
+aV245
+p353
+aV169
+p354
+aV179
+p355
+aV9
+p356
+aV187
+p357
+aV51
+p358
+ag244
+aV49
+p359
+aV86
+p360
+aV87
+p361
+aV67
+p362
+aV78
+p363
+as.

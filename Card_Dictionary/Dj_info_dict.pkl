@@ -1,0 +1,160 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVRare
+p4
+aVRare
+p5
+aVRare
+p6
+aVRare
+p7
+aVRare
+p8
+asS'editns'
+p9
+(lp10
+VMagic 2012
+p11
+aVMagic 2010
+p12
+aVGuildpact
+p13
+aVCommander 2013 Edition
+p14
+aVDuel Decks: Izzet vs. Golgari
+p15
+aVPortal
+p16
+asS'ids'
+p17
+(lp18
+V227305
+p19
+aV190198
+p20
+aV97197
+p21
+aV376312
+p22
+aV292730
+p23
+aV4260
+p24
+asS'texts'
+p25
+(lp26
+VDragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain.<br>{T}: Add {B} or {R} to your mana pool.
+p27
+aVDragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain.<br>{T}: Add {B} or {R} to your mana pool.
+p28
+aVAt the beginning of your upkeep, Rumbling Slum deals 1 damage to each player.
+p29
+aVFlying<br>{T}: Exchange control of two target nonlegendary creatures. You can't activate this ability during combat.
+p30
+aV<i>({U/R} can be paid with either {U} or {R}.)</i><br>Flying<br>Each instant and sorcery spell you cast has replicate. The replicate cost is equal to its mana cost. <i>(When you cast it, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)</i>
+p31
+aVFlying<br>When Ingenious Thief enters the battlefield, look at target player's hand.
+p32
+asS'costs'
+p33
+(lp34
+V{1}{W}
+p35
+aV{2}{U}
+p36
+aV{5}{U/R}{U/R}
+p37
+aV{4}{U}{U}
+p38
+aV{5}{U/R}{U/R}
+p39
+aV{5}{U}{U}
+p40
+asS'names'
+p41
+(lp42
+VDjinn of Wishes
+p43
+aVDjinn of Wishes
+p44
+aVDjinn Illuminatus
+p45
+aVDjinn of Infinite Deceits
+p46
+aVDjinn Illuminatus
+p47
+aVDjinn of the Lamp
+p48
+asS'toughs'
+p49
+(lp50
+V4
+p51
+aV3
+p52
+aV5
+p53
+ag51
+ag53
+aV6
+p54
+asS'artists'
+p55
+(lp56
+S''
+p57
+aVKev Walker
+p58
+aVCarl Critchlow
+p59
+aVRobbie Trevino
+p60
+aVCarl Critchlow
+p61
+aVDiTerlizzi
+p62
+asS'powers'
+p63
+(lp64
+g51
+aV1
+p65
+ag52
+ag51
+ag52
+ag53
+asS'types'
+p66
+(lp67
+VCreature - Djinn
+p68
+aVCreature - Djinn
+p69
+aVCreature - Djinn
+p70
+aVCreature - Djinn
+p71
+aVCreature - Djinn
+p72
+aVCreature - Djinn
+p73
+asS'numbers'
+p74
+(lp75
+V51
+p76
+aV50
+p77
+aV142
+p78
+aV41
+p79
+aV12
+p80
+aV33
+p81
+as.

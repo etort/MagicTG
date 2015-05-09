@@ -1,0 +1,160 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVUncommon
+p4
+aVCommon
+p5
+aVUncommon
+p6
+aVRare
+p7
+aVRare
+p8
+asS'editns'
+p9
+(lp10
+VMagic 2013
+p11
+aVBorn of the Gods
+p12
+aVEventide
+p13
+aVWeatherlight
+p14
+aVDissension
+p15
+aVDissension
+p16
+asS'ids'
+p17
+(lp18
+V259670
+p19
+aV378451
+p20
+aV150977
+p21
+aV4465
+p22
+aV-107445
+p23
+aV107445
+p24
+asS'texts'
+p25
+(lp26
+VFirst strike <i>(This creature deals combat damage before creatures without first strike.)</i><br>Whenever Odric, Master Tactician and at least three other creatures attack, you choose which creatures block this combat and how those creatures block.
+p27
+aVEnchant creature<br>Enchanted creature has "{T}: Scry 1, then draw a card." <i>(To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)</i>
+p28
+aV{1}{B/G}: Regenerate Odious Trow.
+p29
+aVSwampwalk<br>Whenever Odylic Wraith deals damage to a player, that player discards a card.
+p30
+aVTarget player sacrifices two attacking creatures.
+p31
+aVFlip a coin. If it comes up heads, counter target instant or sorcery spell. If it comes up tails, copy that spell and you may choose new targets for the copy.<br>
+p32
+asS'costs'
+p33
+(lp34
+V{2}{W}
+p35
+aV{2}{G}
+p36
+aV{B/G}
+p37
+aV{3}{B}
+p38
+aV{3}{R}{W}
+p39
+aV{U}{R}
+p40
+asS'names'
+p41
+(lp42
+VOdric, Master Tactician
+p43
+aVOdunos River Trawler
+p44
+aVOdious Trow
+p45
+aVOdylic Wraith
+p46
+aVOdds // Ends (Ends)
+p47
+aVOdds // Ends (Odds)
+p48
+asS'toughs'
+p49
+(lp50
+V1
+p51
+aV4
+p52
+ag51
+aV5
+p53
+aS'N/A'
+p54
+ag54
+asS'artists'
+p55
+(lp56
+VMichael Komarck
+p57
+aVSeb McKinnon
+p58
+aVWarren Mahy
+p59
+aVIan Miller
+p60
+aVMichael Sutfin
+p61
+aVMichael Sutfin
+p62
+asS'powers'
+p63
+(lp64
+V3
+p65
+ag51
+ag51
+ag53
+ag54
+ag54
+asS'types'
+p66
+(lp67
+VLegendary Creature - Human Soldier
+p68
+aVCreature - Zombie
+p69
+aVCreature - Troll
+p70
+aVCreature - Wraith
+p71
+aVInstant
+p72
+aVInstant
+p73
+asS'numbers'
+p74
+(lp75
+V23
+p76
+aV79
+p77
+aV125
+p78
+aV29
+p79
+aV153
+p80
+aV153
+p81
+as.

@@ -1,0 +1,242 @@
+(dp0
+S'rares'
+p1
+(lp2
+VMythic Rare
+p3
+aVRare
+p4
+aVRare
+p5
+aVUncommon
+p6
+aVUncommon
+p7
+aVMythic Rare
+p8
+aVCommon
+p9
+aVUncommon
+p10
+aVUncommon
+p11
+aVCommon
+p12
+asS'editns'
+p13
+(lp14
+VFrom the Vault: Legends
+p15
+aVGuildpact
+p16
+aVAvacyn Restored
+p17
+aVReturn to Ravnica
+p18
+aVMagic 2015 Core Set
+p19
+aVRise of the Eldrazi
+p20
+aVRise of the Eldrazi
+p21
+aVInnistrad
+p22
+aVInnistrad
+p23
+aVDark Ascension
+p24
+asS'ids'
+p25
+(lp26
+V261321
+p27
+aV97212
+p28
+aV240154
+p29
+aV253538
+p30
+aV383422
+p31
+aV194911
+p32
+aV194908
+p33
+aV222105
+p34
+aV222108
+p35
+aV244727
+p36
+asS'texts'
+p37
+(lp38
+VWhen you cast Ulamog, the Infinite Gyre, destroy target permanent.<br>Annihilator 4 <i>(Whenever this creature attacks, defending player sacrifices four permanents.)</i><br>Ulamog is indestructible.<br>When Ulamog is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.
+p39
+aVDestroy each creature with converted mana cost 3 or less.
+p40
+aV{1}{G}, {T}: Target creature you control fights another target creature. <i>(Each deals damage equal to its power to the other.)</i>
+p41
+aVDestroy target artifact you don't control.<br>Overload {4}{R} <i>(You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")</i>
+p42
+aVEnchant creature<br>Enchanted creature gets +1/+1.<br>{4}{G}: Return Vineweft from your graveyard to your hand.
+p43
+aVWhenever Valakut Fireboar attacks, switch its power and toughness until end of turn.
+p44
+aVDestroy target nonblack creature. It can't be regenerated. You lose life equal to that creature's toughness.
+p45
+aVAt the beginning of your end step, you lose 1 life.
+p46
+aVWhenever another creature you control dies, put a +1/+1 counter on Unruly Mob.
+p47
+aVFlying<br>Undying <i>(When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</i>
+p48
+asS'costs'
+p49
+(lp50
+V{11}
+p51
+aV{2}{R}{G}
+p52
+aV{2}{G}
+p53
+aV{5}{W}
+p54
+aV{1}{R}
+p55
+aV{1}{W}{W}
+p56
+aV{2}{R}
+p57
+aV{2}{B}
+p58
+aS'0'
+p59
+aV{B}
+p60
+asS'names'
+p61
+(lp62
+VUlamog, the Infinite Gyre
+p63
+aVUlasht, the Hate Seed
+p64
+aVUlvenwald Tracker
+p65
+aVUltimate Price
+p66
+aVUlcerate
+p67
+aVUlamog, the Infinite Gyre
+p68
+aVUlamog's Crusher
+p69
+aVUlvenwald Mystics
+p70
+aVUlvenwald Primordials
+p71
+aVUlvenwald Bear
+p72
+asS'toughs'
+p73
+(lp74
+V4
+p75
+aV0
+p76
+aV2
+p77
+aS'N/A'
+p78
+ag78
+ag77
+aV5
+p79
+ag77
+ag78
+ag77
+asS'artists'
+p80
+(lp81
+VAleksi Briclot
+p82
+aVNottsuo
+p83
+aVChristopher Moeller
+p84
+aVKarl Kopinski
+p85
+aVJohann Bodin
+p86
+aVAleksi Briclot
+p87
+aVTodd Lockwood
+p88
+aVDan Scott
+p89
+aVDan Scott
+p90
+aVJohn Avon
+p91
+asS'powers'
+p92
+(lp93
+V3
+p94
+ag76
+aV1
+p95
+ag78
+ag78
+ag94
+ag95
+ag79
+ag78
+ag77
+asS'types'
+p96
+(lp97
+VLegendary Creature - Eldrazi
+p98
+aVLegendary Creature - Hellion Hydra
+p99
+aVCreature - Human Shaman
+p100
+aVInstant
+p101
+aVInstant
+p102
+aVLegendary Creature - Eldrazi
+p103
+aVCreature - Eldrazi
+p104
+aVCreature - Human Shaman Werewolf
+p105
+aVTransform Creature - Werewolf
+p106
+aVCreature - Bear
+p107
+asS'numbers'
+p108
+(lp109
+V14
+p110
+aV136
+p111
+aV200
+p112
+aV82
+p113
+aV119
+p114
+aV12
+p115
+aV13
+p116
+aV208
+p117
+aV208
+p118
+aV129
+p119
+as.

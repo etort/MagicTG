@@ -1,0 +1,739 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVUncommon
+p4
+aVRare
+p5
+aVUncommon
+p6
+aVUncommon
+p7
+aVCommon
+p8
+aVRare
+p9
+aVRare
+p10
+aVRare
+p11
+aVCommon
+p12
+aVRare
+p13
+aVUncommon
+p14
+aVCommon
+p15
+aVUncommon
+p16
+aVRare
+p17
+aVRare
+p18
+aVUncommon
+p19
+aVRare
+p20
+aVCommon
+p21
+aVCommon
+p22
+aVRare
+p23
+aVUncommon
+p24
+aVCommon
+p25
+aVRare
+p26
+aVUncommon
+p27
+aVRare
+p28
+aVCommon
+p29
+aVCommon
+p30
+aVRare
+p31
+aVCommon
+p32
+aVCommon
+p33
+aVCommon
+p34
+aVCommon
+p35
+aVUncommon
+p36
+aVCommon
+p37
+asS'editns'
+p38
+(lp39
+VSaviors of Kamigawa
+p40
+aVBattle Royale Box Set
+p41
+aVMagic 2010
+p42
+aVMagic 2014 Core Set
+p43
+aVTempest
+p44
+aVVintage Masters
+p45
+aVBetrayers of Kamigawa
+p46
+aVUrza's Destiny
+p47
+aVUrza's Destiny
+p48
+aVCommander 2013 Edition
+p49
+aVCommander 2013 Edition
+p50
+aVCommander 2013 Edition
+p51
+aVTime Spiral
+p52
+aVTime Spiral
+p53
+aVTime Spiral
+p54
+aVSeventh Edition
+p55
+aVSeventh Edition
+p56
+aVSeventh Edition
+p57
+aVMagic 2015 Core Set
+p58
+aVUrza's Legacy
+p59
+aVUrza's Legacy
+p60
+aVUrza's Legacy
+p61
+aVFifth Dawn
+p62
+aVUrza's Saga
+p63
+aVUrza's Saga
+p64
+aVUrza's Saga
+p65
+aVUrza's Saga
+p66
+aVUrza's Saga
+p67
+aVUrza's Saga
+p68
+aVTheros
+p69
+aVWeatherlight
+p70
+aVInvasion
+p71
+aVJourney into Nyx
+p72
+aVKhans of Tarkir
+p73
+aVDragon's Maze
+p74
+asS'ids'
+p75
+(lp76
+V74423
+p77
+aV21128
+p78
+aV193877
+p79
+aV370751
+p80
+aV4836
+p81
+aV383037
+p82
+aV74655
+p83
+aV15142
+p84
+aV15162
+p85
+aV376438
+p86
+aV376439
+p87
+aV376440
+p88
+aV108795
+p89
+aV109711
+p90
+aV116747
+p91
+aV15796
+p92
+aV25564
+p93
+aV25641
+p94
+aV383332
+p95
+aV12352
+p96
+aV8814
+p97
+aV12822
+p98
+aV50158
+p99
+aV5782
+p100
+aV5784
+p101
+aV5787
+p102
+aV5791
+p103
+aV5795
+p104
+aV5746
+p105
+aV373611
+p106
+aV4491
+p107
+aV22988
+p108
+aV380465
+p109
+aV386620
+p110
+aV368996
+p111
+asS'texts'
+p112
+(lp113
+VCounter target spell unless its controller pays {1} for each card in your hand.
+p114
+aVEnchant creature<br>Enchanted creature can't attack or block.
+p115
+aVW
+p116
+aVWhen Pitchburn Devils dies, it deals 3 damage to target creature or player.
+p117
+aVAs Pallimud enters the battlefield, choose an opponent.<br>Pallimud's power is equal to the number of tapped lands the chosen player controls.
+p118
+aVFlying<br>When Owl Familiar enters the battlefield, draw a card, then discard a card.
+p119
+aVPut the top card of your library into your graveyard, then draw cards equal to that card's converted mana cost.
+p120
+aVEach other non-Aura enchantment is a creature with power and toughness each equal to its converted mana cost. It's still an enchantment.
+p121
+aVTap an untapped creature you control: Tap target artifact, creature, or land.
+p122
+aV{T}: Add {1} to your mana pool.<br>{1}, {T}: Add to your mana pool one mana of any color in your commander's color identity. If you spend this mana to cast your commander, it enters the battlefield with a number of +1/+1 counters on it equal to the number of times it's been cast from the command zone this game.
+p123
+aVAt the beginning of each upkeep, if you control no Snakes, put a 1/1 black Snake creature token with deathtouch onto the battlefield.
+p124
+aVTarget player draws four cards.
+p125
+aVFlash <i>(You may cast this spell any time you could cast an instant.)</i><br>Enchant creature<br>Whenever enchanted creature deals damage to an opponent, you may draw a card.
+p126
+aVAll Slivers have "Whenever this permanent becomes the target of a spell an opponent controls, you may draw a card."
+p127
+aVWhen an opponent casts a creature spell, if Opal Guardian is an enchantment, Opal Guardian becomes a 3/4 Gargoyle creature with flying and protection from red.
+p128
+aVAll creatures are black.
+p129
+aVSquall deals 2 damage to each creature with flying.
+p130
+aVWhenever a player casts a white spell, you may pay {1}. If you do, you gain 1 life.
+p131
+aVOther red creatures you control get +1/+1.<br>{R}, {T}: Another target red creature you control gains haste until end of turn. <i>(It can attack and {T} this turn.)</i>
+p132
+aVWhen an opponent casts a creature spell, if Opal Champion is an enchantment, Opal Champion becomes a 3/3 Knight creature with first strike.
+p133
+aVWhen you have 10 or less life, if Opal Avenger is an enchantment, Opal Avenger becomes a 3/5 Soldier creature.
+p134
+aVTarget opponent reveals his or her hand. You choose a creature card from it. That player discards that card.
+p135
+aVSunburst <i>(This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)</i><br>Equipped creature gets +X/+X, where X is the number of charge counters on Opaline Bracers.<br>Equip {2} <i>({2}: Attach to target creature you control. Equip only as a sorcery.)</i>
+p136
+aVWhen an opponent plays a nonbasic land, if Hidden Herd is an enchantment, Hidden Herd becomes a 3/3 Beast creature.
+p137
+aVWhen an opponent casts an enchantment spell, if Hidden Ancients is an enchantment, Hidden Ancients becomes a 5/5 Treefolk creature.
+p138
+aVWhen an opponent casts a spell, if Veil of Birds is an enchantment, Veil of Birds becomes a 1/1 Bird creature with flying.
+p139
+aVWhen an opponent casts a spell, if Veiled Sentry is an enchantment, Veiled Sentry becomes an Illusion creature with power and toughness each equal to that spell's converted mana cost.
+p140
+aVWhen an opponent casts an artifact spell, if Hidden Guerrillas is an enchantment, Hidden Guerrillas becomes a 5/3 Soldier creature with trample.
+p141
+aVDestroy target creature. Its owner gains 4 life.
+p142
+aVEnchant creature<br>Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Purphoros.<br>When you sacrifice Ordeal of Purphoros, it deals 3 damage to target creature or player.
+p143
+aVWhenever Ophidian attacks and isn't blocked, you may draw a card. If you do, Ophidian assigns no combat damage this turn.
+p144
+aVLook at the top card of your library. You may put that card on the bottom of your library.<br><br>Draw a card.
+p145
+aVEnchant creature<br>Enchanted creature can't attack or block unless its controller pays {3}.<br>Activated abilities of enchanted creature cost {3} more to activate.
+p146
+aVFlash<br>Pearl Lake Ancient can't be countered.<br>Prowess <i>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i><br>Return three lands you control to their owner's hand: Return Pearl Lake Ancient to its owner's hand.
+p147
+aVOrzhov Guildgate enters the battlefield tapped.<br>{T}: Add {W} or {B} to your mana pool.
+p148
+asS'costs'
+p149
+(lp150
+V{2}{U}
+p151
+aV{4}{U}{U}
+p152
+aV{1}{G}
+p153
+aV{3}{U}
+p154
+aV{2}{R}
+p155
+aV{1}{G}
+p156
+aV{1}{W}{W}
+p157
+aV{2}{W}{W}
+p158
+aV{2}{U}{U}
+p159
+aS'0'
+p160
+aV{2}{B}
+p161
+aV{4}{U}{U}
+p162
+aV{2}{U}
+p163
+aV{1}{W}{U}
+p164
+aV{W}{W}{W}
+p165
+aV{2}{U}{U}
+p166
+aV{4}{U}{U}
+p167
+aV{1}{B}{B}
+p168
+aV{5}{B}
+p169
+aV{2}{W}
+p170
+aV{2}{W}
+p171
+aV{4}{U}{U}
+p172
+aV{4}
+p173
+aV{2}{W}{W}
+p174
+aV{2}{W}
+p175
+aV{4}{W}
+p176
+aV{1}{W}
+p177
+aV{W}
+p178
+aV{1}{B}{B}
+p179
+aV{2}{W}
+p180
+aV{2}{U}
+p181
+aV{U}
+p182
+aV{2}{G}
+p183
+ag160
+aV{3}{U}
+p184
+asS'names'
+p185
+(lp186
+VOppressive Will
+p187
+aVOpportunity
+p188
+aVOpen the Vaults
+p189
+aVOpportunity
+p190
+aVOpportunist
+p191
+aVOphidian
+p192
+aVOpal-Eye, Konda's Yojimbo
+p193
+aVOpalescence
+p194
+aVOpposition
+p195
+aVOpal Palace
+p196
+aVOphiomancer
+p197
+aVOpportunity
+p198
+aVOphidian Eye
+p199
+aVOpaline Sliver
+p200
+aVOpal Guardian
+p201
+aVOpposition
+p202
+aVOpportunity
+p203
+aVOppression
+p204
+aVOppressive Rays
+p205
+aVOpal Champion
+p206
+aVOpal Avenger
+p207
+aVOpportunity
+p208
+aVOpaline Bracers
+p209
+aVOpal Titan
+p210
+aVOpal Acrolith
+p211
+aVOpal Archangel
+p212
+aVOpal Gargoyle
+p213
+aVOpal Caryatid
+p214
+aVOppression
+p215
+aVOpaline Unicorn
+p216
+aVOphidian
+p217
+aVOpt
+p218
+aVOppressive Rays
+p219
+aVOpulent Palace
+p220
+aVOpal Lake Gatekeepers
+p221
+asS'toughs'
+p222
+(lp223
+S'N/A'
+p224
+ag224
+ag224
+ag224
+aV3
+p225
+ag225
+aV4
+p226
+ag224
+ag224
+ag224
+aV1
+p227
+ag224
+ag224
+aV2
+p228
+ag224
+ag224
+ag224
+ag224
+ag224
+ag224
+ag224
+ag224
+ag224
+ag224
+ag224
+ag224
+ag224
+ag224
+ag224
+ag224
+ag225
+ag224
+ag224
+ag224
+ag226
+asS'artists'
+p229
+(lp230
+VPat Lee
+p231
+aVRon Spears
+p232
+aVBrian Despain
+p233
+aVAllen Williams
+p234
+aVDan Frazier
+p235
+aVCliff Nielsen
+p236
+aVGreg Staples
+p237
+aVJohn Avon
+p238
+aVTodd Lockwood
+p239
+aVAndreas Rocha
+p240
+aVJohn Stanko
+p241
+aVAllen Williams
+p242
+aVZoltan Boros & Gabor Szikszai
+p243
+aVDave Dorman
+p244
+aVChristopher Rush
+p245
+aVMark Brill
+p246
+aVPatrick Faricy
+p247
+aVAlex Horley-Orlandelli
+p248
+aVMark Zug
+p249
+aVEdward P. Beard, Jr.
+p250
+aVEdward P. Beard, Jr.
+p251
+aVRon Spears
+p252
+aVAnthony S. Waters
+p253
+aVPaolo Parente
+p254
+aVRobh Ruppel
+p255
+aVJeff Miracola
+p256
+aVKev Walker
+p257
+aVBerry
+p258
+aVPete Venters
+p259
+aVChristine Choi
+p260
+aVCliff Nielsen
+p261
+aVJohn Howe
+p262
+aVMark Zug
+p263
+aVAdam Paquette
+p264
+aVSeb McKinnon
+p265
+asS'powers'
+p266
+(lp267
+g224
+ag224
+ag224
+ag224
+ag225
+ag228
+ag227
+ag224
+ag224
+ag224
+ag227
+ag224
+ag224
+ag228
+ag224
+ag224
+ag224
+ag224
+ag224
+ag224
+ag224
+ag224
+ag224
+ag224
+ag224
+ag224
+ag224
+ag224
+ag224
+ag224
+ag225
+ag224
+ag224
+ag224
+ag228
+asS'types'
+p268
+(lp269
+VInstant
+p270
+aVInstant
+p271
+aVSorcery
+p272
+aVInstant
+p273
+aVCreature - Human Soldier
+p274
+aVCreature - Snake
+p275
+aVLegendary Creature - Fox Samurai
+p276
+aVEnchantment
+p277
+aVEnchantment
+p278
+aVLand
+p279
+aVCreature - Human Shaman
+p280
+aVInstant
+p281
+aVEnchantment - Aura
+p282
+aVCreature - Sliver
+p283
+aVEnchantment
+p284
+aVEnchantment
+p285
+aVInstant
+p286
+aVEnchantment
+p287
+aVEnchantment - Aura
+p288
+aVEnchantment
+p289
+aVEnchantment
+p290
+aVInstant
+p291
+aVArtifact - Equipment
+p292
+aVEnchantment
+p293
+aVEnchantment
+p294
+aVEnchantment
+p295
+aVEnchantment
+p296
+aVEnchantment
+p297
+aVEnchantment
+p298
+aVArtifact Creature - Unicorn
+p299
+aVCreature - Snake
+p300
+aVInstant
+p301
+aVEnchantment - Aura
+p302
+aVLand
+p303
+aVCreature - Vedalken Soldier
+p304
+asS'numbers'
+p305
+(lp306
+V50
+p307
+aV99
+p308
+aV21
+p309
+aV66
+p310
+aV162
+p311
+aV84
+p312
+aV17
+p313
+aV13
+p314
+aV40
+p315
+aV310
+p316
+aV84
+p317
+aV51
+p318
+aV70
+p319
+aV244
+p320
+aV30
+p321
+aV92
+p322
+aV91
+p323
+aV152
+p324
+aV21
+p325
+aV16
+p326
+aV15
+p327
+aV37
+p328
+aV141
+p329
+aV26
+p330
+aV22
+p331
+aV23
+p332
+aV25
+p333
+aV24
+p334
+aV143
+p335
+aV218
+p336
+aV48
+p337
+aV64
+p338
+aV19
+p339
+aV238
+p340
+aV16
+p341
+as.

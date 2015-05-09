@@ -1,0 +1,1335 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVCommon
+p4
+aVUncommon
+p5
+aVCommon
+p6
+aVCommon
+p7
+aVUncommon
+p8
+aVCommon
+p9
+aVMythic Rare
+p10
+aVRare
+p11
+aVCommon
+p12
+aVUncommon
+p13
+aVUncommon
+p14
+aVCommon
+p15
+aVUncommon
+p16
+aVUncommon
+p17
+aVUncommon
+p18
+aVRare
+p19
+aVUncommon
+p20
+aVRare
+p21
+aVUncommon
+p22
+aVUncommon
+p23
+aVUncommon
+p24
+aVCommon
+p25
+aVRare
+p26
+aVUncommon
+p27
+aVUncommon
+p28
+aVUncommon
+p29
+aVCommon
+p30
+aVRare
+p31
+aVUncommon
+p32
+aVRare
+p33
+aVUncommon
+p34
+aVUncommon
+p35
+aVUncommon
+p36
+aVRare
+p37
+aVRare
+p38
+aVUncommon
+p39
+aVUncommon
+p40
+aVRare
+p41
+aVRare
+p42
+aVCommon
+p43
+aVCommon
+p44
+aVUncommon
+p45
+aVRare
+p46
+aVUncommon
+p47
+aVUncommon
+p48
+aVUncommon
+p49
+aVUncommon
+p50
+aVCommon
+p51
+aVCommon
+p52
+aVCommon
+p53
+aVCommon
+p54
+aVRare
+p55
+aVCommon
+p56
+aVUncommon
+p57
+aVUncommon
+p58
+aVRare
+p59
+aVRare
+p60
+aVRare
+p61
+aVUncommon
+p62
+aVUncommon
+p63
+aVRare
+p64
+aVRare
+p65
+aVRare
+p66
+aVRare
+p67
+asS'editns'
+p68
+(lp69
+VMagic 2012
+p70
+aVMagic 2012
+p71
+aVLimited Edition Beta
+p72
+aVMorningtide
+p73
+aVMorningtide
+p74
+aVFourth Edition
+p75
+aVScars of Mirrodin
+p76
+aVScars of Mirrodin
+p77
+aVMagic 2010
+p78
+aVTenth Edition
+p79
+aVTenth Edition
+p80
+aVTenth Edition
+p81
+aVMercadian Masques
+p82
+aVMercadian Masques
+p83
+aVMercadian Masques
+p84
+aVVintage Masters
+p85
+aVThe Dark
+p86
+aVMirrodin Besieged
+p87
+aVMasters Edition III
+p88
+aVMasters Edition III
+p89
+aVMasters Edition III
+p90
+aVRevised Edition
+p91
+aVNinth Edition
+p92
+aVAvacyn Restored
+p93
+aVPlanechase 2012 Edition
+p94
+aVChampions of Kamigawa
+p95
+aVUrza's Destiny
+p96
+aVRavnica: City of Guilds
+p97
+aVCommander 2013 Edition
+p98
+aVOdyssey
+p99
+aVGatecrash
+p100
+aVColdsnap
+p101
+aVUnlimited Edition
+p102
+aVIce Age
+p103
+aVZendikar
+p104
+aVZendikar
+p105
+aVClassic Sixth Edition
+p106
+aVMirrodin
+p107
+aVMirrodin
+p108
+aVMirrodin
+p109
+aVMirrodin
+p110
+aVShards of Alara
+p111
+aVSeventh Edition
+p112
+aVUrza's Legacy
+p113
+aVRise of the Eldrazi
+p114
+aVRise of the Eldrazi
+p115
+aVShadowmoor
+p116
+aVFifth Dawn
+p117
+aVFuture Sight
+p118
+aVFuture Sight
+p119
+aVPortal Second Age
+p120
+aVUrza's Saga
+p121
+aVUrza's Saga
+p122
+aVMagic: The Gathering\u2014Conspiracy
+p123
+aVEighth Edition
+p124
+aVFifth Edition
+p125
+aVMirage
+p126
+aVInnistrad
+p127
+aVInnistrad
+p128
+aVInnistrad
+p129
+aVLimited Edition Alpha
+p130
+aVPortal Three Kingdoms
+p131
+aVPortal Three Kingdoms
+p132
+aVPortal Three Kingdoms
+p133
+aVPortal Three Kingdoms
+p134
+asS'ids'
+p135
+(lp136
+V226905
+p137
+aV220199
+p138
+aV462
+p139
+aV152581
+p140
+aV153147
+p141
+aV2229
+p142
+aV194178
+p143
+aV210236
+p144
+aV191388
+p145
+aV129631
+p146
+aV129912
+p147
+aV135226
+p148
+aV19617
+p149
+aV19860
+p150
+aV22053
+p151
+aV383003
+p152
+aV1770
+p153
+aV214059
+p154
+aV201285
+p155
+aV201097
+p156
+aV201286
+p157
+aV1261
+p158
+aV82968
+p159
+aV275717
+p160
+aV271235
+p161
+aV79152
+p162
+aV19116
+p163
+aV83834
+p164
+aV376402
+p165
+aV29806
+p166
+aV366240
+p167
+aV121153
+p168
+aV764
+p169
+aV2577
+p170
+aV190404
+p171
+aV197889
+p172
+aV14697
+p173
+aV45972
+p174
+aV46546
+p175
+aV47791
+p176
+aV48438
+p177
+aV176441
+p178
+aV11390
+p179
+aV12386
+p180
+aV193549
+p181
+aV193518
+p182
+aV154397
+p183
+aV72862
+p184
+aV126186
+p185
+aV130691
+p186
+aV6557
+p187
+aV5756
+p188
+aV8817
+p189
+aV382299
+p190
+aV45437
+p191
+aV3997
+p192
+aV3396
+p193
+aV221173
+p194
+aV221179
+p195
+aV230624
+p196
+aV167
+p197
+aV10536
+p198
+aV10614
+p199
+aV10616
+p200
+aV10710
+p201
+asS'texts'
+p202
+(lp203
+VWhen Master Thief enters the battlefield, gain control of target artifact for as long as you control Master Thief.
+p204
+aV{T}: Draw a card, then discard a card.
+p205
+aVR
+p206
+aVWhenever Lunk Errant attacks alone, it gets +1/+1 and gains trample until end of turn.
+p207
+aVVengeful Firebrand has haste as long as a Warrior card is in your graveyard.<br>{R}: Vengeful Firebrand gets +1/+0 until end of turn.
+p208
+aVFlying; banding <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
+p209
+aVDestroy target land. Melt Terrain deals 2 damage to that land's controller.
+p210
+aVName a nonland card. Search target player's graveyard, hand, and library for any number of cards with that name and exile them. Then that player shuffles his or her library.
+p211
+aVWhenever you cast an enchantment spell, you may draw a card.
+p212
+aV{2}, {T}: Target player puts the top two cards of his or her library into his or her graveyard.
+p213
+aVAt the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Lavaborn Muse deals 3 damage to him or her.
+p214
+aV{X}, {T}: Search your library for a creature card with converted mana cost X or less, reveal it, and put it into your hand. Then shuffle your library.
+p215
+aV{X}{R}: This turn, creatures can't block unless their controller pays {X} for each blocking creature he or she controls.
+p216
+aVWhenever Saber Ants is dealt damage, you may put that many 1/1 green Insect creature tokens onto the battlefield.
+p217
+ag206
+aVAt the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.<br>{T}: Add {2} to your mana pool.
+p218
+aVLurker can't be the target of spells unless it attacked or blocked this turn.
+p219
+aVWhenever another artifact is put into a graveyard from the battlefield, Magnetic Mine deals 2 damage to that artifact's controller.
+p220
+aVOther green creatures you control get +1/+1.
+p221
+aVTarget player discards X cards at random.
+p222
+aVDestroy target creature. Its owner gains 4 life.
+p223
+ag206
+aVBeast of Burden's power and toughness are each equal to the number of creatures on the battlefield.
+p224
+aVWhen Maalfeld Twins dies, put two 2/2 black Zombie creature tokens onto the battlefield.
+p225
+aVCreatures you control have haste.<br>Cascade, cascade <i>(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order. Then do it again.)</i>
+p226
+ag206
+aVWhen an opponent has 10 or less life, if Lurking Jackals is an enchantment, it becomes a 3/2 Hound creature.
+p227
+aV{1}{U}{B}: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card and gains this ability.
+p228
+aVHorsemanship <i>(This creature can't be blocked except by creatures with horsemanship.)</i><br>Whenever Lu Xun, Scholar General deals damage to an opponent, you may draw a card.
+p229
+aVUntil end of turn, whenever target creature deals damage, you gain that much life.<br>Draw a card.
+p230
+aVEnchant creature<br>Enchanted creature gets +3/+0 and can't be blocked except by two or more creatures.
+p231
+aS''
+p232
+ag206
+aVLook at target player's hand and choose X cards from it. That player discards those cards.
+p233
+aVAt the beginning of each opponent's end step, if you didn't lose life this turn, you may put a quest counter on Luminarch Ascension. <i>(Damage causes loss of life.)</i><br>{1}{W}: Put a 4/4 white Angel creature token with flying onto the battlefield. Activate this ability only if Luminarch Ascension has four or more quest counters on it.
+p234
+aVAs an additional cost to cast Magma Rift, sacrifice a land.<br>Magma Rift deals 5 damage to target creature.
+p235
+aVMountainwalk
+p236
+aVFlying<br>Whenever an artifact enters the battlefield under your control, you may tap target permanent.
+p237
+aVFlying<br>At the beginning of your upkeep, you may put a 1/1 white Spirit creature token with flying onto the battlefield.
+p238
+aV{1}, {T}: Target player draws a card, then discards a card. If that player discards an artifact card this way, untap Lumengrid Augur.
+p239
+ag206
+aVWhen Corpse Connoisseur enters the battlefield, you may search your library for a creature card and put that card into your graveyard. If you do, shuffle your library.<br>Unearth {3}{B} <i>({3}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</i>
+p240
+ag206
+aVWhen a creature is put into an opponent's graveyard from the battlefield, if Lurking Skirge is an enchantment, Lurking Skirge becomes a 3/2 Imp creature with flying.
+p241
+aVFlying
+p242
+aVEnchant creature<br>Enchanted creature gets +3/+3 and has vigilance.<br>Totem armor <i>(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)</i>
+p243
+aVFlash<br>When Prismwake Merrow enters the battlefield, target permanent becomes the color or colors of your choice until end of turn.
+p244
+aVProtection from black and from red<br>Whenever another creature enters the battlefield, you may gain 1 life.
+p245
+aVArc Blade deals 2 damage to target creature or player. Exile Arc Blade with three time counters on it.<br>Suspend 3\u2014{2}{R} <i>(Rather than cast this card from your hand, you may pay {2}{R} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)</i>
+p246
+aVFlying; flanking  <i>(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)</i><br>Suspend 3\u2014{W} <i>(Rather than cast this card from your hand, you may pay {W} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)</i>
+p247
+aVFlying<br>When Foul Spirit enters the battlefield, sacrifice a land.
+p248
+aVHaste<br>Echo {1}{R} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i>
+p249
+aVPut X 1/1 red Goblin creature tokens onto the battlefield.
+p250
+aVFlying<br>Will of the council- When Magister of Worth enters the battlefield, starting with you, each player votes for grace or condemnation. If grace gets more votes, each player returns each creature card from his or her graveyard to the battlefield. If condemnation gets more votes or the vote is tied, destroy all creatures other than Magister of Worth.
+p251
+aVWhenever a creature dies, that creature's controller may draw a card.
+p252
+aVFlying<br>{1}{W}: Mesa Falcon gets +0/+1 until end of turn.
+p253
+aVCast Lure of Prey only if an opponent cast a creature spell this turn.<br>You may put a green creature card from your hand onto the battlefield.
+p254
+aVHexproof <i>(This creature can't be the target of spells or abilities your opponents control.)</i><br>Whenever a creature dies, put a +1/+1 counter on Lumberknot.
+p255
+aVReturn two cards at random from your graveyard to your hand.
+p256
+aVAs an additional cost to cast Makeshift Mauler, exile a creature card from your graveyard.
+p257
+aVW
+p258
+aVMountainwalk
+p259
+aVWhenever Shu Defender blocks, it gets +0/+2 until end of turn.
+p260
+aVDesert Sandstorm deals 1 damage to each creature.
+p261
+aVOther green creatures you control get +1/+1.
+p262
+asS'costs'
+p263
+(lp264
+V{W}
+p265
+aV{3}{R}
+p266
+aV{1}{G}{G}
+p267
+aV{5}{R}
+p268
+aV{2}{G}
+p269
+aV{1}{G}{G}
+p270
+aV{2}
+p271
+aV{2}{W}
+p272
+aV{3}{R}
+p273
+aV{1}{U}
+p274
+aV{W}
+p275
+aV{1}{G}{G}
+p276
+aV{2}{R}
+p277
+aV{2}{G}{G}
+p278
+aV{1}{G}{G}
+p279
+aV{0}
+p280
+aV{2}{G}
+p281
+aV{6}
+p282
+aV{5}{R}
+p283
+aV{3}{U}{U}
+p284
+aV{2}{U}{U}
+p285
+aV{1}{G}{G}
+p286
+aV{1}{U}
+p287
+aV{2}{R}
+p288
+aV{2}{G}{G}
+p289
+aV{1}{G}{G}
+p290
+aV{B}
+p291
+aV{1}{U/B}
+p292
+aV{2}{U}{U}
+p293
+aV{3}{W}
+p294
+aV{4}{U}
+p295
+aV{W}
+p296
+aV{1}{G}{G}
+p297
+aV{1}{G}{G}
+p298
+aV{1}{G}
+p299
+aV{1}{U}{U}
+p300
+aV{1}{G}{G}
+p301
+aV{2}{U}
+p302
+aV{4}{W}{W}{W}
+p303
+aV{3}{U}
+p304
+aV{1}{U}
+p305
+aV{U}
+p306
+aV{1}{G}{G}
+p307
+aV{1}{B}
+p308
+aV{3}{R}
+p309
+aV{2}{W}
+p310
+aV{3}
+p311
+aV{7}
+p312
+aV{1}{W}
+p313
+aV{3}{W}{W}
+p314
+aV{B}{B}
+p315
+aV{1}{G}
+p316
+aV{B}{B}{B}
+p317
+aV{2}
+p318
+aV{1}{G}{G}
+p319
+aV{1}{G}{G}
+p320
+aV{2}{G}{G}
+p321
+aS'0'
+p322
+aV{1}{B}{B}
+p323
+aV{3}{U}{U}
+p324
+aV{1}{G}{G}
+p325
+aV{5}{R}
+p326
+aV{3}{U}{U}
+p327
+aV{2}{U}{U}
+p328
+aV{3}{U}{U}
+p329
+asS'names'
+p330
+(lp331
+VLure
+p332
+aVLurking Crocodile
+p333
+aVLure
+p334
+aVLunk Errant
+p335
+aVLuminescent Rain
+p336
+aVLure
+p337
+aVLumengrid Drake
+p338
+aVLux Cannon
+p339
+aVLurking Predators
+p340
+aVLumengrid Warden
+p341
+aVLuminesce
+p342
+aVLure
+p343
+aVLunge
+p344
+aVLumbering Satyr
+p345
+aVLure
+p346
+aVLurking Evil
+p347
+aVLurker
+p348
+aVLumengrid Gargoyle
+p349
+aVLu Bu, Master-at-Arms
+p350
+aVLu Meng, Wu General
+p351
+aVLu Xun, Scholar General
+p352
+aVLure
+p353
+aVLumengrid Warden
+p354
+aVLunar Mystic
+p355
+aVLumberknot
+p356
+aVLure
+p357
+aVLurking Jackals
+p358
+aVLurking Informant
+p359
+aVLu Xun, Scholar General
+p360
+aVLuminous Guardian
+p361
+aVLuminate Primordial
+p362
+aVLuminesce
+p363
+aVLure
+p364
+aVLure
+p365
+aVLullmage Mentor
+p366
+aVLuminarch Ascension
+p367
+aVLure
+p368
+aVLumengrid Sentinel
+p369
+aVLuminous Angel
+p370
+aVLumengrid Augur
+p371
+aVLumengrid Warden
+p372
+aVLush Growth
+p373
+aVLure
+p374
+aVLurking Skirge
+p375
+aVLuminous Wake
+p376
+aVLust for War
+p377
+aVLurebound Scarecrow
+p378
+aVLunar Avenger
+p379
+aVLumithread Field
+p380
+aVLucent Liminid
+p381
+aVLurking Nightstalker
+p382
+aVLull
+p383
+aVLurking Evil
+p384
+aVLurking Automaton
+p385
+aVLure
+p386
+aVLure
+p387
+aVLure of Prey
+p388
+aVLudevic's Abomination
+p389
+aVLudevic's Test Subject
+p390
+aVLumberknot
+p391
+aVLure
+p392
+aVLu Bu, Master-at-Arms
+p393
+aVLu Su, Wu Advisor
+p394
+aVLu Xun, Scholar General
+p395
+aVLu Meng, Wu General
+p396
+asS'toughs'
+p397
+(lp398
+S'N/A'
+p399
+aV2
+p400
+ag399
+aV4
+p401
+ag399
+ag399
+ag400
+ag399
+ag399
+aV1
+p402
+ag399
+ag399
+ag399
+aV3
+p403
+ag399
+ag399
+ag400
+ag399
+ag402
+ag403
+ag401
+ag399
+ag403
+ag402
+ag400
+ag399
+ag399
+ag402
+aV5
+p404
+ag401
+ag402
+ag399
+ag399
+ag399
+aV8
+p405
+ag399
+ag399
+ag400
+ag402
+ag400
+ag403
+ag399
+ag399
+ag399
+ag399
+ag399
+ag399
+ag399
+ag399
+ag399
+ag402
+ag399
+ag399
+ag399
+ag399
+ag399
+ag399
+ag399
+aV6
+p406
+ag400
+ag399
+ag403
+ag400
+ag403
+ag401
+asS'artists'
+p407
+(lp408
+g232
+ag232
+aVAnson Maddocks
+p409
+aVWarren Mahy
+p410
+aVJohn Avon
+p411
+aVAnson Maddocks
+p412
+aVJohann Bodin
+p413
+aVMartina Pilcerova
+p414
+aVMike Bierek
+p415
+aVFrancis Tsai
+p416
+aVDaren Bader
+p417
+aVD. Alexander Gregory
+p418
+aVDan Frazier
+p419
+aVAlan Pollack
+p420
+aVDiTerlizzi
+p421
+aVScott Kirschner
+p422
+aVAnson Maddocks
+p423
+ag232
+aVGao Yan
+p424
+aVXu Xiaoming
+p425
+aVMark Tedin
+p426
+aVAnson Maddocks
+p427
+aVFrancis Tsai
+p428
+aVMike Sass
+p429
+ag232
+aVD. Alexander Gregory
+p430
+aVGreg Staples
+p431
+aVRon Spears
+p432
+aVXu Xiaoming
+p433
+aVTerese Nielsen
+p434
+aVStephan Martiniere
+p435
+aVDaren Bader
+p436
+aVAnson Maddocks
+p437
+aVPhil Foglio
+p438
+aVJaime Jones
+p439
+aVMichael Komarck
+p440
+aVAnson Maddocks
+p441
+aVScott M. Fischer
+p442
+aVMatthew D. Wilson
+p443
+aVrk post
+p444
+aVMatt Thompson
+p445
+aVJesper Ejsing
+p446
+aVLarry Elmore
+p447
+aVDaren Bader
+p448
+aVMike Bierek
+p449
+aVRaymond Swanland
+p450
+aVNils Hamm
+p451
+aVPaolo Parente
+p452
+aVScott Altmann
+p453
+aVEric Fortune
+p454
+aVKev Walker
+p455
+aVTerese Nielsen
+p456
+aVScott Kirschner
+p457
+aVYeong-Hao Han
+p458
+aVDiTerlizzi
+p459
+aVAnson Maddocks
+p460
+aVAndrew Robinson
+p461
+aVNils Hamm
+p462
+aVNils Hamm
+p463
+aVJason A. Engle
+p464
+aVAnson Maddocks
+p465
+aVGao Jianzhang
+p466
+aVZhao Tan
+p467
+aVXu Xiaoming
+p468
+aVGao Yan
+p469
+asS'powers'
+p470
+(lp471
+g399
+ag400
+ag399
+ag401
+ag399
+ag399
+ag404
+ag399
+ag399
+ag402
+ag399
+ag399
+ag399
+ag403
+ag399
+ag399
+ag402
+ag399
+ag402
+ag401
+ag401
+ag399
+ag402
+ag401
+aV0
+p472
+ag399
+ag399
+ag400
+ag406
+ag402
+aV7
+p473
+ag399
+ag399
+ag399
+ag400
+ag399
+ag399
+ag402
+ag402
+ag400
+ag400
+ag399
+ag399
+ag399
+ag399
+ag399
+ag399
+ag399
+ag399
+ag399
+ag402
+ag399
+ag399
+ag399
+ag399
+ag399
+ag399
+ag399
+ag403
+ag400
+ag399
+ag401
+ag402
+ag402
+ag401
+asS'types'
+p474
+(lp475
+VEnchantment - Aura
+p476
+aVCreature - Crocodile
+p477
+aVEnchantment - Aura
+p478
+aVCreature - Giant Warrior
+p479
+aVInstant
+p480
+aVEnchantment - Aura
+p481
+aVCreature - Drake
+p482
+aVArtifact
+p483
+aVEnchantment
+p484
+aVCreature - Human Wizard
+p485
+aVInstant
+p486
+aVEnchantment - Aura
+p487
+aVInstant
+p488
+aVCreature - Satyr Beast
+p489
+aVEnchantment - Aura
+p490
+aVEnchantment
+p491
+aVCreature - Beast
+p492
+aVArtifact Creature - Gargoyle
+p493
+aVLegendary Creature - Human Soldier Warrior
+p494
+aVLegendary Creature - Human Soldier
+p495
+aVLegendary Creature - Human Soldier
+p496
+aVEnchantment - Aura
+p497
+aVCreature - Human Wizard
+p498
+aVCreature - Human Wizard
+p499
+aVCreature - Treefolk
+p500
+aVEnchantment - Aura
+p501
+aVEnchantment
+p502
+aVCreature - Human Rogue
+p503
+aVLegendary Creature - Human Soldier
+p504
+aVCreature - Human Nomad
+p505
+aVCreature - Avatar
+p506
+aVInstant
+p507
+aVEnchantment - Aura
+p508
+aVEnchantment - Aura
+p509
+aVCreature - Merfolk Wizard
+p510
+aVEnchantment
+p511
+aVEnchantment - Aura
+p512
+aVCreature - Human Wizard
+p513
+aVCreature - Angel
+p514
+aVCreature - Vedalken Wizard
+p515
+aVCreature - Human Wizard
+p516
+aVEnchantment - Aura
+p517
+aVEnchantment - Aura
+p518
+aVEnchantment
+p519
+aVEnchantment - Aura
+p520
+aVEnchantment - Aura
+p521
+aVArtifact Creature - Scarecrow
+p522
+aVArtifact Creature - Golem
+p523
+aVEnchantment
+p524
+aVEnchantment Creature - Elemental
+p525
+aVCreature - Nightstalker
+p526
+aVInstant
+p527
+aVEnchantment
+p528
+aVArtifact Creature - Construct
+p529
+aVEnchantment - Aura
+p530
+aVEnchantment - Aura
+p531
+aVInstant
+p532
+aVTransform Creature - Lizard Horror
+p533
+aVCreature - Lizard
+p534
+aVCreature - Treefolk
+p535
+aVEnchantment - Aura
+p536
+aVLegendary Creature - Human Soldier Warrior
+p537
+aVLegendary Creature - Human Advisor
+p538
+aVLegendary Creature - Human Soldier
+p539
+aVLegendary Creature - Human Soldier
+p540
+asS'numbers'
+p541
+(lp542
+V183
+p543
+aV184
+p544
+aV164
+p545
+aV94
+p546
+aV129
+p547
+aV262
+p548
+aV36
+p549
+aV173
+p550
+aV190
+p551
+aV89
+p552
+aV28
+p553
+aV276
+p554
+aV203
+p555
+aV257
+p556
+aV258
+p557
+aV127
+p558
+aV38
+p559
+aV112
+p560
+aV108
+p561
+aV41
+p562
+aV42
+p563
+aV183
+p564
+aV84
+p565
+aV65
+p566
+aV114
+p567
+aV226
+p568
+aV62
+p569
+aV249
+p570
+aV49
+p571
+aV31
+p572
+aV20
+p573
+aV14
+p574
+aV164
+p575
+aV315
+p576
+aV54
+p577
+aV25
+p578
+aV240
+p579
+aV40
+p580
+aV15
+p581
+aV39
+p582
+aV41
+p583
+aV136
+p584
+aV255
+p585
+aV55
+p586
+aV35
+p587
+aV157
+p588
+aV256
+p589
+aV136
+p590
+aV25
+p591
+aV24
+p592
+aV43
+p593
+aV267
+p594
+aV140
+p595
+aV63
+p596
+aV263
+p597
+aV331
+p598
+aV111
+p599
+aV64
+p600
+aV64
+p601
+aV191
+p602
+aV203
+p603
+aV115
+p604
+aV47
+p605
+aV48
+p606
+aV46
+p607
+as.

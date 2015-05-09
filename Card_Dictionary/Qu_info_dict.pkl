@@ -1,0 +1,1532 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVRare
+p4
+aVMythic Rare
+p5
+aVCommon
+p6
+aVRare
+p7
+aVUncommon
+p8
+aVUncommon
+p9
+aVRare
+p10
+aVUncommon
+p11
+aVCommon
+p12
+aVUncommon
+p13
+aVCommon
+p14
+aVCommon
+p15
+aVRare
+p16
+aVUncommon
+p17
+aVUncommon
+p18
+aVCommon
+p19
+aVCommon
+p20
+aVCommon
+p21
+aVRare
+p22
+aVRare
+p23
+aVCommon
+p24
+aVUncommon
+p25
+aVCommon
+p26
+aVUncommon
+p27
+aVCommon
+p28
+aVCommon
+p29
+aVUncommon
+p30
+aVUncommon
+p31
+aVUncommon
+p32
+aVUncommon
+p33
+aVUncommon
+p34
+aVUncommon
+p35
+aVRare
+p36
+aVRare
+p37
+aVUncommon
+p38
+aVRare
+p39
+aVUncommon
+p40
+aVUncommon
+p41
+aVRare
+p42
+aVCommon
+p43
+aVUncommon
+p44
+aVRare
+p45
+aVUncommon
+p46
+aVCommon
+p47
+aVRare
+p48
+aVUncommon
+p49
+aVCommon
+p50
+aVCommon
+p51
+aVUncommon
+p52
+aVCommon
+p53
+aVUncommon
+p54
+aVUncommon
+p55
+aVRare
+p56
+aVRare
+p57
+aVCommon
+p58
+aVCommon
+p59
+aVCommon
+p60
+aVCommon
+p61
+aVUncommon
+p62
+aVUncommon
+p63
+aVCommon
+p64
+aVRare
+p65
+aVCommon
+p66
+aVUncommon
+p67
+aVCommon
+p68
+aVUncommon
+p69
+aVRare
+p70
+aVCommon
+p71
+aVCommon
+p72
+aVCommon
+p73
+aVCommon
+p74
+aVCommon
+p75
+aVRare
+p76
+aVRare
+p77
+asS'editns'
+p78
+(lp79
+VMagic 2012
+p80
+aVMagic 2013
+p81
+aVScars of Mirrodin
+p82
+aVMagic 2014 Core Set
+p83
+aVMagic 2014 Core Set
+p84
+aVTempest
+p85
+aVTenth Edition
+p86
+aVTenth Edition
+p87
+aVMercadian Masques
+p88
+aVMirrodin Besieged
+p89
+aVMirrodin Besieged
+p90
+aVApocalypse
+p91
+aVApocalypse
+p92
+aVGuildpact
+p93
+aVNinth Edition
+p94
+aVEventide
+p95
+aVConflux
+p96
+aVPlanechase 2012 Edition
+p97
+aVPlanechase 2012 Edition
+p98
+aVPlanechase 2012 Edition
+p99
+aVOnslaught
+p100
+aVChampions of Kamigawa
+p101
+aVBetrayers of Kamigawa
+p102
+aVBetrayers of Kamigawa
+p103
+aVUrza's Destiny
+p104
+aVRavnica: City of Guilds
+p105
+aVCommander 2013 Edition
+p106
+aVTime Spiral
+p107
+aVZendikar
+p108
+aVZendikar
+p109
+aVZendikar
+p110
+aVZendikar
+p111
+aVZendikar
+p112
+aVMirrodin
+p113
+aVMirrodin
+p114
+aVDuel Decks: Elspeth vs. Tezzeret
+p115
+aVShards of Alara
+p116
+aVProphecy
+p117
+aVMagic 2015 Core Set
+p118
+aVUrza's Legacy
+p119
+aVDarksteel
+p120
+aVJudgment
+p121
+aVPromo set for Gatherer
+p122
+aVFifth Dawn
+p123
+aVFuture Sight
+p124
+aVFuture Sight
+p125
+aVPlanechase
+p126
+aVLegions
+p127
+aVMagic: The Gathering\u2014Conspiracy
+p128
+aVMagic: The Gathering\u2014Conspiracy
+p129
+aVWorldwake
+p130
+aVWorldwake
+p131
+aVWorldwake
+p132
+aVWorldwake
+p133
+aVWorldwake
+p134
+aVWorldwake
+p135
+aVInvasion
+p136
+aVInvasion
+p137
+aVInvasion
+p138
+aVJourney into Nyx
+p139
+aVKhans of Tarkir
+p140
+aVMirage
+p141
+aVVisions
+p142
+aVVisions
+p143
+aVVisions
+p144
+aVBeatdown Box Set
+p145
+aVLegends
+p146
+aVLegends
+p147
+aVDuel Decks: Izzet vs. Golgari
+p148
+aVLorwyn
+p149
+aVPremium Deck Series: Slivers
+p150
+aVMagic 2011
+p151
+aVPlaneshift
+p152
+aVPlaneshift
+p153
+aVPlaneshift
+p154
+asS'ids'
+p155
+(lp156
+V237006
+p157
+aV288764
+p158
+aV207874
+p159
+aV370714
+p160
+aV370644
+p161
+aV4894
+p162
+aV129687
+p163
+aV130489
+p164
+aV19822
+p165
+aV213762
+p166
+aV213755
+p167
+aV26373
+p168
+aV27188
+p169
+aV96826
+p170
+aV83089
+p171
+aV152086
+p172
+aV179440
+p173
+aV226518
+p174
+aV271238
+p175
+aV271219
+p176
+aV39539
+p177
+aV50313
+p178
+aV74500
+p179
+aV74657
+p180
+aV15160
+p181
+aV87979
+p182
+aV376462
+p183
+aV111051
+p184
+aV195635
+p185
+aV197407
+p186
+aV195572
+p187
+aV180448
+p188
+aV197406
+p189
+aV46559
+p190
+aV49772
+p191
+aV222739
+p192
+aV185774
+p193
+aV24582
+p194
+aV383354
+p195
+aV8831
+p196
+aV47799
+p197
+aV20431
+p198
+aV97052
+p199
+aV47800
+p200
+aV132217
+p201
+aV136153
+p202
+aV205332
+p203
+aV42029
+p204
+aV382337
+p205
+aV382338
+p206
+aV197763
+p207
+aV194007
+p208
+aV198392
+p209
+aV198386
+p210
+aV198401
+p211
+aV197853
+p212
+aV23110
+p213
+aV26416
+p214
+aV23112
+p215
+aV380477
+p216
+aV386629
+p217
+aV3403
+p218
+aV3673
+p219
+aV3674
+p220
+aV3754
+p221
+aV26614
+p222
+aV1455
+p223
+aV1588
+p224
+aV292757
+p225
+aV139469
+p226
+aV207913
+p227
+aV205028
+p228
+aV26348
+p229
+aV27634
+p230
+aV26286
+p231
+asS'texts'
+p232
+(lp233
+VAt the beginning of each player's draw step, that player draws an additional card.<br>Each player may play an additional land on each of his or her turns.
+p234
+aVWhen Thragtusk enters the battlefield, you gain 5 life.<br>When Thragtusk leaves the battlefield, put a 3/3 green Beast creature token onto the battlefield.
+p235
+aVExile target artifact or enchantment.
+p236
+aV{3}, {T}: Rod of Ruin deals 1 damage to target creature or player.
+p237
+aV{1}{G}: Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
+p238
+aVTarget creature deals damage to itself equal to its power.
+p239
+aVEnchant creature <i>(Target a creature as you cast this. This card enters the battlefield attached to that creature.)</i><br>{G}: Regenerate enchanted creature. <i>(The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</i>
+p240
+aVSearch your library for a land card, reveal it, and put it into your hand. Then shuffle your library.
+p241
+aVDestroy all creatures with converted mana cost X or less.
+p242
+aVMetalcraft- Razorfield Rhino gets +2/+2 as long as you control three or more artifacts.
+p243
+aVRed Sun's Zenith deals X damage to target creature or player. If a creature dealt damage this way would die this turn, exile it instead. Shuffle Red Sun's Zenith into its owner's library.
+p244
+aVEnchant creature<br>Enchanted creature has "{T}: This creature deals 1 damage to target player. You draw a card."
+p245
+aV{G}, {T}, Sacrifice a creature: Destroy target enchantment.
+p246
+aVReturn target nonland permanent with converted mana cost X to its owner's hand.<br>Draw a card.
+p247
+aVSea Monster can't attack unless defending player controls an Island.
+p248
+aV{B/G}, Remove a -1/-1 counter from a creature you control: Quillspike gets +3/+3 until end of turn.
+p249
+aVYou have no maximum hand size.<br>{T}: Add {1} to your mana pool.
+p250
+aVWhen you planeswalk to Quicksilver Sea or at the beginning of your upkeep, scry 4. <i>(To scry 4, look at the top four cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</i><br>Whenever you roll chaos, reveal the top card of your library. You may play it without paying its mana cost.
+p251
+aVEquipped creature has deathtouch.<br>Whenever equipped creature deals combat damage to a player, that player loses half his or her life, rounded up.<br>Equip {3}
+p252
+aVEnchant creature<br>Enchanted creature gets +2/+0 and has trample.<br>When Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand.
+p253
+aVFlying<br>{U}: If target spell has only one target and that target is Quicksilver Dragon, change that spell's target to another creature.<br>Morph {4}{U} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p254
+aVDestroy target enchantment.
+p255
+aVTrample<br>When Iwamori of the Open Fist enters the battlefield, each opponent may put a legendary creature card from his or her hand onto the battlefield.
+p256
+aVCounter target spell. That spell's controller reveals his or her hand, then discards each card with the same name as a card spliced onto that spell.
+p257
+aVCounter target instant or sorcery spell. Search its controller's graveyard, hand, and library for all cards with the same name as that spell and exile them. Then that player shuffles his or her library.
+p258
+aVCreatures you control have vigilance as long as Gate Hound is enchanted.
+p259
+aV{G}, {T}, Sacrifice a creature: Destroy target enchantment.
+p260
+aVAll Slivers have "{T}: This permanent deals 1 damage to target attacking or blocking creature."
+p261
+aVWhenever a creature you control deals combat damage to a creature, you may put a quest counter on Quest for the Gemblades.<br>Remove a quest counter from Quest for the Gemblades and sacrifice it: Put four +1/+1 counters on target creature.
+p262
+aVWhenever a creature dies, you may put a quest counter on Quest for the Gravelord.<br>Remove three quest counters from Quest for the Gravelord and sacrifice it: Put a 5/5 black Zombie Giant creature token onto the battlefield.
+p263
+aVWhenever you cast a creature spell, you may put a quest counter on Quest for the Holy Relic.<br>Remove five quest counters from Quest for the Holy Relic and sacrifice it: Search your library for an Equipment card, put it onto the battlefield, and attach it to a creature you control. Then shuffle your library.
+p264
+aVTrample<br>Landfall- Whenever a land enters the battlefield under your control, you may put a 4/4 green Beast creature token onto the battlefield.
+p265
+aVIf an opponent had three or more cards put into his or her graveyard from anywhere this turn, you may pay {0} rather than pay Ravenous Trap's mana cost.<br>Exile all cards from target player's graveyard.
+p266
+aV{U}: Quicksilver Elemental gains all activated abilities of target creature until end of turn. <i>(If any of the abilities use that creature's name, use this creature's name instead.)</i><br>You may spend blue mana as though it were mana of any color to pay the activation costs of Quicksilver Elemental's abilities.
+p267
+aVAs an additional cost to cast Shrapnel Blast, sacrifice an artifact.<br>Shrapnel Blast deals 5 damage to target creature or player.
+p268
+aVTarget permanent you control gains protection from artifacts or from the color of your choice until end of turn.
+p269
+aVU
+p270
+aVDefender <i>(This creature can't attack.)</i><br>{4}: Return Quicksilver Wall to its owner's hand. Any player may activate this ability.
+p271
+aVWhen Reclamation Sage enters the battlefield, you may destroy target artifact or enchantment.
+p272
+aV{4}, {T}: You may put a creature card from your hand onto the battlefield.
+p273
+aVAffinity for artifacts <i>(This spell costs {1} less to cast for each artifact you control.)</i><br>When Quicksilver Behemoth attacks or blocks, return it to its owner's hand at end of combat. <i>(Return it only if it's on the battlefield.)</i>
+p274
+aVSearch target player's library for up to three cards with flashback and put them into that player's graveyard. Then the player shuffles his or her library.
+p275
+aV{G}: Questing Phelddagrif gets +1/+1 until end of turn. Target opponent puts a 1/1 green Hippo creature token onto the battlefield.<br>{W}: Questing Phelddagrif gains protection from black and from red until end of turn. Target opponent gains 2 life.<br>{U}: Questing Phelddagrif gains flying until end of turn. Target opponent may draw a card.
+p276
+aVAffinity for artifacts <i>(This spell costs {1} less to cast for each artifact you control.)</i><br>Flying
+p277
+aVTransfigure {1}{B}{B} <i>({1}{B}{B}, Sacrifice this creature: Search your library for a creature card with the same converted mana cost as this creature and put that card onto the battlefield. Then shuffle your library. Transfigure only as a sorcery.)</i>
+p278
+aVYou may choose a multicolored card you own from outside the game, reveal that card, and put it into your hand. Exile Glittering Wish.
+p279
+aVAffinity for artifacts <i>(This spell costs {1} less to cast for each artifact you control.)</i><br>Flying
+p280
+aVFlash<br>Any player may play Sliver cards as though they had flash.
+p281
+aV{T}: Target player draws a card, then discards a card.
+p282
+aVDestroy two target nonblack creatures. You lose 5 life.
+p283
+aVWhenever a Goblin enters the battlefield under your control, you may put a quest counter on Quest for the Goblin Lord.<br>As long as Quest for the Goblin Lord has five or more quest counters on it, creatures you control get +2/+0.
+p284
+aVWhenever an opponent discards a card, you may put a quest counter on Quest for the Nihil Stone.<br>At the beginning of each opponent's upkeep, if that player has no cards in hand and Quest for the Nihil Stone has two or more quest counters on it, you may have that player lose 5 life.
+p285
+aVAt the beginning of your upkeep, you may look at the top card of your library. If it's a creature card, you may reveal it and put a quest counter on Quest for Ula's Temple.<br>At the beginning of each end step, if there are three or more quest counters on Quest for Ula's Temple, you may put a Kraken, Leviathan, Octopus, or Serpent creature card from your hand onto the battlefield.
+p286
+aV{T}: Add {1} to your mana pool.<br>{T}, Sacrifice Quicksand: Target attacking creature without flying gets -1/-2 until end of turn.
+p287
+aVRaging Ravine enters the battlefield tapped.<br>{T}: Add {R} or {G} to your mana pool.<br>{2}{R}{G}: Until end of turn, Raging Ravine becomes a 3/3 red and green Elemental creature with "Whenever this creature attacks, put a +1/+1 counter on it." It's still a land.
+p288
+aVEquipped creature has "{T}, Unattach Razor Boomerang: Razor Boomerang deals 1 damage to target creature or player. Return Razor Boomerang to its owner's hand."<br>Equip {2}
+p289
+aVWhen Quirion Trailblazer enters the battlefield, you may search your library for a basic land card and put that card onto the battlefield tapped. If you do, shuffle your library.
+p290
+aVWhen Quirion Sentinel enters the battlefield, add one mana of any color to your mana pool.
+p291
+aVAs Quirion Elves enters the battlefield, choose a color.<br>{T}: Add {G} to your mana pool.<br>{T}: Add one mana of the chosen color to your mana pool.
+p292
+aV{1}{G}, Sacrifice Renowned Weaver: Put a 1/3 green Spider enchantment creature token with reach onto the battlefield. <i>(It can block creatures with flying.)</i>
+p293
+aVCreatures you control get +1/+0.<br>Whenever a Warrior you control deals combat damage to a player, you may pay 1 life. If you do, draw a card.
+p294
+aVSearch your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+p295
+aVReturn a Forest you control to its owner's hand: Untap target creature. Activate this ability only once each turn.
+p296
+aVYou may cast Spider Climb as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.<br>Enchant creature<br>Enchanted creature gets +0/+3 and has reach. <i>(It can block creatures with flying.)</i>
+p297
+aVSacrifice Resistance Fighter: Prevent all combat damage target creature would deal this turn.
+p298
+aVAs Quirion Elves enters the battlefield, choose a color.<br>{T}: Add {G} to your mana pool.<br>{T}: Add one mana of the chosen color to your mana pool.
+p299
+aVAt the beginning of each player's upkeep, destroy target nonartifact creature that player controls of his or her choice. It can't be regenerated.
+p300
+aVDefender <i>(This creature can't attack.)</i>
+p301
+aVEnchant creature<br>Enchanted creature has "{T}: This creature deals 1 damage to target player. You draw a card."
+p302
+aVWhenever a player casts a Kithkin spell, you may have target player lose 1 life.
+p303
+aVRootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.<br>{T}: Add {R} or {G} to your mana pool.
+p304
+aVRootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.<br>{T}: Add {R} or {G} to your mana pool.
+p305
+aV{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.
+p306
+aV{G}: Questing Phelddagrif gets +1/+1 until end of turn. Target opponent puts a 1/1 green Hippo creature token onto the battlefield.<br>{W}: Questing Phelddagrif gains protection from black and from red until end of turn. Target opponent gains 2 life.<br>{U}: Questing Phelddagrif gains flying until end of turn. Target opponent may draw a card.
+p307
+aVWhenever you cast a white, blue, black, or red spell, put a +1/+1 counter on Quirion Dryad.
+p308
+asS'costs'
+p309
+(lp310
+V{U}
+p311
+aV{1}{G}
+p312
+aV{1}{B}
+p313
+aV{3}{W}{W}{W}
+p314
+aV{1}{G}
+p315
+aV{1}{W}
+p316
+aS'0'
+p317
+aV{1}{G}
+p318
+aV{2}{B}
+p319
+aV{4}{U}
+p320
+aV{4}{G}{G}{G}
+p321
+aV{1}{U}{R}
+p322
+aV{2}{B}
+p323
+aV{U}
+p324
+ag317
+aV{2}{B/G}
+p325
+aV{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}
+p326
+ag317
+aV{1}{G}
+p327
+aV{3}
+p328
+aV{4}{U}{U}
+p329
+aV{W}
+p330
+aV{2}{U}{U}
+p331
+aV{4}{U}
+p332
+aV{2}{U}{U}
+p333
+aV{1}{U}
+p334
+aV{2}{B}
+p335
+aV{1}{W}
+p336
+aV{1}{R}
+p337
+aV{1}{R}
+p338
+aV{U}
+p339
+aV{R}
+p340
+aV{1}{G}
+p341
+aV{3}{U}{U}
+p342
+aV{3}
+p343
+aV{7}
+p344
+aV{2}{U}
+p345
+aV{2}{U}
+p346
+aV{4}{G}{G}
+p347
+aV{4}
+p348
+aV{6}{U}
+p349
+aV{1}{U}
+p350
+aV{1}{G}{W}{U}
+p351
+aV{6}{U}{U}
+p352
+aV{1}{G}
+p353
+aV{5}{G}
+p354
+aV{6}{U}{U}
+p355
+aV{1}{G}
+p356
+aV{1}{G}
+p357
+ag317
+aV{B}
+p358
+aV{B}
+p359
+aV{1}{G}
+p360
+aV{R}
+p361
+aV{B}
+p362
+ag317
+aV{3}{G}
+p363
+aV{1}{G}
+p364
+aV{1}{G}
+p365
+aV{2}{U}{U}
+p366
+aV{2}{U}
+p367
+aV{1}{G}
+p368
+aV{2}{G}
+p369
+aV{G}
+p370
+ag317
+aV{1}{G}
+p371
+aV{2}{B}
+p372
+aV{3}{R}
+p373
+aV{1}{U}{R}
+p374
+aV{3}{B}
+p375
+aV{1}{G}
+p376
+aV{3}{G}
+p377
+aV{1}{G}
+p378
+aV{1}{G}{W}{U}
+p379
+aV{1}{G}
+p380
+asS'names'
+p381
+(lp382
+VQuicksilver Amulet
+p383
+aVQuirion Dryad
+p384
+aVQuicksilver Gargantuan
+p385
+aVQuag Sickness
+p386
+aVQuicken
+p387
+aVQuickening Licid
+p388
+aVQuicksand
+p389
+aVQuirion Dryad
+p390
+aVQuagmire Lamprey
+p391
+aVQuicksilver Geyser
+p392
+aVQuilled Slagwurm
+p393
+aVQuicksilver Dagger
+p394
+aVQuagmire Druid
+p395
+aVQuicken
+p396
+aVQuicksand
+p397
+aVQuillspike
+p398
+aVQuenchable Fire
+p399
+aVQuicksilver Sea
+p400
+aVQuiet Disrepair
+p401
+aVQuietus Spike
+p402
+aVQuicksilver Dragon
+p403
+aVQuiet Purity
+p404
+aVQuash
+p405
+aVQuillmane Baku
+p406
+aVQuash
+p407
+aVQuickchange
+p408
+aVQuagmire Druid
+p409
+aVQuilled Sliver
+p410
+aVQuest for Ancient Secrets
+p411
+aVQuest for Pure Flame
+p412
+aVQuest for the Gemblades
+p413
+aVQuest for the Gravelord
+p414
+aVQuest for the Holy Relic
+p415
+aVQuicksilver Elemental
+p416
+aVQuicksilver Fountain
+p417
+aVQumulox
+p418
+aVQuietus Spike
+p419
+aVQuicksilver Wall
+p420
+aVQuickling
+p421
+aVQuicksilver Amulet
+p422
+aVQuicksilver Behemoth
+p423
+aVQuiet Speculation
+p424
+aVQuesting Phelddagrif
+p425
+aVQumulox
+p426
+aVQuiet Disrepair
+p427
+aVQuagnoth
+p428
+aVQumulox
+p429
+aVQuick Sliver
+p430
+aVQuag Vampires
+p431
+aVQuicksand
+p432
+aVQuag Vampires
+p433
+aVQuest for Renewal
+p434
+aVQuest for the Goblin Lord
+p435
+aVQuest for the Nihil Stone
+p436
+aVQuest for Ula's Temple
+p437
+aVQuicksand
+p438
+aVQuirion Trailblazer
+p439
+aVQuirion Sentinel
+p440
+aVQuirion Elves
+p441
+aVQuarry Colossus
+p442
+aVQuiet Contemplation
+p443
+aVQuirion Elves
+p444
+aVQuirion Druid
+p445
+aVQuirion Ranger
+p446
+aVQuicksand
+p447
+aVQuirion Elves
+p448
+aVQuagmire
+p449
+aVQuarum Trench Gnomes
+p450
+aVQuicksilver Dagger
+p451
+aVQuill-Slinger Boggart
+p452
+aVQuick Sliver
+p453
+aVQuag Sickness
+p454
+aVQuirion Explorer
+p455
+aVQuesting Phelddagrif
+p456
+aVQuirion Dryad
+p457
+asS'toughs'
+p458
+(lp459
+S'N/A'
+p460
+aV3
+p461
+aV1
+p462
+ag460
+ag460
+aV2
+p463
+ag460
+ag461
+ag462
+ag460
+ag463
+ag460
+aV4
+p464
+ag460
+ag460
+ag462
+ag460
+ag460
+ag460
+ag460
+ag463
+ag460
+ag460
+ag461
+ag460
+ag460
+ag463
+ag462
+ag460
+ag460
+ag460
+ag460
+ag460
+ag462
+ag460
+ag462
+ag460
+aV6
+p465
+ag464
+ag460
+ag462
+ag460
+ag464
+ag464
+ag460
+ag463
+aV0
+p466
+ag462
+ag461
+ag460
+ag462
+ag460
+ag460
+ag460
+ag460
+ag460
+ag463
+ag461
+ag461
+aV5
+p467
+ag460
+ag463
+ag462
+ag463
+ag460
+ag462
+ag460
+ag462
+ag460
+ag463
+ag463
+ag460
+ag463
+ag463
+ag462
+asS'artists'
+p468
+(lp469
+S''
+p470
+aVKev Walker
+p471
+aVSteven Belledin
+p472
+aVMartina Pilcerova
+p473
+aVAleksi Briclot
+p474
+aVAndrew Robinson
+p475
+aVRoger Raupp
+p476
+aVTodd Lockwood
+p477
+aVGlen Angus
+p478
+ag470
+ag470
+aVAlex Horley-Orlandelli
+p479
+aVDana Knutson
+p480
+aVAleksi Briclot
+p481
+aVRoger Raupp
+p482
+aVCarl Critchlow
+p483
+aVJean-Sébastien Rossbach
+p484
+ag470
+ag470
+ag470
+aVRon Spencer
+p485
+aVShishizaru
+p486
+aVShishizaru
+p487
+aVDavid Martin
+p488
+aVDon Hazeltine
+p489
+aVChristopher Moeller
+p490
+aVJaime Jones
+p491
+aVJohn Matson
+p492
+aVMike Bierek
+p493
+aVCyril Van Der Haegen
+p494
+aVKarl Kopinski
+p495
+aVChris Rahn
+p496
+aVGreg Staples
+p497
+aVTony Szczudlo
+p498
+aVTrevor Hairsine
+p499
+aVCarl Critchlow
+p500
+aVMark Brill
+p501
+aVMatt Cavotta
+p502
+aVClint Cearley
+p503
+aVDouglas Shuler
+p504
+aVAnthony S. Waters
+p505
+aVJohn Avon
+p506
+aVMatt Cavotta
+p507
+aVCarl Critchlow
+p508
+aVGlen Angus
+p509
+aVThomas M. Baxa
+p510
+aVCarl Critchlow
+p511
+aVJohn Avon
+p512
+aVJason Felix
+p513
+aVMatt Stewart
+p514
+aVJason Felix
+p515
+aVTomasz Jedruszek
+p516
+aVJesper Ejsing
+p517
+aVMike Bierek
+p518
+aVRob Alexander
+p519
+aVMatt Stewart
+p520
+aVRebecca Guay
+p521
+aVHeather Hudson
+p522
+aVDouglas Shuler
+p523
+aVTodd Lockwood
+p524
+aVMagali Villeneuve
+p525
+aVRandy Gallegos
+p526
+aVJohn Matson
+p527
+aVTom Kyffin
+p528
+aVRoger Raupp
+p529
+aVRandy Gallegos
+p530
+aVDan Frazier
+p531
+aVDan Frazier
+p532
+aVAlex Horley-Orlandelli
+p533
+aVWarren Mahy
+p534
+aVJohn Avon
+p535
+aVMartina Pilcerova
+p536
+aVRon Spears
+p537
+aVMatt Cavotta
+p538
+aVDon Hazeltine
+p539
+asS'powers'
+p540
+(lp541
+g460
+ag462
+ag463
+ag460
+ag460
+ag462
+ag460
+ag461
+ag462
+ag460
+ag464
+ag460
+ag464
+ag460
+ag460
+ag462
+ag460
+ag460
+ag460
+ag460
+ag462
+ag460
+ag460
+ag461
+ag460
+ag460
+ag461
+ag462
+ag460
+ag460
+ag460
+ag460
+ag460
+ag462
+ag460
+ag462
+ag460
+ag462
+ag463
+ag460
+ag462
+ag460
+ag464
+ag467
+ag460
+ag463
+ag466
+ag462
+ag464
+ag460
+ag466
+ag460
+ag460
+ag460
+ag460
+ag460
+ag462
+ag461
+ag462
+ag463
+ag460
+ag463
+ag461
+ag463
+ag460
+ag462
+ag460
+ag466
+ag460
+ag461
+ag463
+ag460
+ag463
+ag463
+ag462
+asS'types'
+p542
+(lp543
+VArtifact
+p544
+aVCreature - Dryad
+p545
+aVCreature - Shapeshifter
+p546
+aVEnchantment - Aura
+p547
+aVInstant
+p548
+aVCreature - Licid
+p549
+aVLand
+p550
+aVCreature - Dryad
+p551
+aVCreature - Fish
+p552
+aVInstant
+p553
+aVCreature - Wurm
+p554
+aVEnchantment - Aura
+p555
+aVCreature - Zombie Druid
+p556
+aVInstant
+p557
+aVLand
+p558
+aVCreature - Beast
+p559
+aVSorcery
+p560
+aVPlane - Mirrodin
+p561
+aVEnchantment - Aura
+p562
+aVArtifact - Equipment
+p563
+aVCreature - Dragon
+p564
+aVInstant - Arcane
+p565
+aVInstant
+p566
+aVCreature - Spirit
+p567
+aVInstant
+p568
+aVInstant
+p569
+aVCreature - Zombie Druid
+p570
+aVCreature - Sliver
+p571
+aVEnchantment
+p572
+aVEnchantment
+p573
+aVEnchantment
+p574
+aVEnchantment
+p575
+aVEnchantment
+p576
+aVCreature - Elemental
+p577
+aVArtifact
+p578
+aVCreature - Beast
+p579
+aVArtifact - Equipment
+p580
+aVCreature - Wall
+p581
+aVCreature - Faerie Rogue
+p582
+aVArtifact
+p583
+aVCreature - Beast
+p584
+aVSorcery
+p585
+aVCreature - Phelddagrif
+p586
+aVCreature - Beast
+p587
+aVEnchantment - Aura
+p588
+aVCreature - Beast
+p589
+aVCreature - Beast
+p590
+aVCreature - Sliver
+p591
+aVCreature - Vampire Rogue
+p592
+aVLand
+p593
+aVCreature - Vampire Rogue
+p594
+aVEnchantment
+p595
+aVEnchantment
+p596
+aVEnchantment
+p597
+aVEnchantment
+p598
+aVLand
+p599
+aVCreature - Elf Scout
+p600
+aVCreature - Elf Druid
+p601
+aVCreature - Elf Druid
+p602
+aVCreature - Giant
+p603
+aVEnchantment
+p604
+aVCreature - Elf Druid
+p605
+aVCreature - Elf Druid
+p606
+aVCreature - Elf
+p607
+aVLand
+p608
+aVCreature - Elf Druid
+p609
+aVEnchantment
+p610
+aVCreature - Gnome
+p611
+aVEnchantment - Aura
+p612
+aVCreature - Goblin Warrior
+p613
+aVCreature - Sliver
+p614
+aVEnchantment - Aura
+p615
+aVCreature - Elf Druid Scout
+p616
+aVCreature - Phelddagrif
+p617
+aVCreature - Dryad
+p618
+asS'numbers'
+p619
+(lp620
+V214
+p621
+aV184
+p622
+aV39
+p623
+aV110
+p624
+aV68
+p625
+aV192
+p626
+aV356
+p627
+aV287
+p628
+aV154
+p629
+aV30
+p630
+aV89
+p631
+aV118
+p632
+aV51
+p633
+aV31
+p634
+aV323
+p635
+aV126
+p636
+aV70
+p637
+aV29
+p638
+aV138
+p639
+aV139
+p640
+aV103
+p641
+aV39
+p642
+aV47
+p643
+aV48
+p644
+aV42
+p645
+aV62
+p646
+aV90
+p647
+aV37
+p648
+aV59
+p649
+aV144
+p650
+aV177
+p651
+aV108
+p652
+aV33
+p653
+aV47
+p654
+aV233
+p655
+aV59
+p656
+aV217
+p657
+aV41
+p658
+aV76
+p659
+aV130
+p660
+aV30
+p661
+aV49
+p662
+aV119
+p663
+aV35
+p664
+aV134
+p665
+aV150
+p666
+aV12
+p667
+aV136
+p668
+aV122
+p669
+aV209
+p670
+aV63
+p671
+aV110
+p672
+aV86
+p673
+aV64
+p674
+aV35
+p675
+aV140
+p676
+aV205
+p677
+aV204
+p678
+aV203
+p679
+aV22
+p680
+aV50
+p681
+aV323
+p682
+aV59
+p683
+aV60
+p684
+aV144
+p685
+ag461
+aV32
+p686
+aV103
+p687
+aV26
+p688
+aV137
+p689
+aV10
+p690
+aV111
+p691
+aV90
+p692
+aV119
+p693
+aV89
+p694
+as.

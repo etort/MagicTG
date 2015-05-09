@@ -1,0 +1,398 @@
+(dp0
+S'rares'
+p1
+(lp2
+VMythic Rare
+p3
+aVCommon
+p4
+aVMythic Rare
+p5
+aVCommon
+p6
+aVUncommon
+p7
+aVMythic Rare
+p8
+aVMythic Rare
+p9
+aVRare
+p10
+aVUncommon
+p11
+aVMythic Rare
+p12
+aVMythic Rare
+p13
+aVUncommon
+p14
+aVCommon
+p15
+aVMythic Rare
+p16
+aVCommon
+p17
+aVRare
+p18
+aVMythic Rare
+p19
+aVCommon
+p20
+aVUncommon
+p21
+asS'editns'
+p22
+(lp23
+VMagic 2013
+p24
+aVMagic 2013
+p25
+aVDuel Decks: Ajani vs. Nicol Bolas
+p26
+aVDuel Decks: Ajani vs. Nicol Bolas
+p27
+aVDuel Decks: Ajani vs. Nicol Bolas
+p28
+aVMagic 2010
+p29
+aVMagic 2014 Core Set
+p30
+aVMagic 2014 Core Set
+p31
+aVCommander 2013 Edition
+p32
+aVShards of Alara
+p33
+aVMagic 2015 Core Set
+p34
+aVMagic 2015 Core Set
+p35
+aVMagic: The Gathering\u2014Conspiracy
+p36
+aVJourney into Nyx
+p37
+aVJourney into Nyx
+p38
+aVLorwyn
+p39
+aVMagic 2011
+p40
+aVMagic 2011
+p41
+aVMagic 2011
+p42
+asS'ids'
+p43
+(lp44
+V249695
+p45
+aV259715
+p46
+aV266299
+p47
+aV249398
+p48
+aV249413
+p49
+aV191239
+p50
+aV370680
+p51
+aV370750
+p52
+aV376241
+p53
+aV174852
+p54
+aV383180
+p55
+aV383181
+p56
+aV382211
+p57
+aV380367
+p58
+aV380368
+p59
+aV140233
+p60
+aV205957
+p61
+aV204987
+p62
+aV205065
+p63
+asS'texts'
+p64
+(lp65
+V+1: Put a +1/+1 counter on up to one target creature.<br>-3: Target creature gains flying and double strike until end of turn.<br>-8: Put X 2/2 white Cat creature tokens onto the battlefield, where X is your life total.
+p66
+aVLifelink <i>(Damage dealt by this creature also causes you to gain that much life.)</i>
+p67
+aV+1: Target permanent doesn't untap during its controller's next untap step.<br>-2: Ajani Vengeant deals 3 damage to target creature or player and you gain 3 life.<br>-7: Destroy all lands target player controls.
+p68
+aVAt the beginning of your upkeep, you may gain 1 life.
+p69
+aVWhenever you gain life, you may put a +1/+1 counter on Ajani's Pridemate. <i>(For example, if an effect causes you to gain 3 life, you may put one +1/+1 counter on this creature.)</i>
+p70
+aV+1: You gain 2 life.<br>-1: Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.<br>-6: Put a white Avatar creature token onto the battlefield. It has "This creature's power and toughness are each equal to your life total."
+p71
+aV+1: Put a +1/+1 counter on up to one target creature.<br>-3: Target creature gains flying and double strike until end of turn.<br>-8: Put X 2/2 white Cat creature tokens onto the battlefield, where X is your life total.
+p72
+aVWhenever an enchantment enters the battlefield under your control, put a 2/2 white Cat creature token onto the battlefield. If that enchantment is an Aura, you may attach it to the token.
+p73
+aVWhenever you gain life, you may put a +1/+1 counter on Ajani's Pridemate. <i>(For example, if an effect causes you to gain 3 life, you may put one +1/+1 counter on this creature.)</i>
+p74
+aV+1: Put a 1/1 white Soldier creature token onto the battlefield.<br>+1: Target creature gets +3/+3 and gains flying until end of turn.<br>-8: You get an emblem with "Artifacts, creatures, enchantments, and lands you control are indestructible."
+p75
+aV+1: Until end of turn, up to one target creature gets +1/+1 and gains first strike, vigilance, and lifelink.<br>\u22122: Put a +1/+1 counter on each creature you control and a loyalty counter on each other planeswalker you control.<br>\u22127: You get an emblem with "If a source would deal damage to you or a planeswalker you control, prevent all but 1 of that damage."
+p76
+aVWhenever you gain life, you may put a +1/+1 counter on Ajani's Pridemate.
+p77
+aVLifelink <i>(Damage dealt by this creature also causes you to gain that much life.)</i>
+p78
+aV+1: Distribute three +1/+1 counters among one, two, or three target creatures you control.<br>+1: Look at the top four cards of your library. You may reveal an Aura, creature, or planeswalker card from among them and put it into your hand. Put the rest on the bottom of your library in any order.<br>-8: You gain 100 life.
+p79
+aVStrive- Ajani's Presence costs {2}{W} more to cast for each target beyond the first.<br>Any number of target creatures each get +1/+1 and gain indestructible until end of turn. <i>(Damage and effects that say "destroy" don't destroy them.)</i>
+p80
+aV+1: You gain 2 life.<br>-1: Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.<br>-6: Put a white Avatar creature token onto the battlefield. It has "This creature's power and toughness are each equal to your life total."
+p81
+aV+1: You gain 2 life.<br>-1: Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.<br>-6: Put a white Avatar creature token onto the battlefield. It has "This creature's power and toughness are each equal to your life total."
+p82
+aVAt the beginning of your upkeep, you may gain 1 life.
+p83
+aVWhenever you gain life, you may put a +1/+1 counter on Ajani's Pridemate. <i>(For example, if an effect causes you to gain 3 life, you may put one +1/+1 counter on this creature.)</i>
+p84
+asS'costs'
+p85
+(lp86
+S'0'
+p87
+aV{1}{W}{W}
+p88
+ag87
+aV{2}{R}{W}
+p89
+aV{1}{W}
+p90
+ag87
+ag87
+aV{1}{W}{W}
+p91
+aV{1}{W}
+p92
+ag87
+ag87
+aV{3}{W}
+p93
+aV{W}{W}
+p94
+ag87
+aV{3}{G}{W}
+p95
+ag87
+ag87
+aV{2}{W}{W}
+p96
+aV{1}{W}
+p97
+asS'names'
+p98
+(lp99
+VAjani, Caller of the Pride
+p100
+aVAjani's Sunstriker
+p101
+aVAjani Vengeant
+p102
+aVAjani's Mantra
+p103
+aVAjani's Pridemate
+p104
+aVAjani Goldmane
+p105
+aVAjani, Caller of the Pride
+p106
+aVAjani's Chosen
+p107
+aVAjani's Pridemate
+p108
+aVAjani Vengeant
+p109
+aVAjani Steadfast
+p110
+aVAjani's Pridemate
+p111
+aVAjani's Sunstriker
+p112
+aVAjani, Mentor of Heroes
+p113
+aVAjani's Presence
+p114
+aVAjani Goldmane
+p115
+aVAjani Goldmane
+p116
+aVAjani's Mantra
+p117
+aVAjani's Pridemate
+p118
+asS'toughs'
+p119
+(lp120
+S'N/A'
+p121
+aV4
+p122
+ag121
+ag121
+aV3
+p123
+ag121
+ag121
+ag122
+aV2
+p124
+ag121
+ag121
+ag122
+aV1
+p125
+ag121
+ag121
+ag121
+ag121
+ag121
+ag122
+asS'artists'
+p126
+(lp127
+VD. Alexander Gregory
+p128
+aVMatt Stewart
+p129
+aVIzzy
+p130
+aVJames Paick
+p131
+aVSvetlin Velinov
+p132
+aVAleksi Briclot
+p133
+aVD. Alexander Gregory
+p134
+aVWayne Reynolds
+p135
+aVSvetlin Velinov
+p136
+aVWayne Reynolds
+p137
+aVChris Rahn
+p138
+aVSvetlin Velinov
+p139
+aVMatt Stewart
+p140
+aVAaron Miller
+p141
+aVRaymond Swanland
+p142
+aVAleksi Briclot
+p143
+aVAleksi Briclot
+p144
+aVJames Paick
+p145
+aVSvetlin Velinov
+p146
+asS'powers'
+p147
+(lp148
+g121
+ag124
+ag121
+ag121
+ag124
+ag121
+ag121
+ag123
+ag124
+ag121
+ag121
+ag124
+ag124
+ag121
+ag121
+ag121
+ag121
+ag121
+ag124
+asS'types'
+p149
+(lp150
+VPlaneswalker - Ajani
+p151
+aVCreature - Cat Cleric
+p152
+aVPlaneswalker - Ajani
+p153
+aVEnchantment
+p154
+aVCreature - Cat Soldier
+p155
+aVPlaneswalker - Ajani
+p156
+aVPlaneswalker - Ajani
+p157
+aVCreature - Cat Soldier
+p158
+aVCreature - Cat Soldier
+p159
+aVPlaneswalker - Ajani
+p160
+aVPlaneswalker - Ajani
+p161
+aVCreature - Cat Soldier
+p162
+aVCreature - Cat Cleric
+p163
+aVPlaneswalker - Ajani
+p164
+aVInstant
+p165
+aVPlaneswalker - Ajani
+p166
+aVPlaneswalker - Ajani
+p167
+aVEnchantment
+p168
+aVCreature - Cat Soldier
+p169
+asS'numbers'
+p170
+(lp171
+g125
+ag124
+ag125
+aV22
+p172
+aV9
+p173
+ag125
+ag125
+ag124
+ag123
+aV154
+p174
+ag125
+ag124
+aV66
+p175
+aV145
+p176
+ag124
+ag125
+ag125
+ag124
+ag123
+as.

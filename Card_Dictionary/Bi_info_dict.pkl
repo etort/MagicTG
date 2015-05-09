@@ -1,0 +1,1020 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVRare
+p4
+aVRare
+p5
+aVCommon
+p6
+aVRare
+p7
+aVUncommon
+p8
+aVUncommon
+p9
+aVRare
+p10
+aVRare
+p11
+aVRare
+p12
+aVRare
+p13
+aVRare
+p14
+aVRare
+p15
+aVRare
+p16
+aVUncommon
+p17
+aVCommon
+p18
+aVRare
+p19
+aVCommon
+p20
+aVRare
+p21
+aVRare
+p22
+aVCommon
+p23
+aVRare
+p24
+aVRare
+p25
+aVUncommon
+p26
+aVRare
+p27
+aVRare
+p28
+aVUncommon
+p29
+aVRare
+p30
+aVRare
+p31
+aVRare
+p32
+aVUncommon
+p33
+aVRare
+p34
+aVRare
+p35
+aVUncommon
+p36
+aVUncommon
+p37
+aVCommon
+p38
+aVRare
+p39
+aVUncommon
+p40
+aVCommon
+p41
+aVCommon
+p42
+aVSpecial
+p43
+aVSpecial
+p44
+aVUncommon
+p45
+aVRare
+p46
+aVCommon
+p47
+aVRare
+p48
+aVCommon
+p49
+aVCommon
+p50
+aVRare
+p51
+asS'editns'
+p52
+(lp53
+VMagic 2012
+p54
+aVLimited Edition Beta
+p55
+aVMorningtide
+p56
+aVFourth Edition
+p57
+aVFourth Edition
+p58
+aVPlanar Chaos
+p59
+aVBorn of the Gods
+p60
+aVMagic 2010
+p61
+aVTenth Edition
+p62
+aVMercadian Masques
+p63
+aVRevised Edition
+p64
+aVMasters Edition II
+p65
+aVGuildpact
+p66
+aVNinth Edition
+p67
+aVPlanechase 2012 Edition
+p68
+aVOnslaught
+p69
+aVOnslaught
+p70
+aVBetrayers of Kamigawa
+p71
+aVRavnica: City of Guilds
+p72
+aVGatecrash
+p73
+aVGatecrash
+p74
+aVGatecrash
+p75
+aVUnlimited Edition
+p76
+aVIce Age
+p77
+aVClassic Sixth Edition
+p78
+aVSeventh Edition
+p79
+aVShadowmoor
+p80
+aVNew Phyrexia
+p81
+aVFuture Sight
+p82
+aVTheros
+p83
+aVMagic: The Gathering\u2014Conspiracy
+p84
+aVEighth Edition
+p85
+aVInvasion
+p86
+aVAlara Reborn
+p87
+aVFifth Edition
+p88
+aVFifth Edition
+p89
+aVFifth Edition
+p90
+aVArchenemy
+p91
+aVKhans of Tarkir
+p92
+aVMirage
+p93
+aVVanguard
+p94
+aVVanguard
+p95
+aVInnistrad
+p96
+aVLimited Edition Alpha
+p97
+aVMasters Edition IV
+p98
+aVDissension
+p99
+aVArabian Nights
+p100
+aVArabian Nights
+p101
+aVMagic 2011
+p102
+asS'ids'
+p103
+(lp104
+V221896
+p105
+aV437
+p106
+aV152648
+p107
+aV2260
+p108
+aV2201
+p109
+aV134739
+p110
+aV378433
+p111
+aV191080
+p112
+aV129906
+p113
+aV19741
+p114
+aV1236
+p115
+aV184605
+p116
+aV96857
+p117
+aV83531
+p118
+aV271166
+p119
+aV39836
+p120
+aV39913
+p121
+aV74427
+p122
+aV83688
+p123
+aV366312
+p124
+aV366299
+p125
+aV366414
+p126
+aV739
+p127
+aV2496
+p128
+aV14719
+p129
+aV11173
+p130
+aV135485
+p131
+aV218006
+p132
+aV136049
+p133
+aV373544
+p134
+aV382219
+p135
+aV45439
+p136
+aV23146
+p137
+aV185057
+p138
+aV3895
+p139
+aV4032
+p140
+aV3963
+p141
+aV220518
+p142
+aV386489
+p143
+aV3275
+p144
+aV214824
+p145
+aV182291
+p146
+aV222205
+p147
+aV142
+p148
+aV202553
+p149
+aV107277
+p150
+aV959
+p151
+aV958
+p152
+aV207334
+p153
+asS'texts'
+p154
+(lp155
+VWhenever a creature enters the battlefield under an opponent's control, you may have that player lose 1 life.
+p156
+aVEnchant creature<br>Enchanted creature has protection from black. This effect doesn't remove Black Ward.
+p157
+aVAt the beginning of your upkeep, you lose 1 life and put a 1/1 black Faerie Rogue creature token with flying onto the battlefield.
+p158
+aVFirst strike <i>(This creature deals combat damage before creatures without first strike.)</i><br>Protection from white <i>(This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)</i>
+p159
+aVEnchant creature<br>Enchanted creature has protection from black. This effect doesn't remove Black Ward.
+p160
+aVWhen Big Game Hunter enters the battlefield, destroy target creature with power 4 or greater. It can't be regenerated.<br>Madness {B} <i>(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)</i>
+p161
+aVTarget creature and all other creatures with the same name as that creature get -3/-3 until end of turn.
+p162
+aVFlying<br>{T}: Add one mana of any color to your mana pool.
+p163
+aVChange the target of target spell with a single target.
+p164
+aVWhenever a creature attacks you, it gets -1/-0 until end of turn.
+p165
+aVSwampwalk <i>(This creature is unblockable as long as defending player controls a Swamp.)</i>
+p166
+aVYou may exile a green card from your hand rather than pay Bounty of the Hunt's mana cost.<br>Distribute three +1/+1 counters among one, two, or three target creatures. For each +1/+1 counter you put on a creature this way, remove a +1/+1 counter from that creature at the beginning of the next cleanup step.
+p167
+aVWhenever an opponent discards a card, Abyssal Nocturnus gets +2/+2 and gains fear until end of turn. <i>(It can't be blocked except by artifact creatures and/or black creatures.)</i>
+p168
+aVFirst strike <i>(This creature deals combat damage before creatures without first strike.)</i><br>{R}: Sandstone Warrior gets +1/+0 until end of turn.
+p169
+aVCascade <i>(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</i><br>Bituminous Blast deals 4 damage to target creature.
+p170
+aVTap two untapped Elves you control: Add one mana of any color to your mana pool.<br>Morph {G} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p171
+aVEach player's life total becomes the number of creatures he or she controls.
+p172
+aVSacrifice Bile Urchin: Target player loses 1 life.
+p173
+aV{T}: Add {B} to your mana pool. Elves of Deep Shadow deals 1 damage to you.
+p174
+aVCreatures you control become X/X until end of turn.
+p175
+aVMove any number of +1/+1 counters from target creature onto another target creature with the same controller.
+p176
+aVAt the beginning of the end step, if you control four or more creatures named Biovisionary, you win the game.
+p177
+aVEnchant creature<br>Enchanted creature has protection from black. This effect doesn't remove Black Ward.
+p178
+aVDraw three cards, then put two cards from your hand on top of your library in any order.
+p179
+aV{T}: Add {1} to your mana pool.<br>{T}: Add {G} or {W} to your mana pool. Brushland deals 1 damage to you.
+p180
+aVUntapped creatures you control get +0/+2.
+p181
+aVEnchant creature<br>You control enchanted creature.<br>At the beginning of your upkeep, put a -1/-1 counter on enchanted creature.
+p182
+aV<i>({GP} can be paid with either {G} or 2 life.)</i><br>{1}{GP}, {T}, Sacrifice a creature: Search your library for a creature card with converted mana cost equal to 1 plus the sacrificed creature's converted mana cost, put that card onto the battlefield, then shuffle your library. Activate this ability only any time you could cast a sorcery.
+p183
+aVWhenever a nontoken creature is put into your graveyard from the battlefield, if Bridge from Below is in your graveyard, put a 2/2 black Zombie creature token onto the battlefield.<br>When a creature is put into an opponent's graveyard from the battlefield, if Bridge from Below is in your graveyard, exile Bridge from Below.
+p184
+aVWhenever a creature you control deals combat damage to a player, you may draw a card.<br>{1}{U}, {T}: Creatures your opponents control attack this turn if able.
+p185
+aVWill of the council- Starting with you, each player votes for sickness or psychosis. If sickness gets more votes, creatures your opponents control get -2/-2 until end of turn. If psychosis gets more votes or the vote is tied, each opponent discards two cards.
+p186
+aVWhen Primeval Force enters the battlefield, sacrifice it unless you sacrifice three Forests.
+p187
+aVCounter target activated ability. <i>(Mana abilities can't be targeted.)</i><br>Draw a card.
+p188
+aVCascade <i>(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</i><br>Bituminous Blast deals 4 damage to target creature.
+p189
+aVEnchant creature<br>At the beginning of your upkeep, sacrifice Binding Grasp unless you pay {1}{U}.<br>You control enchanted creature.<br>Enchanted creature gets +0/+1.
+p190
+aVEnchant land<br>You control enchanted land.
+p191
+aVIf target creature has toughness 5 or greater, it gets +4/-4 until end of turn. Otherwise, it gets +4/-X until end of turn, where X is its toughness minus 1.
+p192
+aVCascade <i>(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</i><br>Bituminous Blast deals 4 damage to target creature.
+p193
+aVCreatures your opponents control get -4/-0 until end of turn.<br>Draw a card.
+p194
+aVEnchant creature<br>Whenever enchanted creature is dealt damage, Binding Agony deals that much damage to that creature's controller.
+p195
+aVLands you control have "{T}: Add one mana of any color to your mana pool."
+p196
+aVLands you control have "{T}: Add one mana of any color to your mana pool."
+p197
+aVDeathtouch<br>When Bitterheart Witch dies, you may search your library for a Curse card, put it onto the battlefield attached to target player, then shuffle your library.
+p198
+aV{2}, {T}: Add one mana of any color to your mana pool.
+p199
+aVChoose one- Counter target red spell; or destroy target red permanent.
+p200
+aV<i>({G/U} can be paid with either {G} or {U}.)</i><br>Draw a card for each creature target player controls, then draw a card for each creature another target player controls.
+p201
+aVFlying
+p202
+aVFlying
+p203
+aV{W}, {T}: Tap target creature.
+p204
+asS'costs'
+p205
+(lp206
+V{G}
+p207
+aV{G}
+p208
+aV{1}{B}
+p209
+aV{2}{R}
+p210
+aV{G}
+p211
+aV{1}{B}{B}
+p212
+aV{B}{B}
+p213
+aV{4}{R}
+p214
+aV{G}
+p215
+aV{3}{G}
+p216
+aV{G}
+p217
+aV{3}{U}
+p218
+aV{3}{G}{G}
+p219
+aV{6}{G}{G}
+p220
+aV{3}{B}{R}
+p221
+aV{G}
+p222
+aV{6}{G}{G}
+p223
+aV{B}
+p224
+aV{G}
+p225
+aV{X}{G/U}{G/U}
+p226
+aV{G/U}
+p227
+aV{1}{G}{U}
+p228
+aV{G}
+p229
+aV{3}{U}
+p230
+aV{G}
+p231
+aV{G}
+p232
+aV{4}{U}
+p233
+aV{3}{GP}
+p234
+aV{2}{B}
+p235
+aV{5}{U}
+p236
+aV{3}{B}
+p237
+aV{G}
+p238
+aV{1}{G}
+p239
+aV{3}{B}{R}
+p240
+aV{3}{U}
+p241
+aV{2}{R}
+p242
+aV{G}
+p243
+aV{3}{B}{R}
+p244
+aV{3}{B}
+p245
+aV{1}{B}
+p246
+aS'0'
+p247
+ag247
+aV{4}{B}
+p248
+aV{G}
+p249
+aV{2}{R}
+p250
+aV{4}{G/U}{G/U}{G/U}
+p251
+aV{2}{R}
+p252
+aV{2}{R}
+p253
+aV{4}{R}
+p254
+asS'names'
+p255
+(lp256
+VBirds of Paradise
+p257
+aVBirds of Paradise
+p258
+aVBitterblossom
+p259
+aVBird Maiden
+p260
+aVBirds of Paradise
+p261
+aVBig Game Hunter
+p262
+aVBile Blight
+p263
+aVBirds of Paradise
+p264
+aVBirds of Paradise
+p265
+aVBifurcate
+p266
+aVBirds of Paradise
+p267
+aVBinding Grasp
+p268
+aVBioplasm
+p269
+aVBiorhythm
+p270
+aVBituminous Blast
+p271
+aVBirchlore Rangers
+p272
+aVBiorhythm
+p273
+aVBile Urchin
+p274
+aVBirds of Paradise
+p275
+aVBiomass Mutation
+p276
+aVBioshift
+p277
+aVBiovisionary
+p278
+aVBirds of Paradise
+p279
+aVBinding Grasp
+p280
+aVBirds of Paradise
+p281
+aVBirds of Paradise
+p282
+aVBiting Tether
+p283
+aVBirthing Pod
+p284
+aVBitter Ordeal
+p285
+aVBident of Thassa
+p286
+aVBite of the Black Rose
+p287
+aVBirds of Paradise
+p288
+aVBind
+p289
+aVBituminous Blast
+p290
+aVBinding Grasp
+p291
+aVBird Maiden
+p292
+aVBirds of Paradise
+p293
+aVBituminous Blast
+p294
+aVBitter Revelation
+p295
+aVBinding Agony
+p296
+aVBirds of Paradise Avatar
+p297
+aVBirds of Paradise Avatar
+p298
+aVBitterheart Witch
+p299
+aVBirds of Paradise
+p300
+aVBird Maiden
+p301
+aVBiomantic Mastery
+p302
+aVBird Maiden
+p303
+aVBird Maiden
+p304
+aVBirds of Paradise
+p305
+asS'toughs'
+p306
+(lp307
+V2
+p308
+aV1
+p309
+aS'N/A'
+p310
+aV4
+p311
+ag309
+ag309
+ag310
+ag311
+aV3
+p312
+ag310
+ag312
+ag310
+ag311
+ag310
+ag310
+ag308
+ag310
+ag309
+ag312
+ag310
+ag310
+ag308
+ag309
+ag310
+ag308
+ag308
+ag310
+ag310
+ag310
+ag310
+ag310
+ag309
+ag310
+ag310
+ag310
+ag311
+ag309
+ag310
+ag310
+ag310
+ag310
+ag310
+ag312
+ag309
+ag308
+ag310
+ag308
+ag308
+ag311
+asS'artists'
+p313
+(lp314
+S''
+p315
+aVMark Poole
+p316
+aVRebecca Guay
+p317
+aVKaja Foglio
+p318
+aVMark Poole
+p319
+aVCarl Critchlow
+p320
+aVVincent Proce
+p321
+aVMarcelo Vignali
+p322
+aVMarcelo Vignali
+p323
+aVJohn Matson
+p324
+aVMark Poole
+p325
+aVRuth Thompson
+p326
+aVJon Foster
+p327
+aVRon Spears
+p328
+ag315
+aVDany Orizio
+p329
+aVRon Spears
+p330
+aVDany Orizio
+p331
+aVMarcelo Vignali
+p332
+aVDan Scott
+p333
+aVScott Chou
+p334
+aVRyan Barger
+p335
+aVMark Poole
+p336
+aVRuth Thompson
+p337
+aVMark Poole
+p338
+aVEdward P. Beard, Jr.
+p339
+aVThomas Denmark
+p340
+ag315
+aVDaarken
+p341
+aVYeong-Hao Han
+p342
+aVFranz Vohwinkel
+p343
+aVEdward P. Beard, Jr.
+p344
+aVMark Zug
+p345
+aVRaymond Swanland
+p346
+aVJeff Miracola
+p347
+aVKaja Foglio
+p348
+aVMark Poole
+p349
+aVRaymond Swanland
+p350
+aVViktor Titov
+p351
+aVRobert Bliss
+p352
+aVUDON
+p353
+aVUDON
+p354
+aVKarl Kopinski
+p355
+aVMark Poole
+p356
+aVKaja Foglio
+p357
+aVDan Scott
+p358
+aVKaja Foglio
+p359
+aVKaja Foglio
+p360
+aVMarcelo Vignali
+p361
+asS'powers'
+p362
+(lp363
+g308
+aV0
+p364
+ag310
+aV5
+p365
+ag309
+ag309
+ag310
+ag364
+ag312
+ag310
+aV6
+p366
+ag310
+ag311
+ag310
+ag310
+ag312
+ag310
+ag309
+ag308
+ag310
+ag310
+ag309
+ag364
+ag310
+ag312
+ag312
+ag310
+ag310
+ag310
+ag310
+ag310
+ag364
+ag310
+ag310
+ag310
+ag308
+ag366
+ag310
+ag310
+ag310
+ag310
+ag310
+ag312
+ag364
+ag309
+ag310
+ag309
+ag309
+ag364
+asS'types'
+p367
+(lp368
+VCreature - Bird
+p369
+aVCreature - Bird
+p370
+aVTribal Enchantment - Faerie
+p371
+aVCreature - Human Bird
+p372
+aVCreature - Bird
+p373
+aVCreature - Human Rebel Assassin
+p374
+aVInstant
+p375
+aVCreature - Bird
+p376
+aVCreature - Bird
+p377
+aVSorcery
+p378
+aVCreature - Bird
+p379
+aVEnchantment - Aura
+p380
+aVCreature - Ooze
+p381
+aVSorcery
+p382
+aVInstant
+p383
+aVCreature - Elf Druid
+p384
+aVSorcery
+p385
+aVCreature - Spirit
+p386
+aVCreature - Bird
+p387
+aVInstant
+p388
+aVInstant
+p389
+aVCreature - Human Wizard
+p390
+aVCreature - Bird
+p391
+aVEnchantment - Aura
+p392
+aVCreature - Bird
+p393
+aVCreature - Bird
+p394
+aVEnchantment - Aura
+p395
+aVArtifact
+p396
+aVSorcery
+p397
+aVLegendary Enchantment Artifact
+p398
+aVSorcery
+p399
+aVCreature - Bird
+p400
+aVInstant
+p401
+aVInstant
+p402
+aVEnchantment - Aura
+p403
+aVCreature - Human Bird
+p404
+aVCreature - Bird
+p405
+aVInstant
+p406
+aVSorcery
+p407
+aVEnchantment - Aura
+p408
+aVVanguard
+p409
+aVVanguard
+p410
+aVCreature - Human Shaman
+p411
+aVCreature - Bird
+p412
+aVCreature - Human Bird
+p413
+aVSorcery
+p414
+aVCreature - Human Bird
+p415
+aVCreature - Human Bird
+p416
+aVCreature - Bird
+p417
+asS'numbers'
+p418
+(lp419
+V165
+p420
+aV30
+p421
+aV58
+p422
+aV153
+p423
+aV154
+p424
+aV63
+p425
+aV61
+p426
+aV168
+p427
+aV252
+p428
+aV230
+p429
+aV66
+p430
+aV41
+p431
+aV81
+p432
+aV231
+p433
+aV54
+p434
+aV248
+p435
+aV247
+p436
+aV61
+p437
+aV153
+p438
+aV213
+p439
+aV214
+p440
+aV146
+p441
+aV35
+p442
+aV250
+p443
+aV217
+p444
+aV231
+p445
+aV29
+p446
+aV104
+p447
+aV80
+p448
+aV42
+p449
+aV26
+p450
+aV233
+p451
+aV182
+p452
+aV34
+p453
+aV60
+p454
+aV121
+p455
+aV214
+p456
+aV81
+p457
+aV65
+p458
+aV23
+p459
+aV107
+p460
+aV8
+p461
+aV88
+p462
+aV101
+p463
+aV110
+p464
+aV142
+p465
+aV44
+p466
+aV45
+p467
+aV165
+p468
+as.

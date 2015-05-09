@@ -1,0 +1,136 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVUncommon
+p4
+aVRare
+p5
+aVRare
+p6
+aVCommon
+p7
+asS'editns'
+p8
+(lp9
+VExodus
+p10
+aVTorment
+p11
+aVSeventh Edition
+p12
+aVVisions
+p13
+aVLegends
+p14
+asS'ids'
+p15
+(lp16
+V6075
+p17
+aV29571
+p18
+aV25568
+p19
+aV3710
+p20
+aV1611
+p21
+asS'texts'
+p22
+(lp23
+VWhenever you cast a creature spell, you may pay {1}. If you do, return target creature to its owner's hand.
+p24
+aVIf any source would deal 1 or more damage to a creature or player this turn, it deals 2 damage to that creature or player instead.<br><br>Draw a card.
+p25
+aV{G}, {T}, Sacrifice Scavenger Folk: Destroy target artifact.
+p26
+aVWhen Eye of Singularity enters the battlefield, destroy each permanent with the same name as another permanent, except for basic lands. They can't be regenerated.<br>Whenever a permanent other than a basic land enters the battlefield, destroy all other permanents with that name. They can't be regenerated.
+p27
+aVCreatures with plainswalk can be blocked as though they didn't have plainswalk.
+p28
+asS'costs'
+p29
+(lp30
+V{1}{U}{U}
+p31
+aV{1}{W}
+p32
+aV{1}{U}{U}
+p33
+aV{2}{W}
+p34
+aV{W}
+p35
+asS'names'
+p36
+(lp37
+VEquilibrium
+p38
+aVEqual Treatment
+p39
+aVEquilibrium
+p40
+aVEquipoise
+p41
+aVEquinox
+p42
+asS'toughs'
+p43
+(lp44
+S'N/A'
+p45
+ag45
+ag45
+ag45
+ag45
+asS'artists'
+p46
+(lp47
+VJeff Miracola
+p48
+aVGreg & Tim Hildebrandt
+p49
+aVDon Hazeltine
+p50
+aVAdam Rex
+p51
+aVSusan Van Camp
+p52
+asS'powers'
+p53
+(lp54
+g45
+ag45
+ag45
+ag45
+ag45
+asS'types'
+p55
+(lp56
+VEnchantment
+p57
+aVInstant
+p58
+aVEnchantment
+p59
+aVEnchantment
+p60
+aVEnchantment - Aura
+p61
+asS'numbers'
+p62
+(lp63
+V32
+p64
+aV4
+p65
+aV71
+p66
+aV81
+p67
+aV111
+p68
+as.

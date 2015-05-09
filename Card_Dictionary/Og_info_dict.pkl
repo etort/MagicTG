@@ -1,0 +1,602 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVUncommon
+p4
+aVRare
+p5
+aVUncommon
+p6
+aVCommon
+p7
+aVCommon
+p8
+aVCommon
+p9
+aVUncommon
+p10
+aVUncommon
+p11
+aVUncommon
+p12
+aVCommon
+p13
+aVRare
+p14
+aVRare
+p15
+aVCommon
+p16
+aVUncommon
+p17
+aVCommon
+p18
+aVUncommon
+p19
+aVCommon
+p20
+aVCommon
+p21
+aVCommon
+p22
+aVUncommon
+p23
+aVCommon
+p24
+aVUncommon
+p25
+aVUncommon
+p26
+aVRare
+p27
+aVCommon
+p28
+aVCommon
+p29
+aVCommon
+p30
+asS'editns'
+p31
+(lp32
+VDuel Decks: Ajani vs. Nicol Bolas
+p33
+aVScars of Mirrodin
+p34
+aVMagic 2014 Core Set
+p35
+aVMercadian Masques
+p36
+aVMirrodin Besieged
+p37
+aVStarter 2000
+p38
+aVGuildpact
+p39
+aVNinth Edition
+p40
+aVBetrayers of Kamigawa
+p41
+aVBetrayers of Kamigawa
+p42
+aVReturn to Ravnica
+p43
+aVGatecrash
+p44
+aVExodus
+p45
+aVMirrodin
+p46
+aVSeventh Edition
+p47
+aVRise of the Eldrazi
+p48
+aVRise of the Eldrazi
+p49
+aVNew Phyrexia
+p50
+aVStarter 1999
+p51
+aVPortal Second Age
+p52
+aVPortal Second Age
+p53
+aVPortal Second Age
+p54
+aVPortal Second Age
+p55
+aVEighth Edition
+p56
+aVVisions
+p57
+aVMasters Edition IV
+p58
+aVDissension
+p59
+aVDuel Decks: Izzet vs. Golgari
+p60
+asS'ids'
+p61
+(lp62
+V249387
+p63
+aV215101
+p64
+aV370662
+p65
+aV19844
+p66
+aV213795
+p67
+aV25476
+p68
+aV97236
+p69
+aV83190
+p70
+aV74594
+p71
+aV74645
+p72
+aV270371
+p73
+aV366432
+p74
+aV6127
+p75
+aV45993
+p76
+aV15817
+p77
+aV193583
+p78
+aV193517
+p79
+aV233082
+p80
+aV21070
+p81
+aV6586
+p82
+aV6595
+p83
+aV6597
+p84
+aV6588
+p85
+aV45369
+p86
+aV3696
+p87
+aV220965
+p88
+aV107389
+p89
+aV338389
+p90
+asS'texts'
+p91
+(lp92
+VWhen Ogre Savant enters the battlefield, if {U} was spent to cast Ogre Savant, return target creature to its owner's hand.
+p93
+aVWhenever an opponent casts a spell, that player loses 5 life unless he or she discards a card.
+p94
+aVPhantom Warrior can't be blocked.
+p95
+aVW
+p96
+aVEnchant creature<br>Enchanted creature has infect. <i>(It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</i>
+p97
+aVShock deals 2 damage to target creature or player.
+p98
+aVEach land gets +2/+2 as long as it's a creature.
+p99
+aV{T}: Add {1} to your mana pool.<br>{T}, Sacrifice Quicksand: Target attacking creature without flying gets -1/-2 until end of turn.
+p100
+aVBushido 1 <i>(When this blocks or becomes blocked, it gets +1/+1 until end of turn.)</i><br>{T}: Takeno's Cavalry deals 1 damage to target attacking or blocking Spirit.
+p101
+aVLands don't untap during their controllers' untap steps.<br>At the beginning of each player's upkeep, that player untaps a land he or she controls.
+p102
+aVEnchant creature<br>Enchanted creature doesn't untap during its controller's untap step.
+p103
+aVEnchant creature<br>Enchanted creature can't attack or block, and its activated abilities can't be activated.<br>At the beginning of the upkeep of enchanted creature's controller, that player loses 1 life.
+p104
+aV{2}, Discard a card at random: Ogre Shaman deals 2 damage to target creature or player.
+p105
+aVWhenever Ogre Leadfoot becomes blocked by an artifact creature, destroy that creature.
+p106
+aV{B}{B}{B}, {T}: Target opponent reveals his or her hand and discards a creature card at random. Activate this ability only during your turn.
+p107
+aVDefender<br>{T}: Add {G} to your mana pool for each creature with defender you control.
+p108
+aVAnnihilator 3 <i>(Whenever this creature attacks, defending player sacrifices three permanents.)</i><br>Pathrazer of Ulamog can't be blocked except by three or more creatures.
+p109
+aVEnchant creature<br>At the beginning of your upkeep, enchanted creature's controller sacrifices it and you put a 1/1 colorless Myr artifact creature token onto the battlefield.
+p110
+aVFlying
+p111
+aVFlying, haste
+p112
+aVForestwalk
+p113
+aVNorwood Riders can't be blocked by more than one creature.
+p114
+aVB
+p115
+aVWhenever an opponent casts a spell, Mogg Sentry gets +2/+2 until end of turn.
+p116
+aVWhenever Raging Gorilla blocks or becomes blocked, it gets +2/-2 until end of turn.
+p117
+aV{4}, {T}: The next time a source of your choice would deal damage to you this turn, prevent that damage.
+p118
+aVWhen Ogre Gatecrasher enters the battlefield, destroy target creature with defender.
+p119
+aVWhen Ogre Savant enters the battlefield, if {U} was spent to cast Ogre Savant, return target creature to its owner's hand.
+p120
+asS'costs'
+p121
+(lp122
+V{1}{B}
+p123
+aV{1}
+p124
+aV{1}{U}
+p125
+aV{3}{R}
+p126
+aV{2}{R}{R}
+p127
+aV{3}{R}
+p128
+aV{4}{R}
+p129
+aV{3}{R}
+p130
+aV{1}{B}{B}
+p131
+aV{3}{R}
+p132
+aV{2}{G}
+p133
+aV{X}{G}{U}
+p134
+aV{3}{R}{R}
+p135
+aV{4}{R}
+p136
+aV{3}{R}
+p137
+aV{1}{B}
+p138
+aV{1}{R}
+p139
+aV{3}{U}{U}
+p140
+aV{3}{R}
+p141
+aV{4}{R}
+p142
+aV{4}{R}
+p143
+aV{3}{R}
+p144
+aV{3}{R}
+p145
+aV{3}{R}
+p146
+aV{3}{R}{R}
+p147
+aV{3}{R}
+p148
+aV{3}{R}
+p149
+aV{4}{R}
+p150
+asS'names'
+p151
+(lp152
+VOgre Savant
+p153
+aVOgre Geargrabber
+p154
+aVOgre Battledriver
+p155
+aVOgre Taskmaster
+p156
+aVOgre Resister
+p157
+aVOgre Warrior
+p158
+aVOgre Savant
+p159
+aVOgre Taskmaster
+p160
+aVOgre Marauder
+p161
+aVOgre Recluse
+p162
+aVOgre Jailbreaker
+p163
+aVOgre Slumlord
+p164
+aVOgre Shaman
+p165
+aVOgre Leadfoot
+p166
+aVOgre Taskmaster
+p167
+aVOgre Sentry
+p168
+aVOgre's Cleaver
+p169
+aVOgre Menial
+p170
+aVOgre Warrior
+p171
+aVOgre Berserker
+p172
+aVOgre Arsonist
+p173
+aVOgre Warrior
+p174
+aVOgre Taskmaster
+p175
+aVOgre Taskmaster
+p176
+aVOgre Enforcer
+p177
+aVOgre Taskmaster
+p178
+aVOgre Gatecrasher
+p179
+aVOgre Savant
+p180
+asS'toughs'
+p181
+(lp182
+V5
+p183
+aV2
+p184
+aV3
+p185
+ag184
+aV4
+p186
+aV6
+p187
+ag184
+ag185
+aV1
+p188
+ag186
+ag184
+ag183
+ag188
+ag185
+ag185
+ag186
+aS'N/A'
+p189
+ag186
+ag185
+ag184
+ag185
+ag185
+ag185
+ag185
+ag184
+ag188
+ag186
+ag184
+asS'artists'
+p190
+(lp191
+VParente
+p192
+aVDavid Rapoza
+p193
+aVGreg Staples
+p194
+aVOrizio Daniele
+p195
+aS''
+p196
+aVJeff Miracola
+p197
+aVPaolo Parente
+p198
+aVDany Orizio
+p199
+aVAdam Rex
+p200
+aVJim Murray
+p201
+aVKarl Kopinski
+p202
+aVTrevor Claxton
+p203
+aVPaolo Parente
+p204
+aVHeather Hudson
+p205
+aVJeff Easley
+p206
+aVEric Deschamps
+p207
+aVAdi Granov
+p208
+ag196
+aVJeff Miracola
+p209
+aVDavid A. Cherry
+p210
+aVJeffrey R. Busch
+p211
+aVJeff Miracola
+p212
+aVDan Frazier
+p213
+aVDany Orizio
+p214
+aVPete Venters
+p215
+aVDan Frazier
+p216
+aVDaren Bader
+p217
+aVParente
+p218
+asS'powers'
+p219
+(lp220
+g185
+ag185
+ag184
+ag184
+ag186
+ag186
+ag185
+ag186
+ag185
+ag183
+ag186
+aV0
+p221
+ag184
+ag185
+ag186
+ag188
+ag189
+ag183
+ag185
+ag186
+ag185
+ag185
+ag186
+ag186
+ag188
+ag188
+ag186
+ag185
+asS'types'
+p222
+(lp223
+VCreature - Ogre Wizard
+p224
+aVCreature - Ogre Warrior
+p225
+aVCreature - Ogre Warrior
+p226
+aVCreature - Ogre
+p227
+aVCreature - Ogre
+p228
+aVCreature - Ogre Warrior
+p229
+aVCreature - Ogre Wizard
+p230
+aVCreature - Ogre
+p231
+aVCreature - Ogre Warrior
+p232
+aVCreature - Ogre Warrior
+p233
+aVCreature - Ogre Rogue
+p234
+aVCreature - Ogre Rogue
+p235
+aVCreature - Ogre Shaman
+p236
+aVCreature - Ogre
+p237
+aVCreature - Ogre
+p238
+aVCreature - Ogre Warrior
+p239
+aVArtifact - Equipment
+p240
+aVCreature - Ogre
+p241
+aVCreature - Ogre Warrior
+p242
+aVCreature - Ogre Berserker
+p243
+aVCreature - Ogre
+p244
+aVCreature - Ogre Warrior
+p245
+aVCreature - Ogre
+p246
+aVCreature - Ogre
+p247
+aVCreature - Ogre
+p248
+aVCreature - Ogre
+p249
+aVCreature - Ogre Rogue
+p250
+aVCreature - Ogre Wizard
+p251
+asS'numbers'
+p252
+(lp253
+V55
+p254
+aV99
+p255
+aV148
+p256
+aV206
+p257
+aV72
+p258
+aV33
+p259
+aV70
+p260
+aV205
+p261
+aV75
+p262
+aV113
+p263
+aV72
+p264
+aV74
+p265
+aV91
+p266
+aV102
+p267
+aV203
+p268
+aV159
+p269
+aV220
+p270
+aV89
+p271
+aV113
+p272
+aV57
+p273
+aV59
+p274
+aV60
+p275
+aV133
+p276
+aV205
+p277
+aV74
+p278
+aV128
+p279
+aV67
+p280
+aV9
+p281
+as.

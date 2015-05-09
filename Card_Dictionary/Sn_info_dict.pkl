@@ -1,0 +1,1024 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVCommon
+p4
+aVCommon
+p5
+aVCommon
+p6
+aVCommon
+p7
+aVCommon
+p8
+aVUncommon
+p9
+aVUncommon
+p10
+aVLand
+p11
+aVLand
+p12
+aVLand
+p13
+aVLand
+p14
+aVLand
+p15
+aVCommon
+p16
+aVCommon
+p17
+aVCommon
+p18
+aVCommon
+p19
+aVUncommon
+p20
+aVCommon
+p21
+aVCommon
+p22
+aVCommon
+p23
+aVCommon
+p24
+aVCommon
+p25
+aVCommon
+p26
+aVCommon
+p27
+aVRare
+p28
+aVCommon
+p29
+aVCommon
+p30
+aVRare
+p31
+aVUncommon
+p32
+aVLand
+p33
+aVLand
+p34
+aVLand
+p35
+aVLand
+p36
+aVLand
+p37
+aVRare
+p38
+aVUncommon
+p39
+aVCommon
+p40
+aVCommon
+p41
+aVCommon
+p42
+aVUncommon
+p43
+aVRare
+p44
+aVCommon
+p45
+aVCommon
+p46
+aVCommon
+p47
+aVCommon
+p48
+aVRare
+p49
+aVRare
+p50
+aVCommon
+p51
+aVCommon
+p52
+asS'editns'
+p53
+(lp54
+VScars of Mirrodin
+p55
+aVBorn of the Gods
+p56
+aVMagic 2010
+p57
+aVTenth Edition
+p58
+aVMercadian Masques
+p59
+aVMercadian Masques
+p60
+aVMercadian Masques
+p61
+aVMasters Edition II
+p62
+aVMasters Edition II
+p63
+aVMasters Edition II
+p64
+aVMasters Edition II
+p65
+aVMasters Edition II
+p66
+aVMasters Edition II
+p67
+aVEventide
+p68
+aVAvacyn Restored
+p69
+aVPlanechase 2012 Edition
+p70
+aVOnslaught
+p71
+aVOnslaught
+p72
+aVRavnica: City of Guilds
+p73
+aVTime Spiral
+p74
+aVColdsnap
+p75
+aVColdsnap
+p76
+aVColdsnap
+p77
+aVColdsnap
+p78
+aVColdsnap
+p79
+aVIce Age
+p80
+aVIce Age
+p81
+aVIce Age
+p82
+aVIce Age
+p83
+aVIce Age
+p84
+aVIce Age
+p85
+aVIce Age
+p86
+aVIce Age
+p87
+aVIce Age
+p88
+aVIce Age
+p89
+aVClassic Sixth Edition
+p90
+aVProphecy
+p91
+aVUrza's Legacy
+p92
+aVRise of the Eldrazi
+p93
+aVStarter 1999
+p94
+aVFuture Sight
+p95
+aVUrza's Saga
+p96
+aVEighth Edition
+p97
+aVNemesis
+p98
+aVWorldwake
+p99
+aVKhans of Tarkir
+p100
+aVInnistrad
+p101
+aVVisions
+p102
+aVBeatdown Box Set
+p103
+aVPortal
+p104
+asS'ids'
+p105
+(lp106
+V209010
+p107
+aV378513
+p108
+aV190163
+p109
+aV129471
+p110
+aV19595
+p111
+aV19626
+p112
+aV19876
+p113
+aV184705
+p114
+aV184812
+p115
+aV184813
+p116
+aV184814
+p117
+aV184815
+p118
+aV184816
+p119
+aV157401
+p120
+aV271090
+p121
+aV271155
+p122
+aV39492
+p123
+aV39729
+p124
+aV87986
+p125
+aV108897
+p126
+aV121130
+p127
+aV121192
+p128
+aV121233
+p129
+aV121256
+p130
+aV121267
+p131
+aV2423
+p132
+aV2536
+p133
+aV2537
+p134
+aV2588
+p135
+aV2713
+p136
+aV2770
+p137
+aV2774
+p138
+aV2749
+p139
+aV2766
+p140
+aV2742
+p141
+aV15409
+p142
+aV24668
+p143
+aV12374
+p144
+aV193585
+p145
+aV21030
+p146
+aV130708
+p147
+aV5594
+p148
+aV45228
+p149
+aV21282
+p150
+aV191547
+p151
+aV386671
+p152
+aV227676
+p153
+aV3603
+p154
+aV27262
+p155
+aV4274
+p156
+asS'texts'
+p157
+(lp158
+VImprint- When Strata Scythe enters the battlefield, search your library for a land card, exile it, then shuffle your library.<br>Equipped creature gets +1/+1 for each land on the battlefield with the same name as the exiled card.<br>Equip {3}
+p159
+aVEach player can't draw more than one card each turn.
+p160
+aVB
+p161
+aVFlying
+p162
+aVTarget creature gets +X/+0 until end of turn, where X is the number of creature cards in your graveyard.
+p163
+aVWhen Howling Wolf enters the battlefield, you may search your library for up to three cards named Howling Wolf, reveal them, and put them into your hand. If you do, shuffle your library.
+p164
+aVWhen a creature enters the battlefield, sacrifice Monkey Cage and put X 2/2 green Ape creature tokens onto the battlefield, where X is that creature's converted mana cost.
+p165
+aVR
+p166
+aVW
+p167
+ag161
+aV{2}: Put the top card of your graveyard on the bottom of your library.
+p168
+aVIf Soldevi Excavations would enter the battlefield, sacrifice an untapped Island instead. If you do, put Soldevi Excavations onto the battlefield. If you don't, put it into its owner's graveyard.<br>{T}: Add {1}{U} to your mana pool.<br>{1}, {T}: Look at the top card of your library. You may put that card on the bottom of your library.
+p169
+aVCumulative upkeep {1} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>{1}: Soldevi Simulacrum gets +1/+0 until end of turn.
+p170
+aVTarget creature loses all abilities and becomes a 1/1 green Snake until end of turn.<br>Draw a card.
+p171
+aVWhen Soulcage Fiend dies, each player loses 3 life.
+p172
+aVEnchant creature<br>Enchanted creature gets +1/+1 and has protection from creatures.
+p173
+aV{2}{G}: Target Beast creature gets +1/+1 until end of turn.<br>Morph {1}{G}{G} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p174
+aVWhenever Snapping Thragg deals combat damage to a player, you may have it deal 3 damage to target creature that player controls.<br>Morph {4}{R}{R} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p175
+ag161
+aVYou may exile a blue card from your hand rather than pay Snapback's mana cost.<br>Return target creature to its owner's hand.
+p176
+aVU
+p177
+aVG
+p178
+aV{T}: Add {1} to your mana pool.<br>{4}{snow}, {T}, Sacrifice Mouth of Ronom: Mouth of Ronom deals 4 damage to target creature. <i>({snow} can be paid with one mana from a snow permanent.)</i>
+p179
+aVEnchant creature<br>Enchanted creature gets +2/+1 and has "{snow}: This creature can't be blocked this turn except by snow creatures." <i>({snow} can be paid with one mana from a snow permanent.)</i>
+p180
+aVFlying<br>{1}{snow}: Target creature loses flying until end of turn. <i>({snow} can be paid with one mana from a snow permanent.)</i>
+p181
+aVDefender <i>(This creature can't attack.)</i><br>{1}: Snow Fortress gets +1/+0 until end of turn.<br>{1}: Snow Fortress gets +0/+1 until end of turn.<br>{3}: Snow Fortress deals 1 damage to target creature without flying that's attacking you.
+p182
+aVEnchant creature<br>Enchanted creature has flying.<br>Enchanted creature has first strike as long as it's blocking and you control a snow land.
+p183
+aVCumulative upkeep {U} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>Whenever an Island is tapped for mana, its controller may add {U} to his or her mana pool <i>(in addition to the mana the land produces)</i>. If that Island is snow, its controller may add {U}{U} to his or her mana pool instead. Spend this mana only to pay cumulative upkeep costs.
+p184
+aVTarget player chooses three cards from his or her hand and puts them on top of his or her library in any order.
+p185
+aVEnchant creature<br>Enchanted creature can't be blocked by white creatures.<br>Enchanted creature gets +2/+2 as long as an opponent controls a white permanent.
+p186
+aVFlying<br>Whenever Abyssal Specter deals damage to a player, that player discards a card.
+p187
+aV{T}: Add {1} to your mana pool.<br>{T}: Add {W} or {U} to your mana pool. Adarkar Wastes deals 1 damage to you.
+p188
+aVAttacking creatures get +1/+0 and gain trample until end of turn.
+p189
+aVDestroy target land.
+p190
+aVStone Spirit can't be blocked by creatures with flying.
+p191
+aV{T}: Add {1} to your mana pool.<br>{T}, Sacrifice Crystal Vein: Add {2} to your mana pool.
+p192
+aVYou may discard a Forest card rather than pay Snag's mana cost.<br>Prevent all combat damage that would be dealt by unblocked creatures this turn.
+p193
+aVReturn target creature to its owner's hand. Untap up to two lands.
+p194
+aVSpawning Breath deals 1 damage to target creature or player. Put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."
+p195
+aVVolcanic Hammer deals 3 damage to target creature or player.
+p196
+aVShadow <i>(This creature can block or be blocked by only creatures with shadow.)</i><br>Sacrifice Augur il-Vec: You gain 4 life. Activate this ability only during your upkeep.
+p197
+aV{R}: You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice the creature at the beginning of the next end step.
+p198
+aVSea Monster can't attack unless defending player controls an Island.
+p199
+aVSneaky Homunculus can't block or be blocked by creatures with power 2 or greater.
+p200
+aVStirring Wildwood enters the battlefield tapped.<br>{T}: Add {G} or {W} to your mana pool.<br>{1}{G}{W}: Until end of turn, Stirring Wildwood becomes a 3/4 green and white Elemental creature with reach. It's still a land.
+p201
+aVCounter target noncreature spell unless its controller pays {1}.<br>Ferocious- If you control a creature with power 4 or greater, counter that spell instead.
+p202
+aVIntimidate <i>(This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)</i>
+p203
+aVYou may play up to three additional lands this turn.
+p204
+ag161
+aVFlying
+p205
+asS'costs'
+p206
+(lp207
+V{3}{U}{U}
+p208
+aV{1}{G}
+p209
+aV{3}{R}{R}
+p210
+aV{3}{U}
+p211
+aV{3}{B}
+p212
+aV{2}{G}{G}
+p213
+aV{3}{G}
+p214
+aV{5}
+p215
+aS'0'
+p216
+ag216
+ag216
+ag216
+ag216
+aV{2}{G/U}
+p217
+aV{2}{G}{W}{W}
+p218
+aV{2}{G}
+p219
+aV{2}{G}{G}
+p220
+aV{4}{R}
+p221
+aV{3}{U}
+p222
+aV{1}{U}
+p223
+ag216
+ag216
+ag216
+ag216
+ag216
+aV{5}
+p224
+aV{1}{U}
+p225
+aV{2}{U}
+p226
+aV{3}{G}
+p227
+aV{2}{W}
+p228
+ag216
+ag216
+ag216
+ag216
+ag216
+aV{4}
+p229
+aV{3}{G}
+p230
+aV{1}{U}
+p231
+aV{U}
+p232
+aV{3}{U}
+p233
+aV{3}{B}
+p234
+aV{3}{R}
+p235
+aV{1}{U}
+p236
+aV{1}{U}
+p237
+aV{1}{B}
+p238
+aV{1}{G}
+p239
+aV{3}{W}
+p240
+aV{4}
+p241
+aV{3}{U}
+p242
+aV{3}{U}
+p243
+asS'names'
+p244
+(lp245
+VSnapsail Glider
+p246
+aVSnake of the Golden Grove
+p247
+aVSnapping Drake
+p248
+aVSnapping Drake
+p249
+aVSnuff Out
+p250
+aVSnorting Gahr
+p251
+aVSnake Pit
+p252
+aVSnow Fortress
+p253
+aVSnow-Covered Forest
+p254
+aVSnow-Covered Island
+p255
+aVSnow-Covered Mountain
+p256
+aVSnow-Covered Plains
+p257
+aVSnow-Covered Swamp
+p258
+aVSnakeform
+p259
+aVSnare the Skies
+p260
+aVSnake Umbra
+p261
+aVSnarling Undorak
+p262
+aVSnapping Thragg
+p263
+aVSnapping Drake
+p264
+aVSnapback
+p265
+aVSnow-Covered Island
+p266
+aVSnow-Covered Forest
+p267
+aVSnow-Covered Mountain
+p268
+aVSnow-Covered Swamp
+p269
+aVSnow-Covered Plains
+p270
+aVSnow Fortress
+p271
+aVSnow Devil
+p272
+aVSnowfall
+p273
+aVSnowblind
+p274
+aVSnow Hound
+p275
+aVSnow-Covered Island
+p276
+aVSnow-Covered Plains
+p277
+aVSnow-Covered Forest
+p278
+aVSnow-Covered Mountain
+p279
+aVSnow-Covered Swamp
+p280
+aVSnake Basket
+p281
+aVSnag
+p282
+aVSnap
+p283
+aVSnake Umbra
+p284
+aVSnapping Drake
+p285
+aVSnake Cult Initiation
+p286
+aVSneak Attack
+p287
+aVSneaky Homunculus
+p288
+aVSneaky Homunculus
+p289
+aVSnapping Creeper
+p290
+aVSnowhorn Rider
+p291
+aVSnapcaster Mage
+p292
+aVSnake Basket
+p293
+aVSnapping Drake
+p294
+aVSnapping Drake
+p295
+asS'toughs'
+p296
+(lp297
+S'N/A'
+p298
+aV2
+p299
+aV1
+p300
+aV3
+p301
+ag298
+ag301
+ag298
+ag298
+ag298
+ag298
+ag298
+ag298
+ag298
+ag298
+ag298
+ag298
+ag300
+ag300
+ag299
+ag298
+ag298
+ag298
+ag298
+ag298
+ag298
+ag298
+ag298
+ag298
+ag298
+ag300
+ag298
+ag298
+ag298
+ag298
+ag298
+ag298
+ag298
+ag298
+ag298
+ag299
+ag298
+ag298
+ag300
+aV4
+p302
+ag300
+ag299
+ag301
+ag298
+ag302
+ag299
+asS'artists'
+p303
+(lp304
+VEfrem Palacios
+p305
+aVMathias Kollros
+p306
+aVTodd Lockwood
+p307
+aVDave Dorman
+p308
+aVMike Ploog
+p309
+aVAndrew Goldhawk
+p310
+aVCarl Critchlow
+p311
+aVJeff A. Menges
+p312
+aVPat Morrissey
+p313
+aVAnson Maddocks
+p314
+aVTom Wänerstrand
+p315
+aVChristopher Rush
+p316
+aVDouglas Shuler
+p317
+aVJim Nelson
+p318
+aVSteve Argyle
+p319
+aS''
+p320
+aVJustin Sweet
+p321
+aVIain McCaig
+p322
+aVDave Dorman
+p323
+aVAlan Pollack
+p324
+aVFranz Vohwinkel
+p325
+aVJim Nelson
+p326
+aVJohn Zeleznik
+p327
+aVRob Alexander
+p328
+aVMark Romanoski
+p329
+aVJeff A. Menges
+p330
+aVKen Meyer, Jr.
+p331
+aVPhil Foglio
+p332
+aVDouglas Shuler
+p333
+aVPat Morrissey
+p334
+aVAnson Maddocks
+p335
+aVChristopher Rush
+p336
+aVPat Morrissey
+p337
+aVTom Wänerstrand
+p338
+aVDouglas Shuler
+p339
+aVRoger Raupp
+p340
+aVRon Spencer
+p341
+aVMike Raabe
+p342
+aVChristopher Moeller
+p343
+aVChristopher Rush
+p344
+aVJustin Sweet
+p345
+aVJerry Tiritilli
+p346
+aVScott M. Fischer
+p347
+aVScott M. Fischer
+p348
+aVCyril Van Der Haegen
+p349
+aVTomasz Jedruszek
+p350
+aVVolkan Baga
+p351
+aVRoger Raupp
+p352
+aVChristopher Rush
+p353
+aVChristopher Rush
+p354
+asS'powers'
+p355
+(lp356
+g298
+ag299
+ag299
+ag301
+ag298
+ag301
+ag298
+ag298
+ag298
+ag298
+ag298
+ag298
+ag298
+ag298
+ag298
+ag298
+ag301
+ag300
+ag299
+ag298
+ag298
+ag298
+ag298
+ag298
+ag298
+ag298
+ag298
+ag298
+ag298
+ag300
+ag298
+ag298
+ag298
+ag298
+ag298
+ag298
+ag298
+ag298
+ag298
+ag301
+ag298
+ag298
+ag300
+ag299
+ag301
+aV5
+p357
+ag301
+ag298
+ag302
+ag301
+asS'types'
+p358
+(lp359
+VArtifact Creature - Construct
+p360
+aVCreature - Snake
+p361
+aVCreature - Drake
+p362
+aVCreature - Drake
+p363
+aVInstant
+p364
+aVCreature - Rhino Beast
+p365
+aVEnchantment
+p366
+aVArtifact Creature - Wall
+p367
+aVBasic Snow Land - Forest
+p368
+aVBasic Snow Land - Island
+p369
+aVBasic Snow Land - Mountain
+p370
+aVBasic Snow Land - Plains
+p371
+aVBasic Snow Land - Swamp
+p372
+aVInstant
+p373
+aVInstant
+p374
+aVEnchantment - Aura
+p375
+aVCreature - Beast
+p376
+aVCreature - Beast
+p377
+aVCreature - Drake
+p378
+aVInstant
+p379
+aVBasic Snow Land - Island
+p380
+aVBasic Snow Land - Forest
+p381
+aVBasic Snow Land - Mountain
+p382
+aVBasic Snow Land - Swamp
+p383
+aVBasic Snow Land - Plains
+p384
+aVArtifact Creature - Wall
+p385
+aVEnchantment - Aura
+p386
+aVEnchantment
+p387
+aVEnchantment - Aura
+p388
+aVCreature - Hound
+p389
+aVBasic Snow Land - Island
+p390
+aVBasic Snow Land - Plains
+p391
+aVBasic Snow Land - Forest
+p392
+aVBasic Snow Land - Mountain
+p393
+aVBasic Snow Land - Swamp
+p394
+aVArtifact
+p395
+aVInstant
+p396
+aVInstant
+p397
+aVEnchantment - Aura
+p398
+aVCreature - Drake
+p399
+aVEnchantment - Aura
+p400
+aVEnchantment
+p401
+aVCreature - Homunculus Illusion
+p402
+aVCreature - Homunculus Illusion
+p403
+aVCreature - Plant
+p404
+aVCreature - Human Warrior
+p405
+aVCreature - Human Wizard
+p406
+aVArtifact
+p407
+aVCreature - Drake
+p408
+aVCreature - Drake
+p409
+asS'numbers'
+p410
+(lp411
+V203
+p412
+aV141
+p413
+aV72
+p414
+aV110
+p415
+aV162
+p416
+aV272
+p417
+aV271
+p418
+aV220
+p419
+aV245
+p420
+aV242
+p421
+aV244
+p422
+aV241
+p423
+aV243
+p424
+aV161
+p425
+aV193
+p426
+aV154
+p427
+aV283
+p428
+aV233
+p429
+aV64
+p430
+aV78
+p431
+aV152
+p432
+aV155
+p433
+aV154
+p434
+aV153
+p435
+aV151
+p436
+aV22
+p437
+aV98
+p438
+aV99
+p439
+aV130
+p440
+aV205
+p441
+aV241
+p442
+aV242
+p443
+aV357
+p444
+aV358
+p445
+aV359
+p446
+aV311
+p447
+aV124
+p448
+aV43
+p449
+aV207
+p450
+aV52
+p451
+aV89
+p452
+aV218
+p453
+aV101
+p454
+aV44
+p455
+aV112
+p456
+aV201
+p457
+aV78
+p458
+aV153
+p459
+aV77
+p460
+aV192
+p461
+as.

@@ -1,0 +1,485 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVRare
+p4
+aVCommon
+p5
+aVUncommon
+p6
+aVRare
+p7
+aVCommon
+p8
+aVCommon
+p9
+aVUncommon
+p10
+aVUncommon
+p11
+aVCommon
+p12
+aVCommon
+p13
+aVCommon
+p14
+aVUncommon
+p15
+aVCommon
+p16
+aVRare
+p17
+aVUncommon
+p18
+aVCommon
+p19
+aVUncommon
+p20
+aVRare
+p21
+aVRare
+p22
+aVRare
+p23
+aVCommon
+p24
+asS'editns'
+p25
+(lp26
+VMorningtide
+p27
+aVMagic 2013
+p28
+aVCommander's Arsenal
+p29
+aVMagic 2010
+p30
+aVTenth Edition
+p31
+aVConflux
+p32
+aVConflux
+p33
+aVShards of Alara
+p34
+aVShards of Alara
+p35
+aVProphecy
+p36
+aVProphecy
+p37
+aVProphecy
+p38
+aVProphecy
+p39
+aVProphecy
+p40
+aVProphecy
+p41
+aVProphecy
+p42
+aVProphecy
+p43
+aVProphecy
+p44
+aVShadowmoor
+p45
+aVEighth Edition
+p46
+aVNemesis
+p47
+aVAlara Reborn
+p48
+asS'ids'
+p49
+(lp50
+V152643
+p51
+aV279987
+p52
+aV338457
+p53
+aV190576
+p54
+aV106504
+p55
+aV177924
+p56
+aV159634
+p57
+aV174957
+p58
+aV174959
+p59
+aV24551
+p60
+aV24562
+p61
+aV24576
+p62
+aV24577
+p63
+aV24589
+p64
+aV24614
+p65
+aV24623
+p66
+aV24633
+p67
+aV24685
+p68
+aV147393
+p69
+aV49038
+p70
+aV24687
+p71
+aV189650
+p72
+asS'texts'
+p73
+(lp74
+VWhenever Rhys the Exiled attacks, you gain 1 life for each Elf you control.<br>{B}, Sacrifice an Elf: Regenerate Rhys the Exiled.
+p75
+aVPrevent all damage that would be dealt to you and creatures you control this turn.
+p76
+aVWhenever an opponent casts a spell, you may draw a card unless that player pays {1}.
+p77
+aVWhenever you gain life, target opponent loses that much life.
+p78
+aVYou may have Rhox assign its combat damage as though it weren't blocked.<br>{2}{G}: Regenerate Rhox. <i>(The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</i>
+p79
+aVWhen Rotting Rats enters the battlefield, each player discards a card.<br>Unearth {1}{B} <i>({1}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</i>
+p80
+aVRupture Spire enters the battlefield tapped.<br>When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.<br>{T}: Add one mana of any color to your mana pool.
+p81
+aVReach <i>(This can block creatures with flying.)</i><br>Exalted <i>(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</i>
+p82
+aVAs an additional cost to cast Bone Splinters, sacrifice a creature.<br>Destroy target creature.
+p83
+aVCreatures you control get +0/+1 until end of turn. They get an additional +0/+2 until end of turn unless any player pays {2}.
+p84
+aV{1}: Any player may pay {1}. If no one does, the next time a source of your choice would deal damage to you this turn, prevent that damage.
+p85
+aV{U}: Tap target creature unless its controller pays {1}.
+p86
+aVDraw three cards. Then, if any player pays {2}, discard three cards.
+p87
+aVWhenever an opponent casts a spell, you may draw a card unless that player pays {1}.
+p88
+aVUnless any player pays {2}, search your library for a card, put that card into your hand, then shuffle your library.
+p89
+aVUnless target player pays {3}, he or she loses 5 life and you gain 5 life.
+p90
+aVRhystic Lightning deals 4 damage to target creature or player unless that creature's controller or that player pays {2}. If he or she does, Rhystic Lightning deals 2 damage to the creature or player.
+p91
+aV{T}: Choose a color. Add one mana of that color to your mana pool unless any player pays {1}. Activate this ability only any time you could cast an instant.
+p92
+aVFlying<br>When Knollspine Dragon enters the battlefield, you may discard your hand and draw cards equal to the damage dealt to target opponent this turn.
+p93
+aVVigilance
+p94
+aVYou may have Rhox assign its combat damage as though it weren't blocked.<br>{2}{G}: Regenerate Rhox. <i>(The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</i>
+p95
+aVDefender<br>Plainscycling {2}, islandcycling {2} <i>({2}, Discard this card: Search your library for a Plains or Island card, reveal it, and put it into your hand. Then shuffle your library.)</i>
+p96
+asS'costs'
+p97
+(lp98
+V{2}{G}
+p99
+aV{W}
+p100
+aV{2}{U}
+p101
+aV{R}
+p102
+aV{4}{G}{G}
+p103
+aV{2}{R}{R}
+p104
+aV{3}{G}{W}
+p105
+aV{4}{R}{W}
+p106
+aV{1}{W}
+p107
+aV{1}{W}
+p108
+aV{2}{W}{W}
+p109
+aV{2}{U}
+p110
+aV{2}{U}{U}
+p111
+aV{2}{U}
+p112
+aV{2}{B}
+p113
+aV{3}{B}{B}
+p114
+aV{2}{R}
+p115
+aS'0'
+p116
+aV{G/W}
+p117
+aV{4}{G}{G}
+p118
+aV{4}{G}{G}
+p119
+aV{2}{R}{G}
+p120
+asS'names'
+p121
+(lp122
+VRhys the Exiled
+p123
+aVRhox Faithmender
+p124
+aVRhystic Study
+p125
+aVRhox Pikemaster
+p126
+aVRhox
+p127
+aVRhox Bodyguard
+p128
+aVRhox Meditant
+p129
+aVRhox War Monk
+p130
+aVRhox Charger
+p131
+aVRhystic Shield
+p132
+aVRhystic Circle
+p133
+aVRhystic Deluge
+p134
+aVRhystic Scrying
+p135
+aVRhystic Study
+p136
+aVRhystic Tutor
+p137
+aVRhystic Syphon
+p138
+aVRhystic Lightning
+p139
+aVRhystic Cave
+p140
+aVRhys the Redeemed
+p141
+aVRhox
+p142
+aVRhox
+p143
+aVRhox Brute
+p144
+asS'toughs'
+p145
+(lp146
+V2
+p147
+aV3
+p148
+aS'N/A'
+p149
+aV4
+p150
+aV5
+p151
+ag151
+aV1
+p152
+ag152
+ag148
+ag149
+ag149
+ag149
+ag149
+ag149
+ag149
+ag149
+ag149
+ag149
+ag152
+ag148
+aV10
+p153
+ag150
+asS'artists'
+p154
+(lp155
+VSteve Prescott
+p156
+aVWesley Burt
+p157
+aVTerese Nielsen
+p158
+aVSteve Prescott
+p159
+aVMark Zug
+p160
+aVSal Villagran
+p161
+aVDonato Giancola
+p162
+aVDan Dos Santos
+p163
+aVChris Rahn
+p164
+aVKev Walker
+p165
+aVAlan Pollack
+p166
+aVPete Venters
+p167
+aVRoger Raupp
+p168
+aVTerese Nielsen
+p169
+aVDan Frazier
+p170
+aVRon Spencer
+p171
+aVRoger Raupp
+p172
+aVRob Alexander
+p173
+aVSteve Prescott
+p174
+aVCarl Critchlow
+p175
+aVCarl Critchlow
+p176
+aVRaymond Swanland
+p177
+asS'powers'
+p178
+(lp179
+g148
+ag152
+ag149
+ag147
+ag151
+aV0
+p180
+aV7
+p181
+ag147
+ag152
+ag149
+ag149
+ag149
+ag149
+ag149
+ag149
+ag149
+ag149
+ag149
+ag152
+ag148
+aV10
+p182
+ag151
+asS'types'
+p183
+(lp184
+VLegendary Creature - Elf Warrior
+p185
+aVCreature - Rhino Monk
+p186
+aVEnchantment
+p187
+aVCreature - Rhino Soldier
+p188
+aVCreature - Rhino Beast
+p189
+aVCreature - Rhino Monk Soldier
+p190
+aVCreature - Rhino Monk
+p191
+aVCreature - Rhino Monk
+p192
+aVCreature - Rhino Soldier
+p193
+aVInstant
+p194
+aVEnchantment
+p195
+aVEnchantment
+p196
+aVSorcery
+p197
+aVEnchantment
+p198
+aVSorcery
+p199
+aVSorcery
+p200
+aVInstant
+p201
+aVLand
+p202
+aVLegendary Creature - Elf Warrior
+p203
+aVCreature - Rhino Beast
+p204
+aVCreature - Rhino Beast
+p205
+aVCreature - Rhino Warrior
+p206
+asS'numbers'
+p207
+(lp208
+V135
+p209
+aV29
+p210
+aV15
+p211
+aV26
+p212
+aV291
+p213
+aV122
+p214
+aV16
+p215
+aV188
+p216
+aV145
+p217
+aV20
+p218
+aV19
+p219
+aV43
+p220
+aV44
+p221
+aV45
+p222
+aV77
+p223
+aV76
+p224
+aV99
+p225
+aV142
+p226
+aV237
+p227
+aV277
+p228
+aV112
+p229
+aV59
+p230
+as.

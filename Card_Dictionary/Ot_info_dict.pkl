@@ -1,0 +1,135 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVRare
+p4
+aVUncommon
+p5
+aVRare
+p6
+aVCommon
+p7
+asS'editns'
+p8
+(lp9
+VModern Masters
+p10
+aVAvacyn Restored
+p11
+aVChampions of Kamigawa
+p12
+aVOdyssey
+p13
+aVPlanechase
+p14
+asS'ids'
+p15
+(lp16
+V370460
+p17
+aV240052
+p18
+aV50256
+p19
+aV29889
+p20
+aV198095
+p21
+asS'texts'
+p22
+(lp23
+VExile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control with a +1/+1 counter on it.
+p24
+aVSoulbond <i>(You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)</i><br>As long as Pathbreaker Wurm is paired with another creature, both creatures have trample.
+p25
+aVExile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control with a +1/+1 counter on it.
+p26
+aV{2}, {T}, Sacrifice Skycloud Egg: Add {W}{U} to your mana pool. Draw a card.
+p27
+aVInstant and sorcery cards in graveyards have flashback. The flashback cost is equal to the card's mana cost. <i>(Its owner may cast the card from his or her graveyard for its mana cost. Then he or she exiles it.)</i><br>Whenever you roll , take an extra turn after this one.
+p28
+asS'costs'
+p29
+(lp30
+V{1}{W}
+p31
+aV{3}{G}
+p32
+aV{1}{W}
+p33
+aV{4}
+p34
+aS'0'
+p35
+asS'names'
+p36
+(lp37
+VOtherworldly Journey
+p38
+aVOtherworld Atlas
+p39
+aVOtherworldly Journey
+p40
+aVOtarian Juggernaut
+p41
+aVOtaria
+p42
+asS'toughs'
+p43
+(lp44
+S'N/A'
+p45
+ag45
+ag45
+ag45
+ag45
+asS'artists'
+p46
+(lp47
+S''
+p48
+aVErica Yang
+p49
+aVVance Kovacs
+p50
+aVBrian Snoddy
+p51
+aVCharles Urbach
+p52
+asS'powers'
+p53
+(lp54
+g45
+ag45
+ag45
+ag45
+ag45
+asS'types'
+p55
+(lp56
+VInstant - Arcane
+p57
+aVArtifact
+p58
+aVInstant - Arcane
+p59
+aVArtifact Creature - Juggernaut
+p60
+aVPlane - Dominaria
+p61
+asS'numbers'
+p62
+(lp63
+g48
+aV219
+p64
+aV37
+p65
+aV305
+p66
+aV28
+p67
+as.

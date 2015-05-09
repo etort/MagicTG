@@ -1,0 +1,1673 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVRare
+p4
+aVUncommon
+p5
+aVCommon
+p6
+aVRare
+p7
+aVRare
+p8
+aVUncommon
+p9
+aVCommon
+p10
+aVCommon
+p11
+aVUncommon
+p12
+aVRare
+p13
+aVRare
+p14
+aVRare
+p15
+aVCommon
+p16
+aVCommon
+p17
+aVRare
+p18
+aVUncommon
+p19
+aVRare
+p20
+aVUncommon
+p21
+aVUncommon
+p22
+aVUncommon
+p23
+aVUncommon
+p24
+aVRare
+p25
+aVCommon
+p26
+aVRare
+p27
+aVRare
+p28
+aVRare
+p29
+aVRare
+p30
+aVUncommon
+p31
+aVUncommon
+p32
+aVRare
+p33
+aVRare
+p34
+aVUncommon
+p35
+aVCommon
+p36
+aVCommon
+p37
+aVUncommon
+p38
+aVRare
+p39
+aVCommon
+p40
+aVCommon
+p41
+aVRare
+p42
+aVRare
+p43
+aVCommon
+p44
+aVUncommon
+p45
+aVCommon
+p46
+aVCommon
+p47
+aVUncommon
+p48
+aVCommon
+p49
+aVUncommon
+p50
+aVUncommon
+p51
+aVUncommon
+p52
+aVUncommon
+p53
+aVCommon
+p54
+aVRare
+p55
+aVUncommon
+p56
+aVRare
+p57
+aVCommon
+p58
+aVUncommon
+p59
+aVCommon
+p60
+aVRare
+p61
+aVUncommon
+p62
+aVCommon
+p63
+aVCommon
+p64
+aVRare
+p65
+aVUncommon
+p66
+aVUncommon
+p67
+aVUncommon
+p68
+aVCommon
+p69
+aVCommon
+p70
+aVCommon
+p71
+aVCommon
+p72
+aVCommon
+p73
+aVRare
+p74
+aVRare
+p75
+aVRare
+p76
+aVRare
+p77
+aVCommon
+p78
+aVCommon
+p79
+aVCommon
+p80
+aVRare
+p81
+aVRare
+p82
+aVUncommon
+p83
+aVCommon
+p84
+asS'editns'
+p85
+(lp86
+VMagic: The Gathering-Commander
+p87
+aVMagic: The Gathering-Commander
+p88
+aVSaviors of Kamigawa
+p89
+aVBattle Royale Box Set
+p90
+aVPlanar Chaos
+p91
+aVAlliances
+p92
+aVScars of Mirrodin
+p93
+aVBorn of the Gods
+p94
+aVMagic 2010
+p95
+aVTempest
+p96
+aVTempest
+p97
+aVMercadian Masques
+p98
+aVMercadian Masques
+p99
+aVVintage Masters
+p100
+aVVintage Masters
+p101
+aVModern Masters
+p102
+aVModern Masters
+p103
+aVThe Dark
+p104
+aVMasters Edition III
+p105
+aVGuildpact
+p106
+aVNinth Edition
+p107
+aVNinth Edition
+p108
+aVConflux
+p109
+aVConflux
+p110
+aVConflux
+p111
+aVAvacyn Restored
+p112
+aVPlanechase 2012 Edition
+p113
+aVOnslaught
+p114
+aVOnslaught
+p115
+aVUrza's Destiny
+p116
+aVRavnica: City of Guilds
+p117
+aVOdyssey
+p118
+aVOdyssey
+p119
+aVReturn to Ravnica
+p120
+aVGatecrash
+p121
+aVGatecrash
+p122
+aVExodus
+p123
+aVZendikar
+p124
+aVZendikar
+p125
+aVClassic Sixth Edition
+p126
+aVMirrodin
+p127
+aVShards of Alara
+p128
+aVShards of Alara
+p129
+aVShards of Alara
+p130
+aVProphecy
+p131
+aVProphecy
+p132
+aVUrza's Legacy
+p133
+aVRise of the Eldrazi
+p134
+aVJudgment
+p135
+aVNew Phyrexia
+p136
+aVStarter 1999
+p137
+aVStarter 1999
+p138
+aVScourge
+p139
+aVScourge
+p140
+aVPortal Second Age
+p141
+aVPortal Second Age
+p142
+aVPlanechase
+p143
+aVUrza's Saga
+p144
+aVUrza's Saga
+p145
+aVUrza's Saga
+p146
+aVUrza's Saga
+p147
+aVMasters Edition
+p148
+aVMagic: The Gathering\u2014Conspiracy
+p149
+aVMagic: The Gathering\u2014Conspiracy
+p150
+aVMagic: The Gathering\u2014Conspiracy
+p151
+aVEighth Edition
+p152
+aVWorldwake
+p153
+aVPremium Deck Series: Graveborn
+p154
+aVInvasion
+p155
+aVInvasion
+p156
+aVInvasion
+p157
+aVJourney into Nyx
+p158
+aVArchenemy
+p159
+aVDragon's Maze
+p160
+aVDissension
+p161
+aVLorwyn
+p162
+aVMagic 2011
+p163
+aVPortal Three Kingdoms
+p164
+aVPortal Three Kingdoms
+p165
+aVPortal
+p166
+aVPlaneshift
+p167
+aVDark Ascension
+p168
+asS'ids'
+p169
+(lp170
+V247345
+p171
+aV247178
+p172
+aV74399
+p173
+aV21153
+p174
+aV126804
+p175
+aV3194
+p176
+aV210235
+p177
+aV378382
+p178
+aV190173
+p179
+aV4607
+p180
+aV4663
+p181
+aV19673
+p182
+aV19703
+p183
+aV382928
+p184
+aV382929
+p185
+aV370384
+p186
+aV370462
+p187
+aV1806
+p188
+aV201255
+p189
+aV97225
+p190
+aV83079
+p191
+aV84065
+p192
+aV189273
+p193
+aV189378
+p194
+aV189082
+p195
+aV240134
+p196
+aV275257
+p197
+aV39718
+p198
+aV41172
+p199
+aV15255
+p200
+aV87900
+p201
+aV29849
+p202
+aV30558
+p203
+aV265393
+p204
+aV366444
+p205
+aV366441
+p206
+aV6053
+p207
+aV193405
+p208
+aV190396
+p209
+aV15350
+p210
+aV49440
+p211
+aV174895
+p212
+aV175049
+p213
+aV180144
+p214
+aV24553
+p215
+aV24586
+p216
+aV12356
+p217
+aV193479
+p218
+aV29885
+p219
+aV214364
+p220
+aV21044
+p221
+aV21036
+p222
+aV40648
+p223
+aV43595
+p224
+aV6549
+p225
+aV6534
+p226
+aV205368
+p227
+aV5819
+p228
+aV8823
+p229
+aV5650
+p230
+aV5556
+p231
+aV159091
+p232
+aV382262
+p233
+aV382263
+p234
+aV382264
+p235
+aV45315
+p236
+aV201578
+p237
+aV270462
+p238
+aV22986
+p239
+aV23032
+p240
+aV23120
+p241
+aV380411
+p242
+aV220507
+p243
+aV369055
+p244
+aV107385
+p245
+aV146443
+p246
+aV208273
+p247
+aV10528
+p248
+aV10527
+p249
+aV4261
+p250
+aV25931
+p251
+aV244737
+p252
+asS'texts'
+p253
+(lp254
+VSearch your library for up to two basic land cards and put them onto the battlefield tapped. Then shuffle your library.
+p255
+aVFlying<br>Whenever another creature leaves the battlefield, you may have target player put the top two cards of his or her library into his or her graveyard.<br>Unearth {2}{B} <i>({2}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</i>
+p256
+aVTarget player sacrifices a creature with converted mana cost 3 or less.<br>At the beginning of your upkeep, if you have more cards in hand than each opponent, you may return Exile into Darkness from your graveyard to your hand.
+p257
+aVEach player puts a creature card from his or her graveyard onto the battlefield.
+p258
+aVSplit second <i>(As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)</i><br>Choose target card in a graveyard other than a basic land card. Search its owner's graveyard, hand, and library for all cards with the same name as that card and exile them. Then that player shuffles his or her library.
+p259
+aVChoose one- Put a 2/2 black Zombie creature token onto the battlefield; or destroy target nonartifact, nonblack creature and it can't be regenerated.
+p260
+aV{G}: Regenerate another target Elf.<br>{2}{G}{G}{G}: Elf creatures you control get +3/+3 and gain trample until end of turn.
+p261
+aVTarget creature gets -1/-1 until end of turn. If it's a Cyclops, destroy it.
+p262
+aVPrevent all combat damage that would be dealt this turn.
+p263
+aV{T}, Sacrifice a basic land: Target creature gains landwalk of each of the land types of the sacrificed land until end of turn.
+p264
+aV{2}{B}{B}: Put a -1/-1 counter on target creature.
+p265
+aVUntil end of turn, all creatures gain "{T}: Tap target creature."
+p266
+aVEnchant creature<br>At the beginning of the upkeep of enchanted creature's controller, Unnatural Hunger deals damage to that player equal to that creature's power unless he or she sacrifices another creature.
+p267
+aVReveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
+p268
+aVFlanking <i>(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)</i><br>Fallen Askari can't block.
+p269
+aVSplit second <i>(As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)</i><br>Choose target card in a graveyard other than a basic land card. Search its owner's graveyard, hand, and library for all cards with the same name as that card and exile them. Then that player shuffles his or her library.
+p270
+aV{1}{B}, {T}, Sacrifice Executioner's Capsule: Destroy target nonblack creature.
+p271
+aV{1}{W}, {T}: Destroy target black creature.
+p272
+aVReturn target creature card from your graveyard to the battlefield.
+p273
+aVFlying<br>Haunt <i>(When this creature dies, exile it haunting target creature.)</i><br>When Blind Hunter enters the battlefield or the creature it haunts dies, target player loses 2 life and you gain 2 life.
+p274
+aVWhenever a creature you control dies, each other player sacrifices a creature.
+p275
+aV{R}: Flowstone Crusher gets +1/-1 until end of turn.
+p276
+aVDomain- Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library. Exploding Borders deals X damage to target player, where X is the number of basic land types among lands you control.
+p277
+aVFlying<br>Whenever another creature leaves the battlefield, you may have target player put the top two cards of his or her library into his or her graveyard.<br>Unearth {2}{B} <i>({2}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</i>
+p278
+aVFlying<br>When Faerie Mechanist enters the battlefield, look at the top three cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+p279
+aVWhenever Falkenrath Exterminator deals combat damage to a player, put a +1/+1 counter on it.<br>{2}{R}: Falkenrath Exterminator deals damage to target creature equal to the number of +1/+1 counters on Falkenrath Exterminator.
+p280
+aV{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.
+p281
+aVFlying<br>Whenever Exalted Angel deals damage, you gain that much life.<br>Morph {2}{W}{W} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p282
+aVSearch your library for up to two basic land cards and put them onto the battlefield tapped. Then shuffle your library.
+p283
+aVEcho {4} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i><br>Sacrifice an artifact: Put a +1/+1 counter on target creature.
+p284
+aVFlying<br>When Surveilling Sprite dies, you may draw a card.
+p285
+aVFlying<br>Whenever Cursed Monstrosity becomes the target of a spell or ability, sacrifice it unless you discard a land card.
+p286
+aVG
+p287
+aVCounter target spell. You gain 5 life.
+p288
+aVTarget creature that dealt damage this turn gets -5/-5 until end of turn.
+p289
+aVEvolve <i>(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)</i><br>Remove two +1/+1 counters from Experiment One: Regenerate Experiment One.
+p290
+aVFlying<br>Exalted Dragon can't attack unless you sacrifice a land.
+p291
+aV{2}, {T}, Sacrifice Expedition Map: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.
+p292
+aVWhenever equipped creature attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.<br>Equip {1} <i>({1}: Attach to target creature you control. Equip only as a sorcery.)</i>
+p293
+aVLands you control are Plains.<br>Nonland cards you own that aren't on the battlefield, spells you control, and nonland permanents you control are white.<br>You may spend white mana as though it were mana of any color. You may spend other mana only as though it were colorless mana.
+p294
+aVWhenever an artifact, creature, or enchantment enters the battlefield, its controller chooses target permanent another player controls that shares a card type with it. Exchange control of those permanents.
+p295
+aVTarget creature gets +3/+3 until end of turn.<br>Cycling {5}{R}{G}{W} <i>({5}{R}{G}{W}, Discard this card: Draw a card.)</i><br>When you cycle Resounding Roar, target creature gets +6/+6 until end of turn.
+p296
+aVReturn target creature to its owner's hand. Its controller draws a card.
+p297
+aVU
+p298
+aVExile target attacking creature unless its controller pays {X}.
+p299
+aV{1}, Sacrifice a land: Draw a card. Any player may activate this ability.
+p300
+aV{T}, Sacrifice Expendable Troops: Expendable Troops deals 2 damage to target attacking or blocking creature.
+p301
+aVChoose target creature or player. Reveal cards from the top of your library until you reveal a nonland card. Explosive Revelation deals damage equal to that card's converted mana cost to that creature or player. Put the nonland card into your hand and the rest on the bottom of your library in any order.
+p302
+aVEnchant creature<br>Enchanted creature gets +X/+X, where X is the number of creature cards in all graveyards.
+p303
+aVImprint- When Exclusion Ritual enters the battlefield, exile target nonland permanent.<br>Players can't cast spells with the same name as the exiled card.
+p304
+aVFlying<br>Goblin Glider can't block.
+p305
+aVDraw four cards, then discard three cards at random.
+p306
+aVAll morph costs cost {2} more. <i>(This doesn't affect the cost to cast creature spells face down.)</i>
+p307
+aVEnchant creature<br>Whenever enchanted creature attacks, it deals 2 damage to target creature or player.
+p308
+aVHurricane deals X damage to each creature with flying and each player.
+p309
+ag298
+aVSearch your library for up to two basic land cards and put them onto the battlefield tapped. Then shuffle your library.
+p310
+aVDestroy all enchantments.<br>Cycling {2} <i>({2}, Discard this card: Draw a card.)</i>
+p311
+aVAt the beginning of your upkeep, if a player has more life than each other player, the player with the most life gains control of Wild Dogs.<br>Cycling {2} <i>({2}, Discard this card: Draw a card.)</i>
+p312
+aVWhenever a creature dies, that creature's controller may draw a card.
+p313
+aVEnchant land<br>Whenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool <i>(in addition to the mana the land produces)</i>.
+p314
+aVExile target nonwhite attacking creature. You gain life equal to its toughness.
+p315
+aVYou may play an additional land on each of your turns.
+p316
+aVWhenever equipped creature attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.<br>Equip {1} <i>({1}: Attach to target creature you control. Equip only as a sorcery.)</i>
+p317
+aVEach player puts the top two cards of his or her library into his or her graveyard. Then put a creature card from a graveyard onto the battlefield under your control.
+p318
+aVCreature spells can't be countered.
+p319
+aVYou may play an additional land this turn.<br>Draw a card.
+p320
+aVEach player puts a creature card from his or her graveyard onto the battlefield.
+p321
+aVCounter target creature spell.<br><br>Draw a card.
+p322
+aVEnchant creature<br>Domain- Enchanted creature gets -1/-1 for each basic land type among lands you control.
+p323
+aVKicker {5} <i>(You may pay an additional {5} as you cast this spell.)</i><br>Target creature gets +2/+2 until end of turn. If Explosive Growth was kicked, that creature gets +5/+5 until end of turn instead.
+p324
+aVDestroy all nonenchantment creatures.
+p325
+aVFlying<br>Whenever another creature leaves the battlefield, you may have target player put the top two cards of his or her library into his or her graveyard.<br>Unearth {2}{B} <i>({2}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</i>
+p326
+aV{3}: Feral Animist gets +X/+0 until end of turn, where X is its power.
+p327
+aVExperiment Kraj has all activated abilities of each other creature with a +1/+1 counter on it.<br>{T}: Put a +1/+1 counter on target creature.
+p328
+aVAs long as you control a Giant, Kithkin Greatheart gets +1/+1 and has first strike.
+p329
+aVFireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.<br>Fireball costs {1} more to cast for each target beyond the first.
+p330
+aVMountainwalk
+p331
+aVCounter target creature or sorcery spell.
+p332
+aVWhen Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.
+p333
+aVDomain- Target player loses X life and you gain X life, where X is the number of basic land types among lands you control.
+p334
+aVEquipped creature has intimidate. <i>(This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)</i><br>Equip {2} <i>({2}: Attach to target creature you control. Equip only as a sorcery.)</i>
+p335
+asS'costs'
+p336
+(lp337
+V{3}{G}
+p338
+aV{4}{B}{B}
+p339
+aV{4}{B}
+p340
+aV{1}{B}
+p341
+aV{B}
+p342
+aV{2}{W}
+p343
+aV{3}
+p344
+aV{3}{W}
+p345
+aV{3}{G}
+p346
+aV{2}
+p347
+aV{4}{B}
+p348
+aV{3}{U}
+p349
+aV{3}{B}{B}
+p350
+aV{2}{G}{G}
+p351
+aV{2}{W}
+p352
+aV{B}
+p353
+aV{1}{W}
+p354
+aV{W}{W}
+p355
+aV{W}{W}
+p356
+aV{5}{B}
+p357
+aV{2}{B}
+p358
+aV{2}{U}
+p359
+aS'0'
+p360
+aV{2}{R}{G}
+p361
+aV{4}{B}{B}
+p362
+aV{2}{B}
+p363
+ag360
+aV{4}{W}{W}
+p364
+aV{3}{G}
+p365
+aV{4}
+p366
+aV{6}{R}{R}
+p367
+aV{U}
+p368
+aV{2}{B}
+p369
+aV{5}{R}
+p370
+aV{8}{U}{U}{U}{U}
+p371
+aV{W}{B}
+p372
+aV{4}{W}{W}
+p373
+aV{6}
+p374
+aV{1}
+p375
+aV{2}{W}
+p376
+aV{3}
+p377
+aV{3}
+p378
+aV{4}{U}
+p379
+aV{3}{R}
+p380
+aV{X}{W}
+p381
+aV{1}{U}
+p382
+aV{1}{W}
+p383
+aV{3}{R}{R}
+p384
+aV{1}{G}
+p385
+aV{4}{W}{W}
+p386
+aV{2}{U}
+p387
+aV{1}{U}
+p388
+aV{1}{W}
+p389
+aV{4}{R}
+p390
+aV{2}{U}
+p391
+aV{1}{U}
+p392
+aV{3}{G}
+p393
+aV{2}{B}
+p394
+aV{G}
+p395
+aV{2}{U}
+p396
+aV{1}{B}
+p397
+aV{2}{W}
+p398
+aV{2}{R}
+p399
+aV{G}
+p400
+aV{1}
+p401
+aV{2}{B}
+p402
+aV{1}{G}
+p403
+aV{1}{B}
+p404
+aV{2}{U}
+p405
+aV{2}{B}
+p406
+aV{G}
+p407
+aV{R}{R}
+p408
+aV{4}{B}{B}
+p409
+aV{2}{B}{R}
+p410
+aV{2}{G}{G}{U}{U}
+p411
+aV{4}{B}
+p412
+aV{1}{G}{G}
+p413
+aV{1}{U}
+p414
+aV{2}{U}
+p415
+aV{2}{U}
+p416
+aV{4}{B}
+p417
+aV{2}
+p418
+asS'names'
+p419
+(lp420
+VExplosive Vegetation
+p421
+aVExtractor Demon
+p422
+aVExile into Darkness
+p423
+aVExhume
+p424
+aVExtirpate
+p425
+aVExile
+p426
+aVExsanguinate
+p427
+aVExcoriate
+p428
+aVExcommunicate
+p429
+aVExcavator
+p430
+aVExtinction
+p431
+aVExtravagant Spirit
+p432
+aVExtortion
+p433
+aVExile
+p434
+aVExpunge
+p435
+aVExtirpate
+p436
+aVExecutioner's Capsule
+p437
+aVExorcist
+p438
+aVExorcist
+p439
+aVExhumer Thrull
+p440
+aVExecute
+p441
+aVExhaustion
+p442
+aVExotic Orchard
+p443
+aVExploding Borders
+p444
+aVExtractor Demon
+p445
+aVExquisite Blood
+p446
+aVExotic Orchard
+p447
+aVExalted Angel
+p448
+aVExplosive Vegetation
+p449
+aVExtruder
+p450
+aVExcruciator
+p451
+aVExtract
+p452
+aVExecute
+p453
+aVExplosive Impact
+p454
+aVExecutioner's Swing
+p455
+aVExperiment One
+p456
+aVExalted Dragon
+p457
+aVExpedition Map
+p458
+aVExplorer's Scope
+p459
+aVExile
+p460
+aVExtraplanar Lens
+p461
+aVExecutioner's Capsule
+p462
+aVExuberant Firestoker
+p463
+aVExcommunicate
+p464
+aVExcise
+p465
+aVExcavation
+p466
+aVExpendable Troops
+p467
+aVExplosive Revelation
+p468
+aVExoskeletal Armor
+p469
+aVExclusion Ritual
+p470
+aVExhaustion
+p471
+aVExtinguish
+p472
+aVExiled Doomsayer
+p473
+aVExtra Arms
+p474
+aVExhaustion
+p475
+aVExtinguish
+p476
+aVExplosive Vegetation
+p477
+aVExpunge
+p478
+aVExploration
+p479
+aVExhaustion
+p480
+aVExhume
+p481
+aVExile
+p482
+aVExploration
+p483
+aVExplorer's Scope
+p484
+aVExtract from Darkness
+p485
+aVExecute
+p486
+aVExplore
+p487
+aVExhume
+p488
+aVExclude
+p489
+aVExotic Curse
+p490
+aVExplosive Growth
+p491
+aVExtinguish All Hope
+p492
+aVExtractor Demon
+p493
+aVExava, Rakdos Blood Witch
+p494
+aVExperiment Kraj
+p495
+aVExiled Boggart
+p496
+aVExcommunicate
+p497
+aVExtinguish
+p498
+aVExhaustion
+p499
+aVExhaustion
+p500
+aVExotic Disease
+p501
+aVExecutioner's Hood
+p502
+asS'toughs'
+p503
+(lp504
+S'N/A'
+p505
+aV5
+p506
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+aV4
+p507
+ag505
+ag505
+ag505
+ag505
+ag505
+aV1
+p508
+ag508
+aV3
+p509
+ag505
+ag505
+ag505
+ag505
+ag509
+ag505
+ag505
+aV2
+p510
+ag505
+ag505
+ag510
+ag505
+ag505
+ag505
+ag505
+ag507
+aV7
+p511
+ag505
+ag505
+ag505
+ag505
+ag505
+ag507
+ag505
+ag505
+ag505
+ag508
+ag505
+ag505
+ag505
+ag505
+ag505
+ag510
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag508
+ag509
+ag508
+ag508
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+asS'artists'
+p512
+(lp513
+VJohn Avon
+p514
+aVCarl Critchlow
+p515
+aVPete Venters
+p516
+aVCarl Critchlow
+p517
+aVJon Foster
+p518
+aVRob Alexander
+p519
+aVCarl Critchlow
+p520
+aVJohann Bodin
+p521
+aVMatt Stewart
+p522
+aVTom Kyffin
+p523
+aVUna Fricker
+p524
+aVEdward P. Beard, Jr.
+p525
+aVPete Venters
+p526
+aVSam Wolfe Connelly
+p527
+aVChristopher Moeller
+p528
+aS''
+p529
+ag529
+aVDrew Tucker
+p530
+aVSusan Van Camp
+p531
+aVWarren Mahy
+p532
+aVGary Ruddell
+p533
+aVPaolo Parente
+p534
+aVSteven Belledin
+p535
+aVZoltan Boros & Gabor Szikszai
+p536
+aVCarl Critchlow
+p537
+aVWinona Nelson
+p538
+ag529
+aVMichael Sutfin
+p539
+aVJohn Avon
+p540
+aVMark Tedin
+p541
+aVPaolo Parente
+p542
+aVMatt Cavotta
+p543
+aVGary Ruddell
+p544
+aVSteve Argyle
+p545
+aVKarl Kopinski
+p546
+aVChase Stone
+p547
+aVMatthew Wilson
+p548
+aVFranz Vohwinkel
+p549
+aVVincent Proce
+p550
+aVRob Alexander
+p551
+aVLars Grant-West
+p552
+aVWarren Mahy
+p553
+aVZoltan Boros & Gabor Szikszai
+p554
+aVMatt Stewart
+p555
+aVJoel Biske
+p556
+aVTerese Nielsen
+p557
+aVCarl Critchlow
+p558
+aVJustin Sweet
+p559
+aVWayne England
+p560
+ag529
+aVPaolo Parente
+p561
+aVDouglas Shuler
+p562
+aVBrian Snoddy
+p563
+aVGreg Staples
+p564
+aVKaja Foglio
+p565
+aVDouglas Shuler
+p566
+aVJohn Avon
+p567
+aVChristopher Moeller
+p568
+aVBrian Snoddy
+p569
+aVPaolo Parente
+p570
+aVCarl Critchlow
+p571
+aVRob Alexander
+p572
+aVFlorian de Gesincourt
+p573
+aVVincent Proce
+p574
+aVDallas Williams
+p575
+aVGary Ruddell
+p576
+aVJohn Avon
+p577
+ag529
+aVMark Romanoski
+p578
+aVOrizio Daniele
+p579
+aVArnie Swekel
+p580
+aVChase Stone
+p581
+aVCarl Critchlow
+p582
+aVAleksi Briclot
+p583
+aVMark Tedin
+p584
+aVPete Venters
+p585
+aVMatt Stewart
+p586
+aVDing Songjian
+p587
+aVQu Xin
+p588
+aVDiTerlizzi
+p589
+aVKev Walker
+p590
+aVSvetlin Velinov
+p591
+asS'powers'
+p592
+(lp593
+g505
+ag506
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag507
+ag505
+ag505
+ag505
+ag505
+ag505
+ag508
+ag508
+ag509
+ag505
+ag505
+ag505
+ag505
+ag510
+ag505
+ag505
+ag508
+ag505
+ag505
+ag510
+ag505
+ag505
+ag505
+ag505
+ag509
+aV0
+p594
+ag505
+ag505
+ag505
+ag505
+ag505
+ag508
+ag505
+ag505
+ag505
+ag510
+ag505
+ag505
+ag505
+ag505
+ag505
+ag508
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+ag510
+ag509
+ag509
+ag510
+ag505
+ag505
+ag505
+ag505
+ag505
+ag505
+asS'types'
+p595
+(lp596
+VSorcery
+p597
+aVCreature - Demon
+p598
+aVSorcery
+p599
+aVSorcery
+p600
+aVInstant
+p601
+aVInstant
+p602
+aVSorcery
+p603
+aVSorcery
+p604
+aVSorcery
+p605
+aVArtifact
+p606
+aVSorcery
+p607
+aVCreature - Spirit
+p608
+aVSorcery
+p609
+aVInstant
+p610
+aVInstant
+p611
+aVInstant
+p612
+aVArtifact
+p613
+aVCreature - Human Cleric
+p614
+aVCreature - Human Cleric
+p615
+aVCreature - Thrull
+p616
+aVInstant
+p617
+aVSorcery
+p618
+aVLand
+p619
+aVSorcery
+p620
+aVCreature - Demon
+p621
+aVEnchantment
+p622
+aVLand
+p623
+aVCreature - Angel
+p624
+aVSorcery
+p625
+aVArtifact Creature - Juggernaut
+p626
+aVCreature - Avatar
+p627
+aVSorcery
+p628
+aVInstant
+p629
+aVInstant
+p630
+aVInstant
+p631
+aVCreature - Human Ooze
+p632
+aVCreature - Dragon
+p633
+aVArtifact
+p634
+aVArtifact - Equipment
+p635
+aVInstant
+p636
+aVArtifact
+p637
+aVArtifact
+p638
+aVCreature - Human Druid Shaman
+p639
+aVSorcery
+p640
+aVInstant
+p641
+aVEnchantment
+p642
+aVCreature - Human Soldier
+p643
+aVSorcery
+p644
+aVEnchantment - Aura
+p645
+aVEnchantment
+p646
+aVSorcery
+p647
+aVInstant
+p648
+aVCreature - Human Cleric
+p649
+aVEnchantment - Aura
+p650
+aVSorcery
+p651
+aVInstant
+p652
+aVSorcery
+p653
+aVInstant
+p654
+aVEnchantment
+p655
+aVSorcery
+p656
+aVSorcery
+p657
+aVInstant
+p658
+aVEnchantment
+p659
+aVArtifact - Equipment
+p660
+aVSorcery
+p661
+aVInstant
+p662
+aVSorcery
+p663
+aVSorcery
+p664
+aVInstant
+p665
+aVEnchantment - Aura
+p666
+aVInstant
+p667
+aVSorcery
+p668
+aVCreature - Demon
+p669
+aVLegendary Creature - Human Cleric
+p670
+aVLegendary Creature - Ooze Mutant
+p671
+aVCreature - Goblin Rogue
+p672
+aVSorcery
+p673
+aVInstant
+p674
+aVSorcery
+p675
+aVSorcery
+p676
+aVSorcery
+p677
+aVArtifact - Equipment
+p678
+asS'numbers'
+p679
+(lp680
+V153
+p681
+aV81
+p682
+aV67
+p683
+aV24
+p684
+aV71
+p685
+aV146
+p686
+aV61
+p687
+aV10
+p688
+aV10
+p689
+aV10
+p690
+aV54
+p691
+aV79
+p692
+aV135
+p693
+aV27
+p694
+aV118
+p695
+ag529
+ag529
+aV56
+p696
+aV10
+p697
+aV50
+p698
+aV128
+p699
+aV76
+p700
+aV142
+p701
+aV106
+p702
+aV44
+p703
+aV102
+p704
+aV78
+p705
+aV28
+p706
+aV263
+p707
+aV130
+p708
+aV121
+p709
+aV85
+p710
+aV133
+p711
+aV94
+p712
+aV161
+p713
+aV119
+p714
+aV6
+p715
+aV201
+p716
+aV202
+p717
+aV21
+p718
+aV169
+p719
+aV75
+p720
+aV99
+p721
+aV11
+p722
+aV8
+p723
+aV33
+p724
+ag723
+aV143
+p725
+aV114
+p726
+aV10
+p727
+aV36
+p728
+aV37
+p729
+aV13
+p730
+aV92
+p731
+aV102
+p732
+aV103
+p733
+aV70
+p734
+aV135
+p735
+aV250
+p736
+aV74
+p737
+aV134
+p738
+aV12
+p739
+aV164
+p740
+aV198
+p741
+aV45
+p742
+aV132
+p743
+aV99
+p744
+ag529
+aV56
+p745
+aV105
+p746
+aV187
+p747
+aV68
+p748
+aV15
+p749
+aV69
+p750
+aV110
+p751
+aV109
+p752
+aV14
+p753
+aV43
+p754
+aV42
+p755
+aV124
+p756
+aV43
+p757
+aV148
+p758
+as.

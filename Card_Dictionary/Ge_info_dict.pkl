@@ -1,0 +1,1214 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVRare
+p4
+aVMythic Rare
+p5
+aVRare
+p6
+aVRare
+p7
+aVCommon
+p8
+aVRare
+p9
+aVRare
+p10
+aVRare
+p11
+aVUncommon
+p12
+aVUncommon
+p13
+aVCommon
+p14
+aVCommon
+p15
+aVCommon
+p16
+aVRare
+p17
+aVUncommon
+p18
+aVUncommon
+p19
+aVUncommon
+p20
+aVUncommon
+p21
+aVUncommon
+p22
+aVRare
+p23
+aVCommon
+p24
+aVRare
+p25
+aVCommon
+p26
+aVRare
+p27
+aVUncommon
+p28
+aVUncommon
+p29
+aVUncommon
+p30
+aVCommon
+p31
+aVRare
+p32
+aVUncommon
+p33
+aVRare
+p34
+aVUncommon
+p35
+aVRare
+p36
+aVRare
+p37
+aVUncommon
+p38
+aVCommon
+p39
+aVRare
+p40
+aVUncommon
+p41
+aVUncommon
+p42
+aVCommon
+p43
+aVUncommon
+p44
+aVUncommon
+p45
+aVCommon
+p46
+aVUncommon
+p47
+aVUncommon
+p48
+aVUncommon
+p49
+aVCommon
+p50
+aVSpecial
+p51
+aVMythic Rare
+p52
+aVUncommon
+p53
+aVCommon
+p54
+aVRare
+p55
+aVUncommon
+p56
+aVCommon
+p57
+aVSpecial
+p58
+aVCommon
+p59
+aVRare
+p60
+aVRare
+p61
+asS'editns'
+p62
+(lp63
+VMagic 2013
+p64
+aVScars of Mirrodin
+p65
+aVScars of Mirrodin
+p66
+aVTempest
+p67
+aVMercadian Masques
+p68
+aVMercadian Masques
+p69
+aVVintage Masters
+p70
+aVVintage Masters
+p71
+aVApocalypse
+p72
+aVApocalypse
+p73
+aVGuildpact
+p74
+aVAvacyn Restored
+p75
+aVAvacyn Restored
+p76
+aVDuel Decks: Sorin vs. Tibalt
+p77
+aVChampions of Kamigawa
+p78
+aVBetrayers of Kamigawa
+p79
+aVBetrayers of Kamigawa
+p80
+aVBetrayers of Kamigawa
+p81
+aVBetrayers of Kamigawa
+p82
+aVBetrayers of Kamigawa
+p83
+aVBetrayers of Kamigawa
+p84
+aVTime Spiral
+p85
+aVTime Spiral
+p86
+aVColdsnap
+p87
+aVIce Age
+p88
+aVZendikar
+p89
+aVSeventh Edition
+p90
+aVMagic 2015 Core Set
+p91
+aVMagic 2015 Core Set
+p92
+aVMagic 2015 Core Set
+p93
+aVDarksteel
+p94
+aVDarksteel
+p95
+aVDarksteel
+p96
+aVRise of the Eldrazi
+p97
+aVJudgment
+p98
+aVNew Phyrexia
+p99
+aVNew Phyrexia
+p100
+aVStarter 1999
+p101
+aVFifth Dawn
+p102
+aVLegions
+p103
+aVLegions
+p104
+aVLegions
+p105
+aVLegions
+p106
+aVLegions
+p107
+aVDuel Decks: Venser vs. Koth
+p108
+aVWeatherlight
+p109
+aVWeatherlight
+p110
+aVInvasion
+p111
+aVVanguard
+p112
+aVInnistrad
+p113
+aVInnistrad
+p114
+aVInnistrad
+p115
+aVInnistrad
+p116
+aVDuel Decks: Izzet vs. Golgari
+p117
+aVPremium Deck Series: Slivers
+p118
+aVTime Spiral "Timeshifted"
+p119
+aVPlaneshift
+p120
+aVDark Ascension
+p121
+aVDark Ascension
+p122
+asS'ids'
+p123
+(lp124
+V275727
+p125
+aV207882
+p126
+aV215076
+p127
+aV4877
+p128
+aV19753
+p129
+aV19842
+p130
+aV382950
+p131
+aV382951
+p132
+aV26793
+p133
+aV29416
+p134
+aV96891
+p135
+aV240021
+p136
+aV240024
+p137
+aV368524
+p138
+aV79862
+p139
+aV74035
+p140
+aV74087
+p141
+aV74424
+p142
+aV74582
+p143
+aV74666
+p144
+aV75364
+p145
+aV118922
+p146
+aV122094
+p147
+aV121213
+p148
+aV2687
+p149
+aV197887
+p150
+aV13168
+p151
+aV383253
+p152
+aV383254
+p153
+aV383255
+p154
+aV46160
+p155
+aV46168
+p156
+aV51070
+p157
+aV193503
+p158
+aV34833
+p159
+aV218004
+p160
+aV214376
+p161
+aV20386
+p162
+aV50150
+p163
+aV42064
+p164
+aV42065
+p165
+aV42066
+p166
+aV42067
+p167
+aV43791
+p168
+aV270874
+p169
+aV4592
+p170
+aV4577
+p171
+aV23238
+p172
+aV4960
+p173
+aV247236
+p174
+aV234445
+p175
+aV247427
+p176
+aV230787
+p177
+aV292731
+p178
+aV207905
+p179
+aV109761
+p180
+aV25873
+p181
+aV243250
+p182
+aV262839
+p183
+asS'texts'
+p184
+(lp185
+V{X}, {T}: Target player puts the top X cards of his or her library into his or her graveyard.
+p186
+aVIntimidate<br>{X}{B}: Put target artifact or creature card with converted mana cost X from an opponent's graveyard onto the battlefield under your control tapped. Then that player puts the top X cards of his or her library into his or her graveyard.
+p187
+aVMetalcraft- Ghalma's Warden gets +2/+2 as long as you control three or more artifacts.
+p188
+aVAll artifacts have shroud. <i>(They can't be the targets of spells or abilities.)</i>
+p189
+aVWhenever a player casts a spell, he or she may pay {1}. If that player does, he or she draws a card at the beginning of the next end step.
+p190
+aVTap an untapped creature you control: Kyren Negotiations deals 1 damage to target player.
+p191
+aVReach <i>(This creature can block creatures with flying.)</i>
+p192
+aVEnchant creature<br>Enchanted creature gets +2/+2.
+p193
+aVAt the beginning of your upkeep, you gain 1 life for each card in target opponent's hand.<br>{3}{W}: Tap target creature. Activate this ability only if Gerrard Capashen is attacking.
+p194
+aVTarget player discards two cards. You gain 3 life for each land card discarded this way.
+p195
+aVAt the beginning of your upkeep, each opponent loses 1 life. You gain life equal to the life lost this way.
+p196
+aVSoulbond <i>(You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)</i><br>As long as Geist Trappers is paired with another creature, both creatures have reach.
+p197
+aVUp to two target creatures can't be blocked this turn.
+p198
+aVGeistflame deals 1 damage to target creature or player.<br>Flashback {3}{R} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
+p199
+aVYou may tap or untap target permanent.<br>Splice onto Arcane {U} <i>(As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)</i>
+p200
+aVEnchant Swamp<br>{2}: Until end of turn, enchanted Swamp becomes a 2/2 black Spirit creature with "{B}: This creature gets +1/+1 until end of turn." It's still a land.<br>When enchanted Swamp is put into a graveyard, you may return Genju of the Fens from your graveyard to your hand.
+p201
+aVEnchant Plains<br>{2}: Until end of turn, enchanted Plains becomes a 2/5 white Spirit creature with "Whenever this creature deals damage, its controller gains that much life." It's still a land.<br>When enchanted Plains is put into a graveyard, you may return Genju of the Fields from your graveyard to your hand.
+p202
+aVEnchant Forest<br>{2}: Enchanted Forest becomes a 4/4 green Spirit creature until end of turn. It's still a land.<br>When enchanted Forest is put into a graveyard, you may return Genju of the Cedars from your graveyard to your hand.
+p203
+aVWhenever you cast a Spirit or Arcane spell, you may put a land card from your hand onto the battlefield tapped.
+p204
+aVMoonfolk offering <i>(You may cast this card any time you could cast an instant by sacrificing a Moonfolk and paying the difference in mana costs between this and the sacrificed Moonfolk. Mana cost includes color.)</i><br>Flying<br>{1}: Put up to two land cards from your hand onto the battlefield tapped.
+p205
+aVFlying<br>Whenever Jetting Glasskite becomes the target of a spell or ability for the first time in a turn, counter that spell or ability.
+p206
+aVAll Slivers have "{T}: Add one mana of any color to your mana pool."
+p207
+aVIf Gemstone Caverns is in your opening hand and you're not playing first, you may begin the game with Gemstone Caverns on the battlefield with a luck counter on it. If you do, exile a card from your hand.<br>{T}: Add {1} to your mana pool. If Gemstone Caverns has a luck counter on it, instead add one mana of any color to your mana pool.
+p208
+aVEnchant creature<br>Enchanted creature can't block, and its activated abilities can't be activated.<br>{snow}: Enchanted creature gains defender until end of turn. <i>({snow} can be paid with one mana from a snow permanent.)</i>
+p209
+aV{W}{W}: Return target nonsnow land you control to its owner's hand.
+p210
+aVLandfall- Whenever a land enters the battlefield under your control, Geyser Glider gains flying until end of turn.
+p211
+aVDestroy target artifact or land. It can't be regenerated.
+p212
+aVTrample <i>(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</i><br>Glacial Crasher can't attack unless there is a Mountain on the battlefield.
+p213
+aVAt the beginning of your upkeep, put a colorless artifact token named Land Mine onto the battlefield with "{R}, Sacrifice this artifact: This artifact deals 2 damage to target attacking creature without flying." Then flip a coin. If you lose the flip, Goblin Kaboomist deals 2 damage to itself.
+p214
+aVOther Goblin creatures you control attack each turn if able.<br>At the beginning of combat on your turn, put a 1/1 red Goblin creature token with haste onto the battlefield.<br>Whenever Goblin Rabblemaster attacks, it gets +1/+0 until end of turn for each other attacking Goblin.
+p215
+aVWhenever a nontoken creature enters the battlefield, if Genesis Chamber is untapped, that creature's controller puts a 1/1 colorless Myr artifact creature token onto the battlefield.
+p216
+aVWhenever Gemini Engine attacks, put a colorless Construct artifact creature token named Twin onto the battlefield attacking. Its power is equal to Gemini Engine's power and its toughness is equal to Gemini Engine's toughness. Sacrifice the token at end of combat.
+p217
+aVWhenever an opponent discards a card, you may draw a card.
+p218
+aVPut X X/X green Ooze creature tokens onto the battlefield.
+p219
+aVAt the beginning of your upkeep, if Genesis is in your graveyard, you may pay {2}{G}. If you do, return target creature card from your graveyard to your hand.
+p220
+aVTarget player sacrifices a creature and loses 1 life.
+p221
+aV<i>({UP} can be paid with either {U} or 2 life.)</i><br>Look at target player's hand.<br>Draw a card.
+p222
+aVU
+p223
+aV{2}: Put a charge counter on Gemstone Array.<br>Remove a charge counter from Gemstone Array: Add one mana of any color to your mana pool.
+p224
+aVCycling {2}{U} <i>({2}{U}, Discard this card: Draw a card.)</i><br>When you cycle Gempalm Sorcerer, Wizard creatures gain flying until end of turn.
+p225
+aVCycling {B}{B} <i>({B}{B}, Discard this card: Draw a card.)</i><br>When you cycle Gempalm Polluter, you may have target player lose life equal to the number of Zombies on the battlefield.
+p226
+aVCycling {1}{R} <i>({1}{R}, Discard this card: Draw a card.)</i><br>When you cycle Gempalm Incinerator, you may have it deal X damage to target creature, where X is the number of Goblins on the battlefield.
+p227
+aVCycling {2}{G}{G} <i>({2}{G}{G}, Discard this card: Draw a card.)</i><br>When you cycle Gempalm Strider, Elf creatures get +2/+2 until end of turn.
+p228
+aVCycling {2}{W} <i>({2}{W}, Discard this card: Draw a card.)</i><br>When you cycle Gempalm Avenger, Soldier creatures get +1/+1 and gain first strike until end of turn.
+p229
+aVLandfall- Whenever a land enters the battlefield under your control, Geyser Glider gains flying until end of turn.
+p230
+aVGemstone Mine enters the battlefield with three mining counters on it.<br>{T}, Remove a mining counter from Gemstone Mine: Add one mana of any color to your mana pool. If there are no mining counters on Gemstone Mine, sacrifice it.
+p231
+aVYou gain 2 life for each card in your hand.
+p232
+aVGeothermal Crevice enters the battlefield tapped.<br>{T}: Add {R} to your mana pool.<br>{T}, Sacrifice Geothermal Crevice: Add {B}{G} to your mana pool.
+p233
+aVAt the beginning of your draw step, draw an additional card.
+p234
+aVWhen Geistcatcher's Rig enters the battlefield, you may have it deal 4 damage to target creature with flying.
+p235
+aVGeistflame deals 1 damage to target creature or player.<br>Flashback {3}{R} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
+p236
+aVVigilance<br>Geist-Honored Monk's power and toughness are each equal to the number of creatures you control.<br>When Geist-Honored Monk enters the battlefield, put two 1/1 white Spirit creature tokens with flying onto the battlefield.
+p237
+aV{T}: Add {1} to your mana pool.<br>{T}, Sacrifice Ghost Quarter: Destroy target land. Its controller may search his or her library for a basic land card, put it onto the battlefield, then shuffle his or her library.
+p238
+aV{T}: Gelectrode deals 1 damage to target creature or player.<br>Whenever you cast an instant or sorcery spell, you may untap Gelectrode.
+p239
+aVAll Slivers have "{T}: Add one mana of any color to your mana pool."
+p240
+aVMistform Ultimus is every creature type <i>(even if this card isn't on the battlefield)</i>.
+p241
+aVUntap target creature. It gets +3/+3 until end of turn.
+p242
+aVGeralf's Messenger enters the battlefield tapped.<br>When Geralf's Messenger enters the battlefield, target opponent loses 2 life.<br>Undying <i>(When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</i>
+p243
+aVWhen Geralf's Mindcrusher enters the battlefield, target player puts the top five cards of his or her library into his or her graveyard.<br>Undying <i>(When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</i>
+p244
+asS'costs'
+p245
+(lp246
+V{4}{U}{B}{B}{R}
+p247
+aV{R}
+p248
+aV{X}{G}{G}{G}
+p249
+aV{W}
+p250
+aV{3}
+p251
+aV{4}{R}
+p252
+aV{R}
+p253
+aV{4}{G}
+p254
+aV{3}{W}{W}
+p255
+aV{W}{B}
+p256
+aV{1}{U}{R}
+p257
+aV{2}{U}
+p258
+aV{5}{R}
+p259
+aV{R}
+p260
+aV{4}
+p261
+aV{B}
+p262
+aV{W}
+p263
+aV{G}
+p264
+aV{U}
+p265
+aV{R}
+p266
+aV{W}{U}{B}{R}{G}
+p267
+aV{1}{G}
+p268
+aS'0'
+p269
+aV{W}
+p270
+aV{3}{W}
+p271
+aV{B}{B}
+p272
+aV{2}{W}{W}
+p273
+aV{5}{B}{G}
+p274
+aV{4}{G}
+p275
+aV{G}
+p276
+aV{2}
+p277
+aV{6}
+p278
+aV{4}
+p279
+aV{X}{X}{G}
+p280
+aV{4}{G}
+p281
+aV{R}{R}{R}{R}
+p282
+aV{B}{B}
+p283
+aV{2}{W}{W}
+p284
+aV{4}
+p285
+aV{2}{U}
+p286
+aV{5}{B}
+p287
+aV{2}{R}
+p288
+aV{1}{G}
+p289
+aV{5}{W}
+p290
+aV{3}{R}
+p291
+ag269
+aV{2}{W}{W}
+p292
+ag269
+ag269
+aV{1}{G}
+p293
+aV{1}{W}{U}
+p294
+aV{6}
+p295
+aV{R}
+p296
+aV{1}{U}{R}
+p297
+aV{1}{G}
+p298
+ag269
+aV{G}{W}
+p299
+aV{B}{B}{B}
+p300
+aV{4}{U}{U}
+p301
+asS'names'
+p302
+(lp303
+VGem of Becoming
+p304
+aVGenesis Wave
+p305
+aVGeth, Lord of the Vault
+p306
+aVGerrard's Battle Cry
+p307
+aVGeneral's Regalia
+p308
+aVGerrard's Irregulars
+p309
+aVGenesis
+p310
+aVGerrard's Battle Cry
+p311
+aVGerrard Capashen
+p312
+aVGerrard's Verdict
+p313
+aVGelectrode
+p314
+aVGeist Snatch
+p315
+aVGeist Trappers
+p316
+aVGeistflame
+p317
+aVGeneral's Kabuto
+p318
+aVGenju of the Fens
+p319
+aVGenju of the Fields
+p320
+aVGenju of the Cedars
+p321
+aVGenju of the Falls
+p322
+aVGenju of the Spires
+p323
+aVGenju of the Realm
+p324
+aVGemhide Sliver
+p325
+aVGemstone Caverns
+p326
+aVGelid Shackles
+p327
+aVGeneral Jarkeld
+p328
+aVGeyser Glider
+p329
+aVGerrard's Wisdom
+p330
+aVGeist of the Moors
+p331
+aVGenerator Servant
+p332
+aVGenesis Hydra
+p333
+aVGenesis Chamber
+p334
+aVGemini Engine
+p335
+aVGeth's Grimoire
+p336
+aVGelatinous Genesis
+p337
+aVGenesis
+p338
+aVGeosurge
+p339
+aVGeth's Verdict
+p340
+aVGerrard's Wisdom
+p341
+aVGemstone Array
+p342
+aVGempalm Sorcerer
+p343
+aVGempalm Polluter
+p344
+aVGempalm Incinerator
+p345
+aVGempalm Strider
+p346
+aVGempalm Avenger
+p347
+aVGeyser Glider
+p348
+aVGemstone Mine
+p349
+aVGerrard's Wisdom
+p350
+aVGeothermal Crevice
+p351
+aVGerrard
+p352
+aVGeist of Saint Traft
+p353
+aVGeistcatcher's Rig
+p354
+aVGeistflame
+p355
+aVGeist-Honored Monk
+p356
+aVGelectrode
+p357
+aVGemhide Sliver
+p358
+aVGemstone Mine
+p359
+aVGerrard's Command
+p360
+aVGeralf's Messenger
+p361
+aVGeralf's Mindcrusher
+p362
+asS'toughs'
+p363
+(lp364
+S'N/A'
+p365
+ag365
+aV1
+p366
+ag365
+ag365
+ag366
+aV3
+p367
+ag365
+aV2
+p368
+ag365
+ag366
+ag365
+aV4
+p369
+ag365
+ag365
+ag365
+ag365
+ag365
+ag365
+ag365
+ag365
+ag367
+ag365
+ag365
+ag366
+ag368
+ag365
+ag366
+ag368
+ag367
+ag365
+ag365
+ag365
+ag365
+ag369
+ag365
+ag365
+ag365
+ag365
+ag368
+ag367
+ag366
+ag368
+aV5
+p370
+ag368
+ag365
+ag365
+ag365
+ag365
+ag367
+ag365
+ag365
+ag370
+ag366
+ag366
+ag365
+ag365
+ag369
+ag368
+asS'artists'
+p371
+(lp372
+VMartina Pilcerova
+p373
+aVJames Paick
+p374
+aVWhit Brachna
+p375
+aVVal Mayerik
+p376
+aVDavid Monette
+p377
+aVEric Peterson
+p378
+aVMark Zug
+p379
+aVVal Mayerik
+p380
+aVBrom
+p381
+aVCarl Critchlow
+p382
+aVDan Scott
+p383
+aVAnthony Palumbo
+p384
+aVScott Chou
+p385
+aVScott Chou
+p386
+aVAlex Horley-Orlandelli
+p387
+aVTsutomu Kawade
+p388
+aVGreg Staples
+p389
+aVArnie Swekel
+p390
+aVGlen Angus
+p391
+aVJoel Thomas
+p392
+aVScott M. Fischer
+p393
+aVJohn Matson
+p394
+aVMartina Pilcerova
+p395
+aVAlex Horley-Orlandelli
+p396
+aVRichard Thomas
+p397
+aVWarren Mahy
+p398
+aVDonato Giancola
+p399
+aVAaron Miller
+p400
+aVMathias Kollros
+p401
+aVPeter Mohrbacher
+p402
+aVMark Tedin
+p403
+aVNottsuo
+p404
+aVHeather Hudson
+p405
+aVDaniel Ljunggren
+p406
+aVMark Zug
+p407
+aS''
+p408
+ag408
+aVHeather Hudson
+p409
+aVIttoku
+p410
+aVGreg Hildebrandt
+p411
+aVDany Orizio
+p412
+aVLuca Zontini
+p413
+aVTim Hildebrandt
+p414
+aVTim Hildebrandt
+p415
+ag408
+aVBrom
+p416
+aVHeather Hudson
+p417
+aVJohn Avon
+p418
+aVDouglas Shuler
+p419
+aVIgor Kieryluk
+p420
+aVVincent Proce
+p421
+aVScott Chou
+p422
+aVClint Cearley
+p423
+aVDan Scott
+p424
+aVJohn Matson
+p425
+aVBrom
+p426
+aVRoger Raupp
+p427
+aVLucas Graciano
+p428
+aVVolkan Baga
+p429
+asS'powers'
+p430
+(lp431
+g365
+ag365
+aV7
+p432
+ag365
+ag365
+ag366
+ag369
+ag365
+ag368
+ag365
+aV0
+p433
+ag365
+ag367
+ag365
+ag365
+ag365
+ag365
+ag365
+ag365
+ag365
+ag365
+ag366
+ag365
+ag365
+ag366
+ag369
+ag365
+ag367
+ag369
+ag367
+ag365
+ag365
+ag365
+ag365
+ag369
+ag365
+ag365
+ag365
+ag365
+ag368
+ag369
+ag368
+ag368
+ag367
+ag369
+ag365
+ag365
+ag365
+ag365
+ag367
+ag365
+ag365
+ag370
+ag433
+ag366
+ag365
+ag365
+ag366
+ag367
+asS'types'
+p434
+(lp435
+VArtifact
+p436
+aVSorcery
+p437
+aVLegendary Creature - Zombie
+p438
+aVEnchantment
+p439
+aVArtifact
+p440
+aVCreature - Human Soldier
+p441
+aVCreature - Incarnation
+p442
+aVEnchantment
+p443
+aVLegendary Creature - Human Soldier
+p444
+aVSorcery
+p445
+aVCreature - Weird
+p446
+aVInstant
+p447
+aVCreature - Human Warrior
+p448
+aVInstant
+p449
+aVArtifact - Equipment
+p450
+aVEnchantment - Aura
+p451
+aVEnchantment - Aura
+p452
+aVEnchantment - Aura
+p453
+aVEnchantment - Aura
+p454
+aVEnchantment - Aura
+p455
+aVLegendary Enchantment - Aura
+p456
+aVCreature - Sliver
+p457
+aVLegendary Land
+p458
+aVSnow Enchantment - Aura
+p459
+aVLegendary Creature - Human Soldier
+p460
+aVCreature - Elemental Beast
+p461
+aVSorcery
+p462
+aVCreature - Spirit
+p463
+aVCreature - Elemental
+p464
+aVCreature - Plant Hydra
+p465
+aVArtifact
+p466
+aVArtifact Creature - Construct
+p467
+aVArtifact
+p468
+aVSorcery
+p469
+aVCreature - Incarnation
+p470
+aVSorcery
+p471
+aVInstant
+p472
+aVSorcery
+p473
+aVArtifact
+p474
+aVCreature - Human Wizard
+p475
+aVCreature - Zombie
+p476
+aVCreature - Goblin
+p477
+aVCreature - Elf
+p478
+aVCreature - Human Soldier
+p479
+aVCreature - Elemental Beast
+p480
+aVLand
+p481
+aVSorcery
+p482
+aVLand
+p483
+aVVanguard
+p484
+aVLegendary Creature - Spirit Cleric
+p485
+aVArtifact Creature - Construct
+p486
+aVInstant
+p487
+aVCreature - Human Monk
+p488
+aVCreature - Weird
+p489
+aVCreature - Sliver
+p490
+aVLand
+p491
+aVInstant
+p492
+aVCreature - Zombie
+p493
+aVCreature - Zombie Horror
+p494
+asS'numbers'
+p495
+(lp496
+V205
+p497
+aV122
+p498
+aV64
+p499
+aV182
+p500
+aV295
+p501
+aV192
+p502
+aV212
+p503
+aV28
+p504
+aV11
+p505
+aV102
+p506
+aV113
+p507
+aV55
+p508
+aV179
+p509
+aV61
+p510
+aV251
+p511
+aV66
+p512
+ag370
+aV126
+p513
+aV35
+p514
+aV105
+p515
+aV151
+p516
+aV196
+p517
+aV274
+p518
+aV6
+p519
+aV190
+p520
+aV124
+p521
+aV16
+p522
+aV13
+p523
+aV143
+p524
+aV176
+p525
+aV122
+p526
+aV121
+p527
+aV123
+p528
+aV183
+p529
+aV117
+p530
+aV85
+p531
+aV61
+p532
+aV18
+p533
+aV124
+p534
+aV39
+p535
+aV70
+p536
+aV94
+p537
+aV127
+p538
+aV14
+p539
+ag408
+aV141
+p540
+aV142
+p541
+aV323
+p542
+aV30
+p543
+aV213
+p544
+aV223
+p545
+aV144
+p546
+aV17
+p547
+ag370
+aV8
+p548
+aV119
+p549
+aV109
+p550
+aV63
+p551
+aV37
+p552
+as.

@@ -1,0 +1,1073 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVRare
+p4
+aVUncommon
+p5
+aVCommon
+p6
+aVCommon
+p7
+aVUncommon
+p8
+aVCommon
+p9
+aVRare
+p10
+aVCommon
+p11
+aVCommon
+p12
+aVCommon
+p13
+aVRare
+p14
+aVUncommon
+p15
+aVCommon
+p16
+aVCommon
+p17
+aVUncommon
+p18
+aVRare
+p19
+aVUncommon
+p20
+aVRare
+p21
+aVCommon
+p22
+aVCommon
+p23
+aVRare
+p24
+aVRare
+p25
+aVUncommon
+p26
+aVRare
+p27
+aVCommon
+p28
+aVUncommon
+p29
+aVCommon
+p30
+aVRare
+p31
+aVCommon
+p32
+aVCommon
+p33
+aVUncommon
+p34
+aVRare
+p35
+aVRare
+p36
+aVUncommon
+p37
+aVCommon
+p38
+aVCommon
+p39
+aVUncommon
+p40
+aVCommon
+p41
+aVCommon
+p42
+aVUncommon
+p43
+aVCommon
+p44
+aVCommon
+p45
+aVCommon
+p46
+aVUncommon
+p47
+aVUncommon
+p48
+aVRare
+p49
+aVRare
+p50
+aVUncommon
+p51
+aVRare
+p52
+aVCommon
+p53
+aVUncommon
+p54
+asS'editns'
+p55
+(lp56
+VMagic 2012
+p57
+aVLimited Edition Beta
+p58
+aVLimited Edition Beta
+p59
+aVMagic 2013
+p60
+aVFourth Edition
+p61
+aVFourth Edition
+p62
+aVScars of Mirrodin
+p63
+aVScars of Mirrodin
+p64
+aVScars of Mirrodin
+p65
+aVScars of Mirrodin
+p66
+aVTenth Edition
+p67
+aVVintage Masters
+p68
+aVVintage Masters
+p69
+aVMirrodin Besieged
+p70
+aVApocalypse
+p71
+aVMasters Edition III
+p72
+aVRevised Edition
+p73
+aVRevised Edition
+p74
+aVMasters Edition II
+p75
+aVConflux
+p76
+aVPlanechase 2012 Edition
+p77
+aVRavnica: City of Guilds
+p78
+aVUnlimited Edition
+p79
+aVUnlimited Edition
+p80
+aVTorment
+p81
+aVZendikar
+p82
+aVZendikar
+p83
+aVZendikar
+p84
+aVZendikar
+p85
+aVClassic Sixth Edition
+p86
+aVMirrodin
+p87
+aVMagic 2015 Core Set
+p88
+aVDarksteel
+p89
+aVRise of the Eldrazi
+p90
+aVJudgment
+p91
+aVShadowmoor
+p92
+aVPlanechase
+p93
+aVUrza's Saga
+p94
+aVMagic: The Gathering\u2014Conspiracy
+p95
+aVEighth Edition
+p96
+aVWorldwake
+p97
+aVInvasion
+p98
+aVFifth Edition
+p99
+aVKhans of Tarkir
+p100
+aVKhans of Tarkir
+p101
+aVLimited Edition Alpha
+p102
+aVLimited Edition Alpha
+p103
+aVMasters Edition IV
+p104
+aVDragon's Maze
+p105
+aVLegends
+p106
+aVLegends
+p107
+aVLorwyn
+p108
+asS'ids'
+p109
+(lp110
+V220265
+p111
+aV583
+p112
+aV521
+p113
+aV276212
+p114
+aV2368
+p115
+aV2310
+p116
+aV210232
+p117
+aV206361
+p118
+aV194303
+p119
+aV209719
+p120
+aV129604
+p121
+aV383139
+p122
+aV383140
+p123
+aV213821
+p124
+aV26805
+p125
+aV201240
+p126
+aV1383
+p127
+aV1322
+p128
+aV184751
+p129
+aV184995
+p130
+aV271143
+p131
+aV89022
+p132
+aV885
+p133
+aV823
+p134
+aV29827
+p135
+aV192229
+p136
+aV178140
+p137
+aV169977
+p138
+aV169971
+p139
+aV11543
+p140
+aV48594
+p141
+aV383419
+p142
+aV49033
+p143
+aV194940
+p144
+aV26370
+p145
+aV158752
+p146
+aV198085
+p147
+aV5728
+p148
+aV382388
+p149
+aV45167
+p150
+aV201579
+p151
+aV23071
+p152
+aV4163
+p153
+aV386707
+p154
+aV386708
+p155
+aV226
+p156
+aV286
+p157
+aV202424
+p158
+aV369080
+p159
+aV1694
+p160
+aV1638
+p161
+aV145807
+p162
+asS'texts'
+p163
+(lp164
+VWhenever equipped creature deals combat damage to a player, destroy all permanents other than Worldslayer.<br>Equip {5} <i>({5}: Attach to target creature you control. Equip only as a sorcery.)</i>
+p165
+aVEnchant artifact<br>At the beginning of the upkeep of enchanted artifact's controller, Warp Artifact deals 1 damage to that player.
+p166
+aVEnchant creature<br>Enchanted creature gets -2/-1.
+p167
+aVWhen Bond Beetle enters the battlefield, put a +1/+1 counter on target creature.
+p168
+aVDefender <i>(This creature can't attack.)</i>
+p169
+aVDefender, flying <i>(This creature can't attack, and it can block creatures with flying.)</i>
+p170
+aV{B}: Vector Asp gains infect until end of turn. <i>(It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</i>
+p171
+aVMetalcraft- {T}: Tap target artifact, creature, or land. Activate this ability only if you control three or more artifacts.
+p172
+aV+2: Exile target permanent you own. Return it to the battlefield under your control at the beginning of the next end step.<br>-1: Creatures are unblockable this turn.<br>-8: You get an emblem with "Whenever you cast a spell, exile target permanent."
+p173
+aVYou have no maximum hand size.<br>At the beginning of your upkeep, you gain 1 life for each card in your hand.
+p174
+aVWhenever a player casts a blue spell, you may gain 1 life.
+p175
+aVDefender <i>(This creature can't attack.)</i><br>Wall of Diffusion can block creatures with shadow as though Wall of Diffusion had shadow.
+p176
+aV{U}, {T}, Discard a card: Return target creature to its owner's hand.
+p177
+aVAt the beginning of your upkeep, you may put a charge counter on target artifact.
+p178
+aV{T}: Target land becomes a Plains or an Island until end of turn.
+p179
+aVHorsemanship <i>(This creature can't be blocked except by creatures with horsemanship.)</i><br>Sacrifice Xiahou Dun, the One-Eyed: Return target black card from your graveyard to your hand. Activate this ability only during your turn, before attackers are declared.
+p180
+aVFirst strike <i>(This creature deals combat damage before creatures without first strike.)</i><br>Protection from black <i>(This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)</i>
+p181
+aVEnchant creature<br>Enchanted creature has protection from white. This effect doesn't remove White Ward.
+p182
+aVPrevent all combat damage that would be dealt by target attacking creature this turn.
+p183
+aVReturn target creature to its owner's hand.
+p184
+aVIntimidate<br>Other creatures you control have intimidate.<br>Whenever Vela the Night-Clad or another creature you control leaves the battlefield, each opponent loses 1 life.
+p185
+aVDestroy target land. If {B} was spent to cast Rolling Spoil, all creatures get -1/-1 until end of turn.
+p186
+aVTarget player draws three cards.
+p187
+aVEach player discards his or her hand and draws seven cards.
+p188
+aVAs an additional cost to cast Turbulent Dreams, discard X cards.<br>Return X target nonland permanents to their owners' hands.
+p189
+aVFlying<br>Whenever Umara Raptor or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Umara Raptor.
+p190
+aVKicker {3}{R} <i>(You may pay an additional {3}{R} as you cast this spell.)</i><br>Damage can't be prevented this turn. If Unstable Footing was kicked, it deals 5 damage to target player.
+p191
+aVValakut, the Molten Pinnacle enters the battlefield tapped.<br>Whenever a Mountain enters the battlefield under your control, if you control at least five other Mountains, you may have Valakut, the Molten Pinnacle deal 3 damage to target creature or player.<br>{T}: Add {R} to your mana pool.
+p192
+aVFirst strike<br>Sacrifice Vampire Hexmage: Remove all counters from target permanent.
+p193
+aS''
+p194
+aVDestroy target Equipment. Add {G} to your mana pool.
+p195
+aVEach land is a Swamp in addition to its other land types.
+p196
+aVAll combat damage that would be dealt to you this turn is dealt to target attacking creature instead.
+p197
+aVCounter target spell if you control more creatures than that spell's controller.
+p198
+aVDiscard a card: Regenerate Tunneler Wurm.
+p199
+aVEnchant creature<br>As long as enchanted creature is red, it gets +1/+1 and has double strike. <i>(It deals both first-strike and regular combat damage.)</i><br>As long as enchanted creature is green, it gets +1/+1 and has trample.
+p200
+aVCreature spells cost {2} less to cast.<br>Whenever you roll , reveal the top three cards of your library. Put all creature cards revealed this way into your hand and the rest into your graveyard.
+p201
+aVChoose artifact, creature, or land. Tap all untapped permanents of the chosen type target player controls, or untap all tapped permanents of that type that player controls.
+p202
+aVFlash <i>(You may cast this spell any time you could cast an instant.)</i><br>Enchant creature<br>Enchanted creature gets +2/+2 and attacks each turn if able.
+p203
+ag194
+aVTarget creature gets -3/-3 until end of turn. You may tap any number of untapped Vampire creatures you control. If you do, put a +1/+1 counter on each of those Vampires.
+p204
+aVTarget player can't play land cards this turn.<br><br>Draw a card.
+p205
+aVDefender <i>(This creature can't attack.)</i><br>{B}: Regenerate Wall of Bone. <i>(The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</i>
+p206
+aVExile target nonland permanent.
+p207
+aVHaste<br>Valley Dasher attacks each turn if able.
+p208
+aVBanding <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
+p209
+aVG
+p210
+aV{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.
+p211
+aVGain control of target permanent until end of turn. Untap it. It gains haste until end of turn.<br>Fuse <i>(You may cast one or both halves of this card from your hand.)</i>
+p212
+aV{T}: Add {B} to your mana pool.<br><br>{T}: Target creature loses first strike or swampwalk until end of turn.
+p213
+aVFlying, vigilance
+p214
+aVChangeling <i>(This card is every creature type at all times.)</i><br>{1}{U}: Switch Turtleshell Changeling's power and toughness until end of turn.
+p215
+asS'costs'
+p216
+(lp217
+V{3}{U}{U}
+p218
+aS'0'
+p219
+aV{R}
+p220
+aV{R}
+p221
+aV{W}
+p222
+aV{R}
+p223
+aV{2}{U}
+p224
+aV{3}{W}{W}{W}
+p225
+aV{3}
+p226
+aV{1}{R}
+p227
+aV{W}
+p228
+ag219
+aV{1}
+p229
+aV{2}{U}
+p230
+aV{2}{R}
+p231
+aV{R}{R}{G}{G}
+p232
+ag219
+aV{R}
+p233
+ag219
+aV{3}{U}{U}
+p234
+aV{G}
+p235
+aV{5}{U}
+p236
+ag219
+aV{R}
+p237
+aV{U}{U}
+p238
+aV{1}{U}
+p239
+aV{1}{U}
+p240
+ag219
+aV{1}
+p241
+aV{W}
+p242
+aV{G}
+p243
+aV{3}{R}{R}
+p244
+aV{3}{W}{W}
+p245
+aV{3}{R}
+p246
+aV{6}{G}{G}
+p247
+aV{1}{W/U}
+p248
+ag219
+aV{2}{U}{U}
+p249
+aV{2}{R}
+p250
+aV{W}
+p251
+aV{1}{U}
+p252
+aV{2}{R}
+p253
+aV{W}
+p254
+aV{7}{U}
+p255
+aV{2}{R}
+p256
+aV{R}
+p257
+ag219
+ag219
+aV{1}{R}
+p258
+aV{R}{R}{G}{G}
+p259
+aV{W}
+p260
+aV{6}{B}
+p261
+asS'names'
+p262
+(lp263
+VTurn to Frog
+p264
+aVTundra
+p265
+aVTunnel
+p266
+aVTurn to Slag
+p267
+aVTundra Wolves
+p268
+aVTunnel
+p269
+aVTumble Magnet
+p270
+aVTunnel Ignus
+p271
+aVTurn Aside
+p272
+aVTurn to Slag
+p273
+aVTundra Wolves
+p274
+aVTundra
+p275
+aVTurnabout
+p276
+aVTurn the Tide
+p277
+aVTundra Kavu
+p278
+aVTuknir Deathlock
+p279
+aVTundra
+p280
+aVTunnel
+p281
+aVTundra
+p282
+aVTukatongue Thallid
+p283
+aVTukatongue Thallid
+p284
+aVTunnel Vision
+p285
+aVTundra
+p286
+aVTunnel
+p287
+aVTurbulent Dreams
+p288
+aVTuktuk Grunts
+p289
+aVTurntimber Basilisk
+p290
+aVTurntimber Grove
+p291
+aVTurntimber Ranger
+p292
+aVTundra Wolves
+p293
+aVTurn to Dust
+p294
+aVTurn to Frog
+p295
+aVTurn the Tables
+p296
+aVTuktuk the Explorer
+p297
+aVTunneler Wurm
+p298
+aVTurn to Mist
+p299
+aVTurri Island
+p300
+aVTurnabout
+p301
+aVTurn the Tide
+p302
+aVTundra Wolves
+p303
+aVTuktuk Scrapper
+p304
+aVTurf Wound
+p305
+aVTundra Wolves
+p306
+aVTusked Colossodon
+p307
+aVTuskguard Captain
+p308
+aVTunnel
+p309
+aVTundra
+p310
+aVTundra
+p311
+aVTurn // Burn (Burn)
+p312
+aVTuknir Deathlock
+p313
+aVTundra Wolves
+p314
+aVTurtleshell Changeling
+p315
+asS'toughs'
+p316
+(lp317
+S'N/A'
+p318
+ag318
+ag318
+ag318
+aV1
+p319
+ag318
+ag318
+aV4
+p320
+ag318
+ag318
+aV3
+p321
+ag318
+ag318
+ag318
+ag319
+aV2
+p322
+ag318
+ag318
+ag318
+ag319
+ag322
+ag318
+ag318
+ag318
+ag318
+ag322
+aV8
+p323
+ag318
+ag320
+ag320
+ag318
+ag318
+ag318
+ag319
+aV6
+p324
+ag318
+ag318
+ag318
+ag318
+ag321
+ag321
+ag318
+ag319
+ag324
+ag322
+ag318
+ag318
+ag318
+ag318
+aV5
+p325
+ag322
+ag321
+asS'artists'
+p326
+(lp327
+g194
+aVJesper Myrfors
+p328
+aVDan Frazier
+p329
+aVZoltan Boros & Gabor Szikszai
+p330
+aVQuinton Hoover
+p331
+aVDan Frazier
+p332
+aVDrew Baker
+p333
+aVScott Chou
+p334
+aVShelly Wan
+p335
+aVZoltan Boros & Gabor Szikszai
+p336
+aVRichard Sardinha
+p337
+aVLars Grant-West
+p338
+aVSteve Prescott
+p339
+ag194
+aVMatt Cavotta
+p340
+aVBryon Wackwitz
+p341
+aVJesper Myrfors
+p342
+aVDan Frazier
+p343
+aVJesper Myrfors
+p344
+aVVance Kovacs
+p345
+ag194
+aVDany Orizio
+p346
+aVJesper Myrfors
+p347
+aVDan Frazier
+p348
+aVWayne England
+p349
+aVMike Bierek
+p350
+aVGoran Josic
+p351
+aVRob Alexander
+p352
+aVWayne Reynolds
+p353
+aVQuinton Hoover
+p354
+aVWayne England
+p355
+aVWarren Mahy
+p356
+aVChristopher Moeller
+p357
+aVVolkan Baga
+p358
+aVJeff Easley
+p359
+aVGreg Staples
+p360
+aVRaymond Swanland
+p361
+aVHeather Hudson
+p362
+aVJason Felix
+p363
+aVRichard Sardinha
+p364
+aVMatt Cavotta
+p365
+aVThomas Gianni
+p366
+aVQuinton Hoover
+p367
+aVYeong-Hao Han
+p368
+aVAaron Miller
+p369
+aVDan Frazier
+p370
+aVJesper Myrfors
+p371
+aVJesper Myrfors
+p372
+aVRyan Barger
+p373
+aVLiz Danforth
+p374
+aVQuinton Hoover
+p375
+aVRon Spencer
+p376
+asS'powers'
+p377
+(lp378
+g318
+ag318
+ag318
+ag318
+ag319
+ag318
+ag318
+ag321
+ag318
+ag318
+ag319
+ag318
+ag318
+ag318
+ag322
+ag322
+ag318
+ag318
+ag318
+ag322
+ag322
+ag318
+ag318
+ag318
+ag318
+ag322
+ag322
+ag318
+ag322
+ag319
+ag318
+ag318
+ag318
+ag322
+ag324
+ag318
+ag318
+ag318
+ag318
+ag319
+aV9
+p379
+ag318
+ag319
+ag324
+ag322
+ag318
+ag318
+ag318
+ag318
+ag325
+aV0
+p380
+ag319
+asS'types'
+p381
+(lp382
+VInstant
+p383
+aVLand - Plains Island
+p384
+aVInstant
+p385
+aVSorcery
+p386
+aVCreature - Wolf
+p387
+aVInstant
+p388
+aVArtifact
+p389
+aVCreature - Elemental
+p390
+aVInstant
+p391
+aVSorcery
+p392
+aVCreature - Wolf
+p393
+aVLand - Plains Island
+p394
+aVInstant
+p395
+aVInstant
+p396
+aVCreature - Kavu
+p397
+aVLegendary Creature - Human Wizard
+p398
+aVLand - Plains Island
+p399
+aVInstant
+p400
+aVLand - Plains Island
+p401
+aVCreature - Fungus
+p402
+aVCreature - Fungus
+p403
+aVSorcery
+p404
+aVLand - Plains Island
+p405
+aVInstant
+p406
+aVSorcery
+p407
+aVCreature - Goblin Warrior Ally
+p408
+aVCreature - Basilisk
+p409
+aVLand
+p410
+aVCreature - Elf Scout Ally
+p411
+aVCreature - Wolf
+p412
+aVInstant
+p413
+aVInstant
+p414
+aVInstant
+p415
+aVLegendary Creature - Goblin
+p416
+aVCreature - Wurm
+p417
+aVInstant
+p418
+aVPlane - Ir
+p419
+aVInstant
+p420
+aVInstant
+p421
+aVCreature - Wolf
+p422
+aVCreature - Goblin Artificer Ally
+p423
+aVInstant
+p424
+aVCreature - Wolf
+p425
+aVCreature - Beast
+p426
+aVCreature - Human Warrior
+p427
+aVInstant
+p428
+aVLand - Plains Island
+p429
+aVLand - Plains Island
+p430
+aVInstant
+p431
+aVLegendary Creature - Human Wizard
+p432
+aVCreature - Wolf
+p433
+aVCreature - Shapeshifter
+p434
+asS'numbers'
+p435
+(lp436
+V78
+p437
+aV265
+p438
+aV266
+p439
+aV153
+p440
+aV349
+p441
+aV350
+p442
+aV218
+p443
+aV105
+p444
+aV49
+p445
+aV106
+p446
+aV54
+p447
+aV322
+p448
+aV99
+p449
+aV35
+p450
+aV71
+p451
+aV184
+p452
+aV275
+p453
+aV276
+p454
+aV239
+p455
+aV96
+p456
+aV167
+p457
+aV72
+p458
+aV19
+p459
+aV268
+p460
+aV49
+p461
+aV152
+p462
+aV190
+p463
+aV227
+p464
+aV191
+p465
+aV48
+p466
+aV137
+p467
+aV81
+p468
+aV18
+p469
+aV169
+p470
+aV135
+p471
+aV155
+p472
+aV38
+p473
+aV105
+p474
+aV110
+p475
+aV54
+p476
+aV94
+p477
+aV177
+p478
+aV418
+p479
+aV155
+p480
+aV156
+p481
+aV48
+p482
+aV267
+p483
+aV255
+p484
+aV134
+p485
+aV168
+p486
+aV293
+p487
+aV94
+p488
+as.

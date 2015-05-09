@@ -1,0 +1,856 @@
+(dp0
+S'rares'
+p1
+(lp2
+VSpecial
+p3
+aVCommon
+p4
+aVCommon
+p5
+aVCommon
+p6
+aVCommon
+p7
+aVCommon
+p8
+aVCommon
+p9
+aVCommon
+p10
+aVRare
+p11
+aVCommon
+p12
+aVRare
+p13
+aVCommon
+p14
+aVCommon
+p15
+aVCommon
+p16
+aVUncommon
+p17
+aVRare
+p18
+aVUncommon
+p19
+aVCommon
+p20
+aVRare
+p21
+aVCommon
+p22
+aVCommon
+p23
+aVRare
+p24
+aVCommon
+p25
+aVUncommon
+p26
+aVCommon
+p27
+aVUncommon
+p28
+aVCommon
+p29
+aVCommon
+p30
+aVUncommon
+p31
+aVCommon
+p32
+aVUncommon
+p33
+aVCommon
+p34
+aVCommon
+p35
+aVCommon
+p36
+aVCommon
+p37
+aVCommon
+p38
+aVUncommon
+p39
+aVCommon
+p40
+aVCommon
+p41
+aVCommon
+p42
+aVUncommon
+p43
+asS'editns'
+p44
+(lp45
+VAnthologies
+p46
+aVMagic 2012
+p47
+aVLimited Edition Beta
+p48
+aVBattle Royale Box Set
+p49
+aVFourth Edition
+p50
+aVMagic 2010
+p51
+aVTenth Edition
+p52
+aVTenth Edition
+p53
+aVTenth Edition
+p54
+aVStarter 2000
+p55
+aVApocalypse
+p56
+aVApocalypse
+p57
+aVRevised Edition
+p58
+aVNinth Edition
+p59
+aVNinth Edition
+p60
+aVNinth Edition
+p61
+aVCommander 2013 Edition
+p62
+aVUnlimited Edition
+p63
+aVTorment
+p64
+aVClassic Sixth Edition
+p65
+aVSeventh Edition
+p66
+aVMagic 2015 Core Set
+p67
+aVFuture Sight
+p68
+aVFuture Sight
+p69
+aVFuture Sight
+p70
+aVFuture Sight
+p71
+aVPlanechase
+p72
+aVWeatherlight
+p73
+aVWeatherlight
+p74
+aVWeatherlight
+p75
+aVEighth Edition
+p76
+aVInvasion
+p77
+aVInvasion
+p78
+aVInvasion
+p79
+aVInvasion
+p80
+aVFifth Edition
+p81
+aVArchenemy
+p82
+aVLimited Edition Alpha
+p83
+aVBeatdown Box Set
+p84
+aVMagic 2011
+p85
+aVDuel Decks: Heroes vs. Monsters
+p86
+asS'ids'
+p87
+(lp88
+V-2146729915
+p89
+aV221892
+p90
+aV461
+p91
+aV21107
+p92
+aV2228
+p93
+aV189878
+p94
+aV129536
+p95
+aV129626
+p96
+aV129627
+p97
+aV25508
+p98
+aV23248
+p99
+aV26759
+p100
+aV1260
+p101
+aV83515
+p102
+aV83152
+p103
+aV84440
+p104
+aV376400
+p105
+aV763
+p106
+aV27175
+p107
+aV14668
+p108
+aV11386
+p109
+aV383302
+p110
+aV126147
+p111
+aV126166
+p112
+aV132213
+p113
+aV136035
+p114
+aV198107
+p115
+aV4521
+p116
+aV4520
+p117
+aV4522
+p118
+aV45429
+p119
+aV23123
+p120
+aV23157
+p121
+aV23322
+p122
+aV25363
+p123
+aV3996
+p124
+aV220496
+p125
+aV166
+p126
+aV27256
+p127
+aV205228
+p128
+aV373368
+p129
+asS'texts'
+p130
+(lp131
+VReach (This creature can block creatures with flying.)<br><br>Whenever Woolly Spider blocks a creature with flying, Woolly Spider gets +0/+2 until end of turn.
+p132
+aV{T}: Add one mana of any color to your mana pool.
+p133
+aVTarget player discards X cards at random.
+p134
+aVCounter target spell unless its controller pays {3}.
+p135
+aVTap all lands target player controls and empty his or her mana pool.
+p136
+aV{T}: Draw a card, then discard a card.
+p137
+aVWhen Llanowar Sentinel enters the battlefield, you may pay {1}{G}. If you do, search your library for a card named Llanowar Sentinel and put that card onto the battlefield. Then shuffle your library.
+p138
+aVEquipped creature gets +3/+0 and has trample and lifelink. <i>(If the creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker. Damage dealt by the creature also causes its controller to gain that much life.)</i><br>Equip {3} <i>({3}: Attach to target creature you control. Equip only as a sorcery.)</i>
+p139
+aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i>
+p140
+aVW
+p141
+aV{T}: Add {1} to your mana pool.<br>{T}: Add {B} or {G} to your mana pool. Llanowar Wastes deals 1 damage to you.
+p142
+aV{T}: Add {B} to your mana pool.
+p143
+aVBanding <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i><br>At the beginning of your upkeep, unless you discard a card, tap Mishra's War Machine and it deals 3 damage to you.
+p144
+aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i><br>When Sage Aven enters the battlefield, look at the top four cards of your library, then put them back in any order.
+p145
+aVR
+p146
+aVSacrifice a creature: Nantuko Husk gets +2/+2 until end of turn.
+p147
+aVLlanowar Reborn enters the battlefield tapped.<br>{T}: Add {G} to your mana pool.<br>Graft 1 <i>(This land enters the battlefield with a +1/+1 counter on it. Whenever a creature enters the battlefield, you may move a +1/+1 counter from this land onto it.)</i>
+p148
+aVTarget player discards X cards at random.
+p149
+aVWhen Llawan, Cephalid Empress enters the battlefield, return all blue creatures your opponents control to their owners' hands.<br>Your opponents can't cast blue creature spells.
+p150
+ag146
+aVMoss Diamond enters the battlefield tapped.<br>{T}: Add {G} to your mana pool.
+p151
+aVFlying<br>Whenever Master of Predicaments deals combat damage to a player, choose a card in your hand. That player guesses whether the card's converted mana cost is greater than 4. If the player guessed wrong, you may cast the card without paying its mana cost.
+p152
+aVWhen Putrid Cyclops enters the battlefield, scry 1, then reveal the top card of your library. Putrid Cyclops gets -X/-X until end of turn, where X is that card's converted mana cost. <i>(To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)</i>
+p153
+aVHellbent- Cutthroat il-Dal has shadow as long as you have no cards in hand. <i>(It can block or be blocked by only creatures with shadow.)</i>
+p154
+aVWhenever a player casts a noncreature spell, each of that player's opponents may draw a card.
+p155
+aVConvoke <i>(Each creature you tap while casting this spell reduces its total cost by {1} or by one mana of that creature's color.)</i><br>Buyback {3} <i>(You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)</i><br>Put a 1/1 green Saproling creature token onto the battlefield.
+p156
+aVAll creatures have "{T}: Add {G}{G} to your mana pool."<br>Whenever you roll , untap all creatures you control.
+p157
+aV{T}, Sacrifice Llanowar Druid: Untap all Forests.
+p158
+aVTap an untapped creature you control: Llanowar Behemoth gets +1/+1 until end of turn.
+p159
+aVWhen Llanowar Sentinel enters the battlefield, you may pay {1}{G}. If you do, search your library for a card named Llanowar Sentinel and put that card onto the battlefield. Then shuffle your library.
+p160
+aVEnchant creature<br>All creatures able to block enchanted creature do so.
+p161
+aV{T}: Llanowar Vanguard gets +0/+4 until end of turn.
+p162
+aVProtection from black
+p163
+aV{W}: Llanowar Cavalry gains vigilance until end of turn.
+p164
+aVKicker {8} <i>(You may pay an additional {8} as you cast this spell.)</i><br>Trample<br>If Llanowar Elite was kicked, it enters the battlefield with five +1/+1 counters on it.
+p165
+aVWhenever a player taps a land for mana, Manabarbs deals 1 damage to that player.
+p166
+aVLlanowar Reborn enters the battlefield tapped.<br>{T}: Add {G} to your mana pool.<br>Graft 1 <i>(This land enters the battlefield with a +1/+1 counter on it. Whenever a creature enters the battlefield, you may move a +1/+1 counter from this land onto it.)</i>
+p167
+aV{0}: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Any player may activate this ability, but only if he or she owns Personal Incarnation.<br>When Personal Incarnation dies, its owner loses half his or her life, rounded up.
+p168
+aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i>
+p169
+aVOther Merfolk creatures you control get +1/+1.<br>{T}: Target Merfolk creature is unblockable this turn.
+p170
+aVLlanowar Reborn enters the battlefield tapped.<br>{T}: Add {G} to your mana pool.<br>Graft 1 <i>(This land enters the battlefield with a +1/+1 counter on it. Whenever a creature enters the battlefield, you may move a +1/+1 counter from this land onto it.)</i>
+p171
+asS'costs'
+p172
+(lp173
+V{G}
+p174
+aV{4}{R}
+p175
+aV{G}
+p176
+aV{G}
+p177
+aV{G}
+p178
+aV{W}
+p179
+aV{2}{G}
+p180
+aV{G}
+p181
+aS'0'
+p182
+aV{G}
+p183
+ag182
+aV{B}{G}
+p184
+aV{G}
+p185
+aV{G}
+p186
+aV{3}{G}{G}
+p187
+ag182
+ag182
+aV{G}
+p188
+aV{3}{U}
+p189
+aV{G}
+p190
+aV{G}
+p191
+ag182
+aV{3}{G}
+p192
+aV{G}
+p193
+aV{G}
+p194
+ag182
+ag182
+aV{1}{G}
+p195
+aV{3}{G}{G}
+p196
+aV{2}{G}
+p197
+aV{3}{G}{G}
+p198
+aV{2}{G}
+p199
+aV{G}{W}
+p200
+aV{2}{G}
+p201
+aV{G}
+p202
+aV{G}
+p203
+ag182
+aV{G}
+p204
+aV{G}
+p205
+aV{2}{G}{G}
+p206
+ag182
+asS'names'
+p207
+(lp208
+VLlanowar Elves
+p209
+aVLlanowar Elves
+p210
+aVLlanowar Elves
+p211
+aVLlanowar Elves
+p212
+aVLlanowar Elves
+p213
+aVLlanowar Elves
+p214
+aVLlanowar Sentinel
+p215
+aVLlanowar Elves
+p216
+aVLlanowar Wastes
+p217
+aVLlanowar Elves
+p218
+aVLlanowar Wastes
+p219
+aVLlanowar Dead
+p220
+aVLlanowar Elves
+p221
+aVLlanowar Elves
+p222
+aVLlanowar Behemoth
+p223
+aVLlanowar Wastes
+p224
+aVLlanowar Reborn
+p225
+aVLlanowar Elves
+p226
+aVLlawan, Cephalid Empress
+p227
+aVLlanowar Elves
+p228
+aVLlanowar Elves
+p229
+aVLlanowar Wastes
+p230
+aVLlanowar Empath
+p231
+aVLlanowar Mentor
+p232
+aVLlanowar Augur
+p233
+aVLlanowar Reborn
+p234
+aVLlanowar
+p235
+aVLlanowar Druid
+p236
+aVLlanowar Behemoth
+p237
+aVLlanowar Sentinel
+p238
+aVLlanowar Behemoth
+p239
+aVLlanowar Vanguard
+p240
+aVLlanowar Knight
+p241
+aVLlanowar Cavalry
+p242
+aVLlanowar Elite
+p243
+aVLlanowar Elves
+p244
+aVLlanowar Reborn
+p245
+aVLlanowar Elves
+p246
+aVLlanowar Elves
+p247
+aVLlanowar Elves
+p248
+aVLlanowar Reborn
+p249
+asS'toughs'
+p250
+(lp251
+V3
+p252
+aV6
+p253
+ag253
+aV1
+p254
+aV8
+p255
+aV2
+p256
+ag254
+ag254
+aS'N/A'
+p257
+ag254
+ag257
+ag256
+ag256
+aV7
+p258
+ag254
+ag257
+ag257
+ag253
+ag252
+aV4
+p259
+aV5
+p260
+ag257
+ag256
+ag254
+ag252
+ag257
+ag257
+ag252
+ag252
+ag259
+ag259
+ag254
+ag256
+ag256
+ag252
+ag259
+ag257
+ag252
+ag254
+ag254
+ag257
+asS'artists'
+p261
+(lp262
+VAnson Maddocks
+p263
+aS''
+p264
+aVAnson Maddocks
+p265
+aVAnson Maddocks
+p266
+aVAnson Maddocks
+p267
+aVKev Walker
+p268
+aVRandy Gallegos
+p269
+aVKev Walker
+p270
+aVRob Alexander
+p271
+aVAnson Maddocks
+p272
+aVRob Alexander
+p273
+aVBen Thompson
+p274
+aVAnson Maddocks
+p275
+aVKev Walker
+p276
+aVKev Walker
+p277
+aVRob Alexander
+p278
+aVPhilip Straub
+p279
+aVAnson Maddocks
+p280
+aVMark Zug
+p281
+aVAnson Maddocks
+p282
+aVJerry Tiritilli
+p283
+aVRob Alexander
+p284
+aVWarren Mahy
+p285
+aVTrevor Hairsine
+p286
+aVTsutomu Kawade
+p287
+aVPhilip Straub
+p288
+aVKev Walker
+p289
+aVPete Venters
+p290
+aVHannibal King
+p291
+aVDouglas Shuler
+p292
+aVHannibal King
+p293
+aVGreg & Tim Hildebrandt
+p294
+aVHeather Hudson
+p295
+aVEric Peterson
+p296
+aVKev Walker
+p297
+aVAnson Maddocks
+p298
+aVPhilip Straub
+p299
+aVAnson Maddocks
+p300
+aVAnson Maddocks
+p301
+aVKev Walker
+p302
+aVPhilip Straub
+p303
+asS'powers'
+p304
+(lp305
+g252
+ag259
+aV0
+p306
+ag254
+ag255
+ag259
+ag254
+ag254
+ag257
+ag254
+ag257
+ag256
+ag256
+ag254
+ag254
+ag257
+ag257
+ag306
+ag256
+ag254
+ag256
+ag257
+ag256
+ag254
+ag252
+ag257
+ag257
+ag252
+ag256
+ag259
+ag259
+ag254
+ag256
+ag256
+ag252
+ag256
+ag257
+ag260
+ag254
+ag256
+ag257
+asS'types'
+p307
+(lp308
+VCreature - Elf Druid
+p309
+aVCreature - Elf Druid
+p310
+aVCreature - Elf Druid
+p311
+aVCreature - Elf Druid
+p312
+aVCreature - Elf Druid
+p313
+aVCreature - Elf Druid
+p314
+aVCreature - Elf
+p315
+aVCreature - Elf Druid
+p316
+aVLand
+p317
+aVCreature - Elf Druid
+p318
+aVLand
+p319
+aVCreature - Zombie Elf
+p320
+aVCreature - Elf Druid
+p321
+aVCreature - Elf Druid
+p322
+aVCreature - Elemental
+p323
+aVLand
+p324
+aVLand
+p325
+aVCreature - Elf Druid
+p326
+aVLegendary Creature - Cephalid
+p327
+aVCreature - Elf Druid
+p328
+aVCreature - Elf Druid
+p329
+aVLand
+p330
+aVCreature - Elf Shaman
+p331
+aVCreature - Elf Spellshaper
+p332
+aVCreature - Elf Shaman
+p333
+aVLand
+p334
+aVPlane - Dominaria
+p335
+aVCreature - Elf Druid
+p336
+aVCreature - Elemental
+p337
+aVCreature - Elf
+p338
+aVCreature - Elemental
+p339
+aVCreature - Dryad
+p340
+aVCreature - Elf Knight
+p341
+aVCreature - Human Soldier
+p342
+aVCreature - Elf
+p343
+aVCreature - Elf Druid
+p344
+aVLand
+p345
+aVCreature - Elf Druid
+p346
+aVCreature - Elf Druid
+p347
+aVCreature - Elf Druid
+p348
+aVLand
+p349
+asS'numbers'
+p350
+(lp351
+V69
+p352
+aV182
+p353
+aV162
+p354
+aV87
+p355
+aV258
+p356
+aV189
+p357
+aV275
+p358
+aV274
+p359
+aV355
+p360
+aV26
+p361
+aV141
+p362
+aV109
+p363
+aV180
+p364
+aV253
+p365
+aV252
+p366
+aV322
+p367
+aV304
+p368
+aV161
+p369
+aV42
+p370
+aV239
+p371
+aV253
+p372
+aV244
+p373
+aV130
+p374
+aV131
+p375
+aV129
+p376
+aV171
+p377
+aV22
+p378
+aV70
+p379
+aV147
+p380
+aV148
+p381
+aV261
+p382
+aV197
+p383
+aV254
+p384
+aV195
+p385
+aV196
+p386
+aV327
+p387
+aV129
+p388
+aV200
+p389
+aV62
+p390
+aV184
+p391
+aV72
+p392
+as.

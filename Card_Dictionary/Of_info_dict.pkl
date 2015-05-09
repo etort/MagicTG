@@ -1,0 +1,97 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVCommon
+p4
+aVCommon
+p5
+asS'editns'
+p6
+(lp7
+VMorningtide
+p8
+aVNemesis
+p9
+aVAlara Reborn
+p10
+asS'ids'
+p11
+(lp12
+V152571
+p13
+aV22032
+p14
+aV183007
+p15
+asS'texts'
+p16
+(lp17
+VFlash<br>When Offalsnout leaves the battlefield, exile target card from a graveyard.<br>Evoke {B} <i>(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</i>
+p18
+aVTarget creature can't attack or block this turn.
+p19
+aVReach <i>(This can block creatures with flying.)</i><br>Forestcycling {2}, plainscycling {2} <i>({2}, Discard this card: Search your library for a Forest or Plains card, reveal it, and put it into your hand. Then shuffle your library.)</i>
+p20
+asS'costs'
+p21
+(lp22
+V{2}{B}
+p23
+aV{W}
+p24
+aV{2}{W}{U}
+p25
+asS'names'
+p26
+(lp27
+VOffalsnout
+p28
+aVOff Balance
+p29
+aVOffering to Asha
+p30
+asS'toughs'
+p31
+(lp32
+V2
+p33
+aS'N/A'
+p34
+ag34
+asS'artists'
+p35
+(lp36
+VAlex Horley-Orlandelli
+p37
+aVJeff Miracola
+p38
+aVDaarken
+p39
+asS'powers'
+p40
+(lp41
+g33
+ag34
+ag34
+asS'types'
+p42
+(lp43
+VCreature - Elemental
+p44
+aVInstant
+p45
+aVInstant
+p46
+asS'numbers'
+p47
+(lp48
+V71
+p49
+aV15
+p50
+aV9
+p51
+as.

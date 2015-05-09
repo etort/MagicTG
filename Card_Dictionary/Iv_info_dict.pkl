@@ -1,0 +1,721 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVUncommon
+p4
+aVRare
+p5
+aVUncommon
+p6
+aVUncommon
+p7
+aVRare
+p8
+aVRare
+p9
+aVUncommon
+p10
+aVCommon
+p11
+aVUncommon
+p12
+aVUncommon
+p13
+aVRare
+p14
+aVRare
+p15
+aVRare
+p16
+aVUncommon
+p17
+aVUncommon
+p18
+aVRare
+p19
+aVCommon
+p20
+aVCommon
+p21
+aVMythic Rare
+p22
+aVUncommon
+p23
+aVUncommon
+p24
+aVUncommon
+p25
+aVRare
+p26
+aVRare
+p27
+aVRare
+p28
+aVUncommon
+p29
+aVUncommon
+p30
+aVUncommon
+p31
+aVUncommon
+p32
+aVRare
+p33
+aVCommon
+p34
+aVUncommon
+p35
+aVUncommon
+p36
+asS'editns'
+p37
+(lp38
+VLimited Edition Beta
+p39
+aVSaviors of Kamigawa
+p40
+aVFourth Edition
+p41
+aVFourth Edition
+p42
+aVAntiquities
+p43
+aVAlliances
+p44
+aVMercadian Masques
+p45
+aVVintage Masters
+p46
+aVModern Masters
+p47
+aVMasters Edition III
+p48
+aVRevised Edition
+p49
+aVRevised Edition
+p50
+aVMasters Edition II
+p51
+aVNinth Edition
+p52
+aVUrza's Destiny
+p53
+aVRavnica: City of Guilds
+p54
+aVOdyssey
+p55
+aVTime Spiral
+p56
+aVGatecrash
+p57
+aVFrom the Vault: Relics
+p58
+aVUnlimited Edition
+p59
+aVClassic Sixth Edition
+p60
+aVSeventh Edition
+p61
+aVPlanechase
+p62
+aVMasters Edition
+p63
+aVEighth Edition
+p64
+aVEighth Edition
+p65
+aVChronicles
+p66
+aVFifth Edition
+p67
+aVFifth Edition
+p68
+aVKhans of Tarkir
+p69
+aVMirage
+p70
+aVLimited Edition Alpha
+p71
+aVLegends
+p72
+asS'ids'
+p73
+(lp74
+V317
+p75
+aV88796
+p76
+aV2051
+p77
+aV2050
+p78
+aV1009
+p79
+aV3196
+p80
+aV19656
+p81
+aV382978
+p82
+aV370415
+p83
+aV201146
+p84
+aV1114
+p85
+aV1115
+p86
+aV184551
+p87
+aV83413
+p88
+aV15224
+p89
+aV87916
+p90
+aV29871
+p91
+aV109741
+p92
+aV366317
+p93
+aV212639
+p94
+aV619
+p95
+aV14759
+p96
+aV25650
+p97
+aV206024
+p98
+aV159111
+p99
+aV45223
+p100
+aV45458
+p101
+aV2859
+p102
+aV4137
+p103
+aV3792
+p104
+aV386569
+p105
+aV3498
+p106
+aV22
+p107
+aV1621
+p108
+asS'texts'
+p109
+(lp110
+V{T}: Untap target land.
+p111
+aVAt the beginning of your upkeep, if you have seven or more cards in hand, you gain 4 life.
+p112
+aVAt the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus 4.
+p113
+aV{G}{G}: Counter target black spell.
+p114
+aVAt the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus 4.
+p115
+aVAs long as Juniper Order Advocate is untapped, green creatures you control get +1/+1.
+p116
+aVEnchant creature<br>All creatures able to block enchanted creature do so.
+p117
+aVWhenever Jareth, Leonine Titan blocks, it gets +7/+7 until end of turn.<br>{W}: Jareth gains protection from the color of your choice until end of turn.
+p118
+aVWhen Ivory Giant enters the battlefield, tap all nonwhite creatures.<br>Suspend 5\u2014{W} <i>(Rather than cast this card from your hand, you may pay {W} and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)</i>
+p119
+aV{T}: Prevent the next 2 damage that would be dealt to target creature this turn.
+p120
+aVAll Forests are 1/1 creatures that are still lands.
+p121
+aV{T}: Add {G} to your mana pool.
+p122
+aV{1}, {T}: Put a charge counter on Jeweled Amulet. Note the type of mana spent to pay this activation cost. Activate this ability only if there are no charge counters on Jeweled Amulet.<br>{T}, Remove a charge counter from Jeweled Amulet: Add one mana of Jeweled Amulet's last noted type to your mana pool.
+p123
+aVTarget creature gets +7/+7 until end of turn.
+p124
+aV{2}{G}, {T}: Reveal any number of green cards in your hand. Target creature gets +X/+X until end of turn, where X is the number of cards revealed this way.
+p125
+aV{1}{R}: Target creature gains haste until end of turn.<br>{1}{W}: Target creature gains first strike until end of turn.
+p126
+aVThreshold- Springing Tiger gets +2/+2 as long as seven or more cards are in your graveyard.
+p127
+aVWhen Ivory Giant enters the battlefield, tap all nonwhite creatures.<br>Suspend 5\u2014{W} <i>(Rather than cast this card from your hand, you may pay {W} and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)</i>
+p128
+aVKeymaster Rogue can't be blocked.<br>When Keymaster Rogue enters the battlefield, return a creature you control to its owner's hand.
+p129
+aVAt the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus 4.
+p130
+aVAs Lich enters the battlefield, you lose life equal to your life total.<br>You don't lose the game for having 0 or less life.<br>If you would gain life, draw that many cards instead.<br>Whenever you're dealt damage, sacrifice that many nontoken permanents. If you can't, you lose the game.<br>When Lich is put into a graveyard from the battlefield, you lose the game.
+p131
+aVAll Forests are 1/1 creatures that are still lands.
+p132
+aVEach player may play an additional land during each of his or her turns.<br>Whenever a land is tapped for mana, return it to its owner's hand.
+p133
+aVIvy Elemental enters the battlefield with X +1/+1 counters on it.
+p134
+aVAt the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus 4.
+p135
+aVFlying<br>When Sage Owl enters the battlefield, look at the top four cards of your library, then put them back in any order.
+p136
+aVR
+p137
+aVRemove Jeweled Bird from your deck before playing if you're not playing for ante.<br>{T}: Put Jeweled Bird into the ante. If you do, put all other cards you own from the ante into your graveyard, then draw a card.
+p138
+aVProtection from black<br>{W}: Order of the White Shield gains first strike until end of turn.<br>{W}{W}: Order of the White Shield gets +1/+0 until end of turn.
+p139
+aVArtifacts, creatures, and lands played by your opponents enter the battlefield tapped.
+p140
+aVMorph {2}{R} <i>(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i><br>When Jeering Instigator is turned face up, if it's your turn, gain control of another target creature until end of turn. Untap that creature. It gains haste until end of turn.
+p141
+aVCast Jabari's Influence only after combat.<br>Gain control of target nonartifact, nonblack creature that attacked you this turn and put a -1/-0 counter on it.
+p142
+aVFlying, trample<br>At the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you.
+p143
+aVWhenever Pit Scorpion deals damage to a player, that player gets a poison counter. <i>(A player with ten or more poison counters loses the game.)</i>
+p144
+asS'costs'
+p145
+(lp146
+V{1}
+p147
+aV{2}
+p148
+aV{1}
+p149
+aV{1}
+p150
+aV{1}
+p151
+aV{4}{W}
+p152
+aV{2}{W}{W}
+p153
+aV{3}{B}
+p154
+aV{5}{W}{W}
+p155
+aV{4}{W}{W}
+p156
+aV{1}
+p157
+aV{1}
+p158
+aV{4}{W}
+p159
+aV{2}{W}{W}
+p160
+aV{3}{G}
+p161
+aV{2}{G}
+p162
+aV{X}{G}
+p163
+aV{5}{W}{W}
+p164
+aV{X}{W/B}{W/B}{W/B}
+p165
+aV{1}
+p166
+aV{1}
+p167
+aV{1}
+p168
+aV{1}
+p169
+aV{X}{G}
+p170
+aV{1}
+p171
+aV{2}{W}{W}
+p172
+aV{1}
+p173
+aV{4}{W}{W}
+p174
+aV{4}{W}{W}
+p175
+aV{1}
+p176
+aV{2}{W}{B}{G}
+p177
+aV{W}
+p178
+aV{1}
+p179
+aV{4}{W}{W}
+p180
+asS'names'
+p181
+(lp182
+VIvory Cup
+p183
+aVIvory Crane Netsuke
+p184
+aVIvory Tower
+p185
+aVIvory Cup
+p186
+aVIvory Tower
+p187
+aVIvory Gargoyle
+p188
+aVIvory Mask
+p189
+aVIvory Tower
+p190
+aVIvory Giant
+p191
+aVIvory Guardians
+p192
+aVIvory Cup
+p193
+aVIvory Tower
+p194
+aVIvory Gargoyle
+p195
+aVIvory Mask
+p196
+aVIvy Seer
+p197
+aVIvy Dancer
+p198
+aVIvy Elemental
+p199
+aVIvory Giant
+p200
+aVIvy Lane Denizen
+p201
+aVIvory Tower
+p202
+aVIvory Cup
+p203
+aVIvory Cup
+p204
+aVIvory Cup
+p205
+aVIvy Elemental
+p206
+aVIvory Tower
+p207
+aVIvory Mask
+p208
+aVIvory Cup
+p209
+aVIvory Guardians
+p210
+aVIvory Guardians
+p211
+aVIvory Cup
+p212
+aVIvorytusk Fortress
+p213
+aVIvory Charm
+p214
+aVIvory Cup
+p215
+aVIvory Guardians
+p216
+asS'toughs'
+p217
+(lp218
+S'N/A'
+p219
+ag219
+ag219
+ag219
+ag219
+aV4
+p220
+ag219
+ag219
+aV2
+p221
+aV3
+p222
+ag219
+ag219
+ag221
+ag219
+aV1
+p223
+ag223
+aV0
+p224
+ag220
+ag223
+ag219
+ag219
+ag219
+ag219
+ag223
+ag219
+ag219
+ag219
+ag221
+ag222
+ag219
+aV7
+p225
+ag219
+ag219
+ag223
+asS'artists'
+p226
+(lp227
+VAnson Maddocks
+p228
+aVGreg Hildebrandt
+p229
+aVMargaret Organ-Kean
+p230
+aVAnson Maddocks
+p231
+aVMargaret Organ-Kean
+p232
+aVQuinton Hoover
+p233
+aVGlen Angus
+p234
+aVJason Chan
+p235
+aS''
+p236
+aVMark Poole
+p237
+aVAnson Maddocks
+p238
+aVMargaret Organ-Kean
+p239
+aVQuinton Hoover
+p240
+aVGlen Angus
+p241
+aVDonato Giancola
+p242
+aVTerese Nielsen
+p243
+aVRon Spencer
+p244
+aVJeff Miracola
+p245
+aVWinona Nelson
+p246
+aVJason Chan
+p247
+aVAnson Maddocks
+p248
+aVDonato Giancola
+p249
+aVAlan Pollack
+p250
+aVRon Spencer
+p251
+aVMargaret Organ-Kean
+p252
+aVGlen Angus
+p253
+aVDonato Giancola
+p254
+aVMelissa Benson
+p255
+aVAdam Rex
+p256
+aVDonato Giancola
+p257
+aVJasper Sandner
+p258
+aVGerry Grace
+p259
+aVAnson Maddocks
+p260
+aVMelissa Benson
+p261
+asS'powers'
+p262
+(lp263
+g219
+ag219
+ag219
+ag219
+ag219
+ag222
+ag219
+ag219
+ag221
+ag221
+ag219
+ag219
+ag221
+ag219
+ag222
+ag223
+ag224
+ag222
+ag223
+ag219
+ag219
+ag219
+ag219
+ag223
+ag219
+ag219
+ag219
+ag222
+ag223
+ag219
+aV5
+p264
+ag219
+ag219
+ag223
+asS'types'
+p265
+(lp266
+VArtifact
+p267
+aVArtifact
+p268
+aVArtifact
+p269
+aVArtifact
+p270
+aVArtifact
+p271
+aVCreature - Gargoyle
+p272
+aVEnchantment
+p273
+aVArtifact
+p274
+aVCreature - Giant
+p275
+aVCreature - Giant Cleric
+p276
+aVArtifact
+p277
+aVArtifact
+p278
+aVCreature - Gargoyle
+p279
+aVEnchantment
+p280
+aVCreature - Elf Wizard
+p281
+aVCreature - Dryad Shaman
+p282
+aVCreature - Elemental
+p283
+aVCreature - Giant
+p284
+aVCreature - Elf Warrior
+p285
+aVArtifact
+p286
+aVArtifact
+p287
+aVArtifact
+p288
+aVArtifact
+p289
+aVCreature - Elemental
+p290
+aVArtifact
+p291
+aVEnchantment
+p292
+aVArtifact
+p293
+aVCreature - Giant Cleric
+p294
+aVCreature - Giant Cleric
+p295
+aVArtifact
+p296
+aVCreature - Elephant
+p297
+aVInstant
+p298
+aVArtifact
+p299
+aVCreature - Giant Cleric
+p300
+asS'numbers'
+p301
+(lp302
+V141
+p303
+aV155
+p304
+aV27
+p305
+aV244
+p306
+aV60
+p307
+aV93
+p308
+aV24
+p309
+aV269
+p310
+ag236
+aV15
+p311
+aV166
+p312
+aV167
+p313
+aV19
+p314
+aV23
+p315
+aV110
+p316
+aV171
+p317
+aV245
+p318
+aV24
+p319
+aV125
+p320
+ag220
+aV143
+p321
+aV291
+p322
+aV302
+p323
+aV74
+p324
+aV158
+p325
+aV27
+p326
+aV305
+p327
+aV81
+p328
+aV184
+p329
+aV310
+p330
+aV179
+p331
+aV178
+p332
+aV184
+p333
+aV241
+p334
+as.

@@ -1,0 +1,954 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVRare
+p4
+aVCommon
+p5
+aVRare
+p6
+aVUncommon
+p7
+aVCommon
+p8
+aVRare
+p9
+aVCommon
+p10
+aVRare
+p11
+aVRare
+p12
+aVRare
+p13
+aVUncommon
+p14
+aVCommon
+p15
+aVUncommon
+p16
+aVRare
+p17
+aVMythic Rare
+p18
+aVRare
+p19
+aVCommon
+p20
+aVRare
+p21
+aVRare
+p22
+aVCommon
+p23
+aVRare
+p24
+aVRare
+p25
+aVRare
+p26
+aVRare
+p27
+aVCommon
+p28
+aVCommon
+p29
+aVUncommon
+p30
+aVRare
+p31
+aVCommon
+p32
+aVRare
+p33
+aVRare
+p34
+aVCommon
+p35
+aVCommon
+p36
+aVRare
+p37
+aVCommon
+p38
+aVCommon
+p39
+aVRare
+p40
+aVCommon
+p41
+aVUncommon
+p42
+aVRare
+p43
+aVCommon
+p44
+aVUncommon
+p45
+aVRare
+p46
+aVUncommon
+p47
+aVUncommon
+p48
+asS'editns'
+p49
+(lp50
+VFourth Edition
+p51
+aVPlanar Chaos
+p52
+aVBorn of the Gods
+p53
+aVMagic 2014 Core Set
+p54
+aVTempest
+p55
+aVModern Masters
+p56
+aVFallen Empires
+p57
+aVMasters Edition III
+p58
+aVMasters Edition II
+p59
+aVMasters Edition II
+p60
+aVNinth Edition
+p61
+aVEventide
+p62
+aVOnslaught
+p63
+aVOnslaught
+p64
+aVChampions of Kamigawa
+p65
+aVFrom the Vault: Twenty
+p66
+aVUrza's Destiny
+p67
+aVOdyssey
+p68
+aVOdyssey
+p69
+aVGatecrash
+p70
+aVIce Age
+p71
+aVShards of Alara
+p72
+aVSeventh Edition
+p73
+aVUrza's Legacy
+p74
+aVShadowmoor
+p75
+aVNew Phyrexia
+p76
+aVNew Phyrexia
+p77
+aVFuture Sight
+p78
+aVFuture Sight
+p79
+aVPlanechase
+p80
+aVLegions
+p81
+aVUrza's Saga
+p82
+aVMagic: The Gathering\u2014Conspiracy
+p83
+aVFifth Edition
+p84
+aVArchenemy
+p85
+aVVisions
+p86
+aVBeatdown Box Set
+p87
+aVLegends
+p88
+aVLegends
+p89
+aVLorwyn
+p90
+aVLorwyn
+p91
+aVPortal Three Kingdoms
+p92
+aVPortal Three Kingdoms
+p93
+aVPortal Three Kingdoms
+p94
+aVPlaneshift
+p95
+aVDark Ascension
+p96
+asS'ids'
+p97
+(lp98
+V2287
+p99
+aV122434
+p100
+aV378471
+p101
+aV370770
+p102
+aV4666
+p103
+aV370561
+p104
+aV1834
+p105
+aV201142
+p106
+aV184716
+p107
+aV184717
+p108
+aV84612
+p109
+aV152049
+p110
+aV39884
+p111
+aV41163
+p112
+aV50300
+p113
+aV373330
+p114
+aV15217
+p115
+aV29828
+p116
+aV31787
+p117
+aV366247
+p118
+aV2629
+p119
+aV175125
+p120
+aV25681
+p121
+aV12426
+p122
+aV146097
+p123
+aV233058
+p124
+aV217988
+p125
+aV130634
+p126
+aV136201
+p127
+aV198084
+p128
+aV44623
+p129
+aV5772
+p130
+aV382289
+p131
+aV4062
+p132
+aV220464
+p133
+aV3641
+p134
+aV26616
+p135
+aV1447
+p136
+aV1579
+p137
+aV139683
+p138
+aV139721
+p139
+aV10515
+p140
+aV10539
+p141
+aV10728
+p142
+aV26260
+p143
+aV262700
+p144
+asS'texts'
+p145
+(lp146
+VAt the beginning of each player's upkeep, Power Surge deals X damage to that player, where X is the number of untapped lands he or she controlled at the beginning of this turn.
+p147
+aVChange the target of target spell with a single target. You lose life equal to that spell's converted mana cost.
+p148
+aVEnchant creature<br>When Karametra's Favor enters the battlefield, draw a card.<br>Enchanted creature has "{T}: Add one mana of any color to your mana pool."
+p149
+aVU
+p150
+aVFirst strike<br>At the beginning of your upkeep, if your opponents control no creatures, Kezzerdrix deals 4 damage to you.
+p151
+aVSpend only mana produced by basic lands to cast Imperiosaur.
+p152
+aV{1}, {T}, Sacrifice Implements of Sacrifice: Add two mana of any one color to your mana pool.
+p153
+ag150
+aVIncinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.
+p154
+aVCumulative upkeep\u2014Pay {B} and 1 life. <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>If a land is tapped for mana, it produces {B} instead of any other type.
+p155
+aVGoblin Raider can't block.
+p156
+aVTrample<br>Tap an untapped red creature you control other than Impelled Giant: Impelled Giant gets +X/+0 until end of turn, where X is the power of the creature tapped this way.
+p157
+aV{T}: Choose a creature type other than Wall. Target creature becomes that type until end of turn.
+p158
+aVEnchant creature<br>Enchanted creature gets +2/+5.<br>Cycling {3} <i>({3}, Discard this card: Draw a card.)</i>
+p159
+aVPlayers can't untap more than one artifact during their untap steps.
+p160
+aVLook at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+p161
+aVAt the beginning of each player's end step, if that player didn't cast a spell this turn, Impatience deals 2 damage to him or her.
+p162
+aVAt the beginning of your upkeep, look at the top card of your library. You may put that card into your graveyard.
+p163
+aV{T}: Destroy target creature token.
+p164
+aVWhenever you cast your second spell each turn, Incursion Specialist gets +2/+0 until end of turn and can't be blocked this turn.
+p165
+ag150
+aVDestroy three target permanents.
+p166
+aV{T}: Crossbow Infantry deals 1 damage to target attacking or blocking creature.
+p167
+aVAt the beginning of your upkeep, if there are seven or more lands on the battlefield, sacrifice Impending Disaster and destroy all lands.
+p168
+aVIf you would draw a card, draw two cards instead.
+p169
+aVFlying<br>Whenever Impaler Shrike deals combat damage to a player, you may sacrifice it. If you do, draw three cards.
+p170
+aVWhen Inquisitor Exarch enters the battlefield, choose one- You gain 2 life; or target opponent loses 2 life.
+p171
+aVPut a 4/4 red Giant creature token onto the battlefield.<br>At the beginning of your next upkeep, pay {4}{R}. If you don't, you lose the game.
+p172
+aVFear <i>(This creature can't be blocked except by artifact creatures and/or black creatures.)</i><br>Suspend 7\u2014{1}{B} <i>(Rather than cast this card from your hand, you may pay {1}{B} and exile it with seven time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)</i><br>Whenever a card is put into an opponent's graveyard from anywhere, if Nihilith is suspended, you may remove a time counter from Nihilith.
+p173
+aVWhenever a creature enters the battlefield, that creature's controller may have it deal damage equal to its power to target creature or player of his or her choice.<br>Whenever you roll , exile target creature, then return it to the battlefield under its owner's control.
+p174
+aVFlying<br>Morph {6}{R}{R} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i><br>When Imperial Hellkite is turned face up, you may search your library for a Dragon card, reveal it, and put it into your hand. If you do, shuffle your library.
+p175
+ag150
+aVHidden agenda <i>(Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)</i><br>Creatures you control with the chosen name have haste.
+p176
+aVIronclaw Orcs can't block creatures with power 2 or greater.
+p177
+aVFlying<br>Morph {6}{R}{R} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i><br>When Imperial Hellkite is turned face up, you may search your library for a Dragon card, reveal it, and put it into your hand. If you do, shuffle your library.
+p178
+aV{T}: Target attacking creature gets +1/+1 until end of turn.
+p179
+aVLook at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+p180
+aVWhenever Infernal Medusa blocks a creature, destroy that creature at end of combat.<br>Whenever Infernal Medusa becomes blocked by a non-Wall creature, destroy that creature at end of combat.
+p181
+aVFlying, trample<br>At the beginning of your upkeep, sacrifice Palladia-Mors unless you pay {R}{G}{W}.
+p182
+aVOther Elf creatures you control get +1/+1.<br>{G}, {T}: Put a 1/1 green Elf Warrior creature token onto the battlefield.
+p183
+aV{T}: Put a +1/+1 counter on target creature for each Elf you control.
+p184
+aVFamine deals 3 damage to each creature and each player.
+p185
+aV{T}: Destroy target creature of your choice, then destroy target creature of an opponent's choice. Activate this ability only during your turn, before attackers are declared.
+p186
+aVBlaze deals X damage to target creature or player.
+p187
+aVDestroy target land.<br><br>Draw a card.
+p188
+aVSearch your library for a card and put that card into your hand. If Increasing Ambition was cast from a graveyard, instead search your library for two cards and put those cards into your hand. Then shuffle your library.<br>Flashback {7}{B} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
+p189
+asS'costs'
+p190
+(lp191
+V{R}
+p192
+aV{1}{B}
+p193
+aV{1}{R}
+p194
+aV{6}{G}
+p195
+aV{1}{B}
+p196
+aV{2}{G}{G}
+p197
+aV{2}
+p198
+aV{R}
+p199
+aV{2}{R}
+p200
+aV{B}
+p201
+aV{1}{U}
+p202
+aV{4}{R}{R}
+p203
+aV{U}
+p204
+aV{3}{W}
+p205
+aV{3}
+p206
+aV{1}{U}
+p207
+aV{2}{R}
+p208
+aV{1}{U}
+p209
+aV{2}{R}{R}
+p210
+aV{B}
+p211
+aV{R}
+p212
+aV{W}{U}
+p213
+aV{2}{R}
+p214
+aV{1}{R}
+p215
+aV{3}{R/G}
+p216
+aV{2}
+p217
+aV{2}{U}{U}
+p218
+aV{2}{G}{G}
+p219
+aV{4}{W}
+p220
+aS'0'
+p221
+aV{5}{R}{R}
+p222
+aV{1}{U}
+p223
+ag221
+aV{R}
+p224
+aV{5}{R}{R}
+p225
+aV{1}{U}
+p226
+aV{1}{U}
+p227
+aV{B}
+p228
+aV{R}
+p229
+aV{2}{G}
+p230
+aV{3}{G}
+p231
+aV{1}{B}
+p232
+aV{2}{R}
+p233
+aV{B}
+p234
+aV{4}{R}
+p235
+aV{1}{R}{G}
+p236
+asS'names'
+p237
+(lp238
+VImmolation
+p239
+aVImp's Mischief
+p240
+aVImpetuous Sunchaser
+p241
+aVImposing Sovereign
+p242
+aVImps' Taunt
+p243
+aVImperiosaur
+p244
+aVImplements of Sacrifice
+p245
+aVImmolation
+p246
+aVImperial Recruiter
+p247
+aVImperial Seal
+p248
+aVImaginary Pet
+p249
+aVImpelled Giant
+p250
+aVImagecrafter
+p251
+aVImprovised Armor
+p252
+aVImi Statue
+p253
+aVImpulse
+p254
+aVImpatience
+p255
+aVImmobilizing Ink
+p256
+aVImpulsive Maneuvers
+p257
+aVImmortal Servitude
+p258
+aVImposing Visage
+p259
+aVImmortal Coil
+p260
+aVImpatience
+p261
+aVImpending Disaster
+p262
+aVImpromptu Raid
+p263
+aVImmolating Souleater
+p264
+aVImpaler Shrike
+p265
+aVImperiosaur
+p266
+aVImperial Mask
+p267
+aVImmersturm
+p268
+aVImperial Hellkite
+p269
+aVImaginary Pet
+p270
+aVImmediate Action
+p271
+aVImposing Visage
+p272
+aVImperial Hellkite
+p273
+aVImpulse
+p274
+aVImpulse
+p275
+aVImprison
+p276
+aVImmolation
+p277
+aVImperious Perfect
+p278
+aVImmaculate Magistrate
+p279
+aVImperial Edict
+p280
+aVImperial Recruiter
+p281
+aVImperial Seal
+p282
+aVImplode
+p283
+aVImmerwolf
+p284
+asS'toughs'
+p285
+(lp286
+S'N/A'
+p287
+ag287
+aV3
+p288
+aV1
+p289
+ag287
+ag289
+ag287
+ag287
+ag289
+ag287
+ag289
+ag288
+aV5
+p290
+ag287
+ag287
+ag287
+ag287
+ag287
+ag287
+ag287
+ag287
+ag287
+ag287
+ag287
+ag287
+ag287
+aV4
+p291
+aV2
+p292
+ag287
+ag287
+aV6
+p293
+ag289
+ag287
+ag287
+ag288
+ag287
+ag287
+ag287
+ag287
+ag292
+ag292
+ag287
+ag289
+ag287
+ag287
+ag292
+asS'artists'
+p294
+(lp295
+VScott Kirschner
+p296
+aVThomas M. Baxa
+p297
+aVCynthia Sheppard
+p298
+aVScott M. Fischer
+p299
+aVColin MacNeil
+p300
+aS''
+p301
+aVMargaret Organ-Kean
+p302
+aVRandy Gallegos
+p303
+aVMitsuaki Sagiri
+p304
+aVLi Tie
+p305
+aVChristopher Rush
+p306
+aVMark Zug
+p307
+aVTerese Nielsen
+p308
+aVAlan Pollack
+p309
+aVTodd Lockwood
+p310
+aVIzzy
+p311
+aVMark Brill
+p312
+aVDarrell Riche
+p313
+aVJohn Howe
+p314
+aVSeb McKinnon
+p315
+aVPhil Foglio
+p316
+aVDan Scott
+p317
+aVKunio Hagio
+p318
+aVPete Venters
+p319
+aVRandy Gallegos
+p320
+ag301
+ag301
+aVLars Grant-West
+p321
+aVChristopher Moeller
+p322
+aVRaymond Swanland
+p323
+aVMatt Cavotta
+p324
+aVHeather Hudson
+p325
+aVKarl Kopinski
+p326
+aVBrian Snoddy
+p327
+aVMatt Cavotta
+p328
+aVBryan Talbot
+p329
+aVBryan Talbot
+p330
+aVChristopher Rush
+p331
+aVScott Kirschner
+p332
+aVScott M. Fischer
+p333
+aVJim Nelson
+p334
+aVXu Xiaoming
+p335
+aVMitsuaki Sagiri
+p336
+aVLi Tie
+p337
+aVArnie Swekel
+p338
+aVDan Scott
+p339
+asS'powers'
+p340
+(lp341
+g287
+ag287
+ag288
+aV7
+p342
+ag287
+ag289
+ag287
+ag287
+ag289
+ag287
+ag289
+ag288
+ag289
+ag287
+ag287
+ag287
+ag287
+ag287
+ag287
+ag287
+ag287
+ag287
+ag287
+ag287
+ag287
+ag287
+ag293
+aV0
+p343
+ag287
+ag287
+ag293
+ag292
+ag287
+ag287
+ag288
+ag287
+ag287
+ag287
+ag287
+ag292
+ag292
+ag287
+ag289
+ag287
+ag287
+ag292
+asS'types'
+p344
+(lp345
+VEnchantment - Aura
+p346
+aVInstant
+p347
+aVCreature - Human Soldier
+p348
+aVCreature - Human
+p349
+aVInstant
+p350
+aVCreature - Lizard
+p351
+aVArtifact
+p352
+aVEnchantment - Aura
+p353
+aVCreature - Human Advisor
+p354
+aVSorcery
+p355
+aVCreature - Illusion
+p356
+aVCreature - Giant Warrior
+p357
+aVCreature - Human Wizard
+p358
+aVEnchantment - Aura
+p359
+aVArtifact
+p360
+aVInstant
+p361
+aVEnchantment
+p362
+aVEnchantment - Aura
+p363
+aVEnchantment
+p364
+aVSorcery
+p365
+aVEnchantment - Aura
+p366
+aVArtifact
+p367
+aVEnchantment
+p368
+aVEnchantment
+p369
+aVEnchantment
+p370
+aVArtifact Creature - Hound
+p371
+aVCreature - Bird
+p372
+aVCreature - Lizard
+p373
+aVEnchantment
+p374
+aVPlane - Valla
+p375
+aVCreature - Dragon
+p376
+aVCreature - Illusion
+p377
+aVConspiracy
+p378
+aVEnchantment - Aura
+p379
+aVCreature - Dragon
+p380
+aVInstant
+p381
+aVInstant
+p382
+aVEnchantment - Aura
+p383
+aVEnchantment - Aura
+p384
+aVCreature - Elf Warrior
+p385
+aVCreature - Elf Shaman
+p386
+aVSorcery
+p387
+aVCreature - Human Advisor
+p388
+aVSorcery
+p389
+aVSorcery
+p390
+aVCreature - Wolf
+p391
+asS'numbers'
+p392
+(lp393
+V110
+p394
+aV72
+p395
+aV99
+p396
+aV22
+p397
+aV56
+p398
+ag301
+aV8
+p399
+aV103
+p400
+aV130
+p401
+aV96
+p402
+aV82
+p403
+aV58
+p404
+aV87
+p405
+aV40
+p406
+aV255
+p407
+ag290
+aV88
+p408
+aV87
+p409
+aV197
+p410
+aV220
+p411
+aV296
+p412
+aV79
+p413
+aV197
+p414
+aV82
+p415
+aV209
+p416
+aV139
+p417
+aV36
+p418
+aV145
+p419
+aV23
+p420
+aV17
+p421
+aV103
+p422
+aV81
+p423
+ag290
+aV140
+p424
+aV42
+p425
+aV131
+p426
+ag290
+aV26
+p427
+aV239
+p428
+aV220
+p429
+aV219
+p430
+aV77
+p431
+aV113
+p432
+aV78
+p433
+aV62
+p434
+aV141
+p435
+as.

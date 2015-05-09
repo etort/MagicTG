@@ -1,0 +1,355 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVCommon
+p4
+aVCommon
+p5
+aVRare
+p6
+aVRare
+p7
+aVUncommon
+p8
+aVCommon
+p9
+aVMythic Rare
+p10
+aVRare
+p11
+aVCommon
+p12
+aVCommon
+p13
+aVUncommon
+p14
+aVCommon
+p15
+aVRare
+p16
+aVRare
+p17
+aVUncommon
+p18
+asS'editns'
+p19
+(lp20
+VPlanechase 2012 Edition
+p21
+aVPlanechase 2012 Edition
+p22
+aVCommander 2013 Edition
+p23
+aVCommander 2013 Edition
+p24
+aVTime Spiral
+p25
+aVZendikar
+p26
+aVZendikar
+p27
+aVRise of the Eldrazi
+p28
+aVMasters Edition
+p29
+aVWorldwake
+p30
+aVArchenemy
+p31
+aVKhans of Tarkir
+p32
+aVKhans of Tarkir
+p33
+aVKhans of Tarkir
+p34
+aVKhans of Tarkir
+p35
+aVArabian Nights
+p36
+asS'ids'
+p37
+(lp38
+V226534
+p39
+aV271227
+p40
+aV376390
+p41
+aV376391
+p42
+aV113553
+p43
+aV198519
+p44
+aV186320
+p45
+aV193551
+p46
+aV159764
+p47
+aV197789
+p48
+aV220535
+p49
+aV386578
+p50
+aV386579
+p51
+aV386580
+p52
+aV386581
+p53
+aV923
+p54
+asS'texts'
+p55
+(lp56
+VWhenever a creature you control attacks a player, for each other opponent, you may put a token that's a copy of that creature onto the battlefield tapped and attacking that opponent. Exile those tokens at the beginning of the next end step.<br>Whenever you roll chaos, you may sacrifice any number of creatures. If you do, Kharasha Foothills deals that much damage to target creature.
+p57
+aVKor Spiritdancer gets +2/+2 for each Aura attached to it.<br>Whenever you cast an Aura spell, you may draw a card.
+p58
+aVKhalni Garden enters the battlefield tapped.<br>When Khalni Garden enters the battlefield, put a 0/1 green Plant creature token onto the battlefield.<br>{T}: Add {G} to your mana pool.
+p59
+aV{T}: Add {1} to your mana pool.<br>{1}{R}, {T}: Put a 0/1 red Kobold creature token named Kobolds of Kher Keep onto the battlefield.
+p60
+aV{T}: Add {1} to your mana pool.<br>{1}{R}, {T}: Put a 0/1 red Kobold creature token named Kobolds of Kher Keep onto the battlefield.
+p61
+aVWhen Khalni Gem enters the battlefield, return two lands you control to their owner's hand.<br>{T}: Add two mana of any one color to your mana pool.
+p62
+aVLandfall- Whenever a land enters the battlefield under your control, you may put a quest counter on Khalni Heart Expedition.<br>Remove three quest counters from Khalni Heart Expedition and sacrifice it: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+p63
+aVLevel up {3} <i>({3}: Put a level counter on this. Level up only as a sorcery.)</i><br>LEVEL 1-3<br>2/3<br>Flying<br>LEVEL 4+<br>4/4<br>Flying, vigilance
+p64
+aVAt the beginning of each end step, put a +1/+1 counter on Khabál Ghoul for each creature that died this turn.
+p65
+aVEquipped creature gets +1/+0 and has flying.<br>Equip {2} <i>({2}: Attach to target creature you control. Equip only as a sorcery.)</i>
+p66
+aVKhalni Garden enters the battlefield tapped.<br>When Khalni Garden enters the battlefield, put a 0/1 green Plant creature token onto the battlefield.<br>{T}: Add {G} to your mana pool.
+p67
+aVDefender<br>{1}{G}, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness.
+p68
+aVAt the beginning of your upkeep, you may pay {2}{B}. If you do, return a creature card at random from your graveyard to the battlefield. It gains flying, trample, and haste. Exile that card at the beginning of your next end step. If it would leave the battlefield, exile it instead of putting it anywhere else.
+p69
+aVMorph {4}{U}{U} <i>(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i><br>When Kheru Spellsnatcher is turned face up, counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard. You may cast that card without paying its mana cost for as long as it remains exiled.
+p70
+aVDestroy target attacking creature.
+p71
+aVAt the beginning of each end step, put a +1/+1 counter on Khabál Ghoul for each creature that died this turn.
+p72
+asS'costs'
+p73
+(lp74
+S'0'
+p75
+ag75
+ag75
+ag75
+ag75
+aV{4}{R}
+p76
+aV{4}
+p77
+aV{6}
+p78
+aV{2}{B}
+p79
+ag75
+ag75
+aV{2}{B}
+p80
+aV{4}{B}
+p81
+aV{3}{B}{G}{U}
+p82
+aV{3}{U}
+p83
+aV{2}{B}
+p84
+asS'names'
+p85
+(lp86
+VKharasha Foothills
+p87
+aVKhalni Garden
+p88
+aVKhalni Garden
+p89
+aVKher Keep
+p90
+aVKher Keep
+p91
+aVKhalni Gem
+p92
+aVKhalni Heart Expedition
+p93
+aVKhalni Hydra
+p94
+aVKhabál Ghoul
+p95
+aVKhalni Garden
+p96
+aVKhalni Garden
+p97
+aVKheru Bloodsucker
+p98
+aVKheru Dreadmaw
+p99
+aVKheru Lich Lord
+p100
+aVKheru Spellsnatcher
+p101
+aVKhabál Ghoul
+p102
+asS'toughs'
+p103
+(lp104
+S'N/A'
+p105
+ag105
+ag105
+ag105
+ag105
+ag105
+ag105
+aV2
+p106
+aV5
+p107
+ag105
+ag105
+ag106
+aV4
+p108
+ag108
+aV3
+p109
+aV1
+p110
+asS'artists'
+p111
+(lp112
+VJohn Avon
+p113
+aS''
+p114
+aVRyan Pancoast
+p115
+aVParente
+p116
+aVParente
+p117
+aVFranz Vohwinkel
+p118
+aVJason Chan
+p119
+aVTodd Lockwood
+p120
+aVDouglas Shuler
+p121
+aVRyan Pancoast
+p122
+aVRyan Pancoast
+p123
+aVDaniel Ljunggren
+p124
+aVRyan Yee
+p125
+aVKarl Kopinski
+p126
+aVClint Cearley
+p127
+aVDouglas Shuler
+p128
+asS'powers'
+p129
+(lp130
+g105
+ag105
+ag105
+ag105
+ag105
+ag105
+ag105
+ag110
+ag107
+ag105
+ag105
+ag106
+ag108
+ag108
+ag109
+ag110
+asS'types'
+p131
+(lp132
+VPlane - Mongseng
+p133
+aVLand
+p134
+aVLand
+p135
+aVLegendary Land
+p136
+aVLegendary Land
+p137
+aVArtifact
+p138
+aVEnchantment
+p139
+aVCreature - Hydra
+p140
+aVCreature - Zombie
+p141
+aVLand
+p142
+aVLand
+p143
+aVCreature - Vampire
+p144
+aVCreature - Zombie Crocodile
+p145
+aVCreature - Zombie Wizard
+p146
+aVCreature - Naga Wizard
+p147
+aVCreature - Zombie
+p148
+asS'numbers'
+p149
+(lp150
+V16
+p151
+aV108
+p152
+aV302
+p153
+aV303
+p154
+aV275
+p155
+aV205
+p156
+aV167
+p157
+aV192
+p158
+aV75
+p159
+aV138
+p160
+aV127
+p161
+aV75
+p162
+aV76
+p163
+aV182
+p164
+aV45
+p165
+aV9
+p166
+as.

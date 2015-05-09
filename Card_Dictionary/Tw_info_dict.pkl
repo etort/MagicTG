@@ -1,0 +1,917 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVRare
+p4
+aVRare
+p5
+aVCommon
+p6
+aVRare
+p7
+aVUncommon
+p8
+aVRare
+p9
+aVCommon
+p10
+aVRare
+p11
+aVCommon
+p12
+aVRare
+p13
+aVRare
+p14
+aVUncommon
+p15
+aVRare
+p16
+aVRare
+p17
+aVCommon
+p18
+aVRare
+p19
+aVUncommon
+p20
+aVUncommon
+p21
+aVCommon
+p22
+aVRare
+p23
+aVCommon
+p24
+aVCommon
+p25
+aVRare
+p26
+aVCommon
+p27
+aVCommon
+p28
+aVCommon
+p29
+aVRare
+p30
+aVCommon
+p31
+aVCommon
+p32
+aVCommon
+p33
+aVRare
+p34
+aVRare
+p35
+aVCommon
+p36
+aVCommon
+p37
+aVRare
+p38
+aVSpecial
+p39
+aVCommon
+p40
+aVRare
+p41
+aVUncommon
+p42
+aVUncommon
+p43
+aVRare
+p44
+aVRare
+p45
+aVSpecial
+p46
+asS'editns'
+p47
+(lp48
+VLimited Edition Beta
+p49
+aVLimited Edition Beta
+p50
+aVSaviors of Kamigawa
+p51
+aVFourth Edition
+p52
+aVFrom the Vault: Dragons
+p53
+aVScars of Mirrodin
+p54
+aVMagic 2010
+p55
+aVTempest
+p56
+aVTenth Edition
+p57
+aVTenth Edition
+p58
+aVMercadian Masques
+p59
+aVEventide
+p60
+aVEventide
+p61
+aVDuel Decks: Sorin vs. Tibalt
+p62
+aVBetrayers of Kamigawa
+p63
+aVUrza's Destiny
+p64
+aVRavnica: City of Guilds
+p65
+aVRavnica: City of Guilds
+p66
+aVOdyssey
+p67
+aVTime Spiral
+p68
+aVUnlimited Edition
+p69
+aVUnlimited Edition
+p70
+aVSeventh Edition
+p71
+aVShadowmoor
+p72
+aVScourge
+p73
+aVTheros
+p74
+aVMagic: The Gathering\u2014Conspiracy
+p75
+aVEighth Edition
+p76
+aVEighth Edition
+p77
+aVWorldwake
+p78
+aVPremium Deck Series: Graveborn
+p79
+aVInvasion
+p80
+aVJourney into Nyx
+p81
+aVFifth Edition
+p82
+aVArchenemy
+p83
+aVArchenemy
+p84
+aVVanguard
+p85
+aVLimited Edition Alpha
+p86
+aVLimited Edition Alpha
+p87
+aVMasters Edition IV
+p88
+aVDissension
+p89
+aVDuel Decks: Izzet vs. Golgari
+p90
+aVLorwyn
+p91
+aVTime Spiral "Timeshifted"
+p92
+asS'ids'
+p93
+(lp94
+V428
+p95
+aV522
+p96
+aV80412
+p97
+aV2192
+p98
+aV178027
+p99
+aV208253
+p100
+aV191322
+p101
+aV4739
+p102
+aV129887
+p103
+aV136286
+p104
+aV19711
+p105
+aV153425
+p106
+aV153436
+p107
+aV368549
+p108
+aV74023
+p109
+aV19114
+p110
+aV88973
+p111
+aV89052
+p112
+aV30548
+p113
+aV108851
+p114
+aV824
+p115
+aV730
+p116
+aV11544
+p117
+aV152060
+p118
+aV43717
+p119
+aV373540
+p120
+aV382389
+p121
+aV45389
+p122
+aV45235
+p123
+aV198396
+p124
+aV270453
+p125
+aV23058
+p126
+aV380523
+p127
+aV3951
+p128
+aV220564
+p129
+aV220472
+p130
+aV182301
+p131
+aV133
+p132
+aV227
+p133
+aV202551
+p134
+aV97114
+p135
+aV338399
+p136
+aV143375
+p137
+aV108848
+p138
+asS'texts'
+p139
+(lp140
+VEnchant creature <i>(Target a creature as you cast this. This card enters the battlefield attached to that creature.)</i><br>Enchanted creature gets +0/+2 and has reach. <i>(It can block creatures with flying.)</i>
+p141
+aVEach player discards his or her hand and draws seven cards.
+p142
+aVCopy target instant or sorcery spell. You may choose new targets for the copy.
+p143
+aVDefender <i>(This creature can't attack.)</i><br>{U}: Wall of Water gets +1/+0 until end of turn.
+p144
+aVFlying<br>{1}{R}: Two-Headed Dragon gets +2/+0 until end of turn.<br>Two-Headed Dragon can't be blocked except by two or more creatures.<br>Two-Headed Dragon can block an additional creature.
+p145
+aVWhenever a creature you control dies, you may pay {X}. If you do, you gain X life.
+p146
+aVDefender <i>(This creature can't attack.)</i><br>{W}: Wall of Faith gets +0/+1 until end of turn.
+p147
+aVFlying<br><br>{T}: Target creature gains flying until end of turn.
+p148
+aVDestroy target green or white creature.
+p149
+aVR
+p150
+aVDefender <i>(This creature can't attack.)</i><br>{T}: Add {G} to your mana pool.
+p151
+aV{T}: Add {1} to your mana pool.<br>{B/G}, {T}: Add {B}{B}, {B}{G}, or {G}{G} to your mana pool.
+p152
+aVWither <i>(This deals damage to creatures in the form of -1/-1 counters.)</i><br>{1}{G}: Twinblade Slasher gets +2/+2 until end of turn. Activate this ability only once each turn.
+p153
+aVWhenever a creature token leaves the battlefield, put a +1/+1 counter on Twilight Drover.<br>{2}{W}, Remove a +1/+1 counter from Twilight Drover: Put two 1/1 white Spirit creature tokens with flying onto the battlefield.
+p154
+aVYou and target opponent each gain control of all creatures the other controls until end of turn. Untap those creatures. Those creatures gain haste until end of turn.
+p155
+aVEnchant creature<br>Enchanted creature gets +3/-1.
+p156
+aVFlying<br>{T}, Sacrifice Divebomber Griffin: Divebomber Griffin deals 3 damage to target attacking or blocking creature.
+p157
+aVTrample<br>Whenever Mindleech Mass deals combat damage to a player, you may look at that player's hand. If you do, you may cast a nonland card in it without paying that card's mana cost.
+p158
+aVThreshold- Krosan Beast gets +7/+7 as long as seven or more cards are in your graveyard.
+p159
+aVAll Sliver creatures have "This creature can't be blocked except by two or more creatures."
+p160
+aVTrample<br>Two-Headed Giant of Foriys can block an additional creature.
+p161
+aVFirst strike <i>(This creature deals combat damage before creatures without first strike.)</i><br>Protection from black <i>(This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)</i>
+p162
+aVYou may tap or untap target artifact, creature, or land.
+p163
+aV{T}: Choose any number of target creatures. Each of those creatures gains persist until end of turn. <i>(When it dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)</i>
+p164
+aV{B}: Regenerate Twisted Abomination.<br>Swampcycling {2} <i>({2}, Discard this card: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.)</i>
+p165
+aV{T}: Untap target land.
+p166
+aVHidden agenda <i>(Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)</i><br>You may spend mana as though it were mana of any color to cast spells with the chosen name.
+p167
+aVObliterate can't be countered.<br>Destroy all artifacts, creatures, and lands. They can't be regenerated.
+p168
+aS''
+p169
+aVEnchant creature<br>You control enchanted creature.<br>At the beginning of your upkeep, sacrifice Vapor Snare unless you return a land you control to its owner's hand.
+p170
+aV{B}: Regenerate Twisted Abomination.<br>Swampcycling {2} <i>({2}, Discard this card: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.)</i>
+p171
+aVYou may cast Twilight's Call any time you could cast an instant if you pay {2} more to cast it.<br>Each player returns all creature cards from his or her graveyard to the battlefield.
+p172
+aVConstellation- Whenever Whitewater Naiads or another enchantment enters the battlefield under your control, target creature can't be blocked this turn.
+p173
+aVDefender <i>(This creature can't attack.)</i><br>{G}: Regenerate Wall of Brambles.
+p174
+aV{B}: Regenerate Twisted Abomination.<br>Swampcycling {2} <i>({2}, Discard this card: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.)</i>
+p175
+aVFlying<br>{1}{R}: Two-Headed Dragon gets +2/+0 until end of turn.<br>Two-Headed Dragon can't be blocked except by two or more creatures.<br>Two-Headed Dragon can block an additional creature.
+p176
+aVEach creature you control can block an additional creature each combat.<br>Each creature you control can't be blocked except by two or more creatures.
+p177
+aVU
+p178
+ag150
+aV{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.
+p179
+aVTwinstrike deals 2 damage to each of two target creatures.<br>Hellbent- Destroy those creatures instead if you have no cards in hand.
+p180
+aVYou may cast Twilight's Call any time you could cast an instant if you pay {2} more to cast it.<br>Each player returns all creature cards from his or her graveyard to the battlefield.
+p181
+aV{1}, {T}: You may cast a nonland card from your hand without paying its mana cost if it has the same name as a spell that was cast this turn.
+p182
+aV{B}: Regenerate Twisted Abomination.<br>Swampcycling {2} <i>({2}, Discard this card: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.)</i>
+p183
+asS'costs'
+p184
+(lp185
+V{U}
+p186
+aV{4}{R}
+p187
+aV{U}{U}
+p188
+aV{U}
+p189
+aV{4}{R}{R}
+p190
+aV{U}
+p191
+aV{3}{B}
+p192
+aV{2}{U}
+p193
+aV{U}{U}
+p194
+aV{2}{U}
+p195
+aV{4}{R}{R}
+p196
+aS'0'
+p197
+aV{G}
+p198
+aV{R}{R}
+p199
+aV{6}{R}
+p200
+aV{1}{B}
+p201
+aV{2}{W}
+p202
+aV{4}{U}{B}
+p203
+aV{2}{G}
+p204
+aV{1}{R}
+p205
+aV{4}{R}
+p206
+aV{U}
+p207
+aV{U}
+p208
+aV{3}{W}{W}{W}
+p209
+aV{5}{B}
+p210
+aV{U}
+p211
+aV{1}{U}
+p212
+aV{4}{R}{R}
+p213
+aV{U}
+p214
+aV{3}{R}
+p215
+aV{5}{B}
+p216
+aV{4}{B}{B}
+p217
+aV{U}
+p218
+aV{U}
+p219
+aV{5}{B}
+p220
+aV{4}{R}{R}
+p221
+ag197
+aV{U}
+p222
+aV{4}{R}
+p223
+aV{4}{R}
+p224
+aV{3}{B}{R}
+p225
+aV{4}{B}{B}
+p226
+aV{2}{W}
+p227
+aV{5}{B}
+p228
+asS'names'
+p229
+(lp230
+VTwiddle
+p231
+aVTwo-Headed Giant of Foriys
+p232
+aVTwincast
+p233
+aVTwiddle
+p234
+aVTwo-Headed Dragon
+p235
+aVTwisted Image
+p236
+aVTwincast
+p237
+aVTwitch
+p238
+aVTwincast
+p239
+aVTwitch
+p240
+aVTwo-Headed Dragon
+p241
+aVTwilight Mire
+p242
+aVTwinblade Slasher
+p243
+aVTwilight Drover
+p244
+aVTwist Allegiance
+p245
+aVTwisted Experiment
+p246
+aVTwilight Drover
+p247
+aVTwisted Justice
+p248
+aVTwigwalker
+p249
+aVTwo-Headed Sliver
+p250
+aVTwo-Headed Giant of Foriys
+p251
+aVTwiddle
+p252
+aVTwiddle
+p253
+aVTwilight Shepherd
+p254
+aVTwisted Abomination
+p255
+aVTwo-Headed Cerberus
+p256
+aVTwisted Abomination
+p257
+aVTwo-Headed Dragon
+p258
+aVTwiddle
+p259
+aVTwitch
+p260
+aVTwisted Abomination
+p261
+aVTwilight's Call
+p262
+aVTwinflame
+p263
+aVTwiddle
+p264
+aVTwisted Abomination
+p265
+aVTwo-Headed Dragon
+p266
+aVTwo-Headed Giant of Foriys Avatar
+p267
+aVTwiddle
+p268
+aVTwo-Headed Giant of Foriys
+p269
+aVTwo-Headed Giant of Foriys
+p270
+aVTwinstrike
+p271
+aVTwilight's Call
+p272
+aVTwinning Glass
+p273
+aVTwisted Abomination
+p274
+asS'toughs'
+p275
+(lp276
+S'N/A'
+p277
+aV4
+p278
+ag277
+ag277
+aV5
+p279
+ag277
+ag277
+ag277
+ag277
+ag277
+aV2
+p280
+ag277
+aV1
+p281
+aV3
+p282
+ag277
+ag277
+ag282
+ag277
+ag281
+ag281
+ag278
+ag277
+ag277
+ag278
+ag278
+ag282
+ag279
+ag278
+ag277
+ag277
+ag282
+ag277
+ag277
+ag277
+ag281
+ag282
+ag277
+ag277
+ag281
+ag281
+ag277
+ag277
+ag277
+ag282
+asS'artists'
+p283
+(lp284
+VRob Alexander
+p285
+aVAnson Maddocks
+p286
+aVChristopher Moeller
+p287
+aVRob Alexander
+p288
+aVSam Wood
+p289
+aVIzzy
+p290
+aVChristopher Moeller
+p291
+aVDiTerlizzi
+p292
+aVChristopher Moeller
+p293
+aVDiTerlizzi
+p294
+aVSam Wood
+p295
+aVRob Alexander
+p296
+aVTrevor Hairsine
+p297
+aVDave Allsop
+p298
+aVWayne Reynolds
+p299
+aVrk post
+p300
+aVDave Allsop
+p301
+aVRalph Horsley
+p302
+aVCarl Critchlow
+p303
+aVDany Orizio
+p304
+aVAnson Maddocks
+p305
+aVRob Alexander
+p306
+aVRebecca Guay
+p307
+aVJason Chan
+p308
+aVDaren Bader
+p309
+aVKarl Kopinski
+p310
+aVDaren Bader
+p311
+aVSam Wood
+p312
+aVMatt Cavotta
+p313
+aVScott Chou
+p314
+ag169
+aVMark Romanoski
+p315
+aVChase Stone
+p316
+aVRob Alexander
+p317
+aVDaren Bader
+p318
+aVSam Wood
+p319
+aVUDON
+p320
+aVRob Alexander
+p321
+aVAnson Maddocks
+p322
+aVAnson Maddocks
+p323
+aVChristopher Rush
+p324
+aVMark Romanoski
+p325
+aVFranz Vohwinkel
+p326
+aVDaren Bader
+p327
+asS'powers'
+p328
+(lp329
+g277
+ag278
+ag277
+ag277
+ag279
+ag277
+ag277
+ag277
+ag277
+ag277
+ag280
+ag277
+ag281
+ag281
+ag277
+ag277
+ag281
+ag277
+ag281
+ag281
+ag278
+ag277
+ag277
+ag282
+ag282
+ag280
+ag280
+ag278
+ag277
+ag277
+ag279
+ag277
+ag277
+ag277
+ag281
+ag280
+ag277
+ag277
+ag281
+ag281
+ag277
+ag277
+ag277
+ag279
+asS'types'
+p330
+(lp331
+VInstant
+p332
+aVCreature - Giant
+p333
+aVInstant
+p334
+aVInstant
+p335
+aVCreature - Dragon
+p336
+aVInstant
+p337
+aVInstant
+p338
+aVInstant
+p339
+aVInstant
+p340
+aVInstant
+p341
+aVCreature - Dragon
+p342
+aVLand
+p343
+aVCreature - Elf Warrior
+p344
+aVCreature - Spirit
+p345
+aVSorcery
+p346
+aVEnchantment - Aura
+p347
+aVCreature - Spirit
+p348
+aVSorcery
+p349
+aVCreature - Insect
+p350
+aVCreature - Sliver
+p351
+aVCreature - Giant
+p352
+aVInstant
+p353
+aVInstant
+p354
+aVCreature - Angel
+p355
+aVCreature - Zombie Mutant
+p356
+aVCreature - Hound
+p357
+aVCreature - Zombie Mutant
+p358
+aVCreature - Dragon
+p359
+aVInstant
+p360
+aVInstant
+p361
+aVCreature - Zombie Mutant
+p362
+aVSorcery
+p363
+aVSorcery
+p364
+aVInstant
+p365
+aVCreature - Zombie Mutant
+p366
+aVCreature - Dragon
+p367
+aVVanguard
+p368
+aVInstant
+p369
+aVCreature - Giant
+p370
+aVCreature - Giant
+p371
+aVInstant
+p372
+aVSorcery
+p373
+aVArtifact
+p374
+aVCreature - Zombie Mutant
+p375
+asS'numbers'
+p376
+(lp377
+V267
+p378
+aV268
+p379
+aV60
+p380
+aV351
+p381
+aV15
+p382
+aV50
+p383
+aV78
+p384
+aV343
+p385
+aV120
+p386
+aV121
+p387
+aV221
+p388
+aV180
+p389
+aV79
+p390
+aV9
+p391
+aV120
+p392
+aV74
+p393
+aV33
+p394
+aV237
+p395
+aV279
+p396
+aV183
+p397
+aV13
+p398
+aV269
+p399
+aV107
+p400
+aV25
+p401
+aV76
+p402
+aV146
+p403
+aV129
+p404
+aV229
+p405
+aV111
+p406
+aV43
+p407
+ag169
+aV130
+p408
+aV115
+p409
+aV419
+p410
+aV26
+p411
+aV50
+p412
+aV36
+p413
+aV268
+p414
+aV269
+p415
+aV139
+p416
+aV134
+p417
+aV76
+p418
+aV264
+p419
+aV50
+p420
+as.

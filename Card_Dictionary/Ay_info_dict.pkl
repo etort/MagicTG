@@ -1,0 +1,261 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVCommon
+p4
+aVUncommon
+p5
+aVRare
+p6
+aVCommon
+p7
+aVRare
+p8
+aVRare
+p9
+aVRare
+p10
+aVUncommon
+p11
+aVCommon
+p12
+aVCommon
+p13
+asS'editns'
+p14
+(lp15
+VSaviors of Kamigawa
+p16
+aVMasters Edition II
+p17
+aVMasters Edition II
+p18
+aVChronicles
+p19
+aVFifth Edition
+p20
+aVLegends
+p21
+aVHomelands
+p22
+aVHomelands
+p23
+aVHomelands
+p24
+aVHomelands
+p25
+aVHomelands
+p26
+asS'ids'
+p27
+(lp28
+V84370
+p29
+aV184490
+p30
+aV184587
+p31
+aV2868
+p32
+aV4106
+p33
+aV1646
+p34
+aV3015
+p35
+aV3016
+p36
+aV3036
+p37
+aV3014
+p38
+aV3013
+p39
+asS'texts'
+p40
+(lp41
+VLegendary landwalk
+p42
+aV{T}: Tap target creature with power 2 or less.
+p43
+aVAysen Crusader's power and toughness are each equal to 2 plus the number of Soldiers and Warriors you control.
+p44
+aV{X}, {T}: Banshee deals half X damage, rounded down, to target creature or player, and half X damage, rounded up, to you.
+p45
+aVProtection from black
+p46
+aVFlying<br>Rampage 2 <i>(Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)</i><br>At the beginning of your upkeep, sacrifice Chromium unless you pay {W}{U}{B}.
+p47
+aVWhite creatures have plainswalk.
+p48
+aV{G}: Beast Walkers gains banding until end of turn. <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
+p49
+aV{T}: Add {1} to your mana pool.<br><br>{1}, {T}: Add {B} to your mana pool.<br><br>{2}, {T}: Add {U} or {R} to your mana pool.
+p50
+aV{T}: Tap target creature with power 2 or less.
+p51
+aVDestroy target nonartifact attacking creature. It can't be regenerated. Put a black Spirit creature token with that creature's power and toughness onto the battlefield. Sacrifice the token at the beginning of the next end step.
+p52
+asS'costs'
+p53
+(lp54
+V{3}{G}{G}
+p55
+aV{1}{W}
+p56
+aV{2}{W}{W}
+p57
+aV{W}{W}{U}{U}
+p58
+aV{1}{W}
+p59
+aV{W}{W}{U}{U}
+p60
+aV{2}{W}{W}
+p61
+aV{3}{W}{W}{W}
+p62
+aS'0'
+p63
+aV{1}{W}
+p64
+aV{1}{W}
+p65
+asS'names'
+p66
+(lp67
+VAyumi, the Last Visitor
+p68
+aVAysen Bureaucrats
+p69
+aVAysen Crusader
+p70
+aVAyesha Tanaka
+p71
+aVAysen Bureaucrats
+p72
+aVAyesha Tanaka
+p73
+aVAysen Crusader
+p74
+aVAysen Highway
+p75
+aVAysen Abbey
+p76
+aVAysen Bureaucrats
+p77
+aVAysen Bureaucrats
+p78
+asS'toughs'
+p79
+(lp80
+V3
+p81
+ag81
+aV1
+p82
+aV7
+p83
+ag81
+ag83
+aV2
+p84
+aS'N/A'
+p85
+ag85
+ag81
+ag84
+asS'artists'
+p86
+(lp87
+Vrk post
+p88
+aVAlan Rabinowitz
+p89
+aVNÈNÈ Thomas
+p90
+aVBryon Wackwitz
+p91
+aVAdrian Smith
+p92
+aVBryon Wackwitz
+p93
+aVNÈNÈ Thomas
+p94
+aVNÈNÈ Thomas
+p95
+aVLiz Danforth
+p96
+aVAlan Rabinowitz
+p97
+aVAlan Rabinowitz
+p98
+asS'powers'
+p99
+(lp100
+g83
+ag84
+ag82
+ag83
+aV4
+p101
+ag83
+aV5
+p102
+ag85
+ag85
+ag84
+ag84
+asS'types'
+p103
+(lp104
+VLegendary Creature - Spirit
+p105
+aVCreature - Human Advisor
+p106
+aVCreature - Human Knight
+p107
+aVLegendary Creature - Human Artificer
+p108
+aVCreature - Human Advisor
+p109
+aVLegendary Creature - Human Artificer
+p110
+aVCreature - Human Knight
+p111
+aVEnchantment
+p112
+aVLand
+p113
+aVCreature - Human Advisor
+p114
+aVCreature - Human Advisor
+p115
+asS'numbers'
+p116
+(lp117
+V122
+p118
+aV6
+p119
+ag83
+aV50
+p120
+aV167
+p121
+aV127
+p122
+aV65
+p123
+aV66
+p124
+aV78
+p125
+aV93
+p126
+aV94
+p127
+as.

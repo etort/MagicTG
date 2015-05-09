@@ -1,0 +1,1057 @@
+(dp0
+S'rares'
+p1
+(lp2
+VSpecial
+p3
+aVRare
+p4
+aVUncommon
+p5
+aVUncommon
+p6
+aVRare
+p7
+aVCommon
+p8
+aVUncommon
+p9
+aVMythic Rare
+p10
+aVRare
+p11
+aVRare
+p12
+aVUncommon
+p13
+aVUncommon
+p14
+aVUncommon
+p15
+aVRare
+p16
+aVRare
+p17
+aVRare
+p18
+aVCommon
+p19
+aVUncommon
+p20
+aVUncommon
+p21
+aVRare
+p22
+aVUncommon
+p23
+aVUncommon
+p24
+aVCommon
+p25
+aVUncommon
+p26
+aVCommon
+p27
+aVUncommon
+p28
+aVCommon
+p29
+aVRare
+p30
+aVRare
+p31
+aVCommon
+p32
+aVUncommon
+p33
+aVUncommon
+p34
+aVCommon
+p35
+aVRare
+p36
+aVRare
+p37
+aVRare
+p38
+aVCommon
+p39
+aVCommon
+p40
+aVCommon
+p41
+aVUncommon
+p42
+aVRare
+p43
+aVRare
+p44
+aVUncommon
+p45
+aVCommon
+p46
+aVCommon
+p47
+aVCommon
+p48
+aVRare
+p49
+aVUncommon
+p50
+aVRare
+p51
+aVRare
+p52
+aVCommon
+p53
+asS'editns'
+p54
+(lp55
+VAnthologies
+p56
+aVMorningtide
+p57
+aVMagic 2013
+p58
+aVMagic 2013
+p59
+aVDuel Decks: Knights vs. Dragons
+p60
+aVDuel Decks: Knights vs. Dragons
+p61
+aVDuel Decks: Knights vs. Dragons
+p62
+aVDuel Decks: Knights vs. Dragons
+p63
+aVDuel Decks: Knights vs. Dragons
+p64
+aVDuel Decks: Knights vs. Dragons
+p65
+aVTempest
+p66
+aVTempest
+p67
+aVTenth Edition
+p68
+aVModern Masters
+p69
+aVThe Dark
+p70
+aVMirrodin Besieged
+p71
+aVStarter 2000
+p72
+aVMasters Edition III
+p73
+aVMasters Edition II
+p74
+aVConflux
+p75
+aVConflux
+p76
+aVTime Spiral
+p77
+aVReturn to Ravnica
+p78
+aVGatecrash
+p79
+aVGatecrash
+p80
+aVIce Age
+p81
+aVShards of Alara
+p82
+aVShards of Alara
+p83
+aVShards of Alara
+p84
+aVSeventh Edition
+p85
+aVSeventh Edition
+p86
+aVUrza's Legacy
+p87
+aVRise of the Eldrazi
+p88
+aVShadowmoor
+p89
+aVShadowmoor
+p90
+aVShadowmoor
+p91
+aVStarter 1999
+p92
+aVFuture Sight
+p93
+aVMasters Edition
+p94
+aVJourney into Nyx
+p95
+aVAlara Reborn
+p96
+aVAlara Reborn
+p97
+aVFifth Edition
+p98
+aVArchenemy
+p99
+aVVisions
+p100
+aVVisions
+p101
+aVLegends
+p102
+aVLorwyn
+p103
+aVLorwyn
+p104
+aVMagic 2011
+p105
+aVPortal
+p106
+asS'ids'
+p107
+(lp108
+V-2146729975
+p109
+aV152664
+p110
+aV265731
+p111
+aV265735
+p112
+aV243431
+p113
+aV243421
+p114
+aV243422
+p115
+aV243416
+p116
+aV243423
+p117
+aV243427
+p118
+aV4883
+p119
+aV4668
+p120
+aV129574
+p121
+aV370379
+p122
+aV1811
+p123
+aV214035
+p124
+aV25450
+p125
+aV201195
+p126
+aV184645
+p127
+aV189145
+p128
+aV180265
+p129
+aV118907
+p130
+aV253646
+p131
+aV366237
+p132
+aV366477
+p133
+aV2462
+p134
+aV175047
+p135
+aV178094
+p136
+aV179421
+p137
+aV13099
+p138
+aV13171
+p139
+aV5709
+p140
+aV194951
+p141
+aV146036
+p142
+aV147398
+p143
+aV153977
+p144
+aV20397
+p145
+aV130698
+p146
+aV159149
+p147
+aV380445
+p148
+aV189642
+p149
+aV180624
+p150
+aV3854
+p151
+aV212600
+p152
+aV3643
+p153
+aV3718
+p154
+aV1408
+p155
+aV139715
+p156
+aV143609
+p157
+aV204988
+p158
+aV4388
+p159
+asS'texts'
+p160
+(lp161
+VProtection from white
+p162
+aVProwl {3}{U} <i>(You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)</i><br>Search target opponent's library for an instant or sorcery card. You may cast that card without paying its mana cost. Then that player shuffles his or her library.
+p163
+aVProtection from black <i>(This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)</i><br>Exalted <i>(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</i>
+p164
+aVTarget player discards two cards.
+p165
+aVFirst strike <i>(This creature deals combat damage before creatures without first strike.)</i><br>Other Knight creatures you control get +1/+1 and are indestructible. <i>(Lethal damage and effects that say "destroy" don't destroy them.)</i>
+p166
+aVLevel up {3} <i>({3}: Put a level counter on this. Level up only as a sorcery.)</i><br>LEVEL 1-3<br>2/3<br>Flying<br>LEVEL 4+<br>4/4<br>Flying, vigilance
+p167
+aVFirst strike<br>Lifelink <i>(Damage dealt by this creature also causes you to gain that much life.)</i>
+p168
+aVKnight of the Reliquary gets +1/+1 for each land card in your graveyard.<br>{T}, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle your library.
+p169
+aVFirst strike<br>When Knight of the White Orchid enters the battlefield, if an opponent controls more lands than you, you may search your library for a Plains card, put it onto the battlefield, then shuffle your library.
+p170
+aVWhenever Knotvine Paladin attacks, it gets +1/+1 until end of turn for each untapped creature you control.
+p171
+aVReach <i>(This creature can block creatures with flying.)</i><br>{W}: Mounted Archers can block an additional creature this turn.
+p172
+aVLightning Blast deals 4 damage to target creature or player.
+p173
+aVTrample, haste <i>(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker. This creature can attack and {T} as soon as it comes under your control.)</i><br>At the beginning of the end step, sacrifice Spark Elemental.
+p174
+aVKnight of the Reliquary gets +1/+1 for each land card in your graveyard.<br>{T}, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle your library.
+p175
+aVProtection from red; banding <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
+p176
+aVForestwalk
+p177
+aVR
+p178
+aVOther creatures you control get +1/+1.
+p179
+aVAt the beginning of the end step, if Krovikan Horror is in your graveyard with a creature card directly above it, you may return Krovikan Horror to your hand.<br>{1}, Sacrifice a creature: Krovikan Horror deals 1 damage to target creature or player.
+p180
+aV{1}{W}: Kranioceros gets +0/+3 until end of turn.
+p181
+aVCounter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.
+p182
+aVFlanking <i>(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)</i><br>If Knight of the Holy Nimbus would be destroyed, regenerate it.<br>{2}: Knight of the Holy Nimbus can't be regenerated this turn. Only any opponent may activate this ability.
+p183
+aVDefender<br>{T}: Lobber Crew deals 1 damage to each opponent.<br>Whenever you cast a multicolored spell, untap Lobber Crew.
+p184
+aVPut two 2/2 white Knight creature tokens with vigilance onto the battlefield.
+p185
+aVDraw a card.<br>Cipher <i>(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)</i>
+p186
+aVEnchant creature<br>Enchanted creature has swampwalk.
+p187
+aV{B}, {T}: Target player loses 1 life.<br>{G}, {T}: Put a 1/1 green Saproling creature token onto the battlefield.
+p188
+aVWhen Realm Razer enters the battlefield, exile all lands.<br>When Realm Razer leaves the battlefield, return the exiled cards to the battlefield tapped under their owners' control.
+p189
+aVDragon creatures you control get +3/+3.
+p190
+aVSwampwalk <i>(This creature is unblockable as long as defending player controls a Swamp.)</i>
+p191
+aVDestroy target creature with flying.
+p192
+aVLava Axe deals 5 damage to target player.
+p193
+aVKor Spiritdancer gets +2/+2 for each Aura attached to it.<br>Whenever you cast an Aura spell, you may draw a card.
+p194
+aVEnchant creature<br>Enchanted creature gets +1/+1 for each Plains you control and has flying.
+p195
+aVLeech Bonder enters the battlefield with two -1/-1 counters on it.<br>{U}, {Q}: Move a counter from target creature onto another target creature. <i>({Q} is the untap symbol.)</i>
+p196
+aVAshenmoor Gouger can't block.
+p197
+aVPhantom Warrior is unblockable.
+p198
+aVCards in graveyards lose all abilities.
+p199
+aVProtection from red; banding <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
+p200
+aVWhenever you scry, you may pay {2}. If you do, Knowledge and Power deals 2 damage to target creature or player.
+p201
+aVWhenever Knotvine Paladin attacks, it gets +1/+1 until end of turn for each untapped creature you control.
+p202
+aVLavalanche deals X damage to target player and each creature he or she controls.
+p203
+aVProtection from white<br>{B}: Knight of Stromgald gains first strike until end of turn.<br>{B}{B}: Knight of Stromgald gets +1/+0 until end of turn.
+p204
+aVWhen you set this scheme in motion, it deals damage to each opponent equal to the number of cards in that player's hand.
+p205
+aVYou may cast Mystic Veil as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.<br>Enchant creature<br>Enchanted creature has shroud. <i>(It can't be the target of spells or abilities.)</i>
+p206
+aVReturn target creature card from your graveyard to the battlefield. Put a +1/+1 counter on it.
+p207
+aV{2}, {T}: Exile the top card of your library face down.<br>{0}: Sacrifice Knowledge Vault. If you do, discard your hand, then put all cards exiled with Knowledge Vault into their owner's hand.<br>When Knowledge Vault leaves the battlefield, put all cards exiled with Knowledge Vault into their owner's graveyard.
+p208
+aVFirst strike<br>Lifelink <i>(Damage dealt by this creature also causes you to gain that much life.)</i>
+p209
+aVWhenever a Goblin you control dies, you may put a +1/+1 counter on Knucklebone Witch.
+p210
+aVIf Leyline of Sanctity is in your opening hand, you may begin the game with it on the battlefield.<br>You have hexproof. <i>(You can't be the target of spells or abilities your opponents control.)</i>
+p211
+aVPhantom Warrior is unblockable.
+p212
+asS'costs'
+p213
+(lp214
+V{B}{B}
+p215
+aV{5}{U}{U}
+p216
+aV{2}{W}
+p217
+aV{2}{B}
+p218
+aV{1}{W}{W}
+p219
+aV{1}{W}
+p220
+aV{W}{W}
+p221
+aV{1}{G}{W}
+p222
+aV{W}{W}
+p223
+aV{G}{W}
+p224
+aV{1}{W}{W}
+p225
+aV{1}{B}{B}
+p226
+aV{1}{B}{B}
+p227
+aV{5}{R}
+p228
+aV{3}{W}
+p229
+aV{6}
+p230
+aV{1}{W}
+p231
+aV{4}
+p232
+aV{B}{B}
+p233
+aV{1}{G}{W}
+p234
+aV{R}{G}{W}
+p235
+aV{W}{W}
+p236
+aV{1}{W}
+p237
+aV{X}{B}
+p238
+aV{1}{W}{B}
+p239
+aV{B}{B}
+p240
+aV{2}{U}
+p241
+aV{U}{B}
+p242
+aV{W}{W}
+p243
+aV{1}{W}
+p244
+aV{2}{W}
+p245
+aV{2}{W}
+p246
+aV{1}{R}
+p247
+aV{3}{U}
+p248
+aV{5}{R}{R}
+p249
+aV{1}{R}{R}
+p250
+aV{1}{W}
+p251
+aV{3}{W}
+p252
+aV{3}{W}
+p253
+aV{U}
+p254
+aV{2}{G}{W}
+p255
+aV{G}{W}
+p256
+aV{B}{B}
+p257
+aS'0'
+p258
+aV{2}{U}
+p259
+aV{2}{W}
+p260
+aV{4}
+p261
+aV{W}{W}
+p262
+aV{1}{R}
+p263
+aV{1}{U}
+p264
+aV{1}{W}
+p265
+asS'names'
+p266
+(lp267
+VKnight of Stromgald
+p268
+aVKnowledge Exploitation
+p269
+aVKnight of Glory
+p270
+aVKnight of Infamy
+p271
+aVKnight Exemplar
+p272
+aVKnight of Cliffhaven
+p273
+aVKnight of Meadowgrain
+p274
+aVKnight of the Reliquary
+p275
+aVKnight of the White Orchid
+p276
+aVKnotvine Paladin
+p277
+aVKnight Of Dawn (Knight of Dawn)
+p278
+aVKnight of Dusk
+p279
+aVKnight of Dusk
+p280
+aVKnight of the Reliquary
+p281
+aVKnights of Thorn
+p282
+aVKnowledge Pool
+p283
+aVKnight Errant
+p284
+aVKnowledge Vault
+p285
+aVKnight of Stromgald
+p286
+aVKnight of the Reliquary
+p287
+aVKnotvine Mystic
+p288
+aVKnight of the Holy Nimbus
+p289
+aVKnightly Valor
+p290
+aVKnight of Obligation
+p291
+aVKnight Watch
+p292
+aVKnight of Stromgald
+p293
+aVKnight of the Skyward Eye
+p294
+aVKnight of the White Orchid
+p295
+aVKnight-Captain of Eos
+p296
+aVKnight Errant
+p297
+aVKnighthood
+p298
+aVKnighthood
+p299
+aVKnight of Cliffhaven
+p300
+aVKnacksaw Clique
+p301
+aVKnollspine Dragon
+p302
+aVKnollspine Invocation
+p303
+aVKnight Errant
+p304
+aVKnight of Sursi
+p305
+aVKnights of Thorn
+p306
+aVKnowledge and Power
+p307
+aVKnight of New Alara
+p308
+aVKnotvine Paladin
+p309
+aVKnight of Stromgald
+p310
+aVKnow Naught but Fire
+p311
+aVKnight of the Mists
+p312
+aVKnight of Valor
+p313
+aVKnowledge Vault
+p314
+aVKnight of Meadowgrain
+p315
+aVKnucklebone Witch
+p316
+aVKnight Exemplar
+p317
+aVKnight Errant
+p318
+asS'toughs'
+p319
+(lp320
+V1
+p321
+aS'N/A'
+p322
+ag321
+aV3
+p323
+aV2
+p324
+ag324
+ag324
+ag324
+ag324
+ag324
+ag324
+ag321
+ag324
+ag324
+ag321
+ag322
+ag324
+ag322
+ag321
+ag324
+ag321
+ag323
+ag322
+ag323
+ag322
+ag323
+aV0
+p325
+ag321
+aV4
+p326
+ag324
+ag322
+ag322
+aV8
+p327
+aV5
+p328
+ag323
+ag322
+ag324
+ag323
+ag321
+ag322
+ag328
+ag321
+ag326
+ag322
+ag321
+ag328
+ag322
+ag324
+ag324
+ag326
+ag324
+asS'artists'
+p329
+(lp330
+VMark Poole
+p331
+aVDarrell Riche
+p332
+aVPeter Mohrbacher
+p333
+aVPeter Mohrbacher
+p334
+aVJason Chan
+p335
+aVMatt Cavotta
+p336
+aVLarry MacDougall
+p337
+aVWayne Reynolds
+p338
+aVMark Zug
+p339
+aVMatt Stewart
+p340
+aVRon Spencer
+p341
+aVRon Spencer
+p342
+aVrk post
+p343
+aS''
+p344
+aVChristopher Rush
+p345
+ag344
+aVDan Frazier
+p346
+aVJulie Baroh
+p347
+aVMark Poole
+p348
+aVMichael Komarck
+p349
+aVAriel Olivetti
+p350
+aVWayne England
+p351
+aVMatt Stewart
+p352
+aVRyan Barger
+p353
+aVMatt Stewart
+p354
+aVMark Poole
+p355
+aVMatt Stewart
+p356
+aVMark Zug
+p357
+aVChris Rahn
+p358
+aVMatthew D. Wilson
+p359
+aVGreg & Tim Hildebrandt
+p360
+aVKev Walker
+p361
+aVMatt Cavotta
+p362
+aVSteven Belledin
+p363
+aVSteve Prescott
+p364
+aVDave Dorman
+p365
+aVDan Frazier
+p366
+aVCyril Van Der Haegen
+p367
+aVChristopher Rush
+p368
+aVJung Park
+p369
+aVChris Rahn
+p370
+aVMatt Stewart
+p371
+aVMark Poole
+p372
+aVVal Mayerik
+p373
+aVHarold McNeill
+p374
+aVJeff Miracola
+p375
+aVAmy Weber
+p376
+aVLarry MacDougall
+p377
+aVJim Pavelec
+p378
+aVJason Chan
+p379
+aVDan Frazier
+p380
+asS'powers'
+p381
+(lp382
+g324
+ag322
+ag324
+ag324
+ag324
+ag324
+ag324
+ag324
+ag324
+ag324
+ag324
+ag324
+ag324
+ag324
+ag321
+ag322
+ag324
+ag322
+ag324
+ag324
+ag323
+ag323
+ag322
+ag324
+ag322
+ag321
+ag321
+ag328
+ag324
+ag324
+ag322
+ag322
+ag321
+ag328
+ag323
+ag322
+ag324
+ag324
+ag321
+ag322
+ag321
+ag328
+ag324
+ag322
+ag321
+ag323
+ag322
+ag324
+ag321
+aV6
+p383
+ag324
+asS'types'
+p384
+(lp385
+VCreature - Human Knight
+p386
+aVTribal Sorcery - Rogue
+p387
+aVCreature - Human Knight
+p388
+aVCreature - Human Knight
+p389
+aVCreature - Human Knight
+p390
+aVCreature - Kor Knight
+p391
+aVCreature - Kithkin Knight
+p392
+aVCreature - Human Knight
+p393
+aVCreature - Human Knight
+p394
+aVCreature - Human Knight
+p395
+aVCreature - Human Knight
+p396
+aVCreature - Human Knight
+p397
+aVCreature - Human Knight
+p398
+aVCreature - Human Knight
+p399
+aVCreature - Human Knight
+p400
+aVArtifact
+p401
+aVCreature - Human Knight
+p402
+aVArtifact
+p403
+aVCreature - Human Knight
+p404
+aVCreature - Human Knight
+p405
+aVCreature - Elf Druid
+p406
+aVCreature - Human Rebel Knight
+p407
+aVEnchantment - Aura
+p408
+aVCreature - Human Knight
+p409
+aVSorcery
+p410
+aVCreature - Human Knight
+p411
+aVCreature - Human Knight
+p412
+aVCreature - Human Knight
+p413
+aVCreature - Human Knight
+p414
+aVCreature - Human Knight
+p415
+aVEnchantment
+p416
+aVEnchantment
+p417
+aVCreature - Kor Knight
+p418
+aVCreature - Faerie Rogue
+p419
+aVCreature - Dragon
+p420
+aVEnchantment
+p421
+aVCreature - Human Knight
+p422
+aVCreature - Human Knight
+p423
+aVCreature - Human Knight
+p424
+aVEnchantment
+p425
+aVCreature - Human Knight
+p426
+aVCreature - Human Knight
+p427
+aVCreature - Human Knight
+p428
+aVScheme
+p429
+aVCreature - Human Knight
+p430
+aVCreature - Human Knight
+p431
+aVArtifact
+p432
+aVCreature - Kithkin Knight
+p433
+aVCreature - Goblin Shaman
+p434
+aVCreature - Human Knight
+p435
+aVCreature - Human Knight
+p436
+asS'numbers'
+p437
+(lp438
+V9
+p439
+aV38
+p440
+aV21
+p441
+aV96
+p442
+aV14
+p443
+ag326
+ag328
+ag321
+ag383
+aV10
+p444
+aV186
+p445
+aV277
+p446
+aV152
+p447
+ag344
+aV61
+p448
+aV111
+p449
+aV24
+p450
+aV198
+p451
+aV99
+p452
+aV113
+p453
+aV114
+p454
+aV26
+p455
+aV13
+p456
+aV18
+p457
+aV19
+p458
+aV310
+p459
+aV15
+p460
+aV16
+p461
+aV17
+p462
+aV24
+p463
+aV25
+p464
+aV12
+p465
+aV29
+p466
+aV42
+p467
+aV98
+p468
+aV99
+p469
+aV19
+p470
+aV10
+p471
+aV19
+p472
+aV101
+p473
+aV70
+p474
+aV71
+p475
+aV38
+p476
+aV23
+p477
+aV38
+p478
+aV87
+p479
+ag328
+aV28
+p480
+aV120
+p481
+aV20
+p482
+aV152
+p483
+as.

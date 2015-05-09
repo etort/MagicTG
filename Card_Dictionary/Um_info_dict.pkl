@@ -1,0 +1,160 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVRare
+p4
+aVCommon
+p5
+aVRare
+p6
+aVUncommon
+p7
+aVRare
+p8
+asS'editns'
+p9
+(lp10
+VEventide
+p11
+aVBetrayers of Kamigawa
+p12
+aVZendikar
+p13
+aVRise of the Eldrazi
+p14
+aVShadowmoor
+p15
+aVUrza's Saga
+p16
+asS'ids'
+p17
+(lp18
+V157399
+p19
+aV81979
+p20
+aV180447
+p21
+aV193416
+p22
+aV153317
+p23
+aV8810
+p24
+asS'texts'
+p25
+(lp26
+VChroma- Umbra Stalker's power and toughness are each equal to the number of black mana symbols in the mana costs of cards in your graveyard.
+p27
+aVEach time target permanent would deal damage to a creature or player this turn, it deals double that damage to that creature or player instead.<br>Splice onto Arcane {2}{R}{R} <i>(As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)</i>
+p28
+aVAt the beginning of your upkeep, you lose 1 life unless an opponent has 10 or less life.
+p29
+aVWhen Venerated Teacher enters the battlefield, put two level counters on each creature you control with level up.
+p30
+aVVigilance
+p31
+aV{4}, Sacrifice Copper Gnomes: You may put an artifact card from your hand onto the battlefield.
+p32
+asS'costs'
+p33
+(lp34
+V{4}{B}{B}{B}
+p35
+aV{2}
+p36
+aV{4}{R}
+p37
+aV{11}
+p38
+aV{3}
+p39
+aV{4}
+p40
+asS'names'
+p41
+(lp42
+VUmbra Stalker
+p43
+aVUmezawa's Jitte
+p44
+aVUmara Raptor
+p45
+aVUmbra Mystic
+p46
+aVUmbral Mantle
+p47
+aVUmbilicus
+p48
+asS'toughs'
+p49
+(lp50
+V*
+p51
+aS'N/A'
+p52
+aV2
+p53
+aV3
+p54
+ag52
+ag52
+asS'artists'
+p55
+(lp56
+VDaarken
+p57
+aVChristopher Moeller
+p58
+aVSam Wood
+p59
+aVMatt Stewart
+p60
+aVRichard Sardinha
+p61
+aVDermot Power
+p62
+asS'powers'
+p63
+(lp64
+g51
+ag52
+ag53
+aV10
+p65
+ag52
+ag52
+asS'types'
+p66
+(lp67
+VCreature - Elemental
+p68
+aVLegendary Artifact - Equipment
+p69
+aVCreature - Bird Ally
+p70
+aVCreature - Human Wizard
+p71
+aVArtifact - Equipment
+p72
+aVArtifact
+p73
+asS'numbers'
+p74
+(lp75
+V48
+p76
+aV163
+p77
+aV75
+p78
+aV52
+p79
+aV267
+p80
+aV312
+p81
+as.

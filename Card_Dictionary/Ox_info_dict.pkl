@@ -1,0 +1,120 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVUncommon
+p4
+aVUncommon
+p5
+aVCommon
+p6
+asS'editns'
+p7
+(lp8
+VScars of Mirrodin
+p9
+aVScars of Mirrodin
+p10
+aVDarksteel
+p11
+aVDarksteel
+p12
+asS'ids'
+p13
+(lp14
+V194213
+p15
+aV194281
+p16
+aV46012
+p17
+aV46164
+p18
+asS'texts'
+p19
+(lp20
+V{T}: Add {2} to your mana pool.
+p21
+aV{T}, Sacrifice Panic Spellbomb: Target creature can't block this turn.<br>When Panic Spellbomb is put into a graveyard from the battlefield, you may pay {R}. If you do, draw a card.
+p22
+aVDestroy target artifact. It can't be regenerated.
+p23
+aVAffinity for Mountains <i>(This spell costs {1} less to cast for each Mountain you control.)</i><br>Haste
+p24
+asS'costs'
+p25
+(lp26
+V{4}{R}{R}
+p27
+aV{1}
+p28
+aV{G}
+p29
+aV{6}
+p30
+asS'names'
+p31
+(lp32
+VOxidda Daredevil
+p33
+aVOxidda Scrapmelter
+p34
+aVOxidize
+p35
+aVOxidda Golem
+p36
+asS'toughs'
+p37
+(lp38
+V3
+p39
+aV5
+p40
+aS'N/A'
+p41
+ag41
+asS'artists'
+p42
+(lp43
+VPete Venters
+p44
+aVIgor Kieryluk
+p45
+aVKev Walker
+p46
+aVGreg Staples
+p47
+asS'powers'
+p48
+(lp49
+V4
+p50
+aV1
+p51
+ag41
+ag41
+asS'types'
+p52
+(lp53
+VCreature - Goblin Artificer
+p54
+aVCreature - Beast
+p55
+aVInstant
+p56
+aVArtifact Creature - Golem
+p57
+asS'numbers'
+p58
+(lp59
+V100
+p60
+aV101
+p61
+aV79
+p62
+aV135
+p63
+as.

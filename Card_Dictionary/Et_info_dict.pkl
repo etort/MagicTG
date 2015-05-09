@@ -1,0 +1,849 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVRare
+p4
+aVCommon
+p5
+aVRare
+p6
+aVUncommon
+p7
+aVRare
+p8
+aVUncommon
+p9
+aVUncommon
+p10
+aVCommon
+p11
+aVRare
+p12
+aVRare
+p13
+aVMythic Rare
+p14
+aVRare
+p15
+aVCommon
+p16
+aVUncommon
+p17
+aVRare
+p18
+aVCommon
+p19
+aVCommon
+p20
+aVMythic Rare
+p21
+aVRare
+p22
+aVRare
+p23
+aVUncommon
+p24
+aVCommon
+p25
+aVCommon
+p26
+aVMythic Rare
+p27
+aVUncommon
+p28
+aVUncommon
+p29
+aVRare
+p30
+aVUncommon
+p31
+aVCommon
+p32
+aVCommon
+p33
+aVCommon
+p34
+aVUncommon
+p35
+aVCommon
+p36
+aVCommon
+p37
+aVUncommon
+p38
+aVRare
+p39
+aVSpecial
+p40
+aVUncommon
+p41
+aVUncommon
+p42
+aVUncommon
+p43
+asS'editns'
+p44
+(lp45
+VMagic: The Gathering-Commander
+p46
+aVSaviors of Kamigawa
+p47
+aVFourth Edition
+p48
+aVScars of Mirrodin
+p49
+aVBorn of the Gods
+p50
+aVVintage Masters
+p51
+aVModern Masters
+p52
+aVModern Masters
+p53
+aVModern Masters
+p54
+aVModern Masters
+p55
+aVThe Dark
+p56
+aVConflux
+p57
+aVPlanechase 2012 Edition
+p58
+aVChampions of Kamigawa
+p59
+aVRavnica: City of Guilds
+p60
+aVCommander 2013 Edition
+p61
+aVTime Spiral
+p62
+aVReturn to Ravnica
+p63
+aVZendikar
+p64
+aVClassic Sixth Edition
+p65
+aVShards of Alara
+p66
+aVShards of Alara
+p67
+aVShards of Alara
+p68
+aVMagic 2015 Core Set
+p69
+aVNew Phyrexia
+p70
+aVFifth Dawn
+p71
+aVFifth Dawn
+p72
+aVScourge
+p73
+aVPlanechase
+p74
+aVAlara Reborn
+p75
+aVAlara Reborn
+p76
+aVAlara Reborn
+p77
+aVAlara Reborn
+p78
+aVFifth Edition
+p79
+aVArchenemy
+p80
+aVMirage
+p81
+aVMirage
+p82
+aVVanguard
+p83
+aVLegends
+p84
+aVDuel Decks: Izzet vs. Golgari
+p85
+aVLorwyn
+p86
+asS'ids'
+p87
+(lp88
+V247148
+p89
+aV87593
+p90
+aV2273
+p91
+aV215099
+p92
+aV378409
+p93
+aV382926
+p94
+aV370435
+p95
+aV370427
+p96
+aV370378
+p97
+aV370504
+p98
+aV1787
+p99
+aV175035
+p100
+aV265144
+p101
+aV80526
+p102
+aV89023
+p103
+aV376323
+p104
+aV108788
+p105
+aV265414
+p106
+aV189006
+p107
+aV15356
+p108
+aV174931
+p109
+aV175138
+p110
+aV176435
+p111
+aV383234
+p112
+aV217996
+p113
+aV51628
+p114
+aV72725
+p115
+aV44398
+p116
+aV205330
+p117
+aV179542
+p118
+aV179573
+p119
+aV179578
+p120
+aV179618
+p121
+aV4046
+p122
+aV220520
+p123
+aV3336
+p124
+aV3490
+p125
+aV182298
+p126
+aV1570
+p127
+aV292966
+p128
+aV139431
+p129
+asS'texts'
+p130
+(lp131
+VWhen Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand.
+p132
+aVSearch target opponent's library for an artifact, creature, enchantment, or land card. Put that card onto the battlefield under your control. Then that player shuffles his or her library.<br>Epic <i>(For the rest of the game, you can't cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability. You may choose a new target for the copy.)</i>
+p133
+aV{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.
+p134
+aVEach opponent loses X life. You gain life equal to the life lost this way.
+p135
+aVEnchant creature<br>Enchanted creature has "{1}{U}, {T}: Target player puts the top three cards of his or her library into his or her graveyard."
+p136
+aVExile target nonwhite attacking creature. You gain life equal to its toughness.
+p137
+aVSunburst <i>(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)</i><br>{1}, Remove four +1/+1 counters from Etched Oracle: Target player draws three cards.
+p138
+aVWhen Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand.
+p139
+aVArtifact spells you cast cost {1} less to cast.
+p140
+aVEach player who has cast a nonartifact spell this turn can't cast additional nonartifact spells.
+p141
+aVEternal Flame deals X damage to target opponent, where X is the number of Mountains you control. It deals half X damage, rounded up, to you.
+p142
+aV{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.
+p143
+aV{1}{U}{R}: Return Etherium-Horn Sorcerer to its owner's hand.<br>Cascade <i>(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</i>
+p144
+aVArcane spells you cast cost {1} less to cast.<br>Spirit creatures you control get +1/+1.
+p145
+aVConvoke <i>(Each creature you tap while casting this spell reduces its cost by {1} or by one mana of that creature's color.)</i><br>Tap two untapped creatures you control: Root-Kin Ally gets +2/+2 until end of turn.
+p146
+aVFlying<br>{3}{W}{W}: Return Eternal Dragon from your graveyard to your hand. Activate this ability only during your upkeep.<br>Plainscycling {2} <i>({2}, Discard this card: Search your library for a Plains card, reveal it, and put it into your hand. Then shuffle your library.)</i>
+p147
+aVEnchant creature<br>When Eternity Snare enters the battlefield, draw a card.<br>Enchanted creature doesn't untap during its controller's untap step.
+p148
+aVFlying<br>When Faerie Impostor enters the battlefield, sacrifice it unless you return another creature you control to its owner's hand.
+p149
+aVEternity Vessel enters the battlefield with X charge counters on it, where X is your life total.<br>Landfall- Whenever a land enters the battlefield under your control, you may have your life total become the number of charge counters on Eternity Vessel.
+p150
+aVFlying<br>Sacrifice Daraja Griffin: Destroy target black creature.
+p151
+aVMountainwalk
+p152
+aVCycling {2} <i>({2}, Discard this card: Draw a card.)</i><br>Unearth {1}{B} <i>({1}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</i>
+p153
+aVTarget player discards a card at random.<br>Cycling {5}{U}{B}{R} <i>({5}{U}{B}{R}, Discard this card: Draw a card.)</i><br>When you cycle Resounding Scream, target player discards two cards at random.
+p154
+aVAt the beginning of each upkeep, if an opponent lost life last turn, put a +1/+1 counter on target creature you control.
+p155
+aVEtched Monstrosity enters the battlefield with five -1/-1 counters on it.<br>{W}{U}{B}{R}{G}, Remove five -1/-1 counters from Etched Monstrosity: Target player draws three cards.
+p156
+aVSunburst <i>(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)</i><br>{T}: Double the number of +1/+1 counters on Solarion.
+p157
+aVAdd {R} to your mana pool for each tapped land your opponents control.
+p158
+aVFlying<br>{3}{W}{W}: Return Eternal Dragon from your graveyard to your hand. Activate this ability only during your upkeep.<br>Plainscycling {2} <i>({2}, Discard this card: Search your library for a Plains card, reveal it, and put it into your hand. Then shuffle your library.)</i>
+p159
+aVSunburst <i>(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)</i><br>{1}, Remove four +1/+1 counters from Etched Oracle: Target player draws three cards.
+p160
+aVExalted <i>(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</i>
+p161
+aVUnearth {1}{U}{B} <i>({1}{U}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</i>
+p162
+aVFlash<br>When Ethersworn Shieldmage enters the battlefield, prevent all damage that would be dealt to artifact creatures this turn.
+p163
+aVAt the beginning of your upkeep, choose one- You gain 2 life; or look at the top card of your library, then you may put that card into your graveyard; or each opponent loses 1 life.
+p164
+aVFlare deals 1 damage to target creature or player.<br><br>Draw a card at the beginning of the next turn's upkeep.
+p165
+aVFlash<br>When Ethersworn Shieldmage enters the battlefield, prevent all damage that would be dealt to artifact creatures this turn.
+p166
+aVPut target creature on top of its owner's library. If that creature is red, you may put it on the bottom of its owner's library instead.
+p167
+aVPut target land on top of its owner's library.
+p168
+aVYou may pay {W}{U}{B}{R}{G} rather than pay the mana cost for spells that you cast.
+p169
+aV{2}, {T}: Put a charge counter on Green Mana Battery.<br><br>{T}, Remove any number of charge counters from Green Mana Battery: Add {G} to your mana pool, then add an additional {G} to your mana pool for each charge counter removed this way.
+p170
+aVWhen Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand.
+p171
+aVFlying<br>Ethereal Whiskergill can't attack unless defending player controls an Island.
+p172
+asS'costs'
+p173
+(lp174
+V{1}{G}{G}
+p175
+aV{7}{U}{U}{U}
+p176
+aV{R}
+p177
+aV{5}{G}{G}
+p178
+aV{5}{U}
+p179
+aV{3}{G}
+p180
+aV{4}
+p181
+aV{1}{G}{G}
+p182
+aV{2}{W}{W}
+p183
+aV{1}{U}
+p184
+aV{2}{R}{R}
+p185
+aV{4}{U}
+p186
+aV{4}{U}{R}
+p187
+aV{W}
+p188
+aV{5}{U}
+p189
+aV{5}{W}{W}
+p190
+aV{5}{U}
+p191
+aV{W}
+p192
+aV{2}{W}{W}
+p193
+aV{2}{W}{W}{W}
+p194
+aV{2}{R}
+p195
+aV{2}{B}{B}
+p196
+aV{1}{U}
+p197
+aV{1}{U}
+p198
+aV{5}
+p199
+aV{1}{G}{G}
+p200
+aV{4}
+p201
+aV{5}{W}{W}
+p202
+aV{4}
+p203
+aV{W}{U}
+p204
+aV{3}{U}{B}
+p205
+aV{1}{W}{U}
+p206
+aV{1}{W}{U}{B}
+p207
+aV{R}
+p208
+aV{1}{W}{U}
+p209
+aV{3}{U}
+p210
+aV{2}{W}{W}{W}
+p211
+aS'0'
+p212
+aV{R}
+p213
+aV{1}{G}{G}
+p214
+aV{3}{U}
+p215
+asS'names'
+p216
+(lp217
+VEternal Witness
+p218
+aVEternal Dominion
+p219
+aVEternal Warrior
+p220
+aVEtched Champion
+p221
+aVEternity Snare
+p222
+aVEternal Dragon
+p223
+aVEtched Oracle
+p224
+aVEternal Witness
+p225
+aVEtherium Sculptor
+p226
+aVEthersworn Canonist
+p227
+aVEternal Flame
+p228
+aVEthersworn Adjudicator
+p229
+aVEtherium-Horn Sorcerer
+p230
+aVEthereal Haze
+p231
+aVEthereal Usher
+p232
+aVEternal Dragon
+p233
+aVEternity Snare
+p234
+aVEthereal Armor
+p235
+aVEternity Vessel
+p236
+aVEthereal Champion
+p237
+aVEthersworn Canonist
+p238
+aVEtherium Astrolabe
+p239
+aVEtherium Sculptor
+p240
+aVEternal Thirst
+p241
+aVEtched Monstrosity
+p242
+aVEternal Witness
+p243
+aVEtched Oracle
+p244
+aVEternal Dragon
+p245
+aVEtched Oracle
+p246
+aVEthercaste Knight
+p247
+aVEtherium Abomination
+p248
+aVEthersworn Shieldmage
+p249
+aVEtherwrought Page
+p250
+aVEternal Warrior
+p251
+aVEthersworn Shieldmage
+p252
+aVEther Well
+p253
+aVEthereal Champion
+p254
+aVEtched Oracle Avatar
+p255
+aVEternal Warrior
+p256
+aVEternal Witness
+p257
+aVEthereal Whiskergill
+p258
+asS'toughs'
+p259
+(lp260
+V1
+p261
+aS'N/A'
+p262
+ag262
+ag262
+ag262
+aV4
+p263
+ag262
+aV5
+p264
+ag262
+ag262
+ag262
+ag262
+ag262
+ag262
+ag263
+aV2
+p265
+ag262
+ag262
+ag262
+ag263
+ag262
+ag262
+ag262
+ag262
+ag262
+ag261
+ag262
+ag264
+ag262
+ag262
+ag262
+ag262
+ag262
+ag262
+ag262
+ag262
+ag261
+ag262
+ag262
+ag261
+aV3
+p266
+asS'artists'
+p267
+(lp268
+VTerese Nielsen
+p269
+aVShishizaru
+p270
+aVAnson Maddocks
+p271
+aVMatt Cavotta
+p272
+aVMin Yum
+p273
+aVAdam Rex
+p274
+aS''
+p275
+ag275
+ag275
+ag275
+aVMark Poole
+p276
+aVDan Scott
+p277
+ag275
+aVChris Appelhans
+p278
+aVMark A. Nelson
+p279
+aVAdam Rex
+p280
+aVDrew Tucker
+p281
+aVDaarken
+p282
+aVJohn Avon
+p283
+aVTerese Nielsen
+p284
+aVIzzy
+p285
+aVMichael Bruinsma
+p286
+aVSteven Belledin
+p287
+aVClint Cearley
+p288
+ag275
+aVTerese Nielsen
+p289
+aVMatt Cavotta
+p290
+aVJustin Sweet
+p291
+aVMatt Cavotta
+p292
+aVSteven Belledin
+p293
+aVMitch Cotie
+p294
+aVDaarken
+p295
+aVHoward Lyon
+p296
+aVAnson Maddocks
+p297
+aVDaarken
+p298
+aVCharles Gillespie
+p299
+aVTerese Nielsen
+p300
+aVUDON
+p301
+aVAnson Maddocks
+p302
+aVTerese Nielsen
+p303
+aVHoward Lyon
+p304
+asS'powers'
+p305
+(lp306
+g265
+ag262
+ag262
+ag262
+ag262
+ag263
+ag262
+ag264
+ag262
+ag262
+ag262
+ag262
+ag262
+ag262
+ag265
+ag265
+ag262
+ag262
+ag262
+ag266
+ag262
+ag262
+ag262
+ag262
+ag262
+ag261
+ag262
+ag264
+ag262
+ag262
+ag262
+ag262
+ag262
+ag262
+ag262
+ag262
+ag261
+ag262
+ag262
+ag265
+ag263
+asS'types'
+p307
+(lp308
+VCreature - Human Shaman
+p309
+aVSorcery
+p310
+aVEnchantment - Aura
+p311
+aVArtifact Creature - Soldier
+p312
+aVEnchantment - Aura
+p313
+aVCreature - Dragon Spirit
+p314
+aVArtifact Creature - Wizard
+p315
+aVCreature - Human Shaman
+p316
+aVArtifact Creature - Vedalken Artificer
+p317
+aVArtifact Creature - Human Cleric
+p318
+aVSorcery
+p319
+aVArtifact Creature - Vedalken Knight
+p320
+aVArtifact Creature - Minotaur Wizard
+p321
+aVInstant - Arcane
+p322
+aVCreature - Spirit
+p323
+aVCreature - Dragon Spirit
+p324
+aVEnchantment - Aura
+p325
+aVEnchantment - Aura
+p326
+aVArtifact
+p327
+aVCreature - Avatar
+p328
+aVArtifact Creature - Human Cleric
+p329
+aVArtifact
+p330
+aVArtifact Creature - Vedalken Artificer
+p331
+aVEnchantment - Aura
+p332
+aVArtifact Creature - Golem
+p333
+aVCreature - Human Shaman
+p334
+aVArtifact Creature - Wizard
+p335
+aVCreature - Dragon Spirit
+p336
+aVArtifact Creature - Wizard
+p337
+aVArtifact Creature - Human Knight
+p338
+aVArtifact Creature - Horror
+p339
+aVArtifact Creature - Vedalken Wizard
+p340
+aVArtifact
+p341
+aVEnchantment - Aura
+p342
+aVArtifact Creature - Vedalken Wizard
+p343
+aVInstant
+p344
+aVCreature - Avatar
+p345
+aVVanguard
+p346
+aVEnchantment - Aura
+p347
+aVCreature - Human Shaman
+p348
+aVCreature - Elemental
+p349
+asS'numbers'
+p350
+(lp351
+V152
+p352
+aV36
+p353
+aV202
+p354
+aV154
+p355
+aV37
+p356
+aV26
+p357
+ag275
+ag275
+ag275
+ag275
+aV48
+p358
+aV26
+p359
+aV77
+p360
+aV9
+p361
+aV47
+p362
+aV10
+p363
+aV61
+p364
+ag361
+aV200
+p365
+aV20
+p366
+aV10
+p367
+aV41
+p368
+aV42
+p369
+aV95
+p370
+aV135
+p371
+aV86
+p372
+aV121
+p373
+aV12
+p374
+aV113
+p375
+ag266
+aV20
+p376
+ag263
+aV108
+p377
+aV131
+p378
+aV84
+p379
+aV66
+p380
+aV269
+p381
+aV44
+p382
+aV219
+p383
+aV55
+p384
+aV60
+p385
+as.

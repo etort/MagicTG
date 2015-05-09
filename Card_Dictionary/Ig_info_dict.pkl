@@ -1,0 +1,239 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVUncommon
+p4
+aVUncommon
+p5
+aVUncommon
+p6
+aVUncommon
+p7
+aVRare
+p8
+aVCommon
+p9
+aVCommon
+p10
+aVUncommon
+p11
+aVUncommon
+p12
+asS'editns'
+p13
+(lp14
+VDuel Decks: Ajani vs. Nicol Bolas
+p15
+aVMagic 2010
+p16
+aVMercadian Masques
+p17
+aVConflux
+p18
+aVTime Spiral
+p19
+aVMagic: The Gathering\u2014Conspiracy
+p20
+aVAlara Reborn
+p21
+aVArchenemy
+p22
+aVMirage
+p23
+aVDissension
+p24
+asS'ids'
+p25
+(lp26
+V249410
+p27
+aV190544
+p28
+aV19778
+p29
+aV183056
+p30
+aV109756
+p31
+aV382287
+p32
+aV144276
+p33
+aV212587
+p34
+aV3253
+p35
+aV111281
+p36
+asS'texts'
+p37
+(lp38
+VHaste<br>Swampcycling {2}, mountaincycling {2} <i>({2}, Discard this card: Search your library for a Swamp or Mountain card, reveal it, and put it into your hand. Then shuffle your library.)</i>
+p39
+aVShroud <i>(This creature can't be the target of spells or abilities.)</i>
+p40
+aVFirst strike<br>{5}, {T}: Search your library for a Rebel permanent card with converted mana cost 4 or less and put it onto the battlefield. Then shuffle your library.
+p41
+aVIslandwalk, trample, shroud
+p42
+aVTarget player reveals a card at random from his or her hand. Ignite Memories deals damage to that player equal to that card's converted mana cost.<br>Storm <i>(When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)</i>
+p43
+aVIgnition Team enters the battlefield with X +1/+1 counters on it, where X is the number of tapped lands on the battlefield.<br>{2}{R}, Remove a +1/+1 counter from Ignition Team: Target land becomes a 4/4 red Elemental creature until end of turn. It's still a land.
+p44
+aVFlying<br>When you cast a spell, sacrifice Illusory Demon.
+p45
+aVWhen you set this scheme in motion, put a token onto the battlefield that's a copy of target permanent an opponent controls.
+p46
+aV{2}: Igneous Golem gains trample until end of turn.
+p47
+aVExile all cards from your hand face down. At the beginning of the next end step, return those cards to your hand, then draw a card.
+p48
+asS'costs'
+p49
+(lp50
+V{4}
+p51
+aV{2}
+p52
+aV{2}{W}
+p53
+aV{1}{R}
+p54
+aV{4}{R}
+p55
+aV{4}{G}{G}
+p56
+aV{4}{B}{R}
+p57
+aS'0'
+p58
+aV{5}
+p59
+aV{1}{R}
+p60
+asS'names'
+p61
+(lp62
+VIgneous Pouncer
+p63
+aVIgnite Disorder
+p64
+aVIgnoble Soldier
+p65
+aVIgnite Disorder
+p66
+aVIgnite Memories
+p67
+aVIgnition Team
+p68
+aVIgneous Pouncer
+p69
+aVIgnite the Cloneforge!
+p70
+aVIgneous Golem
+p71
+aVIgnorant Bliss
+p72
+asS'toughs'
+p73
+(lp74
+V2
+p75
+aS'N/A'
+p76
+aV3
+p77
+ag76
+ag76
+ag77
+ag75
+ag76
+ag76
+ag76
+asS'artists'
+p78
+(lp79
+VChippy
+p80
+aVZoltan Boros & Gabor Szikszai
+p81
+aVMark Romanoski
+p82
+aVZoltan Boros & Gabor Szikszai
+p83
+aVJustin Sweet
+p84
+aVKarl Kopinski
+p85
+aVChippy
+p86
+aVRalph Horsley
+p87
+aVAdam Rex
+p88
+aVShishizaru
+p89
+asS'powers'
+p90
+(lp91
+V5
+p92
+ag76
+ag77
+ag76
+ag76
+ag75
+ag75
+ag76
+ag76
+ag76
+asS'types'
+p93
+(lp94
+VCreature - Elemental
+p95
+aVInstant
+p96
+aVCreature - Human Soldier
+p97
+aVInstant
+p98
+aVSorcery
+p99
+aVCreature - Goblin Warrior
+p100
+aVCreature - Elemental
+p101
+aVScheme
+p102
+aVArtifact Creature - Golem
+p103
+aVInstant
+p104
+asS'numbers'
+p105
+(lp106
+V57
+p107
+aV141
+p108
+aV22
+p109
+aV66
+p110
+aV164
+p111
+aV34
+p112
+aV40
+p113
+aV19
+p114
+aV10
+p115
+aV64
+p116
+as.

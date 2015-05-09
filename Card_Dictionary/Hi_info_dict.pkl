@@ -1,0 +1,1892 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVCommon
+p4
+aVRare
+p5
+aVCommon
+p6
+aVRare
+p7
+aVCommon
+p8
+aVCommon
+p9
+aVCommon
+p10
+aVUncommon
+p11
+aVUncommon
+p12
+aVCommon
+p13
+aVUncommon
+p14
+aVUncommon
+p15
+aVRare
+p16
+aVCommon
+p17
+aVUncommon
+p18
+aVCommon
+p19
+aVRare
+p20
+aVCommon
+p21
+aVCommon
+p22
+aVCommon
+p23
+aVCommon
+p24
+aVUncommon
+p25
+aVCommon
+p26
+aVCommon
+p27
+aVRare
+p28
+aVCommon
+p29
+aVMythic Rare
+p30
+aVUncommon
+p31
+aVCommon
+p32
+aVRare
+p33
+aVCommon
+p34
+aVUncommon
+p35
+aVRare
+p36
+aVRare
+p37
+aVUncommon
+p38
+aVRare
+p39
+aVRare
+p40
+aVRare
+p41
+aVUncommon
+p42
+aVUncommon
+p43
+aVRare
+p44
+aVUncommon
+p45
+aVCommon
+p46
+aVUncommon
+p47
+aVCommon
+p48
+aVCommon
+p49
+aVUncommon
+p50
+aVCommon
+p51
+aVCommon
+p52
+aVUncommon
+p53
+aVCommon
+p54
+aVRare
+p55
+aVCommon
+p56
+aVRare
+p57
+aVCommon
+p58
+aVRare
+p59
+aVUncommon
+p60
+aVRare
+p61
+aVRare
+p62
+aVUncommon
+p63
+aVCommon
+p64
+aVUncommon
+p65
+aVUncommon
+p66
+aVUncommon
+p67
+aVUncommon
+p68
+aVCommon
+p69
+aVUncommon
+p70
+aVCommon
+p71
+aVCommon
+p72
+aVRare
+p73
+aVCommon
+p74
+aVUncommon
+p75
+aVCommon
+p76
+aVRare
+p77
+aVSpecial
+p78
+aVRare
+p79
+aVCommon
+p80
+aVCommon
+p81
+aVCommon
+p82
+aVUncommon
+p83
+aVRare
+p84
+aVRare
+p85
+aVUncommon
+p86
+aVRare
+p87
+aVUncommon
+p88
+aVCommon
+p89
+aVUncommon
+p90
+aVCommon
+p91
+aVCommon
+p92
+aVCommon
+p93
+aVCommon
+p94
+aVCommon
+p95
+asS'editns'
+p96
+(lp97
+VMagic 2012
+p98
+aVLimited Edition Beta
+p99
+aVSaviors of Kamigawa
+p100
+aVFourth Edition
+p101
+aVMagic 2010
+p102
+aVMagic 2014 Core Set
+p103
+aVTenth Edition
+p104
+aVTenth Edition
+p105
+aVTenth Edition
+p106
+aVTenth Edition
+p107
+aVMercadian Masques
+p108
+aVMercadian Masques
+p109
+aVMercadian Masques
+p110
+aVMercadian Masques
+p111
+aVMercadian Masques
+p112
+aVVintage Masters
+p113
+aVModern Masters
+p114
+aVThe Dark
+p115
+aVFallen Empires
+p116
+aVFallen Empires
+p117
+aVFallen Empires
+p118
+aVRevised Edition
+p119
+aVGuildpact
+p120
+aVNinth Edition
+p121
+aVNinth Edition
+p122
+aVPlanechase 2012 Edition
+p123
+aVPlanechase 2012 Edition
+p124
+aVFrom the Vault: Realms
+p125
+aVChampions of Kamigawa
+p126
+aVChampions of Kamigawa
+p127
+aVChampions of Kamigawa
+p128
+aVChampions of Kamigawa
+p129
+aVChampions of Kamigawa
+p130
+aVChampions of Kamigawa
+p131
+aVBetrayers of Kamigawa
+p132
+aVBetrayers of Kamigawa
+p133
+aVOdyssey
+p134
+aVTime Spiral
+p135
+aVGatecrash
+p136
+aVGatecrash
+p137
+aVExodus
+p138
+aVColdsnap
+p139
+aVColdsnap
+p140
+aVUnlimited Edition
+p141
+aVIce Age
+p142
+aVZendikar
+p143
+aVZendikar
+p144
+aVClassic Sixth Edition
+p145
+aVShards of Alara
+p146
+aVShards of Alara
+p147
+aVSeventh Edition
+p148
+aVSeventh Edition
+p149
+aVUrza's Legacy
+p150
+aVScourge
+p151
+aVPortal Second Age
+p152
+aVPlanechase
+p153
+aVUrza's Saga
+p154
+aVUrza's Saga
+p155
+aVUrza's Saga
+p156
+aVUrza's Saga
+p157
+aVUrza's Saga
+p158
+aVUrza's Saga
+p159
+aVUrza's Saga
+p160
+aVMasters Edition
+p161
+aVWeatherlight
+p162
+aVEighth Edition
+p163
+aVEighth Edition
+p164
+aVPremium Deck Series: Graveborn
+p165
+aVFifth Edition
+p166
+aVFifth Edition
+p167
+aVKhans of Tarkir
+p168
+aVKhans of Tarkir
+p169
+aVKhans of Tarkir
+p170
+aVDuel Decks: Jace vs. Vraska
+p171
+aVMirage
+p172
+aVVanguard
+p173
+aVInnistrad
+p174
+aVLimited Edition Alpha
+p175
+aVDragon's Maze
+p176
+aVDragon's Maze
+p177
+aVStronghold
+p178
+aVStronghold
+p179
+aVDissension
+p180
+aVDissension
+p181
+aVDissension
+p182
+aVDissension
+p183
+aVLorwyn
+p184
+aVPremium Deck Series: Slivers
+p185
+aVPortal
+p186
+aVPortal
+p187
+aVDark Ascension
+p188
+aVDark Ascension
+p189
+aVDark Ascension
+p190
+asS'ids'
+p191
+(lp192
+V220304
+p193
+aV500
+p194
+aV88818
+p195
+aV2284
+p196
+aV190556
+p197
+aV370817
+p198
+aV129564
+p199
+aV129591
+p200
+aV132145
+p201
+aV135234
+p202
+aV19646
+p203
+aV19814
+p204
+aV19838
+p205
+aV19890
+p206
+aV19585
+p207
+aV382974
+p208
+aV370386
+p209
+aV1768
+p210
+aV1874
+p211
+aV1873
+p212
+aV1872
+p213
+aV1299
+p214
+aV96922
+p215
+aV84505
+p216
+aV83120
+p217
+aV271181
+p218
+aV271160
+p219
+aV287336
+p220
+aV50426
+p221
+aV50439
+p222
+aV50474
+p223
+aV79149
+p224
+aV79204
+p225
+aV79222
+p226
+aV74448
+p227
+aV74476
+p228
+aV31867
+p229
+aV116387
+p230
+aV366266
+p231
+aV366459
+p232
+aV6169
+p233
+aV121139
+p234
+aV121259
+p235
+aV802
+p236
+aV2691
+p237
+aV180435
+p238
+aV180467
+p239
+aV14578
+p240
+aV174873
+p241
+aV177598
+p242
+aV13116
+p243
+aV25680
+p244
+aV12441
+p245
+aV45837
+p246
+aV6574
+p247
+aV205341
+p248
+aV5783
+p249
+aV5785
+p250
+aV5786
+p251
+aV5790
+p252
+aV5796
+p253
+aV5798
+p254
+aV5674
+p255
+aV159177
+p256
+aV4460
+p257
+aV47600
+p258
+aV45348
+p259
+aV270464
+p260
+aV4131
+p261
+aV4060
+p262
+aV386554
+p263
+aV386555
+p264
+aV386556
+p265
+aV380193
+p266
+aV3453
+p267
+aV182270
+p268
+aV241988
+p269
+aV205
+p270
+aV369021
+p271
+aV369048
+p272
+aV5168
+p273
+aV5169
+p274
+aV107315
+p275
+aV107387
+p276
+aV-107315
+p277
+aV-107387
+p278
+aV145971
+p279
+aV207907
+p280
+aV4343
+p281
+aV4344
+p282
+aV242503
+p283
+aV247125
+p284
+aV247122
+p285
+asS'texts'
+p286
+(lp287
+V+1: Draw a card. Target player puts the top card of his or her library into his or her graveyard.<br>0: Target player puts the top ten cards of his or her library into his or her graveyard.<br>-7: Any number of target players each draw twenty cards.
+p288
+aV{X}: You may choose a creature card in your hand whose mana cost could be paid by some amount of, or all of, the mana you spent on {X}. If you do, you may cast that card face down as a 2/2 creature spell without paying its mana cost. If the creature that spell becomes as it resolves has not been turned face up and would assign or deal damage, be dealt damage, or become tapped, instead it's turned face up and assigns or deals damage, is dealt damage, or becomes tapped. Activate this ability only any time you could cast a sorcery.
+p289
+aVIf target player has exactly 10 life, Hidetsugu's Second Rite deals 10 damage to that player.
+p290
+aVEnchant creature<br>Enchanted creature can attack as though it had haste.<br>{0}: Untap enchanted creature. Activate this ability only during your turn and only once each turn.
+p291
+aVEnchant creature<br>Enchanted creature can't attack or block, and its activated abilities can't be activated.<br>When enchanted creature becomes the target of a spell or ability, destroy Ice Cage.
+p292
+aVEnchant creature<br>Enchanted creature gets +4/+4.<br>When enchanted creature becomes the target of a spell or ability, sacrifice Illusionary Armor.
+p293
+aVIf a source would deal damage to a creature or player, it deals double that damage to that creature or player instead.
+p294
+aV{U}: Untap Horseshoe Crab.
+p295
+aVDraw two cards.
+p296
+aVWhen Denizen of the Deep enters the battlefield, return each other creature you control to its owner's hand.
+p297
+aVFlying<br>{7}, {T}: Search your library for a Rebel permanent card with converted mana cost 6 or less and put it onto the battlefield. Then shuffle your library.
+p298
+aV{2}: Target player discards a card. Any player may activate this ability but only any time he or she could cast a sorcery.
+p299
+aVHaste<br>If an opponent controls a Plains and you control a Mountain, you may cast Kyren Legate without paying its mana cost.
+p300
+aVSubterranean Hangar enters the battlefield tapped.<br>{T}: Put a storage counter on Subterranean Hangar.<br>{T}, Remove any number of storage counters from Subterranean Hangar: Add {B} to your mana pool for each storage counter removed this way.
+p301
+aVWhen Hunted Wumpus enters the battlefield, each other player may put a creature card from his or her hand onto the battlefield.
+p302
+aVTarget player discards two cards at random.
+p303
+aVMountainwalk
+p304
+aVGreen creatures have forestwalk.
+p305
+aVUntil end of turn, whenever a player taps an Island for mana, that player adds {U} to his or her mana pool <i>(in addition to the mana the land produces)</i>.
+p306
+aVUntil end of turn, whenever a player taps an Island for mana, that player adds {U} to his or her mana pool <i>(in addition to the mana the land produces)</i>.
+p307
+aVUntil end of turn, whenever a player taps an Island for mana, that player adds {U} to his or her mana pool <i>(in addition to the mana the land produces)</i>.
+p308
+aVU
+p309
+aV<i>({T}: Add {U} or {R} to your mana pool.)</i><br>As Steam Vents enters the battlefield, you may pay 2 life. If you don't, Steam Vents enters the battlefield tapped.
+p310
+aVCreatures you control have flying.
+p311
+aV{T}: Untap target land.
+p312
+aVWhenever another creature dies, you may have Hissing Iguanar deal 1 damage to target player.
+p313
+aVEnchant creature<br>Enchanted creature gets +1/+1 and has first strike.<br>Totem armor <i>(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)</i>
+p314
+aV{T}: Add {1} to your mana pool.<br>{T}, Sacrifice a creature: You gain 1 life.
+p315
+aVBushido 2 <i>(When this blocks or becomes blocked, it gets +2/+2 until end of turn.)</i><br>{B}, Pay 5 life: Regenerate Numai Outcast.
+p316
+aVBushido 1 <i>(When this blocks or becomes blocked, it gets +1/+1 until end of turn.)</i>
+p317
+aVEquipped creature gets +3/+1.<br>Whenever equipped creature dies, return that card to the battlefield under your control if it's a Samurai card.<br>When Oathkeeper, Takeno's Daisho is put into a graveyard from the battlefield, exile equipped creature.<br>Equip {2}
+p318
+aVReturn target permanent to its owner's hand.
+p319
+aVWhenever you cast a Spirit or Arcane spell, Earthshaker deals 2 damage to each creature without flying.
+p320
+aVYou have no maximum hand size.
+p321
+aVFirst Volley deals 1 damage to target creature and 1 damage to that creature's controller.
+p322
+aVWhenever you cast a Spirit or Arcane spell, you may put a ki counter on Hired Muscle.<br>At the beginning of the end step, if there are two or more ki counters on Hired Muscle, you may flip it.<br>----<br>Scarmaker<br>Legendary Creature- Spirit<br>4/4<br>Remove a ki counter from Scarmaker: Target creature gains fear until end of turn. <i>(It can't be blocked except by artifact creatures and/or black creatures.)</i>
+p323
+aVEnchant land<br>Enchanted land has "{T}, Discard a card: Gain control of target creature until end of turn."
+p324
+aVCreatures you control are Slivers in addition to their other creature types.
+p325
+aVPrevent all combat damage that would be dealt this turn by creatures with no +1/+1 counters on them.
+p326
+aVCreatures you control get +0/+1 for each Gate you control and have vigilance.
+p327
+aVEach creature you control can block an additional creature.
+p328
+aVCumulative upkeep {1} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>Whenever you pay Hibernation's End's cumulative upkeep, you may search your library for a creature card with converted mana cost equal to the number of age counters on Hibernation's End and put it onto the battlefield. If you do, shuffle your library.
+p329
+aVTrample<br>When Aurochs Herd enters the battlefield, you may search your library for an Aurochs card, reveal it, and put it into your hand. If you do, shuffle your library.<br>Whenever Aurochs Herd attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.
+p330
+aVWhenever a player casts a red spell, you may pay {1}. If you do, you gain 1 life.
+p331
+aVChoose one- Counter target spell if it's red; or destroy target permanent if it's red.
+p332
+aVDestroy target nonblack creature. Its controller loses 2 life.
+p333
+aVWhenever Highland Berserker or another Ally enters the battlefield under your control, you may have Ally creatures you control gain first strike until end of turn.
+p334
+aVDestroy all green creatures. They can't be regenerated.
+p335
+aVSavage Lands enters the battlefield tapped.<br>{T}: Add {B}, {R}, or {G} to your mana pool.
+p336
+aVCounter target spell.
+p337
+aV{T}: Draw a card, then discard a card.
+p338
+aVCreatures can't block.
+p339
+aVWhen an opponent casts an instant spell, if Hidden Gibbons is an enchantment, Hidden Gibbons becomes a 4/4 Ape creature.
+p340
+aVCounter target spell unless its controller pays {2}.<br>Storm <i>(When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)</i>
+p341
+aVCounter target creature or sorcery spell.
+p342
+aVDestroy target nonblack creature. Its controller loses 2 life.
+p343
+aVWhenever an opponent casts a creature spell, if Opal Acrolith is an enchantment, Opal Acrolith becomes a 2/4 Soldier creature.<br>{0}: Opal Acrolith becomes an enchantment.
+p344
+aVWhen an opponent controls a creature with power 4 or greater, if Hidden Predators is an enchantment, Hidden Predators becomes a 4/4 Beast creature.
+p345
+aVWhen an opponent casts a creature spell, if Opal Archangel is an enchantment, Opal Archangel becomes a 5/5 Angel creature with flying and vigilance.
+p346
+aVWhen an opponent casts a creature spell, if Opal Gargoyle is an enchantment, Opal Gargoyle becomes a 2/2 Gargoyle creature with flying.
+p347
+aVWhen an opponent casts a spell, if Veiled Apparition is an enchantment, Veiled Apparition becomes a 3/3 Illusion creature with flying and "At the beginning of your upkeep, sacrifice Veiled Apparition unless you pay {1}{U}."
+p348
+aVCycling abilities you activate cost you up to {2} less to activate.
+p349
+aVAt the beginning of your upkeep, if you have a card in hand, return Imaginary Pet to its owner's hand.
+p350
+aVUntil end of turn, whenever a player taps an Island for mana, that player adds {U} to his or her mana pool <i>(in addition to the mana the land produces)</i>.
+p351
+aVWhen Hidden Horror enters the battlefield, sacrifice it unless you discard a creature card.
+p352
+aV{4}, {T}: Draw a card.
+p353
+aVLava Axe deals 5 damage to target player.
+p354
+aVWhen Hidden Horror enters the battlefield, sacrifice it unless you discard a creature card.
+p355
+aVIf you would draw a card during your draw step, instead you may skip that draw. If you do, until your next turn, you can't be attacked except by creatures with flying and/or islandwalk.
+p356
+aVEnchant creature<br>Enchanted creature can attack as though it had haste.<br>{0}: Untap enchanted creature. Activate this ability only during your turn and only once each turn.
+p357
+aVWhen Highland Game dies, you gain 2 life.
+p358
+aVFlying, trample
+p359
+aVHooded Hydra enters the battlefield with X +1/+1 counters on it.<br>When Hooded Hydra dies, put a 1/1 green Snake creature token onto the battlefield for each +1/+1 counter on it.<br>Morph {3}{G}{G}<br>As Hooded Hydra is turned face up, put five +1/+1 counters on it.
+p360
+aVWhen Highway Robber enters the battlefield, target opponent loses 2 life and you gain 2 life.
+p361
+aVYou may choose not to untap Hivis of the Scale during your untap step.<br>{T}: Gain control of target Dragon for as long as you control Hivis and Hivis remains tapped.
+p362
+aVWhenever a nontoken creature you control deals combat damage to an opponent, choose a creature card at random from your library, reveal that card, and put it into your hand. Then shuffle your library.
+p363
+aVMorbid- When Hollowhenge Scavenger enters the battlefield, if a creature died this turn, you gain 5 life.
+p364
+aV{1}: The next time a source of your choice would deal damage to target creature this turn, that source deals that damage to you instead.
+p365
+aV{T}: Add {U} or {R} to your mana pool.<br>{U}{R}, {T}, Sacrifice Izzet Cluestone: Draw a card.
+p366
+aVIzzet Guildgate enters the battlefield tapped.<br>{T}: Add {U} or {R} to your mana pool.
+p367
+aVAll Slivers have "Pay 2 life: Return this permanent to its owner's hand."
+p368
+aVPut a card from your hand on top of your library: Prevent all damage that would be dealt by target instant or sorcery spell this turn.
+p369
+aVPut target artifact or enchantment on the bottom of its owner's library.<br>
+p370
+aVTarget player sacrifices an artifact or creature. Hit deals damage to that player equal to that permanent's converted mana cost.<br>
+p371
+aV<br>Search target opponent's library for a card and exile it. You gain life equal to its converted mana cost. Then that player shuffles his or her library.
+p372
+aV<br>Attacking creatures you control get +1/+0 until end of turn for each other attacking creature.
+p373
+aVMountainwalk
+p374
+aVAll Slivers have "Pay 2 life: Return this permanent to its owner's hand."
+p375
+aVDestroy two target lands.
+p376
+aVR
+p377
+aVIntimidate <i>(This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)</i>
+p378
+aVAt the beginning of each upkeep, if no spells were cast last turn, transform Hinterland Hermit.
+p379
+aVHinterland Scourge must be blocked if able.<br>At the beginning of each upkeep, if a player cast two or more spells last turn, transform Hinterland Scourge.
+p380
+asS'costs'
+p381
+(lp382
+V{R}
+p383
+aV{3}{R}
+p384
+aV{3}{R}
+p385
+aV{3}{R}
+p386
+aV{2}{W}{W}
+p387
+aV{6}{G}
+p388
+aV{2}{B}{B}
+p389
+aV{3}{R}
+p390
+aV{W}
+p391
+aV{1}{B}{B}
+p392
+aS'0'
+p393
+aV{2}{U}
+p394
+aV{3}{R}
+p395
+ag393
+aV{2}{B}{B}
+p396
+aV{1}{G}
+p397
+aV{2}{W}{W}
+p398
+aV{2}{G}{G}{G}{G}
+p399
+aV{U}
+p400
+aV{U}
+p401
+aV{U}
+p402
+aV{3}{R}
+p403
+aV{1}{B}{B}
+p404
+aV{2}{B}{B}
+p405
+aV{3}{R}
+p406
+aV{3}{U}{U}
+p407
+aV{2}{R}
+p408
+ag393
+aV{1}{U}{U}
+p409
+aV{1}{U}
+p410
+aV{2}{U}{U}
+p411
+aV{1}{U}
+p412
+aV{2}{B}{B}
+p413
+aV{3}{W}{W}
+p414
+aV{3}{U}{U}
+p415
+aV{1}{B}{B}
+p416
+aV{2}{B}
+p417
+aV{2}
+p418
+aV{4}{R}{R}
+p419
+aV{2}{R}
+p420
+aV{W}
+p421
+aV{4}{G}
+p422
+ag393
+aV{3}{R}
+p423
+aV{1}{W}
+p424
+aV{4}{R}{R}
+p425
+aV{1}{B}{B}
+p426
+aV{1}{B}{B}
+p427
+aV{2}{B}
+p428
+aV{B}
+p429
+aV{2}{U}
+p430
+aV{3}{R}
+p431
+aV{G}
+p432
+aV{3}{U}
+p433
+aV{1}{B}{B}
+p434
+aV{1}{B}{B}
+p435
+aV{G}
+p436
+aV{1}{G}
+p437
+aV{G}
+p438
+aV{1}{G}
+p439
+aV{G}
+p440
+aV{G}
+p441
+aV{2}{U}
+p442
+aV{U}
+p443
+aV{1}{B}{B}
+p444
+aV{2}{U}
+p445
+aV{3}{R}
+p446
+aV{1}{B}{B}
+p447
+aV{1}{W}
+p448
+aV{3}{R}
+p449
+aV{3}{W}
+p450
+aV{1}{G}
+p451
+aV{2}{R}{W}
+p452
+aV{2}{B}{B}
+p453
+aV{3}{R}{R}
+p454
+ag393
+ag393
+aV{3}{R}
+p455
+aV{1}{U}
+p456
+aV{2}{B}
+p457
+aV{U}{B}
+p458
+aV{2}{W}
+p459
+aV{R}{W}
+p460
+aV{1}{B}{R}
+p461
+aV{W}{B}
+p462
+aV{3}{R}{G}
+p463
+aV{5}{B}
+p464
+aV{U}{B}
+p465
+aV{2}{R}{R}
+p466
+aV{3}{R}
+p467
+aV{B}{B}
+p468
+aV{1}{R}
+p469
+ag393
+asS'names'
+p470
+(lp471
+VHideous Visage
+p472
+aVHill Giant
+p473
+aVHidetsugu's Second Rite
+p474
+aVHill Giant
+p475
+aVHive Mind
+p476
+aVHive Stirrings
+p477
+aVHighway Robber
+p478
+aVHill Giant
+p479
+aVHigh Ground
+p480
+aVHidden Horror
+p481
+aVHickory Woodlot
+p482
+aVHigh Seas
+p483
+aVHired Giant
+p484
+aVHigh Market
+p485
+aVHighway Robber
+p486
+aVHigh Tide
+p487
+aVHillcomber Giant
+p488
+aVHidden Path
+p489
+aVHigh Tide
+p490
+aVHigh Tide
+p491
+aVHigh Tide
+p492
+aVHill Giant
+p493
+aVHissing Miasma
+p494
+aVHighway Robber
+p495
+aVHill Giant
+p496
+aVHigure, the Still Wind
+p497
+aVHissing Iguanar
+p498
+aVHigh Market
+p499
+aVHinder
+p500
+aVHisoka's Defiance
+p501
+aVHisoka, Minamo Sensei
+p502
+aVHisoka's Guard
+p503
+aVHideous Laughter
+p504
+aVHikari, Twilight Guardian
+p505
+aVHigure, the Still Wind
+p506
+aVHired Muscle
+p507
+aVHint of Insanity
+p508
+aVHivestone
+p509
+aVHigh Priest of Penance
+p510
+aVHindervines
+p511
+aVHigh Ground
+p512
+aVHibernation's End
+p513
+aVHighland Weald
+p514
+aVHill Giant
+p515
+aVHipparion
+p516
+aVHideous End
+p517
+aVHighland Berserker
+p518
+aVHidden Horror
+p519
+aVHissing Iguanar
+p520
+aVHindering Light
+p521
+aVHibernation
+p522
+aVHill Giant
+p523
+aVHidden Gibbons
+p524
+aVHindering Touch
+p525
+aVHidden Horror
+p526
+aVHideous End
+p527
+aVHidden Herd
+p528
+aVHidden Ancients
+p529
+aVHidden Predators
+p530
+aVHidden Stag
+p531
+aVHidden Guerrillas
+p532
+aVHidden Spider
+p533
+aVHibernation
+p534
+aVHigh Tide
+p535
+aVHidden Horror
+p536
+aVHibernation
+p537
+aVHill Giant
+p538
+aVHidden Horror
+p539
+aVHipparion
+p540
+aVHill Giant
+p541
+aVHigh Sentinels of Arashin
+p542
+aVHighland Game
+p543
+aVHighspire Mantis
+p544
+aVHighway Robber
+p545
+aVHivis of the Scale
+p546
+aVHigure, the Still Wind Avatar
+p547
+aVHinterland Harbor
+p548
+aVHill Giant
+p549
+aVHidden Strings
+p550
+aVHired Torturer
+p551
+aVHibernation Sliver
+p552
+aVHidden Retreat
+p553
+aVHide // Seek (Hide)
+p554
+aVHit // Run (Hit)
+p555
+aVHide // Seek (Seek)
+p556
+aVHit // Run (Run)
+p557
+aVHillcomber Giant
+p558
+aVHibernation Sliver
+p559
+aVHighland Giant
+p560
+aVHill Giant
+p561
+aVHighborn Ghoul
+p562
+aVHinterland Hermit
+p563
+aVHinterland Scourge
+p564
+asS'toughs'
+p565
+(lp566
+S'N/A'
+p567
+aV3
+p568
+ag567
+aV4
+p569
+ag567
+ag567
+aV1
+p570
+aV2
+p571
+ag567
+ag570
+ag567
+ag567
+ag568
+ag567
+ag571
+ag567
+ag571
+ag567
+ag567
+ag567
+ag567
+ag571
+ag567
+ag571
+ag571
+ag571
+ag568
+ag567
+ag567
+ag567
+ag568
+ag570
+ag567
+ag569
+ag569
+ag571
+ag567
+ag567
+ag571
+ag567
+ag567
+ag567
+ag567
+ag568
+ag570
+ag567
+ag571
+ag569
+ag571
+ag567
+ag567
+ag570
+ag567
+ag567
+ag569
+ag567
+ag567
+ag567
+ag567
+ag567
+ag567
+ag567
+ag567
+ag567
+ag569
+ag567
+ag571
+ag569
+ag569
+ag568
+ag569
+ag570
+ag568
+ag571
+ag571
+ag567
+ag567
+ag571
+ag567
+ag568
+ag571
+ag567
+ag567
+ag567
+ag567
+ag567
+ag569
+ag571
+ag569
+ag568
+ag568
+ag570
+ag567
+asS'artists'
+p572
+(lp573
+S''
+p574
+aVDan Frazier
+p575
+aVJeff Miracola
+p576
+aVDan Frazier
+p577
+aVSteve Argyle
+p578
+aVMaciej Kuciara
+p579
+aVKev Walker
+p580
+aVKev Walker
+p581
+aVrk post
+p582
+aVBrom
+p583
+aVSean McConnell
+p584
+aVMassimilano Frezzato
+p585
+aVBen Thompson
+p586
+aVCarl Critchlow
+p587
+aVKev Walker
+p588
+aVEric Deschamps
+p589
+ag574
+aVRob Alexander
+p590
+aVAmy Weber
+p591
+aVDrew Tucker
+p592
+aVAnson Maddocks
+p593
+aVDan Frazier
+p594
+aVBen Thompson
+p595
+aVKev Walker
+p596
+aVDany Orizio
+p597
+ag574
+ag574
+aVCarl Critchlow
+p598
+aVWayne Reynolds
+p599
+aVGreg Hildebrandt
+p600
+aVDonato Giancola
+p601
+aVWayne England
+p602
+aVGreg Staples
+p603
+aVArnie Swekel
+p604
+aVChristopher Moeller
+p605
+aVArnie Swekel
+p606
+aVLuca Zontini
+p607
+aVDave Allsop
+p608
+aVMark Zug
+p609
+aVSvetlin Velinov
+p610
+aVrk post
+p611
+aVSteven Belledin
+p612
+aVJohn Avon
+p613
+aVDan Frazier
+p614
+aVDameon Willich
+p615
+aVZoltan Boros & Gabor Szikszai
+p616
+aVChris Rahn
+p617
+aVClint Langley
+p618
+aVBrandon Kitkouski
+p619
+aVChris Rahn
+p620
+aVMatt Cavotta
+p621
+aVOrizio Daniele
+p622
+aVUna Fricker
+p623
+aVGlen Angus
+p624
+aVBrom
+p625
+aVZoltan Boros & Gabor Szikszai
+p626
+aVAndrew Robinson
+p627
+aVDaren Bader
+p628
+aVJohn Matson
+p629
+aVBerry
+p630
+aVChristopher Moeller
+p631
+aVThomas M. Baxa
+p632
+aVScott Kirschner
+p633
+aVAnson Maddocks
+p634
+aVClint Langley
+p635
+aVMatt Cavotta
+p636
+aVDany Orizio
+p637
+ag574
+aVMargaret Organ-Kean
+p638
+aVCharles Gillespie
+p639
+aVJames Ryman
+p640
+aVJohn Severin Brassell
+p641
+aVIgor Kieryluk
+p642
+aVKev Walker
+p643
+aVAndrew Robinson
+p644
+aVUDON
+p645
+aVKarl Kopinski
+p646
+aVDan Frazier
+p647
+aVDaarken
+p648
+aVWinona Nelson
+p649
+aVScott Kirschner
+p650
+aVTerese Nielsen
+p651
+aVZoltan Boros & Gabor Szikszai
+p652
+aVDarrell Riche
+p653
+aVZoltan Boros & Gabor Szikszai
+p654
+aVDarrell Riche
+p655
+aVRalph Horsley
+p656
+aVScott Kirschner
+p657
+aVRon Spencer
+p658
+aVRandy Gallegos
+p659
+aVSteven Belledin
+p660
+aVDave Kendall
+p661
+aVLars Grant-West
+p662
+asS'powers'
+p663
+(lp664
+g567
+ag568
+ag567
+aV6
+p665
+ag567
+ag567
+ag570
+ag570
+ag567
+ag570
+ag567
+ag567
+ag568
+ag567
+ag571
+ag567
+ag571
+ag567
+ag567
+ag567
+ag567
+ag571
+ag567
+ag571
+ag570
+ag571
+ag570
+ag567
+ag567
+ag567
+ag570
+ag570
+ag567
+ag569
+ag568
+ag571
+ag567
+ag567
+ag571
+ag567
+ag567
+ag567
+ag567
+ag568
+ag570
+ag567
+aV5
+p666
+ag569
+ag570
+ag567
+ag567
+ag570
+ag567
+ag567
+ag569
+ag567
+ag567
+ag567
+ag567
+ag567
+ag567
+ag567
+ag567
+ag567
+ag666
+ag567
+ag571
+ag569
+aV8
+p667
+ag568
+ag568
+ag571
+ag568
+aV0
+p668
+ag571
+ag567
+ag567
+ag571
+ag567
+ag571
+ag571
+ag567
+ag567
+ag567
+ag567
+ag567
+ag568
+ag571
+ag568
+ag568
+ag568
+ag571
+ag567
+asS'types'
+p669
+(lp670
+VSorcery
+p671
+aVCreature - Giant
+p672
+aVInstant
+p673
+aVCreature - Giant
+p674
+aVEnchantment
+p675
+aVSorcery
+p676
+aVCreature - Human Rogue Mercenary
+p677
+aVCreature - Giant
+p678
+aVEnchantment
+p679
+aVCreature - Horror
+p680
+aVLand
+p681
+aVEnchantment
+p682
+aVCreature - Giant
+p683
+aVLand
+p684
+aVCreature - Human Rogue Mercenary
+p685
+aVInstant
+p686
+aVCreature - Giant Scout
+p687
+aVEnchantment
+p688
+aVInstant
+p689
+aVInstant
+p690
+aVInstant
+p691
+aVCreature - Giant
+p692
+aVEnchantment
+p693
+aVCreature - Human Rogue Mercenary
+p694
+aVCreature - Giant
+p695
+aVLegendary Creature - Human Ninja
+p696
+aVCreature - Lizard
+p697
+aVLand
+p698
+aVInstant
+p699
+aVInstant
+p700
+aVLegendary Creature - Human Wizard
+p701
+aVCreature - Human Wizard
+p702
+aVInstant - Arcane
+p703
+aVLegendary Creature - Spirit
+p704
+aVLegendary Creature - Human Ninja
+p705
+aVCreature - Human Warrior
+p706
+aVSorcery
+p707
+aVArtifact
+p708
+aVCreature - Human Cleric
+p709
+aVInstant
+p710
+aVEnchantment
+p711
+aVEnchantment
+p712
+aVSnow Land
+p713
+aVCreature - Giant
+p714
+aVCreature - Horse
+p715
+aVInstant
+p716
+aVCreature - Human Berserker Ally
+p717
+aVCreature - Horror
+p718
+aVCreature - Lizard
+p719
+aVInstant
+p720
+aVInstant
+p721
+aVCreature - Giant
+p722
+aVEnchantment
+p723
+aVInstant
+p724
+aVCreature - Horror
+p725
+aVInstant
+p726
+aVEnchantment
+p727
+aVEnchantment
+p728
+aVEnchantment
+p729
+aVEnchantment
+p730
+aVEnchantment
+p731
+aVEnchantment
+p732
+aVInstant
+p733
+aVInstant
+p734
+aVCreature - Horror
+p735
+aVInstant
+p736
+aVCreature - Giant
+p737
+aVCreature - Horror
+p738
+aVCreature - Horse
+p739
+aVCreature - Giant
+p740
+aVCreature - Bird Soldier
+p741
+aVCreature - Elk
+p742
+aVCreature - Insect
+p743
+aVCreature - Human Mercenary
+p744
+aVLegendary Creature - Viashino Shaman
+p745
+aVVanguard
+p746
+aVLand
+p747
+aVCreature - Giant
+p748
+aVSorcery
+p749
+aVCreature - Human Rogue
+p750
+aVCreature - Sliver
+p751
+aVEnchantment
+p752
+aVInstant
+p753
+aVInstant
+p754
+aVInstant
+p755
+aVInstant
+p756
+aVCreature - Giant Scout
+p757
+aVCreature - Sliver
+p758
+aVCreature - Giant
+p759
+aVCreature - Giant
+p760
+aVCreature - Zombie
+p761
+aVCreature - Human Werewolf
+p762
+aVTransform Creature - Werewolf
+p763
+asS'numbers'
+p764
+(lp765
+V100
+p766
+aV121
+p767
+aV102
+p768
+aV228
+p769
+aV54
+p770
+aV21
+p771
+aV150
+p772
+aV212
+p773
+aV20
+p774
+aV149
+p775
+aV319
+p776
+aV83
+p777
+aV194
+p778
+aV320
+p779
+aV139
+p780
+aV73
+p781
+ag574
+aV37
+p782
+aV23
+p783
+aV117
+p784
+aV118
+p785
+aV151
+p786
+aV51
+p787
+aV138
+p788
+aV197
+p789
+aV97
+p790
+aV98
+p791
+aV9
+p792
+aV65
+p793
+aV67
+p794
+aV66
+p795
+aV68
+p796
+aV115
+p797
+aV12
+p798
+aV37
+p799
+aV69a
+p800
+aV143
+p801
+aV256
+p802
+aV171
+p803
+aV124
+p804
+aV7
+p805
+aV110
+p806
+aV147
+p807
+aV125
+p808
+aV290
+p809
+aV98
+p810
+aV132
+p811
+aV137
+p812
+aV104
+p813
+aV173
+p814
+aV79
+p815
+aV196
+p816
+aV104
+p817
+aV37
+p818
+aV115
+p819
+aV31
+p820
+aV262
+p821
+aV260
+p822
+aV263
+p823
+aV265
+p824
+aV261
+p825
+aV264
+p826
+aV79
+p827
+aV35
+p828
+aV145
+p829
+aV82
+p830
+aV194
+p831
+ag574
+aV179
+p832
+aV296
+p833
+aV13
+p834
+aV135
+p835
+aV177
+p836
+aV61
+p837
+aV151
+p838
+aV47
+p839
+aV241
+p840
+aV167
+p841
+aV12
+p842
+aV25
+p843
+aV45
+p844
+aV46
+p845
+aV151
+p846
+aV152
+p847
+aV151
+p848
+aV152
+p849
+aV20
+p850
+aV12
+p851
+aV64
+p852
+aV142
+p853
+aV68
+p854
+aV94
+p855
+aV94
+p856
+as.

@@ -1,0 +1,160 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVCommon
+p4
+aVUncommon
+p5
+aVCommon
+p6
+aVCommon
+p7
+aVRare
+p8
+asS'editns'
+p9
+(lp10
+VMagic 2013
+p11
+aVMagic 2013
+p12
+aVAvacyn Restored
+p13
+aVPortal Three Kingdoms
+p14
+aVPortal Three Kingdoms
+p15
+aVPortal Three Kingdoms
+p16
+asS'ids'
+p17
+(lp18
+V249680
+p19
+aV265840
+p20
+aV240157
+p21
+aV10537
+p22
+aV10542
+p23
+aV10577
+p24
+asS'texts'
+p25
+(lp26
+V{4}, {T}: Draw a card.
+p27
+aVEquipped creature gets +1/+0 and has flying.<br>Equip {2} <i>({2}: Attach to target creature you control. Equip only as a sorcery.)</i>
+p28
+aVHaste<br>When Zealous Conscripts enters the battlefield, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn.
+p29
+aVYellow Scarves Troops can't block.
+p30
+aV{T}: Target opponent discards two cards. Activate this ability only during your turn, before attackers are declared.
+p31
+aVDestroy target nonblack creature. You gain 3 life.
+p32
+asS'costs'
+p33
+(lp34
+V{3}{G}
+p35
+aV{4}{G}
+p36
+aV{1}{G}{G}
+p37
+aV{1}{R}
+p38
+aV{1}{R}
+p39
+aV{3}{R}
+p40
+asS'names'
+p41
+(lp42
+VYeva, Nature's Herald
+p43
+aVYeva's Forcemage
+p44
+aVYew Spirit
+p45
+aVYellow Scarves Cavalry
+p46
+aVYellow Scarves Troops
+p47
+aVYellow Scarves General
+p48
+asS'toughs'
+p49
+(lp50
+V7
+p51
+aV2
+p52
+aV3
+p53
+aV1
+p54
+ag52
+ag52
+asS'artists'
+p55
+(lp56
+VEric Deschamps
+p57
+aVD. Alexander Gregory
+p58
+aVDan Scott
+p59
+aVChen Weidong
+p60
+aVChen Weidong
+p61
+aVChen Weidong
+p62
+asS'powers'
+p63
+(lp64
+V4
+p65
+ag52
+ag53
+ag54
+ag52
+ag52
+asS'types'
+p66
+(lp67
+VLegendary Creature - Elf Shaman
+p68
+aVCreature - Elf Shaman
+p69
+aVCreature - Spirit Treefolk
+p70
+aVCreature - Human Soldier
+p71
+aVCreature - Human Soldier
+p72
+aVCreature - Human Soldier
+p73
+asS'numbers'
+p74
+(lp75
+V197
+p76
+aV198
+p77
+aV207
+p78
+aV125
+p79
+aV127
+p80
+aV126
+p81
+as.

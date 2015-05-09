@@ -1,0 +1,471 @@
+(dp0
+S'rares'
+p1
+(lp2
+VSpecial
+p3
+aVCommon
+p4
+aVCommon
+p5
+aVUncommon
+p6
+aVCommon
+p7
+aVMythic Rare
+p8
+aVCommon
+p9
+aVRare
+p10
+aVCommon
+p11
+aVRare
+p12
+aVRare
+p13
+aVCommon
+p14
+aVCommon
+p15
+aVCommon
+p16
+aVCommon
+p17
+aVCommon
+p18
+aVCommon
+p19
+aVCommon
+p20
+aVCommon
+p21
+aVCommon
+p22
+aVCommon
+p23
+aVCommon
+p24
+asS'editns'
+p25
+(lp26
+VAnthologies
+p27
+aVFourth Edition
+p28
+aVAntiquities
+p29
+aVMagic 2014 Core Set
+p30
+aVTenth Edition
+p31
+aVModern Masters
+p32
+aVMasters Edition III
+p33
+aVGuildpact
+p34
+aVConflux
+p35
+aVChampions of Kamigawa
+p36
+aVBetrayers of Kamigawa
+p37
+aVMirrodin
+p38
+aVShards of Alara
+p39
+aVTheros
+p40
+aVArchenemy
+p41
+aVArchenemy
+p42
+aVArchenemy
+p43
+aVMasters Edition IV
+p44
+aVStronghold
+p45
+aVDuel Decks: Izzet vs. Golgari
+p46
+aVPortal Three Kingdoms
+p47
+aVDark Ascension
+p48
+asS'ids'
+p49
+(lp50
+V-2146729901
+p51
+aV2083
+p52
+aV1035
+p53
+aV370600
+p54
+aV129790
+p55
+aV370574
+p56
+aV201145
+p57
+aV107093
+p58
+aV179891
+p59
+aV78590
+p60
+aV74526
+p61
+aV46026
+p62
+aV175078
+p63
+aV373572
+p64
+aV212618
+p65
+aV212588
+p66
+aV212609
+p67
+aV202548
+p68
+aV5274
+p69
+aV338474
+p70
+aV10584
+p71
+aV262872
+p72
+asS'texts'
+p73
+(lp74
+V({T}: Add {G} to your mana pool.)
+p75
+aVVigilance
+p76
+aVVigilance
+p77
+aS''
+p78
+aVDestroy all creatures. They can't be regenerated.
+p79
+aVFlying<br>When Yosei, the Morning Star dies, target player skips his or her next untap step. Tap up to five target permanents that player controls.
+p80
+ag78
+aVWhenever Glint-Eye Nephilim deals combat damage to a player, draw that many cards.<br>{1}, Discard a card: Glint-Eye Nephilim gets +1/+1 until end of turn.
+p81
+ag78
+aVDouble strike; bushido 2 <i>(When this blocks or becomes blocked, it gets +2/+2 until end of turn.)</i>
+p82
+aVDraw a card for each Spirit you control.
+p83
+ag78
+aV{1}{B}, Discard a card: Regenerate Viashino Skeleton.
+p84
+ag78
+aVWhen you set this scheme in motion, draw four cards. You have no maximum hand size until your next turn.
+p85
+aVWhen you set this scheme in motion, gain control of target creature an opponent controls until end of turn. Untap that creature. It gets +3/+3 and gains trample and haste until end of turn.
+p86
+aVDiscard two cards: Put a 2/2 black Zombie creature token onto the battlefield.
+p87
+ag78
+ag78
+aVEnchant creature<br>When a creature dies, destroy enchanted creature.
+p88
+aVForestwalk
+p89
+ag78
+asS'costs'
+p90
+(lp91
+V{1}{W}
+p92
+aV{3}
+p93
+aV{3}
+p94
+aV{X}{G}
+p95
+aV{1}{W}
+p96
+aV{4}{W}{W}
+p97
+aV{1}{B}
+p98
+aV{W}{U}{B}{R}
+p99
+aV{B}
+p100
+aV{4}{W}{W}
+p101
+aV{5}{W}{W}
+p102
+aV{3}
+p103
+aV{3}{R}
+p104
+aV{1}{W}{W}
+p105
+aS'0'
+p106
+ag106
+ag106
+aV{3}
+p107
+aV{1}{W}
+p108
+aV{1}{B}
+p109
+aV{1}{B}
+p110
+aV{3}{R}
+p111
+asS'names'
+p112
+(lp113
+VYouthful Knight
+p114
+aVYotian Soldier
+p115
+aVYotian Soldier
+p116
+aVYoung Pyromancer
+p117
+aVYouthful Knight
+p118
+aVYosei, the Morning Star
+p119
+aVYoung Wei Recruits
+p120
+aVYore-Tiller Nephilim
+p121
+aVYoke of the Damned
+p122
+aVYosei, the Morning Star
+p123
+aVYomiji, Who Bars the Way
+p124
+aVYotian Soldier
+p125
+aVYoked Plowbeast
+p126
+aVYoked Ox
+p127
+aVYour Fate Is Thrice Sealed
+p128
+aVYour Puny Minds Cannot Fathom
+p129
+aVYour Will Is Not Your Own
+p130
+aVYotian Soldier
+p131
+aVYouthful Knight
+p132
+aVYoke of the Damned
+p133
+aVYoung Wei Recruits
+p134
+aVYoung Wolf
+p135
+asS'toughs'
+p136
+(lp137
+V1
+p138
+aS'N/A'
+p139
+ag139
+aV5
+p140
+aV3
+p141
+ag140
+aV2
+p142
+ag142
+ag139
+ag140
+aV4
+p143
+ag139
+ag143
+ag141
+ag139
+ag139
+ag139
+ag139
+ag138
+ag139
+ag142
+ag138
+asS'artists'
+p144
+(lp145
+VRebecca Guay
+p146
+aVChristopher Rush
+p147
+aVChristopher Rush
+p148
+aVCynthia Sheppard
+p149
+aVRebecca Guay
+p150
+ag78
+aVQiao Dafu
+p151
+aVJeremy Jarvis
+p152
+aVPaul Bonner
+p153
+aVHiro Izawa
+p154
+aVHideaki Takamura
+p155
+aVLuca Zontini
+p156
+aVSteve Argyle
+p157
+aVRyan Yee
+p158
+aVSteve Prescott
+p159
+aVMartina Pilcerova
+p160
+aVAlex Horley-Orlandelli
+p161
+aVChristopher Rush
+p162
+aVRebecca Guay
+p163
+aVPaul Bonner
+p164
+aVLi Youliang
+p165
+ag78
+asS'powers'
+p166
+(lp167
+g138
+ag139
+ag139
+ag143
+aV0
+p168
+ag140
+ag138
+ag142
+ag139
+ag140
+ag143
+ag139
+ag142
+aV6
+p169
+ag139
+ag139
+ag139
+ag139
+ag142
+ag139
+ag142
+ag140
+asS'types'
+p170
+(lp171
+VCreature - Human Knight
+p172
+aVArtifact Creature - Soldier
+p173
+aVArtifact Creature - Soldier
+p174
+aVCreature - Human Shaman
+p175
+aVCreature - Human Knight
+p176
+aVLegendary Creature - Dragon Spirit
+p177
+aVCreature - Human Soldier
+p178
+aVCreature - Nephilim
+p179
+aVEnchantment - Aura
+p180
+aVLegendary Creature - Dragon Spirit
+p181
+aVLegendary Creature - Spirit
+p182
+aVArtifact Creature - Soldier
+p183
+aVCreature - Beast
+p184
+aVCreature - Ox
+p185
+aVScheme
+p186
+aVScheme
+p187
+aVScheme
+p188
+aVArtifact Creature - Soldier
+p189
+aVCreature - Human Knight
+p190
+aVEnchantment - Aura
+p191
+aVCreature - Human Soldier
+p192
+aVCreature - Wolf
+p193
+asS'numbers'
+p194
+(lp195
+V83
+p196
+aV46
+p197
+aV100
+p198
+aV163
+p199
+aV62
+p200
+ag78
+aV84
+p201
+aV140
+p202
+aV57
+p203
+aV50
+p204
+aV30
+p205
+aV277
+p206
+aV31
+p207
+aV37
+p208
+aV43
+p209
+aV44
+p210
+aV45
+p211
+aV240
+p212
+aV143
+p213
+aV68
+p214
+aV94
+p215
+aV134
+p216
+as.

@@ -1,0 +1,1194 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVUncommon
+p4
+aVCommon
+p5
+aVRare
+p6
+aVCommon
+p7
+aVRare
+p8
+aVUncommon
+p9
+aVRare
+p10
+aVRare
+p11
+aVRare
+p12
+aVRare
+p13
+aVUncommon
+p14
+aVRare
+p15
+aVUncommon
+p16
+aVCommon
+p17
+aVUncommon
+p18
+aVRare
+p19
+aVCommon
+p20
+aVRare
+p21
+aVRare
+p22
+aVCommon
+p23
+aVRare
+p24
+aVUncommon
+p25
+aVUncommon
+p26
+aVCommon
+p27
+aVRare
+p28
+aVUncommon
+p29
+aVCommon
+p30
+aVUncommon
+p31
+aVRare
+p32
+aVCommon
+p33
+aVRare
+p34
+aVRare
+p35
+aVRare
+p36
+aVCommon
+p37
+aVRare
+p38
+aVRare
+p39
+aVRare
+p40
+aVRare
+p41
+aVCommon
+p42
+aVCommon
+p43
+aVUncommon
+p44
+aVCommon
+p45
+aVRare
+p46
+aVUncommon
+p47
+aVUncommon
+p48
+aVRare
+p49
+aVUncommon
+p50
+aVRare
+p51
+aVCommon
+p52
+aVCommon
+p53
+aVRare
+p54
+aVRare
+p55
+aVUncommon
+p56
+aVCommon
+p57
+aVRare
+p58
+aVUncommon
+p59
+aVRare
+p60
+asS'editns'
+p61
+(lp62
+VMagic: The Gathering-Commander
+p63
+aVLimited Edition Beta
+p64
+aVLimited Edition Beta
+p65
+aVLimited Edition Beta
+p66
+aVMorningtide
+p67
+aVMorningtide
+p68
+aVFourth Edition
+p69
+aVFourth Edition
+p70
+aVBorn of the Gods
+p71
+aVMagic 2010
+p72
+aVTempest
+p73
+aVTenth Edition
+p74
+aVModern Masters
+p75
+aVThe Dark
+p76
+aVStarter 2000
+p77
+aVRevised Edition
+p78
+aVRevised Edition
+p79
+aVRevised Edition
+p80
+aVMasters Edition II
+p81
+aVGuildpact
+p82
+aVNinth Edition
+p83
+aVNinth Edition
+p84
+aVAvacyn Restored
+p85
+aVChampions of Kamigawa
+p86
+aVOdyssey
+p87
+aVOdyssey
+p88
+aVColdsnap
+p89
+aVUnlimited Edition
+p90
+aVUnlimited Edition
+p91
+aVUnlimited Edition
+p92
+aVIce Age
+p93
+aVIce Age
+p94
+aVClassic Sixth Edition
+p95
+aVClassic Sixth Edition
+p96
+aVSeventh Edition
+p97
+aVSeventh Edition
+p98
+aVSeventh Edition
+p99
+aVSeventh Edition
+p100
+aVDarksteel
+p101
+aVJudgment
+p102
+aVStarter 1999
+p103
+aVStarter 1999
+p104
+aVFifth Dawn
+p105
+aVPortal Second Age
+p106
+aVLegions
+p107
+aVDuel Decks: Venser vs. Koth
+p108
+aVUrza's Saga
+p109
+aVMasters Edition
+p110
+aVEighth Edition
+p111
+aVEighth Edition
+p112
+aVJourney into Nyx
+p113
+aVFifth Edition
+p114
+aVMirage
+p115
+aVLimited Edition Alpha
+p116
+aVLimited Edition Alpha
+p117
+aVLimited Edition Alpha
+p118
+aVMagic 2011
+p119
+aVPortal
+p120
+asS'ids'
+p121
+(lp122
+V247315
+p123
+aV487
+p124
+aV488
+p125
+aV489
+p126
+aV152710
+p127
+aV153135
+p128
+aV2271
+p129
+aV2272
+p130
+aV378438
+p131
+aV190551
+p132
+aV4756
+p133
+aV129554
+p134
+aV370530
+p135
+aV1733
+p136
+aV25455
+p137
+aV1287
+p138
+aV1289
+p139
+aV1288
+p140
+aV184776
+p141
+aV97238
+p142
+aV83064
+p143
+aV84541
+p144
+aV270987
+p145
+aV79214
+p146
+aV29769
+p147
+aV29918
+p148
+aV121254
+p149
+aV790
+p150
+aV789
+p151
+aV791
+p152
+aV2555
+p153
+aV2721
+p154
+aV14714
+p155
+aV14651
+p156
+aV15780
+p157
+aV12962
+p158
+aV11254
+p159
+aV13137
+p160
+aV46165
+p161
+aV35080
+p162
+aV21021
+p163
+aV20199
+p164
+aV73571
+p165
+aV6609
+p166
+aV42171
+p167
+aV270843
+p168
+aV5860
+p169
+aV159145
+p170
+aV45325
+p171
+aV47784
+p172
+aV380407
+p173
+aV4044
+p174
+aV3382
+p175
+aV192
+p176
+aV193
+p177
+aV194
+p178
+aV204986
+p179
+aV4335
+p180
+asS'texts'
+p181
+(lp182
+VEarthquake deals X damage to each creature without flying and each player.
+p183
+aVEnchant land<br>Enchanted land has "At the beginning of your upkeep, you may pay {W}{W}. If you do, you gain 1 life."
+p184
+aVYou may play any number of additional lands on each of your turns.<br>Whenever you play a land, if it wasn't the first land you played this turn, Fastbond deals 1 damage to you.
+p185
+aVEnchant creature <i>(Target a creature as you cast this. This card enters the battlefield attached to that creature.)</i><br>Enchanted creature has fear. <i>(It can't be blocked except by artifact creatures and/or black creatures.)</i>
+p186
+aVTarget creature gets +3/+3 until end of turn.<br>Reinforce 1\u2014{1}{G} <i>({1}{G}, Discard this card: Put a +1/+1 counter on target creature.)</i>
+p187
+aVWhen target creature dies this turn, return that card to the battlefield under its owner's control.
+p188
+aVFirst strike
+p189
+aVEnchant creature<br>Enchanted creature has vigilance.
+p190
+aVBestow {2}{W}{W} <i>(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)</i><br>Eidolon of Countless Battles and enchanted creature each get +1/+1 for each creature you control and +1/+1 for each Aura you control.
+p191
+aVForestwalk <i>(This creature is unblockable as long as defending player controls a Forest.)</i>
+p192
+aVOther Elf creatures have forestwalk.<br>Other Elves have shroud. <i>(They can't be the targets of spells or abilities.)</i>
+p193
+aVFlying
+p194
+aVProwl {2}{B} <i>(You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)</i><br>When Earwig Squad enters the battlefield, if its prowl cost was paid, search target opponent's library for three cards and exile them. Then that player shuffles his or her library.
+p195
+aV{0}: If Eater of the Dead is tapped, exile target creature card from a graveyard and untap Eater of the Dead.
+p196
+aVEnchant creature<br>Enchanted creature has flying.
+p197
+aVFlying<br>{R}: Granite Gargoyle gets +0/+1 until end of turn.
+p198
+aVKird Ape gets +1/+2 as long as you control a Forest.
+p199
+aVYou may play any number of additional lands on each of your turns.<br>Whenever you play a land, if it wasn't the first land you played this turn, Fastbond deals 1 damage to you.
+p200
+aVFirst strike, trample<br>At the beginning of your upkeep, put a -2/-2 counter on Ebon Praetor.<br>Sacrifice a creature: Remove a -2/-2 counter from Ebon Praetor. If the sacrificed creature was a Thrull, put a +1/+0 counter on Ebon Praetor. Activate this ability only during your upkeep and only once each turn.
+p201
+aVExile target card from a graveyard.<br>Draw a card.
+p202
+aVG
+p203
+ag203
+aVSoulbond <i>(You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)</i><br>As long as Elgaud Shieldmate is paired with another creature, both creatures have hexproof. <i>(They can't be the targets of spells or abilities your opponents control.)</i>
+p204
+aVUntaidake, the Cloud Keeper enters the battlefield tapped.<br>{T}, Pay 2 life: Add {2} to your mana pool. Spend this mana only to cast legendary spells.
+p205
+aVDestroy target land.<br>Flashback {5}{R}{R} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
+p206
+aVDestroy all creatures. They can't be regenerated.<br>Threshold- If seven or more cards are in your graveyard, instead destroy all creatures, then put two 1/1 white Spirit creature tokens with flying onto the battlefield. Creatures destroyed this way can't be regenerated.
+p207
+aVPrevent the next 2 damage that would be dealt to target creature or player this turn.<br>Draw a card at the beginning of the next turn's upkeep.
+p208
+aVEnchant creature<br>When Earthbind enters the battlefield, if enchanted creature has flying, Earthbind deals 2 damage to that creature and Earthbind gains "Enchanted creature loses flying."
+p209
+aVEnchant creature <i>(Target a creature as you cast this. This card enters the battlefield attached to that creature.)</i><br>Enchanted creature has fear. <i>(It can't be blocked except by artifact creatures and/or black creatures.)</i>
+p210
+aVEnchant enchantment<br>At the beginning of the upkeep of enchanted enchantment's controller, Feedback deals 1 damage to that player.
+p211
+aVDestroy all enchantments or all nonwhite enchantments.
+p212
+aVDestroy target creature unless its controller pays life equal to its toughness. A creature destroyed this way can't be regenerated.
+p213
+aV{T}: Target creature gets +1/+1 until end of turn.
+p214
+aV{T}: Femeref Archers deals 4 damage to target attacking creature with flying.
+p215
+aVEnchant creature <i>(Target a creature as you cast this. This card enters the battlefield attached to that creature.)</i><br>Enchanted creature has fear. <i>(It can't be blocked except by artifact creatures and/or black creatures.)</i>
+p216
+aVCreatures you control have haste.
+p217
+aVFlying
+p218
+aVFire Diamond enters the battlefield tapped.<br>{T}: Add {R} to your mana pool.
+p219
+aVFlying, trample<br>When Eater of Days enters the battlefield, you skip your next two turns.
+p220
+aVWhen Earsplitting Rats enters the battlefield, each player discards a card.<br>Discard a card: Regenerate Earsplitting Rats.
+p221
+aVHaste <i>(This creature can attack the turn it comes under your control.)</i>
+p222
+aVWhenever Goblin General attacks, Goblin creatures you control get +1/+1 until end of turn.
+p223
+aVChoose one- Change the text of target spell or permanent by replacing all instances of one basic land type with another; or change the text of target spell or permanent by replacing all instances of one color word with another. <i>(These effects last indefinitely.)</i><br>Entwine {2} <i>(Choose both if you pay the entwine cost.)</i>
+p224
+aVWhen Hidden Horror enters the battlefield, sacrifice it unless you discard a creature card.
+p225
+aV{2}{B}, {T}, Sacrifice a Goblin: Destroy target land.
+p226
+aVEarth Servant gets +0/+1 for each Mountain you control.
+p227
+aV{G}, {T}, Sacrifice Elvish Lyrist: Destroy target enchantment.
+p228
+aV{0}: If Eater of the Dead is tapped, exile target creature card from a graveyard and untap Eater of the Dead.
+p229
+aVWhenever a creature is dealt damage, destroy it. It can't be regenerated.
+p230
+aVFlying
+p231
+aVFlying, vigilance
+p232
+aVAll artifacts have "At the beginning of your upkeep, sacrifice this artifact unless you pay {2}."
+p233
+aVFlying, first strike
+p234
+aVTrample <i>(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</i><br>At the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}.
+p235
+ag203
+aVWhenever Fungusaur is dealt damage, put a +1/+1 counter on it.
+p236
+aV{1}, Sacrifice Ember Hauler: Ember Hauler deals 2 damage to target creature or player.
+p237
+ag203
+asS'costs'
+p238
+(lp239
+V{X}{R}
+p240
+aV{3}{R}{R}
+p241
+aV{R}
+p242
+aV{X}{R}
+p243
+aV{1}{G}
+p244
+aV{3}{B}{B}
+p245
+aV{3}{R}{R}
+p246
+aV{X}{R}
+p247
+aV{5}{B}{B}
+p248
+aV{1}{B}
+p249
+aV{1}{G}
+p250
+aV{3}{R}{R}
+p251
+aV{3}{B}{B}
+p252
+aV{4}{B}
+p253
+aV{W}
+p254
+aV{3}{R}{R}
+p255
+aV{X}{R}
+p256
+aV{R}
+p257
+aV{3}{B}{R}{G}
+p258
+aV{3}{G}
+p259
+aV{W}
+p260
+aV{1}{G}{G}
+p261
+aV{1}{G}{G}
+p262
+aV{4}{R}{R}
+p263
+aV{3}{R}
+p264
+aV{1}{W}
+p265
+aV{2}{R}
+p266
+aV{R}
+p267
+aV{3}{R}{R}
+p268
+aV{X}{R}
+p269
+aV{G}
+p270
+aV{3}{B}{R}{G}
+p271
+aV{1}{G}{G}
+p272
+aV{X}{R}
+p273
+aV{W}
+p274
+aV{1}{G}{G}
+p275
+aV{X}{R}
+p276
+aV{2}{B}{B}
+p277
+aV{4}
+p278
+aV{3}{B}
+p279
+aV{W}
+p280
+aV{3}{R}{R}
+p281
+aV{1}{U}
+p282
+aV{X}{R}
+p283
+aV{1}{B}
+p284
+aV{U}
+p285
+aV{2}{B}{B}
+p286
+aV{4}{B}
+p287
+aV{2}{B}{B}
+p288
+aV{W}
+p289
+aV{4}{B}
+p290
+aV{X}{R}
+p291
+aV{1}{G}{G}
+p292
+aV{3}{R}{R}
+p293
+aV{R}
+p294
+aV{X}{R}
+p295
+aV{B}
+p296
+aV{X}{R}
+p297
+asS'names'
+p298
+(lp299
+VEarthquake
+p300
+aVEarth Elemental
+p301
+aVEarthbind
+p302
+aVEarthquake
+p303
+aVEarthbrawn
+p304
+aVEarwig Squad
+p305
+aVEarth Elemental
+p306
+aVEarthquake
+p307
+aVEater of Hope
+p308
+aVEarthquake
+p309
+aVEarthcraft
+p310
+aVEarth Elemental
+p311
+aVEarwig Squad
+p312
+aVEater of the Dead
+p313
+aVEager Cadet
+p314
+aVEarth Elemental
+p315
+aVEarthquake
+p316
+aVEarthbind
+p317
+aVEarthlink
+p318
+aVEarth Surge
+p319
+aVEager Cadet
+p320
+aVEarly Harvest
+p321
+aVEaten by Spiders
+p322
+aVEarthshaker
+p323
+aVEarth Rift
+p324
+aVEarnest Fellowship
+p325
+aVEarthen Goo
+p326
+aVEarthbind
+p327
+aVEarth Elemental
+p328
+aVEarthquake
+p329
+aVEarthlore
+p330
+aVEarthlink
+p331
+aVEarly Harvest
+p332
+aVEarthquake
+p333
+aVEager Cadet
+p334
+aVEarly Harvest
+p335
+aVEarthquake
+p336
+aVEastern Paladin
+p337
+aVEater of Days
+p338
+aVEarsplitting Rats
+p339
+aVEager Cadet
+p340
+aVEarth Elemental
+p341
+aVEarly Frost
+p342
+aVEarthquake
+p343
+aVEarthblighter
+p344
+aVEarth Servant
+p345
+aVEastern Paladin
+p346
+aVEater of the Dead
+p347
+aVEastern Paladin
+p348
+aVEager Cadet
+p349
+aVEagle of the Watch
+p350
+aVEarthquake
+p351
+aVEarly Harvest
+p352
+aVEarth Elemental
+p353
+aVEarthbind
+p354
+aVEarthquake
+p355
+aVEarth Servant
+p356
+aVEarthquake
+p357
+asS'toughs'
+p358
+(lp359
+S'N/A'
+p360
+aV1
+p361
+ag360
+ag360
+ag360
+aV3
+p362
+aV4
+p363
+ag360
+ag363
+ag360
+ag360
+ag361
+aV2
+p364
+ag361
+ag361
+aV6
+p365
+ag360
+ag360
+ag360
+ag360
+aV5
+p366
+ag360
+ag360
+ag366
+ag360
+ag360
+ag362
+ag360
+ag361
+ag360
+ag360
+ag360
+ag360
+ag360
+ag361
+ag360
+ag360
+ag361
+ag360
+ag361
+ag361
+ag366
+ag360
+ag360
+ag361
+ag362
+ag362
+ag362
+ag362
+ag362
+ag364
+ag360
+ag360
+ag361
+ag360
+ag360
+aV9
+p367
+ag360
+asS'artists'
+p368
+(lp369
+VAdrian Smith
+p370
+aVDan Frazier
+p371
+aVQuinton Hoover
+p372
+aVDan Frazier
+p373
+aVKev Walker
+p374
+aVWarren Mahy
+p375
+aVDan Frazier
+p376
+aVDan Frazier
+p377
+aVPeter Mohrbacher
+p378
+aVAdrian Smith
+p379
+aVRandy Gallegos
+p380
+aVAnthony S. Waters
+p381
+aS''
+p382
+aVJesper Myrfors
+p383
+aVScott M. Fischer
+p384
+aVDan Frazier
+p385
+aVDan Frazier
+p386
+aVQuinton Hoover
+p387
+aVRichard Kane Ferguson
+p388
+aVLuca Zontini
+p389
+aVScott M. Fischer
+p390
+aVHeather Hudson
+p391
+aVAnthony Palumbo
+p392
+aVRon Spencer
+p393
+aVWayne England
+p394
+aVHeather Hudson
+p395
+aVNick Percival
+p396
+aVQuinton Hoover
+p397
+aVDan Frazier
+p398
+aVDan Frazier
+p399
+aVDrew Tucker
+p400
+aVRichard Kane Ferguson
+p401
+aVJanine Johnston
+p402
+aVRichard Kane Ferguson
+p403
+aVGreg & Tim Hildebrandt
+p404
+aVHeather Hudson
+p405
+aVFranz Vohwinkel
+p406
+aVKev Walker
+p407
+aVMark Tedin
+p408
+aVHeather Hudson
+p409
+aVScott M. Fischer
+p410
+aVDan Frazier
+p411
+aVBen Thompson
+p412
+aVJeffrey R. Busch
+p413
+aVAlex Horley-Orlandelli
+p414
+ag382
+aVCarl Critchlow
+p415
+aVJesper Myrfors
+p416
+aVCarl Critchlow
+p417
+aVGreg & Tim Hildebrandt
+p418
+aVScott Murphy
+p419
+aVRichard Kane Ferguson
+p420
+aVJanine Johnston
+p421
+aVDan Frazier
+p422
+aVQuinton Hoover
+p423
+aVDan Frazier
+p424
+aVLucas Graciano
+p425
+aVAdrian Smith
+p426
+asS'powers'
+p427
+(lp428
+g360
+ag361
+ag360
+ag360
+ag360
+ag366
+ag363
+ag360
+ag363
+ag360
+ag360
+ag361
+ag364
+aV0
+p429
+ag361
+ag366
+ag360
+ag360
+ag360
+ag360
+ag361
+ag360
+ag360
+ag363
+ag360
+ag360
+ag362
+ag360
+ag361
+ag360
+ag360
+ag360
+ag360
+ag360
+ag361
+ag360
+ag360
+ag361
+ag360
+ag364
+ag361
+ag363
+ag360
+ag360
+ag361
+ag366
+ag362
+ag361
+ag362
+ag364
+ag363
+ag360
+ag360
+ag361
+ag360
+ag360
+ag363
+ag360
+asS'types'
+p430
+(lp431
+VSorcery
+p432
+aVCreature - Elemental
+p433
+aVEnchantment - Aura
+p434
+aVSorcery
+p435
+aVInstant
+p436
+aVCreature - Goblin Rogue
+p437
+aVCreature - Elemental
+p438
+aVSorcery
+p439
+aVCreature - Demon
+p440
+aVSorcery
+p441
+aVEnchantment
+p442
+aVCreature - Elemental
+p443
+aVCreature - Goblin Rogue
+p444
+aVCreature - Horror
+p445
+aVCreature - Human Soldier
+p446
+aVCreature - Elemental
+p447
+aVSorcery
+p448
+aVEnchantment - Aura
+p449
+aVEnchantment
+p450
+aVEnchantment
+p451
+aVCreature - Human Soldier
+p452
+aVInstant
+p453
+aVInstant
+p454
+aVCreature - Spirit
+p455
+aVSorcery
+p456
+aVEnchantment
+p457
+aVCreature - Ooze
+p458
+aVEnchantment - Aura
+p459
+aVCreature - Elemental
+p460
+aVSorcery
+p461
+aVEnchantment - Aura
+p462
+aVEnchantment
+p463
+aVInstant
+p464
+aVSorcery
+p465
+aVCreature - Human Soldier
+p466
+aVInstant
+p467
+aVSorcery
+p468
+aVCreature - Zombie Knight
+p469
+aVArtifact Creature - Leviathan
+p470
+aVCreature - Rat
+p471
+aVCreature - Human Soldier
+p472
+aVCreature - Elemental
+p473
+aVInstant
+p474
+aVSorcery
+p475
+aVCreature - Human Cleric
+p476
+aVCreature - Elemental
+p477
+aVCreature - Zombie Knight
+p478
+aVCreature - Horror
+p479
+aVCreature - Zombie Knight
+p480
+aVCreature - Human Soldier
+p481
+aVCreature - Bird
+p482
+aVSorcery
+p483
+aVInstant
+p484
+aVCreature - Elemental
+p485
+aVEnchantment - Aura
+p486
+aVSorcery
+p487
+aVCreature - Elemental
+p488
+aVSorcery
+p489
+asS'numbers'
+p490
+(lp491
+V121
+p492
+aV83
+p493
+aV84
+p494
+aV85
+p495
+aV119
+p496
+aV60
+p497
+aV197
+p498
+aV198
+p499
+aV66
+p500
+aV134
+p501
+aV110
+p502
+aV199
+p503
+ag382
+aV17
+p504
+aV11
+p505
+aV39
+p506
+aV40
+p507
+aV114
+p508
+aV192
+p509
+aV84
+p510
+ag361
+aV235
+p511
+aV177
+p512
+aV165
+p513
+aV189
+p514
+aV21
+p515
+aV80
+p516
+ag367
+aV90
+p517
+aV91
+p518
+aV110
+p519
+aV210
+p520
+aV222
+p521
+aV173
+p522
+aV14
+p523
+aV237
+p524
+aV180
+p525
+aV132
+p526
+aV120
+p527
+aV65
+p528
+aV15
+p529
+aV95
+p530
+aV29
+p531
+aV101
+p532
+aV68
+p533
+ag382
+aV133
+p534
+aV67
+p535
+aV131
+p536
+ag361
+ag367
+aV258
+p537
+aV265
+p538
+aV138
+p539
+aV139
+p540
+aV140
+p541
+aV134
+p542
+aV120
+p543
+as.

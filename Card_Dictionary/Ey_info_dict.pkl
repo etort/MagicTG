@@ -1,0 +1,416 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVCommon
+p4
+aVRare
+p5
+aVRare
+p6
+aVCommon
+p7
+aVRare
+p8
+aVRare
+p9
+aVCommon
+p10
+aVUncommon
+p11
+aVUncommon
+p12
+aVUncommon
+p13
+aVRare
+p14
+aVMythic Rare
+p15
+aVRare
+p16
+aVRare
+p17
+aVRare
+p18
+aVCommon
+p19
+aVRare
+p20
+aVUncommon
+p21
+asS'editns'
+p22
+(lp23
+VFourth Edition
+p24
+aVBorn of the Gods
+p25
+aVMercadian Masques
+p26
+aVRevised Edition
+p27
+aVChampions of Kamigawa
+p28
+aVRavnica: City of Guilds
+p29
+aVCommander 2013 Edition
+p30
+aVReturn to Ravnica
+p31
+aVStarter 1999
+p32
+aVFifth Dawn
+p33
+aVPortal Second Age
+p34
+aVNemesis
+p35
+aVWorldwake
+p36
+aVFifth Edition
+p37
+aVVisions
+p38
+aVMasters Edition IV
+p39
+aVLorwyn
+p40
+aVLorwyn
+p41
+aVArabian Nights
+p42
+asS'ids'
+p43
+(lp44
+V2340
+p45
+aV378439
+p46
+aV19765
+p47
+aV1344
+p48
+aV79155
+p49
+aV83791
+p50
+aV376325
+p51
+aV253553
+p52
+aV21035
+p53
+aV73925
+p54
+aV6538
+p55
+aV21392
+p56
+aV197881
+p57
+aV4127
+p58
+aV3711
+p59
+aV202492
+p60
+aV139449
+p61
+aV143728
+p62
+aV972
+p63
+asS'texts'
+p64
+(lp65
+VEnchant creature<br>Enchanted creature has protection from green. This effect doesn't remove Green Ward.
+p66
+aVTarget creature you control deals damage equal to its power to another target creature.
+p67
+aV{T}: Add {1} to your mana pool.<br><br>{1}, {T}: Tap target land.
+p68
+aVEnchant creature<br>Enchanted creature has flying.
+p69
+aVAt the beginning of your upkeep, you gain 2 life for each Shrine you control.
+p70
+aVYou may have Copy Enchantment enter the battlefield as a copy of any enchantment on the battlefield.
+p71
+aVWhen Eye of Doom enters the battlefield, each player chooses a nonland permanent and puts a doom counter on it.<br>{2}, {T}, Sacrifice Eye of Doom: Destroy each permanent with a doom counter on it.
+p72
+aVDouble strike <i>(This creature deals both first-strike and regular combat damage.)</i>
+p73
+aVMountainwalk
+p74
+aVAt the beginning of each opponent's upkeep, Skullcage deals 2 damage to that player unless he or she has exactly three or exactly four cards in hand.
+p75
+aVTalas Warrior is unblockable.
+p76
+aV{3}, {T}, Sacrifice a creature: Reveal a number of cards from the top of your library equal to the sacrificed creature's power. Put one into your hand and exile the rest.
+p77
+aVColorless Eldrazi spells you cast cost {2} less to cast.<br>{7}, {T}: Search your library for a colorless creature card, reveal it, and put it into your hand. Then shuffle your library.
+p78
+aVFireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.<br>Fireball costs {1} more to cast for each target beyond the first.
+p79
+aVFlying, protection from red
+p80
+aVWhen Fire Imp enters the battlefield, it deals 2 damage to target creature.
+p81
+aVDestroy target non-Elf creature.
+p82
+aVWhenever an opponent casts a blue spell during your turn, you may put a 4/4 green Elemental creature token onto the battlefield.
+p83
+aVThe next time a source of your choice would deal damage to you this turn, instead that source deals that much damage to you and Eye for an Eye deals that much damage to that source's controller.
+p84
+asS'costs'
+p85
+(lp86
+V{W}{W}
+p87
+aV{B}
+p88
+aV{3}
+p89
+aV{W}{W}
+p90
+aV{U}{U}
+p91
+aV{5}{U}{U}
+p92
+aV{4}
+p93
+aV{3}{W}
+p94
+aV{U}
+p95
+aV{2}{U}
+p96
+aV{U}
+p97
+aV{3}
+p98
+aS'0'
+p99
+aV{W}{W}
+p100
+aV{3}{W}
+p101
+aV{W}{W}
+p102
+aV{2}{B}
+p103
+aV{B}
+p104
+aV{W}{W}
+p105
+asS'names'
+p106
+(lp107
+VEye for an Eye
+p108
+aVEye Gouge
+p109
+aVEye of Ramos
+p110
+aVEye for an Eye
+p111
+aVEye of Nowhere
+p112
+aVEye of the Storm
+p113
+aVEye of Doom
+p114
+aVEyes in the Skies
+p115
+aVEye Spy
+p116
+aVEyes of the Watcher
+p117
+aVEye Spy
+p118
+aVEye of Yawgmoth
+p119
+aVEye of Ugin
+p120
+aVEye for an Eye
+p121
+aVEye of Singularity
+p122
+aVEye for an Eye
+p123
+aVEyeblight's Ending
+p124
+aVEyes of the Wisent
+p125
+aVEye for an Eye
+p126
+asS'toughs'
+p127
+(lp128
+S'N/A'
+p129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+asS'artists'
+p130
+(lp131
+VMark Poole
+p132
+aVTyler Jacobson
+p133
+aVDavid Martin
+p134
+aVMark Poole
+p135
+aVAlan Pollack
+p136
+aVHideaki Takamura
+p137
+aVYeong-Hao Han
+p138
+aVJames Ryman
+p139
+aVDiTerlizzi
+p140
+aVRon Spears
+p141
+aVDiTerlizzi
+p142
+aVDiTerlizzi
+p143
+aVJames Paick
+p144
+aVMark Poole
+p145
+aVEric Peterson
+p146
+aVMark Poole
+p147
+aVRon Spears
+p148
+aVAleksi Briclot
+p149
+aVMark Poole
+p150
+asS'powers'
+p151
+(lp152
+g129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+asS'types'
+p153
+(lp154
+VInstant
+p155
+aVInstant
+p156
+aVArtifact
+p157
+aVInstant
+p158
+aVSorcery - Arcane
+p159
+aVEnchantment
+p160
+aVArtifact
+p161
+aVInstant
+p162
+aVSorcery
+p163
+aVEnchantment
+p164
+aVSorcery
+p165
+aVArtifact
+p166
+aVLegendary Land
+p167
+aVInstant
+p168
+aVWorld Enchantment
+p169
+aVInstant
+p170
+aVTribal Instant - Elf
+p171
+aVTribal Enchantment - Elemental
+p172
+aVInstant
+p173
+asS'numbers'
+p174
+(lp175
+V127
+p176
+aV67
+p177
+aV294
+p178
+aV120
+p179
+aV59
+p180
+aV48
+p181
+aV243
+p182
+aV10
+p183
+aV38
+p184
+aV30
+p185
+aV31
+p186
+aV129
+p187
+aV136
+p188
+aV265
+p189
+aV82
+p190
+aV12
+p191
+aV110
+p192
+aV210
+p193
+aV56
+p194
+as.

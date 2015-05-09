@@ -1,0 +1,2273 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVUncommon
+p4
+aVRare
+p5
+aVUncommon
+p6
+aVRare
+p7
+aVUncommon
+p8
+aVUncommon
+p9
+aVCommon
+p10
+aVRare
+p11
+aVUncommon
+p12
+aVUncommon
+p13
+aVUncommon
+p14
+aVUncommon
+p15
+aVRare
+p16
+aVUncommon
+p17
+aVUncommon
+p18
+aVRare
+p19
+aVUncommon
+p20
+aVUncommon
+p21
+aVCommon
+p22
+aVRare
+p23
+aVCommon
+p24
+aVUncommon
+p25
+aVCommon
+p26
+aVCommon
+p27
+aVRare
+p28
+aVRare
+p29
+aVRare
+p30
+aVRare
+p31
+aVRare
+p32
+aVUncommon
+p33
+aVUncommon
+p34
+aVUncommon
+p35
+aVRare
+p36
+aVCommon
+p37
+aVCommon
+p38
+aVCommon
+p39
+aVUncommon
+p40
+aVUncommon
+p41
+aVUncommon
+p42
+aVCommon
+p43
+aVRare
+p44
+aVCommon
+p45
+aVUncommon
+p46
+aVCommon
+p47
+aVUncommon
+p48
+aVUncommon
+p49
+aVCommon
+p50
+aVUncommon
+p51
+aVUncommon
+p52
+aVCommon
+p53
+aVCommon
+p54
+aVCommon
+p55
+aVRare
+p56
+aVRare
+p57
+aVUncommon
+p58
+aVRare
+p59
+aVUncommon
+p60
+aVCommon
+p61
+aVUncommon
+p62
+aVUncommon
+p63
+aVUncommon
+p64
+aVUncommon
+p65
+aVUncommon
+p66
+aVUncommon
+p67
+aVCommon
+p68
+aVRare
+p69
+aVCommon
+p70
+aVCommon
+p71
+aVUncommon
+p72
+aVUncommon
+p73
+aVCommon
+p74
+aVCommon
+p75
+aVRare
+p76
+aVCommon
+p77
+aVCommon
+p78
+aVCommon
+p79
+aVUncommon
+p80
+aVCommon
+p81
+aVCommon
+p82
+aVUncommon
+p83
+aVUncommon
+p84
+aVUncommon
+p85
+aVUncommon
+p86
+aVCommon
+p87
+aVRare
+p88
+aVUncommon
+p89
+aVCommon
+p90
+aVCommon
+p91
+aVRare
+p92
+aVCommon
+p93
+aVCommon
+p94
+aVCommon
+p95
+aVRare
+p96
+aVUncommon
+p97
+aVUncommon
+p98
+aVUncommon
+p99
+aVRare
+p100
+aVRare
+p101
+aVMythic Rare
+p102
+aVCommon
+p103
+aVUncommon
+p104
+aVUncommon
+p105
+aVCommon
+p106
+aVRare
+p107
+aVRare
+p108
+aVRare
+p109
+aVRare
+p110
+aVRare
+p111
+aVCommon
+p112
+aVRare
+p113
+aVSpecial
+p114
+asS'editns'
+p115
+(lp116
+VMagic 2012
+p117
+aVLimited Edition Beta
+p118
+aVMorningtide
+p119
+aVFourth Edition
+p120
+aVFourth Edition
+p121
+aVDuel Decks: Ajani vs. Nicol Bolas
+p122
+aVDuel Decks: Knights vs. Dragons
+p123
+aVScars of Mirrodin
+p124
+aVScars of Mirrodin
+p125
+aVMagic 2010
+p126
+aVTempest
+p127
+aVTempest
+p128
+aVTempest
+p129
+aVTenth Edition
+p130
+aVTenth Edition
+p131
+aVMercadian Masques
+p132
+aVThe Dark
+p133
+aVMirrodin Besieged
+p134
+aVMirrodin Besieged
+p135
+aVMirrodin Besieged
+p136
+aVApocalypse
+p137
+aVMasters Edition III
+p138
+aVRevised Edition
+p139
+aVMasters Edition II
+p140
+aVGuildpact
+p141
+aVGuildpact
+p142
+aVGuildpact
+p143
+aVGuildpact
+p144
+aVGuildpact
+p145
+aVGuildpact
+p146
+aVNinth Edition
+p147
+aVNinth Edition
+p148
+aVNinth Edition
+p149
+aVEventide
+p150
+aVAvacyn Restored
+p151
+aVOnslaught
+p152
+aVRavnica: City of Guilds
+p153
+aVRavnica: City of Guilds
+p154
+aVCommander 2013 Edition
+p155
+aVCommander 2013 Edition
+p156
+aVOdyssey
+p157
+aVGatecrash
+p158
+aVGatecrash
+p159
+aVUnlimited Edition
+p160
+aVIce Age
+p161
+aVIce Age
+p162
+aVIce Age
+p163
+aVZendikar
+p164
+aVClassic Sixth Edition
+p165
+aVClassic Sixth Edition
+p166
+aVMirrodin
+p167
+aVMirrodin
+p168
+aVMirrodin
+p169
+aVMirrodin
+p170
+aVMirrodin
+p171
+aVMirrodin
+p172
+aVMirrodin
+p173
+aVMirrodin
+p174
+aVMirrodin
+p175
+aVSeventh Edition
+p176
+aVSeventh Edition
+p177
+aVProphecy
+p178
+aVMagic 2015 Core Set
+p179
+aVUrza's Legacy
+p180
+aVDarksteel
+p181
+aVDarksteel
+p182
+aVDarksteel
+p183
+aVRise of the Eldrazi
+p184
+aVJudgment
+p185
+aVShadowmoor
+p186
+aVShadowmoor
+p187
+aVNew Phyrexia
+p188
+aVFifth Dawn
+p189
+aVScourge
+p190
+aVFuture Sight
+p191
+aVPlanechase
+p192
+aVPlanechase
+p193
+aVPlanechase
+p194
+aVTheros
+p195
+aVTheros
+p196
+aVMagic: The Gathering\u2014Conspiracy
+p197
+aVEighth Edition
+p198
+aVWorldwake
+p199
+aVJourney into Nyx
+p200
+aVAlara Reborn
+p201
+aVFifth Edition
+p202
+aVFifth Edition
+p203
+aVFifth Edition
+p204
+aVArchenemy
+p205
+aVArchenemy
+p206
+aVKhans of Tarkir
+p207
+aVKhans of Tarkir
+p208
+aVDuel Decks: Jace vs. Vraska
+p209
+aVMirage
+p210
+aVMirage
+p211
+aVLimited Edition Alpha
+p212
+aVVisions
+p213
+aVBeatdown Box Set
+p214
+aVMasters Edition IV
+p215
+aVDragon's Maze
+p216
+aVStronghold
+p217
+aVLegends
+p218
+aVDissension
+p219
+aVLorwyn
+p220
+aVMagic 2011
+p221
+aVMagic 2011
+p222
+aVMagic 2011
+p223
+aVMagic 2011
+p224
+aVMagic 2011
+p225
+aVHomelands
+p226
+aVHomelands
+p227
+aVTime Spiral "Timeshifted"
+p228
+asS'ids'
+p229
+(lp230
+V233728
+p231
+aV456
+p232
+aV152682
+p233
+aV2223
+p234
+aV2163
+p235
+aV249369
+p236
+aV243424
+p237
+aV194204
+p238
+aV209287
+p239
+aV190191
+p240
+aV4670
+p241
+aV4708
+p242
+aV4709
+p243
+aV135242
+p244
+aV135277
+p245
+aV19867
+p246
+aV1756
+p247
+aV213739
+p248
+aV222860
+p249
+aV213770
+p250
+aV26424
+p251
+aV201154
+p252
+aV1255
+p253
+aV184772
+p254
+aV107680
+p255
+aV107682
+p256
+aV107686
+p257
+aV107695
+p258
+aV107697
+p259
+aV107699
+p260
+aV83416
+p261
+aV84503
+p262
+aV83099
+p263
+aV157971
+p264
+aV240023
+p265
+aV39675
+p266
+aV87954
+p267
+aV89008
+p268
+aV376397
+p269
+aV376398
+p270
+aV29782
+p271
+aV366348
+p272
+aV366329
+p273
+aV758
+p274
+aV2466
+p275
+aV2468
+p276
+aV2467
+p277
+aV197534
+p278
+aV14585
+p279
+aV15407
+p280
+aV45958
+p281
+aV46040
+p282
+aV46072
+p283
+aV46550
+p284
+aV46708
+p285
+aV48378
+p286
+aV49768
+p287
+aV45960
+p288
+aV46029
+p289
+aV13155
+p290
+aV11377
+p291
+aV24647
+p292
+aV383297
+p293
+aV12388
+p294
+aV44307
+p295
+aV46142
+p296
+aV48579
+p297
+aV205929
+p298
+aV34768
+p299
+aV142020
+p300
+aV147406
+p301
+aV218028
+p302
+aV72722
+p303
+aV47586
+p304
+aV126139
+p305
+aV198105
+p306
+aV205290
+p307
+aV205401
+p308
+aV373523
+p309
+aV373600
+p310
+aV382295
+p311
+aV45370
+p312
+aV197856
+p313
+aV380450
+p314
+aV180606
+p315
+aV3919
+p316
+aV3856
+p317
+aV3991
+p318
+aV220568
+p319
+aV220527
+p320
+aV386586
+p321
+aV386587
+p322
+aV380257
+p323
+aV3542
+p324
+aV3254
+p325
+aV161
+p326
+aV3596
+p327
+aV26619
+p328
+aV233298
+p329
+aV369066
+p330
+aV5180
+p331
+aV1450
+p332
+aV107557
+p333
+aV139487
+p334
+aV205008
+p335
+aV205018
+p336
+aV204993
+p337
+aV205013
+p338
+aV205031
+p339
+aV2972
+p340
+aV3020
+p341
+aV108920
+p342
+asS'texts'
+p343
+(lp344
+VBloodthirst 1 <i>(If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)</i><br>Islandwalk <i>(This creature is unblockable as long as defending player controls an Island.)</i>
+p345
+aVFlying, trample<br>At the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you.
+p346
+aVKinship- At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Leaf-Crowned Elder, you may reveal it. If you do, you may play that card without paying its mana cost.
+p347
+aVWhenever Marsh Viper deals damage to a player, that player gets two poison counters. <i>(A player with ten or more poison counters loses the game.)</i>
+p348
+aVFlying, trample<br>At the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you.
+p349
+aVLook at the top five cards of your library. You may reveal any number of creature cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.
+p350
+aVFlying
+p351
+aVPlayers can't search libraries. Any player may pay {2} for that player to ignore this effect until end of turn.
+p352
+aVTrample<br>Whenever Liege of the Tangle deals combat damage to a player, you may choose any number of target lands you control and put an awakening counter on each of them. Each of those lands is an 8/8 green Elemental creature for as long as it has an awakening counter on it. They're still lands.
+p353
+aVWhenever an opponent casts a spell, reveal the top card of your library. If it's a creature card, put it onto the battlefield. Otherwise, you may put that card on the bottom of your library.
+p354
+aVFlying <br>{T}: Non-Wall creatures the active player controls attack this turn if able. At the beginning of the next end step, destroy each of those creatures that didn't attack this turn. Activate this ability only during an opponent's turn and only before combat.
+p355
+aVExchange control of target artifact or creature and another target permanent that shares one of those types with it. <i>(This effect lasts indefinitely.)</i>
+p356
+aVSearch your library for any number of land cards and exile them. Then shuffle your library.
+p357
+aVTarget opponent puts the cards from his or her hand on top of his or her library. Search that player's library for that many cards. The player puts those cards into his or her hand, then shuffles his or her library.
+p358
+aVForestwalk <i>(This creature is unblockable as long as defending player controls a Forest.)</i>
+p359
+aVTrample<br>At the beginning of your upkeep, you may put a +1/+1 counter on Rushwood Elemental.
+p360
+aVAll creatures get -2/-0 until end of turn.
+p361
+aVWhen Leonin Relic-Warder enters the battlefield, you may exile target artifact or enchantment.<br>When Leonin Relic-Warder leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+p362
+aVFlying
+p363
+aVBattle cry <i>(Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)</i>
+p364
+aV{W}{U}{B}{R}{G}: Exile target permanent.<br>If Legacy Weapon would be put into a graveyard from anywhere, reveal Legacy Weapon and shuffle it into its owner's library instead.
+p365
+aVSacrifice Loyal Retainers: Return target legendary creature card from your graveyard to the battlefield. Activate this ability only during your turn, before attackers are declared.
+p366
+aVWhenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced.
+p367
+aV{1}, {T}, Sacrifice Lodestone Bauble: Put up to four target basic land cards from a player's graveyard on top of his or her library in any order. That player draws a card at the beginning of the next turn's upkeep.
+p368
+aVEnchant creature<br>Creatures you control that are enchanted get +1/+1 and have first strike.
+p369
+aV{R}: Gruul Nodorog can't be blocked this turn except by two or more creatures.
+p370
+aV{U}, Sacrifice a creature: Discard a card, then draw a card.
+p371
+aV{W}, Sacrifice a creature: Target creature can't attack this turn.
+p372
+aV{R}, Sacrifice a creature: Scorched Rusalka deals 1 damage to target player.
+p373
+aVSacrifice three white creatures: Exile target creature.<br>Whenever another black creature you control dies, put a 1/1 white Spirit creature token with flying onto the battlefield.
+p374
+aVFlash
+p375
+aVR
+p376
+ag376
+aVWhenever you cast a spell, equipped creature gets +2/+2 until end of turn.<br>Equip {2}
+p377
+aVSoulbond <i>(You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)</i><br>As long as Lightning Mauler is paired with another creature, both creatures have haste.
+p378
+aVWhenever Leery Fogbeast becomes blocked, prevent all combat damage that would be dealt this turn.
+p379
+aVRadiance- Target creature and each other creature that shares a color with it gain haste until end of turn.
+p380
+aVConvoke <i>(Each creature you tap while casting this spell reduces its cost by {1} or by one mana of that creature's color.)</i><br>When Conclave Phalanx enters the battlefield, you gain 1 life for each creature you control.
+p381
+aVEnchant land<br>Enchanted land has "{G}{U}, {T}: Put a 2/2 green and blue Drake creature token with flying onto the battlefield."
+p382
+aVFlash <i>(You may cast this spell any time you could cast an instant.)</i><br>{2}, Sacrifice Leonin Bladetrap: Leonin Bladetrap deals 2 damage to each attacking creature without flying.
+p383
+aVShroud <i>(This permanent can't be the target of spells or abilities.)</i><br>Threshold- Nimble Mongoose gets +2/+2 as long as seven or more cards are in your graveyard.
+p384
+aVWhen Leyline Phantom deals combat damage, return it to its owner's hand. <i>(Return it only if it survived combat.)</i>
+p385
+aVFlying<br>Whenever Lord of the Void deals combat damage to a player, exile the top seven cards of that player's library, then put a creature card from among them onto the battlefield under your control.
+p386
+aVChange the text of target spell or permanent by replacing all instances of one basic land type with another. <i>(For example, you may change "swampwalk" to "plainswalk." This effect lasts indefinitely.)</i>
+p387
+aVSnow swampwalk
+p388
+aVWhenever an opponent casts a green spell, you may pay {B}{B}. If you do, look at that player's hand and choose a card from it. The player discards that card.<br>{B}{B}: Return Leshrac's Sigil to its owner's hand.
+p389
+aV{1}{U}, {T}: Untap target artifact an opponent controls and gain control of it until end of turn. It gains haste until end of turn. When you lose control of the artifact, tap it.
+p390
+aVFlying<br>At the beginning of your upkeep, sacrifice Living Tsunami unless you return a land you control to its owner's hand.
+p391
+aVOther Zombie creatures have swampwalk.<br>Other Zombies have "{B}: Regenerate this permanent."
+p392
+aV{T}: Look at the top card of target player's library. If it's a nonland card, you may pay 2 life. If you do, put it into that player's graveyard.
+p393
+aVAs long as Leonin Den-Guard is equipped, it gets +1/+1 and has vigilance.
+p394
+aV{T}: Add {B} to your mana pool.
+p395
+aVWhenever an artifact enters the battlefield, you may gain 1 life.
+p396
+aVArtifacts you control have hexproof. <i>(They can't be the targets of spells or abilities your opponents control.)</i>
+p397
+aVWhen Leveler enters the battlefield, exile all cards from your library.
+p398
+aVFlash<br>{2}, Sacrifice Leonin Bladetrap: Leonin Bladetrap deals 2 damage to each attacking creature without flying.
+p399
+aVEquipped creature gets +1/+1 for each Swamp you control.<br>Equip\u2014Pay 3 life. <i>(Pay 3 life: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)</i>
+p400
+aVW
+p401
+aVEach noncreature artifact is an artifact creature with power and toughness each equal to its converted mana cost. <i>(Equipment that's a creature can't equip a creature.)</i>
+p402
+aVYou gain 2 life for each card in your hand.
+p403
+aVTarget creature gets +7/+7 until end of turn.
+p404
+aVWhenever Lesser Gargadon attacks or blocks, sacrifice a land.
+p405
+aVConvoke <i>(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)</i><br>When Living Totem enters the battlefield, you may put a +1/+1 counter on another target creature.
+p406
+aVYou may have Lone Wolf assign its combat damage as though it weren't blocked.
+p407
+aV{T}: Target creature gets +1/+1 until end of turn. <br>Whenever you cast a spell, you may untap Leonin Battlemage.
+p408
+aVEquipped creature has "{T}, Unattach Leonin Bola: Tap target creature."<br>Equip {1} <i>({1}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)</i>
+p409
+aVYou may activate equip abilities any time you could cast an instant.
+p410
+aVFlying<br>Activated abilities of creatures your opponents control can't be activated.
+p411
+aVTap up to two target creatures.
+p412
+aVFlying<br>{1}{W/U}, {Q}: Tap target creature. <i>({Q} is the untap symbol.)</i>
+p413
+aVFlash<br>Other white creatures you control get +1/+1.<br>Other blue creatures you control get +1/+1.
+p414
+aVDestroy all creatures, then search target opponent's library for up to three creature cards and put them into his or her graveyard. Then that player shuffles his or her library.
+p415
+aVSunburst <i>(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)</i><br>{1}, Remove four +1/+1 counters from Etched Oracle: Target player draws three cards.
+p416
+aVWhenever a creature enters the battlefield, destroy it.<br>{0}: Destroy Lethal Vapors. You skip your next turn. Any player may activate this ability.
+p417
+aVFlash <i>(You may cast this spell any time you could cast an instant.)</i><br>Enchant creature<br>Enchanted creature gets +3/+3 and doesn't untap during its controller's untap step.
+p418
+aVAt the beginning of your upkeep, put the top ten cards of your library into your graveyard.<br>Whenever you roll , target player puts the top ten cards of his or her library into his or her graveyard.
+p419
+aV{T}: Add {B} to your mana pool.
+p420
+aV<i>({T}: Add {B} to your mana pool.)</i><br>Leechridden Swamp enters the battlefield tapped.<br>{B}, {T}: Each opponent loses 1 life. Activate this ability only if you control two or more black permanents.
+p421
+aV{2}{G}: Loathsome Catoblepas must be blocked this turn if able.<br>When Loathsome Catoblepas dies, target creature an opponent controls gets -3/-3 until end of turn.
+p422
+aVTarget creature gets -3/-0 until end of turn. Scry 1. <i>(Look at the top card of your library. You may put that card on the bottom of your library.)</i>
+p423
+aVLook at the top five cards of your library. You may reveal any number of creature cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.
+p424
+aVHaste<br>When Lava Hounds enters the battlefield, it deals 4 damage to you.
+p425
+aVLoam Lion gets +1/+2 as long as you control a Forest.
+p426
+aVHeroic- Whenever you cast a spell that targets Leonin Iconoclast, destroy target enchantment creature an opponent controls.
+p427
+aV{U}{B}, {T}: Put a 1/1 blue and black Zombie Wizard creature token onto the battlefield.<br>{U}{U}{B}{B}: Target player loses X life and puts the top X cards of his or her library into his or her graveyard, where X is the number of Zombies you control.
+p428
+aVTrample<br>Leviathan enters the battlefield tapped and doesn't untap during your untap step.<br>At the beginning of your upkeep, you may sacrifice two Islands. If you do, untap Leviathan.<br>Leviathan can't attack unless you sacrifice two Islands.
+p429
+aVOther Merfolk creatures get +1/+1 and have islandwalk.
+p430
+aVFlying, trample<br>At the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you.
+p431
+aV{T}: Add {G} to your mana pool.
+p432
+aVArtifacts you control have hexproof. <i>(They can't be the targets of spells or abilities your opponents control.)</i>
+p433
+aVYou may look at the top card of your library and at face-down creatures you don't control. <i>(You may do this at any time.)</i>
+p434
+aVOutlast {1}{G} <i>({1}{G}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)</i><br>Each creature you control with a +1/+1 counter on it has reach. <i>(A creature with reach can block creatures with flying.)</i>
+p435
+aVWhen Leyline Phantom deals combat damage, return it to its owner's hand. <i>(Return it only if it survived combat.)</i>
+p436
+aVCumulative upkeep {1} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>At the beginning of your upkeep, put a growth counter on Malignant Growth.<br>At the beginning of each opponent's draw step, that player draws an additional card for each growth counter on Malignant Growth, then Malignant Growth deals damage to the player equal to the number of cards he or she drew this way.
+p437
+aV{T}: Add {1} to your mana pool.<br><br>{1}, {T}: Add one mana of any color to your mana pool.
+p438
+ag376
+aVTrample<br>Sacrifice Lead-Belly Chimera: Put a +2/+2 counter on target Chimera creature. It gains trample. <i>(This effect lasts indefinitely.)</i>
+p439
+aVLightning Bolt deals 3 damage to target creature or player.
+p440
+aVWhenever Lim-Dûl's Cohort blocks or becomes blocked by a creature, that creature can't be regenerated this turn.
+p441
+aVDetain up to two target creatures your opponents control. <i>(Until your next turn, those creatures can't attack or block and their activated abilities can't be activated.)</i>
+p442
+aVTarget creature gains flying until end of turn.<br><br>Draw a card.
+p443
+aVWhen Mold Demon enters the battlefield, sacrifice it unless you sacrifice two Swamps.
+p444
+aVEnchant land<br>Enchanted land has "{G}{U}, {T}: Put a 2/2 green and blue Drake creature token with flying onto the battlefield."
+p445
+aV{T}: Add {G} to your mana pool.
+p446
+aVLightning Bolt deals 3 damage to target creature or player.
+p447
+aV+1: Target player discards a card.<br>-2: Search your library for a card, then shuffle your library and put that card on top of it.<br>-8: Put all creature cards from all graveyards onto the battlefield under your control.
+p448
+aVWhenever an opponent discards a card, that player loses 2 life.
+p449
+aVFlying<br>When Liliana's Specter enters the battlefield, each opponent discards a card.
+p450
+aV{T}: Add {G} to your mana pool.
+p451
+aV{1}{G}: Leaping Lizard gets -0/-1 and gains flying until end of turn.
+p452
+aVReveal the top card of target opponent's library. If it's a land, you gain 1 life. Then that player shuffles his or her library.<br>Draw a card at the beginning of the next turn's upkeep.
+p453
+aVHaste<br>{R}{R}{R}: Regenerate Eron the Relentless.
+p454
+asS'costs'
+p455
+(lp456
+V{1}{G}
+p457
+aV{2}{G}
+p458
+aV{2}{G}{G}
+p459
+aV{2}{G}
+p460
+aV{5}{U}{U}{U}{U}
+p461
+aV{R}
+p462
+aV{W}{W}
+p463
+aV{2}{R}{R}{R}
+p464
+aV{R}
+p465
+aV{2}{B}
+p466
+aV{1}{B}
+p467
+aV{U}{U}
+p468
+aV{2}{U}{U}
+p469
+aV{7}
+p470
+aV{1}
+p471
+aV{3}{G}
+p472
+aV{5}{U}{U}{U}{U}
+p473
+aV{2}{G}
+p474
+aV{W}{W}
+p475
+aV{W}{W}
+p476
+aV{7}
+p477
+aV{3}{B}
+p478
+aV{2}{G}
+p479
+aV{1}{G}{G}
+p480
+aV{U}{R}
+p481
+aV{2}{B}{B}
+p482
+aV{2}{R}{R}
+p483
+aV{2}{G}{G}
+p484
+aV{2}{U}{U}
+p485
+aV{2}{W}{W}
+p486
+aV{W}{W}
+p487
+aV{2}{U}{U}
+p488
+aV{2}{G}
+p489
+aV{2}
+p490
+aV{2}{G}
+p491
+aV{2}{G}
+p492
+aV{1}{W}
+p493
+aV{6}
+p494
+aV{3}{G}{U}
+p495
+aV{3}
+p496
+aV{1}{G}{G}
+p497
+aV{3}{U}
+p498
+aV{U}{U}{B}{B}
+p499
+aV{2}{G}
+p500
+aV{1}{B}{B}
+p501
+aV{B}{B}
+p502
+aV{B}
+p503
+aV{6}{R}{R}
+p504
+aV{B}
+p505
+aV{5}
+p506
+aV{1}{W}
+p507
+aV{2}
+p508
+aV{W}
+p509
+aV{3}{W}
+p510
+aV{5}
+p511
+aV{3}
+p512
+aV{2}
+p513
+aV{W}{W}
+p514
+aV{1}
+p515
+aV{2}{U}{U}
+p516
+aV{B}
+p517
+aV{2}{R}{R}
+p518
+aV{3}{R}
+p519
+aV{2}{U}{U}
+p520
+aV{3}{W}
+p521
+aV{1}
+p522
+aV{1}{W}
+p523
+aV{2}{U}{U}
+p524
+aV{1}{W}
+p525
+aS'0'
+p526
+aV{2}{U}
+p527
+aV{4}
+p528
+aV{1}{W}
+p529
+aV{2}{B}{B}
+p530
+aV{2}{U}
+p531
+ag526
+aV{2}
+p532
+ag526
+aV{4}{B}
+p533
+aV{1}{W}
+p534
+aV{2}{W}
+p535
+aV{2}{R}{R}
+p536
+aV{W}{W}
+p537
+aV{W}
+p538
+aV{2}{G}{W}
+p539
+aV{5}{U}{U}{U}{U}
+p540
+aV{B}
+p541
+aV{2}{G}
+p542
+aV{1}{G}
+p543
+aV{3}{W}
+p544
+aV{1}{R}
+p545
+aV{1}
+p546
+aV{2}{B}
+p547
+aV{1}{W}{U}
+p548
+aV{5}
+p549
+aV{2}{G}
+p550
+aV{4}
+p551
+aV{5}{U}{U}{U}{U}
+p552
+aV{1}{W}{W}
+p553
+aV{R}{W}
+p554
+aV{U}
+p555
+aV{3}{B}
+p556
+aV{3}{G}{U}
+p557
+aV{1}{G}
+p558
+aV{4}
+p559
+aV{1}{W}{W}
+p560
+aV{2}
+p561
+aV{4}{R}
+p562
+aV{2}{U}{U}
+p563
+aV{1}{G}{G}
+p564
+aV{1}{W}{W}
+p565
+aV{5}{U}{U}{U}{U}
+p566
+asS'names'
+p567
+(lp568
+VLevitation
+p569
+aVLey Druid
+p570
+aVLeaf-Crowned Elder
+p571
+aVLey Druid
+p572
+aVLeviathan
+p573
+aVLead the Stampede
+p574
+aVLeonin Skyhunter
+p575
+aVLeaden Myr
+p576
+aVLeonin Arbiter
+p577
+aVLevitation
+p578
+aVLeeching Licid
+p579
+aVLegacy's Allure
+p580
+aVLegerdemain
+p581
+aVLegacy Weapon
+p582
+aVLeonin Scimitar
+p583
+aVLey Line
+p584
+aVLeviathan
+p585
+aVLead the Stampede
+p586
+aVLeonin Relic-Warder
+p587
+aVLeonin Skyhunter
+p588
+aVLegacy Weapon
+p589
+aVLesser Werewolf
+p590
+aVLey Druid
+p591
+aVLeaping Lizard
+p592
+aVLeap of Flame
+p593
+aVLeyline of the Void
+p594
+aVLeyline of Lightning
+p595
+aVLeyline of Lifeforce
+p596
+aVLeyline of Singularity
+p597
+aVLeyline of the Meek
+p598
+aVLeonin Skyhunter
+p599
+aVLevitation
+p600
+aVLey Druid
+p601
+aVLeering Emblem
+p602
+aVLeap of Faith
+p603
+aVLeery Fogbeast
+p604
+aVLeave No Trace
+p605
+aVLeashling
+p606
+aVLeafdrake Roost
+p607
+aVLeonin Bladetrap
+p608
+aVLeaf Dancer
+p609
+aVLegion Loyalist
+p610
+aVLeyline Phantom
+p611
+aVLey Druid
+p612
+aVLegions of Lim-Dûl
+p613
+aVLeshrac's Sigil
+p614
+aVLeshrac's Rite
+p615
+aVLethargy Trap
+p616
+aVLeshrac's Rite
+p617
+aVLead Golem
+p618
+aVLeonin Den-Guard
+p619
+aVLeaden Myr
+p620
+aVLeonin Elder
+p621
+aVLeonin Abunas
+p622
+aVLeveler
+p623
+aVLeonin Bladetrap
+p624
+aVLeonin Sun Standard
+p625
+aVLeonin Skyhunter
+p626
+aVLeonin Scimitar
+p627
+aVLevitation
+p628
+aVLeshrac's Rite
+p629
+aVLesser Gargadon
+p630
+aVLeeching Sliver
+p631
+aVLevitation
+p632
+aVLeonin Battlemage
+p633
+aVLeonin Bola
+p634
+aVLeonin Shikari
+p635
+aVLeaf Arrow
+p636
+aVLead Astray
+p637
+aVLeechridden Swamp
+p638
+aVLeech Bonder
+p639
+aVLeeching Bite
+p640
+aVLeonin Squire
+p641
+aVLethal Vapors
+p642
+aVLeaden Fists
+p643
+aVLethe Lake
+p644
+aVLeaden Myr
+p645
+aVLeechridden Swamp
+p646
+aVLeafcrown Dryad
+p647
+aVLeonin Snarecaster
+p648
+aVLead the Stampede
+p649
+aVLesser Gargadon
+p650
+aVLeatherback Baloth
+p651
+aVLeonin Iconoclast
+p652
+aVLeonin Armorguard
+p653
+aVLeviathan
+p654
+aVLeshrac's Rite
+p655
+aVLey Druid
+p656
+aVLeaf Gilder
+p657
+aVLeonin Abunas
+p658
+aVLeaping Master
+p659
+aVLens of Clarity
+p660
+aVLeyline Phantom
+p661
+aVLeering Gargoyle
+p662
+aVLead Golem
+p663
+aVLey Druid
+p664
+aVLead-Belly Chimera
+p665
+aVLeviathan
+p666
+aVLeeches
+p667
+aVLegion's Initiative
+p668
+aVLeap
+p669
+aVLesser Werewolf
+p670
+aVLeafdrake Roost
+p671
+aVLeaf Gilder
+p672
+aVLeyline of Anticipation
+p673
+aVLeyline of Punishment
+p674
+aVLeyline of Sanctity
+p675
+aVLeyline of the Void
+p676
+aVLeyline of Vitality
+p677
+aVLeaping Lizard
+p678
+aVLeeches
+p679
+aVLeviathan
+p680
+asS'toughs'
+p681
+(lp682
+S'N/A'
+p683
+aV1
+p684
+aV5
+p685
+ag684
+ag684
+ag683
+aV2
+p686
+ag683
+ag684
+ag683
+ag684
+ag683
+ag683
+ag683
+ag683
+ag683
+ag686
+ag683
+aV4
+p687
+ag686
+ag683
+ag687
+ag686
+aV3
+p688
+ag683
+ag683
+ag683
+ag683
+ag683
+ag683
+ag688
+ag683
+ag684
+ag683
+ag683
+aV9
+p689
+ag683
+ag683
+ag683
+ag683
+ag686
+ag686
+ag687
+ag684
+ag686
+ag683
+ag683
+ag683
+ag683
+ag683
+ag688
+ag683
+ag687
+ag684
+ag683
+ag683
+ag683
+ag684
+ag683
+ag683
+ag683
+aV8
+p690
+ag688
+ag683
+ag687
+ag683
+aV0
+p691
+ag683
+ag683
+ag683
+ag686
+ag683
+ag688
+ag683
+ag683
+ag683
+ag683
+ag683
+ag683
+ag686
+ag683
+ag687
+ag684
+ag686
+ag688
+ag688
+ag683
+ag684
+ag687
+ag688
+ag684
+ag683
+ag684
+ag688
+ag683
+ag685
+ag683
+ag685
+ag683
+ag683
+ag683
+ag687
+ag683
+ag684
+ag683
+ag683
+ag683
+ag683
+ag683
+ag687
+ag683
+aV10
+p692
+asS'artists'
+p693
+(lp694
+S''
+p695
+aVSandra Everingham
+p696
+aVWayne Reynolds
+p697
+aVSandra Everingham
+p698
+aVMark Tedin
+p699
+aVEfrem Palacios
+p700
+aVKev Walker
+p701
+aVAlan Pollack
+p702
+aVShelly Wan
+p703
+aVJim Murray
+p704
+aVJoel Biske
+p705
+aVDaren Bader
+p706
+aVDaren Bader
+p707
+aVTerese Nielsen
+p708
+aVDoug Chaffee
+p709
+aVTerese Nielsen
+p710
+aVMark Tedin
+p711
+ag695
+ag695
+ag695
+aVJohn Avon
+p712
+aVAnthony S. Waters
+p713
+aVSandra Everingham
+p714
+aVAmy Weber
+p715
+aVGreg Hildebrandt
+p716
+aVAdam Rex
+p717
+aVPaolo Parente
+p718
+aVKev Walker
+p719
+aVZoltan Boros & Gabor Szikszai
+p720
+aVMark Zug
+p721
+aVKev Walker
+p722
+aVHeather Hudson
+p723
+aVEdward P. Beard, Jr.
+p724
+aVRon Brown
+p725
+aVDave Kendall
+p726
+aVMatt Cavotta
+p727
+aVPat Lee
+p728
+aVCarl Critchlow
+p729
+aVNick Percival
+p730
+aVRandy Gallegos
+p731
+aVGreg & Tim Hildebrandt
+p732
+aVEric Deschamps
+p733
+aVRyan Yee
+p734
+aVSandra Everingham
+p735
+aVAnson Maddocks
+p736
+aVDrew Tucker
+p737
+aVRichard Thomas
+p738
+aVAnthony Francisco
+p739
+aVMike Raabe
+p740
+aVHannibal King
+p741
+aVTodd Lockwood
+p742
+aVKev Walker
+p743
+aVTodd Lockwood
+p744
+aVDarrell Riche
+p745
+aVCarl Critchlow
+p746
+aVRandy Gallegos
+p747
+aVJim Nelson
+p748
+aVKev Walker
+p749
+aVDoug Chaffee
+p750
+aVJohn Matson
+p751
+aVrk post
+p752
+aVRob Alexander
+p753
+aVSvetlin Velinov
+p754
+aVHeather Hudson
+p755
+aVStephen Tappin
+p756
+aVChristopher Moeller
+p757
+aVWayne England
+p758
+aVEric Deschamps
+p759
+aVAdam Rex
+p760
+aVLars Grant-West
+p761
+aVE. M. Gist
+p762
+ag695
+aVPete Venters
+p763
+aVJohn Avon
+p764
+aVShishizaru
+p765
+aVChris J. Anderson
+p766
+aVKev Walker
+p767
+aVLars Grant-West
+p768
+aVVolkan Baga
+p769
+aVKev Walker
+p770
+aVEfrem Palacios
+p771
+aVRob Alexander
+p772
+aVDave Kendall
+p773
+aVSteve Prescott
+p774
+aVSteven Belledin
+p775
+aVMark Tedin
+p776
+aVMike Raabe
+p777
+aVSandra Everingham
+p778
+aVQuinton Hoover
+p779
+aVDarrell Riche
+p780
+aVAnastasia Ovchinnikova
+p781
+aVRaymond Swanland
+p782
+aVRyan Yee
+p783
+aVDermot Power
+p784
+aVHannibal King
+p785
+aVSandra Everingham
+p786
+aVMike Dringenberg
+p787
+aVMark Tedin
+p788
+aVAlan Rabinowitz
+p789
+aVJaime Jones
+p790
+aVKev Walker
+p791
+aVQuinton Hoover
+p792
+aVNick Percival
+p793
+aVQuinton Hoover
+p794
+aVCharles Urbach
+p795
+aVCharles Urbach
+p796
+aVRyan Pancoast
+p797
+aVRob Alexander
+p798
+aVJim Nelson
+p799
+aVAmy Weber
+p800
+aVAlan Rabinowitz
+p801
+aVMark Tedin
+p802
+asS'powers'
+p803
+(lp804
+g683
+ag684
+ag688
+ag686
+ag686
+ag683
+ag686
+ag683
+ag684
+ag683
+ag684
+ag683
+ag683
+ag683
+ag683
+ag683
+ag686
+ag683
+ag688
+ag687
+ag683
+aV7
+p805
+ag686
+ag686
+ag683
+ag683
+ag683
+ag683
+ag683
+ag683
+ag684
+ag683
+ag684
+ag683
+ag683
+ag689
+ag683
+ag683
+ag683
+ag683
+ag686
+ag688
+ag684
+ag684
+ag686
+ag683
+ag683
+ag683
+ag683
+ag683
+ag684
+ag683
+ag687
+ag684
+ag683
+ag683
+ag683
+ag684
+ag683
+ag683
+ag683
+ag690
+ag688
+ag683
+ag688
+ag683
+ag691
+ag683
+ag683
+ag683
+ag684
+ag683
+ag688
+ag683
+ag683
+ag683
+ag683
+ag683
+ag683
+ag691
+ag683
+aV6
+p806
+ag686
+ag684
+ag687
+ag688
+ag683
+ag691
+ag685
+ag687
+ag686
+ag683
+aV*
+p807
+ag685
+ag683
+ag688
+ag683
+ag685
+ag683
+ag683
+ag683
+ag686
+ag683
+ag686
+ag683
+ag683
+ag683
+ag683
+ag683
+ag686
+ag683
+aV10
+p808
+asS'types'
+p809
+(lp810
+VEnchantment
+p811
+aVCreature - Human Druid
+p812
+aVCreature - Treefolk Shaman
+p813
+aVCreature - Human Druid
+p814
+aVCreature - Leviathan
+p815
+aVSorcery
+p816
+aVCreature - Cat Knight
+p817
+aVArtifact Creature - Myr
+p818
+aVCreature - Cat Cleric
+p819
+aVEnchantment
+p820
+aVCreature - Licid
+p821
+aVEnchantment
+p822
+aVSorcery
+p823
+aVLegendary Artifact
+p824
+aVArtifact - Equipment
+p825
+aVEnchantment
+p826
+aVCreature - Leviathan
+p827
+aVSorcery
+p828
+aVCreature - Cat Cleric
+p829
+aVCreature - Cat Knight
+p830
+aVLegendary Artifact
+p831
+aVCreature - Werewolf
+p832
+aVCreature - Human Druid
+p833
+aVCreature - Lizard
+p834
+aVInstant
+p835
+aVEnchantment
+p836
+aVEnchantment
+p837
+aVEnchantment
+p838
+aVEnchantment
+p839
+aVEnchantment
+p840
+aVCreature - Cat Knight
+p841
+aVEnchantment
+p842
+aVCreature - Human Druid
+p843
+aVArtifact - Equipment
+p844
+aVInstant
+p845
+aVCreature - Beast
+p846
+aVInstant
+p847
+aVArtifact Creature - Hound
+p848
+aVEnchantment - Aura
+p849
+aVArtifact
+p850
+aVCreature - Centaur
+p851
+aVCreature - Goblin Soldier
+p852
+aVCreature - Illusion
+p853
+aVCreature - Human Druid
+p854
+aVCreature - Zombie
+p855
+aVEnchantment
+p856
+aVEnchantment - Aura
+p857
+aVInstant - Trap
+p858
+aVEnchantment - Aura
+p859
+aVArtifact Creature - Golem
+p860
+aVCreature - Cat Soldier
+p861
+aVArtifact Creature - Myr
+p862
+aVCreature - Cat Cleric
+p863
+aVCreature - Cat Cleric
+p864
+aVArtifact Creature - Juggernaut
+p865
+aVArtifact
+p866
+aVArtifact
+p867
+aVCreature - Cat Knight
+p868
+aVArtifact - Equipment
+p869
+aVEnchantment
+p870
+aVEnchantment - Aura
+p871
+aVCreature - Beast
+p872
+aVCreature - Sliver
+p873
+aVEnchantment
+p874
+aVCreature - Cat Wizard
+p875
+aVArtifact - Equipment
+p876
+aVCreature - Cat Soldier
+p877
+aVInstant
+p878
+aVInstant
+p879
+aVLand - Swamp
+p880
+aVCreature - Merfolk Soldier
+p881
+aVInstant
+p882
+aVCreature - Cat Soldier
+p883
+aVEnchantment
+p884
+aVEnchantment - Aura
+p885
+aVPlane - Arkhos
+p886
+aVArtifact Creature - Myr
+p887
+aVLand - Swamp
+p888
+aVEnchantment Creature - Nymph Dryad
+p889
+aVCreature - Cat Soldier
+p890
+aVSorcery
+p891
+aVCreature - Beast
+p892
+aVCreature - Beast
+p893
+aVCreature - Cat Monk
+p894
+aVCreature - Cat Soldier
+p895
+aVCreature - Leviathan
+p896
+aVEnchantment - Aura
+p897
+aVCreature - Human Druid
+p898
+aVCreature - Elf Druid
+p899
+aVCreature - Cat Cleric
+p900
+aVCreature - Human Monk
+p901
+aVArtifact
+p902
+aVCreature - Illusion
+p903
+aVCreature - Gargoyle
+p904
+aVArtifact Creature - Golem
+p905
+aVCreature - Human Druid
+p906
+aVArtifact Creature - Chimera
+p907
+aVCreature - Leviathan
+p908
+aVSorcery
+p909
+aVEnchantment
+p910
+aVInstant
+p911
+aVCreature - Werewolf
+p912
+aVEnchantment - Aura
+p913
+aVCreature - Elf Druid
+p914
+aVEnchantment
+p915
+aVEnchantment
+p916
+aVEnchantment
+p917
+aVEnchantment
+p918
+aVEnchantment
+p919
+aVCreature - Lizard
+p920
+aVSorcery
+p921
+aVCreature - Leviathan
+p922
+asS'numbers'
+p923
+(lp924
+V61
+p925
+aV152
+p926
+aV128
+p927
+aV85
+p928
+aV251
+p929
+aV24
+p930
+ag805
+aV170
+p931
+aV14
+p932
+aV60
+p933
+aV58
+p934
+aV80
+p935
+aV81
+p936
+aV330
+p937
+aV331
+p938
+aV256
+p939
+aV101
+p940
+aV82
+p941
+aV10
+p942
+aV11
+p943
+aV137
+p944
+aV71
+p945
+aV173
+p946
+aV171
+p947
+aV121
+p948
+aV52
+p949
+aV68
+p950
+aV90
+p951
+aV29
+p952
+aV10
+p953
+aV25
+p954
+aV83
+p955
+aV251
+p956
+aV171
+p957
+aV26
+p958
+aV273
+p959
+aV23
+p960
+aV265
+p961
+aV196
+p962
+aV245
+p963
+aV249
+p964
+aV97
+p965
+aV41
+p966
+aV153
+p967
+aV51
+p968
+aV52
+p969
+aV313
+p970
+aV51
+p971
+aV141
+p972
+aV295
+p973
+ag689
+aV191
+p974
+aV10
+p975
+ag690
+aV195
+p976
+aV192
+p977
+aV194
+p978
+aV11
+p979
+aV193
+p980
+aV82
+p981
+aV144
+p982
+aV97
+p983
+aV102
+p984
+aV35
+p985
+ag685
+aV127
+p986
+ag806
+aV194
+p987
+aV14
+p988
+aV273
+p989
+aV43
+p990
+aV113
+p991
+ag689
+aV68
+p992
+aV38
+p993
+aV21
+p994
+aV116
+p995
+aV135
+p996
+aV161
+p997
+aV23
+p998
+aV170
+p999
+aV199
+p1000
+aV107
+p1001
+aV16
+p1002
+aV72
+p1003
+aV75
+p1004
+aV320
+p1005
+aV321
+p1006
+aV63
+p1007
+ag684
+aV114
+p1008
+aV223
+p1009
+aV16
+p1010
+aV218
+p1011
+aV298
+p1012
+aV193
+p1013
+ag805
+aV60
+p1014
+aV18
+p1015
+aV81
+p1016
+aV53
+p1017
+aV29
+p1018
+aV116
+p1019
+aV227
+p1020
+aV61
+p1021
+aV148
+p1022
+aV21
+p1023
+aV101
+p1024
+aV183
+p1025
+aV39
+p1026
+aV69
+p1027
+aV23
+p1028
+as.

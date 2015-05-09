@@ -1,0 +1,97 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVUncommon
+p4
+aVCommon
+p5
+asS'editns'
+p6
+(lp7
+VDuel Decks: Ajani vs. Nicol Bolas
+p8
+aVShards of Alara
+p9
+aVAlara Reborn
+p10
+asS'ids'
+p11
+(lp12
+V249405
+p13
+aV174869
+p14
+aV179556
+p15
+asS'texts'
+p16
+(lp17
+VExalted <i>(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</i><br>{1}, Sacrifice Qasali Pridemage: Destroy target artifact or enchantment.
+p18
+aVWhen Fleshbag Marauder enters the battlefield, each player sacrifices a creature.
+p19
+aVReturn target multicolored card from your graveyard to your hand.
+p20
+asS'costs'
+p21
+(lp22
+V{3}{G}{G}
+p23
+aV{X}
+p24
+aV{G}{W}
+p25
+asS'names'
+p26
+(lp27
+VQasali Pridemage
+p28
+aVQasali Ambusher
+p29
+aVQasali Pridemage
+p30
+asS'toughs'
+p31
+(lp32
+V2
+p33
+aV3
+p34
+ag33
+asS'artists'
+p35
+(lp36
+VChris Rahn
+p37
+aVKev Walker
+p38
+aVChris Rahn
+p39
+asS'powers'
+p40
+(lp41
+g33
+ag34
+ag33
+asS'types'
+p42
+(lp43
+VCreature - Cat Wizard
+p44
+aVCreature - Cat Warrior
+p45
+aVCreature - Cat Wizard
+p46
+asS'numbers'
+p47
+(lp48
+V10
+p49
+aV184
+p50
+aV75
+p51
+as.

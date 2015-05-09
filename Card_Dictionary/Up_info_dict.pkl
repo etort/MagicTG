@@ -1,0 +1,216 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVUncommon
+p4
+aVMythic Rare
+p5
+aVCommon
+p6
+aVMythic Rare
+p7
+aVRare
+p8
+aVUncommon
+p9
+aVRare
+p10
+aVCommon
+p11
+asS'editns'
+p12
+(lp13
+VTenth Edition
+p14
+aVMercadian Masques
+p15
+aVVintage Masters
+p16
+aVBetrayers of Kamigawa
+p17
+aVFrom the Vault: Annihilation (2014)
+p18
+aVOdyssey
+p19
+aVIce Age
+p20
+aVScourge
+p21
+aVFifth Edition
+p22
+asS'ids'
+p23
+(lp24
+V130494
+p25
+aV20786
+p26
+aV383143
+p27
+aV74568
+p28
+aV386296
+p29
+aV31852
+p30
+aV2541
+p31
+aV43558
+p32
+aV3954
+p33
+asS'texts'
+p34
+(lp35
+VYavimaya Enchantress gets +1/+1 for each enchantment on the battlefield.
+p36
+aVAt the beginning of your end step, if you didn't play a land this turn, you may draw a card.
+p37
+aVDestroy all creatures that aren't enchanted. They can't be regenerated.
+p38
+aVWhenever a land enters the battlefield, you may gain 1 life.
+p39
+aVReturn all permanents to their owners' hands.
+p40
+aVEnchant creature<br>At the beginning of each upkeep, put a plague counter on Traveling Plague.<br>Enchanted creature gets -1/-1 for each plague counter on Traveling Plague.<br>When enchanted creature leaves the battlefield, that creature's controller returns Traveling Plague from its owner's graveyard to the battlefield.
+p41
+aVEnchant land<br>Whenever enchanted land is tapped for mana, its controller adds {G} to his or her mana pool <i>(in addition to the mana the land produces)</i>.
+p42
+aVMana pools don't empty as steps and phases end.
+p43
+aVTarget creature gains flying until end of turn.<br><br>Draw a card at the beginning of the next turn's upkeep.
+p44
+asS'costs'
+p45
+(lp46
+V{3}{G}
+p47
+aV{2}{R}
+p48
+aV{2}{U}{U}
+p49
+aV{3}{G}
+p50
+aV{4}{U}{U}
+p51
+aV{4}{U}{U}
+p52
+aV{1}{U}
+p53
+aV{3}{G}
+p54
+aV{1}{U}
+p55
+asS'names'
+p56
+(lp57
+VUpwelling
+p58
+aVUphill Battle
+p59
+aVUpheaval
+p60
+aVUproot
+p61
+aVUpheaval
+p62
+aVUpheaval
+p63
+aVUpdraft
+p64
+aVUpwelling
+p65
+aVUpdraft
+p66
+asS'toughs'
+p67
+(lp68
+S'N/A'
+p69
+ag69
+ag69
+ag69
+ag69
+ag69
+ag69
+ag69
+ag69
+asS'artists'
+p70
+(lp71
+VChippy
+p72
+aVPete Venters
+p73
+aVKev Walker
+p74
+aVHeather Hudson
+p75
+aVKev Walker
+p76
+aVKev Walker
+p77
+aVL. A. Williams
+p78
+aVJohn Avon
+p79
+aVJohn Matson
+p80
+asS'powers'
+p81
+(lp82
+g69
+ag69
+ag69
+ag69
+ag69
+ag69
+ag69
+ag69
+ag69
+asS'types'
+p83
+(lp84
+VEnchantment
+p85
+aVEnchantment
+p86
+aVSorcery
+p87
+aVSorcery - Arcane
+p88
+aVSorcery
+p89
+aVSorcery
+p90
+aVInstant
+p91
+aVEnchantment
+p92
+aVInstant
+p93
+asS'numbers'
+p94
+(lp95
+V306
+p96
+aV222
+p97
+aV100
+p98
+aV149
+p99
+aV13
+p100
+aV113
+p101
+aV374
+p102
+aV131
+p103
+aV89
+p104
+as.

@@ -1,0 +1,482 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVCommon
+p4
+aVRare
+p5
+aVRare
+p6
+aVRare
+p7
+aVCommon
+p8
+aVUncommon
+p9
+aVCommon
+p10
+aVRare
+p11
+aVUncommon
+p12
+aVRare
+p13
+aVRare
+p14
+aVRare
+p15
+aVCommon
+p16
+aVRare
+p17
+aVRare
+p18
+aVUncommon
+p19
+aVUncommon
+p20
+aVRare
+p21
+aVCommon
+p22
+aVRare
+p23
+aVUncommon
+p24
+asS'editns'
+p25
+(lp26
+VLimited Edition Beta
+p27
+aVSaviors of Kamigawa
+p28
+aVSaviors of Kamigawa
+p29
+aVScars of Mirrodin
+p30
+aVScars of Mirrodin
+p31
+aVScars of Mirrodin
+p32
+aVMirrodin Besieged
+p33
+aVMirrodin Besieged
+p34
+aVRevised Edition
+p35
+aVChampions of Kamigawa
+p36
+aVChampions of Kamigawa
+p37
+aVChampions of Kamigawa
+p38
+aVChampions of Kamigawa
+p39
+aVBetrayers of Kamigawa
+p40
+aVUnlimited Edition
+p41
+aVMagic 2015 Core Set
+p42
+aVShadowmoor
+p43
+aVScourge
+p44
+aVMirage
+p45
+aVMirage
+p46
+aVLimited Edition Alpha
+p47
+aVMasters Edition IV
+p48
+asS'ids'
+p49
+(lp50
+V455
+p51
+aV74065
+p52
+aV87596
+p53
+aV215098
+p54
+aV194326
+p55
+aV194239
+p56
+aV213810
+p57
+aV213787
+p58
+aV1254
+p59
+aV75267
+p60
+aV75269
+p61
+aV78964
+p62
+aV82423
+p63
+aV74573
+p64
+aV757
+p65
+aV383295
+p66
+aV147423
+p67
+aV45165
+p68
+aV3342
+p69
+aV3343
+p70
+aV160
+p71
+aV202601
+p72
+asS'texts'
+p73
+(lp74
+VDefender <i>(This creature can't attack.)</i><br>{1}: Regenerate Living Wall.
+p75
+aVBushido 1 <i>(When this blocks or becomes blocked, it gets +1/+1 until end of turn.)</i><br>{1}{B}: Regenerate Kuro's Taken.
+p76
+aVAt the beginning of each player's upkeep, that player sacrifices a creature.
+p77
+aVFlying, haste<br>Metalcraft- {4}: Return Kuldotha Phoenix from your graveyard to the battlefield. Activate this ability only during your upkeep and only if you control three or more artifacts.
+p78
+aVAs an additional cost to cast Kuldotha Rebirth, sacrifice an artifact.<br>Put three 1/1 red Goblin creature tokens onto the battlefield.
+p79
+aV{T}: Add {B} to your mana pool.
+p80
+aVBattle cry <i>(Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)</i><br>Kuldotha Ringleader attacks each turn if able.
+p81
+aVLook at the top five cards of your library. You may reveal any number of creature cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.
+p82
+aVEnchant artifact<br>Whenever you're dealt damage, put that many vitality counters on Living Artifact.<br>At the beginning of your upkeep, you may remove a vitality counter from Living Artifact. If you do, you gain 1 life.
+p83
+aVFlying<br>{1}, Return a land you control to its owner's hand: Put a 1/1 blue Illusion creature token with flying onto the battlefield.
+p84
+aVSacrifice a land: Akki Avalanchers gets +2/+0 until end of turn. Activate this ability only once each turn.
+p85
+aVFlying<br>Soulshift 3 <i>(When this creature dies, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)</i>
+p86
+aVLook at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+p87
+aVNinjutsu {3}{B} <i>({3}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i><br>Whenever Okiba-Gang Shinobi deals combat damage to a player, that player discards two cards.
+p88
+aVFlying, trample<br>At the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you.
+p89
+aVLightning Strike deals 3 damage to target creature or player.
+p90
+aVOther enchantments you control have shroud.<br>Enchanted creatures you control have shroud.
+p91
+aVWhenever you cast a creature spell with converted mana cost 6 or greater, put three +1/+1 counters on Kurgadon.
+p92
+aVWhenever Kukemssa Pirates attacks and isn't blocked, you may gain control of target artifact defending player controls. If you do, Kukemssa Pirates assigns no combat damage this turn.
+p93
+aVKukemssa Serpent can't attack unless defending player controls an Island.<br>{U}, Sacrifice an Island: Target land an opponent controls becomes an Island until end of turn.<br>When you control no Islands, sacrifice Kukemssa Serpent.
+p94
+aVCreatures with power 3 or greater don't untap during their controllers' untap steps.
+p95
+aVYou have no maximum hand size.<br>If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard.
+p96
+asS'costs'
+p97
+(lp98
+V{1}{G}{G}
+p99
+aV{1}{B}
+p100
+aV{B}{B}{B}
+p101
+aV{1}{W}{W}
+p102
+aV{2}{R}{R}
+p103
+aV{5}
+p104
+aV{4}{R}{R}
+p105
+aV{4}{R}
+p106
+aV{1}{G}{G}
+p107
+aV{4}{R}
+p108
+aV{3}
+p109
+aV{3}{R}{R}
+p110
+aV{6}{B}{B}{B}
+p111
+aV{2}{R}
+p112
+aV{1}{G}{G}
+p113
+aV{4}{U}{U}
+p114
+aV{3}{B/R}{B/R}
+p115
+aV{4}{G}
+p116
+aV{3}{U}
+p117
+aV{3}{U}
+p118
+aV{1}{G}{G}
+p119
+aV{1}{G}{G}
+p120
+asS'names'
+p121
+(lp122
+VKudzu
+p123
+aVKuro's Taken
+p124
+aVKuon, Ogre Ascendant (Kuon's Essence)
+p125
+aVKuldotha Forgemaster
+p126
+aVKuldotha Phoenix
+p127
+aVKuldotha Rebirth
+p128
+aVKuldotha Flamefiend
+p129
+aVKuldotha Ringleader
+p130
+aVKudzu
+p131
+aVKumano's Pupils
+p132
+aVKusari-Gama
+p133
+aVKumano, Master Yamabushi
+p134
+aVKuro, Pitlord
+p135
+aVKumano's Blessing
+p136
+aVKudzu
+p137
+aVKurkesh, Onakke Ancient
+p138
+aVKulrath Knight
+p139
+aVKurgadon
+p140
+aVKukemssa Pirates
+p141
+aVKukemssa Serpent
+p142
+aVKudzu
+p143
+aVKudzu
+p144
+asS'toughs'
+p145
+(lp146
+S'N/A'
+p147
+aV1
+p148
+ag147
+ag147
+aV2
+p149
+ag147
+ag148
+aV5
+p150
+ag147
+aV3
+p151
+ag147
+aV4
+p152
+aV9
+p153
+ag147
+ag147
+ag151
+ag148
+ag151
+aV0
+p154
+ag151
+ag147
+ag147
+asS'artists'
+p155
+(lp156
+VMark Poole
+p157
+aVPuddnhead
+p158
+aVHideaki Takamura
+p159
+aVjD
+p160
+aVMike Bierek
+p161
+aVGoran Josic
+p162
+aS''
+p163
+ag163
+aVMark Poole
+p164
+aVGreg Hildebrandt
+p165
+aVTomas Giorello
+p166
+aVAdam Rex
+p167
+aVJon Foster
+p168
+aVKeith Garletts
+p169
+aVMark Poole
+p170
+aVSlawomir Maniak
+p171
+aVDaarken
+p172
+aVCarl Critchlow
+p173
+aVJock
+p174
+aVIan Miller
+p175
+aVMark Poole
+p176
+aVMark Poole
+p177
+asS'powers'
+p178
+(lp179
+g147
+ag148
+ag147
+ag147
+ag148
+ag147
+ag149
+ag150
+ag147
+ag151
+ag147
+ag152
+ag153
+ag147
+ag147
+ag149
+ag149
+ag151
+ag149
+ag148
+ag147
+ag147
+asS'types'
+p180
+(lp181
+VEnchantment - Aura
+p182
+aVCreature - Rat Samurai
+p183
+aVLegendary Enchantment
+p184
+aVArtifact Creature - Construct
+p185
+aVCreature - Phoenix
+p186
+aVSorcery
+p187
+aVCreature - Elemental
+p188
+aVCreature - Giant Berserker
+p189
+aVEnchantment - Aura
+p190
+aVCreature - Human Shaman
+p191
+aVArtifact - Equipment
+p192
+aVLegendary Creature - Human Shaman
+p193
+aVLegendary Creature - Demon Spirit
+p194
+aVEnchantment - Aura
+p195
+aVEnchantment - Aura
+p196
+aVLegendary Creature - Ogre Spirit
+p197
+aVCreature - Elemental Knight
+p198
+aVCreature - Beast
+p199
+aVCreature - Human Pirate
+p200
+aVCreature - Serpent
+p201
+aVEnchantment - Aura
+p202
+aVEnchantment - Aura
+p203
+asS'numbers'
+p204
+(lp205
+V150
+p206
+aV79
+p207
+aV78
+p208
+aV169
+p209
+aV95
+p210
+aV96
+p211
+aV69
+p212
+aV70
+p213
+aV35
+p214
+aV177
+p215
+aV260
+p216
+aV176
+p217
+aV123
+p218
+aV111
+p219
+aV151
+p220
+aV153
+p221
+aV190
+p222
+aV124
+p223
+aV70
+p224
+aV71
+p225
+aV191
+p226
+aV159
+p227
+as.

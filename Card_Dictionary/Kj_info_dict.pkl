@@ -1,0 +1,723 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVUncommon
+p4
+aVCommon
+p5
+aVRare
+p6
+aVCommon
+p7
+aVCommon
+p8
+aVRare
+p9
+aVRare
+p10
+aVUncommon
+p11
+aVCommon
+p12
+aVCommon
+p13
+aVUncommon
+p14
+aVRare
+p15
+aVCommon
+p16
+aVCommon
+p17
+aVCommon
+p18
+aVUncommon
+p19
+aVCommon
+p20
+aVUncommon
+p21
+aVCommon
+p22
+aVRare
+p23
+aVRare
+p24
+aVCommon
+p25
+aVCommon
+p26
+aVUncommon
+p27
+aVCommon
+p28
+aVRare
+p29
+aVUncommon
+p30
+aVRare
+p31
+aVCommon
+p32
+aVRare
+p33
+aVCommon
+p34
+aVUncommon
+p35
+aVRare
+p36
+asS'editns'
+p37
+(lp38
+VAlliances
+p39
+aVAlliances
+p40
+aVAlliances
+p41
+aVAlliances
+p42
+aVAlliances
+p43
+aVAlliances
+p44
+aVTenth Edition
+p45
+aVVintage Masters
+p46
+aVMasters Edition III
+p47
+aVMasters Edition II
+p48
+aVMasters Edition II
+p49
+aVMasters Edition II
+p50
+aVMasters Edition II
+p51
+aVMasters Edition II
+p52
+aVColdsnap
+p53
+aVColdsnap
+p54
+aVColdsnap
+p55
+aVColdsnap
+p56
+aVIce Age
+p57
+aVIce Age
+p58
+aVIce Age
+p59
+aVIce Age
+p60
+aVIce Age
+p61
+aVIce Age
+p62
+aVIce Age
+p63
+aVIce Age
+p64
+aVIce Age
+p65
+aVIce Age
+p66
+aVClassic Sixth Edition
+p67
+aVClassic Sixth Edition
+p68
+aVSeventh Edition
+p69
+aVFifth Edition
+p70
+aVFifth Edition
+p71
+aVFifth Edition
+p72
+asS'ids'
+p73
+(lp74
+V3199
+p75
+aV3200
+p76
+aV3202
+p77
+aV3233
+p78
+aV3198
+p79
+aV3201
+p80
+aV130551
+p81
+aV382990
+p82
+aV201197
+p83
+aV184641
+p84
+aV184642
+p85
+aV184554
+p86
+aV184555
+p87
+aV184644
+p88
+aV121148
+p89
+aV121188
+p90
+aV121207
+p91
+aV121235
+p92
+aV2694
+p93
+aV2695
+p94
+aV2696
+p95
+aV2697
+p96
+aV2700
+p97
+aV2701
+p98
+aV2732
+p99
+aV2461
+p100
+aV2698
+p101
+aV2699
+p102
+aV11371
+p103
+aV20179
+p104
+aV25556
+p105
+aV3853
+p106
+aV4142
+p107
+aV4141
+p108
+asS'texts'
+p109
+(lp110
+VAt end of combat, if Kjeldoran Home Guard attacked or blocked this combat, put a -0/-1 counter on Kjeldoran Home Guard and put a 0/1 white Deserter creature token onto the battlefield.
+p111
+aVEnchant creature<br>Enchanted creature gets +1/+2.<br>{2}{U}: Attach Kjeldoran Pride to target creature other than enchanted creature.
+p112
+aVUntil end of turn, target creature you control gains "{0}: The next 1 damage that would be dealt to target creature or player this turn is dealt to this creature instead." Only you may activate this ability.
+p113
+aVIf Lake of the Dead would enter the battlefield, sacrifice a Swamp instead. If you do, put Lake of the Dead onto the battlefield. If you don't, put it into its owner's graveyard.<br>{T}: Add {B} to your mana pool.<br>{T}, Sacrifice a Swamp: Add {B}{B}{B}{B} to your mana pool.
+p114
+aVShuffle a card from your hand into your library. If you do, draw two cards at the beginning of the next turn's upkeep.
+p115
+aVAn opponent chooses one- You draw three cards at the beginning of the next turn's upkeep; or you search your library for a card, put that card into your hand, then shuffle your library.
+p116
+aVGain control of target Aura that's attached to a permanent. Attach it to another permanent it can enchant.
+p117
+aVCycling {2}{G} <i>({2}{G}, Discard this card: Draw a card.)</i><br>When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.
+p118
+aVKobolds of Kher Keep is red.
+p119
+aVAt end of combat, if Kjeldoran Home Guard attacked or blocked this combat, put a -0/-1 counter on Kjeldoran Home Guard and put a 0/1 white Deserter creature token onto the battlefield.
+p120
+aVIf Kjeldoran Outpost would enter the battlefield, sacrifice a Plains instead. If you do, put Kjeldoran Outpost onto the battlefield. If you don't, put it into its owner's graveyard.<br>{T}: Add {W} to your mana pool.<br>{1}{W}, {T}: Put a 1/1 white Soldier creature token onto the battlefield.
+p121
+aVFlying; first strike; banding <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
+p122
+aVProtection from white<br>{B}: Knight of Stromgald gains first strike until end of turn.<br>{B}{B}: Knight of Stromgald gets +1/+0 until end of turn.
+p123
+aVEnchant creature<br>When Krovikan Fetish enters the battlefield, draw a card at the beginning of the next turn's upkeep.<br>Enchanted creature gets +1/+1.
+p124
+aVCreatures you control get +X/+X until end of turn, where X is 1 plus the number of cards named Kjeldoran War Cry in all graveyards.
+p125
+aV{W}: Kjeldoran Outrider gets +0/+1 until end of turn.
+p126
+aVFlying, first strike<br>Whenever Kjeldoran Gargoyle deals damage, you gain that much life.
+p127
+aVCumulative upkeep {W} or {U} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>When Jötun Owl Keeper dies, put a 1/1 white Bird creature token with flying onto the battlefield for each age counter on it.
+p128
+aVBanding <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i><br>{1}{W}: Kjeldoran Knight gets +1/+0 until end of turn.<br>{W}{W}: Kjeldoran Knight gets +0/+2 until end of turn.
+p129
+aVFirst strike; banding <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
+p130
+aVFlying; first strike; banding <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
+p131
+aVBanding <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
+p132
+aVTarget creature gains first strike until end of turn.<br><br>Draw a card at the beginning of the next turn's upkeep.
+p133
+aVAs Lost Order of Jarkeld enters the battlefield, choose an opponent.<br>Lost Order of Jarkeld's power and toughness are each equal to 1 plus the number of creatures the chosen player controls.
+p134
+aVAt the beginning of each player's end step, tap all untapped Islands that player controls and Monsoon deals X damage to the player, where X is the number of Islands tapped this way.
+p135
+aVProtection from white<br>{B}: Knight of Stromgald gains first strike until end of turn.<br>{B}{B}: Knight of Stromgald gets +1/+0 until end of turn.
+p136
+aVEnchant creature<br>When Krovikan Fetish enters the battlefield, draw a card at the beginning of the next turn's upkeep.<br>Enchanted creature gets +1/+1.
+p137
+aV{T}, Discard a nonblack card: Draw a card.<br>{T}, Discard a black card: Draw two cards, then discard one of them.
+p138
+aV{T}: All combat damage that would be dealt to you by unblocked creatures this turn is dealt to Kjeldoran Royal Guard instead.
+p139
+aVLook at target player's hand and choose X cards from it. That player discards those cards.
+p140
+aV{T}: Prevent the next 4 damage that would be dealt to target creature or player this turn.
+p141
+aVWhen Kjeldoran Dead enters the battlefield, sacrifice a creature.<br>{B}: Regenerate Kjeldoran Dead.
+p142
+aVEnchant creature<br>As Prismatic Ward enters the battlefield, choose a color.<br>Prevent all damage that would be dealt to enchanted creature by sources of the chosen color.
+p143
+aV{T}: Add {G} to your mana pool.
+p144
+asS'costs'
+p145
+(lp146
+V{2}{W}{W}
+p147
+aV{3}{W}
+p148
+aV{1}{W}
+p149
+aS'0'
+p150
+aV{2}{W}{W}
+p151
+aV{1}{W}
+p152
+aV{3}{W}{W}
+p153
+ag150
+aV{3}{G}{W}
+p154
+aV{B}
+p155
+aV{3}{W}
+p156
+aV{3}{W}
+p157
+ag150
+aV{4}{W}
+p158
+aV{1}{W}
+p159
+aV{1}{W}
+p160
+aV{5}{W}
+p161
+aV{W}
+p162
+aV{3}{W}
+p163
+aV{1}{W}
+p164
+aV{W}{W}
+p165
+aV{5}{W}
+p166
+aV{2}{W}
+p167
+aV{W}
+p168
+aV{3}{G}{W}
+p169
+aV{B}
+p170
+aV{3}{W}{W}
+p171
+aV{4}{W}
+p172
+aV{3}{W}{W}
+p173
+aV{B}
+p174
+aV{3}{W}{W}
+p175
+aV{B}
+p176
+aV{4}{W}
+p177
+aV{3}{W}{W}
+p178
+asS'names'
+p179
+(lp180
+VKjeldoran Escort
+p181
+aVKjeldoran Home Guard
+p182
+aVKjeldoran Pride
+p183
+aVKjeldoran Outpost
+p184
+aVKjeldoran Escort
+p185
+aVKjeldoran Pride
+p186
+aVKjeldoran Royal Guard
+p187
+aVKjeldoran Outpost
+p188
+aVKjeldoran Frostbeast
+p189
+aVKjeldoran Dead
+p190
+aVKjeldoran Elite Guard
+p191
+aVKjeldoran Home Guard
+p192
+aVKjeldoran Outpost
+p193
+aVKjeldoran Skycaptain
+p194
+aVKjeldoran War Cry
+p195
+aVKjeldoran Outrider
+p196
+aVKjeldoran Gargoyle
+p197
+aVKjeldoran Javelineer
+p198
+aVKjeldoran Elite Guard
+p199
+aVKjeldoran Guard
+p200
+aVKjeldoran Knight
+p201
+aVKjeldoran Phalanx
+p202
+aVKjeldoran Skyknight
+p203
+aVKjeldoran Warrior
+p204
+aVKjeldoran Frostbeast
+p205
+aVKjeldoran Dead
+p206
+aVKjeldoran Royal Guard
+p207
+aVKjeldoran Skycaptain
+p208
+aVKjeldoran Royal Guard
+p209
+aVKjeldoran Dead
+p210
+aVKjeldoran Royal Guard
+p211
+aVKjeldoran Dead
+p212
+aVKjeldoran Skycaptain
+p213
+aVKjeldoran Royal Guard
+p214
+asS'toughs'
+p215
+(lp216
+V2
+p217
+aV4
+p218
+aS'N/A'
+p219
+ag219
+ag217
+ag219
+ag217
+ag219
+aV1
+p220
+ag220
+ag217
+aV6
+p221
+ag219
+ag217
+ag219
+aV8
+p222
+ag218
+ag220
+aV3
+p223
+ag217
+ag220
+ag217
+ag217
+ag220
+ag220
+ag220
+ag220
+aV7
+p224
+aV5
+p225
+ag217
+ag218
+ag221
+ag218
+ag222
+asS'artists'
+p226
+(lp227
+VBryon Wackwitz
+p228
+aVAndi Rusu
+p229
+aVKaja Foglio
+p230
+aVJeff A. Menges
+p231
+aVBryon Wackwitz
+p232
+aVKaja Foglio
+p233
+aVCarl Critchlow
+p234
+aVNoah Bradley
+p235
+aVAnthony S. Waters
+p236
+aVMelissa A. Benson
+p237
+aVMelissa A. Benson
+p238
+aVAndi Rusu
+p239
+aVJeff A. Menges
+p240
+aVMark Poole
+p241
+aVMichael Phillippi
+p242
+aVCarl Critchlow
+p243
+aVMarcelo Vignali
+p244
+aVDave Dorman
+p245
+aVMelissa Benson
+p246
+aVAnthony Waters
+p247
+aVRon Spencer
+p248
+aVRichard Kane Ferguson
+p249
+aVMark Poole
+p250
+aVMark Poole
+p251
+aVMark Poole
+p252
+aVMelissa Benson
+p253
+aVL. A. Williams
+p254
+aVMark Poole
+p255
+aVL. A. Williams
+p256
+aVMelissa A. Benson
+p257
+aVCarl Critchlow
+p258
+aVMelissa A. Benson
+p259
+aVMark Poole
+p260
+aVL. A. Williams
+p261
+asS'powers'
+p262
+(lp263
+g223
+ag223
+ag219
+ag219
+ag217
+ag219
+ag217
+ag219
+aV0
+p264
+ag223
+ag217
+ag220
+ag219
+ag217
+ag219
+ag222
+ag217
+ag220
+ag220
+ag217
+ag220
+ag220
+ag220
+ag220
+ag220
+ag220
+ag220
+ag264
+ag217
+ag217
+ag220
+ag223
+ag217
+ag222
+asS'types'
+p265
+(lp266
+VCreature - Human Soldier
+p267
+aVCreature - Human Soldier
+p268
+aVEnchantment - Aura
+p269
+aVLand
+p270
+aVCreature - Human Soldier
+p271
+aVEnchantment - Aura
+p272
+aVCreature - Human Soldier
+p273
+aVLand
+p274
+aVCreature - Elemental Beast
+p275
+aVCreature - Skeleton
+p276
+aVCreature - Human Soldier
+p277
+aVCreature - Human Soldier
+p278
+aVLand
+p279
+aVCreature - Human Soldier
+p280
+aVInstant
+p281
+aVCreature - Human Soldier
+p282
+aVCreature - Gargoyle
+p283
+aVCreature - Human Soldier
+p284
+aVCreature - Human Soldier
+p285
+aVCreature - Human Soldier
+p286
+aVCreature - Human Knight
+p287
+aVCreature - Human Soldier
+p288
+aVCreature - Human Knight
+p289
+aVCreature - Human Warrior
+p290
+aVCreature - Elemental Beast
+p291
+aVCreature - Skeleton
+p292
+aVCreature - Human Soldier
+p293
+aVCreature - Human Soldier
+p294
+aVCreature - Human Soldier
+p295
+aVCreature - Skeleton
+p296
+aVCreature - Human Soldier
+p297
+aVCreature - Skeleton
+p298
+aVCreature - Human Soldier
+p299
+aVCreature - Human Soldier
+p300
+asS'numbers'
+p301
+(lp302
+V95
+p303
+aV96
+p304
+aV97
+p305
+aV120
+p306
+aV161
+p307
+aV162
+p308
+aV25
+p309
+aV301
+p310
+aV156
+p311
+aV98
+p312
+aV21
+p313
+aV22
+p314
+aV233
+p315
+aV23
+p316
+aV13
+p317
+aV12
+p318
+aV10
+p319
+aV11
+p320
+aV194
+p321
+aV195
+p322
+aV196
+p323
+aV197
+p324
+aV198
+p325
+aV199
+p326
+aV221
+p327
+aV307
+p328
+aV308
+p329
+aV309
+p330
+aV28
+p331
+aV140
+p332
+aV23
+p333
+aV37
+p334
+aV186
+p335
+aV319
+p336
+as.

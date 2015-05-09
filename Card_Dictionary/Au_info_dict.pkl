@@ -1,0 +1,1426 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVRare
+p4
+aVCommon
+p5
+aVUncommon
+p6
+aVRare
+p7
+aVUncommon
+p8
+aVUncommon
+p9
+aVUncommon
+p10
+aVCommon
+p11
+aVCommon
+p12
+aVCommon
+p13
+aVRare
+p14
+aVUncommon
+p15
+aVUncommon
+p16
+aVRare
+p17
+aVUncommon
+p18
+aVCommon
+p19
+aVCommon
+p20
+aVCommon
+p21
+aVCommon
+p22
+aVUncommon
+p23
+aVUncommon
+p24
+aVRare
+p25
+aVUncommon
+p26
+aVRare
+p27
+aVUncommon
+p28
+aVRare
+p29
+aVUncommon
+p30
+aVRare
+p31
+aVUncommon
+p32
+aVRare
+p33
+aVCommon
+p34
+aVUncommon
+p35
+aVCommon
+p36
+aVMythic Rare
+p37
+aVMythic Rare
+p38
+aVCommon
+p39
+aVCommon
+p40
+aVCommon
+p41
+aVRare
+p42
+aVUncommon
+p43
+aVCommon
+p44
+aVCommon
+p45
+aVUncommon
+p46
+aVCommon
+p47
+aVCommon
+p48
+aVCommon
+p49
+aVRare
+p50
+aVUncommon
+p51
+aVRare
+p52
+aVUncommon
+p53
+aVRare
+p54
+aVCommon
+p55
+aVCommon
+p56
+aVCommon
+p57
+aVRare
+p58
+aVUncommon
+p59
+aVUncommon
+p60
+aVRare
+p61
+aVCommon
+p62
+aVRare
+p63
+aVCommon
+p64
+aVRare
+p65
+aVRare
+p66
+aVCommon
+p67
+aVUncommon
+p68
+aVRare
+p69
+aVSpecial
+p70
+aVCommon
+p71
+aVCommon
+p72
+aVCommon
+p73
+asS'editns'
+p74
+(lp75
+VMagic: The Gathering-Commander
+p76
+aVMagic: The Gathering-Commander
+p77
+aVMagic 2012
+p78
+aVMagic 2012
+p79
+aVMorningtide
+p80
+aVMagic 2013
+p81
+aVPlanar Chaos
+p82
+aVScars of Mirrodin
+p83
+aVScars of Mirrodin
+p84
+aVScars of Mirrodin
+p85
+aVMagic 2014 Core Set
+p86
+aVTempest
+p87
+aVTenth Edition
+p88
+aVTenth Edition
+p89
+aVModern Masters
+p90
+aVModern Masters
+p91
+aVMasters Edition II
+p92
+aVPlanechase 2012 Edition
+p93
+aVPlanechase 2012 Edition
+p94
+aVPlanechase 2012 Edition
+p95
+aVPlanechase 2012 Edition
+p96
+aVOnslaught
+p97
+aVOnslaught
+p98
+aVChampions of Kamigawa
+p99
+aVChampions of Kamigawa
+p100
+aVBetrayers of Kamigawa
+p101
+aVUrza's Destiny
+p102
+aVRavnica: City of Guilds
+p103
+aVRavnica: City of Guilds
+p104
+aVCommander 2013 Edition
+p105
+aVCommander 2013 Edition
+p106
+aVOdyssey
+p107
+aVOdyssey
+p108
+aVReturn to Ravnica
+p109
+aVGatecrash
+p110
+aVGatecrash
+p111
+aVColdsnap
+p112
+aVIce Age
+p113
+aVMirrodin
+p114
+aVMirrodin
+p115
+aVMirrodin
+p116
+aVProphecy
+p117
+aVUrza's Legacy
+p118
+aVDarksteel
+p119
+aVDarksteel
+p120
+aVRise of the Eldrazi
+p121
+aVRise of the Eldrazi
+p122
+aVShadowmoor
+p123
+aVNew Phyrexia
+p124
+aVFifth Dawn
+p125
+aVFifth Dawn
+p126
+aVFifth Dawn
+p127
+aVFuture Sight
+p128
+aVFuture Sight
+p129
+aVDuel Decks: Venser vs. Koth
+p130
+aVMasters Edition
+p131
+aVWeatherlight
+p132
+aVInvasion
+p133
+aVInvasion
+p134
+aVFifth Edition
+p135
+aVMirage
+p136
+aVDissension
+p137
+aVLorwyn
+p138
+aVLorwyn
+p139
+aVMagic 2011
+p140
+aVMagic 2011
+p141
+aVHomelands
+p142
+aVTime Spiral "Timeshifted"
+p143
+aVDuel Decks: Heroes vs. Monsters
+p144
+aVPlaneshift
+p145
+aVPlaneshift
+p146
+asS'ids'
+p147
+(lp148
+V247184
+p149
+aV247297
+p150
+aV240308
+p151
+aV241990
+p152
+aV153280
+p153
+aV249676
+p154
+aV130813
+p155
+aV208260
+p156
+aV209051
+p157
+aV208249
+p158
+aV370793
+p159
+aV4862
+p160
+aV130976
+p161
+aV132127
+p162
+aV370370
+p163
+aV370533
+p164
+aV184712
+p165
+aV271192
+p166
+aV271147
+p167
+aV271171
+p168
+aV271207
+p169
+aV35326
+p170
+aV39900
+p171
+aV75353
+p172
+aV-78695
+p173
+aV74522
+p174
+aV15261
+p175
+aV87952
+p176
+aV89096
+p177
+aV376251
+p178
+aV376252
+p179
+aV29700
+p180
+aV29938
+p181
+aV253579
+p182
+aV366448
+p183
+aV366384
+p184
+aV121260
+p185
+aV2549
+p186
+aV45963
+p187
+aV46081
+p188
+aV48433
+p189
+aV24560
+p190
+aV12943
+p191
+aV43556
+p192
+aV48988
+p193
+aV193599
+p194
+aV193478
+p195
+aV147407
+p196
+aV214353
+p197
+aV46175
+p198
+aV51166
+p199
+aV72921
+p200
+aV132212
+p201
+aV132224
+p202
+aV270841
+p203
+aV159205
+p204
+aV4569
+p205
+aV23152
+p206
+aV23184
+p207
+aV3962
+p208
+aV3478
+p209
+aV110639
+p210
+aV141817
+p211
+aV153457
+p212
+aV208225
+p213
+aV205051
+p214
+aV2962
+p215
+aV106665
+p216
+aV373402
+p217
+aV26284
+p218
+aV26382
+p219
+asS'texts'
+p220
+(lp221
+VWhenever a creature enters the battlefield under your control, you may destroy target artifact or enchantment.
+p222
+aVChoose two- Destroy all artifacts; or destroy all enchantments; or destroy all creatures with converted mana cost 3 or less; or destroy all creatures with converted mana cost 4 or greater.
+p223
+aVFlying<br>Hexproof <i>(This creature can't be the target of spells or abilities your opponents control.)</i>
+p224
+aV{3}{U}: Draw a card.
+p225
+aVIf a source would deal damage to a player, you may prevent X of that damage, where X is the number of Clerics you control.
+p226
+aVYou may have Clone enter the battlefield as a copy of any creature on the battlefield.
+p227
+aVEnchant creature<br>Enchanted creature gets +2/+2 for each Aura attached to it and has vigilance.
+p228
+aV{W}, Sacrifice Auriok Replica: Prevent all damage a source of your choice would deal to you this turn.
+p229
+aVMetalcraft- As long as you control three or more artifacts, Auriok Sunchaser gets +2/+2 and has flying.
+p230
+aVEquipped creature gets +4/-1.<br>Equip {2}
+p231
+aVEnchant Mountain<br>Enchanted Mountain is a 7/7 red Giant creature with haste. It's still a land.
+p232
+aVFlying<br>When Avenging Angel dies, you may put it on top of its owner's library.
+p233
+aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i><br>Cloud Sprite can block only creatures with flying.
+p234
+aVTarget creature can't block this turn.<br>Draw a card.
+p235
+aV{1}{W}: Return target artifact card with converted mana cost 1 or less from your graveyard to your hand.
+p236
+aVAuntie's Snitch can't block.<br>Prowl {1}{B} <i>(You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)</i><br>Whenever a Goblin or Rogue you control deals combat damage to a player, if Auntie's Snitch is in your graveyard, you may return Auntie's Snitch to your hand.
+p237
+aVTrample<br>Whenever Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.
+p238
+aVFlying<br>When Augury Owl enters the battlefield, scry 3. <i>(To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</i>
+p239
+aVCreatures with power less than Aura Gnarlid's power can't block it.<br>Aura Gnarlid gets +1/+1 for each Aura on the battlefield.
+p240
+aVWhen Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.
+p241
+aVWhen Auratouched Mage enters the battlefield, search your library for an Aura card that could enchant it. If Auratouched Mage is still on the battlefield, put that Aura card onto the battlefield attached to it. Otherwise, reveal the Aura card and put it into your hand. Then shuffle your library.
+p242
+aVPut target enchantment on top of its owner's library.<br>Cycling {2} <i>({2}, Discard this card: Draw a card.)</i>
+p243
+aVWhenever a creature deals damage to you, put a gold counter on it.<br>Each creature with a gold counter on it is a Wall in addition to its other creature types and has defender. <i>(Those creatures can't attack.)</i><br>When Aurification leaves the battlefield, remove all gold counters from all creatures.
+p244
+aVHanabi Blast deals 2 damage to target creature or player. Return Hanabi Blast to its owner's hand, then discard a card at random.
+p245
+aS''
+p246
+aVWhenever a legendary permanent other than Yomiji, Who Bars the Way is put into a graveyard from the battlefield, return that card to its owner's hand.
+p247
+aVFlying<br>When Aura Thief dies, you gain control of all enchantments. <i>(You don't get to move Auras.)</i>
+p248
+aVRadiance- Destroy target enchantment and each other enchantment that shares a color with it.
+p249
+aVWhenever Agrus Kos, Wojek Veteran attacks, attacking red creatures get +2/+0 and attacking white creatures get +0/+2 until end of turn.
+p250
+aVWhen Augur of Bolas enters the battlefield, look at the top three cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+p251
+aVWhenever Augury Adept deals combat damage to a player, reveal the top card of your library and put that card into your hand. You gain life equal to its converted mana cost.
+p252
+aVWhen Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.
+p253
+aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i> <br>When Aven Cloudchaser enters the battlefield, destroy target enchantment.
+p254
+aVTarget creature gets +4/-4 until end of turn.
+p255
+aVFlying, vigilance, haste<br>Whenever Aurelia, the Warleader attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.
+p256
+aVAurelia's Fury deals X damage divided as you choose among any number of target creatures and/or players. Tap each creature dealt damage this way. Players dealt damage this way can't cast noncreature spells this turn.
+p257
+aVWhenever another nontoken creature you control dies, put a 3/1 black and red Graveborn creature token with haste onto the battlefield.
+p258
+aVEnchant creature<br>At the beginning of your upkeep, sacrifice Binding Grasp unless you pay {1}{U}.<br>You control enchanted creature.<br>Enchanted creature gets +0/+1.
+p259
+aV{W}, {T}: Tap target artifact.
+p260
+aVEquip costs you pay cost {1} less.<br>As long as Auriok Steelshaper is equipped, Soldier and/or Knight creatures you control get +1/+1.
+p261
+aV{T}: Target creature gets +X/+X until end of turn, where X is Auriok Bladewarden's power.
+p262
+aVSacrifice a land: Destroy target enchantment.
+p263
+aVOther enchantments have "At the beginning of your upkeep, sacrifice this enchantment unless you pay {2}."
+p264
+aV{1}: Target artifact creature blocks Auriok Siege Sled this turn if able.<br>{1}: Target artifact creature can't block Auriok Siege Sled this turn.
+p265
+aVAs long as Auriok Glaivemaster is equipped, it gets +1/+1 and has first strike.
+p266
+aVAttach target Aura you control to target creature.<br>Draw a card.
+p267
+aVCreatures with power less than Aura Gnarlid's power can't block it.<br>Aura Gnarlid gets +1/+1 for each Aura on the battlefield.
+p268
+aVMove all counters from target creature onto another target creature.
+p269
+aVWhen Auriok Survivors enters the battlefield, you may return target Equipment card from your graveyard to the battlefield. If you do, you may attach it to Auriok Survivors.
+p270
+aVFlying<br>{T}: Attach target Equipment you control to target creature you control.
+p271
+aV{1}{W}: Return target artifact card with converted mana cost 1 or less from your graveyard to your hand.
+p272
+aV{1}{R}, Remove a +1/+1 counter or a charge counter from a permanent you control: Ion Storm deals 2 damage to target creature or player.
+p273
+aV{T}: Add {1} to your mana pool.<br>Morph {2} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p274
+aVEnchant creature<br>{T}: Enchanted creature gets +2/-2 until end of turn.
+p275
+aVFlying<br>When Augury Owl enters the battlefield, scry 3. <i>(To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</i>
+p276
+aVShroud<br>{G}: Until end of turn, Autumn Willow can be the target of spells and abilities controlled by target player as though it didn't have shroud.
+p277
+aVArtifact and enchantment spells your opponents cast cost {2} more to cast.<br>Sacrifice Aura of Silence: Destroy target artifact or enchantment.
+p278
+aVWhenever a creature enters the battlefield under your control, you may destroy target artifact or enchantment.
+p279
+aVDestroy target enchantment. Put X 1/1 green Saproling creature tokens onto the battlefield, where X is that enchantment's converted mana cost.
+p280
+aVTrample<br>Whenever Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.
+p281
+aVWhen Auspicious Ancestor dies, you gain 3 life.<br>Whenever a player casts a white spell, you may pay {1}. If you do, you gain 1 life.
+p282
+aV{W}, Sacrifice Aurora Eidolon: Prevent the next 3 damage that would be dealt to target creature or player this turn.<br>Whenever you cast a multicolored spell, you may return Aurora Eidolon from your graveyard to your hand.
+p283
+aVChoose two- Destroy all artifacts; or destroy all enchantments; or destroy all creatures with converted mana cost 3 or less; or destroy all creatures with converted mana cost 4 or greater.
+p284
+aVAs Secluded Glen enters the battlefield, you may reveal a Faerie card from your hand. If you don't, Secluded Glen enters the battlefield tapped.<br>{T}: Add {U} or {B} to your mana pool.
+p285
+aVSpells you control can't be countered by blue or black spells this turn, and creatures you control can't be the targets of blue or black spells this turn.
+p286
+aVWhen Awakener Druid enters the battlefield, target Forest becomes a 4/5 green Treefolk creature for as long as Awakener Druid remains on the battlefield. It's still a land.
+p287
+aVShroud<br>{G}: Until end of turn, Autumn Willow can be the target of spells and abilities controlled by target player as though it didn't have shroud.
+p288
+aVSacrifice an enchantment: Auratog gets +2/+2 until end of turn.
+p289
+aVWhen Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.
+p290
+aVFlying<br>{W}: Target permanent becomes white until end of turn.
+p291
+aVDestroy target enchantment.<br>Draw a card.
+p292
+asS'costs'
+p293
+(lp294
+V{1}{G}{W}
+p295
+aV{4}{W}{W}
+p296
+aV{2}{W}
+p297
+aV{G}
+p298
+aV{2}{B}
+p299
+aV{2}{U}
+p300
+aV{2}{U}{U}
+p301
+aV{W}{W}
+p302
+aV{3}
+p303
+aV{1}{W}
+p304
+aV{B}
+p305
+aV{1}{W}
+p306
+aV{1}{U}
+p307
+aV{1}{W}{W}
+p308
+aV{3}{W}
+p309
+aV{2}{B}
+p310
+aV{3}{G}
+p311
+aV{1}{U}
+p312
+aV{2}{G}
+p313
+aV{2}{W}
+p314
+aV{5}{W}
+p315
+aV{1}{W}
+p316
+aV{2}{W}{W}
+p317
+aV{U}{U}
+p318
+aV{3}{W}
+p319
+aV{2}{R}
+p320
+aV{3}{U}
+p321
+aV{5}{W}
+p322
+aV{10}{G}{G}{G}{W}{W}
+p323
+aV{1}{U}
+p324
+aV{1}{W/U}{W/U}
+p325
+aV{2}{W}
+p326
+aV{1}{U}
+p327
+aV{1}{B}{R}
+p328
+aV{2}{R}{R}{W}{W}
+p329
+aV{X}{R}{W}
+p330
+aV{5}{G}
+p331
+aV{3}{G}
+p332
+aV{W}
+p333
+aV{1}{W}
+p334
+aV{1}{W}
+p335
+aV{2}{W}
+p336
+aV{2}{U}
+p337
+aV{6}
+p338
+aV{W}
+p339
+aV{U}
+p340
+aV{2}{G}
+p341
+aV{1}{W/U}{W/U}
+p342
+aV{5}{W}
+p343
+aV{3}{W}
+p344
+aV{3}{W}
+p345
+aV{W}{W}
+p346
+aV{1}{W}
+p347
+aV{1}{B}
+p348
+aV{2}{W}
+p349
+aV{4}{G}{G}
+p350
+aV{1}{W}{W}
+p351
+aV{1}{G}{W}
+p352
+aV{G}{W}
+p353
+aV{3}{G}
+p354
+aV{3}{W}
+p355
+aV{3}{W}
+p356
+aV{1}{U}
+p357
+aS'0'
+p358
+aV{3}{W}
+p359
+aV{1}{U}
+p360
+aV{4}{G}{G}
+p361
+aV{1}{W}
+p362
+aV{2}{W}
+p363
+aV{3}{W}
+p364
+aV{1}{W}
+p365
+asS'names'
+p366
+(lp367
+VAura Shards
+p368
+aVAustere Command
+p369
+aVAuramancer
+p370
+aVAutumn's Veil
+p371
+aVAuntie's Snitch
+p372
+aVAugur of Bolas
+p373
+aVAuramancer's Guise
+p374
+aVAuriok Edgewright
+p375
+aVAuriok Replica
+p376
+aVAuriok Sunchaser
+p377
+aVAuramancer
+p378
+aVAuratog
+p379
+aVAura Graft
+p380
+aVAura of Silence
+p381
+aVAuriok Salvagers
+p382
+aVAuntie's Snitch
+p383
+aVAurochs
+p384
+aVAugury Owl
+p385
+aVAura Gnarlid
+p386
+aVAuramancer
+p387
+aVAuratouched Mage
+p388
+aVAura Extraction
+p389
+aVAurification
+p390
+aVAura of Dominion
+p391
+aVAutumn-Tail, Kitsune Sage
+p392
+aVAura Barbs
+p393
+aVAura Thief
+p394
+aVAuratouched Mage
+p395
+aVAutochthon Wurm
+p396
+aVAugur of Bolas
+p397
+aVAugury Adept
+p398
+aVAuramancer
+p399
+aVAura Graft
+p400
+aVAuger Spree
+p401
+aVAurelia, the Warleader
+p402
+aVAurelia's Fury
+p403
+aVAurochs Herd
+p404
+aVAurochs
+p405
+aVAuriok Transfixer
+p406
+aVAuriok Steelshaper
+p407
+aVAuriok Bladewarden
+p408
+aVAura Fracture
+p409
+aVAura Flux
+p410
+aVAuriok Siege Sled
+p411
+aVAuriok Glaivemaster
+p412
+aVAura Finesse
+p413
+aVAura Gnarlid
+p414
+aVAugury Adept
+p415
+aVAuriok Survivors
+p416
+aVAuriok Windwalker
+p417
+aVAuriok Salvagers
+p418
+aVAuriok Champion
+p419
+aVAugur il-Vec
+p420
+aVAugur of Skulls
+p421
+aVAugury Owl
+p422
+aVAutumn Willow
+p423
+aVAura of Silence
+p424
+aVAura Shards
+p425
+aVAura Mutation
+p426
+aVAurochs
+p427
+aVAuspicious Ancestor
+p428
+aVAurora Eidolon
+p429
+aVAustere Command
+p430
+aVAuntie's Hovel
+p431
+aVAugury Owl
+p432
+aVAutumn's Veil
+p433
+aVAutumn Willow
+p434
+aVAuratog
+p435
+aVAuramancer
+p436
+aVAurora Griffin
+p437
+aVAura Blast
+p438
+asS'toughs'
+p439
+(lp440
+S'N/A'
+p441
+ag441
+aV2
+p442
+ag441
+aV1
+p443
+ag443
+ag441
+ag442
+ag441
+ag442
+aV5
+p444
+aV3
+p445
+ag441
+ag441
+aV4
+p446
+ag443
+ag443
+ag443
+ag442
+ag442
+ag445
+ag441
+ag441
+ag441
+ag445
+ag441
+ag443
+ag446
+ag444
+ag445
+ag442
+ag442
+ag441
+ag441
+ag442
+ag441
+ag446
+ag446
+ag443
+ag445
+ag446
+ag441
+ag441
+ag441
+ag446
+ag441
+ag442
+ag443
+ag442
+ag445
+ag442
+ag443
+ag443
+ag445
+ag442
+ag443
+ag441
+ag441
+ag441
+aV6
+p447
+ag442
+ag442
+ag441
+ag441
+ag442
+ag441
+ag442
+ag442
+ag442
+ag442
+ag441
+asS'artists'
+p448
+(lp449
+VRon Spencer
+p450
+aVWayne England
+p451
+ag246
+ag246
+aVWarren Mahy
+p452
+aVSlawomir Maniak
+p453
+aVGreg Staples
+p454
+aVMike Bierek
+p455
+aVZoltan Boros & Gabor Szikszai
+p456
+aVJames Ryman
+p457
+aVRebecca Guay
+p458
+aVJeff Miracola
+p459
+aVRay Lago
+p460
+aVD. Alexander Gregory
+p461
+ag246
+ag246
+aVKen Meyer, Jr.
+p462
+ag246
+ag246
+ag246
+ag246
+aVLuca Zontini
+p463
+aVGary Ruddell
+p464
+aVRandy Gallegos
+p465
+aVJim Murray
+p466
+aVAleksi Briclot
+p467
+aVRon Spears
+p468
+aVJeff Miracola
+p469
+aVMichael Phillippi
+p470
+aVSlawomir Maniak
+p471
+aVSteve Prescott
+p472
+aVRebecca Guay
+p473
+aVRay Lago
+p474
+aVRaymond Swanland
+p475
+aVSlawomir Maniak
+p476
+aVTyler Jacobson
+p477
+aVDarrell Riche
+p478
+aVKen Meyer Jr.
+p479
+aVStephen Tappin
+p480
+aVDany Orizio
+p481
+aVDave Dorman
+p482
+aVRebecca Guay
+p483
+aVJohn Avon
+p484
+aVJim Murray
+p485
+aVJohn Matson
+p486
+aVHoward Lyon
+p487
+aVLars Grant-West
+p488
+aVSteve Prescott
+p489
+ag246
+aVJeremy Jarvis
+p490
+aVRandy Gallegos
+p491
+aVMichael Sutfin
+p492
+aVDaren Bader
+p493
+aVChippy
+p494
+ag246
+aVMargaret Organ-Kean
+p495
+aVD. Alexander Gregory
+p496
+aVRon Spencer
+p497
+aVPete Venters
+p498
+aVSteve White
+p499
+aVZina Saunders
+p500
+aVJustin Sweet
+p501
+aVWayne England
+p502
+aVWayne Reynolds
+p503
+aVJim Nelson
+p504
+aVKekai Kotaki
+p505
+aVMargaret Organ-Kean
+p506
+aVJeff Miracola
+p507
+aVRebecca Guay
+p508
+aVCiruelo
+p509
+aVRon Walotsky
+p510
+asS'powers'
+p511
+(lp512
+g441
+ag441
+ag445
+ag441
+ag445
+ag443
+ag441
+ag442
+ag441
+ag442
+ag442
+aV*
+p513
+ag441
+ag441
+ag442
+ag443
+ag445
+ag443
+ag442
+ag442
+ag445
+ag441
+ag441
+ag441
+ag442
+ag441
+ag442
+ag446
+ag446
+ag443
+ag442
+ag442
+ag441
+ag441
+ag445
+ag441
+ag446
+ag442
+ag443
+ag443
+ag446
+ag441
+ag441
+ag441
+ag445
+ag441
+ag442
+ag443
+ag442
+ag442
+ag442
+ag443
+ag442
+ag442
+ag443
+ag443
+ag441
+ag441
+ag441
+ag444
+ag443
+ag442
+ag441
+ag441
+ag443
+ag441
+ag442
+ag443
+ag442
+ag442
+ag441
+asS'types'
+p514
+(lp515
+VEnchantment
+p516
+aVSorcery
+p517
+aVCreature - Human Wizard
+p518
+aVInstant
+p519
+aVCreature - Goblin Rogue
+p520
+aVCreature - Merfolk Wizard
+p521
+aVEnchantment - Aura
+p522
+aVCreature - Human Soldier
+p523
+aVArtifact Creature - Cleric
+p524
+aVCreature - Human Soldier
+p525
+aVCreature - Human Wizard
+p526
+aVCreature - Atog
+p527
+aVInstant
+p528
+aVEnchantment
+p529
+aVCreature - Human Soldier
+p530
+aVCreature - Goblin Rogue
+p531
+aVCreature - Aurochs
+p532
+aVCreature - Bird
+p533
+aVCreature - Beast
+p534
+aVCreature - Human Wizard
+p535
+aVCreature - Human Wizard
+p536
+aVInstant
+p537
+aVEnchantment
+p538
+aVEnchantment - Aura
+p539
+aVLegendary Creature - Fox Wizard
+p540
+aVInstant - Arcane
+p541
+aVCreature - Illusion
+p542
+aVCreature - Human Wizard
+p543
+aVCreature - Wurm
+p544
+aVCreature - Merfolk Wizard
+p545
+aVCreature - Kithkin Wizard
+p546
+aVCreature - Human Wizard
+p547
+aVInstant
+p548
+aVInstant
+p549
+aVLegendary Creature - Angel
+p550
+aVInstant
+p551
+aVCreature - Aurochs
+p552
+aVCreature - Aurochs
+p553
+aVCreature - Human Scout
+p554
+aVCreature - Human Soldier
+p555
+aVCreature - Human Soldier
+p556
+aVEnchantment
+p557
+aVEnchantment
+p558
+aVArtifact Creature - Juggernaut
+p559
+aVCreature - Human Soldier
+p560
+aVInstant
+p561
+aVCreature - Beast
+p562
+aVCreature - Kithkin Wizard
+p563
+aVCreature - Human Soldier
+p564
+aVCreature - Human Wizard
+p565
+aVCreature - Human Soldier
+p566
+aVCreature - Human Cleric
+p567
+aVCreature - Human Cleric
+p568
+aVCreature - Skeleton Wizard
+p569
+aVCreature - Bird
+p570
+aVLegendary Creature - Avatar
+p571
+aVEnchantment
+p572
+aVEnchantment
+p573
+aVInstant
+p574
+aVCreature - Aurochs
+p575
+aVCreature - Human Cleric
+p576
+aVCreature - Spirit
+p577
+aVSorcery
+p578
+aVLand
+p579
+aVCreature - Bird
+p580
+aVInstant
+p581
+aVLegendary Creature - Avatar
+p582
+aVCreature - Atog
+p583
+aVCreature - Human Wizard
+p584
+aVCreature - Griffin
+p585
+aVInstant
+p586
+asS'numbers'
+p587
+(lp588
+V182
+p589
+aV8
+p590
+aV9
+p591
+aV164
+p592
+aV57
+p593
+aV43
+p594
+aV34
+p595
+ag445
+aV138
+p596
+ag446
+ag447
+aV176
+p597
+aV67
+p598
+ag447
+ag246
+ag246
+aV153
+p599
+aV46
+p600
+aV47
+p601
+aV48
+p602
+aV49
+p603
+ag444
+ag447
+aV51
+p604
+aV28b
+p605
+aV94
+p606
+aV26
+p607
+ag443
+aV191
+p608
+aV30
+p609
+aV227
+p610
+ag444
+aV62
+p611
+aV144
+p612
+aV143
+p613
+aV144
+p614
+aV103
+p615
+aV247
+p616
+ag444
+ag446
+ag445
+ag442
+aV27
+p617
+aV105
+p618
+ag443
+aV54
+p619
+aV175
+p620
+aV137
+p621
+ag445
+ag444
+ag446
+ag445
+ag442
+aV63
+p622
+ag246
+aV113
+p623
+aV122
+p624
+aV233
+p625
+aV232
+p626
+aV94
+p627
+aV166
+p628
+ag443
+ag445
+aV267
+p629
+aV45
+p630
+aV162
+p631
+aV34
+p632
+ag442
+ag591
+ag442
+ag443
+as.

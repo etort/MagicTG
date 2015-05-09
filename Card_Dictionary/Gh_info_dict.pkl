@@ -1,0 +1,1432 @@
+(dp0
+S'rares'
+p1
+(lp2
+VMythic Rare
+p3
+aVUncommon
+p4
+aVUncommon
+p5
+aVUncommon
+p6
+aVUncommon
+p7
+aVUncommon
+p8
+aVUncommon
+p9
+aVUncommon
+p10
+aVCommon
+p11
+aVCommon
+p12
+aVCommon
+p13
+aVUncommon
+p14
+aVUncommon
+p15
+aVUncommon
+p16
+aVCommon
+p17
+aVUncommon
+p18
+aVCommon
+p19
+aVCommon
+p20
+aVCommon
+p21
+aVUncommon
+p22
+aVRare
+p23
+aVCommon
+p24
+aVRare
+p25
+aVCommon
+p26
+aVCommon
+p27
+aVCommon
+p28
+aVUncommon
+p29
+aVCommon
+p30
+aVUncommon
+p31
+aVUncommon
+p32
+aVUncommon
+p33
+aVUncommon
+p34
+aVRare
+p35
+aVCommon
+p36
+aVCommon
+p37
+aVUncommon
+p38
+aVUncommon
+p39
+aVRare
+p40
+aVCommon
+p41
+aVUncommon
+p42
+aVCommon
+p43
+aVUncommon
+p44
+aVUncommon
+p45
+aVUncommon
+p46
+aVRare
+p47
+aVCommon
+p48
+aVCommon
+p49
+aVRare
+p50
+aVCommon
+p51
+aVCommon
+p52
+aVRare
+p53
+aVCommon
+p54
+aVRare
+p55
+aVUncommon
+p56
+aVCommon
+p57
+aVCommon
+p58
+aVCommon
+p59
+aVCommon
+p60
+aVCommon
+p61
+aVUncommon
+p62
+aVUncommon
+p63
+aVUncommon
+p64
+aVCommon
+p65
+aVUncommon
+p66
+aVCommon
+p67
+aVSpecial
+p68
+aVCommon
+p69
+aVUncommon
+p70
+aVUncommon
+p71
+aVRare
+p72
+asS'editns'
+p73
+(lp74
+VMagic: The Gathering-Commander
+p75
+aVMagic: The Gathering-Commander
+p76
+aVSaviors of Kamigawa
+p77
+aVSaviors of Kamigawa
+p78
+aVSaviors of Kamigawa
+p79
+aVSaviors of Kamigawa
+p80
+aVSaviors of Kamigawa
+p81
+aVFourth Edition
+p82
+aVPlanar Chaos
+p83
+aVDuel Decks: Knights vs. Dragons
+p84
+aVScars of Mirrodin
+p85
+aVBorn of the Gods
+p86
+aVTempest
+p87
+aVTenth Edition
+p88
+aVTenth Edition
+p89
+aVMercadian Masques
+p90
+aVThe Dark
+p91
+aVMasters Edition III
+p92
+aVMasters Edition III
+p93
+aVGuildpact
+p94
+aVGuildpact
+p95
+aVGuildpact
+p96
+aVGuildpact
+p97
+aVGuildpact
+p98
+aVAvacyn Restored
+p99
+aVAvacyn Restored
+p100
+aVAvacyn Restored
+p101
+aVAvacyn Restored
+p102
+aVPlanechase 2012 Edition
+p103
+aVOnslaught
+p104
+aVChampions of Kamigawa
+p105
+aVModern Event Deck 2014
+p106
+aVRavnica: City of Guilds
+p107
+aVOdyssey
+p108
+aVTime Spiral
+p109
+aVTime Spiral
+p110
+aVGatecrash
+p111
+aVIce Age
+p112
+aVTorment
+p113
+aVSeventh Edition
+p114
+aVUrza's Legacy
+p115
+aVUrza's Legacy
+p116
+aVUrza's Legacy
+p117
+aVUrza's Legacy
+p118
+aVShadowmoor
+p119
+aVShadowmoor
+p120
+aVFuture Sight
+p121
+aVLegions
+p122
+aVMasters Edition
+p123
+aVChronicles
+p124
+aVInvasion
+p125
+aVFifth Edition
+p126
+aVKhans of Tarkir
+p127
+aVInnistrad
+p128
+aVInnistrad
+p129
+aVInnistrad
+p130
+aVInnistrad
+p131
+aVInnistrad
+p132
+aVLegends
+p133
+aVDissension
+p134
+aVDuel Decks: Izzet vs. Golgari
+p135
+aVLorwyn
+p136
+aVArabian Nights
+p137
+aVHomelands
+p138
+aVPortal Three Kingdoms
+p139
+aVTime Spiral "Timeshifted"
+p140
+aVDuel Decks: Heroes vs. Monsters
+p141
+aVPremium Deck Series: Fire and Lightning
+p142
+aVDark Ascension
+p143
+aVDark Ascension
+p144
+asS'ids'
+p145
+(lp146
+V236501
+p147
+aV247173
+p148
+aV73996
+p149
+aV74068
+p150
+aV74082
+p151
+aV74401
+p152
+aV87341
+p153
+aV2158
+p154
+aV126809
+p155
+aV243486
+p156
+aV194124
+p157
+aV378384
+p158
+aV4932
+p159
+aV106564
+p160
+aV132105
+p161
+aV19596
+p162
+aV1754
+p163
+aV201279
+p164
+aV201139
+p165
+aV96834
+p166
+aV96842
+p167
+aV96849
+p168
+aV96908
+p169
+aV96901
+p170
+aV240003
+p171
+aV240101
+p172
+aV278260
+p173
+aV239970
+p174
+aV275264
+p175
+aV39595
+p176
+aV75328
+p177
+aV382185
+p178
+aV89042
+p179
+aV29744
+p180
+aV108838
+p181
+aV109717
+p182
+aV366287
+p183
+aV2728
+p184
+aV32235
+p185
+aV15809
+p186
+aV12475
+p187
+aV12497
+p188
+aV13810
+p189
+aV12815
+p190
+aV153297
+p191
+aV158682
+p192
+aV136044
+p193
+aV42178
+p194
+aV159127
+p195
+aV2832
+p196
+aV23086
+p197
+aV3981
+p198
+aV386545
+p199
+aV220371
+p200
+aV220052
+p201
+aV237362
+p202
+aV220021
+p203
+aV220019
+p204
+aV1438
+p205
+aV107504
+p206
+aV338407
+p207
+aV139447
+p208
+aV946
+p209
+aV2921
+p210
+aV10546
+p211
+aV107294
+p212
+aV373373
+p213
+aV234698
+p214
+aV242498
+p215
+aV262662
+p216
+asS'texts'
+p217
+(lp218
+VGhave, Guru of Spores enters the battlefield with five +1/+1 counters on it.<br>{1}, Remove a +1/+1 counter from a creature you control: Put a 1/1 green Saproling creature token onto the battlefield.<br>{1}, Sacrifice a creature: Put a +1/+1 counter on target creature.
+p219
+aVCreatures can't attack you unless their controller pays {2} for each creature he or she controls that's attacking you.
+p220
+aV{3}{U}, {T}: Counter target spell unless its controller pays {2}.<br>Channel- {3}{U}, Discard Ghost-Lit Warder: Counter target spell unless its controller pays {4}.
+p221
+aV{2}{G}, {T}: Target creature gets +2/+2 until end of turn.<br>Channel- {3}{G}, Discard Ghost-Lit Nourisher: Target creature gets +4/+4 until end of turn.
+p222
+aV{W}, {T}: You gain 2 life.<br>Channel- {1}{W}, Discard Ghost-Lit Redeemer: You gain 4 life.
+p223
+aV{4}{B}, {T}: Target player discards two cards. Activate this ability only any time you could cast a sorcery.<br>Channel- {5}{B}{B}, Discard Ghost-Lit Stalker: Target player discards four cards. Activate this ability only any time you could cast a sorcery.
+p224
+aV{2}{R}, {T}: Ghost-Lit Raider deals 2 damage to target creature.<br>Channel- {3}{R}, Discard Ghost-Lit Raider: Ghost-Lit Raider deals 4 damage to target creature.
+p225
+aVFlying<br>{U}{U}{U}: Regenerate Ghost Ship.
+p226
+aV{W}, {T}, Discard a card: Creatures you control get +1/+0 until end of turn.
+p227
+aVGhostfire is colorless.<br>Ghostfire deals 3 damage to target creature or player.
+p228
+aVVigilance<br>When Glimmerpoint Stag enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+p229
+aVExile target creature. Put a colorless artifact token named Gold onto the battlefield. It has "Sacrifice this artifact: Add one mana of any color to your mana pool."
+p230
+aV{T}: Add {1} to your mana pool.<br><br>{T}: Untap target attacking creature with shadow. Prevent all combat damage that would be dealt to and dealt by that creature this turn.
+p231
+aVGhitu Encampment enters the battlefield tapped.<br>{T}: Add {R} to your mana pool.<br>{1}{R}: Ghitu Encampment becomes a 2/1 red Warrior creature with first strike until end of turn. It's still a land. <i>(It deals combat damage before creatures without first strike.)</i>
+p232
+aVEach creature you control can block an additional creature.
+p233
+aVTarget player discards a card at random.
+p234
+aV{T}, Sacrifice Goblin Digging Team: Destroy target Wall.
+p235
+aVTarget creature gets +3/+3 until end of turn.
+p236
+aVSearch your library for a card and put that card into your hand, then shuffle your library. You lose 3 life.
+p237
+aVFlying<br>When Sky Swallower enters the battlefield, target opponent gains control of all other permanents you control.
+p238
+aVFlying<br>At the beginning of your upkeep, tap target creature.
+p239
+aVReplicate {2}{U} <i>(When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)</i><br>Return target creature to its owner's hand.
+p240
+aV<i>({W/B} can be paid with either {W} or {B}.)</i><br>Flying<br>Whenever Mourning Thrull deals damage, you gain that much life.
+p241
+aVSavage Twister deals X damage to each creature.
+p242
+aVExile two target artifacts, creatures, and/or lands you control, then return those cards to the battlefield under your control.
+p243
+aVEnchant creature<br>Enchanted creature has "Whenever this creature attacks, you may tap or untap target permanent."
+p244
+aVEnchant creature<br>Enchanted creature gets -1/-1 and is a black Zombie in addition to its other colors and types.
+p245
+aVFlying, first strike<br>If a source would deal damage to an opponent or a permanent an opponent controls, that source deals double that damage to that player or permanent instead.<br>If a source would deal damage to you or a permanent you control, prevent half that damage, rounded up.
+p246
+aVFlying<br>Other blue creatures you control get +1/+1.<br>Other black creatures you control get +1/+1.
+p247
+aVYou may choose not to untap Ghosthelm Courier during your untap step.<br>{2}{U}, {T}: Target Wizard creature gets +2/+2 and has shroud for as long as Ghosthelm Courier remains tapped. <i>(It can't be the target of spells or abilities.)</i>
+p248
+aVWhenever a source you control deals damage to another player, put that many theft counters on Night Dealings.<br>{2}{B}{B}, Remove X theft counters from Night Dealings: Search your library for a nonland card with converted mana cost X, reveal it, and put it into your hand. Then shuffle your library.
+p249
+aV{T}: Add {1} to your mana pool.<br>{T}, Sacrifice Ghost Quarter: Destroy target land. Its controller may search his or her library for a basic land card, put it onto the battlefield, then shuffle his or her library.
+p250
+aV{T}: Add {1} to your mana pool.<br>{3}{B}{G}: Until end of turn, Svogthos, the Restless Tomb becomes a black and green Plant Zombie creature with "This creature's power and toughness are each equal to the number of creature cards in your graveyard." It's still a land.
+p251
+aVDestroy target nonblack creature if its toughness is less than or equal to the number of cards in your graveyard.
+p252
+aVFlash <i>(You may cast this spell any time you could cast an instant.)</i><br>Enchant creature<br>{R}: Enchanted creature gets +1/+0 until end of turn.<br>{R}: Return Ghitu Firebreathing to its owner's hand.
+p253
+aVAll Slivers are colorless.
+p254
+aVTrample<br>Bloodrush- {R}{G}, Discard Ghor-Clan Rampager: Target attacking creature gets +4/+4 and gains trample until end of turn.
+p255
+aVAt the beginning of your upkeep, sacrifice Glaciers unless you pay {W}{U}.<br><br>All Mountains are Plains.
+p256
+aVEnchant creature<br>Enchanted creature gets +1/+1 and has flying.<br>Discard a card: Return enchanted creature to its owner's hand.
+p257
+aV{R}: Storm Shaman gets +1/+0 until end of turn.
+p258
+aVEcho {2}{R} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i><br>When Ghitu Slinger enters the battlefield, it deals 2 damage to target creature or player.
+p259
+aVGhitu Encampment enters the battlefield tapped.<br>{T}: Add {R} to your mana pool.<br>{1}{R}: Ghitu Encampment becomes a 2/1 red Warrior creature with first strike until end of turn. It's still a land. <i>(It deals combat damage before creatures without first strike.)</i>
+p260
+aV{R}: Target creature gets +1/+0 until end of turn.
+p261
+aV{T}, Sacrifice Ghitu Fire-Eater: Ghitu Fire-Eater deals damage equal to its power to target creature or player.
+p262
+aVWhenever you cast a white spell, Thistledown Duo gets +1/+1 until end of turn.<br>Whenever you cast a blue spell, Thistledown Duo gains flying until end of turn.
+p263
+aVPlainswalk<br>{2}{R}, Sacrifice Boggart Arsonists: Destroy target Scarecrow or Plains.
+p264
+aVTolaria West enters the battlefield tapped.<br>{T}: Add {U} to your mana pool.<br>Transmute {1}{U}{U} <i>({1}{U}{U}, Discard this card: Search your library for a card with converted mana cost 0, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)</i>
+p265
+aVAmplify 1 <i>(As this creature enters the battlefield, put a +1/+1 counter on it for each Zombie card you reveal in your hand.)</i><br>At the beginning of your upkeep, if Ghastly Remains is in your graveyard, you may pay {B}{B}{B}. If you do, return Ghastly Remains to your hand.
+p266
+aVAt the beginning of your upkeep, if a player has more life than each other player, the player with the most life gains control of Ghazbán Ogre.
+p267
+aVEnchant land<br>As long as enchanted land is a basic Mountain, Goblin creatures get +1/+0.<br>When Goblin Shrine leaves the battlefield, it deals 1 damage to each Goblin creature.
+p268
+aVYou may cast Ghitu Fire any time you could cast an instant if you pay {2} more to cast it.<br>Ghitu Fire deals X damage to target creature or player.
+p269
+aVAt the beginning of your upkeep, sacrifice Hungry Mist unless you pay {G}{G}.
+p270
+aVMorph {4}{U} <i>(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p271
+aVEnchant creature<br>Enchanted creature has flying.<br>Prevent all combat damage that would be dealt to and dealt by enchanted creature.
+p272
+aV{T}: Each player puts the top card of his or her library into his or her graveyard.
+p273
+aVChoose one- Return target creature card from your graveyard to your hand; or return two target Zombie cards from your graveyard to your hand.
+p274
+aVWhen Ghoulraiser enters the battlefield, return a Zombie card at random from your graveyard to your hand.
+p275
+aVYou gain 2 life for each creature card in your graveyard.<br>Flashback {2}{G} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
+p276
+aV{T}: Target creature gets -1/-0 until end of turn.
+p277
+aV{T}: Add {1} to your mana pool.<br>{T}, Sacrifice Ghost Quarter: Destroy target land. Its controller may search his or her library for a basic land card, put it onto the battlefield, then shuffle his or her library.
+p278
+aVTarget creature gets +X/+0 until end of turn, where X is the number of creature cards in your graveyard.
+p279
+aVChangeling <i>(This card is every creature type at all times.)</i><br>{1}{B}: Ghostly Changeling gets +1/+1 until end of turn.
+p280
+aVAt the beginning of your upkeep, if a player has more life than each other player, the player with the most life gains control of Ghazbán Ogre.
+p281
+aVVigilance<br>Whenever Ghost Hounds blocks or becomes blocked by a white creature, Ghost Hounds gains first strike until end of turn.
+p282
+aVStolen Grain deals 5 damage to target opponent. You gain 5 life.
+p283
+aVFlying<br>{U}{U}{U}: Regenerate Ghost Ship.
+p284
+aVBloodthirst 3 <i>(If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)</i>
+p285
+aVGhitu Encampment enters the battlefield tapped.<br>{T}: Add {R} to your mana pool.<br>{1}{R}: Ghitu Encampment becomes a 2/1 red Warrior creature with first strike until end of turn. It's still a land. <i>(It deals combat damage before creatures without first strike.)</i>
+p286
+aVEnchant creature<br>You control enchanted creature.
+p287
+aVGhoultree costs {1} less to cast for each creature card in your graveyard.
+p288
+asS'costs'
+p289
+(lp290
+V{2}{G}{G}
+p291
+aV{2}{B}{G}{W}
+p292
+aV{1}{U}
+p293
+aV{2}{G}
+p294
+aV{W}
+p295
+aV{B}
+p296
+aV{2}{R}
+p297
+aV{2}{U}{U}
+p298
+aV{4}{W}
+p299
+aV{2}{R}
+p300
+aV{4}{B}{B}
+p301
+aV{2}{W}
+p302
+aS'0'
+p303
+ag303
+aV{1}{W}
+p304
+aV{1}{B}
+p305
+aV{2}{U}{U}
+p306
+aV{2}{B}
+p307
+aV{1}{B}{B}
+p308
+aV{3}{R}
+p309
+aV{2}{W}
+p310
+aV{3}{G}{G}
+p311
+aV{W}{W}{B}{B}
+p312
+aV{1}{W}
+p313
+aV{2}{U}{U}
+p314
+aV{4}{G}
+p315
+aV{1}{U}
+p316
+aV{2}{U}
+p317
+aV{2}{W}
+p318
+aV{2}{U}
+p319
+aV{2}{W}
+p320
+ag303
+aV{5}{W}{W}
+p321
+aV{B}
+p322
+aV{1}{R}
+p323
+aV{B}{R}
+p324
+aV{2}{B}
+p325
+aV{B}{R}
+p326
+aV{1}{U}
+p327
+aV{2}{R}
+p328
+aV{2}{R}
+p329
+ag303
+aV{2}{R}
+p330
+aV{2}{R}
+p331
+aV{U/B}{U/B}{U/B}{U/B}{U/B}
+p332
+aV{2}{U}
+p333
+aV{2}{R}
+p334
+aV{B}{B}{B}
+p335
+aV{G}
+p336
+aV{G}
+p337
+aV{X}{R}
+p338
+aV{G}
+p339
+aV{1}
+p340
+ag303
+aV{3}{W}{W}
+p341
+aV{2}{W}
+p342
+aV{1}
+p343
+aV{B}
+p344
+aV{1}{B}{B}
+p345
+ag303
+aV{1}{B}
+p346
+aV{2}{B}
+p347
+aV{G}
+p348
+aV{1}{B}
+p349
+aV{2}{B}
+p350
+aV{2}{U}{U}
+p351
+aV{3}{G}{G}
+p352
+ag303
+ag303
+aV{7}{G}
+p353
+asS'names'
+p354
+(lp355
+VGhave, Guru of Spores
+p356
+aVGhostly Prison
+p357
+aVGhost-Lit Warder
+p358
+aVGhost-Lit Nourisher
+p359
+aVGhost-Lit Redeemer
+p360
+aVGhost-Lit Stalker
+p361
+aVGhost-Lit Raider
+p362
+aVGhost Ship
+p363
+aVGhost Tactician
+p364
+aVGhostfire
+p365
+aVGhalma's Warden
+p366
+aVGhostblade Eidolon
+p367
+aVGhost Town
+p368
+aVGhitu Encampment
+p369
+aVGhost Warden
+p370
+aVGhoul's Feast
+p371
+aVGhost Ship
+p372
+aVGhostly Visit
+p373
+aVGhosts of the Damned
+p374
+aVGhor-Clan Bloodscale
+p375
+aVGhostway
+p376
+aVGhor-Clan Savage
+p377
+aVGhost Council of Orzhova
+p378
+aVGhost Warden
+p379
+aVGhostform
+p380
+aVGhostly Flicker
+p381
+aVGhostly Touch
+p382
+aVGhoulflesh
+p383
+aVGhostly Prison
+p384
+aVGhosthelm Courier
+p385
+aVGhostly Prison
+p386
+aVGhost Quarter
+p387
+aVGhosts of the Innocent
+p388
+aVGhastly Demise
+p389
+aVGhitu Firebreathing
+p390
+aVGhostflame Sliver
+p391
+aVGhor-Clan Rampager
+p392
+aVGhostly Flame
+p393
+aVGhostly Wings
+p394
+aVGhitu Fire-Eater
+p395
+aVGhitu Slinger
+p396
+aVGhitu Encampment
+p397
+aVGhitu War Cry
+p398
+aVGhitu Fire-Eater
+p399
+aVGhastlord of Fugue
+p400
+aVGhastly Discovery
+p401
+aVGhostfire
+p402
+aVGhastly Remains
+p403
+aVGhazbán Ogre
+p404
+aVGhazbán Ogre
+p405
+aVGhitu Fire
+p406
+aVGhazbán Ogre
+p407
+aVGhostfire Blade
+p408
+aVGhost Quarter
+p409
+aVGhostly Possession
+p410
+aVGhoulcaller's Bell
+p411
+aVGhoulcaller's Chant
+p412
+aVGhoulraiser
+p413
+aVGhosts of the Damned
+p414
+aVGhost Quarter
+p415
+aVGhoul's Feast
+p416
+aVGhostly Changeling
+p417
+aVGhazbán Ogre
+p418
+aVGhost Hounds
+p419
+aVGhostly Visit
+p420
+aVGhost Ship
+p421
+aVGhor-Clan Savage
+p422
+aVGhitu Encampment
+p423
+aVGhastly Haunting
+p424
+aVGhoultree
+p425
+asS'toughs'
+p426
+(lp427
+V3
+p428
+aS'N/A'
+p429
+aV1
+p430
+ag430
+ag430
+ag430
+ag430
+aV2
+p431
+aV5
+p432
+ag429
+aV7
+p433
+ag429
+ag429
+ag429
+ag431
+ag429
+aV4
+p434
+ag429
+ag434
+ag430
+ag429
+ag428
+ag434
+ag430
+ag429
+ag429
+ag429
+ag429
+ag429
+ag430
+ag429
+ag429
+ag434
+ag429
+ag429
+ag431
+ag428
+ag429
+ag429
+ag431
+ag431
+ag429
+ag429
+ag430
+ag428
+ag429
+ag429
+aV0
+p435
+ag430
+ag428
+ag429
+ag434
+ag429
+ag429
+ag429
+ag429
+ag429
+ag428
+ag428
+ag429
+ag429
+ag431
+ag428
+ag431
+ag429
+ag434
+ag428
+ag429
+ag429
+ag432
+asS'artists'
+p436
+(lp437
+VJames Paick
+p438
+aVWayne England
+p439
+aVKensuke Okabayashi
+p440
+aVTsutomu Kawade
+p441
+aVShishizaru
+p442
+aVHideaki Takamura
+p443
+aVIttoku
+p444
+aVTom Wänerstrand
+p445
+aVZoltan Boros & Gabor Szikszai
+p446
+aVCyril Van Der Haegen
+p447
+aVMike Bierek
+p448
+aVRyan Yee
+p449
+aVTom Wänerstrand
+p450
+aVJohn Avon
+p451
+aVIttoku
+p452
+aVAlan Pollack
+p453
+aVTom Wänerstrand
+p454
+aVEdward P. Beard, Jr.
+p455
+aVDiTerlizzi
+p456
+aVPaolo Parente
+p457
+aVJim Murray
+p458
+aVGreg Staples
+p459
+aVGreg Staples
+p460
+aVIttoku
+p461
+aVRaymond Swanland
+p462
+aVJason Felix
+p463
+aVIgor Kieryluk
+p464
+aVJason Chan
+p465
+aS''
+p466
+aVEdward P. Beard, Jr.
+p467
+aVLars Grant-West
+p468
+aVPeter Mohrbacher
+p469
+aVKev Walker
+p470
+aVGary Ruddell
+p471
+aVJim Nelson
+p472
+aVLuca Zontini
+p473
+aVCharles Urbach
+p474
+aVRandy Gallegos
+p475
+aVDavid Martin
+p476
+aVEric Peterson
+p477
+aVMelissa A. Benson
+p478
+aVHazeltine
+p479
+aVDouglas Shuler
+p480
+aVMelissa A. Benson
+p481
+aVMike Dringenberg
+p482
+aVHoward Lyon
+p483
+aVCyril Van Der Haegen
+p484
+aVEdward P. Beard, Jr.
+p485
+aVJesper Myrfors
+p486
+aVJesper Myrfors
+p487
+aVGlen Angus
+p488
+aVMike Raabe
+p489
+aVCyril Van Der Haegen
+p490
+aVPeter Mohrbacher
+p491
+aVHoward Lyon
+p492
+aVLars Grant-West
+p493
+aVRandy Gallegos
+p494
+aVSteve Prescott
+p495
+aVEdward Beard, Jr.
+p496
+aVHeather Hudson
+p497
+aVAlan Pollack
+p498
+aVChuck Lukacs
+p499
+aVJesper Myrfors
+p500
+aVJeff A. Menges
+p501
+aVKang Yu
+p502
+aVTom Wänerstrand
+p503
+aVGreg Staples
+p504
+ag466
+aVDaniel Ljunggren
+p505
+aVSteven Belledin
+p506
+asS'powers'
+p507
+(lp508
+g435
+ag429
+ag430
+ag431
+ag430
+ag430
+ag431
+ag431
+ag431
+ag429
+ag431
+ag429
+ag429
+ag429
+ag431
+ag429
+ag430
+ag429
+ag434
+ag431
+ag429
+ag431
+ag434
+ag430
+ag429
+ag429
+ag429
+ag429
+ag429
+ag431
+ag429
+ag429
+ag430
+ag429
+ag429
+ag431
+ag430
+ag429
+ag429
+ag431
+ag431
+ag429
+ag429
+ag430
+ag428
+ag429
+ag429
+ag435
+ag430
+ag428
+ag429
+aV6
+p509
+ag429
+ag429
+ag429
+ag429
+ag429
+ag428
+ag428
+ag429
+ag429
+ag431
+ag431
+ag435
+ag429
+ag431
+ag431
+ag429
+ag429
+ag432
+asS'types'
+p510
+(lp511
+VLegendary Creature - Fungus Shaman
+p512
+aVEnchantment
+p513
+aVCreature - Spirit
+p514
+aVCreature - Spirit
+p515
+aVCreature - Spirit
+p516
+aVCreature - Spirit
+p517
+aVCreature - Spirit
+p518
+aVCreature - Spirit
+p519
+aVCreature - Spirit Spellshaper
+p520
+aVInstant
+p521
+aVCreature - Elephant Soldier
+p522
+aVEnchantment Creature - Spirit
+p523
+aVLand
+p524
+aVLand
+p525
+aVCreature - Spirit
+p526
+aVInstant
+p527
+aVCreature - Spirit
+p528
+aVSorcery
+p529
+aVCreature - Spirit
+p530
+aVCreature - Viashino Warrior
+p531
+aVInstant
+p532
+aVCreature - Centaur Berserker
+p533
+aVLegendary Creature - Spirit
+p534
+aVCreature - Spirit
+p535
+aVSorcery
+p536
+aVInstant
+p537
+aVEnchantment - Aura
+p538
+aVEnchantment - Aura
+p539
+aVEnchantment
+p540
+aVCreature - Human Wizard
+p541
+aVEnchantment
+p542
+aVLand
+p543
+aVCreature - Spirit
+p544
+aVInstant
+p545
+aVEnchantment - Aura
+p546
+aVCreature - Sliver
+p547
+aVCreature - Beast
+p548
+aVEnchantment
+p549
+aVEnchantment - Aura
+p550
+aVCreature - Human Nomad
+p551
+aVCreature - Human Nomad
+p552
+aVLand
+p553
+aVEnchantment
+p554
+aVCreature - Human Nomad
+p555
+aVCreature - Spirit Avatar
+p556
+aVSorcery
+p557
+aVInstant
+p558
+aVCreature - Zombie
+p559
+aVCreature - Ogre
+p560
+aVCreature - Ogre
+p561
+aVSorcery
+p562
+aVCreature - Ogre
+p563
+aVArtifact - Equipment
+p564
+aVLand
+p565
+aVEnchantment - Aura
+p566
+aVArtifact
+p567
+aVSorcery
+p568
+aVCreature - Zombie
+p569
+aVCreature - Spirit
+p570
+aVLand
+p571
+aVInstant
+p572
+aVCreature - Shapeshifter
+p573
+aVCreature - Ogre
+p574
+aVCreature - Hound Spirit
+p575
+aVSorcery
+p576
+aVCreature - Spirit
+p577
+aVCreature - Centaur Berserker
+p578
+aVLand
+p579
+aVTransform Enchantment - Aura
+p580
+aVCreature - Zombie Treefolk
+p581
+asS'numbers'
+p582
+(lp583
+V200
+p584
+aV14
+p585
+aV39
+p586
+aV131
+p587
+aV10
+p588
+aV69
+p589
+aV99
+p590
+aV68
+p591
+ag509
+aV69
+p592
+aV8
+p593
+aV12
+p594
+aV215
+p595
+aV353
+p596
+aV16
+p597
+aV137
+p598
+aV95
+p599
+aV67
+p600
+aV68
+p601
+aV66
+p602
+ag509
+aV86
+p603
+aV114
+p604
+ag432
+aV56
+p605
+aV57
+p606
+aV58
+p607
+aV103
+p608
+aV89
+p609
+aV85
+p610
+aV10
+p611
+aV26
+p612
+aV20
+p613
+aV139
+p614
+aV158
+p615
+aV239
+p616
+aV167
+p617
+aV217
+p618
+aV38
+p619
+aV184
+p620
+aV77
+p621
+aV141
+p622
+aV78
+p623
+aV76
+p624
+aV162
+p625
+aV39
+p626
+aV115
+p627
+aV71
+p628
+aV120
+p629
+aV75
+p630
+aV144
+p631
+aV103
+p632
+aV220
+p633
+aV240
+p634
+aV18
+p635
+aV224
+p636
+aV101
+p637
+aV102
+p638
+aV21
+p639
+aV173
+p640
+aV67
+p641
+aV116
+p642
+aV60
+p643
+aV12
+p644
+aV76
+p645
+aV21
+p646
+aV53
+p647
+ag466
+aV50
+p648
+aV115
+p649
+as.

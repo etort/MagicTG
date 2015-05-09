@@ -1,0 +1,1275 @@
+(dp0
+S'rares'
+p1
+(lp2
+VSpecial
+p3
+aVSpecial
+p4
+aVUncommon
+p5
+aVUncommon
+p6
+aVUncommon
+p7
+aVUncommon
+p8
+aVUncommon
+p9
+aVUncommon
+p10
+aVRare
+p11
+aVUncommon
+p12
+aVCommon
+p13
+aVRare
+p14
+aVCommon
+p15
+aVRare
+p16
+aVCommon
+p17
+aVUncommon
+p18
+aVRare
+p19
+aVUncommon
+p20
+aVUncommon
+p21
+aVCommon
+p22
+aVRare
+p23
+aVCommon
+p24
+aVCommon
+p25
+aVUncommon
+p26
+aVUncommon
+p27
+aVRare
+p28
+aVCommon
+p29
+aVCommon
+p30
+aVCommon
+p31
+aVCommon
+p32
+aVUncommon
+p33
+aVUncommon
+p34
+aVCommon
+p35
+aVRare
+p36
+aVCommon
+p37
+aVUncommon
+p38
+aVUncommon
+p39
+aVRare
+p40
+aVUncommon
+p41
+aVCommon
+p42
+aVCommon
+p43
+aVRare
+p44
+aVUncommon
+p45
+aVUncommon
+p46
+aVRare
+p47
+aVUncommon
+p48
+aVUncommon
+p49
+aVCommon
+p50
+aVRare
+p51
+aVCommon
+p52
+aVRare
+p53
+aVCommon
+p54
+aVCommon
+p55
+aVRare
+p56
+aVCommon
+p57
+aVUncommon
+p58
+aVUncommon
+p59
+aVUncommon
+p60
+aVRare
+p61
+aVCommon
+p62
+aVCommon
+p63
+aVUncommon
+p64
+asS'editns'
+p65
+(lp66
+VAnthologies
+p67
+aVAnthologies
+p68
+aVMagic: The Gathering-Commander
+p69
+aVMorningtide
+p70
+aVFourth Edition
+p71
+aVPlanar Chaos
+p72
+aVAlliances
+p73
+aVMagic 2010
+p74
+aVMagic 2014 Core Set
+p75
+aVTenth Edition
+p76
+aVModern Masters
+p77
+aVModern Masters
+p78
+aVStarter 2000
+p79
+aVMasters Edition II
+p80
+aVGuildpact
+p81
+aVNinth Edition
+p82
+aVEventide
+p83
+aVDuel Decks: Sorin vs. Tibalt
+p84
+aVReturn to Ravnica
+p85
+aVExodus
+p86
+aVIce Age
+p87
+aVIce Age
+p88
+aVIce Age
+p89
+aVIce Age
+p90
+aVTorment
+p91
+aVZendikar
+p92
+aVClassic Sixth Edition
+p93
+aVClassic Sixth Edition
+p94
+aVMirrodin
+p95
+aVSeventh Edition
+p96
+aVSeventh Edition
+p97
+aVSeventh Edition
+p98
+aVProphecy
+p99
+aVUrza's Legacy
+p100
+aVUrza's Legacy
+p101
+aVShadowmoor
+p102
+aVScourge
+p103
+aVFuture Sight
+p104
+aVPlanechase
+p105
+aVDuel Decks: Venser vs. Koth
+p106
+aVMasters Edition
+p107
+aVTheros
+p108
+aVEighth Edition
+p109
+aVEighth Edition
+p110
+aVInvasion
+p111
+aVFifth Edition
+p112
+aVFifth Edition
+p113
+aVMirage
+p114
+aVVisions
+p115
+aVVisions
+p116
+aVDragon's Maze
+p117
+aVLegends
+p118
+aVDuel Decks: Izzet vs. Golgari
+p119
+aVArabian Nights
+p120
+aVMagic 2011
+p121
+aVMagic 2011
+p122
+aVDuel Decks: Heroes vs. Monsters
+p123
+aVDuel Decks: Heroes vs. Monsters
+p124
+aVPortal
+p125
+aVPortal
+p126
+aVPlaneshift
+p127
+aVDark Ascension
+p128
+asS'ids'
+p129
+(lp130
+V-2146729968
+p131
+aV-2146729946
+p132
+aV247364
+p133
+aV153007
+p134
+aV2300
+p135
+aV122436
+p136
+aV3180
+p137
+aV194425
+p138
+aV370686
+p139
+aV129801
+p140
+aV370512
+p141
+aV370397
+p142
+aV25499
+p143
+aV184763
+p144
+aV96845
+p145
+aV83216
+p146
+aV157397
+p147
+aV368545
+p148
+aV253568
+p149
+aV6131
+p150
+aV2581
+p151
+aV2582
+p152
+aV2649
+p153
+aV2650
+p154
+aV34390
+p155
+aV197891
+p156
+aV15392
+p157
+aV14611
+p158
+aV48110
+p159
+aV15879
+p160
+aV25677
+p161
+aV25670
+p162
+aV24663
+p163
+aV12668
+p164
+aV12412
+p165
+aV159399
+p166
+aV44290
+p167
+aV136216
+p168
+aV205405
+p169
+aV279859
+p170
+aV159243
+p171
+aV373669
+p172
+aV45378
+p173
+aV45374
+p174
+aV23201
+p175
+aV4083
+p176
+aV4084
+p177
+aV3458
+p178
+aV3740
+p179
+aV3625
+p180
+aV368946
+p181
+aV1587
+p182
+aV292739
+p183
+aV911
+p184
+aV205067
+p185
+aV208009
+p186
+aV373365
+p187
+aV373356
+p188
+aV4354
+p189
+aV4234
+p190
+aV23113
+p191
+aV249983
+p192
+asS'texts'
+p193
+(lp194
+V{R}: Regenerate Uthden Troll.
+p195
+aV({T}: Add {R} to your mana pool.)
+p196
+aVAt the beginning of the end step, if no creatures are on the battlefield, sacrifice Pyrohemia.<br>{R}: Pyrohemia deals 1 damage to each creature and each player.
+p197
+aVEquipped creature has "Whenever this creature attacks or blocks, it gets +1/+1 until end of turn for each attacking creature."<br>Whenever a Soldier creature enters the battlefield, you may attach Veteran's Armaments to it.<br>Equip {2}
+p198
+aVSea Serpent can't attack unless defending player controls an Island.<br><br>When you control no Islands, sacrifice Sea Serpent.
+p199
+aVAt the beginning of the end step, if no creatures are on the battlefield, sacrifice Pyrohemia.<br>{R}: Pyrohemia deals 1 damage to each creature and each player.
+p200
+aVFlying<br>At the beginning of your upkeep, put a wage counter on Rogue Skycaptain. You may pay {2} for each wage counter on it. If you don't, remove all wage counters from Rogue Skycaptain and an opponent gains control of it.
+p201
+aVPut target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.
+p202
+aVPut all creature cards from all graveyards onto the battlefield under your control.
+p203
+aV{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+p204
+aV{R}, Sacrifice Pyrite Spellbomb: Pyrite Spellbomb deals 2 damage to target creature or player.<br>{1}, Sacrifice Pyrite Spellbomb: Draw a card.
+p205
+aVIf an instant or sorcery source you control would deal damage to a creature or player, it deals that much damage plus 2 to that creature or player instead.<br>At the beginning of each end step, discard your hand.
+p206
+aVDestroy target nonartifact, nonblack creature. It can't be regenerated.
+p207
+aVUntap target creature an opponent controls and gain control of it until end of turn. That creature gains haste until end of turn. When you lose control of the creature, tap it.
+p208
+aVNonbasic landwalk
+p209
+aVSacrifice Sanctum Guardian: The next time a source of your choice would deal damage to target creature or player this turn, prevent that damage.
+p210
+aVEach player returns each creature card from his or her graveyard to the battlefield with an additional -1/-1 counter on it.
+p211
+aVPyroclasm deals 2 damage to each creature.
+p212
+aVRakdos Guildgate enters the battlefield tapped.<br>{T}: Add {B} or {R} to your mana pool.
+p213
+aVWhenever Pygmy Troll becomes blocked by a creature, Pygmy Troll gets +1/+1 until end of turn.<br>{G}: Regenerate Pygmy Troll.
+p214
+aVWhen Pyknite enters the battlefield, draw a card at the beginning of the next turn's upkeep.
+p215
+aVSnow forestwalk
+p216
+aVEnchant creature <i>(Target a creature as you cast this. This card enters the battlefield attached to that creature.)</i><br>{G}: Regenerate enchanted creature. <i>(The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</i>
+p217
+aVFirst strike
+p218
+aV{1}{R}, Discard a card at random: Pyromania deals 1 damage to target creature or player.<br>{1}{R}, Sacrifice Pyromania: Pyromania deals 1 damage to target creature or player.
+p219
+aVWhenever a source you control deals damage to an opponent, you may put a quest counter on Quest for Pure Flame.<br>Remove four quest counters from Quest for Pure Flame and sacrifice it: If any source you control would deal damage to a creature or player this turn, it deals double that damage to that creature or player instead.
+p220
+aVFlying<br>Pay 1 life: Regenerate Mischievous Poltergeist.
+p221
+aV{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+p222
+aV{R}, Sacrifice Pyrite Spellbomb: Pyrite Spellbomb deals 2 damage to target creature or player.<br>{1}, Sacrifice Pyrite Spellbomb: Draw a card.
+p223
+aVFlying<br>Whenever Sustainer of the Realm blocks, it gets +0/+2 until end of turn.
+p224
+aVReveal the first card you draw each turn. Whenever you reveal a basic land card this way, draw a card.
+p225
+aVFirst strike
+p226
+aVTrample
+p227
+aV{3}, Discard a card at random: Pyromancy deals damage to target creature or player equal to the converted mana cost of the discarded card.
+p228
+aVAt the beginning of your upkeep, each opponent loses 1 life. You gain life equal to the life lost this way.
+p229
+aVWhen Cragganwick Cremator enters the battlefield, discard a card at random. If you discard a creature card this way, Cragganwick Cremator deals damage equal to that card's power to target player.
+p230
+aVWhenever a player casts a spell with converted mana cost 3 or less, Pyrostatic Pillar deals 2 damage to that player.
+p231
+aS''
+p232
+aVPyrotechnics deals 4 damage divided as you choose among any number of target creatures and/or players.
+p233
+aVPygmy Pyrosaur can't block.<br><br>{R}: Pygmy Pyrosaur gets +1/+0 until end of turn.
+p234
+aVChoose one- Counter target spell if it's blue; or destroy target permanent if it's blue.
+p235
+aVWhenever another creature dies, scry 1. <i>(Look at the top card of your library. You may put that card on the bottom of your library.)</i><br>{B}: Reaper of the Wilds gains deathtouch until end of turn.<br>{1}{G}: Reaper of the Wilds gains hexproof until end of turn.
+p236
+aVFlying<br>{1}{R}: Two-Headed Dragon gets +2/+0 until end of turn.<br>Two-Headed Dragon can't be blocked except by two or more creatures.<br>Two-Headed Dragon can block an additional creature.
+p237
+aVShock deals 2 damage to target creature or player.
+p238
+aVAt the beginning of your upkeep, if Pyre Zombie is in your graveyard, you may pay {1}{B}{B}. If you do, return Pyre Zombie to your hand.<br>{1}{R}{R}, Sacrifice Pyre Zombie: Pyre Zombie deals 2 damage to target creature or player.
+p239
+aVFlying, protection from red
+p240
+aV{G}, {T}, Sacrifice Scavenger Folk: Destroy target artifact.
+p241
+aV{R}: Pyric Salamander gets +1/+0 until end of turn. Sacrifice Pyric Salamander at the beginning of the next end step.
+p242
+aVWhite creatures you control have protection from black.<br>Black creatures you control have protection from white.
+p243
+aVPrevent the next 5 damage that would be dealt this turn to any number of target creatures and/or players, divided as you choose.
+p244
+aVFlying<br>Unleash <i>(You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)</i>
+p245
+aV{T}: Destroy target blue creature.
+p246
+aVReplicate {1}{R} <i>(When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)</i><br>Pyromatics deals 1 damage to target creature or player.
+p247
+aV{2}: Choose one- Destroy target Aura attached to a land; or the next time target land would be destroyed this turn, remove all damage marked on it instead.
+p248
+aVPut target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.
+p249
+aVDefender <i>(This creature can't attack.)</i><br>When Roc Egg dies, put a 3/3 white Bird creature token with flying onto the battlefield.
+p250
+aVPyroclasm deals 2 damage to each creature.
+p251
+aVYou may exile a red card from your hand rather than pay Pyrokinesis's mana cost.<br>Pyrokinesis deals 4 damage divided as you choose among any number of target creatures.
+p252
+aVDraw a card for each tapped creature target opponent controls.
+p253
+aVHaste <i>(This creature can attack the turn it comes under your control.)</i><br>When Thundermare enters the battlefield, tap all other creatures.
+p254
+aVWhen Pygmy Kavu enters the battlefield, draw a card for each black creature your opponents control.
+p255
+aVSacrifice a Human: Transform Ravenous Demon. Activate this ability only any time you could cast a sorcery.
+p256
+asS'costs'
+p257
+(lp258
+V{4}{R}{R}
+p259
+aV{4}{R}
+p260
+aV{1}{R}
+p261
+aV{3}{R}{R}
+p262
+aV{4}{R}
+p263
+aV{2}{R}{R}
+p264
+aV{4}{R}{R}
+p265
+aV{3}{U}
+p266
+aV{4}{R}
+p267
+aV{1}{R}
+p268
+aV{1}
+p269
+aV{2}{R}
+p270
+aV{1}{B}{B}
+p271
+aV{4}{R}{R}
+p272
+aV{1}{R}
+p273
+aV{1}{R}
+p274
+aV{3}{W/B}{W/B}{W/B}
+p275
+aV{1}{R}
+p276
+aV{1}{R}
+p277
+aV{1}{G}
+p278
+aV{2}{G}
+p279
+aV{2}{G}
+p280
+aV{R}
+p281
+aV{1}{R}
+p282
+aV{2}{R}
+p283
+aV{G}
+p284
+aV{1}{B}{B}
+p285
+aV{4}{R}
+p286
+aV{1}
+p287
+aV{1}{R}
+p288
+aV{1}{R}
+p289
+aV{4}{R}
+p290
+aV{1}{G}
+p291
+aV{2}{R}{R}
+p292
+aV{1}{R}
+p293
+aV{R}{R}
+p294
+aV{1}{R}
+p295
+aV{2}{R}
+p296
+aV{4}{R}
+p297
+aV{X}{W}{U}
+p298
+aV{R}
+p299
+aV{3}{R}
+p300
+aV{4}{R}
+p301
+aV{1}{R}
+p302
+aV{1}{B}{R}
+p303
+aV{R}
+p304
+aV{4}{R}
+p305
+aV{1}{R}
+p306
+aV{G}{U}
+p307
+aV{1}{B}{B}
+p308
+aV{2}{R}
+p309
+aV{4}{R}
+p310
+aV{1}{R}
+p311
+aV{6}
+p312
+aV{G}
+p313
+aV{4}{G}{G}
+p314
+aV{1}{R}
+p315
+aV{4}{R}{R}
+p316
+aV{1}{R}
+p317
+aV{1}{B}{B}
+p318
+aV{3}{G}
+p319
+aV{2}{R}
+p320
+asS'names'
+p321
+(lp322
+VPyrokinesis
+p323
+aVPyrotechnics
+p324
+aVPyrohemia
+p325
+aVPyroclast Consul
+p326
+aVPyrotechnics
+p327
+aVPyrohemia
+p328
+aVPyrokinesis
+p329
+aVPyroclasm
+p330
+aVPyromancer's Gauntlet
+p331
+aVPyroclasm
+p332
+aVPyrite Spellbomb
+p333
+aVPyromancer's Swath
+p334
+aVPython
+p335
+aVPyrokinesis
+p336
+aVPyromatics
+p337
+aVPyroclasm
+p338
+aVPyrrhic Revival
+p339
+aVPyroclasm
+p340
+aVPyroconvergence
+p341
+aVPygmy Troll
+p342
+aVPygmy Allosaurus
+p343
+aVPyknite
+p344
+aVPyroblast
+p345
+aVPyroclasm
+p346
+aVPyromania
+p347
+aVPyromancer Ascension
+p348
+aVPython
+p349
+aVPyrotechnics
+p350
+aVPyrite Spellbomb
+p351
+aVPygmy Pyrosaur
+p352
+aVPyroclasm
+p353
+aVPyrotechnics
+p354
+aVPygmy Razorback
+p355
+aVPyromancy
+p356
+aVPygmy Pyrosaur
+p357
+aVPyre Charger
+p358
+aVPyrostatic Pillar
+p359
+aVPyromancer's Swath
+p360
+aVPyrotechnics
+p361
+aVPygmy Pyrosaur
+p362
+aVPyroblast
+p363
+aVPyxis of Pandemonium
+p364
+aVPyrotechnics
+p365
+aVPyroclasm
+p366
+aVPyre Zombie
+p367
+aVPyroblast
+p368
+aVPyrotechnics
+p369
+aVPyric Salamander
+p370
+aVPygmy Hippo
+p371
+aVPython
+p372
+aVPyrewild Shaman
+p373
+aVPyrotechnics
+p374
+aVPyromatics
+p375
+aVPyramids
+p376
+aVPyretic Ritual
+p377
+aVPyroclasm
+p378
+aVPyroclasm
+p379
+aVPyrokinesis
+p380
+aVPyroclasm
+p381
+aVPython
+p382
+aVPygmy Kavu
+p383
+aVPyreheart Wolf
+p384
+asS'toughs'
+p385
+(lp386
+S'N/A'
+p387
+ag387
+ag387
+aV3
+p388
+ag387
+ag387
+ag387
+ag387
+ag387
+ag387
+ag387
+ag387
+aV1
+p389
+ag387
+ag387
+ag387
+ag387
+ag387
+ag387
+aV2
+p390
+aV5
+p391
+ag389
+ag387
+ag387
+ag387
+ag387
+ag390
+ag387
+ag387
+aV8
+p392
+ag387
+ag387
+ag389
+ag387
+ag390
+aV*
+p393
+ag387
+ag387
+ag387
+ag389
+ag387
+ag387
+ag387
+ag387
+ag389
+ag387
+ag387
+ag390
+ag390
+ag390
+ag389
+ag387
+ag387
+ag387
+ag387
+ag387
+ag387
+ag387
+ag387
+ag390
+ag390
+ag388
+asS'artists'
+p394
+(lp395
+VRon Spencer
+p396
+aVAnson Maddocks
+p397
+aVStephen Tappin
+p398
+aVChristopher Moeller
+p399
+aVAnson Maddocks
+p400
+aVStephen Tappin
+p401
+aVRon Spencer
+p402
+aVJohn Avon
+p403
+aVChristine Choi
+p404
+aVJohn Avon
+p405
+ag232
+ag232
+aVSteve White
+p406
+aVRon Spencer
+p407
+aVGlen Angus
+p408
+aVJohn Avon
+p409
+aVRichard Kane Ferguson
+p410
+aVJohn Avon
+p411
+aVJack Wang
+p412
+aVDaniel Gelon
+p413
+aVAnson Maddocks
+p414
+aVEdward P. Beard, Jr.
+p415
+aVKaja Foglio
+p416
+aVPat Morrissey
+p417
+aVChristopher Moeller
+p418
+aVKev Walker
+p419
+aVSteve White
+p420
+aVAnson Maddocks
+p421
+aVJim Nelson
+p422
+aVDan Frazier
+p423
+aVMonte Michael Moore
+p424
+aVJohn Avon
+p425
+aVMatt Cavotta
+p426
+aVQuinton Hoover
+p427
+aVDan Frazier
+p428
+aVMark Zug
+p429
+aVPete Venters
+p430
+aVHideaki Takamura
+p431
+aVJohn Avon
+p432
+ag232
+aVKaja Foglio
+p433
+aVDavid Palumbo
+p434
+aVJohn Avon
+p435
+aVJohn Avon
+p436
+aVNelson DeCastro
+p437
+aVKaja Foglio
+p438
+aVAnson Maddocks
+p439
+aVTony Roberts
+p440
+aVSteve White
+p441
+aVSteve White
+p442
+aVLucas Graciano
+p443
+aVAnson Maddocks
+p444
+aVGlen Angus
+p445
+aVAmy Weber
+p446
+aVJames Paick
+p447
+aVJohn Avon
+p448
+aVJohn Avon
+p449
+aVIgor Kieryluk
+p450
+aVJohn Matson
+p451
+aVAlan Rabinowitz
+p452
+aVGreg Staples
+p453
+aVIgor Kieryluk
+p454
+asS'powers'
+p455
+(lp456
+g387
+ag387
+ag387
+ag388
+ag387
+ag387
+ag387
+ag387
+ag387
+ag387
+ag387
+ag387
+ag389
+ag387
+ag387
+ag387
+ag387
+ag387
+ag387
+ag388
+ag390
+ag389
+ag387
+ag387
+ag387
+ag387
+ag388
+ag387
+ag387
+ag392
+ag387
+ag387
+ag390
+ag387
+ag390
+ag393
+ag387
+ag387
+ag387
+ag389
+ag387
+ag387
+ag387
+ag387
+ag390
+ag387
+ag387
+ag389
+ag390
+ag388
+ag388
+ag387
+ag387
+ag387
+ag387
+ag387
+ag387
+ag387
+ag387
+ag388
+ag389
+ag390
+asS'types'
+p457
+(lp458
+VInstant
+p459
+aVSorcery
+p460
+aVEnchantment
+p461
+aVCreature - Elemental Shaman
+p462
+aVSorcery
+p463
+aVEnchantment
+p464
+aVInstant
+p465
+aVSorcery
+p466
+aVArtifact
+p467
+aVSorcery
+p468
+aVArtifact
+p469
+aVEnchantment
+p470
+aVCreature - Snake
+p471
+aVInstant
+p472
+aVInstant
+p473
+aVSorcery
+p474
+aVSorcery
+p475
+aVSorcery
+p476
+aVEnchantment
+p477
+aVCreature - Troll
+p478
+aVCreature - Lizard
+p479
+aVCreature - Ouphe
+p480
+aVInstant
+p481
+aVSorcery
+p482
+aVEnchantment
+p483
+aVEnchantment
+p484
+aVCreature - Snake
+p485
+aVSorcery
+p486
+aVArtifact
+p487
+aVCreature - Lizard
+p488
+aVSorcery
+p489
+aVSorcery
+p490
+aVCreature - Boar
+p491
+aVEnchantment
+p492
+aVCreature - Lizard
+p493
+aVCreature - Elemental Warrior
+p494
+aVEnchantment
+p495
+aVEnchantment
+p496
+aVSorcery
+p497
+aVCreature - Lizard
+p498
+aVInstant
+p499
+aVArtifact
+p500
+aVSorcery
+p501
+aVSorcery
+p502
+aVCreature - Zombie
+p503
+aVInstant
+p504
+aVSorcery
+p505
+aVCreature - Salamander
+p506
+aVCreature - Hippo
+p507
+aVCreature - Snake
+p508
+aVCreature - Goblin Shaman
+p509
+aVSorcery
+p510
+aVInstant
+p511
+aVArtifact
+p512
+aVInstant
+p513
+aVSorcery
+p514
+aVSorcery
+p515
+aVInstant
+p516
+aVSorcery
+p517
+aVCreature - Snake
+p518
+aVCreature - Kavu
+p519
+aVCreature - Wolf
+p520
+asS'numbers'
+p521
+(lp522
+V16
+p523
+aV38
+p524
+aV132
+p525
+aV96
+p526
+aV304
+p527
+aV119
+p528
+aV84
+p529
+aV152
+p530
+aV214
+p531
+aV222
+p532
+ag232
+ag232
+aV38
+p533
+aV147
+p534
+aV72
+p535
+aV208
+p536
+aV93
+p537
+aV62
+p538
+aV103
+p539
+aV118
+p540
+aV126
+p541
+aV127
+p542
+aV341
+p543
+aV342
+p544
+aV112
+p545
+aV143
+p546
+aV150
+p547
+aV199
+p548
+aV232
+p549
+aV208
+p550
+aV209
+p551
+aV210
+p552
+aV120
+p553
+aV88
+p554
+aV87
+p555
+aV103
+p556
+aV100
+p557
+aV104
+p558
+aV60
+p559
+ag232
+aV107
+p560
+aV220
+p561
+aV211
+p562
+aV210
+p563
+aV261
+p564
+aV156
+p565
+aV373
+p566
+aV154
+p567
+aV103
+p568
+aV143
+p569
+aV36
+p570
+aV262
+p571
+aV20
+p572
+ag388
+aV153
+p573
+aV154
+p574
+aV63
+p575
+aV32
+p576
+aV180
+p577
+aV181
+p578
+aV88
+p579
+aV101
+p580
+as.

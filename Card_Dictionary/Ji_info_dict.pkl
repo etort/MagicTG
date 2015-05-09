@@ -1,0 +1,218 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVRare
+p4
+aVCommon
+p5
+aVRare
+p6
+aVMythic Rare
+p7
+aVRare
+p8
+aVRare
+p9
+aVRare
+p10
+aVCommon
+p11
+asS'editns'
+p12
+(lp13
+VSaviors of Kamigawa
+p14
+aVTempest
+p15
+aVApocalypse
+p16
+aVMirrodin
+p17
+aVNew Phyrexia
+p18
+aVStronghold
+p19
+aVArabian Nights
+p20
+aVMagic 2011
+p21
+aVHomelands
+p22
+asS'ids'
+p23
+(lp24
+V74047
+p25
+aV4613
+p26
+aV26797
+p27
+aV46760
+p28
+aV214349
+p29
+aV5177
+p30
+aV973
+p31
+aV208006
+p32
+aV2945
+p33
+asS'texts'
+p34
+(lp35
+V{X}{R}, {T}: Jiwari, the Earth Aflame deals X damage to target creature without flying.<br>Channel- {X}{R}{R}{R}, Discard Jiwari: Jiwari deals X damage to each creature without flying.
+p36
+aVAt the beginning of your upkeep, Jinxed Idol deals 2 damage to you.<br>Sacrifice a creature: Target opponent gains control of Jinxed Idol.
+p37
+aVKicker {1}{R} <i>(You may pay an additional {1}{R} as you cast this spell.)</i><br>Return target creature to its owner's hand. If Jilt was kicked, it deals 2 damage to another target creature.
+p38
+aVAt the beginning of your end step, target opponent gains control of Jinxed Choker and puts a charge counter on it.<br>At the beginning of your upkeep, Jinxed Choker deals damage to you equal to the number of charge counters on it.<br>{3}: Put a charge counter on Jinxed Choker or remove one from it.
+p39
+aVFirst strike<br>Metalcraft- Creatures you control get +3/+0 as long as you control three or more artifacts.
+p40
+aVWhenever a nontoken permanent is put into your graveyard from the battlefield, Jinxed Ring deals 1 damage to you.<br>Sacrifice a creature: Target opponent gains control of Jinxed Ring. <i>(This effect lasts indefinitely.)</i>
+p41
+aVAs Jihad enters the battlefield, choose a color and an opponent. <br>White creatures get +2/+1 as long as the chosen player controls a nontoken permanent of the chosen color. <br>When the chosen player controls no nontoken permanents of the chosen color, sacrifice Jihad.
+p42
+aVIf Leyline of Anticipation is in your opening hand, you may begin the game with it on the battlefield.<br>You may cast nonland cards as though they had flash. <i>(You may cast them any time you could cast an instant.)</i>
+p43
+aVTarget land becomes the basic land type of your choice until end of turn.<br>Draw a card at the beginning of the next turn's upkeep.
+p44
+asS'costs'
+p45
+(lp46
+V{3}{R}{R}
+p47
+aV{2}
+p48
+aV{1}{U}
+p49
+aV{3}
+p50
+aV{8}{U}{U}
+p51
+aV{2}
+p52
+aV{W}{W}{W}
+p53
+aV{2}{W}{W}
+p54
+aV{1}{U}
+p55
+asS'names'
+p56
+(lp57
+VJiwari, the Earth Aflame
+p58
+aVJinxed Idol
+p59
+aVJilt
+p60
+aVJinxed Choker
+p61
+aVJin-Gitaxias, Core Augur
+p62
+aVJinxed Ring
+p63
+aVJihad
+p64
+aVJinxed Idol
+p65
+aVJinx
+p66
+asS'toughs'
+p67
+(lp68
+V3
+p69
+aS'N/A'
+p70
+ag70
+ag70
+ag69
+ag70
+ag70
+ag70
+ag70
+asS'artists'
+p71
+(lp72
+VAdam Rex
+p73
+aVJohn Matson
+p74
+aVTerese Nielsen
+p75
+aVMike Dringenberg
+p76
+aS''
+p77
+aVM. W. Kaluta and DiTerlizzi
+p78
+aVBrian Snoddy
+p79
+aVjD
+p80
+aVMike Kimble
+p81
+asS'powers'
+p82
+(lp83
+g69
+ag70
+ag70
+ag70
+aV2
+p84
+ag70
+ag70
+ag70
+ag70
+asS'types'
+p85
+(lp86
+VLegendary Creature - Spirit
+p87
+aVArtifact
+p88
+aVInstant
+p89
+aVArtifact
+p90
+aVLegendary Creature - Praetor
+p91
+aVArtifact
+p92
+aVEnchantment
+p93
+aVArtifact
+p94
+aVInstant
+p95
+asS'numbers'
+p96
+(lp97
+V107
+p98
+aV16
+p99
+aV27
+p100
+aV189
+p101
+aV37
+p102
+aV50
+p103
+aV29
+p104
+aV208
+p105
+aV26
+p106
+as.

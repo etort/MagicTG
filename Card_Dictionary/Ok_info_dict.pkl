@@ -1,0 +1,180 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVCommon
+p4
+aVRare
+p5
+aVCommon
+p6
+aVRare
+p7
+aVRare
+p8
+aVRare
+p9
+asS'editns'
+p10
+(lp11
+VSaviors of Kamigawa
+p12
+aVPlanechase 2012 Edition
+p13
+aVChampions of Kamigawa
+p14
+aVBetrayers of Kamigawa
+p15
+aVSeventh Edition
+p16
+aVUrza's Saga
+p17
+aVEighth Edition
+p18
+asS'ids'
+p19
+(lp20
+V74196
+p21
+aV271185
+p22
+aV80251
+p23
+aV74576
+p24
+aV25686
+p25
+aV5586
+p26
+aV45382
+p27
+asS'texts'
+p28
+(lp29
+VAs long as you have more cards in hand than each opponent, Okina Nightwatch gets +3/+3.
+p30
+aVWhen Ondu Giant enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+p31
+aVOther Snake creatures you control get +2/+2.<br>Whenever a Snake you control deals combat damage to a player, you may draw a card.
+p32
+aVWhenever you cast a Spirit or Arcane spell, you may put a ki counter on Skullmane Baku.<br>{1}, {T}, Remove X ki counters from Skullmane Baku: Target creature gets -X/-X until end of turn.
+p33
+aVCounter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.
+p34
+aVEnchant creature <i>(Target a creature as you cast this. This card enters the battlefield attached to that creature.)</i><br>All damage that would be dealt to you is dealt to enchanted creature instead.
+p35
+aVEnchant creature <i>(Target a creature as you cast this. This card enters the battlefield attached to that creature.)</i><br>{G}: Regenerate enchanted creature. <i>(The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</i>
+p36
+asS'costs'
+p37
+(lp38
+V{4}{G}
+p39
+aV{3}{B}{B}
+p40
+aS'0'
+p41
+aV{3}{B}{B}
+p42
+aV{1}{R}
+p43
+aV{1}{R}
+p44
+aV{1}{R}
+p45
+asS'names'
+p46
+(lp47
+VOkina Nightwatch
+p48
+aVOkiba-Gang Shinobi
+p49
+aVOkina, Temple to the Grandfathers
+p50
+aVOkiba-Gang Shinobi
+p51
+aVOkk
+p52
+aVOkk
+p53
+aVOkk
+p54
+asS'toughs'
+p55
+(lp56
+V3
+p57
+aV2
+p58
+aS'N/A'
+p59
+ag58
+ag57
+ag58
+ag58
+asS'artists'
+p60
+(lp61
+VHeather Hudson
+p62
+aS''
+p63
+aVKeith Garletts
+p64
+aVMark Zug
+p65
+aVPeter Bollinger
+p66
+aVMike Raabe
+p67
+aVPeter Bollinger
+p68
+asS'powers'
+p69
+(lp70
+V4
+p71
+ag58
+ag59
+ag57
+ag57
+ag57
+aV1
+p72
+asS'types'
+p73
+(lp74
+VCreature - Human Monk
+p75
+aVCreature - Rat Ninja
+p76
+aVLegendary Land
+p77
+aVCreature - Rat Ninja
+p78
+aVCreature - Goblin
+p79
+aVCreature - Goblin
+p80
+aVCreature - Goblin
+p81
+asS'numbers'
+p82
+(lp83
+V140
+p84
+aV128
+p85
+aV280
+p86
+aV76
+p87
+aV204
+p88
+aV204
+p89
+aV206
+p90
+as.

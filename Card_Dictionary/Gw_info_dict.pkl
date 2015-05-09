@@ -1,0 +1,139 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVRare
+p4
+aVUncommon
+p5
+aVRare
+p6
+aVRare
+p7
+asS'editns'
+p8
+(lp9
+VMagic: The Gathering-Commander
+p10
+aVMasters Edition III
+p11
+aVEventide
+p12
+aVConflux
+p13
+aVLegends
+p14
+asS'ids'
+p15
+(lp16
+V247206
+p17
+aV201191
+p18
+aV159069
+p19
+aV185811
+p20
+aV1654
+p21
+asS'texts'
+p22
+(lp23
+VWhen Gwyllion Hedge-Mage enters the battlefield, if you control two or more Plains, you may put a 1/1 white Kithkin Soldier creature token onto the battlefield.<br>When Gwyllion Hedge-Mage enters the battlefield, if you control two or more Swamps, you may put a -1/-1 counter on target creature.
+p24
+aV{T}: Add {R} to your mana pool.<br><br>{T}: Target creature loses all landwalk abilities until end of turn.
+p25
+aVWhen Gwyllion Hedge-Mage enters the battlefield, if you control two or more Plains, you may put a 1/1 white Kithkin Soldier creature token onto the battlefield.<br>When Gwyllion Hedge-Mage enters the battlefield, if you control two or more Swamps, you may put a -1/-1 counter on target creature.
+p26
+aVTrample, haste<br>At the beginning of the end step, sacrifice Hellspark Elemental.<br>Unearth {1}{R} <i>({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</i>
+p27
+aVAt the beginning of combat on your turn, you may have Johan gain "Johan can't attack" until end of combat. If you do, attacking doesn't cause creatures you control to tap this combat if Johan is untapped.
+p28
+asS'costs'
+p29
+(lp30
+V{2}{U}
+p31
+aV{U}{B}{B}{R}
+p32
+aV{2}{W/B}
+p33
+aV{1}{W}{U}
+p34
+aV{U}{B}{B}{R}
+p35
+asS'names'
+p36
+(lp37
+VGwyllion Hedge-Mage
+p38
+aVGwendlyn Di Corci
+p39
+aVGwyllion Hedge-Mage
+p40
+aVGwafa Hazid, Profiteer
+p41
+aVGwendlyn Di Corci
+p42
+asS'toughs'
+p43
+(lp44
+V3
+p45
+aV5
+p46
+ag45
+aV2
+p47
+aV4
+p48
+asS'artists'
+p49
+(lp50
+VTodd Lockwood
+p51
+aVMelissa A. Benson
+p52
+aVTodd Lockwood
+p53
+aVTodd Lockwood
+p54
+aVJulie Baroh
+p55
+asS'powers'
+p56
+(lp57
+g47
+ag45
+ag48
+ag47
+ag48
+asS'types'
+p58
+(lp59
+VCreature - Hag Wizard
+p60
+aVLegendary Creature - Human Rogue
+p61
+aVCreature - Hag Wizard
+p62
+aVLegendary Creature - Human Rogue
+p63
+aVLegendary Creature - Human Rogue
+p64
+asS'numbers'
+p65
+(lp66
+V202
+p67
+aV149
+p68
+aV89
+p69
+aV110
+p70
+aV133
+p71
+as.

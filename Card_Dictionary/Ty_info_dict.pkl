@@ -1,0 +1,263 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVRare
+p4
+aVCommon
+p5
+aVCommon
+p6
+aVRare
+p7
+aVCommon
+p8
+aVRare
+p9
+aVCommon
+p10
+aVCommon
+p11
+aVCommon
+p12
+aVRare
+p13
+asS'editns'
+p14
+(lp15
+VVintage Masters
+p16
+aVAvacyn Restored
+p17
+aVMagic 2015 Core Set
+p18
+aVMagic 2015 Core Set
+p19
+aVShadowmoor
+p20
+aVFifth Dawn
+p21
+aVTheros
+p22
+aVMagic: The Gathering\u2014Conspiracy
+p23
+aVMagic: The Gathering\u2014Conspiracy
+p24
+aVInnistrad
+p25
+aVLegends
+p26
+asS'ids'
+p27
+(lp28
+V383141
+p29
+aV276194
+p30
+aV383420
+p31
+aV383421
+p32
+aV146767
+p33
+aV50191
+p34
+aV373665
+p35
+aV382390
+p36
+aV382391
+p37
+aV220634
+p38
+aV1549
+p39
+asS'texts'
+p40
+(lp41
+VEach player discards his or her hand and draws seven cards.
+p42
+aVWhen Tyrant of Discord enters the battlefield, target opponent chooses a permanent he or she controls at random and sacrifices it. If a nonland permanent is sacrificed this way, repeat this process.
+p43
+aVSliver creatures you control have deathtouch. <i>(Any amount of damage a creature with deathtouch deals to a creature is enough to destroy it.)</i>
+p44
+aVEnchant land<br>When Verdant Haven enters the battlefield, you gain 2 life.<br>Whenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool <i>(in addition to the mana the land produces)</i>.
+p45
+aVShroud<br>Isleback Spawn gets +4/+8 as long as a library has twenty or fewer cards in it.
+p46
+aV{1}{G}: Tyrranax gets -1/+1 until end of turn.
+p47
+aVTrample
+p48
+aVEnchant creature<br>When enchanted creature dies, return that card to the battlefield under your control.
+p49
+aVEnchant creature<br>When Unquestioned Authority enters the battlefield, draw a card.<br>Enchanted creature has protection from creatures.
+p50
+aVIf a Zombie you control would deal combat damage to a player, instead that player puts that many cards from the top of his or her library into his or her graveyard.<br>Whenever a creature card is put into an opponent's graveyard from his or her library, exile that card and put a 2/2 black Zombie creature token onto the battlefield.
+p51
+aVAs Wood Elemental enters the battlefield, sacrifice any number of untapped Forests.<br>Wood Elemental's power and toughness are each equal to the number of Forests sacrificed as it entered the battlefield.
+p52
+asS'costs'
+p53
+(lp54
+V{1}{G}
+p55
+aV{2}{G}
+p56
+aV{4}{W}
+p57
+aV{1}{G}
+p58
+aV{3}{B/R}{B/R}
+p59
+aV{4}{G}{G}
+p60
+aV{U}
+p61
+aV{5}{B}
+p62
+aV{B}
+p63
+aV{3}
+p64
+aV{2}{G}
+p65
+asS'names'
+p66
+(lp67
+VTyrant's Choice
+p68
+aVTyrant of Discord
+p69
+aVTyphoid Rats
+p70
+aVTyrant's Machine
+p71
+aVTyrannize
+p72
+aVTyrranax
+p73
+aVTymaret, the Murder King
+p74
+aVTyphoid Rats
+p75
+aVTyrant's Choice
+p76
+aVTyphoid Rats
+p77
+aVTyphoon
+p78
+asS'toughs'
+p79
+(lp80
+S'N/A'
+p81
+aV3
+p82
+aV6
+p83
+ag81
+ag81
+aV4
+p84
+aV1
+p85
+aV2
+p86
+ag81
+ag82
+ag81
+asS'artists'
+p87
+(lp88
+VDaarken
+p89
+aVRichard Wright
+p90
+aVKev Walker
+p91
+aVYeong-Hao Han
+p92
+aVMark Tedin
+p93
+aVCarl Critchlow
+p94
+aVVolkan Baga
+p95
+aVKev Walker
+p96
+aVDaarken
+p97
+aVKev Walker
+p98
+aVAnson Maddocks
+p99
+asS'powers'
+p100
+(lp101
+g81
+aV7
+p102
+aV8
+p103
+ag81
+ag81
+ag85
+ag86
+ag86
+ag81
+ag83
+ag81
+asS'types'
+p104
+(lp105
+VSorcery
+p106
+aVCreature - Elemental
+p107
+aVCreature - Rat
+p108
+aVArtifact
+p109
+aVSorcery
+p110
+aVCreature - Beast
+p111
+aVLegendary Creature - Zombie Warrior
+p112
+aVCreature - Rat
+p113
+aVSorcery
+p114
+aVCreature - Rat
+p115
+aVSorcery
+p116
+asS'numbers'
+p117
+(lp118
+V143
+p119
+aV162
+p120
+aV118
+p121
+aV238
+p122
+aV201
+p123
+aV98
+p124
+aV207
+p125
+aV130
+p126
+aV30
+p127
+aV120
+p128
+aV79
+p129
+as.

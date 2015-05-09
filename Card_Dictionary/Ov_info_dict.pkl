@@ -1,0 +1,839 @@
+(dp0
+S'rares'
+p1
+(lp2
+VSpecial
+p3
+aVUncommon
+p4
+aVUncommon
+p5
+aVUncommon
+p6
+aVUncommon
+p7
+aVUncommon
+p8
+aVUncommon
+p9
+aVCommon
+p10
+aVRare
+p11
+aVRare
+p12
+aVCommon
+p13
+aVRare
+p14
+aVUncommon
+p15
+aVRare
+p16
+aVUncommon
+p17
+aVUncommon
+p18
+aVUncommon
+p19
+aVRare
+p20
+aVCommon
+p21
+aVUncommon
+p22
+aVRare
+p23
+aVRare
+p24
+aVCommon
+p25
+aVRare
+p26
+aVUncommon
+p27
+aVCommon
+p28
+aVRare
+p29
+aVRare
+p30
+aVCommon
+p31
+aVRare
+p32
+aVCommon
+p33
+aVRare
+p34
+aVUncommon
+p35
+aVRare
+p36
+aVCommon
+p37
+aVCommon
+p38
+aVUncommon
+p39
+aVRare
+p40
+aVRare
+p41
+aVSpecial
+p42
+asS'editns'
+p43
+(lp44
+VAnthologies
+p45
+aVMagic 2012
+p46
+aVSaviors of Kamigawa
+p47
+aVPlanar Chaos
+p48
+aVMagic 2010
+p49
+aVTempest
+p50
+aVTenth Edition
+p51
+aVTenth Edition
+p52
+aVMercadian Masques
+p53
+aVApocalypse
+p54
+aVNinth Edition
+p55
+aVEventide
+p56
+aVPlanechase 2012 Edition
+p57
+aVOnslaught
+p58
+aVOnslaught
+p59
+aVBetrayers of Kamigawa
+p60
+aVRavnica: City of Guilds
+p61
+aVRavnica: City of Guilds
+p62
+aVOdyssey
+p63
+aVOdyssey
+p64
+aVReturn to Ravnica
+p65
+aVTorment
+p66
+aVMirrodin
+p67
+aVProphecy
+p68
+aVMagic 2015 Core Set
+p69
+aVRise of the Eldrazi
+p70
+aVPromo set for Gatherer
+p71
+aVShadowmoor
+p72
+aVDuel Decks: Venser vs. Koth
+p73
+aVNemesis
+p74
+aVInvasion
+p75
+aVInvasion
+p76
+aVVisions
+p77
+aVMasters Edition IV
+p78
+aVStronghold
+p79
+aVDissension
+p80
+aVDuel Decks: Izzet vs. Golgari
+p81
+aVMagic 2011
+p82
+aVPortal Three Kingdoms
+p83
+aVTime Spiral "Timeshifted"
+p84
+asS'ids'
+p85
+(lp86
+V-2146729930
+p87
+aV238574
+p88
+aV89403
+p89
+aV126212
+p90
+aV189906
+p91
+aV4777
+p92
+aV130506
+p93
+aV135282
+p94
+aV19666
+p95
+aV25816
+p96
+aV84685
+p97
+aV151151
+p98
+aV271201
+p99
+aV33693
+p100
+aV34394
+p101
+aV81986
+p102
+aV89044
+p103
+aV89072
+p104
+aV29737
+p105
+aV29996
+p106
+aV253680
+p107
+aV29868
+p108
+aV46089
+p109
+aV24597
+p110
+aV383335
+p111
+aV193610
+p112
+aV97051
+p113
+aV146735
+p114
+aV270834
+p115
+aV22061
+p116
+aV23070
+p117
+aV23202
+p118
+aV3646
+p119
+aV202488
+p120
+aV5198
+p121
+aV97111
+p122
+aV292759
+p123
+aV205003
+p124
+aV10521
+p125
+aV108863
+p126
+asS'texts'
+p127
+(lp128
+VFlying (This creature can't be blocked except by creatures with flying or reach.)<br><br>First strike (This creature deals combat damage before creatures without first strike.)
+p129
+aVFlying<br>When Phantasmal Dragon becomes the target of a spell or ability, sacrifice it.
+p130
+aVCounter target creature spell. Draw cards equal to that spell's converted mana cost.
+p131
+aVTarget creature loses all abilities and becomes 0/1 until end of turn.
+p132
+aVFlying<br>You can't lose the game and your opponents can't win the game.
+p133
+aVDestroy all green creatures. They can't be regenerated.
+p134
+aVShroud <i>(This creature can't be the target of spells or abilities.)</i>
+p135
+aVEach player can't cast more than one spell each turn.
+p136
+aVW
+p137
+aVSacrifice a land: You gain 3 life.
+p138
+aVSwampwalk <i>(This creature is unblockable as long as defending player controls a Swamp.)</i>
+p139
+aVOverbeing of Myth's power and toughness are each equal to the number of cards in your hand.<br>At the beginning of your draw step, draw an additional card.
+p140
+aVReach<br>When Penumbra Spider dies, put a 2/4 black Spider creature token with reach onto the battlefield.
+p141
+aVAt the beginning of your upkeep, if you have four or more creature cards in your graveyard, you may return target creature card from your graveyard to your hand.
+p142
+aVWhenever you attack with three or more creatures, draw a card.
+p143
+aVEquipped creature has "Unattach Blinding Powder: Prevent all combat damage that would be dealt to this creature this turn."<br>Equip {2} <i>({2}: Attach to target creature you control. Equip only as a sorcery.)</i>
+p144
+aVDefender <i>(This creature can't attack.)</i><br>{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+p145
+aVFlying, first strike<br>At the beginning of your upkeep, if Firemane Angel is in your graveyard or on the battlefield, you may gain 1 life.<br>{6}{R}{R}{W}{W}: Return Firemane Angel from your graveyard to the battlefield. Activate this ability only during your upkeep.
+p146
+aVDiscard a card, Sacrifice Overeager Apprentice: Add {B}{B}{B} to your mana pool.
+p147
+aVLook at target player's hand.<br>Draw a card.
+p148
+aV{1}{B}: Perilous Shadow gets +2/+2 until end of turn.
+p149
+aVThe next instant or sorcery spell you cast this turn can't be countered by spells or abilities.<br>Draw a card.
+p150
+aVCounter target spell unless its controller pays {1} for each artifact you control.
+p151
+aVWhenever a player puts a nontoken creature onto the battlefield, that player returns a land he or she controls to its owner's hand.
+p152
+aVOther black creatures you control get +1/+1.<br>{2}{B}, {T}: Another target black creature you control gains deathtouch until end of turn. <i>(Any amount of damage it deals to a creature is enough to destroy it.)</i>
+p153
+aVEquipped creature gets +1/+1 for each creature you control.<br>Equip {4}
+p154
+aV{3}{U}, {T}, Discard a card: Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn.
+p155
+aVGrim Poppet enters the battlefield with three -1/-1 counters on it.<br>Remove a -1/-1 counter from Grim Poppet: Put a -1/-1 counter on another target creature.
+p156
+aVCounter target spell unless its controller pays {X}. You gain X life.
+p157
+aVAs Overlaid Terrain enters the battlefield, sacrifice all lands you control.<br>Lands you control have "{T}: Add two mana of any one color to your mana pool."
+p158
+aVKicker {2} <i>(You may pay an additional {2} as you cast this spell.)</i><br>Destroy target artifact if its converted mana cost is 2 or less. If Overload was kicked, destroy that artifact if its converted mana cost is 5 or less instead.
+p159
+aVWhenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced, and Overabundance deals 1 damage to him or her.
+p160
+aVEach player draws X cards.
+p161
+aVCreature spells you cast cost up to {2} less to cast.
+p162
+aVEnchant land <i>(Target a land as you cast this. This card enters the battlefield attached to that land.)</i><br>Whenever enchanted land is tapped for mana, its controller adds {G}{G} to his or her mana pool <i>(in addition to the mana the land produces)</i>.
+p163
+aVCounter target spell unless its controller pays {X}. You gain X life.
+p164
+aVCounter target creature spell. Draw cards equal to that spell's converted mana cost.
+p165
+aVDestroy target creature with flying.
+p166
+aVZhou Yu, Chief Commander can't attack unless defending player controls an Island.
+p167
+aVWhen Ovinomancer enters the battlefield, sacrifice it unless you return three basic lands you control to their owner's hand.<br>{T}, Return Ovinomancer to its owner's hand: Destroy target creature. It can't be regenerated. That creature's controller puts a 0/1 green Sheep creature token onto the battlefield.
+p168
+asS'costs'
+p169
+(lp170
+V{2}{G}{G}{G}
+p171
+aV{3}{B}{B}
+p172
+aV{4}{U}{U}
+p173
+aV{1}{U}
+p174
+aV{1}{U}
+p175
+aV{2}{G}{G}{G}
+p176
+aV{2}{G}{G}{G}
+p177
+aV{2}{G}
+p178
+aV{1}{U}
+p179
+aV{B}{G}{W}
+p180
+aV{2}{G}
+p181
+aV{G/U}{G/U}{G/U}{G/U}{G/U}
+p182
+aV{2}{G}{G}{G}
+p183
+aV{1}{B}
+p184
+aV{2}{G}
+p185
+aV{3}{R}
+p186
+aV{5}{G}{G}
+p187
+aS'0'
+p188
+aV{2}{B}
+p189
+aV{2}{G}{G}{G}
+p190
+ag188
+aV{R}
+p191
+aV{2}{U}
+p192
+aV{1}{U}
+p193
+aV{4}{G}
+p194
+aV{W}
+p195
+aV{1}{U}
+p196
+aV{G/W}{G/W}{G/W}{G/W}{G/W}
+p197
+aV{U}
+p198
+aV{2}{G}{G}
+p199
+aV{R}
+p200
+aV{1}{R}{G}
+p201
+aV{2}{U}
+p202
+aV{6}{B}{B}
+p203
+aV{2}{G}
+p204
+aV{X}{W}{U}
+p205
+aV{4}{U}{U}
+p206
+aV{1}{U}
+p207
+aV{6}{B}{B}
+p208
+aV{2}{U}
+p209
+asS'names'
+p210
+(lp211
+VOverrun
+p212
+aVOverrun
+p213
+aVOverwhelming Intellect
+p214
+aVOvinize
+p215
+aVOverrun
+p216
+aVOverrun
+p217
+aVOverrun
+p218
+aVOvergrowth
+p219
+aVOvertaker
+p220
+aVOvergrown Estate
+p221
+aVOvergrowth
+p222
+aVOverbeing of Myth
+p223
+aVOverrun
+p224
+aVOversold Cemetery
+p225
+aVOverwhelming Instinct
+p226
+aVOverblaze
+p227
+aVOverwhelm
+p228
+aVOvergrown Tomb
+p229
+aVOvereager Apprentice
+p230
+aVOverrun
+p231
+aVOvergrown Tomb
+p232
+aVOvermaster
+p233
+aVOverride
+p234
+aVOverburden
+p235
+aVOverwhelm
+p236
+aVOvergrown Battlement
+p237
+aVOvertaker
+p238
+aVOversoul of Dusk
+p239
+aVOverrule
+p240
+aVOverlaid Terrain
+p241
+aVOverload
+p242
+aVOverabundance
+p243
+aVOvinomancer
+p244
+aVOverwhelming Forces
+p245
+aVOvergrowth
+p246
+aVOverrule
+p247
+aVOverwhelming Intellect
+p248
+aVOverwhelming Stampede
+p249
+aVOverwhelming Forces
+p250
+aVOvinomancer
+p251
+asS'toughs'
+p252
+(lp253
+S'N/A'
+p254
+ag254
+ag254
+ag254
+ag254
+ag254
+ag254
+ag254
+aV2
+p255
+ag254
+ag254
+aV*
+p256
+ag254
+ag254
+ag254
+ag254
+ag254
+ag254
+ag255
+ag254
+ag254
+ag254
+ag254
+ag254
+ag254
+aV3
+p257
+aV1
+p258
+aV7
+p259
+ag254
+ag254
+ag254
+ag254
+aV5
+p260
+ag254
+ag254
+ag254
+ag254
+ag254
+ag254
+ag258
+asS'artists'
+p261
+(lp262
+VJeff Miracola
+p263
+aS''
+p264
+aVAlex Horley-Orlandelli
+p265
+aVTerese Nielsen
+p266
+aVCarl Critchlow
+p267
+aVJeff Miracola
+p268
+aVCarl Critchlow
+p269
+aVRon Spears
+p270
+aVClyde Caldwell
+p271
+aVBrian Snoddy
+p272
+aVChristopher Rush
+p273
+aVChippy
+p274
+ag264
+aVThomas M. Baxa
+p275
+aVRon Spears
+p276
+aVRon Spencer
+p277
+aVWayne Reynolds
+p278
+aVRob Alexander
+p279
+aVRay Lago
+p280
+aVCarl Critchlow
+p281
+aVSteven Belledin
+p282
+aVAnthony S. Waters
+p283
+aVHugh Jamieson
+p284
+aVJohn Matson
+p285
+aVWayne Reynolds
+p286
+aVFranz Vohwinkel
+p287
+aVClyde Caldwell
+p288
+aVScott M. Fischer
+p289
+ag264
+aVDiTerlizzi
+p290
+aVGary Ruddell
+p291
+aVBen Thompson
+p292
+aVKevin Walker
+p293
+aVGao Yan
+p294
+aVRob Alexander
+p295
+aVAlan Pollack
+p296
+aVAlex Horley-Orlandelli
+p297
+aVSteven Belledin
+p298
+aVGao Yan
+p299
+aVKev Walker
+p300
+asS'powers'
+p301
+(lp302
+g254
+ag254
+ag254
+ag254
+ag254
+ag254
+ag254
+ag254
+ag255
+ag254
+ag254
+ag256
+ag254
+ag254
+ag254
+ag254
+ag254
+ag254
+ag258
+ag254
+ag254
+ag254
+ag254
+ag254
+ag254
+ag255
+ag258
+ag260
+ag254
+ag254
+ag254
+ag254
+ag260
+ag254
+ag254
+ag254
+ag254
+ag254
+ag254
+aV0
+p303
+asS'types'
+p304
+(lp305
+VSorcery
+p306
+aVSorcery
+p307
+aVInstant
+p308
+aVInstant
+p309
+aVSorcery
+p310
+aVSorcery
+p311
+aVSorcery
+p312
+aVEnchantment - Aura
+p313
+aVCreature - Merfolk Spellshaper
+p314
+aVEnchantment
+p315
+aVEnchantment - Aura
+p316
+aVCreature - Spirit Avatar
+p317
+aVSorcery
+p318
+aVEnchantment
+p319
+aVEnchantment
+p320
+aVInstant - Arcane
+p321
+aVSorcery
+p322
+aVLand - Swamp Forest
+p323
+aVCreature - Human Minion
+p324
+aVSorcery
+p325
+aVLand - Swamp Forest
+p326
+aVSorcery
+p327
+aVInstant
+p328
+aVEnchantment
+p329
+aVSorcery
+p330
+aVCreature - Wall
+p331
+aVCreature - Merfolk Spellshaper
+p332
+aVCreature - Spirit Avatar
+p333
+aVInstant
+p334
+aVEnchantment
+p335
+aVInstant
+p336
+aVEnchantment
+p337
+aVCreature - Human Wizard
+p338
+aVSorcery
+p339
+aVEnchantment - Aura
+p340
+aVInstant
+p341
+aVInstant
+p342
+aVSorcery
+p343
+aVSorcery
+p344
+aVCreature - Human Wizard
+p345
+asS'numbers'
+p346
+(lp347
+V54
+p348
+aV186
+p349
+aV51
+p350
+aV57
+p351
+aV198
+p352
+aV297
+p353
+aV284
+p354
+aV283
+p355
+aV89
+p356
+aV113
+p357
+aV262
+p358
+aV157
+p359
+aV130
+p360
+aV160
+p361
+aV276
+p362
+aV114
+p363
+aV175
+p364
+aV279
+p365
+aV154
+p366
+aV260
+p367
+aV243
+p368
+aV104
+p369
+aV45
+p370
+aV39
+p371
+aV189
+p372
+aV203
+p373
+aV89
+p374
+aV234
+p375
+ag264
+aV108
+p376
+aV157
+p377
+aV259
+p378
+aV140
+p379
+aV92
+p380
+aV124
+p381
+aV120
+p382
+aV28
+p383
+aV189
+p384
+aV79
+p385
+aV27
+p386
+as.

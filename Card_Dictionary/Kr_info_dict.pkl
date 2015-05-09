@@ -1,0 +1,1733 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVUncommon
+p4
+aVCommon
+p5
+aVRare
+p6
+aVCommon
+p7
+aVMythic Rare
+p8
+aVRare
+p9
+aVUncommon
+p10
+aVCommon
+p11
+aVUncommon
+p12
+aVUncommon
+p13
+aVUncommon
+p14
+aVUncommon
+p15
+aVCommon
+p16
+aVCommon
+p17
+aVCommon
+p18
+aVCommon
+p19
+aVUncommon
+p20
+aVCommon
+p21
+aVRare
+p22
+aVCommon
+p23
+aVUncommon
+p24
+aVUncommon
+p25
+aVCommon
+p26
+aVCommon
+p27
+aVMythic Rare
+p28
+aVUncommon
+p29
+aVRare
+p30
+aVUncommon
+p31
+aVCommon
+p32
+aVUncommon
+p33
+aVCommon
+p34
+aVUncommon
+p35
+aVCommon
+p36
+aVCommon
+p37
+aVRare
+p38
+aVUncommon
+p39
+aVCommon
+p40
+aVUncommon
+p41
+aVCommon
+p42
+aVUncommon
+p43
+aVUncommon
+p44
+aVUncommon
+p45
+aVCommon
+p46
+aVCommon
+p47
+aVCommon
+p48
+aVCommon
+p49
+aVCommon
+p50
+aVCommon
+p51
+aVCommon
+p52
+aVRare
+p53
+aVMythic Rare
+p54
+aVCommon
+p55
+aVCommon
+p56
+aVUncommon
+p57
+aVUncommon
+p58
+aVCommon
+p59
+aVUncommon
+p60
+aVUncommon
+p61
+aVCommon
+p62
+aVUncommon
+p63
+aVUncommon
+p64
+aVCommon
+p65
+aVCommon
+p66
+aVRare
+p67
+aVCommon
+p68
+aVUncommon
+p69
+aVMythic Rare
+p70
+aVCommon
+p71
+aVCommon
+p72
+aVCommon
+p73
+aVCommon
+p74
+aVUncommon
+p75
+aVCommon
+p76
+aVCommon
+p77
+aVSpecial
+p78
+aVCommon
+p79
+aVRare
+p80
+aVUncommon
+p81
+aVCommon
+p82
+aVUncommon
+p83
+aVUncommon
+p84
+aVSpecial
+p85
+aVCommon
+p86
+aVRare
+p87
+asS'editns'
+p88
+(lp89
+VMagic: The Gathering-Commander
+p90
+aVMagic 2012
+p91
+aVMagic 2013
+p92
+aVMagic 2013
+p93
+aVMagic 2013
+p94
+aVFrom the Vault: Legends
+p95
+aVAlliances
+p96
+aVAlliances
+p97
+aVBorn of the Gods
+p98
+aVBorn of the Gods
+p99
+aVMagic 2010
+p100
+aVTempest
+p101
+aVTenth Edition
+p102
+aVMercadian Masques
+p103
+aVVintage Masters
+p104
+aVVintage Masters
+p105
+aVVintage Masters
+p106
+aVModern Masters
+p107
+aVMasters Edition II
+p108
+aVMasters Edition II
+p109
+aVMasters Edition II
+p110
+aVMasters Edition II
+p111
+aVNinth Edition
+p112
+aVConflux
+p113
+aVAvacyn Restored
+p114
+aVPlanechase 2012 Edition
+p115
+aVPlanechase 2012 Edition
+p116
+aVOnslaught
+p117
+aVOnslaught
+p118
+aVOnslaught
+p119
+aVCommander 2013 Edition
+p120
+aVCommander 2013 Edition
+p121
+aVCommander 2013 Edition
+p122
+aVOdyssey
+p123
+aVOdyssey
+p124
+aVOdyssey
+p125
+aVTime Spiral
+p126
+aVColdsnap
+p127
+aVColdsnap
+p128
+aVColdsnap
+p129
+aVColdsnap
+p130
+aVIce Age
+p131
+aVIce Age
+p132
+aVIce Age
+p133
+aVIce Age
+p134
+aVTorment
+p135
+aVTorment
+p136
+aVZendikar
+p137
+aVMirrodin
+p138
+aVMirrodin
+p139
+aVMirrodin
+p140
+aVShards of Alara
+p141
+aVMagic 2015 Core Set
+p142
+aVDarksteel
+p143
+aVDarksteel
+p144
+aVJudgment
+p145
+aVJudgment
+p146
+aVJudgment
+p147
+aVFifth Dawn
+p148
+aVFifth Dawn
+p149
+aVFifth Dawn
+p150
+aVScourge
+p151
+aVScourge
+p152
+aVPlanechase
+p153
+aVLegions
+p154
+aVLegions
+p155
+aVTheros
+p156
+aVJourney into Nyx
+p157
+aVJourney into Nyx
+p158
+aVFifth Edition
+p159
+aVFifth Edition
+p160
+aVArchenemy
+p161
+aVArchenemy
+p162
+aVKhans of Tarkir
+p163
+aVDuel Decks: Jace vs. Vraska
+p164
+aVVanguard
+p165
+aVInnistrad
+p166
+aVInnistrad
+p167
+aVDragon's Maze
+p168
+aVDragon's Maze
+p169
+aVLegends
+p170
+aVMagic 2011
+p171
+aVTime Spiral "Timeshifted"
+p172
+aVDuel Decks: Heroes vs. Monsters
+p173
+aVDark Ascension
+p174
+asS'ids'
+p175
+(lp176
+V247348
+p177
+aV221521
+p178
+aV279699
+p179
+aV253712
+p180
+aV259213
+p181
+aV244672
+p182
+aV3080
+p183
+aV3081
+p184
+aV378472
+p185
+aV378414
+p186
+aV191246
+p187
+aV4769
+p188
+aV129619
+p189
+aV19836
+p190
+aV382992
+p191
+aV382993
+p192
+aV382994
+p193
+aV370557
+p194
+aV184737
+p195
+aV184556
+p196
+aV184646
+p197
+aV184647
+p198
+aV83493
+p199
+aV177940
+p200
+aV240093
+p201
+aV270738
+p202
+aV271177
+p203
+aV39669
+p204
+aV41056
+p205
+aV43479
+p206
+aV376394
+p207
+aV376395
+p208
+aV376396
+p209
+aV29775
+p210
+aV29780
+p211
+aV30549
+p212
+aV126274
+p213
+aV121226
+p214
+aV121493
+p215
+aV122047
+p216
+aV122050
+p217
+aV2463
+p218
+aV2465
+p219
+aV2464
+p220
+aV2517
+p221
+aV29715
+p222
+aV29872
+p223
+aV177585
+p224
+aV45992
+p225
+aV45994
+p226
+aV48923
+p227
+aV174876
+p228
+aV383294
+p229
+aV43491
+p230
+aV49049
+p231
+aV30657
+p232
+aV35069
+p233
+aV36113
+p234
+aV50201
+p235
+aV51097
+p236
+aV51633
+p237
+aV43535
+p238
+aV44320
+p239
+aV198100
+p240
+aV35166
+p241
+aV45134
+p242
+aV373710
+p243
+aV380446
+p244
+aV380447
+p245
+aV3855
+p246
+aV3917
+p247
+aV220491
+p248
+aV220544
+p249
+aV386585
+p250
+aV380275
+p251
+aV193854
+p252
+aV222123
+p253
+aV227084
+p254
+aV369052
+p255
+aV369059
+p256
+aV1409
+p257
+aV206328
+p258
+aV109684
+p259
+aV373394
+p260
+aV253431
+p261
+asS'texts'
+p262
+(lp263
+VCycling {2}{G} <i>({2}{G}, Discard this card: Draw a card.)</i><br>When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.
+p264
+aVIllusion creatures you control get +1/+1 and have hexproof. <i>(They can't be the targets of spells or abilities your opponents control.)</i>
+p265
+aVCounter target noncreature spell.
+p266
+aV{T}, Discard a card: Draw a card.
+p267
+aVSearing Spear deals 3 damage to target creature or player.
+p268
+aVWhenever another creature dies, you may put X +1/+1 counters on Kresh the Bloodbraided, where X is that creature's power.
+p269
+aVAt the beginning of the end step, if Krovikan Horror is in your graveyard with a creature card directly above it, you may return Krovikan Horror to your hand.<br>{1}, Sacrifice a creature: Krovikan Horror deals 1 damage to target creature or player.
+p270
+aVEnchant non-Wall creature you control<br>When Krovikan Plague enters the battlefield, draw a card at the beginning of the next turn's upkeep.<br>Tap enchanted creature: Krovikan Plague deals 1 damage to target creature or player. Put a -0/-1 counter on enchanted creature. Activate this ability only if enchanted creature is untapped.
+p271
+aVUntil end of turn, creatures you control gain "{T}: This creature deals 1 damage to target creature or player."
+p272
+aVFlying<br>Loyal Pegasus can't attack or block alone.
+p273
+aV{T}: Add {G} to your mana pool.
+p274
+aVAt the beginning of your upkeep, you may look at the top three cards of your library, then put them back in any order.
+p275
+aV{T}: Add {1} to your mana pool.<br>{T}: Add {B} or {G} to your mana pool. Llanowar Wastes deals 1 damage to you.
+p276
+aVWhen Hired Giant enters the battlefield, each other player may search his or her library for a land card and put that card onto the battlefield. Then each player who searched his or her library this way shuffles it.
+p277
+aV{T}, Discard a nonblack card: Draw a card.<br>{T}, Discard a black card: Draw two cards, then discard one of them.
+p278
+aVIf Lake of the Dead would enter the battlefield, sacrifice a Swamp instead. If you do, put Lake of the Dead onto the battlefield. If you don't, put it into its owner's graveyard.<br>{T}: Add {B} to your mana pool.<br>{T}, Sacrifice a Swamp: Add {B}{B}{B}{B} to your mana pool.
+p279
+aVWhen Laquatus's Champion enters the battlefield, target player loses 6 life.<br>When Laquatus's Champion leaves the battlefield, that player gains 6 life.<br>{B}: Regenerate Laquatus's Champion.
+p280
+aVSplit second <i>(As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)</i><br>Destroy target artifact or enchantment.
+p281
+aV{T}, Discard a nonblack card: Draw a card.<br>{T}, Discard a black card: Draw two cards, then discard one of them.
+p282
+aVAt the beginning of each end step, if a creature dealt damage by Krovikan Vampire this turn died, put that card onto the battlefield under your control. Sacrifice it when you lose control of Krovikan Vampire.
+p283
+aVShuffle a card from your hand into your library. If you do, draw two cards at the beginning of the next turn's upkeep.
+p284
+aVLava Burst deals X damage to target creature or player. If Lava Burst would deal damage to a creature, that damage can't be prevented or dealt instead to another creature or player.
+p285
+aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i><br>When Rathi Dragon enters the battlefield, sacrifice it unless you sacrifice two Mountains.
+p286
+aVFlying<br>Whenever Maelstrom Archangel deals combat damage to a player, you may cast a nonland card from your hand without paying its mana cost.
+p287
+aVReveal the top two cards of your library. Put all creature and land cards revealed this way into your hand and the rest on the bottom of your library in any order.
+p288
+aVKrosan Verge enters the battlefield tapped.<br>{T}: Add {1} to your mana pool.<br>{2}, {T}, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card and put them onto the battlefield tapped. Then shuffle your library.
+p289
+aVTarget opponent loses 2 life for each Swamp you control. Last Stand deals damage equal to the number of Mountains you control to target creature. Put a 1/1 green Saproling creature token onto the battlefield for each Forest you control. You gain 2 life for each Plains you control. Draw a card for each Island you control, then discard that many cards.
+p290
+aVMorph {6}{G}{G} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p291
+aV{G}: Target Beast creature gains trample until end of turn.
+p292
+aVCycling {2}{G} <i>({2}{G}, Discard this card: Draw a card.)</i><br>When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.
+p293
+aVSplit second <i>(As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)</i><br>Destroy target artifact or enchantment.
+p294
+aVCycling {2}{G} <i>({2}{G}, Discard this card: Draw a card.)</i><br>When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.
+p295
+aVBeast spells you cast cost {1} less to cast.<br>{1}{G}: Regenerate target Beast.
+p296
+aVHowling Gale deals 1 damage to each creature with flying and each player.<br>Flashback {1}{G} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
+p297
+aVWhenever Rabid Elephant becomes blocked, it gets +2/+2 until end of turn for each creature blocking it.
+p298
+aVSearch your library for a card and put that card into your graveyard. Then shuffle your library.
+p299
+aVSaproling creatures get +1/+1.<br>Morph {3}{G}{G} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i><br>When Thelonite Hermit is turned face up, put four 1/1 green Saproling creature tokens onto the battlefield.
+p300
+aVEnchant creature <br>Enchanted creature doesn't untap during its controller's untap step. <br>When enchanted creature is dealt damage, destroy it.
+p301
+aVYou gain 4 life.<br>Recover {1}{W} <i>(When a creature is put into your graveyard from the battlefield, you may pay {1}{W}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)</i>
+p302
+aVWhenever you're dealt damage, you may put that many 1/1 white Soldier creature tokens onto the battlefield.
+p303
+aVSacrifice Garza's Assassin: Destroy target nonblack creature.<br>Recover\u2014Pay half your life, rounded up. <i>(When another creature is put into your graveyard from the battlefield, you may pay half your life, rounded up. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)</i>
+p304
+aV{2}{R}: Target creature gets +1/+0 until end of turn.<br>{U}{U}: Target creature you control gains flying until end of turn. Sacrifice it at the beginning of the next end step.
+p305
+aVAt the beginning of each end step, if a creature dealt damage by Krovikan Vampire this turn died, put that card onto the battlefield under your control. Sacrifice it when you lose control of Krovikan Vampire.
+p306
+aVLhurgoyf's power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1.
+p307
+aVEnchant creature<br>All creatures able to block enchanted creature do so.
+p308
+aVSwampwalk<br>{T}: Target black creature gets -2/-0 until end of turn.
+p309
+aV{T}: Untap target land.<br>Threshold- {T}: Untap up to three target lands. Activate this ability only if seven or more cards are in your graveyard.
+p310
+aVYou gain 2 life for each Plains you control.
+p311
+aVSacrifice an artifact: Krark-Clan Grunt gets +1/+0 and gains first strike until end of turn.
+p312
+aVSacrifice an artifact: Krark-Clan Shaman deals 1 damage to each creature without flying.
+p313
+aV{2}, {T}: Shuffle your library.
+p314
+aVFlying<br>Whenever an artifact creature you control deals combat damage to a player, you may put a 1/1 blue Thopter artifact creature token with flying onto the battlefield.
+p315
+aVAs an additional cost to cast Life's Legacy, sacrifice a creature.<br>Draw cards equal to the sacrificed creature's power.
+p316
+aV{T}, Sacrifice an artifact: Add {R}{R} to your mana pool.
+p317
+aVWhenever a player casts a blue spell, you may gain 1 life.
+p318
+aVKrosan Verge enters the battlefield tapped.<br>{T}: Add {1} to your mana pool.<br>{2}, {T}, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card and put them onto the battlefield tapped. Then shuffle your library.
+p319
+aVSacrifice Krosan Wayfarer: You may put a land card from your hand onto the battlefield.
+p320
+aVTarget player shuffles up to two target cards from his or her graveyard into his or her library.<br>Flashback {1}{G} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
+p321
+aV{R}, Sacrifice two artifacts: Destroy target artifact.
+p322
+aV{R}, Sacrifice an artifact: Target creature can't block this turn.
+p323
+aVAffinity for artifacts <i>(This spell costs {1} less to cast for each artifact you control.)</i><br>Untap all artifacts.
+p324
+aVBeast spells you cast cost {1} less to cast.<br>{1}{G}: Regenerate target Beast.
+p325
+aVCreature spells you cast with converted mana cost 6 or greater cost {2} less to cast.
+p326
+aVAll creatures get +2/+2.<br>Whenever you roll , you may add {W}{U}{B}{R}{G} to your mana pool.
+p327
+aVAt the beginning of your upkeep, sacrifice Krosan Cloudscraper unless you pay {G}{G}.<br>Morph {7}{G}{G} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p328
+aVProvoke <i>(When this attacks, you may have target creature defending player controls untap and block it if able.)</i><br>Krosan Vorine can't be blocked by more than one creature.
+p329
+aVTarget creature gets -4/-4 until end of turn.
+p330
+aVIndestructible<br>As long as your devotion to green and blue is less than seven, Kruphix isn't a creature.<br>You have no maximum hand size.<br>If unused mana would empty from your mana pool, that mana becomes colorless instead.
+p331
+aVReveal the top six cards of your library. Put up to three enchantment cards from among them into your hand and the rest of the revealed cards into your graveyard.
+p332
+aVEnchant creature<br>When Krovikan Fetish enters the battlefield, draw a card at the beginning of the next turn's upkeep.<br>Enchanted creature gets +1/+1.
+p333
+aV{T}, Discard a nonblack card: Draw a card.<br>{T}, Discard a black card: Draw two cards, then discard one of them.
+p334
+aVCycling {2}{G} <i>({2}{G}, Discard this card: Draw a card.)</i><br>When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.
+p335
+aVKrosan Verge enters the battlefield tapped.<br>{T}: Add {1} to your mana pool.<br>{2}, {T}, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card and put them onto the battlefield tapped. Then shuffle your library.
+p336
+aV{2}{W}: Leaping Master gains flying until end of turn.
+p337
+aVFlying<br>Krovikan Mist's power and toughness are each equal to the number of Illusions on the battlefield.
+p338
+aVWhenever a creature you control is devoured, put an X/X green Ooze creature token onto the battlefield, where X is the devoured creature's power.
+p339
+aVIf you would draw a card while your library has no cards in it, you win the game instead.
+p340
+aVFlying<br>{U}: Return Lantern Spirit to its owner's hand.
+p341
+aVProtection from red<br>When Lavinia of the Tenth enters the battlefield, detain each nonland permanent your opponents control with converted mana cost 4 or less. <i>(Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)</i>
+p342
+aVRed creatures you control get +1/+0.<br>White creatures you control get +0/+1.<br>{R}{W}, Exile Legion's Initiative: Exile all creatures you control. At the beginning of the next combat, return those cards to the battlefield under their owner's control and those creatures gain haste until end of turn.
+p343
+aV{2}, {T}: Prevent all damage that would be dealt this turn by target creature you control. That creature gets +0/+X until end of turn, where X is its converted mana cost.
+p344
+aVIf Leyline of the Void is in your opening hand, you may begin the game with it on the battlefield.<br>If a card would be put into an opponent's graveyard from anywhere, exile it instead.
+p345
+aVKicker {X} <i>(You may pay an additional {X} as you cast this spell.)</i><br>Saproling creatures and other Treefolk creatures get +1/+1.<br>When Verdeloth the Ancient enters the battlefield, if it was kicked, put X 1/1 green Saproling creature tokens onto the battlefield.
+p346
+aVCycling {2}{G} <i>({2}{G}, Discard this card: Draw a card.)</i><br>When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.
+p347
+aVAt the beginning of each upkeep, if no spells were cast last turn, transform Lambholt Elder.
+p348
+asS'costs'
+p349
+(lp350
+V{2}{G}
+p351
+aV{1}{U}{U}
+p352
+aV{3}{U}{U}
+p353
+aV{R}
+p354
+aV{3}{R}
+p355
+aV{2}{B}{R}{G}
+p356
+aV{3}{B}
+p357
+aV{2}{B}
+p358
+aV{G}{U}
+p359
+aV{2}{R}
+p360
+aV{U}
+p361
+aV{X}{G}{G}
+p362
+aV{2}
+p363
+aV{R}
+p364
+aV{1}{R}
+p365
+aV{2}{W}{W}
+p366
+aV{5}{G}{G}
+p367
+aV{2}{G}
+p368
+aV{2}{B}
+p369
+aV{3}{B}
+p370
+aV{2}{U}
+p371
+aV{3}{B}{B}
+p372
+aV{2}
+p373
+aV{4}{R}
+p374
+aV{2}{R}
+p375
+aV{G}{G}{G}{W}{W}{W}
+p376
+aS'0'
+p377
+aV{6}{G}{G}{G}
+p378
+aV{4}{G}{G}{G}
+p379
+aV{5}{G}{G}
+p380
+aV{2}{G}
+p381
+aV{5}{G}{G}
+p382
+aV{2}{G}
+p383
+aV{2}{G}
+p384
+aV{3}{G}
+p385
+aV{3}{G}
+p386
+aV{2}{G}
+p387
+aV{1}{B}
+p388
+aV{3}{U}
+p389
+aV{1}{U}
+p390
+aV{2}{B}
+p391
+aV{B}{B}
+p392
+aV{3}{B}{B}
+p393
+aV{2}{B}
+p394
+aV{2}{U}
+p395
+aV{3}{G}
+p396
+aV{2}{G}
+p397
+aV{1}{W}
+p398
+aV{2}{R}
+p399
+aV{R}
+p400
+aV{2}
+p401
+aV{2}{U}
+p402
+aV{5}{G}
+p403
+aV{2}{R}
+p404
+aV{2}
+p405
+ag377
+aV{G}
+p406
+aV{1}{G}
+p407
+aV{3}{R}
+p408
+aV{3}{R}{R}
+p409
+aV{4}
+p410
+aV{2}{G}
+p411
+aV{3}{G}
+p412
+ag377
+aV{7}{G}{G}{G}
+p413
+aV{3}{G}
+p414
+aV{3}{G}
+p415
+aV{4}{R}
+p416
+aV{3}{G}{U}
+p417
+aV{2}{B}
+p418
+aV{2}{U}
+p419
+aV{5}{G}{G}
+p420
+ag377
+aV{3}{B}{B}
+p421
+aV{U}
+p422
+ag377
+ag377
+aV{3}{G}{G}{G}
+p423
+aV{2}{G}{U}
+p424
+aV{1}{G}
+p425
+aV{2}
+p426
+aV{3}{U}{U}
+p427
+aV{7}{G}{G}{G}
+p428
+aV{5}{G}{G}
+p429
+ag377
+asS'names'
+p430
+(lp431
+VKrosan Tusker
+p432
+aVKraken's Eye
+p433
+aVKraken Hatchling
+p434
+aVKrenko, Mob Boss
+p435
+aVKrenko's Command
+p436
+aVKresh the Bloodbraided
+p437
+aVKrovikan Horror
+p438
+aVKrovikan Plague
+p439
+aVKragma Butcher
+p440
+aVKraken of the Straits
+p441
+aVKraken's Eye
+p442
+aVKrakilin
+p443
+aVKraken's Eye
+p444
+aVKris Mage
+p445
+aVKrosan Tusker
+p446
+aVKrosan Vorine
+p447
+aVKrovikan Sorcerer
+p448
+aVKrosan Grip
+p449
+aVKrovikan Fetish
+p450
+aVKrovikan Horror
+p451
+aVKrovikan Sorcerer
+p452
+aVKrovikan Vampire
+p453
+aVKraken's Eye
+p454
+aVKranioceros
+p455
+aVKruin Striker
+p456
+aVKrond the Dawn-Clad
+p457
+aVKrosan Verge
+p458
+aVKrosan Colossus
+p459
+aVKrosan Groundshaker
+p460
+aVKrosan Tusker
+p461
+aVKrosan Grip
+p462
+aVKrosan Tusker
+p463
+aVKrosan Warchief
+p464
+aVKrosan Avenger
+p465
+aVKrosan Archer
+p466
+aVKrosan Beast
+p467
+aVKrosan Grip
+p468
+aVKrovikan Scoundrel
+p469
+aVKrovikan Whispers
+p470
+aVKrovikan Mist
+p471
+aVKrovikan Rot
+p472
+aVKrovikan Elementalist
+p473
+aVKrovikan Vampire
+p474
+aVKrovikan Fetish
+p475
+aVKrovikan Sorcerer
+p476
+aVKrosan Constrictor
+p477
+aVKrosan Restorer
+p478
+aVKraken Hatchling
+p479
+aVKrark-Clan Grunt
+p480
+aVKrark-Clan Shaman
+p481
+aVKrark's Thumb
+p482
+aVKresh the Bloodbraided
+p483
+aVKrenko's Enforcer
+p484
+aVKrark-Clan Stoker
+p485
+aVKraken's Eye
+p486
+aVKrosan Verge
+p487
+aVKrosan Wayfarer
+p488
+aVKrosan Reclamation
+p489
+aVKrark-Clan Engineers
+p490
+aVKrark-Clan Ogre
+p491
+aVKrark-Clan Ironworks
+p492
+aVKrosan Warchief
+p493
+aVKrosan Drover
+p494
+aVKrosa
+p495
+aVKrosan Cloudscraper
+p496
+aVKrosan Vorine
+p497
+aVKragma Warcaller
+p498
+aVKruphix, God of Horizons
+p499
+aVKruphix's Insight
+p500
+aVKrovikan Fetish
+p501
+aVKrovikan Sorcerer
+p502
+aVKrosan Tusker
+p503
+aVKrosan Verge
+p504
+aVKrumar Bond-Kin
+p505
+aVKrovikan Mist
+p506
+aVKresh the Bloodbraided Avatar
+p507
+aVKrallenhorde Wantons
+p508
+aVKruin Outlaw
+p509
+aVKrasis Incubation
+p510
+aVKraul Warrior
+p511
+aVKry Shield
+p512
+aVKraken's Eye
+p513
+aVKrosan Cloudscraper
+p514
+aVKrosan Tusker
+p515
+aVKrallenhorde Killer
+p516
+asS'toughs'
+p517
+(lp518
+V4
+p519
+aS'N/A'
+p520
+ag519
+aV2
+p521
+ag520
+aV3
+p522
+aV5
+p523
+ag520
+ag519
+ag519
+ag520
+ag521
+ag520
+aV1
+p524
+ag519
+ag522
+ag519
+ag520
+ag520
+ag521
+ag524
+ag522
+ag520
+ag521
+ag521
+ag524
+ag520
+ag523
+ag521
+ag522
+ag520
+ag524
+ag521
+ag524
+ag522
+ag524
+ag520
+ag523
+ag520
+aV8
+p525
+ag520
+ag521
+ag524
+ag520
+aV6
+p526
+ag521
+ag521
+ag522
+ag521
+ag524
+ag520
+ag522
+ag521
+aV0
+p527
+ag520
+ag520
+ag524
+ag520
+ag521
+ag519
+ag520
+ag521
+ag521
+ag520
+aV13
+p528
+ag521
+ag524
+ag520
+ag520
+ag520
+ag523
+ag522
+ag520
+ag522
+ag519
+ag520
+ag520
+ag523
+ag520
+ag521
+ag520
+ag520
+ag524
+ag523
+ag520
+asS'artists'
+p529
+(lp530
+VKev Walker
+p531
+aS''
+p532
+aVJason Felix
+p533
+aVKarl Kopinski
+p534
+aVKarl Kopinski
+p535
+aVSteve Argyle
+p536
+aVChristopher Rush
+p537
+aVLiz Danforth
+p538
+aVDaarken
+p539
+aVRichard Wright
+p540
+aVAlan Pollack
+p541
+aVRichard Kane Ferguson
+p542
+aVAlan Pollack
+p543
+aVMatthew Wilson
+p544
+aVKev Walker
+p545
+aVCarl Critchlow
+p546
+aVIgor Kieryluk
+p547
+ag532
+aVHeather Hudson
+p548
+aVChristopher Rush
+p549
+aVPat Morrissey
+p550
+aVQuinton Hoover
+p551
+aVAlan Pollack
+p552
+aVSteve Argyle
+p553
+aVJason A. Engle
+p554
+ag532
+ag532
+aVKev Walker
+p555
+aVWayne England
+p556
+aVKev Walker
+p557
+aVZoltan Boros & Gabor Szikszai
+p558
+aVKev Walker
+p559
+aVGreg Hildebrandt
+p560
+aVD. Alexander Gregory
+p561
+aVRon Spears
+p562
+aVKev Walker
+p563
+aVZoltan Boros & Gabor Szikszai
+p564
+aVRalph Horsley
+p565
+aVNick Percival
+p566
+aVJeremy Jarvis
+p567
+aVMichael Sutfin
+p568
+aVDouglas Shuler
+p569
+aVQuinton Hoover
+p570
+aVHeather Hudson
+p571
+aVPat Morrissey
+p572
+aVJim Nelson
+p573
+aVClyde Caldwell
+p574
+aVJason Felix
+p575
+aVThomas M. Baxa
+p576
+aVThomas M. Baxa
+p577
+aVRon Spencer
+p578
+aVRaymond Swanland
+p579
+aVKarl Kopinski
+p580
+aVPete Venters
+p581
+aVAlan Pollack
+p582
+aVTony Szczudlo
+p583
+aVEdward P. Beard, Jr.
+p584
+aVGary Ruddell
+p585
+aVPete Venters
+p586
+aVPaolo Parente
+p587
+aVTim Hildebrandt
+p588
+aVGreg Hildebrandt
+p589
+aVArnie Swekel
+p590
+aVSteven Belledin
+p591
+aVRon Spears
+p592
+aVCarl Critchlow
+p593
+aVGabor Szikszai
+p594
+aVDaarken
+p595
+aVIgor Kieryluk
+p596
+aVHeather Hudson
+p597
+aVPat Morrissey
+p598
+aVKev Walker
+p599
+aVTony Szczudlo
+p600
+aVKev Walker
+p601
+aVJeremy Jarvis
+p602
+aVUDON
+p603
+aVRandy Gallegos
+p604
+aVDavid Rapoza
+p605
+aVMarco Nelor
+p606
+aVDavid Rapoza
+p607
+aVRichard Thomas
+p608
+aVAlan Pollack
+p609
+aVRon Spears
+p610
+aVKev Walker
+p611
+aVBud Cook
+p612
+asS'powers'
+p613
+(lp614
+g526
+ag520
+ag527
+ag522
+ag520
+ag522
+ag524
+ag520
+ag519
+ag523
+ag520
+ag521
+ag520
+ag524
+ag519
+ag522
+ag521
+ag520
+ag520
+ag521
+ag524
+ag522
+ag520
+ag521
+ag522
+ag524
+ag520
+ag519
+ag521
+ag522
+ag520
+ag524
+ag521
+ag522
+ag521
+ag524
+ag520
+ag523
+ag520
+ag524
+ag520
+ag521
+ag522
+ag520
+ag526
+ag521
+ag524
+ag521
+ag521
+ag524
+ag520
+ag522
+ag522
+ag527
+ag520
+ag520
+ag524
+ag520
+ag521
+ag522
+ag520
+ag521
+ag521
+ag520
+aV13
+p615
+ag522
+ag522
+ag520
+ag520
+ag520
+ag519
+ag523
+ag520
+ag523
+ag524
+ag520
+ag520
+ag523
+ag520
+ag521
+ag520
+ag520
+ag524
+ag526
+ag520
+asS'types'
+p616
+(lp617
+VCreature - Boar Beast
+p618
+aVArtifact
+p619
+aVCreature - Kraken
+p620
+aVLegendary Creature - Goblin Warrior
+p621
+aVSorcery
+p622
+aVLegendary Creature - Human Warrior
+p623
+aVCreature - Horror Spirit
+p624
+aVEnchantment - Aura
+p625
+aVCreature - Minotaur Warrior
+p626
+aVCreature - Kraken
+p627
+aVArtifact
+p628
+aVCreature - Beast
+p629
+aVArtifact
+p630
+aVCreature - Human Spellshaper
+p631
+aVCreature - Boar Beast
+p632
+aVCreature - Cat Beast
+p633
+aVCreature - Human Wizard
+p634
+aVInstant
+p635
+aVEnchantment - Aura
+p636
+aVCreature - Horror Spirit
+p637
+aVCreature - Human Wizard
+p638
+aVCreature - Vampire
+p639
+aVArtifact
+p640
+aVCreature - Beast
+p641
+aVCreature - Human Warrior
+p642
+aVLegendary Creature - Archon
+p643
+aVLand
+p644
+aVCreature - Beast
+p645
+aVCreature - Beast
+p646
+aVCreature - Boar Beast
+p647
+aVInstant
+p648
+aVCreature - Boar Beast
+p649
+aVCreature - Beast
+p650
+aVCreature - Human Druid
+p651
+aVCreature - Centaur Archer
+p652
+aVCreature - Squirrel Beast
+p653
+aVInstant
+p654
+aVCreature - Human Rogue
+p655
+aVEnchantment - Aura
+p656
+aVCreature - Illusion
+p657
+aVInstant
+p658
+aVCreature - Human Wizard
+p659
+aVCreature - Vampire
+p660
+aVEnchantment - Aura
+p661
+aVCreature - Human Wizard
+p662
+aVCreature - Snake
+p663
+aVCreature - Human Druid
+p664
+aVCreature - Kraken
+p665
+aVCreature - Goblin Warrior
+p666
+aVCreature - Goblin Shaman
+p667
+aVLegendary Artifact
+p668
+aVLegendary Creature - Human Warrior
+p669
+aVCreature - Goblin Warrior
+p670
+aVCreature - Goblin Shaman
+p671
+aVArtifact
+p672
+aVLand
+p673
+aVCreature - Human Druid
+p674
+aVInstant
+p675
+aVCreature - Goblin Artificer
+p676
+aVCreature - Ogre
+p677
+aVArtifact
+p678
+aVCreature - Beast
+p679
+aVCreature - Elf
+p680
+aVPlane - Dominaria
+p681
+aVCreature - Beast Mutant
+p682
+aVCreature - Cat Beast
+p683
+aVCreature - Minotaur Warrior
+p684
+aVLegendary Enchantment Creature - God
+p685
+aVSorcery
+p686
+aVEnchantment - Aura
+p687
+aVCreature - Human Wizard
+p688
+aVCreature - Boar Beast
+p689
+aVLand
+p690
+aVCreature - Orc Warrior
+p691
+aVCreature - Illusion
+p692
+aVVanguard
+p693
+aVTransform Creature - Werewolf
+p694
+aVCreature - Human Rogue Werewolf
+p695
+aVEnchantment - Aura
+p696
+aVCreature - Insect Warrior
+p697
+aVArtifact
+p698
+aVArtifact
+p699
+aVCreature - Beast Mutant
+p700
+aVCreature - Boar Beast
+p701
+aVTransform Creature - Werewolf
+p702
+asS'numbers'
+p703
+(lp704
+V164
+p705
+aV211
+p706
+aV58
+p707
+aV138
+p708
+aV139
+p709
+ag523
+aV28
+p710
+aV29
+p711
+aV100
+p712
+aV42
+p713
+aV213
+p714
+aV122
+p715
+aV329
+p716
+aV195
+p717
+aV218
+p718
+aV219
+p719
+aV77
+p720
+ag532
+aV100
+p721
+aV101
+p722
+aV51
+p723
+aV102
+p724
+aV302
+p725
+aV67
+p726
+aV143
+p727
+aV110
+p728
+aV111
+p729
+aV270
+p730
+aV271
+p731
+aV272
+p732
+aV153
+p733
+aV154
+p734
+aV155
+p735
+aV247
+p736
+aV246
+p737
+aV248
+p738
+aV202
+p739
+aV64
+p740
+aV39
+p741
+aV38
+p742
+aV63
+p743
+aV49
+p744
+aV50
+p745
+aV311
+p746
+aV312
+p747
+aV129
+p748
+aV130
+p749
+aV50
+p750
+aV97
+p751
+aV98
+p752
+aV190
+p753
+aV178
+p754
+aV152
+p755
+aV65
+p756
+aV126
+p757
+aV141
+p758
+aV123
+p759
+aV122
+p760
+aV70
+p761
+aV71
+p762
+aV134
+p763
+aV123
+p764
+aV122
+p765
+aV20
+p766
+aV130
+p767
+aV131
+p768
+aV195
+p769
+aV152
+p770
+aV129
+p771
+aV39
+p772
+aV73
+p773
+aV62
+p774
+aV128
+p775
+aV77
+p776
+ag525
+aV87
+p777
+aV185
+p778
+aV152
+p779
+aV79
+p780
+aV42
+p781
+ag526
+aV210
+p782
+aV82
+p783
+aV59
+p784
+aV133
+p785
+as.

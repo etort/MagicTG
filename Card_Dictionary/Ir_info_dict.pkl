@@ -1,0 +1,960 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVCommon
+p4
+aVCommon
+p5
+aVUncommon
+p6
+aVCommon
+p7
+aVCommon
+p8
+aVCommon
+p9
+aVUncommon
+p10
+aVUncommon
+p11
+aVCommon
+p12
+aVCommon
+p13
+aVUncommon
+p14
+aVCommon
+p15
+aVUncommon
+p16
+aVRare
+p17
+aVCommon
+p18
+aVUncommon
+p19
+aVCommon
+p20
+aVCommon
+p21
+aVUncommon
+p22
+aVCommon
+p23
+aVCommon
+p24
+aVUncommon
+p25
+aVCommon
+p26
+aVRare
+p27
+aVUncommon
+p28
+aVCommon
+p29
+aVUncommon
+p30
+aVUncommon
+p31
+aVCommon
+p32
+aVUncommon
+p33
+aVCommon
+p34
+aVMythic Rare
+p35
+aVCommon
+p36
+aVRare
+p37
+aVCommon
+p38
+aVUncommon
+p39
+aVUncommon
+p40
+aVCommon
+p41
+aVUncommon
+p42
+aVCommon
+p43
+aVCommon
+p44
+aVUncommon
+p45
+aVCommon
+p46
+aVUncommon
+p47
+aVRare
+p48
+asS'editns'
+p49
+(lp50
+VLimited Edition Beta
+p51
+aVLimited Edition Beta
+p52
+aVLimited Edition Beta
+p53
+aVFourth Edition
+p54
+aVFourth Edition
+p55
+aVFourth Edition
+p56
+aVScars of Mirrodin
+p57
+aVMercadian Masques
+p58
+aVRevised Edition
+p59
+aVRevised Edition
+p60
+aVMasters Edition II
+p61
+aVOnslaught
+p62
+aVBetrayers of Kamigawa
+p63
+aVUrza's Destiny
+p64
+aVOdyssey
+p65
+aVTime Spiral
+p66
+aVUnlimited Edition
+p67
+aVUnlimited Edition
+p68
+aVUnlimited Edition
+p69
+aVClassic Sixth Edition
+p70
+aVMirrodin
+p71
+aVMirrodin
+p72
+aVSeventh Edition
+p73
+aVUrza's Legacy
+p74
+aVUrza's Legacy
+p75
+aVRise of the Eldrazi
+p76
+aVJudgment
+p77
+aVFifth Dawn
+p78
+aVPortal Second Age
+p79
+aVPlanechase
+p80
+aVEighth Edition
+p81
+aVInvasion
+p82
+aVJourney into Nyx
+p83
+aVFifth Edition
+p84
+aVFifth Edition
+p85
+aVFifth Edition
+p86
+aVFifth Edition
+p87
+aVMirage
+p88
+aVInnistrad
+p89
+aVLimited Edition Alpha
+p90
+aVLimited Edition Alpha
+p91
+aVLimited Edition Alpha
+p92
+aVVisions
+p93
+aVMasters Edition IV
+p94
+aVHomelands
+p95
+aVHomelands
+p96
+asS'ids'
+p97
+(lp98
+V316
+p99
+aV502
+p100
+aV454
+p101
+aV2049
+p102
+aV2289
+p103
+aV2220
+p104
+aV194168
+p105
+aV19882
+p106
+aV1113
+p107
+aV1253
+p108
+aV184759
+p109
+aV39517
+p110
+aV74609
+p111
+aV15163
+p112
+aV31799
+p113
+aV116723
+p114
+aV618
+p115
+aV804
+p116
+aV756
+p117
+aV14761
+p118
+aV46048
+p119
+aV48585
+p120
+aV25649
+p121
+aV12358
+p122
+aV9705
+p123
+aV193527
+p124
+aV34758
+p125
+aV44608
+p126
+aV6628
+p127
+aV205285
+p128
+aV45461
+p129
+aV23235
+p130
+aV380441
+p131
+aV3988
+p132
+aV4065
+p133
+aV4066
+p134
+aV3791
+p135
+aV3497
+p136
+aV222107
+p137
+aV21
+p138
+aV207
+p139
+aV159
+p140
+aV3594
+p141
+aV221571
+p142
+aV2926
+p143
+aV3005
+p144
+asS'texts'
+p145
+(lp146
+VJuggernaut attacks each turn if able.<br>Juggernaut can't be blocked by Walls.
+p147
+aVTarget creature gains flying until end of turn.
+p148
+aVAt the beginning of each player's upkeep, Karma deals damage to that player equal to the number of Swamps he or she controls.
+p149
+aVWhenever a player casts a red spell, you may pay {1}. If you do, you gain 1 life.
+p150
+aV{3}, {T}: Untap target creature.
+p151
+aVAt the beginning of each player's upkeep, Karma deals damage to that player equal to the number of Swamps he or she controls.
+p152
+aVU
+p153
+aVAs Jeweled Torque enters the battlefield, choose a color.<br>Whenever a player casts a spell of the chosen color, you may pay {2}. If you do, you gain 2 life.
+p154
+aV{T}: Untap target land.
+p155
+aVYou have no maximum hand size.<br>If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard.
+p156
+aVJester's Mask enters the battlefield tapped.<br>{1}, {T}, Sacrifice Jester's Mask: Target opponent puts the cards from his or her hand on top of his or her library. Search that player's library for that many cards. That player puts those cards into his or her hand, then shuffles his or her library.
+p157
+aVIronfist Crusher can block any number of creatures.<br>Morph {3}{W} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p158
+aVYou gain 3 life.<br>Splice onto Arcane {1}{G} <i>(As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)</i>
+p159
+aVFlying<br>When Iridescent Drake enters the battlefield, put target Aura card from a graveyard onto the battlefield under your control attached to Iridescent Drake.
+p160
+aVCreatures you control can't be the targets of blue spells or abilities from blue sources.
+p161
+aVIronclaw Buzzardiers can't block creatures with power 2 or greater.<br>{R}: Ironclaw Buzzardiers gains flying until end of turn.
+p162
+aVAt the beginning of each player's upkeep, Karma deals damage to that player equal to the number of Swamps he or she controls.
+p163
+aVKeldon Warlord's power and toughness are each equal to the number of non-Wall creatures you control.
+p164
+aVAll Swamps are 1/1 black creatures that are still lands.
+p165
+aVYou and target player exchange control of the creature you each control with the highest converted mana cost. Then exchange control of artifacts the same way. If two or more permanents a player controls are tied for highest cost, their controller chooses one of them.
+p166
+aV{T}: Add {R} to your mana pool.
+p167
+aVTarget creature gets -1/-1 until end of turn for each artifact you control.
+p168
+aVFirst strike; reach <i>(This creature can block creatures with flying.)</i>
+p169
+aVTarget creature gets +0/+4 until end of turn.<br>Cycling {2} <i>({2}, Discard this card: Draw a card.)</i>
+p170
+aVAt the beginning of each opponent's upkeep, Iron Maiden deals X damage to that player, where X is the number of cards in his or her hand minus 4.
+p171
+ag153
+aVWhen Ironshell Beetle enters the battlefield, put a +1/+1 counter on target creature.
+p172
+aVHaste<br>Iron-Barb Hellion can't block.
+p173
+aVTarget creature gets +3/+3 and gains flying until end of turn. <i>(It can't be blocked except by creatures with flying or reach.)</i>
+p174
+aV{T}: Add {R} to your mana pool.
+p175
+aVWhenever an opponent discards a card, Megrim deals 2 damage to that player.
+p176
+aVIrrigation Ditch enters the battlefield tapped.<br>{T}: Add {W} to your mana pool.<br>{T}, Sacrifice Irrigation Ditch: Add {G}{U} to your mana pool.
+p177
+aVIndestructible<br>As long as your devotion to red and white is less than seven, Iroas isn't a creature.<br>Creatures you control can't be blocked except by two or more creatures.<br>Prevent all damage that would be dealt to attacking creatures you control.
+p178
+aVFlying<br>{G}: Killer Bees gets +1/+1 until end of turn.
+p179
+aVMountainwalk
+p180
+aV{1}: Flip a coin. If you win the flip, target Orc creature gets +2/+0 until end of turn. If you lose the flip, it gets -0/-2 until end of turn.
+p181
+aV{3}, {T}: Untap target creature.
+p182
+aVChoose one- All creatures get -2/-0 until end of turn; or tap target creature; or prevent the next 1 damage that would be dealt to target creature or player this turn.
+p183
+ag153
+aVEnchant artifact<br>Whenever you're dealt damage, put that many vitality counters on Living Artifact.<br>At the beginning of your upkeep, you may remove a vitality counter from Living Artifact. If you do, you gain 1 life.
+p184
+aVAll Forests are 1/1 creatures that are still lands.
+p185
+aVDefender <i>(This creature can't attack.)</i><br>{1}: Regenerate Living Wall.
+p186
+aVVigilance<br>Sacrifice Iron-Heart Chimera: Put a +2/+2 counter on target Chimera creature. It gains vigilance. <i>(This effect lasts indefinitely.)</i>
+p187
+aVCast Just Fate only during the declare attackers step and only if you've been attacked this step.<br>Destroy target attacking creature.
+p188
+aVGreen enchantment spells and white enchantment spells cost {2} more to cast.
+p189
+aVWhenever Labyrinth Minotaur blocks a creature, that creature doesn't untap during its controller's next untap step.
+p190
+asS'costs'
+p191
+(lp192
+V{1}
+p193
+aV{1}{R}
+p194
+aV{4}{G}
+p195
+aV{1}
+p196
+aV{1}{R}
+p197
+aV{4}{G}
+p198
+aV{3}{B}
+p199
+aV{2}
+p200
+aV{1}
+p201
+aV{4}{G}
+p202
+aV{1}{R}
+p203
+aV{4}{W}
+p204
+aV{3}{R}
+p205
+aV{3}{U}
+p206
+aV{5}{W}{U}
+p207
+aV{2}{R}
+p208
+aV{1}
+p209
+aV{1}{R}
+p210
+aV{4}{G}
+p211
+aV{1}
+p212
+aV{2}
+p213
+aV{3}{B}
+p214
+aV{1}
+p215
+aV{W}
+p216
+aV{3}
+p217
+aV{B}
+p218
+aV{1}{G}
+p219
+aV{5}{R}
+p220
+aV{3}{G}{G}
+p221
+aV{2}
+p222
+aV{1}
+p223
+aS'0'
+p224
+aV{5}{U}
+p225
+aV{4}{G}
+p226
+aV{R}
+p227
+aV{1}{R}
+p228
+aV{1}
+p229
+aV{4}{W}
+p230
+ag224
+aV{1}
+p231
+aV{1}{R}
+p232
+aV{4}{G}
+p233
+aV{4}
+p234
+aV{3}{G}{G}
+p235
+aV{2}{B}{B}
+p236
+aV{R}
+p237
+asS'names'
+p238
+(lp239
+VIron Star
+p240
+aVIronclaw Orcs
+p241
+aVIronroot Treefolk
+p242
+aVIron Star
+p243
+aVIronclaw Orcs
+p244
+aVIronroot Treefolk
+p245
+aVIron Myr
+p246
+aVIron Lance
+p247
+aVIron Star
+p248
+aVIronroot Treefolk
+p249
+aVIronclaw Orcs
+p250
+aVIronfist Crusher
+p251
+aVIre of Kaminari
+p252
+aVIridescent Drake
+p253
+aVIridescent Angel
+p254
+aVIronclaw Buzzardiers
+p255
+aVIron Star
+p256
+aVIronclaw Orcs
+p257
+aVIronroot Treefolk
+p258
+aVIron Star
+p259
+aVIron Myr
+p260
+aVIrradiate
+p261
+aVIron Star
+p262
+aVIron Will
+p263
+aVIron Maiden
+p264
+aVIrresistible Prey
+p265
+aVIronshell Beetle
+p266
+aVIron-Barb Hellion
+p267
+aVIronhoof Ox
+p268
+aVIron Myr
+p269
+aVIron Star
+p270
+aVIrrigation Ditch
+p271
+aVIroas, God of Victory
+p272
+aVIronroot Treefolk
+p273
+aVIronclaw Curse
+p274
+aVIronclaw Orcs
+p275
+aVIron Star
+p276
+aVIron Tusk Elephant
+p277
+aVIronfang
+p278
+aVIron Star
+p279
+aVIronclaw Orcs
+p280
+aVIronroot Treefolk
+p281
+aVIron-Heart Chimera
+p282
+aVIronhoof Ox
+p283
+aVIrini Sengir
+p284
+aVIronclaw Curse
+p285
+asS'toughs'
+p286
+(lp287
+S'N/A'
+p288
+aV2
+p289
+aV5
+p290
+ag288
+aV1
+p291
+ag291
+ag288
+ag288
+ag288
+ag291
+ag289
+aV*
+p292
+ag288
+aV3
+p293
+ag289
+aV6
+p294
+ag288
+ag289
+ag290
+ag288
+ag288
+ag288
+ag288
+ag288
+ag288
+ag288
+ag291
+aV4
+p295
+ag295
+ag288
+ag288
+ag288
+ag288
+ag289
+ag288
+ag289
+ag288
+ag289
+ag288
+ag288
+ag289
+ag289
+ag288
+ag291
+ag290
+ag288
+asS'artists'
+p296
+(lp297
+VDan Frazier
+p298
+aVAnson Maddocks
+p299
+aVJesper Myrfors
+p300
+aVDan Frazier
+p301
+aVAnson Maddocks
+p302
+aVJesper Myrfors
+p303
+aVAlan Pollack
+p304
+aVScott M. Fischer
+p305
+aVDan Frazier
+p306
+aVJesper Myrfors
+p307
+aVAnson Maddocks
+p308
+aVIain McCaig
+p309
+aVKev Walker
+p310
+aVJim Nelson
+p311
+aVMatt Cavotta
+p312
+aVCarl Critchlow
+p313
+aVDan Frazier
+p314
+aVAnson Maddocks
+p315
+aVJesper Myrfors
+p316
+aVDonato Giancola
+p317
+aVKev Walker
+p318
+aVDave Dorman
+p319
+aVPete Venters
+p320
+aVVal Mayerik
+p321
+aVTom Wänerstrand
+p322
+aVJesper Ejsing
+p323
+aVHeather Hudson
+p324
+aVDoug Chaffee
+p325
+aVUna Fricker
+p326
+aVKev Walker
+p327
+aVDonato Giancola
+p328
+aVRob Alexander
+p329
+aVSlawomir Maniak
+p330
+aVJerry Tiritilli
+p331
+aVDennis Detwiller
+p332
+aVAnson Maddocks
+p333
+aVDonato Giancola
+p334
+aVTony Roberts
+p335
+aVChristopher Moeller
+p336
+aVDan Frazier
+p337
+aVAnson Maddocks
+p338
+aVJesper Myrfors
+p339
+aVMike Dringenberg
+p340
+aVUna Fricker
+p341
+aVPete Venters
+p342
+aVDennis Detwiller
+p343
+asS'powers'
+p344
+(lp345
+g288
+ag289
+ag293
+ag288
+ag291
+ag291
+ag288
+ag288
+ag288
+ag291
+ag289
+ag292
+ag288
+ag289
+ag291
+ag294
+ag288
+ag289
+ag293
+ag288
+ag288
+ag288
+ag288
+ag288
+ag288
+ag288
+ag291
+ag290
+ag295
+ag288
+ag288
+ag288
+ag288
+ag289
+ag288
+ag291
+ag288
+ag289
+ag288
+ag288
+ag289
+ag289
+ag288
+ag289
+aV0
+p346
+ag288
+asS'types'
+p347
+(lp348
+VArtifact
+p349
+aVCreature - Orc
+p350
+aVCreature - Treefolk
+p351
+aVArtifact
+p352
+aVCreature - Orc
+p353
+aVCreature - Treefolk
+p354
+aVArtifact Creature - Myr
+p355
+aVArtifact
+p356
+aVArtifact
+p357
+aVCreature - Treefolk
+p358
+aVCreature - Orc
+p359
+aVCreature - Human Soldier
+p360
+aVInstant - Arcane
+p361
+aVCreature - Drake
+p362
+aVCreature - Angel
+p363
+aVCreature - Orc Scout
+p364
+aVArtifact
+p365
+aVCreature - Orc
+p366
+aVCreature - Treefolk
+p367
+aVArtifact
+p368
+aVArtifact Creature - Myr
+p369
+aVInstant
+p370
+aVArtifact
+p371
+aVInstant
+p372
+aVArtifact
+p373
+aVSorcery
+p374
+aVCreature - Insect
+p375
+aVCreature - Hellion Beast
+p376
+aVCreature - Ox
+p377
+aVArtifact Creature - Myr
+p378
+aVArtifact
+p379
+aVLand
+p380
+aVLegendary Enchantment Creature - God
+p381
+aVCreature - Treefolk
+p382
+aVEnchantment - Aura
+p383
+aVCreature - Orc
+p384
+aVArtifact
+p385
+aVCreature - Elephant
+p386
+aVTransform Creature - Werewolf
+p387
+aVArtifact
+p388
+aVCreature - Orc
+p389
+aVCreature - Treefolk
+p390
+aVArtifact Creature - Chimera
+p391
+aVCreature - Ox
+p392
+aVLegendary Creature - Vampire Dwarf
+p393
+aVEnchantment - Aura
+p394
+asS'numbers'
+p395
+(lp396
+V134
+p397
+aV135
+p398
+aV136
+p399
+aV26
+p400
+aV237
+p401
+aV238
+p402
+aV168
+p403
+aV300
+p404
+aV160
+p405
+aV161
+p406
+aV132
+p407
+aV42
+p408
+aV109
+p409
+aV35
+p410
+aV288
+p411
+aV165
+p412
+aV136
+p413
+aV137
+p414
+aV138
+p415
+aV290
+p416
+aV187
+p417
+aV67
+p418
+aV301
+p419
+aV10
+p420
+aV127
+p421
+aV188
+p422
+aV121
+p423
+aV69
+p424
+aV77
+p425
+aV115
+p426
+aV304
+p427
+aV324
+p428
+aV150
+p429
+aV105
+p430
+aV143
+p431
+aV144
+p432
+aV305
+p433
+aV177
+p434
+aV168
+p435
+aV179
+p436
+aV180
+p437
+aV181
+p438
+ag290
+aV158
+p439
+aV16
+p440
+aV116
+p441
+as.

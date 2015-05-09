@@ -1,0 +1,1511 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVRare
+p4
+aVRare
+p5
+aVCommon
+p6
+aVCommon
+p7
+aVCommon
+p8
+aVRare
+p9
+aVCommon
+p10
+aVCommon
+p11
+aVCommon
+p12
+aVRare
+p13
+aVCommon
+p14
+aVCommon
+p15
+aVCommon
+p16
+aVCommon
+p17
+aVCommon
+p18
+aVCommon
+p19
+aVCommon
+p20
+aVMythic Rare
+p21
+aVUncommon
+p22
+aVRare
+p23
+aVUncommon
+p24
+aVUncommon
+p25
+aVMythic Rare
+p26
+aVUncommon
+p27
+aVUncommon
+p28
+aVRare
+p29
+aVCommon
+p30
+aVCommon
+p31
+aVCommon
+p32
+aVCommon
+p33
+aVCommon
+p34
+aVCommon
+p35
+aVUncommon
+p36
+aVCommon
+p37
+aVRare
+p38
+aVRare
+p39
+aVRare
+p40
+aVRare
+p41
+aVRare
+p42
+aVRare
+p43
+aVRare
+p44
+aVUncommon
+p45
+aVCommon
+p46
+aVUncommon
+p47
+aVRare
+p48
+aVUncommon
+p49
+aVCommon
+p50
+aVCommon
+p51
+aVCommon
+p52
+aVUncommon
+p53
+aVCommon
+p54
+aVCommon
+p55
+aVUncommon
+p56
+aVRare
+p57
+aVCommon
+p58
+aVRare
+p59
+aVCommon
+p60
+aVCommon
+p61
+aVRare
+p62
+aVMythic Rare
+p63
+aVRare
+p64
+aVRare
+p65
+aVRare
+p66
+aVRare
+p67
+aVRare
+p68
+aVCommon
+p69
+aVCommon
+p70
+aVCommon
+p71
+aVRare
+p72
+aVCommon
+p73
+aVSpecial
+p74
+aVSpecial
+p75
+aVSpecial
+p76
+aVUncommon
+p77
+asS'editns'
+p78
+(lp79
+VMagic: The Gathering-Commander
+p80
+aVMagic: The Gathering-Commander
+p81
+aVMagic: The Gathering-Commander
+p82
+aVMagic 2012
+p83
+aVMagic 2013
+p84
+aVPlanar Chaos
+p85
+aVTempest
+p86
+aVTenth Edition
+p87
+aVTenth Edition
+p88
+aVTenth Edition
+p89
+aVTenth Edition
+p90
+aVModern Masters
+p91
+aVNinth Edition
+p92
+aVNinth Edition
+p93
+aVNinth Edition
+p94
+aVNinth Edition
+p95
+aVConflux
+p96
+aVConflux
+p97
+aVAvacyn Restored
+p98
+aVOnslaught
+p99
+aVOnslaught
+p100
+aVOnslaught
+p101
+aVOnslaught
+p102
+aVCommander 2013 Edition
+p103
+aVOdyssey
+p104
+aVOdyssey
+p105
+aVOdyssey
+p106
+aVOdyssey
+p107
+aVOdyssey
+p108
+aVOdyssey
+p109
+aVOdyssey
+p110
+aVReturn to Ravnica
+p111
+aVExodus
+p112
+aVIce Age
+p113
+aVTorment
+p114
+aVProphecy
+p115
+aVProphecy
+p116
+aVProphecy
+p117
+aVProphecy
+p118
+aVProphecy
+p119
+aVMagic 2015 Core Set
+p120
+aVMagic 2015 Core Set
+p121
+aVUrza's Legacy
+p122
+aVJudgment
+p123
+aVJudgment
+p124
+aVPromo set for Gatherer
+p125
+aVFifth Dawn
+p126
+aVScourge
+p127
+aVScourge
+p128
+aVFuture Sight
+p129
+aVFuture Sight
+p130
+aVLegions
+p131
+aVLegions
+p132
+aVLegions
+p133
+aVWeatherlight
+p134
+aVEighth Edition
+p135
+aVEighth Edition
+p136
+aVEighth Edition
+p137
+aVEighth Edition
+p138
+aVNemesis
+p139
+aVWorldwake
+p140
+aVPremium Deck Series: Graveborn
+p141
+aVAlara Reborn
+p142
+aVArchenemy
+p143
+aVArchenemy
+p144
+aVKhans of Tarkir
+p145
+aVInnistrad
+p146
+aVInnistrad
+p147
+aVLegends
+p148
+aVDissension
+p149
+aVLorwyn
+p150
+aVTime Spiral "Timeshifted"
+p151
+aVTime Spiral "Timeshifted"
+p152
+aVTime Spiral "Timeshifted"
+p153
+aVDark Ascension
+p154
+asS'ids'
+p155
+(lp156
+V247367
+p157
+aV236497
+p158
+aV247520
+p159
+aV220145
+p160
+aV265712
+p161
+aV108899
+p162
+aV4863
+p163
+aV129470
+p164
+aV129473
+p165
+aV130985
+p166
+aV135249
+p167
+aV370489
+p168
+aV82999
+p169
+aV84071
+p170
+aV84522
+p171
+aV82998
+p172
+aV184992
+p173
+aV180278
+p174
+aV239961
+p175
+aV39520
+p176
+aV40131
+p177
+aV40655
+p178
+aV43331
+p179
+aV376253
+p180
+aV29691
+p181
+aV29709
+p182
+aV29923
+p183
+aV29694
+p184
+aV31815
+p185
+aV31767
+p186
+aV29716
+p187
+aV265410
+p188
+aV6137
+p189
+aV2607
+p190
+aV5584
+p191
+aV24590
+p192
+aV24621
+p193
+aV24644
+p194
+aV24564
+p195
+aV24671
+p196
+aV383185
+p197
+aV383186
+p198
+aV12418
+p199
+aV21275
+p200
+aV34865
+p201
+aV97060
+p202
+aV39667
+p203
+aV43626
+p204
+aV44343
+p205
+aV132225
+p206
+aV136204
+p207
+aV43497
+p208
+aV44325
+p209
+aV45838
+p210
+aV4481
+p211
+aV45177
+p212
+aV46617
+p213
+aV45261
+p214
+aV45179
+p215
+aV21263
+p216
+aV201570
+p217
+aV270448
+p218
+aV180608
+p219
+aV220539
+p220
+aV220562
+p221
+aV386483
+p222
+aV220380
+p223
+aV243212
+p224
+aV1515
+p225
+aV107437
+p226
+aV145813
+p227
+aV108835
+p228
+aV108886
+p229
+aV108929
+p230
+aV262863
+p231
+asS'texts'
+p232
+(lp233
+VIf an opponent controls seven or more lands, Avatar of Fury costs {6} less to cast.<br>Flying<br>{R}: Avatar of Fury gets +1/+0 until end of turn.
+p234
+aVAll creatures have double strike and attack each turn if able.
+p235
+aVIf there are ten or more creature cards total in all graveyards, Avatar of Woe costs {6} less to cast.<br>Fear <i>(This creature can't be blocked except by artifact creatures and/or black creatures.)</i><br>{T}: Destroy target creature. It can't be regenerated.
+p236
+aVFlying<br>Whenever a source deals damage to Belltower Sphinx, that source's controller puts that many cards from the top of his or her library into his or her graveyard.
+p237
+aVFlying<br>Exalted <i>(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</i>
+p238
+aVFlying<br>Vanishing 3 <i>(This permanent enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)</i><br>When Aven Riftwatcher enters the battlefield or leaves the battlefield, you gain 2 life.
+p239
+aV{1}: The next time a creature of your choice with shadow would deal damage to you this turn, prevent that damage.
+p240
+aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i> <br>When Aven Cloudchaser enters the battlefield, destroy target enchantment.
+p241
+aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i><br>{1}{U}: Target player reveals the top card of his or her library.
+p242
+aVLook at the top three cards of your library. Put one of those cards into your hand, one on top of your library, and one on the bottom of your library.
+p243
+aVWhenever Cephalid Constable deals combat damage to a player, return up to that many target permanents that player controls to their owners' hands.
+p244
+aVChangeling <i>(This card is every creature type at all times.)</i><br>Flying
+p245
+aVDestroy all Islands.
+p246
+aVTarget opponent reveals his or her hand. You draw a card for each Mountain and red card in it.
+p247
+aV{T}: Add {1} to your mana pool.<br>{T}: Add {G} or {W} to your mana pool. Brushland deals 1 damage to you.
+p248
+aV{T}: Add {1} to your mana pool.<br>{T}: Add {W} or {B} to your mana pool. Caves of Koilos deals 1 damage to you.
+p249
+aVFlying<br>Exalted <i>(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</i>
+p250
+aVFlying<br>Domain- Aven Trailblazer's toughness is equal to the number of basic land types among lands you control.
+p251
+aVPut target artifact, creature, or enchantment on the bottom of its owner's library.<br>Miracle {W} <i>(You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)</i>
+p252
+aVFlying<br>{2}{W}: Look at target face-down creature.
+p253
+aVFlying<br>Other Bird creatures get +1/+1.<br>Other Soldier creatures get +1/+1.
+p254
+aVFlying<br>When Aven Fateshaper enters the battlefield, look at the top four cards of your library, then put them back in any order.<br>{4}{U}: Look at the top four cards of your library, then put them back in any order.
+p255
+aVHaste<br>When Avarax enters the battlefield, you may search your library for a card named Avarax, reveal it, and put it into your hand. If you do, shuffle your library.<br>{1}{R}: Avarax gets +1/+0 until end of turn.
+p256
+aVWhen Avenger of Zendikar enters the battlefield, put a 0/1 green Plant creature token onto the battlefield for each land you control.<br>Landfall- Whenever a land enters the battlefield under your control, you may put a +1/+1 counter on each Plant creature you control.
+p257
+aVFlying<br>{2}{W}, {T}: Aven Archer deals 2 damage to target attacking or blocking creature.
+p258
+aVFlying, protection from red
+p259
+aVTap an untapped Wizard you control: Counter target spell unless its controller pays {1}.
+p260
+aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i> <br>When Aven Fisher dies, you may draw a card.
+p261
+aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i><br>{W}: Aven Flock gets +0/+1 until end of turn.
+p262
+aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i><br>{1}{U}: Target player reveals the top card of his or her library.
+p263
+aVAt the beginning of your upkeep, if you have 200 or more cards in your library, you win the game.
+p264
+aVDestroy target creature that dealt damage this turn.
+p265
+aVWhenever Avenging Druid deals damage to an opponent, you may reveal cards from the top of your library until you reveal a land card. If you do, put that card onto the battlefield and put all other cards revealed this way into your graveyard.
+p266
+aVBalduvian Hydra enters the battlefield with X +1/+0 counters on it.<br>Remove a +1/+0 counter from Balduvian Hydra: Prevent the next 1 damage that would be dealt to Balduvian Hydra this turn.<br>{R}{R}{R}: Put a +1/+0 counter on Balduvian Hydra. Activate this ability only during your upkeep.
+p267
+aVFlying<br>{2}{W}, Discard a card: Aven Trooper gets +1/+2 until end of turn.
+p268
+aVIf an opponent has no cards in hand, Avatar of Will costs {6} less to cast.<br>Flying
+p269
+aVIf there are ten or more creature cards total in all graveyards, Avatar of Woe costs {6} less to cast.<br>Fear <i>(This creature can't be blocked except by artifact creatures and/or black creatures.)</i><br>{T}: Destroy target creature. It can't be regenerated.
+p270
+aVIf an opponent controls seven or more lands, Avatar of Fury costs {6} less to cast.<br>Flying<br>{R}: Avatar of Fury gets +1/+0 until end of turn.
+p271
+aVIf you have 3 or less life, Avatar of Hope costs {6} less to cast.<br>Flying<br>Avatar of Hope can block any number of creatures.
+p272
+aVIf an opponent controls at least four more creatures than you, Avatar of Might costs {6} less to cast.<br>Trample <i>(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</i>
+p273
+aVFlying, vigilance<br>{1}{W}: Prevent all damage that would be dealt to another target creature this turn by sources of the color of your choice.<br>{5}{W}{W}: Prevent all damage that would be dealt to target player this turn by sources of the color of your choice.
+p274
+aVEquipped creature gets +2/+0 and has vigilance and "At the beginning of your upkeep, draw a card."<br>When equipped creature dies, target opponent gains control of Avarice Amulet.<br>Equip {2} <i>({2}: Attach to target creature you control. Equip only as a sorcery.)</i>
+p275
+aVHaste<br>Echo {3}{R} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i><br>When Avalanche Riders enters the battlefield, destroy target land.
+p276
+aVFlying<br>When Aven Fogbringer enters the battlefield, return target land to its owner's hand.
+p277
+aVCreatures you control get +0/+2 until end of turn.<br>Threshold- If seven or more cards are in your graveyard, choose a color. Creatures you control also gain protection from the chosen color until end of turn.
+p278
+aVIf you have 3 or less life, Avatar of Hope costs {6} less to cast.<br>Flying<br>Avatar of Hope can block any number of creatures.
+p279
+aV{5}: Exchange control of Avarice Totem and target nonland permanent.
+p280
+aVFlying<br>Morph {3}{W} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i><br>When Aven Liberator is turned face up, target creature you control gains protection from the color of your choice until end of turn.
+p281
+aVFlying<br>Whenever a permanent is turned face up, put a +1/+1 counter on Aven Farseer.
+p282
+aVCounter target spell. If the spell is countered this way, exile it with three time counters on it instead of putting it into its owner's graveyard. If it doesn't have suspend, it gains suspend. <i>(At the beginning of its owner's upkeep, remove a counter from that card. When the last is removed, the player plays it without paying its mana cost. If it's a creature, it has haste.)</i>
+p283
+aVKorlash, Heir to Blackblade's power and toughness are each equal to the number of Swamps you control.<br>{1}{B}: Regenerate Korlash.<br>Grandeur- Discard another card named Korlash, Heir to Blackblade: Search your library for up to two Swamp cards, put them onto the battlefield tapped, then shuffle your library.
+p284
+aVFlying<br>{T}: Prevent the next 2 damage that would be dealt to target creature or player this turn.
+p285
+aVFlying
+p286
+aVAmplify 1 <i>(As this creature enters the battlefield, put a +1/+1 counter on it for each Bird and/or Soldier card you reveal in your hand.)</i><br>Flying
+p287
+aVFlying<br>{0}: Avizoa gets +2/+2 until end of turn. You skip your next untap step. Activate this ability only once each turn.
+p288
+aVFlying<br>First strike <i>(This creature deals combat damage before creatures without first strike.)</i>
+p289
+aVAt the beginning of each player's upkeep, Karma deals damage to that player equal to the number of Swamps he or she controls.
+p290
+aVReturn target permanent to its owner's hand.
+p291
+aV{2}{G}{G}: Reveal the top card of your library. If it's a creature card, put it onto the battlefield. Otherwise, put it into your graveyard.
+p292
+aV{2}{W}, {T}, Discard a card: Exile target attacking creature. Its controller gains life equal to its toughness.
+p293
+aVWhen Avenger of Zendikar enters the battlefield, put a 0/1 green Plant creature token onto the battlefield for each land you control.<br>Landfall- Whenever a land enters the battlefield under your control, you may put a +1/+1 counter on each Plant creature you control.
+p294
+aVIf there are ten or more creature cards total in all graveyards, Avatar of Woe costs {6} less to cast.<br>Fear <i>(This creature can't be blocked except by artifact creatures and/or black creatures.)</i><br>{T}: Destroy target creature. It can't be regenerated.
+p295
+aVFlying<br>At the beginning of your upkeep, you may put a feather counter on target creature. If you do, that creature is 3/1 and has flying for as long as it has a feather counter on it.
+p296
+aV<i>({B/R} can be paid with either {B} or {R}.)</i><br>Flying<br>When Avatar of Discord enters the battlefield, sacrifice it unless you discard two cards.
+p297
+aVIf there are ten or more creature cards total in all graveyards, Avatar of Woe costs {6} less to cast.<br>Fear <i>(This creature can't be blocked except by artifact creatures and/or black creatures.)</i><br>{T}: Destroy target creature. It can't be regenerated.
+p298
+aVTarget creature gets +3/+3 and gains trample until end of turn.
+p299
+aV{1}, {T}: Tap target non-Human creature.
+p300
+aV{T}: Add {W} to your mana pool.
+p301
+aVCreatures with forestwalk can be blocked as though they didn't have forestwalk.
+p302
+aV<i>({B/R} can be paid with either {B} or {R}.)</i><br>Flying<br>When Avatar of Discord enters the battlefield, sacrifice it unless you discard two cards.
+p303
+aVChangeling <i>(This card is every creature type at all times.)</i><br>Flying
+p304
+aVHaste<br>Echo {3}{R} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i><br>When Avalanche Riders enters the battlefield, destroy target land.
+p305
+aVCounter target instant or Aura spell that targets a permanent you control.
+p306
+aVMindless Automaton enters the battlefield with two +1/+1 counters on it.<br>{1}, Discard a card: Put a +1/+1 counter on Mindless Automaton.<br>Remove two +1/+1 counters from Mindless Automaton: Draw a card.
+p307
+aVEquipped creature gets +1/+0 and has vigilance.<br>Whenever equipped creature dies, if it was a Human, put a 1/1 white Spirit creature token with flying onto the battlefield.<br>Equip {2}
+p308
+asS'costs'
+p309
+(lp310
+V{6}{R}{R}
+p311
+aV{6}{R}{R}
+p312
+aV{6}{B}{B}
+p313
+aV{3}{U}
+p314
+aV{2}{W}
+p315
+aV{2}{W}
+p316
+aV{3}{W}{W}
+p317
+aV{3}{W}
+p318
+aV{3}{U}{U}
+p319
+aV{3}{U}
+p320
+aV{6}{G}{G}
+p321
+aV{2}{W}
+p322
+aV{4}{W}
+p323
+aV{3}{U}{U}
+p324
+aV{3}{W}
+p325
+aV{3}{U}
+p326
+aV{1}{W}
+p327
+aV{2}{W}
+p328
+aV{5}{W}{W}
+p329
+aV{3}{W}{W}
+p330
+aV{3}{W}{W}{W}
+p331
+aV{6}{U}
+p332
+aV{3}{R}{R}
+p333
+aV{5}{G}{G}
+p334
+aV{3}{W}{W}
+p335
+aV{2}{U}{U}
+p336
+aV{1}{W}{W}
+p337
+aV{3}{W}
+p338
+aV{3}{U}
+p339
+aV{4}{W}
+p340
+aV{3}{U}{U}
+p341
+aV{2}{W}
+p342
+aV{2}{G}
+p343
+aV{X}{2}{R}{R}
+p344
+aV{3}{W}
+p345
+aV{6}{U}{U}
+p346
+aV{6}{B}{B}
+p347
+aV{6}{R}{R}
+p348
+aV{6}{W}{W}
+p349
+aV{6}{G}{G}
+p350
+aV{4}{G}{G}
+p351
+aV{2}{W}{W}{W}
+p352
+aV{3}{R}
+p353
+aV{3}{U}
+p354
+aV{2}{W}
+p355
+aV{6}{W}{W}
+p356
+aV{1}
+p357
+aV{2}{W}{W}
+p358
+aV{1}{W}
+p359
+aV{3}{U}
+p360
+aV{2}{W}
+p361
+aV{3}{W}
+p362
+aV{U}
+p363
+aV{4}{W}
+p364
+aV{3}{U}
+p365
+aV{3}{W}
+p366
+aV{6}{W}{W}
+p367
+aV{3}{U}
+p368
+aV{4}{W}
+p369
+aV{1}{W}
+p370
+aV{5}{G}{G}
+p371
+aV{6}{B}{B}
+p372
+aV{1}{W}{U}
+p373
+aV{B/R}{B/R}{B/R}
+p374
+aV{6}{B}{B}
+p375
+aV{2}{G}{U}{R}
+p376
+aV{1}{W}
+p377
+aV{G}
+p378
+aV{G}
+p379
+aV{B/R}{B/R}{B/R}
+p380
+aV{3}{U}
+p381
+aV{3}{R}
+p382
+aV{G}
+p383
+aV{6}{B}{B}
+p384
+aV{1}
+p385
+asS'names'
+p386
+(lp387
+VAvatar of Fury
+p388
+aVAvatar of Slaughter
+p389
+aVAvatar of Woe
+p390
+aVAven Fleetwing
+p391
+aVAven Squire
+p392
+aVAven Riftwatcher
+p393
+aVAvenging Angel
+p394
+aVAven Cloudchaser
+p395
+aVAven Windreader
+p396
+aVAven Fisher
+p397
+aVAvatar of Might
+p398
+aVAvian Changeling
+p399
+aVAven Flock
+p400
+aVAven Windreader
+p401
+aVAven Cloudchaser
+p402
+aVAven Fisher
+p403
+aVAven Squire
+p404
+aVAven Trailblazer
+p405
+aVAvacyn, Angel of Hope
+p406
+aVAven Soulgazer
+p407
+aVAven Brigadier
+p408
+aVAven Fateshaper
+p409
+aVAvarax
+p410
+aVAvenger of Zendikar
+p411
+aVAven Archer
+p412
+aVAven Smokeweaver
+p413
+aVAven Shrine
+p414
+aVAven Cloudchaser
+p415
+aVAven Fisher
+p416
+aVAven Flock
+p417
+aVAven Windreader
+p418
+aVAvenging Arrow
+p419
+aVAvenging Druid
+p420
+aVAvalanche
+p421
+aVAven Trooper
+p422
+aVAvatar of Will
+p423
+aVAvatar of Woe
+p424
+aVAvatar of Fury
+p425
+aVAvatar of Hope
+p426
+aVAvatar of Might
+p427
+aVAvacyn, Guardian Angel
+p428
+aVAvarice Amulet
+p429
+aVAvalanche Riders
+p430
+aVAven Fogbringer
+p431
+aVAven Warcraft
+p432
+aVAvatar of Hope
+p433
+aVAvarice Totem
+p434
+aVAven Liberator
+p435
+aVAven Farseer
+p436
+aVAven Augur
+p437
+aVAven Mindcensor
+p438
+aVAven Redeemer
+p439
+aVAven Envoy
+p440
+aVAven Warhawk
+p441
+aVAvizoa
+p442
+aVAven Cloudchaser
+p443
+aVAvatar of Hope
+p444
+aVAven Fisher
+p445
+aVAven Flock
+p446
+aVAvenger en-Dal
+p447
+aVAvenger of Zendikar
+p448
+aVAvatar of Woe
+p449
+aVAven Mimeomancer
+p450
+aVAvatar of Discord
+p451
+aVAvatar of Woe
+p452
+aVAvalanche Tusker
+p453
+aVAvacynian Priest
+p454
+aVAvacyn's Pilgrim
+p455
+aVAvoid Fate
+p456
+aVAvatar of Discord
+p457
+aVAvian Changeling
+p458
+aVAvalanche Riders
+p459
+aVAvoid Fate
+p460
+aVAvatar of Woe
+p461
+aVAvacyn's Collar
+p462
+asS'toughs'
+p463
+(lp464
+V6
+p465
+aV8
+p466
+aV5
+p467
+aV2
+p468
+ag468
+aV3
+p469
+ag469
+aV4
+p470
+ag468
+ag468
+ag468
+ag468
+ag469
+ag469
+ag469
+aV1
+p471
+ag471
+ag469
+ag467
+ag470
+ag467
+ag470
+ag470
+ag467
+ag468
+ag469
+aS'N/A'
+p472
+ag471
+ag469
+ag469
+ag468
+ag472
+ag468
+ag472
+ag471
+ag465
+ag467
+ag465
+ag468
+ag469
+ag467
+ag472
+ag468
+ag471
+ag472
+aV9
+p473
+ag472
+ag469
+ag471
+ag469
+ag465
+ag468
+ag468
+ag468
+ag469
+ag468
+ag469
+ag468
+ag469
+ag471
+ag467
+ag467
+ag469
+ag473
+ag469
+ag470
+ag468
+ag471
+ag472
+ag467
+ag469
+ag468
+ag472
+ag467
+ag472
+asS'artists'
+p474
+(lp475
+Vrk post
+p476
+aVJason A. Engle
+p477
+aVrk post
+p478
+aS''
+p479
+aVDavid Palumbo
+p480
+aVDon Hazeltine
+p481
+aVMatthew Wilson
+p482
+aVJustin Sweet
+p483
+aVGreg Hildebrandt
+p484
+aVChristopher Moeller
+p485
+aVrk post
+p486
+ag479
+aVGreg & Tim Hildebrandt
+p487
+aVGreg & Tim Hildebrandt
+p488
+aVJustin Sweet
+p489
+aVChristopher Moeller
+p490
+aVDavid Palumbo
+p491
+aVChris Rahn
+p492
+aVIgor Kieryluk
+p493
+aVJohn Avon
+p494
+aVGreg Staples
+p495
+aVAnthony S. Waters
+p496
+aVGreg Staples
+p497
+aVZoltan Boros & Gabor Szikszai
+p498
+aVMark Zug
+p499
+aVKev Walker
+p500
+aVWayne England
+p501
+aVJustin Sweet
+p502
+aVChristopher Moeller
+p503
+aVGreg & Tim Hildebrandt
+p504
+aVGreg & Tim Hildebrandt
+p505
+aVJames Ryman
+p506
+aVDaren Bader
+p507
+aVBrian Snoddy
+p508
+aVGreg Staples
+p509
+aVrk post
+p510
+aVrk post
+p511
+aVrk post
+p512
+aVrk post
+p513
+aVrk post
+p514
+aVWinona Nelson
+p515
+aVSteven Belledin
+p516
+aVEdward P. Beard, Jr.
+p517
+aVEdward P. Beard, Jr.
+p518
+aVRoger Raupp
+p519
+aVrk post
+p520
+aVBen Thompson
+p521
+aVBrian Snoddy
+p522
+aVLuca Zontini
+p523
+aVDan Scott
+p524
+aVRebecca Guay
+p525
+aVTim Hildebrandt
+p526
+aVAlex Horley-Orlandelli
+p527
+aVGlen Angus
+p528
+aVPaolo Parente
+p529
+aVJustin Sweet
+p530
+aVMark Zug
+p531
+aVChristopher Moeller
+p532
+aVGreg & Tim Hildebrandt
+p533
+aVRon Spencer
+p534
+aVZoltan Boros & Gabor Szikszai
+p535
+ag479
+aVJesper Ejsing
+p536
+aVrk post
+p537
+aVrk post
+p538
+aVMatt Stewart
+p539
+aVGreg Staples
+p540
+aVJana Schirmer & Johannes Voss
+p541
+aVPhil Foglio
+p542
+aVrk post
+p543
+aVHeather Hudson
+p544
+aVEdward P. Beard, Jr.
+p545
+aVPhil Foglio
+p546
+aVrk post
+p547
+aVJames Paick
+p548
+asS'powers'
+p549
+(lp550
+g465
+ag466
+ag465
+ag468
+ag471
+ag468
+ag469
+ag470
+ag468
+ag468
+ag468
+ag468
+ag468
+ag471
+ag469
+ag471
+ag471
+ag467
+ag466
+ag468
+aV0
+p551
+ag470
+ag470
+ag467
+ag468
+ag468
+ag472
+ag471
+ag468
+ag471
+ag468
+ag472
+ag469
+ag472
+ag471
+ag467
+ag465
+ag465
+ag468
+ag551
+ag467
+ag472
+ag468
+ag468
+ag472
+ag470
+ag472
+ag468
+ag471
+ag469
+ag465
+ag468
+ag551
+ag468
+ag469
+ag468
+ag468
+ag468
+ag469
+ag471
+ag467
+ag465
+ag469
+aV10
+p552
+ag467
+ag465
+ag471
+ag471
+ag472
+ag467
+ag468
+ag468
+ag472
+ag465
+ag472
+asS'types'
+p553
+(lp554
+VCreature - Avatar
+p555
+aVCreature - Avatar
+p556
+aVCreature - Avatar
+p557
+aVCreature - Bird Soldier
+p558
+aVCreature - Bird Soldier
+p559
+aVCreature - Bird Rebel Soldier
+p560
+aVCreature - Angel
+p561
+aVCreature - Bird Soldier
+p562
+aVCreature - Bird Soldier Wizard
+p563
+aVCreature - Bird Soldier
+p564
+aVCreature - Avatar
+p565
+aVCreature - Shapeshifter
+p566
+aVCreature - Bird Soldier
+p567
+aVCreature - Bird Soldier Wizard
+p568
+aVCreature - Bird Soldier
+p569
+aVCreature - Bird Soldier
+p570
+aVCreature - Bird Soldier
+p571
+aVCreature - Bird Soldier
+p572
+aVLegendary Creature - Angel
+p573
+aVCreature - Bird Cleric
+p574
+aVCreature - Bird Soldier
+p575
+aVCreature - Bird Wizard
+p576
+aVCreature - Beast
+p577
+aVCreature - Elemental
+p578
+aVCreature - Bird Soldier Archer
+p579
+aVCreature - Bird Soldier
+p580
+aVEnchantment
+p581
+aVCreature - Bird Soldier
+p582
+aVCreature - Bird Soldier
+p583
+aVCreature - Bird Soldier
+p584
+aVCreature - Bird Soldier Wizard
+p585
+aVInstant
+p586
+aVCreature - Human Druid
+p587
+aVSorcery
+p588
+aVCreature - Bird Soldier
+p589
+aVCreature - Avatar
+p590
+aVCreature - Avatar
+p591
+aVCreature - Avatar
+p592
+aVCreature - Avatar
+p593
+aVCreature - Avatar
+p594
+aVLegendary Creature - Angel
+p595
+aVArtifact - Equipment
+p596
+aVCreature - Human Nomad
+p597
+aVCreature - Bird Wizard
+p598
+aVInstant
+p599
+aVCreature - Avatar
+p600
+aVArtifact
+p601
+aVCreature - Bird Soldier
+p602
+aVCreature - Bird Soldier
+p603
+aVCreature - Bird Wizard
+p604
+aVCreature - Bird Wizard
+p605
+aVCreature - Bird Cleric
+p606
+aVCreature - Bird Soldier
+p607
+aVCreature - Bird Soldier
+p608
+aVCreature - Jellyfish
+p609
+aVCreature - Bird Soldier
+p610
+aVCreature - Avatar
+p611
+aVCreature - Bird Soldier
+p612
+aVCreature - Bird Soldier
+p613
+aVCreature - Human Spellshaper
+p614
+aVCreature - Elemental
+p615
+aVCreature - Avatar
+p616
+aVCreature - Bird Wizard
+p617
+aVCreature - Avatar
+p618
+aVCreature - Avatar
+p619
+aVCreature - Elephant Warrior
+p620
+aVCreature - Human Cleric
+p621
+aVCreature - Human Monk
+p622
+aVInstant
+p623
+aVCreature - Avatar
+p624
+aVCreature - Shapeshifter
+p625
+aVCreature - Human Nomad
+p626
+aVInstant
+p627
+aVCreature - Avatar
+p628
+aVArtifact - Equipment
+p629
+asS'numbers'
+p630
+(lp631
+V110
+p632
+aV111
+p633
+aV73
+p634
+aV44
+p635
+ag465
+ag471
+aV177
+p636
+aV7
+p637
+aV69
+p638
+aV68
+p639
+aV251
+p640
+ag479
+ag470
+aV62
+p641
+ag469
+aV61
+p642
+ag469
+ag470
+ag465
+ag466
+ag637
+aV69
+p643
+aV187
+p644
+aV135
+p645
+ag465
+aV64
+p646
+ag473
+ag637
+aV63
+p647
+ag466
+aV65
+p648
+ag470
+aV105
+p649
+aV145
+p650
+ag468
+aV30
+p651
+aV56
+p652
+aV82
+p653
+ag469
+aV109
+p654
+ag469
+aV212
+p655
+aV74
+p656
+aV34
+p657
+ag468
+ag469
+aV104
+p658
+ag470
+ag469
+aV32
+p659
+aV18
+p660
+ag469
+aV30
+p661
+ag470
+aV42
+p662
+ag467
+ag470
+aV61
+p663
+ag465
+ag468
+aV96
+p664
+ag479
+ag468
+aV79
+p665
+ag473
+aV166
+p666
+ag470
+aV170
+p667
+aV61
+p668
+aV140
+p669
+ag470
+aV55
+p670
+aV73
+p671
+aV37
+p672
+aV145
+p673
+as.

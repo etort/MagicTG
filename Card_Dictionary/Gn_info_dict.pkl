@@ -1,0 +1,241 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVUncommon
+p4
+aVCommon
+p5
+aVCommon
+p6
+aVUncommon
+p7
+aVCommon
+p8
+aVCommon
+p9
+aVUncommon
+p10
+aVCommon
+p11
+aVUncommon
+p12
+asS'editns'
+p13
+(lp14
+VSaviors of Kamigawa
+p15
+aVMagic 2014 Core Set
+p16
+aVMirrodin Besieged
+p17
+aVBetrayers of Kamigawa
+p18
+aVShadowmoor
+p19
+aVMagic: The Gathering\u2014Conspiracy
+p20
+aVWorldwake
+p21
+aVJourney into Nyx
+p22
+aVInnistrad
+p23
+aVDissension
+p24
+asS'ids'
+p25
+(lp26
+V88794
+p27
+aV370682
+p28
+aV213763
+p29
+aV74435
+p30
+aV146015
+p31
+aV382275
+p32
+aV197771
+p33
+aV380424
+p34
+aV247420
+p35
+aV107526
+p36
+asS'texts'
+p37
+(lp38
+VEach opponent's maximum hand size is reduced by one.
+p39
+aVFlying<br>Vigilance <i>(Attacking doesn't cause this creature to tap.)</i>
+p40
+aVSacrifice an artifact: Gnathosaur gains trample until end of turn.
+p41
+aVAt the beginning of each player's upkeep, that player adds {G}{G}{G} to his or her mana pool. Until end of turn, this mana doesn't empty from that player's mana pool as steps and phases end.
+p42
+aV<i>({2/R} can be paid with any two mana or with {R}. This card's converted mana cost is 6.)</i><br>Flame Javelin deals 4 damage to target creature or player.
+p43
+aVMultikicker {1}{G} <i>(You may pay an additional {1}{G} any number of times as you cast this spell.)</i><br>Gnarlid Pack enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+p44
+aVMultikicker {1}{G} <i>(You may pay an additional {1}{G} any number of times as you cast this spell.)</i><br>Gnarlid Pack enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+p45
+aVBestow {3}{B} <i>(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)</i><br>Gnarled Scarhide can't block.<br>Enchanted creature gets +2/+1 and can't block.
+p46
+aVPut target creature on top of its owner's library.<br>Flashback {7}{U} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
+p47
+aVGnat Alley Creeper can't be blocked by creatures with flying.
+p48
+asS'costs'
+p49
+(lp50
+V{B}
+p51
+aV{3}{G}
+p52
+aV{4}{R}{R}
+p53
+aV{1}{G}{G}
+p54
+aV{4}
+p55
+aV{2}{W}{W}
+p56
+aV{1}{G}
+p57
+aV{5}{R}
+p58
+aV{1}{B}{B}
+p59
+aV{2}{R}
+p60
+asS'names'
+p61
+(lp62
+VGnat Miser
+p63
+aVGnawing Zombie
+p64
+aVGnathosaur
+p65
+aVGnarled Mass
+p66
+aVGnarled Effigy
+p67
+aVGnarlid Pack
+p68
+aVGnarlid Pack
+p69
+aVGnarled Scarhide
+p70
+aVGnaw to the Bone
+p71
+aVGnat Alley Creeper
+p72
+asS'toughs'
+p73
+(lp74
+V2
+p75
+aV7
+p76
+aV1
+p77
+aV3
+p78
+aS'N/A'
+p79
+aV0
+p80
+ag75
+ag79
+ag79
+ag75
+asS'artists'
+p81
+(lp82
+VThomas M. Baxa
+p83
+aVGreg Staples
+p84
+aS''
+p85
+aVTony Szczudlo
+p86
+aVRon Brown
+p87
+aVJohann Bodin
+p88
+aVJohann Bodin
+p89
+aVGreg Staples
+p90
+aVScott Chou
+p91
+aVPete Venters
+p92
+asS'powers'
+p93
+(lp94
+g75
+ag77
+ag77
+ag78
+ag79
+ag75
+ag75
+ag79
+ag79
+ag75
+asS'types'
+p95
+(lp96
+VCreature - Rat Shaman
+p97
+aVCreature - Zombie
+p98
+aVCreature - Lizard
+p99
+aVCreature - Spirit
+p100
+aVArtifact
+p101
+aVCreature - Beast
+p102
+aVCreature - Beast
+p103
+aVEnchantment Creature - Minotaur
+p104
+aVInstant
+p105
+aVCreature - Human Rogue
+p106
+asS'numbers'
+p107
+(lp108
+V70
+p109
+aV99
+p110
+aV63
+p111
+aV127
+p112
+aV251
+p113
+aV166
+p114
+aV101
+p115
+aV72
+p116
+aV183
+p117
+aV63
+p118
+as.

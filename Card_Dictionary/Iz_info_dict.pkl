@@ -1,0 +1,453 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVCommon
+p4
+aVCommon
+p5
+aVCommon
+p6
+aVUncommon
+p7
+aVCommon
+p8
+aVCommon
+p9
+aVCommon
+p10
+aVCommon
+p11
+aVUncommon
+p12
+aVCommon
+p13
+aVUncommon
+p14
+aVUncommon
+p15
+aVCommon
+p16
+aVCommon
+p17
+aVCommon
+p18
+aVCommon
+p19
+aVUncommon
+p20
+aVCommon
+p21
+aVUncommon
+p22
+aVCommon
+p23
+asS'editns'
+p24
+(lp25
+VMagic: The Gathering-Commander
+p26
+aVMagic: The Gathering-Commander
+p27
+aVMagic: The Gathering-Commander
+p28
+aVGuildpact
+p29
+aVGuildpact
+p30
+aVGuildpact
+p31
+aVGuildpact
+p32
+aVCommander 2013 Edition
+p33
+aVCommander 2013 Edition
+p34
+aVReturn to Ravnica
+p35
+aVReturn to Ravnica
+p36
+aVReturn to Ravnica
+p37
+aVReturn to Ravnica
+p38
+aVPlanechase
+p39
+aVDragon's Maze
+p40
+aVDragon's Maze
+p41
+aVDuel Decks: Izzet vs. Golgari
+p42
+aVDuel Decks: Izzet vs. Golgari
+p43
+aVDuel Decks: Izzet vs. Golgari
+p44
+aVDuel Decks: Izzet vs. Golgari
+p45
+aVDuel Decks: Izzet vs. Golgari
+p46
+asS'ids'
+p47
+(lp48
+V247279
+p49
+aV247280
+p50
+aV247281
+p51
+aV96867
+p52
+aV96966
+p53
+aV97202
+p54
+aV97220
+p55
+aV376377
+p56
+aV376378
+p57
+aV253528
+p58
+aV270961
+p59
+aV253514
+p60
+aV253638
+p61
+aV198065
+p62
+aV368948
+p63
+aV368995
+p64
+aV292733
+p65
+aV338413
+p66
+aV292734
+p67
+aV292735
+p68
+aV292736
+p69
+asS'texts'
+p70
+(lp71
+VIzzet Boilerworks enters the battlefield tapped.<br>When Izzet Boilerworks enters the battlefield, return a land you control to its owner's hand.<br>{T}: Add {U}{R} to your mana pool.
+p72
+aVWhen Izzet Chronarch enters the battlefield, return target instant or sorcery card from your graveyard to your hand.
+p73
+aV{1}, {T}: Add {U}{R} to your mana pool.
+p74
+aV{1}, {T}: Add {W}{B} to your mana pool.
+p75
+aVPut X 1/1 white Pegasus creature tokens with flying onto the battlefield, where X is your life total.
+p76
+aVPrevent the next 3 damage that would be dealt to target creature or player this turn.<br>Draw a card.
+p77
+aVDouse in Gloom deals 2 damage to target creature and you gain 2 life.
+p78
+aVIzzet Boilerworks enters the battlefield tapped.<br>When Izzet Boilerworks enters the battlefield, return a land you control to its owner's hand.<br>{T}: Add {U}{R} to your mana pool.
+p79
+aVIzzet Guildgate enters the battlefield tapped.<br>{T}: Add {U} or {R} to your mana pool.
+p80
+aV+1: Until your next turn, whenever a creature an opponent controls attacks, it gets -1/-0 until end of turn.<br>-2: Reveal the top three cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other on the bottom of your library in any order.<br>-8: For each player, search that player's library for a nonland card and exile it, then that player shuffles his or her library. You may cast those cards without paying their mana costs.
+p81
+aVJarad, Golgari Lich Lord gets +1/+1 for each creature card in your graveyard.<br>{1}{B}{G}, Sacrifice another creature: Each opponent loses life equal to the sacrificed creature's power.<br>Sacrifice a Swamp and a Forest: Return Jarad from your graveyard to your hand.
+p82
+aVSearch your library for up to two creature cards and reveal them. Put one into your hand and the other into your graveyard. Then shuffle your library.
+p83
+aVFlying<br>Sacrifice Judge's Familiar: Counter target instant or sorcery spell unless its controller pays {1}.
+p84
+aVWhenever a player casts an instant or sorcery spell, that player copies it. The player may choose new targets for the copy.<br>Whenever you roll , instant and sorcery spells you cast this turn cost {3} less to cast.
+p85
+aVFlying, vigilance<br>Whenever Jelenn Sphinx attacks, other attacking creatures get +1/+1 until end of turn.
+p86
+aVDeathtouch<br>{2}, Remove a +1/+1 counter from a creature you control: Target creature gets -1/-1 until end of turn.
+p87
+aVIzzet Boilerworks enters the battlefield tapped.<br>When Izzet Boilerworks enters the battlefield, return a land you control to its owner's hand.<br>{T}: Add {U}{R} to your mana pool.
+p88
+aVChoose one- Counter target noncreature spell unless its controller pays {2}; or Izzet Charm deals 2 damage to target creature; or draw two cards, then discard two cards.
+p89
+aVWhen Izzet Chronarch enters the battlefield, return target instant or sorcery card from your graveyard to your hand.
+p90
+aV<i>({U/R} can be paid with either {U} or {R}.)</i><br>{2}{U}: Copy target instant spell you control with converted mana cost 2 or less. You may choose new targets for the copy.<br>{2}{R}: Copy target sorcery spell you control with converted mana cost 2 or less. You may choose new targets for the copy.
+p91
+aV{1}, {T}: Add {U}{R} to your mana pool.
+p92
+asS'costs'
+p93
+(lp94
+S'0'
+p95
+aV{2}{G}
+p96
+aV{3}{U}{R}
+p97
+aV{2}
+p98
+aV{U/R}{U/R}
+p99
+aV{3}{U}{R}
+p100
+ag95
+ag95
+ag95
+aV{U}{R}
+p101
+ag95
+aV{3}
+p102
+aV{1}{U}{R}
+p103
+ag95
+aV{3}
+p104
+ag95
+ag95
+aV{U}{R}
+p105
+aV{3}{U}{R}
+p106
+aV{U/R}{U/R}
+p107
+aV{2}
+p108
+asS'names'
+p109
+(lp110
+VIzzet Boilerworks
+p111
+aVIzzet Chronarch
+p112
+aVIzzet Signet
+p113
+aVIzzet Signet
+p114
+aVIzzet Guildmage
+p115
+aVIzzet Chronarch
+p116
+aVIzzet Boilerworks
+p117
+aVIzzet Boilerworks
+p118
+aVIzzet Guildgate
+p119
+aVIzzet Charm
+p120
+aVIzzet Guildgate
+p121
+aVIzzet Keyrune
+p122
+aVIzzet Staticaster
+p123
+aVIzzet Steam Maze
+p124
+aVIzzet Cluestone
+p125
+aVIzzet Guildgate
+p126
+aVIzzet Boilerworks
+p127
+aVIzzet Charm
+p128
+aVIzzet Chronarch
+p129
+aVIzzet Guildmage
+p130
+aVIzzet Signet
+p131
+asS'toughs'
+p132
+(lp133
+S'N/A'
+p134
+aV6
+p135
+ag134
+ag134
+aV2
+p136
+ag136
+ag134
+ag134
+ag134
+ag134
+ag134
+ag134
+aV3
+p137
+ag134
+ag134
+ag134
+ag134
+ag134
+ag136
+ag136
+ag134
+asS'artists'
+p138
+(lp139
+VJohn Avon
+p140
+aVNick Percival
+p141
+aVGreg Hildebrandt
+p142
+aVGreg Hildebrandt
+p143
+aVJim Murray
+p144
+aVNick Percival
+p145
+aVJohn Avon
+p146
+aVJohn Avon
+p147
+aVNoah Bradley
+p148
+aVZoltan Boros
+p149
+aVNoah Bradley
+p150
+aVDaniel Ljunggren
+p151
+aVScott M. Fischer
+p152
+aVFranz Vohwinkel
+p153
+aVRaoul Vitale
+p154
+aVNoah Bradley
+p155
+aVJohn Avon
+p156
+aVZoltan Boros
+p157
+aVSteven Belledin
+p158
+aVJim Murray
+p159
+aVRaoul Vitale
+p160
+asS'powers'
+p161
+(lp162
+g134
+ag136
+ag134
+ag134
+ag136
+ag136
+ag134
+ag134
+ag134
+ag134
+ag134
+ag134
+aV0
+p163
+ag134
+ag134
+ag134
+ag134
+ag134
+ag136
+ag136
+ag134
+asS'types'
+p164
+(lp165
+VLand
+p166
+aVCreature - Human Wizard
+p167
+aVArtifact
+p168
+aVArtifact
+p169
+aVCreature - Human Wizard
+p170
+aVCreature - Human Wizard
+p171
+aVLand
+p172
+aVLand
+p173
+aVLand - Gate
+p174
+aVInstant
+p175
+aVLand - Gate
+p176
+aVArtifact
+p177
+aVCreature - Human Wizard
+p178
+aVPlane - Ravnica
+p179
+aVArtifact
+p180
+aVLand - Gate
+p181
+aVLand
+p182
+aVInstant
+p183
+aVCreature - Human Wizard
+p184
+aVCreature - Human Wizard
+p185
+aVArtifact
+p186
+asS'numbers'
+p187
+(lp188
+V278
+p189
+aV205
+p190
+aV252
+p191
+aV152
+p192
+aV145
+p193
+aV119
+p194
+aV159
+p195
+aV296
+p196
+aV297
+p197
+aV172
+p198
+aV242
+p199
+aV230
+p200
+aV173
+p201
+aV19
+p202
+aV141
+p203
+aV151
+p204
+aV34
+p205
+aV21
+p206
+aV11
+p207
+aV4
+p208
+aV17
+p209
+as.

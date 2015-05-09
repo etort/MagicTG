@@ -1,0 +1,823 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVUncommon
+p4
+aVRare
+p5
+aVUncommon
+p6
+aVUncommon
+p7
+aVCommon
+p8
+aVCommon
+p9
+aVRare
+p10
+aVRare
+p11
+aVUncommon
+p12
+aVRare
+p13
+aVCommon
+p14
+aVCommon
+p15
+aVRare
+p16
+aVCommon
+p17
+aVCommon
+p18
+aVCommon
+p19
+aVRare
+p20
+aVUncommon
+p21
+aVUncommon
+p22
+aVRare
+p23
+aVRare
+p24
+aVRare
+p25
+aVRare
+p26
+aVUncommon
+p27
+aVCommon
+p28
+aVRare
+p29
+aVRare
+p30
+aVUncommon
+p31
+aVUncommon
+p32
+aVRare
+p33
+aVCommon
+p34
+aVCommon
+p35
+aVRare
+p36
+aVRare
+p37
+aVCommon
+p38
+aVCommon
+p39
+aVUncommon
+p40
+aVSpecial
+p41
+asS'editns'
+p42
+(lp43
+VMagic: The Gathering-Commander
+p44
+aVPlanar Chaos
+p45
+aVTenth Edition
+p46
+aVMasters Edition II
+p47
+aVMasters Edition II
+p48
+aVAvacyn Restored
+p49
+aVChampions of Kamigawa
+p50
+aVChampions of Kamigawa
+p51
+aVColdsnap
+p52
+aVIce Age
+p53
+aVIce Age
+p54
+aVZendikar
+p55
+aVZendikar
+p56
+aVClassic Sixth Edition
+p57
+aVMirrodin
+p58
+aVDuel Decks: Elspeth vs. Tezzeret
+p59
+aVProphecy
+p60
+aVProphecy
+p61
+aVMagic 2015 Core Set
+p62
+aVRise of the Eldrazi
+p63
+aVNew Phyrexia
+p64
+aVFifth Dawn
+p65
+aVDuel Decks: Venser vs. Koth
+p66
+aVMasters Edition
+p67
+aVNemesis
+p68
+aVWorldwake
+p69
+aVWorldwake
+p70
+aVChronicles
+p71
+aVFifth Edition
+p72
+aVFifth Edition
+p73
+aVFifth Edition
+p74
+aVMirage
+p75
+aVMirage
+p76
+aVLegends
+p77
+aVLegends
+p78
+aVHomelands
+p79
+aVHomelands
+p80
+aVHomelands
+p81
+aVTime Spiral "Timeshifted"
+p82
+asS'ids'
+p83
+(lp84
+V247547
+p85
+aV124482
+p86
+aV130500
+p87
+aV184640
+p88
+aV184592
+p89
+aV240049
+p90
+aV78981
+p91
+aV79233
+p92
+aV121198
+p93
+aV2574
+p94
+aV2631
+p95
+aV192227
+p96
+aV177505
+p97
+aV14653
+p98
+aV49437
+p99
+aV222761
+p100
+aV24660
+p101
+aV24673
+p102
+aV383288
+p103
+aV193462
+p104
+aV227508
+p105
+aV72928
+p106
+aV282591
+p107
+aV159235
+p108
+aV21281
+p109
+aV194706
+p110
+aV197765
+p111
+aV2872
+p112
+aV3798
+p113
+aV3989
+p114
+aV4067
+p115
+aV3341
+p116
+aV3391
+p117
+aV1449
+p118
+aV1662
+p119
+aV2971
+p120
+aV3006
+p121
+aV2907
+p122
+aV108786
+p123
+asS'texts'
+p124
+(lp125
+VWhen Journey to Nowhere enters the battlefield, exile target creature.<br>When Journey to Nowhere leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+p126
+aV{0}: Until end of turn, Jodah's Avenger gets -1/-1 and gains your choice of double strike, protection from red, vigilance, or shadow. <i>(A creature with shadow can block or be blocked by only creatures with shadow.)</i>
+p127
+aVWhen Civic Wayfinder enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library.
+p128
+aVAs long as Juniper Order Advocate is untapped, green creatures you control get +1/+1.
+p129
+aVTap an untapped snow land you control: Karplusan Giant gets +1/+1 until end of turn.
+p130
+aVWhen Kessig Malcontents enters the battlefield, it deals damage to target player equal to the number of Humans you control.
+p131
+aVMyojin of Infinite Rage enters the battlefield with a divinity counter on it if you cast it from your hand.<br>Myojin of Infinite Rage is indestructible as long as it has a divinity counter on it.<br>Remove a divinity counter from Myojin of Infinite Rage: Destroy all lands.
+p132
+aVGale Force deals 5 damage to each creature with flying.
+p133
+aVTrample<br>Jokulmorder enters the battlefield tapped.<br>When Jokulmorder enters the battlefield, sacrifice it unless you sacrifice five lands.<br>Jokulmorder doesn't untap during your untap step.<br>Whenever you play an Island, you may untap Jokulmorder.
+p134
+aV{T}: Karplusan Yeti deals damage equal to its power to target creature. That creature deals damage equal to its power to Karplusan Yeti.
+p135
+aVWhen Kjeldoran Dead enters the battlefield, sacrifice a creature.<br>{B}: Regenerate Kjeldoran Dead.
+p136
+aVWhenever Joraga Bard or another Ally enters the battlefield under your control, you may have Ally creatures you control gain vigilance until end of turn.
+p137
+aVWhen Journey to Nowhere enters the battlefield, exile target creature.<br>When Journey to Nowhere leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+p138
+aVTap all lands target player controls and empty his or her mana pool.
+p139
+aVImprint- When Extraplanar Lens enters the battlefield, you may exile target land you control.<br>Whenever a land with the same name as the exiled card is tapped for mana, its controller adds one mana to his or her mana pool of any type that land produced.
+p140
+aVKabira Crossroads enters the battlefield tapped.<br>When Kabira Crossroads enters the battlefield, you gain 2 life.<br>{T}: Add {W} to your mana pool.
+p141
+aVFlash<br>Enchant creature<br>{1}{G}: Regenerate enchanted creature.
+p142
+aV{2}{G}, {T}, Discard two cards: All lands target player controls become 3/3 creatures until end of turn. They're still lands.
+p143
+aVWhen Kinsbaile Skirmisher enters the battlefield, target creature gets +1/+1 until end of turn.
+p144
+aVLevel up {2}{W} <i>({2}{W}: Put a level counter on this. Level up only as a sorcery.)</i><br>LEVEL 2-4<br>3/6<br>Other creatures you control get +1/+1.<br>LEVEL 5+<br>4/8<br>Other creatures you control get +2/+2.
+p145
+aV+4: Target player exiles a card from his or her hand.<br>-3: Exile target permanent.<br>-14: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield under your control.
+p146
+aVRelentless Rats gets +1/+1 for each other creature on the battlefield named Relentless Rats.<br>A deck can have any number of cards named Relentless Rats.
+p147
+aV{3}, {T}: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.
+p148
+aVDestroy all artifacts, creatures, and lands. They can't be regenerated.
+p149
+aVFading 4 <i>(This creature enters the battlefield with four fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)</i><br>Remove a fade counter from Jolting Merfolk: Tap target creature.
+p150
+aVMultikicker {1}{G} <i>(You may pay an additional {1}{G} any number of times as you cast this spell.)</i><br>Joraga Warcaller enters the battlefield with a +1/+1 counter on it for each time it was kicked.<br>Other Elf creatures you control get +1/+1 for each +1/+1 counter on Joraga Warcaller.
+p151
+aVYou may have Jwari Shapeshifter enter the battlefield as a copy of any Ally creature on the battlefield.
+p152
+aV{T}: Prevent the next 2 damage that would be dealt to target creature this turn.
+p153
+aV{4}, {T}: Target creature can't be blocked this turn except by Walls.
+p154
+aV{G}{G}: Counter target black spell.
+p155
+aVOrcish Conscripts can't attack unless at least two other creatures attack.<br><br>Orcish Conscripts can't block unless at least two other creatures block.
+p156
+aVYou may tap or untap target artifact, creature, or land.<br>Draw a card at the beginning of the next turn's upkeep.
+p157
+aVShroud <i>(This permanent can't be the target of spells or abilities.)</i><br>Flanking <i>(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)</i>
+p158
+aV{B}: If Lesser Werewolf's power is 1 or more, it gets -1/-0 until end of turn and put a -0/-1 counter on target creature blocking or blocked by Lesser Werewolf. Activate this ability only during the declare blockers step.
+p159
+aV{B}{R}: Pavel Maliki gets +1/+0 until end of turn.
+p160
+aVWhenever Joven's Ferrets attacks, it gets +0/+2 until end of turn.<br>At end of combat, tap all creatures that blocked Joven's Ferrets this turn. They don't untap during their controller's next untap step.
+p161
+aVEnchant land<br>Orcish Mine enters the battlefield with three ore counters on it.<br>At the beginning of your upkeep or whenever enchanted land becomes tapped, remove an ore counter from Orcish Mine.<br>When the last ore counter is removed from Orcish Mine, destroy enchanted land and Orcish Mine deals 2 damage to that land's controller.
+p162
+aVWhenever Labyrinth Minotaur blocks a creature, that creature doesn't untap during its controller's next untap step.
+p163
+aV{2}{G}, {T}, Discard two cards: All lands target player controls become 3/3 creatures until end of turn. They're still lands.
+p164
+asS'costs'
+p165
+(lp166
+V{1}{W}
+p167
+aV{5}{U}
+p168
+aV{1}{G}
+p169
+aV{5}{G}
+p170
+aV{G}
+p171
+aV{5}{U}
+p172
+aV{3}{G}
+p173
+aV{2}
+p174
+aV{4}{U}{U}{U}
+p175
+aV{5}{G}
+p176
+aV{4}{R}{R}
+p177
+aV{1}{U}
+p178
+aV{3}{G}
+p179
+aV{4}{R}{R}
+p180
+aV{2}{G}
+p181
+aV{W}
+p182
+aV{1}{G}
+p183
+aV{3}{G}{G}
+p184
+aV{U}{U}
+p185
+aV{4}{G}
+p186
+aV{3}{R}{W}
+p187
+aV{1}{G}
+p188
+aV{5}{U}{U}
+p189
+aV{4}{R}{R}
+p190
+aV{2}{U}{U}
+p191
+aV{3}{B}
+p192
+aV{3}{W}
+p193
+aV{3}{R}{G}{W}
+p194
+aV{6}
+p195
+aV{5}{G}
+p196
+aV{4}{R}{R}
+p197
+aV{2}{U}
+p198
+aV{1}{G}{G}
+p199
+aV{2}{B}
+p200
+aV{3}{R}{G}{W}
+p201
+aV{G}
+p202
+aV{3}{R}{R}
+p203
+aV{6}
+p204
+aV{3}{G}{G}
+p205
+asS'names'
+p206
+(lp207
+VJourney to Nowhere
+p208
+aVJodah's Avenger
+p209
+aVJoiner Adept
+p210
+aVJohtull Wurm
+p211
+aVJoven's Ferrets
+p212
+aVJoint Assault
+p213
+aVJoyous Respite
+p214
+aVJourneyer's Kite
+p215
+aVJokulmorder
+p216
+aVJohtull Wurm
+p217
+aVJokulhaups
+p218
+aVJoraga Bard
+p219
+aVJourney to Nowhere
+p220
+aVJokulhaups
+p221
+aVJourney of Discovery
+p222
+aVJourney to Nowhere
+p223
+aVJolrael's Favor
+p224
+aVJolrael, Empress of Beasts
+p225
+aVJorubai Murk Lurker
+p226
+aVJoraga Treespeaker
+p227
+aVJor Kadeen, the Prevailer
+p228
+aVJoiner Adept
+p229
+aVJourneyer's Kite
+p230
+aVJokulhaups
+p231
+aVJolting Merfolk
+p232
+aVJoin the Ranks
+p233
+aVJoraga Warcaller
+p234
+aVJohan
+p235
+aVJoven's Tools
+p236
+aVJohtull Wurm
+p237
+aVJokulhaups
+p238
+aVJolt
+p239
+aVJolrael's Centaur
+p240
+aVJovial Evil
+p241
+aVJohan
+p242
+aVJoven's Ferrets
+p243
+aVJoven
+p244
+aVJoven's Tools
+p245
+aVJolrael, Empress of Beasts
+p246
+asS'toughs'
+p247
+(lp248
+S'N/A'
+p249
+aV4
+p250
+aV2
+p251
+aV6
+p252
+aV1
+p253
+ag249
+ag249
+ag249
+ag253
+ag251
+ag249
+ag253
+ag249
+ag249
+ag249
+ag249
+ag249
+aV3
+p254
+ag253
+aV11
+p255
+ag253
+aV0
+p256
+ag249
+ag249
+ag251
+ag249
+ag254
+ag253
+ag249
+ag251
+ag249
+ag249
+ag253
+ag249
+aV5
+p257
+ag250
+ag253
+ag249
+ag254
+asS'artists'
+p258
+(lp259
+VWarren Mahy
+p260
+aVPete Venters
+p261
+aVHeather Hudson
+p262
+aVDaniel Gelon
+p263
+aVAmy Weber
+p264
+aVJohn Stanko
+p265
+aVRebecca Guay
+p266
+aVHiro Izawa
+p267
+aVMark Zug
+p268
+aVDaniel Gelon
+p269
+aVRichard Thomas
+p270
+aVVolkan Baga
+p271
+aVWarren Mahy
+p272
+aVMike Kerr
+p273
+aVJohn Matson
+p274
+aVWarren Mahy
+p275
+aVDaren Bader
+p276
+aVMatthew D. Wilson
+p277
+aVClint Cearley
+p278
+aVCyril Van Der Haegen
+p279
+aS''
+p280
+aVChristopher Rush
+p281
+ag280
+aVRichard Thomas
+p282
+aVGlen Angus
+p283
+aVKekai Kotaki
+p284
+aVSteven Belledin
+p285
+aVMark Tedin
+p286
+aVZina Saunders
+p287
+aVIan Miller
+p288
+aVMike Kerr
+p289
+aVJohn Matson
+p290
+aVJunior Tomlin
+p291
+aVChristopher Rush
+p292
+aVMark Tedin
+p293
+aVAmy Weber
+p294
+aVDouglas Shuler
+p295
+aVNicola Leonard
+p296
+aVMatthew D. Wilson
+p297
+asS'powers'
+p298
+(lp299
+g249
+ag250
+ag251
+ag252
+ag253
+ag249
+ag249
+ag249
+ag253
+ag251
+ag249
+aV7
+p300
+ag249
+ag249
+ag249
+ag249
+ag249
+ag254
+ag254
+ag251
+ag253
+ag256
+ag249
+ag249
+ag251
+ag249
+ag254
+ag253
+ag249
+ag251
+ag249
+ag249
+ag253
+ag249
+ag252
+ag250
+ag253
+ag249
+ag254
+asS'types'
+p301
+(lp302
+VEnchantment
+p303
+aVCreature - Shapeshifter
+p304
+aVCreature - Elf Druid
+p305
+aVCreature - Wurm
+p306
+aVCreature - Ferret
+p307
+aVInstant
+p308
+aVSorcery - Arcane
+p309
+aVArtifact
+p310
+aVCreature - Leviathan
+p311
+aVCreature - Wurm
+p312
+aVSorcery
+p313
+aVCreature - Elf Rogue Ally
+p314
+aVEnchantment
+p315
+aVSorcery
+p316
+aVSorcery
+p317
+aVEnchantment
+p318
+aVEnchantment - Aura
+p319
+aVLegendary Creature - Human Spellshaper
+p320
+aVCreature - Leech
+p321
+aVCreature - Elf Druid
+p322
+aVLegendary Creature - Human Warrior
+p323
+aVCreature - Elf Druid
+p324
+aVArtifact
+p325
+aVSorcery
+p326
+aVCreature - Merfolk
+p327
+aVInstant
+p328
+aVCreature - Elf Warrior
+p329
+aVLegendary Creature - Human Wizard
+p330
+aVArtifact
+p331
+aVCreature - Wurm
+p332
+aVSorcery
+p333
+aVInstant
+p334
+aVCreature - Centaur Archer
+p335
+aVSorcery
+p336
+aVLegendary Creature - Human Wizard
+p337
+aVCreature - Ferret
+p338
+aVLegendary Creature - Human Rogue
+p339
+aVArtifact
+p340
+aVLegendary Creature - Human Spellshaper
+p341
+asS'numbers'
+p342
+(lp343
+V17
+p344
+aV42
+p345
+aV271
+p346
+aV168
+p347
+aV169
+p348
+aV183
+p349
+aV216
+p350
+aV257
+p351
+aV37
+p352
+aV303
+p353
+aV304
+p354
+aV166
+p355
+aV14
+p356
+aV192
+p357
+aV123
+p358
+aV23
+p359
+aV116
+p360
+aV115
+p361
+aV65
+p362
+aV190
+p363
+aV128
+p364
+aV89
+p365
+ag280
+aV100
+p366
+aV34
+p367
+aV9
+p368
+aV106
+p369
+aV84
+p370
+aV15
+p371
+aV106
+p372
+aV145
+p373
+aV69
+p374
+aV106
+p375
+aV28
+p376
+aV140
+p377
+aV38
+p378
+aV60
+p379
+aV117
+p380
+aV81
+p381
+as.

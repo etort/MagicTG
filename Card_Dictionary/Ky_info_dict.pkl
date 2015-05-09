@@ -1,0 +1,201 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVCommon
+p4
+aVRare
+p5
+aVRare
+p6
+aVUncommon
+p7
+aVUncommon
+p8
+aVRare
+p9
+aVUncommon
+p10
+asS'editns'
+p11
+(lp12
+VMercadian Masques
+p13
+aVMercadian Masques
+p14
+aVMercadian Masques
+p15
+aVMercadian Masques
+p16
+aVMercadian Masques
+p17
+aVMercadian Masques
+p18
+aVBetrayers of Kamigawa
+p19
+aVVisions
+p20
+asS'ids'
+p21
+(lp22
+V19604
+p23
+aV19606
+p24
+aV19756
+p25
+aV19759
+p26
+aV19841
+p27
+aV19846
+p28
+aV74552
+p29
+aV3668
+p30
+asS'texts'
+p31
+(lp32
+VAt the beginning of your upkeep, you may have Kyren Sniper deal 1 damage to target player.
+p33
+aV{X}{R}, {T}, Sacrifice Cinder Elemental: Cinder Elemental deals X damage to target creature or player.
+p34
+aV{1}, {T}: Put a charge counter on Kyren Toy.<br>{T}, Remove X charge counters from Kyren Toy: Add {X}{1} to your mana pool.
+p35
+aV{T}: Add {W} to your mana pool.<br><br>Sacrifice Tooth of Ramos: Add {W} to your mana pool.
+p36
+aVHaste<br>Whenever Lava Runner becomes the target of a spell or ability, that spell or ability's controller sacrifices a land.
+p37
+aVWhenever you cast a creature spell, Furious Assault deals 1 damage to target player.
+p38
+aVTarget player reveals his or her hand. You choose a Spirit or Arcane card from it. That player discards that card.
+p39
+aVIf damage would be dealt to Lichenthrope, put that many -1/-1 counters on it instead.<br>At the beginning of your upkeep, remove a -1/-1 counter from Lichenthrope.
+p40
+asS'costs'
+p41
+(lp42
+V{1}{R}
+p43
+aV{2}{R}
+p44
+aV{3}
+p45
+aV{3}
+p46
+aV{1}{R}
+p47
+aV{2}{R}{R}
+p48
+aV{4}{B}{B}
+p49
+aV{3}{G}
+p50
+asS'names'
+p51
+(lp52
+VKyren Glider
+p53
+aVKyren Sniper
+p54
+aVKyren Archive
+p55
+aVKyren Toy
+p56
+aVKyren Legate
+p57
+aVKyren Negotiations
+p58
+aVKyoki, Sanity's Eclipse
+p59
+aVKyscu Drake
+p60
+asS'toughs'
+p61
+(lp62
+V1
+p63
+ag63
+aS'N/A'
+p64
+ag64
+aV3
+p65
+ag64
+aV4
+p66
+aV2
+p67
+asS'artists'
+p68
+(lp69
+VDaren Bader
+p70
+aVCarl Critchlow
+p71
+aVRoger Raupp
+p72
+aVArnie Swekel
+p73
+aVDave Dorman
+p74
+aVScott Hampton
+p75
+aVPaolo Parente
+p76
+aVG. Darrow & I. Rabarot
+p77
+asS'powers'
+p78
+(lp79
+g63
+ag63
+ag64
+ag64
+ag65
+ag64
+aV6
+p80
+ag63
+asS'types'
+p81
+(lp82
+VCreature - Goblin
+p83
+aVCreature - Goblin
+p84
+aVArtifact
+p85
+aVArtifact
+p86
+aVCreature - Goblin
+p87
+aVEnchantment
+p88
+aVLegendary Creature - Demon Spirit
+p89
+aVCreature - Drake
+p90
+asS'numbers'
+p91
+(lp92
+V196
+p93
+aV199
+p94
+aV302
+p95
+aV303
+p96
+aV197
+p97
+aV198
+p98
+aV72
+p99
+aV56
+p100
+as.

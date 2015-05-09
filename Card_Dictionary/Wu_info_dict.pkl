@@ -1,0 +1,455 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVMythic Rare
+p4
+aVUncommon
+p5
+aVUncommon
+p6
+aVCommon
+p7
+aVCommon
+p8
+aVCommon
+p9
+aVRare
+p10
+aVUncommon
+p11
+aVRare
+p12
+aVCommon
+p13
+aVUncommon
+p14
+aVUncommon
+p15
+aVUncommon
+p16
+aVUncommon
+p17
+aVUncommon
+p18
+aVCommon
+p19
+aVCommon
+p20
+aVCommon
+p21
+aVCommon
+p22
+aVCommon
+p23
+asS'editns'
+p24
+(lp25
+VMagic 2012
+p26
+aVScars of Mirrodin
+p27
+aVMagic 2010
+p28
+aVTenth Edition
+p29
+aVMasters Edition III
+p30
+aVMasters Edition III
+p31
+aVMasters Edition III
+p32
+aVGuildpact
+p33
+aVNinth Edition
+p34
+aVTime Spiral
+p35
+aVMirrodin
+p36
+aVDarksteel
+p37
+aVMagic 2011
+p38
+aVPortal Three Kingdoms
+p39
+aVPortal Three Kingdoms
+p40
+aVPortal Three Kingdoms
+p41
+aVPortal Three Kingdoms
+p42
+aVPortal Three Kingdoms
+p43
+aVPortal Three Kingdoms
+p44
+aVPortal Three Kingdoms
+p45
+aVPortal Three Kingdoms
+p46
+asS'ids'
+p47
+(lp48
+V221524
+p49
+aV207875
+p50
+aV191248
+p51
+aV129809
+p52
+aV201308
+p53
+aV201254
+p54
+aV201262
+p55
+aV97230
+p56
+aV83470
+p57
+aV114917
+p58
+aV48599
+p59
+aV72684
+p60
+aV206330
+p61
+aV10485
+p62
+aV10498
+p63
+aV10529
+p64
+aV10600
+p65
+aV10605
+p66
+aV10611
+p67
+aV10612
+p68
+aV10615
+p69
+asS'texts'
+p70
+(lp71
+VAs an additional cost to cast Fling, sacrifice a creature.<br>Fling deals damage equal to the sacrificed creature's power to target creature or player.
+p72
+aVR
+p73
+ag73
+aVHurricane deals X damage to each creature with flying and each player.
+p74
+aS''
+p75
+ag75
+ag75
+aVDefender <i>(This creature can't attack.)</i><br>Whenever Souls of the Faultless is dealt combat damage, you gain that much life and attacking player loses that much life.
+p76
+ag75
+aVBuyback {2}{G} <i>(You may pay an additional {2}{G} as you cast this spell. If you do, put this card into your hand as it resolves.)</i><br>Put an X/X green Wurm creature token onto the battlefield.
+p77
+aVWhen Wurmskin Forger enters the battlefield, distribute three +1/+1 counters among one, two, or three target creatures.
+p78
+aVWhenever a player casts a green spell, you may gain 1 life.
+p79
+aVW
+p80
+aVWu Admiral gets +1/+1 as long as an opponent controls an Island.
+p81
+aVHorsemanship <i>(This creature can't be blocked except by creatures with horsemanship.)</i><br>Liu Bei, Lord of Shu gets +2/+2 as long as you control a permanent named Guan Yu, Sainted Warrior or a permanent named Zhang Fei, Fierce Warrior.
+p82
+aVSacrifice Fire Bowman: Fire Bowman deals 1 damage to target creature or player. Activate this ability only during your turn, before attackers are declared.
+p83
+aVHorsemanship <i>(This creature can't be blocked except by creatures with horsemanship.)</i>
+p84
+aVWhen Shu Grain Caravan enters the battlefield, you gain 2 life.
+p85
+aVTap one or two target creatures without horsemanship.
+p86
+aVPut target creature on top of its owner's library.
+p87
+aVDestroy target creature with horsemanship.
+p88
+asS'costs'
+p89
+(lp90
+V{1}{R}
+p91
+aV{1}{W}
+p92
+aV{B}
+p93
+aV{2}
+p94
+aV{3}{U}
+p95
+aV{2}{U}
+p96
+aV{2}{U}
+p97
+aV{4}{G}{G}
+p98
+aV{2}
+p99
+aV{X}{G}
+p100
+aV{5}{G}{G}
+p101
+aV{2}
+p102
+aV{2}{U}{U}
+p103
+aV{4}{U}
+p104
+aV{2}{U}
+p105
+aV{1}{U}
+p106
+aV{1}{U}
+p107
+aV{2}{U}
+p108
+aV{3}{U}
+p109
+aV{1}{U}
+p110
+aV{1}{U}
+p111
+asS'names'
+p112
+(lp113
+VWurm's Tooth
+p114
+aVWurmcoil Engine
+p115
+aVWurm's Tooth
+p116
+aVWurm's Tooth
+p117
+aVWu Elite Cavalry
+p118
+aVWu Longbowman
+p119
+aVWu Warship
+p120
+aVWurmweaver Coil
+p121
+aVWurm's Tooth
+p122
+aVWurmcalling
+p123
+aVWurmskin Forger
+p124
+aVWurm's Tooth
+p125
+aVWurm's Tooth
+p126
+aVWu Admiral
+p127
+aVWu Longbowman
+p128
+aVWu Spy
+p129
+aVWu Infantry
+p130
+aVWu Warship
+p131
+aVWu Elite Cavalry
+p132
+aVWu Scout
+p133
+aVWu Light Cavalry
+p134
+asS'toughs'
+p135
+(lp136
+S'N/A'
+p137
+ag137
+ag137
+ag137
+aV4
+p138
+aV3
+p139
+aV1
+p140
+ag137
+ag137
+ag137
+ag138
+ag137
+ag137
+ag139
+ag140
+ag140
+ag140
+ag139
+ag139
+ag140
+aV2
+p141
+asS'artists'
+p142
+(lp143
+g75
+aVRaymond Swanland
+p144
+aVAlan Pollack
+p145
+aVAlan Pollack
+p146
+aVXu Tan
+p147
+aVJiang Zhuqing
+p148
+aVJunko Taguchi
+p149
+aVMitch Cotie
+p150
+aVAlan Pollack
+p151
+aVJeff Easley
+p152
+aVJustin Sweet
+p153
+aVAlan Pollack
+p154
+aVAlan Pollack
+p155
+aVZhang Jiazhen
+p156
+aVXu Tan
+p157
+aVZhao Tan
+p158
+aVXu Xiaoming
+p159
+aVJiang Zhuqing
+p160
+aVLi Wang
+p161
+aVJiaming
+p162
+aVHuang Qishi
+p163
+asS'powers'
+p164
+(lp165
+g137
+ag137
+ag137
+ag137
+ag138
+ag141
+ag140
+ag137
+ag137
+ag137
+ag139
+ag137
+ag137
+ag139
+ag140
+ag140
+ag141
+ag139
+ag141
+ag140
+ag140
+asS'types'
+p166
+(lp167
+VArtifact
+p168
+aVArtifact Creature - Wurm
+p169
+aVArtifact
+p170
+aVArtifact
+p171
+aVCreature - Human Soldier
+p172
+aVCreature - Human Soldier Archer
+p173
+aVCreature - Human Soldier
+p174
+aVEnchantment - Aura
+p175
+aVArtifact
+p176
+aVSorcery
+p177
+aVCreature - Elf Warrior
+p178
+aVArtifact
+p179
+aVArtifact
+p180
+aVCreature - Human Soldier
+p181
+aVCreature - Human Soldier Archer
+p182
+aVCreature - Human Soldier Rogue
+p183
+aVCreature - Human Soldier
+p184
+aVCreature - Human Soldier
+p185
+aVCreature - Human Soldier
+p186
+aVCreature - Human Soldier Scout
+p187
+aVCreature - Human Soldier
+p188
+asS'numbers'
+p189
+(lp190
+V223
+p191
+aV223
+p192
+aV222
+p193
+aV346
+p194
+aV54
+p195
+aV55
+p196
+aV56
+p197
+aV99
+p198
+aV316
+p199
+aV234
+p200
+aV140
+p201
+aV162
+p202
+aV222
+p203
+aV57
+p204
+aV61
+p205
+aV63
+p206
+aV59
+p207
+aV64
+p208
+aV58
+p209
+aV62
+p210
+aV60
+p211
+as.

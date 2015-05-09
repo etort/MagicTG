@@ -1,0 +1,1412 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVCommon
+p4
+aVCommon
+p5
+aVRare
+p6
+aVCommon
+p7
+aVRare
+p8
+aVCommon
+p9
+aVRare
+p10
+aVCommon
+p11
+aVUncommon
+p12
+aVCommon
+p13
+aVRare
+p14
+aVCommon
+p15
+aVCommon
+p16
+aVMythic Rare
+p17
+aVUncommon
+p18
+aVUncommon
+p19
+aVCommon
+p20
+aVRare
+p21
+aVRare
+p22
+aVRare
+p23
+aVCommon
+p24
+aVCommon
+p25
+aVMythic Rare
+p26
+aVCommon
+p27
+aVCommon
+p28
+aVRare
+p29
+aVCommon
+p30
+aVRare
+p31
+aVCommon
+p32
+aVUncommon
+p33
+aVRare
+p34
+aVRare
+p35
+aVRare
+p36
+aVUncommon
+p37
+aVRare
+p38
+aVCommon
+p39
+aVRare
+p40
+aVUncommon
+p41
+aVUncommon
+p42
+aVRare
+p43
+aVCommon
+p44
+aVCommon
+p45
+aVUncommon
+p46
+aVCommon
+p47
+aVCommon
+p48
+aVRare
+p49
+aVCommon
+p50
+aVCommon
+p51
+aVMythic Rare
+p52
+aVCommon
+p53
+aVRare
+p54
+aVRare
+p55
+aVCommon
+p56
+aVUncommon
+p57
+aVSpecial
+p58
+aVSpecial
+p59
+aVCommon
+p60
+aVUncommon
+p61
+aVUncommon
+p62
+aVCommon
+p63
+aVCommon
+p64
+aVCommon
+p65
+aVRare
+p66
+aVCommon
+p67
+aVCommon
+p68
+aVCommon
+p69
+aVCommon
+p70
+aVUncommon
+p71
+asS'editns'
+p72
+(lp73
+VMagic: The Gathering-Commander
+p74
+aVMagic: The Gathering-Commander
+p75
+aVSaviors of Kamigawa
+p76
+aVMorningtide
+p77
+aVMorningtide
+p78
+aVMorningtide
+p79
+aVMagic 2013
+p80
+aVMagic 2013
+p81
+aVFourth Edition
+p82
+aVPlanar Chaos
+p83
+aVDuel Decks: Knights vs. Dragons
+p84
+aVMagic 2014 Core Set
+p85
+aVTempest
+p86
+aVMercadian Masques
+p87
+aVVintage Masters
+p88
+aVModern Masters
+p89
+aVModern Masters
+p90
+aVThe Dark
+p91
+aVMasters Edition II
+p92
+aVMasters Edition II
+p93
+aVEventide
+p94
+aVPlanechase 2012 Edition
+p95
+aVPlanechase 2012 Edition
+p96
+aVFrom the Vault: Realms
+p97
+aVUrza's Destiny
+p98
+aVRavnica: City of Guilds
+p99
+aVCommander 2013 Edition
+p100
+aVOdyssey
+p101
+aVOdyssey
+p102
+aVGatecrash
+p103
+aVGatecrash
+p104
+aVIce Age
+p105
+aVIce Age
+p106
+aVTorment
+p107
+aVZendikar
+p108
+aVProphecy
+p109
+aVUrza's Legacy
+p110
+aVUrza's Legacy
+p111
+aVUrza's Legacy
+p112
+aVDarksteel
+p113
+aVRise of the Eldrazi
+p114
+aVShadowmoor
+p115
+aVShadowmoor
+p116
+aVShadowmoor
+p117
+aVNew Phyrexia
+p118
+aVStarter 1999
+p119
+aVFuture Sight
+p120
+aVPortal Second Age
+p121
+aVPlanechase
+p122
+aVMagic: The Gathering\u2014Conspiracy
+p123
+aVMagic: The Gathering\u2014Conspiracy
+p124
+aVEighth Edition
+p125
+aVNemesis
+p126
+aVFifth Edition
+p127
+aVKhans of Tarkir
+p128
+aVVanguard
+p129
+aVVanguard
+p130
+aVInnistrad
+p131
+aVInnistrad
+p132
+aVVisions
+p133
+aVDragon's Maze
+p134
+aVDragon's Maze
+p135
+aVStronghold
+p136
+aVDissension
+p137
+aVLorwyn
+p138
+aVLorwyn
+p139
+aVPremium Deck Series: Slivers
+p140
+aVPortal
+p141
+aVPlaneshift
+p142
+asS'ids'
+p143
+(lp144
+V247302
+p145
+aV247410
+p146
+aV87330
+p147
+aV152724
+p148
+aV152876
+p149
+aV153467
+p150
+aV259677
+p151
+aV265134
+p152
+aV2115
+p153
+aV122478
+p154
+aV243470
+p155
+aV370733
+p156
+aV4772
+p157
+aV20410
+p158
+aV383024
+p159
+aV370535
+p160
+aV370518
+p161
+aV1738
+p162
+aV184727
+p163
+aV184755
+p164
+aV152091
+p165
+aV226520
+p166
+aV271222
+p167
+aV287334
+p168
+aV15228
+p169
+aV88955
+p170
+aV376420
+p171
+aV29788
+p172
+aV31740
+p173
+aV366430
+p174
+aV366327
+p175
+aV2521
+p176
+aV2640
+p177
+aV35194
+p178
+aV195634
+p179
+aV24675
+p180
+aV12427
+p181
+aV12440
+p182
+aV12490
+p183
+aV39377
+p184
+aV198167
+p185
+aV141992
+p186
+aV146062
+p187
+aV153298
+p188
+aV233070
+p189
+aV20375
+p190
+aV130614
+p191
+aV6551
+p192
+aV198074
+p193
+aV382314
+p194
+aV382315
+p195
+aV45335
+p196
+aV21329
+p197
+aV3863
+p198
+aV386613
+p199
+aV12146
+p200
+aV191137
+p201
+aV237012
+p202
+aV230616
+p203
+aV3739
+p204
+aV369007
+p205
+aV368988
+p206
+aV5194
+p207
+aV107553
+p208
+aV139742
+p209
+aV145811
+p210
+aV207911
+p211
+aV4231
+p212
+aV22298
+p213
+asS'texts'
+p214
+(lp215
+VFlying<br>When Mulldrifter enters the battlefield, draw two cards.<br>Evoke {2}{U} <i>(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</i>
+p216
+aVReveal the top three cards of your library. An opponent chooses one of them. Put that card into your graveyard and the rest into your hand.
+p217
+aVReveal the top three cards of your library. An opponent chooses one of them. Put that card into your graveyard and the rest into your hand.
+p218
+aV{T}: Add {1} to your mana pool.<br>{1}: Mutavault becomes a 2/2 creature with all creature types until end of turn. It's still a land.
+p219
+aVKinship- At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Mudbutton Clanger, you may reveal it. If you do, Mudbutton Clanger gets +1/+1 until end of turn.
+p220
+aVPut a 2/5 green Treefolk Shaman creature token onto the battlefield.<br>Whenever a Forest enters the battlefield under your control, you may return Reach of Branches from your graveyard to your hand.
+p221
+aVDestroy target creature an opponent controls. Each other creature that player controls gets -2/-0 until end of turn.
+p222
+aVWhen Ravenous Rats enters the battlefield, target opponent discards a card.
+p223
+aVEnchant land<br>As Phantasmal Terrain enters the battlefield, choose a basic land type.<br>Enchanted land is the chosen type.
+p224
+aVFlash <i>(You may cast this spell any time you could cast an instant.)</i><br>When Muck Drubb enters the battlefield, change the target of target spell that targets only a single creature to Muck Drubb.<br>Madness {2}{B} <i>(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)</i>
+p225
+aVWhen Mudbutton Torchrunner dies, it deals 3 damage to target creature or player.
+p226
+aVFlying<br>{1}{B}: Nightwing Shade gets +1/+1 until end of turn.
+p227
+aV{G}, {T}: Nurturing Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {G} to end this effect.<br>{G}: Regenerate enchanted creature.
+p228
+aVReturn target artifact, enchantment, or land to its owner's hand.
+p229
+aVSearch your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+p230
+aVFlying<br>When Mulldrifter enters the battlefield, draw two cards.<br>Evoke {2}{U} <i>(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</i>
+p231
+aVWhen Murderous Redcap enters the battlefield, it deals damage equal to its power to target creature or player.<br>Persist <i>(When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)</i>
+p232
+aV{B}{B}{B}, {T}: Target opponent reveals his or her hand and discards a creature card at random. Activate this ability only during your turn.
+p233
+aVFirst strike, protection from red
+p234
+aV{G}{W}, Discard a card: Put a +1/+1 counter on target creature or that creature gains banding, first strike, or trample. <i>(This effect lasts indefinitely. Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
+p235
+aVOther green creatures you control get +1/+1.<br>Other blue creatures you control get +1/+1.<br>Untap all green and/or blue creatures you control during each other player's untap step.
+p236
+aVWhen you encounter Mutual Epiphany, each player draws four cards. <i>(Then planeswalk away from this phenomenon.)</i>
+p237
+aVDevour 2 <i>(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.)</i><br>At the beginning of your upkeep, put a 1/1 green Saproling creature token onto the battlefield for each +1/+1 counter on Mycoloth.
+p238
+aV<i>({T}: Add {G} to your mana pool.)</i><br>As Murmuring Bosk enters the battlefield, you may reveal a Treefolk card from your hand. If you don't, Murmuring Bosk enters the battlefield tapped.<br>{T}: Add {W} or {B} to your mana pool. Murmuring Bosk deals 1 damage to you.
+p239
+aVDestroy all enchantments. You gain 2 life for each enchantment destroyed this way.
+p240
+aVReach <i>(This creature can block creatures with flying.)</i>
+p241
+aVOther green creatures you control get +1/+1.<br>Other blue creatures you control get +1/+1.<br>Untap all green and/or blue creatures you control during each other player's untap step.
+p242
+aVDiscard any number of cards. Search your library for that many basic land cards, reveal those cards, and put them into your hand. Then shuffle your library.
+p243
+aVRegenerate target creature.<br>Draw a card.
+p244
+aVEnchant creature you control<br>When enchanted creature dies, put X 1/1 white Soldier creature tokens onto the battlefield, where X is its power.
+p245
+aVCounter target spell. Put an X/X green Ooze creature token onto the battlefield, where X is that spell's converted mana cost.
+p246
+aVCumulative upkeep {1} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>{T}: Put a music counter on target creature. If it doesn't have "At the beginning of your upkeep, destroy this creature unless you pay {1} for each music counter on it," it gains that ability.
+p247
+aV{T}: Orcish Cannoneers deals 2 damage to target creature or player and 3 damage to you.
+p248
+aVAll creatures get -1/-1 until end of turn for each Swamp you control.
+p249
+aVReturn target permanent you control to its owner's hand. You gain 4 life.
+p250
+aVYou can't untap more than one land during your untap step.
+p251
+aVEcho {G}{G} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i><br>When Multani's Acolyte enters the battlefield, draw a card.
+p252
+aVShroud <i>(This permanent can't be the target of spells or abilities.)</i><br>Multani, Maro-Sorcerer's power and toughness are each equal to the total number of cards in all players' hands.
+p253
+aVWhenever a spell you've cast is countered, draw a card.
+p254
+aVDestroy target nonblack creature. It can't be regenerated. You gain control of all Equipment that was attached to it. <i>(This effect lasts indefinitely.)</i>
+p255
+aVAt the beginning of your upkeep, if you have exactly 1 life, you win the game.
+p256
+aVMudbrawler Raiders can't be blocked by blue creatures.
+p257
+aVJaws of Stone deals X damage divided as you choose among any number of target creatures and/or players, where X is the number of Mountains you control as you cast Jaws of Stone.
+p258
+aVWhenever you cast a black spell, Emberstrike Duo gets +1/+1 until end of turn.<br>Whenever you cast a red spell, Emberstrike Duo gains first strike until end of turn.
+p259
+aVWhen Mycosynth Wellspring enters the battlefield or is put into a graveyard from the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+p260
+aVCreatures you control get +2/+2 until end of turn.
+p261
+aVReach <i>(This creature can block creatures with flying.)</i><br>Deathtouch <i>(Any amount of damage this deals to a creature is enough to destroy it.)</i>
+p262
+aVSwampwalk
+p263
+aVWhenever a nontoken creature enters the battlefield, its controller may search his or her library for a basic land card, put it onto the battlefield tapped, then shuffle his or her library.<br>Whenever you roll , target land becomes a 4/4 creature that's still a land.
+p264
+aVHidden agenda <i>(Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)</i><br>Each creature you control with the chosen name enters the battlefield with an additional +1/+1 counter on it.
+p265
+aVDestroy target artifact or enchantment. Its controller gains 4 life.
+p266
+aV{R}: Ridgeline Rager gets +1/+0 until end of turn.
+p267
+aV{B}{B}, Pay half your life, rounded up: Destroy target nonblack creature. It can't be regenerated.
+p268
+aVWhenever Murk Dwellers attacks and isn't blocked, it gets +2/+0 until end of combat.
+p269
+aVMystic Monastery enters the battlefield tapped.<br>{T}: Add {U}, {R}, or {W} to your mana pool.
+p270
+aVCreatures you control get +X/+0, where X is the number of cards in your hand.
+p271
+aVWhenever a creature enters the battlefield under your control with a counter on it, you may have it deal damage equal to its power to target creature or player.
+p272
+aVDestroy target artifact or enchantment.
+p273
+aV{T}: Add {1} to your mana pool.<br>{1}{U}{B}, {T}: Target player puts the top three cards of his or her library into his or her graveyard.
+p274
+aVWhenever Pygmy Hippo attacks and isn't blocked, you may have defending player activate a mana ability of each land he or she controls and empty his or her mana pool. If you do, Pygmy Hippo assigns no combat damage this turn and at the beginning of your postcombat main phase, you add {X} to your mana pool, where X is the amount of mana emptied from defending player's mana pool this way.
+p275
+aVDefender<br>Whenever you cast an instant or sorcery spell, Nivix Cyclops gets +3/+0 until end of turn and can attack this turn as though it didn't have defender.
+p276
+aVFlash<br>If an opponent would draw a card except the first one he or she draws in each of his or her draw steps, instead that player skips that draw and you draw a card.
+p277
+aVReveal the top four cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard.
+p278
+aV{3}, {T}: Target player exiles a card from his or her hand. Activate this ability only any time you could cast a sorcery.<br>{1}: Choose a card exiled with Muse Vessel. You may play that card this turn.
+p279
+aVWhen Mudbutton Torchrunner dies, it deals 3 damage to target creature or player.
+p280
+aVFlying<br>When Mulldrifter enters the battlefield, draw two cards.<br>Evoke {2}{U} <i>(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</i>
+p281
+aVAll Slivers have "{3}, Sacrifice this permanent: Destroy target permanent."
+p282
+aVWhenever Seasoned Marshal attacks, you may tap target creature.
+p283
+aVEnchant creature<br>Enchanted creature has "{T}: Add one mana of any color to your mana pool."
+p284
+asS'costs'
+p285
+(lp286
+V{W}
+p287
+aV{4}{U}
+p288
+aV{2}{U}
+p289
+aS'0'
+p290
+aV{R}
+p291
+ag290
+aV{2}{B}{B}
+p292
+aV{3}{B}
+p293
+aV{3}{B}
+p294
+aV{3}{B}{B}
+p295
+aV{2}{R}
+p296
+ag290
+aV{1}{G}
+p297
+aV{1}{W}
+p298
+aV{0}
+p299
+aV{4}{U}
+p300
+aV{2}{B/R}{B/R}
+p301
+aV{3}{B}
+p302
+aV{2}{R}
+p303
+aV{2}{U}
+p304
+aV{2}{G/U}{G/U}{G/U}
+p305
+ag290
+aV{2}{R}
+p306
+ag290
+aV{3}{G}
+p307
+aV{U}{U}
+p308
+aV{2}{G/U}{G/U}{G/U}
+p309
+aV{1}{G}
+p310
+aV{2}{R}
+p311
+aV{5}{R}{R}
+p312
+aV{1}{U}{B}
+p313
+aV{2}{U}
+p314
+aV{2}{R}
+p315
+aV{2}{B}{B}
+p316
+aV{2}{R}
+p317
+aV{2}{G}{G}
+p318
+aV{G}{G}
+p319
+aV{4}{G}{G}
+p320
+aV{G}
+p321
+aV{5}{B}
+p322
+aV{B}
+p323
+aV{2}{R/G}{R/G}
+p324
+aV{1}{R}
+p325
+aV{2}{B/R}{B/R}
+p326
+aV{3}{B}
+p327
+aV{B}
+p328
+aV{3}{G}
+p329
+aV{B}
+p330
+ag290
+aV{1}{W}{B}
+p331
+ag290
+aV{B}{B}{B}
+p332
+aV{B}{B}{B}
+p333
+aV{3}{B}
+p334
+aV{4}{B}
+p335
+ag290
+ag290
+aV{1}{G}
+p336
+aV{3}{B}{B}
+p337
+aV{1}{U}{B}
+p338
+aV{1}{U}
+p339
+aV{G}
+p340
+aV{1}{G}
+p341
+aV{4}
+p342
+aV{2}{R}
+p343
+aV{3}{U}
+p344
+aV{1}{G}
+p345
+aV{B}
+p346
+aV{G}
+p347
+asS'names'
+p348
+(lp349
+VMulldrifter
+p350
+aVMurmurs from Beyond
+p351
+aVMurmurs from Beyond
+p352
+aVMutavault
+p353
+aVMudbutton Clanger
+p354
+aVMurmuring Bosk
+p355
+aVMurder
+p356
+aVMutilate
+p357
+aVMurk Dwellers
+p358
+aVMuck Drubb
+p359
+aVMudbutton Torchrunner
+p360
+aVMutavault
+p361
+aVMuscle Sliver
+p362
+aVMuzzle
+p363
+aVMuzzio, Visionary Architect
+p364
+aVMulldrifter
+p365
+aVMurderous Redcap
+p366
+aVMurk Dwellers
+p367
+aVMudslide
+p368
+aVMusician
+p369
+aVMurkfiend Liege
+p370
+aVMutual Epiphany
+p371
+aVMudbutton Torchrunner
+p372
+aVMurmuring Bosk
+p373
+aVMultani's Decree
+p374
+aVMuddle the Mixture
+p375
+aVMurkfiend Liege
+p376
+aVMuscle Burst
+p377
+aVMudhole
+p378
+aVMugging
+p379
+aVMurder Investigation
+p380
+aVMusician
+p381
+aVMudslide
+p382
+aVMutilate
+p383
+aVMurasa Pyromancer
+p384
+aVMungha Wurm
+p385
+aVMultani's Acolyte
+p386
+aVMultani, Maro-Sorcerer
+p387
+aVMultani's Presence
+p388
+aVMurderous Spoils
+p389
+aVMul Daya Channelers
+p390
+aVMudbrawler Raiders
+p391
+aVMudbrawler Cohort
+p392
+aVMurderous Redcap
+p393
+aVMutagenic Growth
+p394
+aVMuck Rats
+p395
+aVMuraganda Petroglyphs
+p396
+aVMuck Rats
+p397
+aVMurasa
+p398
+aVMuzzio, Visionary Architect
+p399
+aVMuzzio's Preparations
+p400
+aVMurderous Betrayal
+p401
+aVMurderous Betrayal
+p402
+aVMurk Dwellers
+p403
+aVMurderous Cut
+p404
+aVMultani
+p405
+aVMurderous Redcap Avatar
+p406
+aVMulch
+p407
+aVMurder of Crows
+p408
+aVMundungu
+p409
+aVMurmuring Phantasm
+p410
+aVMutant's Prey
+p411
+aVMulch
+p412
+aVMuse Vessel
+p413
+aVMudbutton Torchrunner
+p414
+aVMulldrifter
+p415
+aVMuscle Sliver
+p416
+aVMuck Rats
+p417
+aVMultani's Harmony
+p418
+asS'toughs'
+p419
+(lp420
+V2
+p421
+aS'N/A'
+p422
+ag422
+ag422
+aV1
+p423
+ag422
+ag422
+ag422
+aV3
+p424
+ag424
+aV5
+p425
+ag422
+ag421
+ag422
+ag421
+aV4
+p426
+ag423
+ag421
+ag422
+ag421
+ag426
+ag422
+ag425
+ag422
+ag422
+ag422
+ag426
+ag422
+ag422
+ag422
+ag422
+ag421
+ag422
+ag422
+ag424
+ag425
+ag423
+aV*
+p427
+ag422
+ag422
+ag426
+ag424
+ag426
+ag421
+ag422
+ag423
+ag422
+ag423
+ag422
+ag423
+ag422
+ag422
+ag422
+ag423
+ag422
+ag422
+ag422
+ag422
+aV13
+p428
+ag421
+ag425
+ag422
+ag422
+ag422
+ag423
+ag423
+ag421
+ag423
+ag422
+asS'artists'
+p429
+(lp430
+VEric Fortune
+p431
+aVParente
+p432
+aVPaolo Parente
+p433
+aVFred Fields
+p434
+aVLarry MacDougall
+p435
+aVJohn Avon
+p436
+aVAllen Williams
+p437
+aVTyler Jacobson
+p438
+aVDrew Tucker
+p439
+aVJim Nelson
+p440
+aVSteve Ellis
+p441
+aVFred Fields
+p442
+aVRichard Kane Ferguson
+p443
+aVMatt Cavotta
+p444
+aVVolkan Baga
+p445
+aS''
+p446
+ag446
+aVDrew Tucker
+p447
+aVBrian Snoddy
+p448
+aVDrew Tucker
+p449
+aVCarl Critchlow
+p450
+aVVéronique Meignaud
+p451
+ag446
+aVJohn Avon
+p452
+aVEric Peterson
+p453
+aVLuca Zontini
+p454
+aVCarl Critchlow
+p455
+aVGary Ruddell
+p456
+aVGary Ruddell
+p457
+aVGreg Staples
+p458
+aVIgor Kieryluk
+p459
+aVDrew Tucker
+p460
+aVBrian Snoddy
+p461
+aVEric Peterson
+p462
+aVKekai Kotaki
+p463
+aVGreg Staples
+p464
+aVEdward P. Beard, Jr.
+p465
+aVDaren Bader
+p466
+aVScott M. Fischer
+p467
+aVAdam Rex
+p468
+aVJason Chan
+p469
+aVRon Spencer
+p470
+aVLucio Parrillo
+p471
+aVDave Allsop
+p472
+ag446
+aVUna Fricker
+p473
+aVScott Altmann
+p474
+aVUna Fricker
+p475
+aVJung Park
+p476
+aVVolkan Baga
+p477
+aVKarl Kopinski
+p478
+aVRandy Gallegos
+p479
+aVRandy Gallegos
+p480
+aVDrew Tucker
+p481
+aVYohann Schepacz
+p482
+aVBrom
+p483
+aVUDON
+p484
+aVChristopher Moeller
+p485
+aVDrew Baker
+p486
+aVTerese Nielsen
+p487
+aVPeter Mohrbacher
+p488
+aVRyan Barger
+p489
+aVRebecca Guay
+p490
+aVChristopher Rush
+p491
+aVSteve Ellis
+p492
+aVEric Fortune
+p493
+aVRichard Kane Ferguson
+p494
+aVColin MacNeil
+p495
+aVDarrell Riche
+p496
+asS'powers'
+p497
+(lp498
+g421
+ag422
+ag422
+ag422
+ag423
+ag422
+ag422
+ag422
+ag421
+ag424
+ag425
+ag422
+ag424
+ag422
+ag426
+ag426
+ag424
+ag421
+ag422
+ag421
+ag426
+ag422
+aV7
+p499
+ag422
+ag422
+ag422
+aV0
+p500
+ag422
+ag422
+ag422
+ag422
+ag500
+ag422
+ag422
+ag500
+aV6
+p501
+ag421
+ag427
+ag422
+ag422
+ag423
+ag424
+ag423
+ag421
+ag422
+ag423
+ag422
+ag423
+ag422
+ag426
+ag422
+ag422
+ag422
+ag421
+ag422
+ag422
+ag422
+ag422
+ag423
+ag421
+ag500
+ag422
+ag422
+ag422
+ag423
+ag421
+ag421
+ag423
+ag422
+asS'types'
+p502
+(lp503
+VCreature - Elemental
+p504
+aVInstant - Arcane
+p505
+aVInstant - Arcane
+p506
+aVLand
+p507
+aVCreature - Goblin Warrior
+p508
+aVLand - Forest
+p509
+aVInstant
+p510
+aVSorcery
+p511
+aVCreature - Zombie
+p512
+aVCreature - Beast
+p513
+aVCreature - Goblin Warrior
+p514
+aVLand
+p515
+aVCreature - Sliver
+p516
+aVEnchantment - Aura
+p517
+aVLegendary Creature - Human Artificer
+p518
+aVCreature - Elemental
+p519
+aVCreature - Goblin Assassin
+p520
+aVCreature - Zombie
+p521
+aVEnchantment
+p522
+aVCreature - Human Wizard
+p523
+aVCreature - Horror
+p524
+aVPhenomenon
+p525
+aVCreature - Goblin Warrior
+p526
+aVLand - Forest
+p527
+aVSorcery
+p528
+aVInstant
+p529
+aVCreature - Horror
+p530
+aVInstant
+p531
+aVInstant
+p532
+aVSorcery
+p533
+aVEnchantment - Aura
+p534
+aVCreature - Human Wizard
+p535
+aVEnchantment
+p536
+aVSorcery
+p537
+aVCreature - Human Shaman Ally
+p538
+aVCreature - Wurm
+p539
+aVCreature - Elf
+p540
+aVLegendary Creature - Elemental
+p541
+aVEnchantment
+p542
+aVInstant
+p543
+aVCreature - Elf Druid Shaman
+p544
+aVCreature - Goblin Warrior
+p545
+aVCreature - Goblin Warrior
+p546
+aVCreature - Goblin Assassin
+p547
+aVInstant
+p548
+aVCreature - Rat
+p549
+aVEnchantment
+p550
+aVCreature - Rat
+p551
+aVPlane - Zendikar
+p552
+aVLegendary Creature - Human Artificer
+p553
+aVConspiracy
+p554
+aVEnchantment
+p555
+aVEnchantment
+p556
+aVCreature - Zombie
+p557
+aVInstant
+p558
+aVVanguard
+p559
+aVVanguard
+p560
+aVSorcery
+p561
+aVCreature - Bird
+p562
+aVCreature - Human Wizard
+p563
+aVCreature - Spirit
+p564
+aVInstant
+p565
+aVSorcery
+p566
+aVArtifact
+p567
+aVCreature - Goblin Warrior
+p568
+aVCreature - Elemental
+p569
+aVCreature - Sliver
+p570
+aVCreature - Rat
+p571
+aVEnchantment - Aura
+p572
+asS'numbers'
+p573
+(lp574
+V52
+p575
+aV53
+p576
+aV47
+p577
+aV148
+p578
+aV95
+p579
+aV147
+p580
+aV101
+p581
+aV102
+p582
+aV279
+p583
+aV76
+p584
+aV52
+p585
+aV228
+p586
+aV125
+p587
+aV30
+p588
+aV82
+p589
+ag446
+ag446
+aV107
+p590
+aV136
+p591
+aV56
+p592
+aV156
+p593
+aV21
+p594
+aV122
+p595
+aV11
+p596
+aV114
+p597
+aV60
+p598
+aV231
+p599
+aV252
+p600
+aV208
+p601
+aV102
+p602
+aV21
+p603
+aV89
+p604
+aV167
+p605
+aV73
+p606
+aV139
+p607
+aV119
+p608
+aV108
+p609
+aV107
+p610
+aV109
+p611
+aV48
+p612
+aV198
+p613
+aV213
+p614
+aV100
+p615
+aV192
+p616
+aV116
+p617
+aV84
+p618
+aV146
+p619
+aV38
+p620
+aV25
+p621
+aV23
+p622
+ag499
+aV147
+p623
+aV61
+p624
+aV44
+p625
+aV81
+p626
+aV65
+p627
+aV80
+p628
+aV196
+p629
+aV70
+p630
+aV102
+p631
+aV15
+p632
+aV45
+p633
+aV62
+p634
+aV163
+p635
+aV185
+p636
+aV76
+p637
+aV9
+p638
+aV166
+p639
+aV84
+p640
+as.

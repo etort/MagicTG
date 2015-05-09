@@ -1,0 +1,2313 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVRare
+p4
+aVUncommon
+p5
+aVCommon
+p6
+aVUncommon
+p7
+aVMythic Rare
+p8
+aVRare
+p9
+aVMythic Rare
+p10
+aVCommon
+p11
+aVRare
+p12
+aVRare
+p13
+aVCommon
+p14
+aVRare
+p15
+aVRare
+p16
+aVRare
+p17
+aVCommon
+p18
+aVRare
+p19
+aVCommon
+p20
+aVCommon
+p21
+aVRare
+p22
+aVCommon
+p23
+aVCommon
+p24
+aVCommon
+p25
+aVUncommon
+p26
+aVUncommon
+p27
+aVUncommon
+p28
+aVRare
+p29
+aVRare
+p30
+aVUncommon
+p31
+aVUncommon
+p32
+aVRare
+p33
+aVRare
+p34
+aVCommon
+p35
+aVCommon
+p36
+aVRare
+p37
+aVMythic Rare
+p38
+aVCommon
+p39
+aVCommon
+p40
+aVUncommon
+p41
+aVRare
+p42
+aVRare
+p43
+aVCommon
+p44
+aVUncommon
+p45
+aVCommon
+p46
+aVUncommon
+p47
+aVCommon
+p48
+aVCommon
+p49
+aVCommon
+p50
+aVUncommon
+p51
+aVUncommon
+p52
+aVUncommon
+p53
+aVUncommon
+p54
+aVRare
+p55
+aVMythic Rare
+p56
+aVRare
+p57
+aVUncommon
+p58
+aVRare
+p59
+aVCommon
+p60
+aVCommon
+p61
+aVMythic Rare
+p62
+aVCommon
+p63
+aVRare
+p64
+aVCommon
+p65
+aVCommon
+p66
+aVRare
+p67
+aVUncommon
+p68
+aVCommon
+p69
+aVRare
+p70
+aVRare
+p71
+aVUncommon
+p72
+aVRare
+p73
+aVCommon
+p74
+aVMythic Rare
+p75
+aVUncommon
+p76
+aVUncommon
+p77
+aVCommon
+p78
+aVUncommon
+p79
+aVMythic Rare
+p80
+aVCommon
+p81
+aVUncommon
+p82
+aVUncommon
+p83
+aVRare
+p84
+aVRare
+p85
+aVRare
+p86
+aVRare
+p87
+aVRare
+p88
+aVCommon
+p89
+aVRare
+p90
+aVRare
+p91
+aVCommon
+p92
+aVRare
+p93
+aVUncommon
+p94
+aVRare
+p95
+aVUncommon
+p96
+aVCommon
+p97
+aVCommon
+p98
+aVCommon
+p99
+aVRare
+p100
+aVRare
+p101
+aVCommon
+p102
+aVRare
+p103
+aVUncommon
+p104
+aVRare
+p105
+aVUncommon
+p106
+aVUncommon
+p107
+aVMythic Rare
+p108
+aVCommon
+p109
+aVCommon
+p110
+aVSpecial
+p111
+aVCommon
+p112
+aVUncommon
+p113
+aVUncommon
+p114
+aVCommon
+p115
+aVUncommon
+p116
+asS'editns'
+p117
+(lp118
+VMagic: The Gathering-Commander
+p119
+aVLimited Edition Beta
+p120
+aVSaviors of Kamigawa
+p121
+aVSaviors of Kamigawa
+p122
+aVMorningtide
+p123
+aVMagic 2013
+p124
+aVFourth Edition
+p125
+aVDuel Decks: Ajani vs. Nicol Bolas
+p126
+aVDuel Decks: Ajani vs. Nicol Bolas
+p127
+aVFrom the Vault: Dragons
+p128
+aVFrom the Vault: Dragons
+p129
+aVScars of Mirrodin
+p130
+aVScars of Mirrodin
+p131
+aVMagic 2010
+p132
+aVMagic 2014 Core Set
+p133
+aVMagic 2014 Core Set
+p134
+aVTenth Edition
+p135
+aVMercadian Masques
+p136
+aVVintage Masters
+p137
+aVThe Dark
+p138
+aVFallen Empires
+p139
+aVFallen Empires
+p140
+aVFallen Empires
+p141
+aVApocalypse
+p142
+aVApocalypse
+p143
+aVApocalypse
+p144
+aVMasters Edition III
+p145
+aVRevised Edition
+p146
+aVMasters Edition II
+p147
+aVGuildpact
+p148
+aVGuildpact
+p149
+aVNinth Edition
+p150
+aVEventide
+p151
+aVEventide
+p152
+aVEventide
+p153
+aVConflux
+p154
+aVAvacyn Restored
+p155
+aVPlanechase 2012 Edition
+p156
+aVChampions of Kamigawa
+p157
+aVChampions of Kamigawa
+p158
+aVChampions of Kamigawa
+p159
+aVBetrayers of Kamigawa
+p160
+aVUrza's Destiny
+p161
+aVRavnica: City of Guilds
+p162
+aVRavnica: City of Guilds
+p163
+aVCommander 2013 Edition
+p164
+aVCommander 2013 Edition
+p165
+aVCommander 2013 Edition
+p166
+aVCommander 2013 Edition
+p167
+aVOdyssey
+p168
+aVTime Spiral
+p169
+aVReturn to Ravnica
+p170
+aVReturn to Ravnica
+p171
+aVReturn to Ravnica
+p172
+aVGatecrash
+p173
+aVGatecrash
+p174
+aVUnlimited Edition
+p175
+aVZendikar
+p176
+aVZendikar
+p177
+aVZendikar
+p178
+aVZendikar
+p179
+aVClassic Sixth Edition
+p180
+aVMirrodin
+p181
+aVMirrodin
+p182
+aVMirrodin
+p183
+aVMirrodin
+p184
+aVMirrodin
+p185
+aVMirrodin
+p186
+aVSeventh Edition
+p187
+aVMagic 2015 Core Set
+p188
+aVMagic 2015 Core Set
+p189
+aVMagic 2015 Core Set
+p190
+aVMagic 2015 Core Set
+p191
+aVMagic 2015 Core Set
+p192
+aVDarksteel
+p193
+aVRise of the Eldrazi
+p194
+aVRise of the Eldrazi
+p195
+aVRise of the Eldrazi
+p196
+aVShadowmoor
+p197
+aVFifth Dawn
+p198
+aVFifth Dawn
+p199
+aVFuture Sight
+p200
+aVFuture Sight
+p201
+aVFuture Sight
+p202
+aVPortal Second Age
+p203
+aVTheros
+p204
+aVTheros
+p205
+aVEighth Edition
+p206
+aVChronicles
+p207
+aVInvasion
+p208
+aVInvasion
+p209
+aVJourney into Nyx
+p210
+aVFifth Edition
+p211
+aVDuel Decks: Jace vs. Vraska
+p212
+aVInnistrad
+p213
+aVInnistrad
+p214
+aVInnistrad
+p215
+aVInnistrad
+p216
+aVLimited Edition Alpha
+p217
+aVDragon's Maze
+p218
+aVLegends
+p219
+aVDissension
+p220
+aVDissension
+p221
+aVDuel Decks: Izzet vs. Golgari
+p222
+aVDuel Decks: Izzet vs. Golgari
+p223
+aVDuel Decks: Izzet vs. Golgari
+p224
+aVLorwyn
+p225
+aVMagic 2011
+p226
+aVTime Spiral "Timeshifted"
+p227
+aVPlaneshift
+p228
+aVPlaneshift
+p229
+aVDark Ascension
+p230
+aVDark Ascension
+p231
+aVDark Ascension
+p232
+asS'ids'
+p233
+(lp234
+V236471
+p235
+aV369
+p236
+aV84639
+p237
+aV88815
+p238
+aV153001
+p239
+aV260991
+p240
+aV2117
+p241
+aV266154
+p242
+aV259263
+p243
+aV178020
+p244
+aV178023
+p245
+aV210226
+p246
+aV209289
+p247
+aV191319
+p248
+aV370689
+p249
+aV370705
+p250
+aV129659
+p251
+aV19544
+p252
+aV383030
+p253
+aV1772
+p254
+aV1919
+p255
+aV1918
+p256
+aV1917
+p257
+aV26276
+p258
+aV26691
+p259
+aV-26691
+p260
+aV201213
+p261
+aV1170
+p262
+aV184700
+p263
+aV96937
+p264
+aV96952
+p265
+aV83186
+p266
+aV150986
+p267
+aV151099
+p268
+aV157414
+p269
+aV179441
+p270
+aV240045
+p271
+aV271184
+p272
+aV50413
+p273
+aV75334
+p274
+aV78991
+p275
+aV74587
+p276
+aV15173
+p277
+aV87975
+p278
+aV89062
+p279
+aV376429
+p280
+aV376430
+p281
+aV376431
+p282
+aV376432
+p283
+aV29784
+p284
+aV111079
+p285
+aV270366
+p286
+aV290526
+p287
+aV253626
+p288
+aV366242
+p289
+aV366275
+p290
+aV671
+p291
+aV197403
+p292
+aV180346
+p293
+aV190411
+p294
+aV185699
+p295
+aV15394
+p296
+aV12394
+p297
+aV46041
+p298
+aV46090
+p299
+aV48126
+p300
+aV48584
+p301
+aV49770
+p302
+aV15826
+p303
+aV383326
+p304
+aV383168
+p305
+aV383327
+p306
+aV383328
+p307
+aV383329
+p308
+aV43502
+p309
+aV193487
+p310
+aV194933
+p311
+aV193472
+p312
+aV158694
+p313
+aV51178
+p314
+aV73574
+p315
+aV130564
+p316
+aV136045
+p317
+aV136206
+p318
+aV6577
+p319
+aV373564
+p320
+aV373719
+p321
+aV45331
+p322
+aV2876
+p323
+aV23016
+p324
+aV23049
+p325
+aV380460
+p326
+aV3867
+p327
+aV380191
+p328
+aV226879
+p329
+aV246947
+p330
+aV220386
+p331
+aV222114
+p332
+aV74
+p333
+aV369093
+p334
+aV1672
+p335
+aV107415
+p336
+aV107517
+p337
+aV338410
+p338
+aV292737
+p339
+aV292738
+p340
+aV139456
+p341
+aV207103
+p342
+aV109754
+p343
+aV25693
+p344
+aV25914
+p345
+aV226724
+p346
+aV245292
+p347
+aV244744
+p348
+asS'texts'
+p349
+(lp350
+V{X}{U}{R}, {T}: Nin, the Pain Artist deals X damage to target creature. That creature's controller draws X cards.
+p351
+aVW
+p352
+aVWhen Nikko-Onna enters the battlefield, destroy target enchantment.<br>Whenever you cast a Spirit or Arcane spell, you may return Nikko-Onna to its owner's hand.
+p353
+aVSoulshift 5 <i>(When this creature dies, you may return target Spirit card with converted mana cost 5 or less from your graveyard to your hand.)</i>
+p354
+aVKinship- At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Pyroclast Consul, you may reveal it. If you do, Pyroclast Consul deals 2 damage to each creature.
+p355
+aVAs Primal Clay enters the battlefield, it becomes your choice of a 3/3 artifact creature, a 2/2 artifact creature with flying, or a 1/6 Wall artifact creature with defender in addition to its other types. <i>(A creature with defender can't attack.)</i>
+p356
+aVPirate Ship can't attack unless defending player controls an Island.<br>{T}: Pirate Ship deals 1 damage to target creature or player.<br>When you control no Islands, sacrifice Pirate Ship.
+p357
+aV+3: Destroy target noncreature permanent.<br>-2: Gain control of target creature.<br>-9: Nicol Bolas, Planeswalker deals 7 damage to target player. That player discards seven cards, then sacrifices seven permanents.
+p358
+aVBlue spells and red spells you cast cost {1} less to cast.<br>{1}{B}: Regenerate Nightscape Familiar.
+p359
+aVFlying<br>At the beginning of your upkeep, sacrifice Nicol Bolas unless you pay {U}{B}{R}.<br>Whenever Nicol Bolas deals damage to an opponent, that player discards his or her hand.
+p360
+aVFlying<br>Whenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to target creature or player.<br>{T}: Draw a card.
+p361
+aVSacrifice an artifact: Oxidda Daredevil gains haste until end of turn.
+p362
+aVWhen Oxidda Scrapmelter enters the battlefield, destroy target artifact.
+p363
+aVPhantom Warrior is unblockable.
+p364
+aVEnchant creature<br>Enchanted creature can't attack or block.
+p365
+aVAs long as your life total is greater than or equal to your starting life total, creatures you control get +1/+1.<br>Whenever one or more creatures you control attack, you gain life equal to the number of attacking creatures.
+p366
+aVDefender, flying
+p367
+aVWhenever Task Force becomes the target of a spell or ability, it gets +0/+3 until end of turn.
+p368
+aV{T}: You may put a green creature card from your hand onto the battlefield. Activate this ability only during your turn, before attackers are declared.
+p369
+aV{G}{G}{G}{G}, {T}: Regenerate target creature.
+p370
+aV{1}, Exile two creature cards from a single graveyard: Put a 1/1 green Saproling creature token onto the battlefield.
+p371
+aV{1}, Exile two creature cards from a single graveyard: Put a 1/1 green Saproling creature token onto the battlefield.
+p372
+aV{1}, Exile two creature cards from a single graveyard: Put a 1/1 green Saproling creature token onto the battlefield.
+p373
+aVCreatures target player controls get +1/+1 until end of turn.
+p374
+aVTarget creature gets -1/-1 until end of turn.<br>
+p375
+aVCreatures target player controls get +1/+1 until end of turn.
+p376
+ag352
+ag352
+aV{T}: Orcish Cannoneers deals 2 damage to target creature or player and 3 damage to you.
+p377
+aVDefender <i>(This creature can't attack.)</i><br>As Order of the Stars enters the battlefield, choose a color.<br>Order of the Stars has protection from the chosen color.
+p378
+aVHaunt <i>(When this creature dies, exile it haunting target creature.)</i><br>When Absolver Thrull enters the battlefield or the creature it haunts dies, destroy target enchantment.
+p379
+aVPyroclasm deals 2 damage to each creature.
+p380
+aVLifelink <i>(Damage dealt by this creature also causes you to gain that much life.)</i>
+p381
+aVWhenever you cast a spell that's both white and black, Nightsky Mimic becomes 4/4 and gains flying until end of turn.
+p382
+aVSearch target player's library for up to X cards, where X is the number of Swamps you control, and exile them. Then that player shuffles his or her library.
+p383
+aVAs Nyxathid enters the battlefield, choose an opponent.<br>Nyxathid gets -1/-1 for each card in the chosen player's hand.
+p384
+aVCounter target spell that targets a player.
+p385
+aVWhen Noggle Ransacker enters the battlefield, each player draws two cards, then discards a card at random.
+p386
+aVEnchant creature<br>Enchanted creature has vigilance. <i>(Attacking doesn't cause it to tap.)</i>
+p387
+aVEnchant creature<br>{1}, Tap an untapped creature you control: Untap enchanted creature.
+p388
+aV{T}: Add {1} to your mana pool.<br>{T}: Add {B} or {R} to your mana pool. Lantern-Lit Graveyard doesn't untap during your next untap step.
+p389
+aVIf you control a Swamp, destroy target nonblack creature.<br>Splice onto Arcane\u2014Exile four cards from your graveyard. <i>(As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)</i>
+p390
+aV{2}{B}, {T}: Reveal any number of black cards in your hand. Target creature gets -X/-X until end of turn, where X is the number of cards revealed this way.
+p391
+aVDraw a card for each Island you control.
+p392
+aVConvoke <i>(Each creature you tap while casting this spell reduces its cost by {1} or by one mana of that creature's color.)</i><br>Search your library for a creature card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library.
+p393
+aV{1}, Exile two creature cards from a single graveyard: Put a 1/1 green Saproling creature token onto the battlefield.
+p394
+aVBlue spells and red spells you cast cost {1} less to cast.<br>{1}{B}: Regenerate Nightscape Familiar.
+p395
+aV{T}, Sacrifice Nihil Spellbomb: Exile all cards from target player's graveyard.<br>When Nihil Spellbomb is put into a graveyard from the battlefield, you may pay {B}. If you do, draw a card.
+p396
+aV{1}{U}{R}: Draw a card, then discard a card.<br>{2}{U}{R}: Copy target instant or sorcery spell you control. You may choose new targets for the copy.
+p397
+aV{T}: Add {G} to your mana pool.<br>Threshold- Werebear gets +3/+3 as long as seven or more cards are in your graveyard.
+p398
+aVFirst strike<br>When Nightshade Assassin enters the battlefield, you may reveal X black cards in your hand. If you do, target creature gets -X/-X until end of turn.<br>Madness {1}{B} <i>(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)</i>
+p399
+aVDefender<br>Ogre Jailbreaker can attack as though it didn't have defender as long as you control a Gate.
+p400
+aV<i>({T}: Add {B} or {G} to your mana pool.)</i><br>As Overgrown Tomb enters the battlefield, you may pay 2 life. If you don't, Overgrown Tomb enters the battlefield tapped.
+p401
+aVPack Rat's power and toughness are each equal to the number of Rats you control.<br>{2}{B}, Discard a card: Put a token onto the battlefield that's a copy of Pack Rat.
+p402
+aVFlying<br>Nimbus Swimmer enters the battlefield with X +1/+1 counters on it.
+p403
+aVWhen Obzedat, Ghost Council enters the battlefield, target opponent loses 2 life and you gain 2 life.<br>At the beginning of your end step, you may exile Obzedat. If you do, return it to the battlefield under its owner's control at the beginning of your next upkeep. It gains haste.
+p404
+ag352
+aVEnchant creature<br>Enchanted creature gets +1/+2 and has flying.
+p405
+aV+1: Search your library for a card named Nissa's Chosen and put it onto the battlefield. Then shuffle your library.<br>+1: You gain 2 life for each Elf you control.<br>-7: Search your library for any number of Elf creature cards and put them onto the battlefield. Then shuffle your library.
+p406
+aVIf Nissa's Chosen would die, put it on the bottom of its owner's library instead.
+p407
+aVFlying<br>{T}: Prevent the next 1 damage that would be dealt to target player this turn.
+p408
+ag352
+aVNim Lasher gets +1/+0 for each artifact you control.
+p409
+aV{2}{B}, Sacrifice Nim Replica: Target creature gets -1/-1 until end of turn.
+p410
+aVNim Devourer gets +1/+0 for each artifact you control.<br>{B}{B}: Return Nim Devourer from your graveyard to the battlefield, then sacrifice a creature. Activate this ability only during your upkeep.
+p411
+aVNim Shambler gets +1/+0 for each artifact you control.<br>Sacrifice a creature: Regenerate Nim Shambler.
+p412
+aVFlying<br>Nim Shrieker gets +1/+0 for each artifact you control.
+p413
+aVAt the beginning of each player's upkeep, that player puts a flood counter on target non-Island land he or she controls of his or her choice. That land is an Island for as long as it has a flood counter on it.<br>At the beginning of each end step, if all lands on the battlefield are Islands, remove all flood counters from them.
+p414
+aVPyroclasm deals 2 damage to each creature.
+p415
+aVConvoke <i>(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)</i><br>Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+p416
+aVFlying, trample<br>Whenever an opponent searches his or her library, that player sacrifices a creature and loses 10 life.<br>Whenever another creature dies, put a +1/+1 counter on Ob Nixilis, Unshackled.
+p417
+aVConvoke <i>(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)</i><br>As Obelisk of Urd enters the battlefield, choose a creature type.<br>Creatures you control of the chosen type get +2/+2.
+p418
+aVEnchant creature<br>Enchanted creature can't attack or block unless its controller pays {3}.<br>Activated abilities of enchanted creature cost {3} more to activate.
+p419
+aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i>
+p420
+aVAt the beginning of your end step, if Nim Abomination is untapped, you lose 3 life.
+p421
+aVCounter target spell or ability that targets a permanent you control.<br>Not of This World costs {7} less to cast if it targets a spell or ability that targets a creature you control with power 7 or greater.
+p422
+aVLevel up {3} <i>({3}: Put a level counter on this. Level up only as a sorcery.)</i><br>LEVEL 1-3<br>4/2<br><br>LEVEL 4+<br>7/3<br>{B}: Regenerate Null Champion.
+p423
+aVDefender
+p424
+aV{W/U}, {Q}: Look at the top card of your library. You may exile that card. <i>({Q} is the untap symbol.)</i>
+p425
+aVYou draw two cards and you lose 2 life.
+p426
+aVAs an additional cost to cast Vicious Betrayal, sacrifice any number of creatures.<br>Target creature gets +2/+2 until end of turn for each creature sacrificed this way.
+p427
+aV{T}: Add {1} to your mana pool.<br>{B/R}, {T}: Add {B}{B}, {B}{R}, or {R}{R} to your mana pool.
+p428
+aVAt the beginning of your upkeep, if you control no permanents other than Barren Glory and have no cards in hand, you win the game.
+p429
+aV{T}: Prevent all damage that would be dealt to target creature this turn.<br>Grandeur- Discard another card named Oriss, Samite Guardian: Target player can't cast spells this turn, and creatures that player controls can't attack this turn.
+p430
+aVWhen Ogre Arsonist enters the battlefield, destroy target land.
+p431
+aVWhen Nylea's Disciple enters the battlefield, you gain life equal to your devotion to green. <i>(Each {G} in the mana costs of permanents you control counts toward your devotion to green.)</i>
+p432
+aVBestow {5}{G} <i>(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)</i><br>Trample<br>Enchanted creature gets +3/+3 and has trample.
+p433
+aVSearch your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+p434
+aVPrimordial Ooze attacks each turn if able.<br>At the beginning of your upkeep, put a +1/+1 counter on Primordial Ooze. Then you may pay {X}, where X is the number of +1/+1 counters on it. If you don't, tap Primordial Ooze and it deals X damage to you.
+p435
+aV{U}, {T}: Put target creature you control on top of its owner's library.<br>{R}, {T}: Target creature gains first strike until end of turn.
+p436
+aV{U}{U}, {T}: Return target creature to its owner's hand.<br>{R}{R}, {T}: Nightscape Master deals 2 damage to target creature.
+p437
+aVTarget creature gets -X/-X until end of turn, where X is the number of cards in your hand.
+p438
+aVFirst strike; banding <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
+p439
+aVYou draw two cards and you lose 2 life.
+p440
+aVUp to two target creatures can't block this turn.<br>Flashback {3}{R} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
+p441
+aV{R}, {T}: Nightfall Predator fights target creature. <i>(Each deals damage equal to its power to the other.)</i><br>At the beginning of each upkeep, if a player cast two or more spells last turn, transform Nightfall Predator.
+p442
+aVFlying<br>{1}{R}: Olivia Voldaren deals 1 damage to another target creature. That creature becomes a Vampire in addition to its other types. Put a +1/+1 counter on Olivia Voldaren.<br>{3}{B}{B}: Gain control of target Vampire for as long as you control Olivia Voldaren.
+p443
+aVDefender<br>Creatures with flying your opponents control get -1/-0.
+p444
+aVTarget player draws three cards.
+p445
+aVReturn target permanent card from your graveyard to the battlefield.
+p446
+aVYou may choose not to untap Rubinia Soulsinger during your untap step.<br>{T}: Gain control of target creature for as long as you control Rubinia and Rubinia remains tapped.
+p447
+aVUntil end of turn, all creatures become black and all lands become Swamps.
+p448
+aV{2}{B}, Discard a card: Target opponent loses 1 life and you gain 1 life.<br>Hellbent- {1}, Pay 2 life: Draw a card. Activate this ability only if you have no cards in hand.
+p449
+aVTarget player reveals his or her hand. You choose a card from it. That player discards that card.<br>Dredge 2 <i>(If you would draw a card, instead you may put exactly two cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)</i>
+p450
+aV{T}: Add {1} to your mana pool.<br>{2}{U}{R}, {T}: Exile the top card of your library. Until your next turn, you may cast that card if it's an instant or sorcery.
+p451
+aVFlying<br>Whenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to target creature or player.<br>{T}: Draw a card.
+p452
+aVFlying<br>Nightshade Stinger can't block.
+p453
+aVAs Phylactery Lich enters the battlefield, put a phylactery counter on an artifact you control.<br>Phylactery Lich is indestructible.<br>When you control no permanents with phylactery counters on them, sacrifice Phylactery Lich.
+p454
+aV{T}: Add {G} to your mana pool.<br>{T}: Target 1/1 creature gets +1/+2 until end of turn.
+p455
+aVBlue spells and red spells you cast cost {1} less to cast.<br>{1}{B}: Regenerate Nightscape Familiar.
+p456
+aVKicker {2}{U} and/or {2}{R} <i>(You may pay an additional {2}{U} and/or {2}{R} as you cast this spell.)</i><br>When Nightscape Battlemage enters the battlefield, if it was kicked with its {2}{U} kicker, return up to two target nonblack creatures to their owners' hands.<br>When Nightscape Battlemage enters the battlefield, if it was kicked with its {2}{R} kicker, destroy target land.
+p457
+aVFlying<br>Whenever Niblis of the Urn attacks, you may tap target creature.
+p458
+aVIndestructible<br>Whenever Predator Ooze attacks, put a +1/+1 counter on it.<br>Whenever a creature dealt damage by Predator Ooze this turn dies, put a +1/+1 counter on Predator Ooze.
+p459
+aVWhenever Pyreheart Wolf attacks, each creature you control can't be blocked this turn except by two or more creatures.<br>Undying <i>(When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</i>
+p460
+asS'costs'
+p461
+(lp462
+V{1}{B}
+p463
+aV{5}{B}
+p464
+aV{2}{W}
+p465
+aV{4}{G}{G}
+p466
+aV{4}{B}
+p467
+aS'0'
+p468
+aV{5}{B}
+p469
+ag468
+aV{R}{G}{W}
+p470
+aV{2}{U}{U}{B}{B}{R}{R}
+p471
+aV{2}{U}{U}{R}{R}
+p472
+aV{1}{U}{U}
+p473
+aV{3}
+p474
+aV{3}{G}
+p475
+aV{4}{B}{B}
+p476
+aV{1}{R}{R}
+p477
+aV{5}{B}
+p478
+aV{2}{W}
+p479
+aV{B}{B}{B}
+p480
+aV{G}{G}{G}
+p481
+aV{G}{G}
+p482
+aV{G}{G}
+p483
+aV{G}{G}
+p484
+aV{2}{W}
+p485
+aV{B}
+p486
+aV{2}{W}
+p487
+aV{2}{U}{U}{B}{B}{R}{R}
+p488
+aV{5}{B}
+p489
+aV{G}{G}
+p490
+ag468
+aV{2}{U}{U}{R}{R}
+p491
+aV{5}{B}
+p492
+aV{W/B}
+p493
+aV{1}{W/B}
+p494
+aV{5}{B}
+p495
+ag468
+aV{U}
+p496
+aV{3}{U}
+p497
+aV{3}
+p498
+aV{2}{B}{B}
+p499
+aV{2}{B}{B}
+p500
+aV{3}{U}
+p501
+aV{3}{B}
+p502
+aV{2}{W}
+p503
+aV{3}{B}
+p504
+aV{G}{G}
+p505
+aV{1}{B}
+p506
+aV{1}
+p507
+aV{U}{R}
+p508
+aV{G}
+p509
+aV{2}{B}{B}
+p510
+aV{W}{U}
+p511
+aV{U}{R}
+p512
+aV{U/R}
+p513
+aV{1}{G}
+p514
+aV{4}{W}
+p515
+aV{5}{B}
+p516
+aV{5}{B}{B}
+p517
+aV{3}{B}
+p518
+ag468
+aV{1}{W}
+p519
+aV{5}{B}
+p520
+aV{2}{B}
+p521
+aV{3}
+p522
+aV{3}{B}{B}
+p523
+aV{2}{B}{B}
+p524
+aV{3}{B}
+p525
+aV{4}
+p526
+aV{5}{B}
+p527
+aV{2}{B}
+p528
+aV{2}{B}
+p529
+aV{1}{B}
+p530
+ag468
+aV{1}{U}
+p531
+aV{2}{B}
+p532
+aV{1}{G}
+p533
+aV{B}
+p534
+aV{2}{B}
+p535
+aV{W}
+p536
+aV{1}{B}
+p537
+aV{6}{B}
+p538
+aV{U}
+p539
+ag468
+aV{4}{B}{B}
+p540
+aV{4}{B}
+p541
+aV{4}{G}
+p542
+aV{2}{G}
+p543
+aV{5}{B}
+p544
+aV{2}{U}{U}{B}{B}{R}{R}
+p545
+aV{B}
+p546
+aV{2}{B}{B}
+p547
+aV{3}{G}{G}
+p548
+aV{5}{B}
+p549
+aV{2}{B}{B}
+p550
+aV{1}{G}
+p551
+aV{1}{W}{W}
+p552
+aV{4}{R}
+p553
+ag468
+aV{5}{B}
+p554
+aV{1}{U}{R}
+p555
+aV{2}{U}{U}{B}{B}{R}{R}
+p556
+aV{B}{B}
+p557
+aV{2}{B}{B}
+p558
+aV{3}{B}
+p559
+ag468
+aV{2}{U}{U}{R}{R}
+p560
+aV{B}
+p561
+aV{1}{G}
+p562
+aV{2}{U}{U}{B}{B}{R}{R}
+p563
+aV{1}{B}
+p564
+aV{2}{B}
+p565
+aV{2}{U}
+p566
+aV{2}{W}
+p567
+aV{1}{W}
+p568
+asS'names'
+p569
+(lp570
+VNin, the Pain Artist
+p571
+aVNightmare
+p572
+aVNikko-Onna
+p573
+aVNightsoil Kami
+p574
+aVNightshade Schemers
+p575
+aVNicol Bolas, Planeswalker
+p576
+aVNightmare
+p577
+aVNicol Bolas, Planeswalker
+p578
+aVNightscape Familiar
+p579
+aVNicol Bolas
+p580
+aVNiv-Mizzet, the Firemind
+p581
+aVNihil Spellbomb
+p582
+aVNim Deathmantle
+p583
+aVNightmare
+p584
+aVNightmare
+p585
+aVNightwing Shade
+p586
+aVNightmare
+p587
+aVNightwind Glider
+p588
+aVNightscape Familiar
+p589
+aVNiall Silvain
+p590
+aVNight Soil
+p591
+aVNight Soil
+p592
+aVNight Soil
+p593
+aVNight // Day (Day)
+p594
+aVNight // Day (Night)
+p595
+aVNight // Day (Day)
+p596
+aVNicol Bolas
+p597
+aVNightmare
+p598
+aVNight Soil
+p599
+aVNivix, Aerie of the Firemind
+p600
+aVNiv-Mizzet, the Firemind
+p601
+aVNightmare
+p602
+aVNip Gwyllion
+p603
+aVNightsky Mimic
+p604
+aVNightmare Incursion
+p605
+aVNicol Bolas, Planeswalker
+p606
+aVNightshade Peddler
+p607
+aVNinja of the Deep Hours
+p608
+aVNine-Ringed Bo
+p609
+aVNight Dealings
+p610
+aVNight of Souls' Betrayal
+p611
+aVNinja of the Deep Hours
+p612
+aVNightshade Seer
+p613
+aVNightguard Patrol
+p614
+aVNightmare Void
+p615
+aVNight Soil
+p616
+aVNightscape Familiar
+p617
+aVNihil Spellbomb
+p618
+aVNivix Guildmage
+p619
+aVNimble Mongoose
+p620
+aVNightshade Assassin
+p621
+aVNivix Guildmage
+p622
+aVNivmagus Elemental
+p623
+aVNiv-Mizzet, Dracogenius
+p624
+aVNightveil Specter
+p625
+aVNimbus Swimmer
+p626
+aVNightmare
+p627
+aVNimana Sell-Sword
+p628
+aVNimbus Wings
+p629
+aVNissa Revane
+p630
+aVNissa's Chosen
+p631
+aVNightmare
+p632
+aVNim Lasher
+p633
+aVNim Replica
+p634
+aVNim Devourer
+p635
+aVNim Shambler
+p636
+aVNim Shrieker
+p637
+aVNightmare Lash
+p638
+aVNightmare
+p639
+aVNightfire Giant
+p640
+aVNightmare
+p641
+aVNimbus of the Isles
+p642
+aVNissa, Worldwaker
+p643
+aVNissa's Expedition
+p644
+aVNim Abomination
+p645
+aVNighthaze
+p646
+aVNirkana Cutthroat
+p647
+aVNirkana Revenant
+p648
+aVNiveous Wisps
+p649
+aVNight's Whisper
+p650
+aVNim Grotesque
+p651
+aVNix
+p652
+aVNimbus Maze
+p653
+aVNihilith
+p654
+aVNightstalker Engine
+p655
+aVNighthowler
+p656
+aVNimbus Naiad
+p657
+aVNightmare
+p658
+aVNicol Bolas
+p659
+aVNightscape Apprentice
+p660
+aVNightscape Master
+p661
+aVNightmarish End
+p662
+aVNightmare
+p663
+aVNight's Whisper
+p664
+aVNight Revelers
+p665
+aVNight Terrors
+p666
+aVNightbird's Clutches
+p667
+aVNightfall Predator
+p668
+aVNightmare
+p669
+aVNivix Cyclops
+p670
+aVNicol Bolas
+p671
+aVNightcreep
+p672
+aVNihilistic Glee
+p673
+aVNightmare Void
+p674
+aVNivix, Aerie of the Firemind
+p675
+aVNiv-Mizzet, the Firemind
+p676
+aVNightshade Stinger
+p677
+aVNightwing Shade
+p678
+aVNicol Bolas
+p679
+aVNightscape Familiar
+p680
+aVNightscape Battlemage
+p681
+aVNiblis of the Breath
+p682
+aVNiblis of the Mist
+p683
+aVNiblis of the Urn
+p684
+asS'toughs'
+p685
+(lp686
+V1
+p687
+ag687
+aV2
+p688
+ag687
+ag688
+aS'N/A'
+p689
+ag688
+ag689
+aV4
+p690
+aV5
+p691
+aV7
+p692
+ag689
+ag689
+aV3
+p693
+ag693
+ag687
+aV*
+p694
+ag687
+ag690
+ag687
+ag689
+ag689
+ag689
+ag689
+ag689
+ag689
+ag693
+ag692
+ag689
+ag689
+ag690
+ag687
+ag687
+ag687
+ag689
+ag689
+ag693
+ag687
+ag689
+ag689
+ag689
+ag688
+ag687
+ag693
+ag689
+ag689
+ag692
+ag689
+aV0
+p695
+ag687
+ag687
+ag688
+ag688
+ag688
+ag691
+ag690
+ag687
+ag690
+ag689
+ag689
+ag688
+ag688
+ag687
+ag689
+ag687
+ag695
+ag688
+ag689
+ag687
+aV6
+p696
+ag690
+ag695
+ag689
+ag689
+aV10
+p697
+ag689
+ag691
+ag688
+ag689
+ag689
+ag695
+ag689
+ag689
+ag696
+ag693
+ag689
+ag689
+ag688
+ag690
+ag687
+ag688
+ag689
+ag688
+ag689
+ag693
+ag689
+ag689
+ag689
+ag694
+ag690
+ag693
+ag689
+ag689
+ag689
+ag689
+ag690
+ag687
+ag688
+ag690
+ag687
+ag688
+ag688
+ag688
+ag691
+asS'artists'
+p698
+(lp699
+VBrad Rigney
+p700
+aVMelissa Benson
+p701
+aVShishizaru
+p702
+aVJim Nelson
+p703
+aVParente
+p704
+aVDan Scott
+p705
+aVMelissa A. Benson
+p706
+aVIzzy
+p707
+aVJeff Easley
+p708
+aVD. Alexander Gregory
+p709
+aVTodd Lockwood
+p710
+aVFranz Vohwinkel
+p711
+aVKarl Kopinski
+p712
+aVCarl Critchlow
+p713
+aVVance Kovacs
+p714
+aVLucas Graciano
+p715
+aVCarl Critchlow
+p716
+aVRandy Gallegos
+p717
+aVJeff Easley
+p718
+aVChristopher Rush
+p719
+aVDrew Tucker
+p720
+aVSandra Everingham
+p721
+aVHeather Hudson
+p722
+aVAnthony S. Waters
+p723
+aVChristopher Moeller
+p724
+aVEdward P. Beard, Jr.
+p725
+aVRichard Thomas
+p726
+aVMelissa Benson
+p727
+aVHeather Hudson
+p728
+aVMartina Pilcerova
+p729
+aVTodd Lockwood
+p730
+aVCarl Critchlow
+p731
+aVAlex Horley-Orlandelli
+p732
+aVFranz Vohwinkel
+p733
+aVChuck Lukacs
+p734
+aVD. Alexander Gregory
+p735
+aVSam Wolfe Connelly
+p736
+aS''
+p737
+aVRalph Horsley
+p738
+aVDarrell Riche
+p739
+aVGreg Staples
+p740
+aVDan Scott
+p741
+aVDonato Giancola
+p742
+aVDany Orizio
+p743
+aVChippy
+p744
+aVRichard Wright
+p745
+aVJeff Easley
+p746
+aVFranz Vohwinkel
+p747
+aVScott M. Fischer
+p748
+aVTerese Nielsen
+p749
+aVAlan Pollack
+p750
+aVScott M. Fischer
+p751
+aVMike Bierek
+p752
+aVTodd Lockwood
+p753
+aVMin Yum
+p754
+aVHoward Lyon
+p755
+aVMelissa Benson
+p756
+aVDaarken
+p757
+aVChris Rahn
+p758
+aVJaime Jones
+p759
+aVJaime Jones
+p760
+aVMelissa A. Benson
+p761
+aVAdam Rex
+p762
+aVCarl Critchlow
+p763
+aVAdam Rex
+p764
+aVAdam Rex
+p765
+aVAdam Rex
+p766
+aVPuddnhead
+p767
+aVCarl Critchlow
+p768
+aVDave Kendall
+p769
+aVVance Kovacs
+p770
+aVCliff Childs
+p771
+aVPeter Mohrbacher
+p772
+aVDan Scott
+p773
+aVJim Murray
+p774
+aVTomasz Jedruszek
+p775
+aVErica Yang
+p776
+aVIgor Kieryluk
+p777
+aVJim Nelson
+p778
+aVDavid Martin
+p779
+aVAnthony S. Waters
+p780
+aVBrian Despain
+p781
+aVJason Chan
+p782
+aVDave Allsop
+p783
+aVMark Tedin
+p784
+aVNils Hamm
+p785
+aVDavid Palumbo
+p786
+aVCarl Critchlow
+p787
+aVEdward Beard, Jr.
+p788
+aVAndrew Goldhawk
+p789
+aVAndrew Goldhawk
+p790
+aVWillian Murai
+p791
+aVMelissa A. Benson
+p792
+aVJohn Severin Brassell
+p793
+aVSteve Argyle
+p794
+aVChristopher Moeller
+p795
+aVJason A. Engle
+p796
+aVSteve Prescott
+p797
+aVMelissa Benson
+p798
+aVWayne Reynolds
+p799
+aVEdward Beard, Jr.
+p800
+aVJeff Miracola
+p801
+aVRon Spears & Wayne Reynolds
+p802
+aVChippy
+p803
+aVMartina Pilcerova
+p804
+aVSvetlin Velinov
+p805
+aVMark Poole
+p806
+aVLucas Graciano
+p807
+aVEdward P. Beard, Jr.
+p808
+aVJeff Easley
+p809
+aVAndrew Goldhawk
+p810
+aVIgor Kieryluk
+p811
+aVRyan Yee
+p812
+aVLars Grant-West
+p813
+asS'powers'
+p814
+(lp815
+g690
+ag687
+ag688
+ag687
+ag693
+ag689
+ag688
+ag689
+ag687
+ag691
+ag692
+ag689
+ag689
+ag687
+ag688
+ag694
+ag694
+ag688
+ag688
+ag687
+ag689
+ag689
+ag689
+ag689
+ag689
+ag689
+ag693
+ag692
+ag689
+ag689
+ag690
+ag688
+ag687
+ag688
+ag689
+ag689
+ag687
+ag687
+ag689
+ag689
+ag689
+ag688
+ag687
+ag693
+ag689
+ag689
+ag690
+ag689
+ag695
+ag687
+ag688
+ag688
+ag687
+ag691
+ag687
+ag693
+ag687
+ag693
+ag689
+ag689
+ag688
+ag688
+ag687
+ag689
+ag693
+ag695
+ag695
+ag689
+ag687
+ag693
+ag693
+ag688
+ag689
+ag689
+ag692
+ag689
+ag688
+ag693
+ag689
+ag689
+ag695
+ag689
+ag689
+ag691
+ag694
+ag689
+ag689
+ag688
+ag691
+ag687
+ag688
+ag689
+ag688
+ag689
+ag690
+ag689
+ag689
+ag689
+ag694
+ag687
+ag690
+ag689
+ag689
+ag689
+ag689
+ag690
+ag687
+ag688
+ag693
+ag687
+ag688
+ag693
+ag688
+ag691
+asS'types'
+p816
+(lp817
+VLegendary Creature - Vedalken Wizard
+p818
+aVCreature - Nightmare Horse
+p819
+aVCreature - Spirit
+p820
+aVCreature - Spirit
+p821
+aVCreature - Faerie Wizard
+p822
+aVPlaneswalker - Bolas
+p823
+aVCreature - Nightmare Horse
+p824
+aVPlaneswalker - Bolas
+p825
+aVCreature - Zombie
+p826
+aVLegendary Creature - Elder Dragon
+p827
+aVLegendary Creature - Dragon Wizard
+p828
+aVArtifact
+p829
+aVArtifact - Equipment
+p830
+aVCreature - Nightmare Horse
+p831
+aVCreature - Nightmare Horse
+p832
+aVCreature - Shade
+p833
+aVCreature - Nightmare Horse
+p834
+aVCreature - Human Rebel
+p835
+aVCreature - Zombie
+p836
+aVCreature - Ouphe
+p837
+aVEnchantment
+p838
+aVEnchantment
+p839
+aVEnchantment
+p840
+aVInstant
+p841
+aVInstant
+p842
+aVInstant
+p843
+aVLegendary Creature - Elder Dragon
+p844
+aVCreature - Nightmare Horse
+p845
+aVEnchantment
+p846
+aVLand
+p847
+aVLegendary Creature - Dragon Wizard
+p848
+aVCreature - Nightmare Horse
+p849
+aVCreature - Hag
+p850
+aVCreature - Shapeshifter
+p851
+aVSorcery
+p852
+aVPlaneswalker - Bolas
+p853
+aVCreature - Human Druid
+p854
+aVCreature - Human Ninja
+p855
+aVArtifact
+p856
+aVEnchantment
+p857
+aVLegendary Enchantment
+p858
+aVCreature - Human Ninja
+p859
+aVCreature - Human Wizard
+p860
+aVCreature - Human Soldier
+p861
+aVSorcery
+p862
+aVEnchantment
+p863
+aVCreature - Zombie
+p864
+aVArtifact
+p865
+aVCreature - Human Wizard
+p866
+aVCreature - Mongoose
+p867
+aVCreature - Human Assassin
+p868
+aVCreature - Human Wizard
+p869
+aVCreature - Elemental
+p870
+aVLegendary Creature - Dragon Wizard
+p871
+aVCreature - Specter
+p872
+aVCreature - Leviathan
+p873
+aVCreature - Nightmare Horse
+p874
+aVCreature - Human Warrior Ally
+p875
+aVEnchantment - Aura
+p876
+aVPlaneswalker - Nissa
+p877
+aVCreature - Elf Warrior
+p878
+aVCreature - Nightmare Horse
+p879
+aVCreature - Zombie
+p880
+aVArtifact Creature - Zombie
+p881
+aVCreature - Zombie
+p882
+aVCreature - Zombie
+p883
+aVCreature - Zombie
+p884
+aVArtifact - Equipment
+p885
+aVCreature - Nightmare Horse
+p886
+aVCreature - Zombie Giant
+p887
+aVCreature - Nightmare Horse
+p888
+aVCreature - Elemental
+p889
+aVPlaneswalker - Nissa
+p890
+aVSorcery
+p891
+aVCreature - Zombie
+p892
+aVSorcery
+p893
+aVCreature - Vampire Warrior
+p894
+aVCreature - Vampire Shade
+p895
+aVInstant
+p896
+aVSorcery
+p897
+aVCreature - Zombie
+p898
+aVInstant
+p899
+aVLand
+p900
+aVCreature - Horror
+p901
+aVCreature - Nightstalker
+p902
+aVEnchantment Creature - Horror
+p903
+aVEnchantment Creature - Nymph
+p904
+aVCreature - Nightmare Horse
+p905
+aVLegendary Creature - Elder Dragon
+p906
+aVCreature - Zombie Wizard
+p907
+aVCreature - Zombie Wizard
+p908
+aVInstant
+p909
+aVCreature - Nightmare Horse
+p910
+aVSorcery
+p911
+aVCreature - Vampire
+p912
+aVSorcery
+p913
+aVSorcery
+p914
+aVTransform Creature - Werewolf
+p915
+aVCreature - Nightmare Horse
+p916
+aVCreature - Cyclops
+p917
+aVLegendary Creature - Elder Dragon
+p918
+aVInstant
+p919
+aVEnchantment
+p920
+aVSorcery
+p921
+aVLand
+p922
+aVLegendary Creature - Dragon Wizard
+p923
+aVCreature - Faerie Rogue
+p924
+aVCreature - Shade
+p925
+aVLegendary Creature - Elder Dragon
+p926
+aVCreature - Zombie
+p927
+aVCreature - Zombie Wizard
+p928
+aVCreature - Spirit
+p929
+aVCreature - Spirit
+p930
+aVCreature - Spirit
+p931
+asS'numbers'
+p932
+(lp933
+V213
+p934
+aV186
+p935
+aV21
+p936
+aV139
+p937
+aV69
+p938
+aV199
+p939
+aV281
+p940
+aV42
+p941
+aV44
+p942
+aV10
+p943
+aV11
+p944
+aV187
+p945
+aV188
+p946
+aV107
+p947
+aV108
+p948
+aV109
+p949
+aV164
+p950
+aV31
+p951
+aV131
+p952
+aV39
+p953
+aV41
+p954
+aV154
+p955
+aV155
+p956
+aV131
+p957
+aV131
+p958
+aV130
+p959
+aV163
+p960
+aV201
+p961
+aV173
+p962
+aV160
+p963
+aV123
+p964
+aV150
+p965
+aV92
+p966
+aV91
+p967
+aV40
+p968
+aV120
+p969
+aV187
+p970
+aV125
+p971
+aV263
+p972
+aV132
+p973
+aV133
+p974
+aV44
+p975
+aV63
+p976
+aV26
+p977
+aV100
+p978
+aV158
+p979
+aV83
+p980
+aV249
+p981
+aV202
+p982
+aV258
+p983
+aV121
+p984
+aV182
+p985
+aV219
+p986
+aV183
+p987
+aV222
+p988
+aV181
+p989
+aV188
+p990
+aV106
+p991
+aV28
+p992
+aV170
+p993
+aV171
+p994
+aV146
+p995
+aV71
+p996
+aV220
+p997
+aV70
+p998
+aV72
+p999
+aV73
+p1000
+aV219
+p1001
+aV150
+p1002
+aV109
+p1003
+aV276
+p1004
+aV72
+p1005
+aV187
+p1006
+aV188
+p1007
+aV49
+p1008
+aV118
+p1009
+aV119
+p1010
+aV120
+p1011
+aV15
+p1012
+aV55
+p1013
+aV56
+p1014
+aV55
+p1015
+aV178
+p1016
+aV72
+p1017
+aV53
+p1018
+aV98
+p1019
+aV56
+p1020
+aV150
+p1021
+aV89
+p1022
+aV112
+p1023
+aV113
+p1024
+aV76
+p1025
+aV350
+p1026
+aV68
+p1027
+aV153
+p1028
+aV111
+p1029
+aV154
+p1030
+aV176
+p1031
+aV82
+p1032
+aV87
+p1033
+aV148
+p1034
+aV49
+p1035
+aV50
+p1036
+aV73
+p1037
+aV36
+p1038
+ag687
+aV132
+p1039
+aV109
+p1040
+aV98
+p1041
+aV48
+p1042
+aV47
+p1043
+aV44
+p1044
+aV15
+p1045
+aV16
+p1046
+as.

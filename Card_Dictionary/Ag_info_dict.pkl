@@ -1,0 +1,660 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVCommon
+p4
+aVCommon
+p5
+aVCommon
+p6
+aVCommon
+p7
+aVUncommon
+p8
+aVUncommon
+p9
+aVUncommon
+p10
+aVRare
+p11
+aVRare
+p12
+aVUncommon
+p13
+aVUncommon
+p14
+aVUncommon
+p15
+aVCommon
+p16
+aVUncommon
+p17
+aVCommon
+p18
+aVRare
+p19
+aVRare
+p20
+aVRare
+p21
+aVCommon
+p22
+aVCommon
+p23
+aVRare
+p24
+aVUncommon
+p25
+aVUncommon
+p26
+aVRare
+p27
+aVCommon
+p28
+aVCommon
+p29
+aVUncommon
+p30
+aVCommon
+p31
+aVUncommon
+p32
+aVCommon
+p33
+asS'editns'
+p34
+(lp35
+VDuel Decks: Ajani vs. Nicol Bolas
+p36
+aVDuel Decks: Ajani vs. Nicol Bolas
+p37
+aVAlliances
+p38
+aVAlliances
+p39
+aVTenth Edition
+p40
+aVTenth Edition
+p41
+aVGuildpact
+p42
+aVAvacyn Restored
+p43
+aVOnslaught
+p44
+aVRavnica: City of Guilds
+p45
+aVGatecrash
+p46
+aVIce Age
+p47
+aVClassic Sixth Edition
+p48
+aVShards of Alara
+p49
+aVSeventh Edition
+p50
+aVProphecy
+p51
+aVMagic 2015 Core Set
+p52
+aVDarksteel
+p53
+aVScourge
+p54
+aVPlanechase
+p55
+aVTheros
+p56
+aVTheros
+p57
+aVWeatherlight
+p58
+aVMagic: The Gathering\u2014Conspiracy
+p59
+aVWorldwake
+p60
+aVInvasion
+p61
+aVInvasion
+p62
+aVJourney into Nyx
+p63
+aVArchenemy
+p64
+aVDuel Decks: Jace vs. Vraska
+p65
+aVMirage
+p66
+asS'ids'
+p67
+(lp68
+V249411
+p69
+aV259268
+p70
+aV3160
+p71
+aV3159
+p72
+aV130525
+p73
+aV135228
+p74
+aV96892
+p75
+aV275707
+p76
+aV40195
+p77
+aV89101
+p78
+aV366258
+p79
+aV2605
+p80
+aV14586
+p81
+aV175052
+p82
+aV12994
+p83
+aV24601
+p84
+aV383179
+p85
+aV46148
+p86
+aV43713
+p87
+aV198090
+p88
+aV373712
+p89
+aV373543
+p90
+aV4448
+p91
+aV382209
+p92
+aV198402
+p93
+aV23034
+p94
+aV24127
+p95
+aV380366
+p96
+aV220454
+p97
+aV380253
+p98
+aV3425
+p99
+asS'texts'
+p100
+(lp101
+VWhenever you gain life, put that many +1/+1 counters on Ageless Entity.
+p102
+aVKicker {1}{R} <i>(You may pay an additional {1}{R} as you cast this spell.)</i><br>Destroy target nonblack creature. It can't be regenerated. If Agonizing Demise was kicked, it deals damage equal to that creature's power to the creature's controller.
+p103
+aVHaste<br>Rampage 1 <i>(Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)</i>
+p104
+aVCounter target spell. Its controller may draw up to two cards at the beginning of the next turn's upkeep.<br>You draw a card at the beginning of the next turn's upkeep.
+p105
+aVCone of Flame deals 1 damage to target creature or player, 2 damage to another target creature or player, and 3 damage to a third target creature or player.
+p106
+aVAt the beginning of each player's upkeep, that player puts the top X cards of his or her library into his or her graveyard, where X is the number of cards in his or her hand.
+p107
+aVHaunt <i>(When this creature dies, exile it haunting target creature.)</i><br>When Orzhov Euthanist enters the battlefield or the creature it haunts dies, destroy target creature that was dealt damage this turn.
+p108
+aVSacrifice Alchemist's Apprentice: Draw a card.
+p109
+aV{3}{R}{R}: Untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase. Activate this ability only any time you could cast a sorcery.
+p110
+aVAt the beginning of each player's end step, that player sacrifices an untapped land.
+p111
+aVEnchant creature<br>Enchanted creature gets -5/-0.<br>{2}{U}: Return Agoraphobia to its owner's hand.
+p112
+aVDestroy all white permanents.
+p113
+aVWhenever a land enters the battlefield, Ankh of Mishra deals 2 damage to that land's controller.
+p114
+aVFlying, trample, haste<br>{R}: Hellkite Overlord gets +1/+0 until end of turn.<br>{B}{G}: Regenerate Hellkite Overlord.
+p115
+aVEnchant creature <i>(Target a creature as you cast this. This card enters the battlefield attached to that creature.)</i><br>Enchanted creature gets +1/+1 for each Forest you control.
+p116
+aV{1}{B}, Sacrifice a land: Target creature gets +2/+0 until end of turn.
+p117
+aVYou can't play lands.<br>Sacrifice a land: Draw two cards. Activate this ability only once each turn.
+p118
+aVWhenever you gain life, put that many +1/+1 counters on Ageless Entity.
+p119
+aVDefender <i>(This creature can't attack.)</i><br>Flying<br>When Ageless Sentinels blocks, it becomes a Bird Giant, and it loses defender. <i>(It's no longer a Wall. This effect lasts indefinitely.)</i>
+p120
+aVWhenever a white creature dies, return it to the battlefield under its owner's control at the beginning of the next end step.<br>Whenever a nonwhite creature dies, return it to its owner's hand at the beginning of the next end step.<br>Whenever you roll , creatures can't attack you until a player planeswalks.
+p121
+aV{2}{U}: Agent of Horizons can't be blocked this turn.
+p122
+aVDeathtouch<br>Heroic- Whenever you cast a spell that targets Agent of the Fates, each opponent sacrifices a creature.
+p123
+aVLook at target player's hand and choose two cards from it. Put them on top of that player's library in any order.
+p124
+aVDraft Agent of Acquisitions face up.<br>Instead of drafting a card from a booster pack, you may draft each card in that booster pack, one at a time. If you do, turn Agent of Acquisitions face down and you can't draft cards for the rest of this draft round. <i>(You may look at booster packs passed to you.)</i>
+p125
+aV{T}: Put target creature card from an opponent's graveyard onto the battlefield under your control if its converted mana cost is less than or equal to the number of Allies you control.
+p126
+aVKicker {1}{R} <i>(You may pay an additional {1}{R} as you cast this spell.)</i><br>Destroy target nonblack creature. It can't be regenerated. If Agonizing Demise was kicked, it deals damage equal to that creature's power to the creature's controller.
+p127
+aVTarget creature gets +1/+1 until end of turn.<br>Draw a card.
+p128
+aVConstellation- Whenever Agent of Erebos or another enchantment enters the battlefield under your control, exile all cards from target player's graveyard.
+p129
+aVTarget creature gets -3/-0 until end of turn.<br>Target creature gets -0/-3 until end of turn.
+p130
+aVEnchant creature<br>Enchanted creature gets -5/-0.<br>{2}{U}: Return Agoraphobia to its owner's hand.
+p131
+aVEnchant creature<br>Enchanted creature gets +1/+1 and has flanking. <i>(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)</i>
+p132
+asS'costs'
+p133
+(lp134
+V{3}{G}{G}
+p135
+aV{3}{B}
+p136
+aV{R}
+p137
+aV{R}
+p138
+aV{1}{G}
+p139
+aV{2}{B}{B}
+p140
+aV{3}{W}{B}
+p141
+aV{1}{W}
+p142
+aV{2}{R}
+p143
+aV{3}{R}{W}
+p144
+aV{1}{U}
+p145
+aV{2}{R}
+p146
+aV{2}{B}{B}
+p147
+aV{1}{W}
+p148
+aV{2}{B}{B}
+p149
+aV{1}{B}
+p150
+aV{3}{R}
+p151
+aV{3}{G}{G}
+p152
+aV{3}{W}
+p153
+aS'0'
+p154
+aV{2}{G}
+p155
+aV{1}{B}{B}
+p156
+aV{2}{B}{B}
+p157
+aV{2}
+p158
+aV{2}{B}
+p159
+aV{3}{B}
+p160
+aV{1}{G}
+p161
+aV{3}{B}
+p162
+aV{U}{B}
+p163
+aV{1}{U}
+p164
+aV{1}{R}
+p165
+asS'names'
+p166
+(lp167
+VAgeless Entity
+p168
+aVAgonizing Demise
+p169
+aVAgent of Stromgald
+p170
+aVAgent of Stromgald
+p171
+aVAggressive Urge
+p172
+aVAgonizing Memories
+p173
+aVAgent of Masks
+p174
+aVAggravate
+p175
+aVAggravated Assault
+p176
+aVAgrus Kos, Wojek Veteran
+p177
+aVAgoraphobia
+p178
+aVAggression
+p179
+aVAgonizing Memories
+p180
+aVAgony Warp
+p181
+aVAgonizing Memories
+p182
+aVAgent of Shauku
+p183
+aVAggressive Mining
+p184
+aVAgeless Entity
+p185
+aVAgeless Sentinels
+p186
+aVAgyrem
+p187
+aVAgent of Horizons
+p188
+aVAgent of the Fates
+p189
+aVAgonizing Memories
+p190
+aVAgent of Acquisitions
+p191
+aVAgadeem Occultist
+p192
+aVAgonizing Demise
+p193
+aVAggressive Urge
+p194
+aVAgent of Erebos
+p195
+aVAgony Warp
+p196
+aVAgoraphobia
+p197
+aVAgility
+p198
+asS'toughs'
+p199
+(lp200
+V4
+p201
+aS'N/A'
+p202
+aV3
+p203
+aV1
+p204
+ag202
+ag202
+ag203
+ag202
+ag202
+aV6
+p205
+ag202
+ag202
+ag202
+ag202
+ag202
+ag204
+ag202
+ag201
+ag201
+ag202
+aV2
+p206
+ag206
+ag202
+ag202
+ag206
+ag202
+ag202
+ag202
+ag202
+ag202
+ag202
+asS'artists'
+p207
+(lp208
+VJeff Miracola
+p209
+aVMark Brill
+p210
+aVAlan Rabinowitz
+p211
+aVAlan Rabinowitz
+p212
+aVChristopher Moeller
+p213
+aVAdam Rex
+p214
+aVMatt Thompson
+p215
+aVMatt Stewart
+p216
+aVGreg Staples
+p217
+aVDonato Giancola
+p218
+aVJim Murray
+p219
+aVRick Emond
+p220
+aVMike Dringenberg
+p221
+aVDave Allsop
+p222
+aVAdam Rex
+p223
+aVDonato Giancola
+p224
+aVFranz Vohwinkel
+p225
+aVJeff Miracola
+p226
+aVTony Szczudlo
+p227
+aVTodd Lockwood
+p228
+aVClint Cearley
+p229
+aVMatt Stewart
+p230
+aVMike Dringenberg
+p231
+aVEytan Zana
+p232
+aVVance Kovacs
+p233
+aVMark Brill
+p234
+aVChristopher Moeller
+p235
+aVCyril Van Der Haegen
+p236
+aVDave Allsop
+p237
+aVJim Murray
+p238
+aVDrew Tucker
+p239
+asS'powers'
+p240
+(lp241
+g201
+ag202
+ag206
+ag204
+ag202
+ag202
+ag206
+ag202
+ag202
+ag205
+ag202
+ag202
+ag202
+ag202
+ag202
+ag204
+ag202
+ag205
+ag201
+ag202
+ag203
+ag203
+ag202
+ag202
+aV0
+p242
+ag202
+ag202
+ag202
+ag202
+ag202
+ag202
+asS'types'
+p243
+(lp244
+VCreature - Elemental
+p245
+aVInstant
+p246
+aVCreature - Human Knight
+p247
+aVCreature - Human Knight
+p248
+aVInstant
+p249
+aVSorcery
+p250
+aVCreature - Human Advisor
+p251
+aVInstant
+p252
+aVEnchantment
+p253
+aVLegendary Creature - Human Soldier
+p254
+aVEnchantment - Aura
+p255
+aVEnchantment - Aura
+p256
+aVSorcery
+p257
+aVInstant
+p258
+aVSorcery
+p259
+aVCreature - Human Mercenary
+p260
+aVEnchantment
+p261
+aVCreature - Elemental
+p262
+aVCreature - Wall
+p263
+aVPlane - Ravnica
+p264
+aVCreature - Human Rogue
+p265
+aVCreature - Human Assassin
+p266
+aVSorcery
+p267
+aVArtifact Creature - Construct
+p268
+aVCreature - Human Shaman Ally
+p269
+aVInstant
+p270
+aVInstant
+p271
+aVEnchantment Creature - Zombie
+p272
+aVInstant
+p273
+aVEnchantment - Aura
+p274
+aVEnchantment - Aura
+p275
+asS'numbers'
+p276
+(lp277
+V18
+p278
+aV66
+p279
+aV73
+p280
+aV127
+p281
+aV250
+p282
+aV126
+p283
+aV100
+p284
+aV125
+p285
+aV185
+p286
+aV190
+p287
+aV30
+p288
+aV143
+p289
+aV111
+p290
+aV153
+p291
+aV117
+p292
+aV55
+p293
+aV127
+p294
+aV73
+p295
+ag204
+ag203
+aV148
+p296
+aV76
+p297
+aV119
+p298
+aV54
+p299
+aV48
+p300
+aV92
+p301
+aV181
+p302
+aV59
+p303
+aV76
+p304
+aV22
+p305
+aV129
+p306
+as.

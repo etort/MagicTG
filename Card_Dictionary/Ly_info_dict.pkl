@@ -1,0 +1,259 @@
+(dp0
+S'rares'
+p1
+(lp2
+VCommon
+p3
+aVUncommon
+p4
+aVUncommon
+p5
+aVCommon
+p6
+aVCommon
+p7
+aVSpecial
+p8
+aVSpecial
+p9
+aVCommon
+p10
+aVRare
+p11
+aVCommon
+p12
+aVUncommon
+p13
+asS'editns'
+p14
+(lp15
+VMorningtide
+p16
+aVReturn to Ravnica
+p17
+aVStarter 1999
+p18
+aVFuture Sight
+p19
+aVPortal Second Age
+p20
+aVVanguard
+p21
+aVVanguard
+p22
+aVDragon's Maze
+p23
+aVDissension
+p24
+aVLorwyn
+p25
+aVLorwyn
+p26
+asS'ids'
+p27
+(lp28
+V153462
+p29
+aV265391
+p30
+aV21053
+p31
+aV126165
+p32
+aV6611
+p33
+aV12142
+p34
+aV182302
+p35
+aV368965
+p36
+aV107363
+p37
+aV139401
+p38
+aV143021
+p39
+asS'texts'
+p40
+(lp41
+VAs Primal Beyond enters the battlefield, you may reveal an Elemental card from your hand. If you don't, Primal Beyond enters the battlefield tapped.<br>{T}: Add {1} to your mana pool.<br>{T}: Add one mana of any color to your mana pool. Spend this mana only to cast an Elemental spell or activate an ability of an Elemental.
+p42
+aVTarget player discards two cards.
+p43
+aVW
+p44
+aVTarget creature gets +3/+3 until end of turn. Exile Cyclical Evolution with three time counters on it.<br>Suspend 3\u2014{2}{G} <i>(Rather than cast this card from your hand, you may pay {2}{G} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)</i>
+p45
+aVCast Deep Wood only during the declare attackers step and only if you've been attacked this step.<br>Prevent all damage that would be dealt to you this turn by attacking creatures.
+p46
+aVCreatures you control have shadow. <i>(They can block and be blocked only by creatures with shadow.)</i>
+p47
+aVHellbent- As long as you have no cards in hand, if a source you control would deal damage to a creature or player, it deals double that damage to that creature or player instead.<br>Hellbent- At the beginning of your end step, if you have no cards in hand, each of your opponents discards a card.
+p48
+aVSacrifice a creature: Creatures you control get +1/+1 until end of turn.
+p49
+aV{2}, Sacrifice a creature: Lyzolda, the Blood Witch deals 2 damage to target creature or player if the sacrificed creature was red. Draw a card if the sacrificed creature was black.
+p50
+aVWhenever you cast an Elf spell, you may put a 1/1 green Elf Warrior creature token onto the battlefield.
+p51
+aV{T}, Discard an Elf card: Target creature gets -X/-X until end of turn, where X is the number of Elves you control.
+p52
+asS'costs'
+p53
+(lp54
+V{2}{G}
+p55
+aV{1}{G}{W}
+p56
+aV{1}{G}
+p57
+aV{4}{W}
+p58
+aV{1}{G}
+p59
+aS'0'
+p60
+ag60
+aV{1}{W}
+p61
+aV{1}{B}{R}
+p62
+aV{2}{G}{G}
+p63
+aV{2}{R}
+p64
+asS'names'
+p65
+(lp66
+VLys Alana Bowmaster
+p67
+aVLyev Skyknight
+p68
+aVLynx
+p69
+aVLymph Sliver
+p70
+aVLynx
+p71
+aVLyna
+p72
+aVLyzolda, the Blood Witch Avatar
+p73
+aVLyev Decree
+p74
+aVLyzolda, the Blood Witch
+p75
+aVLys Alana Huntmaster
+p76
+aVLys Alana Scarblade
+p77
+asS'toughs'
+p78
+(lp79
+V2
+p80
+aV4
+p81
+aV1
+p82
+aV3
+p83
+ag82
+aS'N/A'
+p84
+ag84
+ag84
+aV0
+p85
+ag83
+ag80
+asS'artists'
+p86
+(lp87
+VDan Scott
+p88
+aVJohannes Voss
+p89
+aVRebecca Guay
+p90
+aVIttoku
+p91
+aVRebecca Guay
+p92
+aVAdam Rex
+p93
+aVUDON
+p94
+aVKev Walker
+p95
+aVJim Nelson
+p96
+aVPete Venters
+p97
+aVChristopher Moeller
+p98
+asS'powers'
+p99
+(lp100
+g80
+ag83
+ag80
+ag83
+ag80
+ag84
+ag84
+ag84
+ag85
+ag83
+ag82
+asS'types'
+p101
+(lp102
+VCreature - Elf Archer
+p103
+aVCreature - Human Knight
+p104
+aVCreature - Cat
+p105
+aVCreature - Sliver
+p106
+aVCreature - Cat
+p107
+aVVanguard
+p108
+aVVanguard
+p109
+aVSorcery
+p110
+aVLegendary Creature - Human Cleric
+p111
+aVCreature - Elf Warrior
+p112
+aVCreature - Elf Assassin
+p113
+asS'numbers'
+p114
+(lp115
+V130
+p116
+aV179
+p117
+aV131
+p118
+aV26
+p119
+aV67
+p120
+aV50
+p121
+aV60
+p122
+ag83
+aV117
+p123
+aV229
+p124
+aV122
+p125
+as.

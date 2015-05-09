@@ -1,0 +1,257 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVCommon
+p4
+aVCommon
+p5
+aVUncommon
+p6
+aVCommon
+p7
+aVCommon
+p8
+aVCommon
+p9
+aVUncommon
+p10
+aVRare
+p11
+aVUncommon
+p12
+aVUncommon
+p13
+asS'editns'
+p14
+(lp15
+VMagic: The Gathering-Commander
+p16
+aVTempest
+p17
+aVTenth Edition
+p18
+aVMercadian Masques
+p19
+aVVintage Masters
+p20
+aVVintage Masters
+p21
+aVOdyssey
+p22
+aVRise of the Eldrazi
+p23
+aVMirage
+p24
+aVMirage
+p25
+aVDark Ascension
+p26
+asS'ids'
+p27
+(lp28
+V247330
+p29
+aV4800
+p30
+aV135206
+p31
+aV19549
+p32
+aV382838
+p33
+aV382839
+p34
+aV29740
+p35
+aV198305
+p36
+aV3374
+p37
+aV3476
+p38
+aV262675
+p39
+asS'texts'
+p40
+(lp41
+VDestroy target creature. It can't be regenerated. Its controller puts a 1/1 white Spirit creature token with flying onto the battlefield.
+p42
+aVAt the beginning of each player's upkeep, Ancient Runes deals damage to that player equal to the number of artifacts he or she controls.
+p43
+aVLook at target player's hand and choose two cards from it. Put them on top of that player's library in any order.
+p44
+aVDraw three cards, then put two cards from your hand on top of your library in any order.
+p45
+aVDestroy target creature. It can't be regenerated. Its controller puts a 1/1 white Spirit creature token with flying onto the battlefield.
+p46
+aVDestroy target artifact, creature, or land. Aftershock deals 3 damage to you.
+p47
+aVWhen Anarchist enters the battlefield, you may return target sorcery card from your graveyard to your hand.
+p48
+aVFlash<br>When Affa Guard Hound enters the battlefield, target creature gets +0/+3 until end of turn.
+p49
+aVAfiya Grove enters the battlefield with three +1/+1 counters on it.<br>At the beginning of your upkeep, move a +1/+1 counter from Afiya Grove onto target creature.<br>When Afiya Grove has no +1/+1 counters on it, sacrifice it.
+p50
+aVDestroy target creature. It can't be regenerated. Its controller puts a 1/1 white Spirit creature token with flying onto the battlefield.
+p51
+aVAt the beginning of each upkeep, if no spells were cast last turn, transform Afflicted Deserter.
+p52
+asS'costs'
+p53
+(lp54
+V{2}{W}
+p55
+aV{2}{R}{R}
+p56
+aV{2}{B}
+p57
+aV{2}{W}
+p58
+aV{2}{W}
+p59
+aV{2}{R}{R}
+p60
+aV{2}{B}
+p61
+aV{2}{W}
+p62
+aV{1}{G}
+p63
+aV{2}{W}
+p64
+aV{3}{R}
+p65
+asS'names'
+p66
+(lp67
+VAfterlife
+p68
+aVAftershock
+p69
+aVAfflict
+p70
+aVAfterlife
+p71
+aVAfterlife
+p72
+aVAftershock
+p73
+aVAfflict
+p74
+aVAffa Guard Hound
+p75
+aVAfiya Grove
+p76
+aVAfterlife
+p77
+aVAfflicted Deserter
+p78
+asS'toughs'
+p79
+(lp80
+S'N/A'
+p81
+ag81
+ag81
+ag81
+ag81
+ag81
+ag81
+aV2
+p82
+ag81
+ag81
+ag82
+asS'artists'
+p83
+(lp84
+VBrian Snoddy
+p85
+aVHannibal King
+p86
+aVRoger Raupp
+p87
+aVBrian Snoddy
+p88
+aVBrian Snoddy
+p89
+aVHannibal King
+p90
+aVRoger Raupp
+p91
+aVRyan Pancoast
+p92
+aVStuart Griffin
+p93
+aVPete Venters
+p94
+aVDavid Palumbo
+p95
+asS'powers'
+p96
+(lp97
+g81
+ag81
+ag81
+ag81
+ag81
+ag81
+ag81
+ag82
+ag81
+ag81
+aV3
+p98
+asS'types'
+p99
+(lp100
+VInstant
+p101
+aVSorcery
+p102
+aVInstant
+p103
+aVInstant
+p104
+aVInstant
+p105
+aVSorcery
+p106
+aVInstant
+p107
+aVCreature - Hound
+p108
+aVEnchantment
+p109
+aVInstant
+p110
+aVCreature - Human Werewolf
+p111
+asS'numbers'
+p112
+(lp113
+g82
+aV137
+p114
+aV125
+p115
+aV1
+p116
+aV10
+p117
+aV149
+p118
+aV115
+p119
+aV14
+p120
+aV95
+p121
+aV164
+p122
+aV81
+p123
+as.

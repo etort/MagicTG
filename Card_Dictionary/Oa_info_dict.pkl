@@ -1,0 +1,399 @@
+(dp0
+S'rares'
+p1
+(lp2
+VUncommon
+p3
+aVCommon
+p4
+aVRare
+p5
+aVMythic Rare
+p6
+aVRare
+p7
+aVUncommon
+p8
+aVUncommon
+p9
+aVRare
+p10
+aVRare
+p11
+aVRare
+p12
+aVRare
+p13
+aVRare
+p14
+aVRare
+p15
+aVCommon
+p16
+aVCommon
+p17
+aVCommon
+p18
+aVCommon
+p19
+aVUncommon
+p20
+asS'editns'
+p21
+(lp22
+VFourth Edition
+p23
+aVMagic 2010
+p24
+aVMagic 2014 Core Set
+p25
+aVVintage Masters
+p26
+aVChampions of Kamigawa
+p27
+aVRavnica: City of Guilds
+p28
+aVReturn to Ravnica
+p29
+aVExodus
+p30
+aVExodus
+p31
+aVExodus
+p32
+aVExodus
+p33
+aVExodus
+p34
+aVIce Age
+p35
+aVJourney into Nyx
+p36
+aVMasters Edition IV
+p37
+aVLorwyn
+p38
+aVLorwyn
+p39
+aVArabian Nights
+p40
+asS'ids'
+p41
+(lp42
+V2388
+p43
+aV189922
+p44
+aV370763
+p45
+aV383035
+p46
+aV50484
+p47
+aV89012
+p48
+aV270362
+p49
+aV6048
+p50
+aV6072
+p51
+aV6098
+p52
+aV6124
+p53
+aV6151
+p54
+aV2480
+p55
+aV380464
+p56
+aV202521
+p57
+aV139494
+p58
+aV145988
+p59
+aV991
+p60
+asS'texts'
+p61
+(lp62
+VPlague Rats's power and toughness are each equal to the number of creatures named Plague Rats on the battlefield.
+p63
+aVAs Pithing Needle enters the battlefield, name a card.<br>Activated abilities of sources with the chosen name can't be activated unless they're mana abilities.
+p64
+aVPrevent all damage a source of your choice would deal this turn.
+p65
+aVWhenever Ophidian attacks and isn't blocked, you may draw a card. If you do, Ophidian assigns no combat damage this turn.
+p66
+aVTrample; shroud <i>(This permanent can't be the target of spells or abilities.)</i>
+p67
+aV{T}: Add {1} to your mana pool.<br>{2}{G}{W}, {T}: Put a 1/1 green Saproling creature token onto the battlefield.
+p68
+aVAll damage that would be dealt to you or another permanent you control is dealt to Palisade Giant instead.
+p69
+aVAt the beginning of each player's upkeep, that player chooses target player who controls more lands than he or she does and is his or her opponent. The first player may search his or her library for a basic land card, put that card onto the battlefield, then shuffle his or her library.
+p70
+aVAt the beginning of each player's upkeep, that player chooses target player who has more cards in hand than he or she does and is his or her opponent. The first player may discard his or her hand and draw three cards.
+p71
+aVAt the beginning of each player's upkeep, that player chooses target player whose graveyard has fewer creature cards in it than his or her graveyard does and is his or her opponent. The first player may return a creature card from his or her graveyard to his or her hand.
+p72
+aVAt the beginning of each player's upkeep, that player chooses target player who has more life than he or she does and is his or her opponent. The first player may have Oath of Mages deal 1 damage to the second player.
+p73
+aVAt the beginning of each player's upkeep, that player chooses target player who controls more creatures than he or she does and is his or her opponent. The first player may reveal cards from the top of his or her library until he or she reveals a creature card. If he or she does, that player puts that card onto the battlefield and all other cards revealed this way into his or her graveyard.
+p74
+aVWhenever you lose life, for each 1 life you lost, sacrifice a permanent other than Oath of Lim-Dûl unless you discard a card. <i>(Damage dealt to you causes you to lose life.)</i><br>{B}{B}: Draw a card.
+p75
+aVConstellation- Whenever Oakheart Dryads or another enchantment enters the battlefield under your control, target creature gets +1/+1 until end of turn.
+p76
+aVFlying<br>At the beginning of each end step, if a creature died this turn, put a carrion counter on Osai Vultures.<br>Remove two carrion counters from Osai Vultures: Osai Vultures gets +1/+1 until end of turn.
+p77
+aVVigilance, trample
+p78
+aVCounter target spell unless its controller pays {X}. Clash with an opponent. If you win, that spell's controller puts the top four cards of his or her library into his or her graveyard. <i>(Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)</i>
+p79
+aV{T}: Prevent the next 1 damage that would be dealt to target creature this turn.
+p80
+asS'costs'
+p81
+(lp82
+S'0'
+p83
+aV{G}
+p84
+aV{1}{G}
+p85
+aV{G}{G}
+p86
+aV{3}
+p87
+aV{4}{W}{W}
+p88
+aV{2}{U}{U}{R}{R}
+p89
+aV{1}{W}
+p90
+aV{3}{U}
+p91
+aV{1}{B}
+p92
+aV{1}{R}
+p93
+aV{1}{G}
+p94
+aV{3}{B}
+p95
+aV{1}{W}
+p96
+ag83
+aV{5}{G}{G}
+p97
+aV{2}{U}
+p98
+ag83
+asS'names'
+p99
+(lp100
+VOasis
+p101
+aVOakenform
+p102
+aVOath of the Ancient Wood
+p103
+aVOath of Druids
+p104
+aVOathkeeper, Takeno's Daisho
+p105
+aVOathsworn Giant
+p106
+aVOak Street Innkeeper
+p107
+aVOath of Lieges
+p108
+aVOath of Scholars
+p109
+aVOath of Ghouls
+p110
+aVOath of Mages
+p111
+aVOath of Druids
+p112
+aVOath of Lim-Dûl
+p113
+aVOakheart Dryads
+p114
+aVOasis
+p115
+aVOakgnarl Warrior
+p116
+aVOaken Brawler
+p117
+aVOasis
+p118
+asS'toughs'
+p119
+(lp120
+S'N/A'
+p121
+ag121
+ag121
+ag121
+ag121
+aV2
+p122
+aV5
+p123
+ag121
+ag121
+ag121
+ag121
+ag121
+ag121
+ag121
+ag121
+aV7
+p124
+aV3
+p125
+ag121
+asS'artists'
+p126
+(lp127
+VBrian Snoddy
+p128
+aVWayne Reynolds
+p129
+aVDan Scott
+p130
+aVDaren Bader
+p131
+aVArnie Swekel
+p132
+aVDaren Bader
+p133
+aVSvetlin Velinov
+p134
+aVMark Zug
+p135
+aVMichael Sutfin
+p136
+aVBrom
+p137
+aVKeith Parkinson
+p138
+aVDaren Bader
+p139
+aVDouglas Shuler
+p140
+aVJohann Bodin
+p141
+aVBrian Snoddy
+p142
+aVJim Nelson
+p143
+aVJim Murray
+p144
+aVBrian Snoddy
+p145
+asS'powers'
+p146
+(lp147
+g121
+ag121
+ag121
+ag121
+ag121
+ag125
+aV1
+p148
+ag121
+ag121
+ag121
+ag121
+ag121
+ag121
+ag121
+ag121
+ag123
+ag122
+ag121
+asS'types'
+p149
+(lp150
+VLand
+p151
+aVEnchantment - Aura
+p152
+aVEnchantment
+p153
+aVEnchantment
+p154
+aVLegendary Artifact - Equipment
+p155
+aVCreature - Giant Soldier
+p156
+aVCreature - Elf
+p157
+aVEnchantment
+p158
+aVEnchantment
+p159
+aVEnchantment
+p160
+aVEnchantment
+p161
+aVEnchantment
+p162
+aVEnchantment
+p163
+aVEnchantment Creature - Nymph Dryad
+p164
+aVLand
+p165
+aVCreature - Treefolk Warrior
+p166
+aVCreature - Treefolk Warrior
+p167
+aVLand
+p168
+asS'numbers'
+p169
+(lp170
+V283
+p171
+aV197
+p172
+aV187
+p173
+aV223
+p174
+aV265
+p175
+aV27
+p176
+aV131
+p177
+aV11
+p178
+aV42
+p179
+aV69
+p180
+aV90
+p181
+aV115
+p182
+aV60
+p183
+aV133
+p184
+aV248
+p185
+aV232
+p186
+aV33
+p187
+aV39
+p188
+as.

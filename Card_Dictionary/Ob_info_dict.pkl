@@ -1,0 +1,1155 @@
+(dp0
+S'rares'
+p1
+(lp2
+VRare
+p3
+aVCommon
+p4
+aVRare
+p5
+aVUncommon
+p6
+aVUncommon
+p7
+aVRare
+p8
+aVUncommon
+p9
+aVCommon
+p10
+aVUncommon
+p11
+aVUncommon
+p12
+aVUncommon
+p13
+aVCommon
+p14
+aVRare
+p15
+aVCommon
+p16
+aVCommon
+p17
+aVUncommon
+p18
+aVUncommon
+p19
+aVRare
+p20
+aVRare
+p21
+aVCommon
+p22
+aVCommon
+p23
+aVCommon
+p24
+aVRare
+p25
+aVMythic Rare
+p26
+aVUncommon
+p27
+aVCommon
+p28
+aVMythic Rare
+p29
+aVMythic Rare
+p30
+aVUncommon
+p31
+aVRare
+p32
+aVCommon
+p33
+aVCommon
+p34
+aVCommon
+p35
+aVCommon
+p36
+aVCommon
+p37
+aVCommon
+p38
+aVRare
+p39
+aVRare
+p40
+aVCommon
+p41
+aVUncommon
+p42
+aVCommon
+p43
+aVUncommon
+p44
+aVCommon
+p45
+aVRare
+p46
+aVRare
+p47
+aVCommon
+p48
+aVRare
+p49
+aVRare
+p50
+aVCommon
+p51
+aVCommon
+p52
+aVUncommon
+p53
+aVRare
+p54
+aVCommon
+p55
+aVRare
+p56
+aVCommon
+p57
+aVRare
+p58
+asS'editns'
+p59
+(lp60
+VMagic: The Gathering-Commander
+p61
+aVMagic: The Gathering-Commander
+p62
+aVMagic: The Gathering-Commander
+p63
+aVMagic 2012
+p64
+aVLimited Edition Beta
+p65
+aVSaviors of Kamigawa
+p66
+aVSaviors of Kamigawa
+p67
+aVSaviors of Kamigawa
+p68
+aVMorningtide
+p69
+aVMagic 2013
+p70
+aVFourth Edition
+p71
+aVDuel Decks: Ajani vs. Nicol Bolas
+p72
+aVAntiquities
+p73
+aVDuel Decks: Knights vs. Dragons
+p74
+aVVintage Masters
+p75
+aVStarter 2000
+p76
+aVRevised Edition
+p77
+aVConflux
+p78
+aVOnslaught
+p79
+aVCommander 2013 Edition
+p80
+aVCommander 2013 Edition
+p81
+aVCommander 2013 Edition
+p82
+aVOdyssey
+p83
+aVGatecrash
+p84
+aVUnlimited Edition
+p85
+aVTorment
+p86
+aVZendikar
+p87
+aVZendikar
+p88
+aVClassic Sixth Edition
+p89
+aVMirrodin
+p90
+aVShards of Alara
+p91
+aVShards of Alara
+p92
+aVShards of Alara
+p93
+aVShards of Alara
+p94
+aVShards of Alara
+p95
+aVShards of Alara
+p96
+aVMagic 2015 Core Set
+p97
+aVMagic 2015 Core Set
+p98
+aVFuture Sight
+p99
+aVPortal Second Age
+p100
+aVPlanechase
+p101
+aVDuel Decks: Venser vs. Koth
+p102
+aVTheros
+p103
+aVEighth Edition
+p104
+aVChronicles
+p105
+aVInvasion
+p106
+aVInvasion
+p107
+aVFifth Edition
+p108
+aVArchenemy
+p109
+aVArchenemy
+p110
+aVLimited Edition Alpha
+p111
+aVMasters Edition IV
+p112
+aVMasters Edition IV
+p113
+aVDragon's Maze
+p114
+aVLorwyn
+p115
+aVMagic 2011
+p116
+asS'ids'
+p117
+(lp118
+V247350
+p119
+aV247156
+p120
+aV247338
+p121
+aV234567
+p122
+aV333
+p123
+aV74206
+p124
+aV74211
+p125
+aV88784
+p126
+aV154164
+p127
+aV259711
+p128
+aV2062
+p129
+aV259279
+p130
+aV1014
+p131
+aV243451
+p132
+aV383036
+p133
+aV25528
+p134
+aV1129
+p135
+aV183018
+p136
+aV39933
+p137
+aV376433
+p138
+aV376434
+p139
+aV376435
+p140
+aV29968
+p141
+aV366246
+p142
+aV635
+p143
+aV29721
+p144
+aV192219
+p145
+aV192224
+p146
+aV15401
+p147
+aV34901
+p148
+aV174887
+p149
+aV174892
+p150
+aV174906
+p151
+aV174909
+p152
+aV175061
+p153
+aV175102
+p154
+aV383330
+p155
+aV383331
+p156
+aV132219
+p157
+aV6599
+p158
+aV205396
+p159
+aV270848
+p160
+aV373733
+p161
+aV45396
+p162
+aV2788
+p163
+aV22935
+p164
+aV23098
+p165
+aV3804
+p166
+aV220461
+p167
+aV220586
+p168
+aV38
+p169
+aV202603
+p170
+aV202624
+p171
+aV369002
+p172
+aV139414
+p173
+aV205075
+p174
+asS'texts'
+p175
+(lp176
+VThe owner of target nonland permanent shuffles it into his or her library, then draws two cards.
+p177
+aVWhen Oblivion Ring enters the battlefield, exile another target nonland permanent.<br>When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+p178
+aV{4}, {T}: Put a fate counter on target permanent.<br>{5}, {T}, Sacrifice Oblivion Stone: Destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents.
+p179
+aVDuring your turn, prevent all damage that would be dealt to you.
+p180
+aVEnchant enchantment<br>At the beginning of the upkeep of enchanted enchantment's controller, that player may pay any amount of mana. Power Leak deals 2 damage to that player. Prevent X of that damage, where X is the amount of mana that player paid this way.
+p181
+aV{T}: Add {U} to your mana pool.<br>{1}: Return Oboro, Palace in the Clouds to its owner's hand.
+p182
+aVFlying<br>{2}, Return a land you control to its owner's hand: Target creature gets -X/-0 until end of turn, where X is the number of cards in your hand.
+p183
+aVFlying<br>{2}, Return a land you control to its owner's hand: Untap target land.
+p184
+aVTarget player discards X cards at random.
+p185
+aVWhen Oblivion Ring enters the battlefield, exile another target nonland permanent.<br>When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+p186
+aVW
+p187
+aV{T}: Add {U}, {B}, or {R} to your mana pool.
+p188
+aV{6}, {T}: Return target permanent you both own and control to your hand.
+p189
+aVWhen Oblivion Ring enters the battlefield, exile another target nonland permanent.<br>When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+p190
+aV{T}, Sacrifice a Forest: Add three mana in any combination of {R} and/or {G} to your mana pool.
+p191
+aVFlying
+p192
+aV{2}: Rocket Launcher deals 1 damage to target creature or player. Destroy Rocket Launcher at the beginning of the next end step. Activate this ability only if you've controlled Rocket Launcher continuously since the beginning of your most recent turn.
+p193
+aVFirst strike<br>{W}{U}{B}{R}{G}: Until end of turn, Paragon of the Amesha becomes an Angel, gets +3/+3, and gains flying and lifelink.
+p194
+aVThe owner of target nonland permanent shuffles it into his or her library, then draws two cards.
+p195
+aV{T}: Add {W}, {U}, or {B} to your mana pool.
+p196
+aV{T}: Add {U}, {B}, or {R} to your mana pool.
+p197
+aV{T}: Add {B}, {R}, or {G} to your mana pool.
+p198
+aVFlying<br>Whenever a creature dealt damage by Vampiric Dragon this turn dies, put a +1/+1 counter on Vampiric Dragon.<br>{1}{R}: Vampiric Dragon deals 1 damage to target creature.
+p199
+aVWhenever another nontoken creature dies, you may put a 1/1 black Rat creature token onto the battlefield.<br>Rats you control have deathtouch.
+p200
+aVCounter target spell unless its controller pays {X}. If he or she doesn't, that player taps all lands with mana abilities he or she controls and empties his or her mana pool.
+p201
+aVDraw a card.<br>Madness {U} <i>(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)</i>
+p202
+aV{1}{R}{R}: Put a blaze counter on target land without a blaze counter on it. For as long as that land has a blaze counter on it, it has "At the beginning of your upkeep, this land deals 1 damage to you." <i>(The land continues to burn after Obsidian Fireheart has left the battlefield.)</i>
+p203
+aVWhenever Ondu Cleric or another Ally enters the battlefield under your control, you may gain life equal to the number of Allies you control.
+p204
+ag187
+aV{4}, {T}: Put a fate counter on target permanent.<br>{5}, {T}, Sacrifice Oblivion Stone: Destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents.
+p205
+aVDestroy target artifact or land.<br>Cycling {2} <i>({2}, Discard this card: Draw a card.)</i>
+p206
+aV{1}{B}, {T}, Sacrifice Executioner's Capsule: Destroy target nonblack creature.
+p207
+aV+1: Untap up to two target artifacts.<br>-X: Search your library for an artifact card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library.<br>-5: Artifacts you control become 5/5 artifact creatures until end of turn.
+p208
+aVReveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost. You may repeat this process any number of times.
+p209
+aVDevour 1 <i>(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)</i><br>When Caldera Hellion enters the battlefield, it deals 3 damage to each creature.
+p210
+aVWhenever a permanent an opponent controls is put into a graveyard, put that card onto the battlefield under your control unless that opponent pays 3 life.
+p211
+aVConvoke <i>(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)</i><br>Creatures you control get +3/+3 until end of turn.
+p212
+aVOther green creatures you control get +1/+1.<br>{G}, {T}: Another target green creature you control gains trample until end of turn. <i>(If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</i>
+p213
+aV{2}{B}, {T}: Destroy target creature that was dealt damage this turn.
+p214
+aVWhenever Norwood Warrior becomes blocked, it gets +1/+1 until end of turn.
+p215
+aVWhen Oblivion Ring enters the battlefield, exile another target nonland permanent.<br>When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+p216
+aVWhen Oblivion Ring enters the battlefield, exile another target nonland permanent.<br>When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+p217
+aVEnchant creature<br>Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Heliod.<br>When you sacrifice Ordeal of Heliod, you gain 10 life.
+p218
+aVForestwalk <i>(This creature is unblockable as long as defending player controls a Forest.)</i>
+p219
+aVVigilance<br>Rabid Wombat gets +2/+2 for each Aura attached to it.
+p220
+aVProtection from black<br>{W}: Target creature gains protection from black until end of turn.
+p221
+aVObliterate can't be countered.<br>Destroy all artifacts, creatures, and lands. They can't be regenerated.
+p222
+aV{6}, {T}: Return target permanent you both own and control to your hand.
+p223
+aV{T}: Add {W}, {U}, or {B} to your mana pool.
+p224
+aVWhen Oblivion Ring enters the battlefield, exile another target nonland permanent.<br>When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+p225
+aVThe next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way.
+p226
+aVDestroy all creatures target opponent controls. Draw a card for each creature destroyed this way.
+p227
+aVFlying<br>When Owl Familiar enters the battlefield, draw a card, then discard a card.
+p228
+aV{T}: Add {W} or {B} to your mana pool.<br>{W}{B}, {T}, Sacrifice Orzhov Cluestone: Draw a card.
+p229
+aVWhen Oblivion Ring enters the battlefield, exile another target nonland permanent.<br>When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+p230
+ag187
+asS'costs'
+p231
+(lp232
+V{3}{R}{W}{U}
+p233
+aV{2}{W}
+p234
+aV{2}{W}
+p235
+aV{2}{B}
+p236
+aV{6}
+p237
+aS'0'
+p238
+aV{3}{U}
+p239
+aV{1}{U}
+p240
+aV{3}
+p241
+aV{1}{W}
+p242
+aV{6}
+p243
+aV{4}{U}{B}{B}{R}
+p244
+aV{1}
+p245
+aV{2}{W}
+p246
+aV{2}
+p247
+aV{6}
+p248
+aV{6}
+p249
+aV{1}{B}{B}
+p250
+aV{2}{W}
+p251
+aV{3}
+p252
+aV{3}
+p253
+aV{3}
+p254
+aV{R}
+p255
+aV{U/B}{U/B}{U/B}
+p256
+aV{6}
+p257
+aV{U}
+p258
+aV{G}{G}
+p259
+aV{2}{W}
+p260
+aV{6}
+p261
+aV{3}
+p262
+aV{6}{U}{U}
+p263
+aV{4}{R}
+p264
+aV{1}{G}
+p265
+aV{1}{G}
+p266
+aV{1}{U}
+p267
+aV{3}{R}
+p268
+aV{2}{G}
+p269
+aV{4}{B}
+p270
+aV{1}{B}
+p271
+aV{4}{R}
+p272
+aV{2}{W}
+p273
+aV{2}
+p274
+aV{3}{G}
+p275
+aV{6}{R}{R}
+p276
+aV{1}
+p277
+aV{1}{W}
+p278
+aV{6}{R}{R}
+p279
+aV{1}
+p280
+aV{3}
+p281
+aV{2}{W}
+p282
+aV{6}
+p283
+aV{1}
+p284
+aV{6}
+p285
+aV{3}{W}{B}
+p286
+aV{2}{W}
+p287
+aV{1}{G}
+p288
+asS'names'
+p289
+(lp290
+VOblation
+p291
+aVOblivion Ring
+p292
+aVOblivion Stone
+p293
+aVOblivion Ring
+p294
+aVObsianus Golem
+p295
+aVOboro, Palace in the Clouds
+p296
+aVOboro Envoy
+p297
+aVOboro Breezecaller
+p298
+aVObsidian Battle-Axe
+p299
+aVOblivion Ring
+p300
+aVObsianus Golem
+p301
+aVObelisk of Grixis
+p302
+aVObelisk of Undoing
+p303
+aVOblivion Ring
+p304
+aVObsessive Search
+p305
+aVObsianus Golem
+p306
+aVObsianus Golem
+p307
+aVObelisk of Alara
+p308
+aVOblation
+p309
+aVObelisk of Esper
+p310
+aVObelisk of Grixis
+p311
+aVObelisk of Jund
+p312
+aVObstinate Familiar
+p313
+aVObzedat, Ghost Council
+p314
+aVObsianus Golem
+p315
+aVObsessive Search
+p316
+aVOb Nixilis, the Fallen
+p317
+aVObsidian Fireheart
+p318
+aVObsianus Golem
+p319
+aVOblivion Stone
+p320
+aVObelisk of Grixis
+p321
+aVObelisk of Jund
+p322
+aVObelisk of Esper
+p323
+aVOblivion Ring
+p324
+aVObelisk of Naya
+p325
+aVObelisk of Bant
+p326
+aVOb Nixilis, Unshackled
+p327
+aVObelisk of Urd
+p328
+aVOblivion Crown
+p329
+aVObsidian Giant
+p330
+aVOblivion Ring
+p331
+aVOblivion Ring
+p332
+aVObservant Alseid
+p333
+aVObliterate
+p334
+aVObelisk of Undoing
+p335
+aVObsidian Acolyte
+p336
+aVObliterate
+p337
+aVObelisk of Undoing
+p338
+aVObelisk of Esper
+p339
+aVOblivion Ring
+p340
+aVObsianus Golem
+p341
+aVObelisk of Undoing
+p342
+aVObsianus Golem
+p343
+aVObzedat's Aid
+p344
+aVOblivion Ring
+p345
+aVObstinate Baloth
+p346
+asS'toughs'
+p347
+(lp348
+S'N/A'
+p349
+ag349
+ag349
+ag349
+ag349
+ag349
+aV3
+p350
+ag350
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+aV6
+p351
+aV1
+p352
+ag349
+ag349
+aV2
+p353
+ag350
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag350
+ag349
+ag349
+aV4
+p354
+ag349
+ag349
+ag349
+ag349
+ag349
+ag352
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag350
+asS'artists'
+p355
+(lp356
+VDoug Chaffee
+p357
+aVFranz Vohwinkel
+p358
+aVSam Wood
+p359
+aS''
+p360
+aVJesper Myrfors
+p361
+aVRob Alexander
+p362
+aVRob Alexander
+p363
+aVRebecca Guay
+p364
+aVJeff Easley
+p365
+aVFranz Vohwinkel
+p366
+aVJesper Myrfors
+p367
+aVNils Hamm
+p368
+aVTom Wänerstrand
+p369
+aVChuck Lukacs
+p370
+aVJim Nelson
+p371
+aVJesper Myrfors
+p372
+aVJesper Myrfors
+p373
+aVJeremy Jarvis
+p374
+aVDoug Chaffee
+p375
+aVFrancis Tsai
+p376
+aVNils Hamm
+p377
+aVBrandon Kitkouski
+p378
+aVTerese Nielsen
+p379
+aVSvetlin Velinov
+p380
+aVJesper Myrfors
+p381
+aVJim Nelson
+p382
+aVJason Felix
+p383
+aVRaymond Swanland
+p384
+aVJesper Myrfors
+p385
+aVSam Wood
+p386
+aVNils Hamm
+p387
+aVBrandon Kitkouski
+p388
+aVFrancis Tsai
+p389
+aVFranz Vohwinkel
+p390
+aVSteve Prescott
+p391
+aVDavid Palumbo
+p392
+aVKarl Kopinski
+p393
+aVJohn Severin Brassell
+p394
+aVKev Walker
+p395
+aVDavid A. Cherry
+p396
+aVFranz Vohwinkel
+p397
+ag360
+aVTodd Lockwood
+p398
+aVKev Walker
+p399
+aVTom Wänerstrand
+p400
+aVMatthew D. Wilson
+p401
+aVKev Walker
+p402
+aVTom Wänerstrand
+p403
+aVFrancis Tsai
+p404
+aVFranz Vohwinkel
+p405
+aVJesper Myrfors
+p406
+aVTom Wänerstrand
+p407
+aVJesper Myrfors
+p408
+aVDan Scott
+p409
+aVWayne England
+p410
+aVChris Rahn
+p411
+asS'powers'
+p412
+(lp413
+g349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag352
+ag350
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag351
+ag353
+ag349
+ag349
+ag352
+ag350
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag354
+ag349
+ag349
+ag354
+ag349
+ag349
+ag349
+ag349
+ag349
+ag352
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag349
+ag354
+asS'types'
+p414
+(lp415
+VInstant
+p416
+aVEnchantment
+p417
+aVArtifact
+p418
+aVEnchantment
+p419
+aVArtifact Creature - Golem
+p420
+aVLegendary Land
+p421
+aVCreature - Moonfolk Wizard
+p422
+aVCreature - Moonfolk Wizard
+p423
+aVTribal Artifact - Warrior Equipment
+p424
+aVEnchantment
+p425
+aVArtifact Creature - Golem
+p426
+aVArtifact
+p427
+aVArtifact
+p428
+aVEnchantment
+p429
+aVInstant
+p430
+aVArtifact Creature - Golem
+p431
+aVArtifact Creature - Golem
+p432
+aVArtifact
+p433
+aVInstant
+p434
+aVArtifact
+p435
+aVArtifact
+p436
+aVArtifact
+p437
+aVCreature - Lizard
+p438
+aVLegendary Creature - Spirit Advisor
+p439
+aVArtifact Creature - Golem
+p440
+aVInstant
+p441
+aVLegendary Creature - Demon
+p442
+aVCreature - Elemental
+p443
+aVArtifact Creature - Golem
+p444
+aVArtifact
+p445
+aVArtifact
+p446
+aVArtifact
+p447
+aVArtifact
+p448
+aVEnchantment
+p449
+aVArtifact
+p450
+aVArtifact
+p451
+aVLegendary Creature - Demon
+p452
+aVArtifact
+p453
+aVEnchantment - Aura
+p454
+aVCreature - Giant
+p455
+aVEnchantment
+p456
+aVEnchantment
+p457
+aVEnchantment Creature - Nymph
+p458
+aVSorcery
+p459
+aVArtifact
+p460
+aVCreature - Human Cleric
+p461
+aVSorcery
+p462
+aVArtifact
+p463
+aVArtifact
+p464
+aVEnchantment
+p465
+aVArtifact Creature - Golem
+p466
+aVArtifact
+p467
+aVArtifact Creature - Golem
+p468
+aVSorcery
+p469
+aVEnchantment
+p470
+aVCreature - Beast
+p471
+asS'numbers'
+p472
+(lp473
+V22
+p474
+aV23
+p475
+aV254
+p476
+aV27
+p477
+aV188
+p478
+aV164
+p479
+aV49
+p480
+aV48
+p481
+aV144
+p482
+aV22
+p483
+aV284
+p484
+aV60
+p485
+aV67
+p486
+aV34
+p487
+aV83
+p488
+aV32
+p489
+aV11
+p490
+aV140
+p491
+aV46
+p492
+aV250
+p493
+aV251
+p494
+aV252
+p495
+aV210
+p496
+aV182
+p497
+aV190
+p498
+aV43
+p499
+aV107
+p500
+aV140
+p501
+aV302
+p502
+aV222
+p503
+aV214
+p504
+aV215
+p505
+aV213
+p506
+aV20
+p507
+aV216
+p508
+aV212
+p509
+aV110
+p510
+aV222
+p511
+aV73
+p512
+aV62
+p513
+ag354
+ag360
+aV24
+p514
+aV204
+p515
+aV90
+p516
+aV22
+p517
+aV156
+p518
+aV16
+p519
+aV113
+p520
+ag350
+aV216
+p521
+aV217
+p522
+aV218
+p523
+aV89
+p524
+aV34
+p525
+aV188
+p526
+as.
