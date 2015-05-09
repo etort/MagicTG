@@ -8,6 +8,7 @@ import time
 
 random2 = random2.Random2()
 
+
 class Card(object):
     def __init__(self, params):  # [name, type, id, cost, power, toughness, text, location]
         self.tapped         = False     # False if untapped
@@ -179,42 +180,38 @@ class God(object):
         self.stack.cards.append(card)
         self.player[p].location['stack'].cards.append(card)
         self.player[p].location['hand'].remove_card(index)
-        self.done = False
 
-    def execute_phase(self):
-        if self.phase == 0:
-            self.beginning_phase()
-        if self.phase == 1:
-            self.main_phase()
-        if self.phase == 2:
-            self.combat_phase()
-        if self.phase == 3:
-            self.main_phase()
-        if self.phase == 4:
-            self.end_phase()
-        self.phase = (self.phase + 1) % 5
-        if self.phase == 0:
-            self.turn = self.turn + 0.5
-            self.who = self.turn%1*2
+#    def execute_phase(self):
+#        self.done = False
+#        if self.phase == 0:
+#            self.beginning_phase()
+#        if self.phase == 1:
+#            self.main_phase()
+#        if self.phase == 2:
+#            self.combat_phase()
+#        if self.phase == 3:
+#            self.main_phase()
+#        if self.phase == 4:
+#            self.end_phase()
+#        self.phase = (self.phase + 1) % 5
+#        if self.phase == 0:
+#            self.turn = self.turn + 0.5
+#            self.who = (self.turn % 1)*2  # since self.turn is int for player[0] or half int for player [1]
 
-    def beginning_phase(self):
-        self.done = False
-        self.player[self.who].location['battlefield'].reset_field()  # untap step
-        self.upkeep()  # upkeep step
-        self.player[self.who].draw_card()  # draw step
+#    def beginning_phase(self):
+#        self.player[self.who].location['battlefield'].reset_field()  # untap step
+#        self.upkeep()  # upkeep step
+#        self.player[self.who].draw_card()  # draw step
 
-    def upkeep(self):
-        while not self.done:
-            self.clock.tick(30)
-            for event in pygame.event.get():
+#    def upkeep(self):
+#        while not self.done:
+#            self.clock.tick(30)
+#            for event in pygame.event.get():
 
-
-    def main_phase(self):
-        self.done = False
-        while not self.done:
-            time.sleep(1./30)
-
-    def
+#    def main_phase(self):
+#        self.done = False
+#        while not self.done:
+#            time.sleep(1./30)
 
 
 class Screen(object):
