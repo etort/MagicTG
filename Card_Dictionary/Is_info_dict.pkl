@@ -1,2042 +1,2272 @@
 (dp0
-S'rares'
+S'toughs'
 p1
 (lp2
-VLand
+S'N/A'
 p3
-aVLand
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+aV5
 p4
-aVLand
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+aV1
 p5
-aVLand
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+aV2
 p6
-aVLand
+ag3
+ag3
+ag3
+ag3
+ag5
+ag5
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+aV4
 p7
-aVLand
+aV3
 p8
-aVLand
-p9
-aVLand
-p10
-aVLand
-p11
-aVLand
-p12
-aVLand
-p13
-aVRare
-p14
-aVLand
-p15
-aVLand
-p16
-aVLand
-p17
-aVLand
-p18
-aVLand
-p19
-aVLand
-p20
-aVLand
-p21
-aVLand
-p22
-aVLand
-p23
-aVLand
-p24
-aVLand
-p25
-aVLand
-p26
-aVRare
-p27
-aVRare
-p28
-aVLand
-p29
-aVLand
-p30
-aVLand
-p31
-aVLand
-p32
-aVLand
-p33
-aVLand
-p34
-aVLand
-p35
-aVLand
-p36
-aVLand
-p37
-aVLand
-p38
-aVLand
-p39
-aVLand
-p40
-aVLand
-p41
-aVLand
-p42
-aVLand
-p43
-aVLand
-p44
-aVLand
-p45
-aVLand
-p46
-aVLand
-p47
-aVLand
-p48
-aVLand
-p49
-aVLand
-p50
-aVLand
-p51
-aVLand
-p52
-aVLand
-p53
-aVLand
-p54
-aVLand
-p55
-aVLand
-p56
-aVLand
-p57
-aVRare
-p58
-aVLand
-p59
-aVLand
-p60
-aVLand
-p61
-aVRare
-p62
-aVLand
-p63
-aVLand
-p64
-aVLand
-p65
-aVLand
-p66
-aVLand
-p67
-aVLand
-p68
-aVLand
-p69
-aVLand
-p70
-aVLand
-p71
-aVLand
-p72
-aVLand
-p73
-aVLand
-p74
-aVLand
-p75
-aVLand
-p76
-aVLand
-p77
-aVLand
-p78
-aVRare
-p79
-aVLand
-p80
-aVLand
-p81
-aVLand
-p82
-aVLand
-p83
-aVRare
-p84
-aVRare
-p85
-aVRare
-p86
-aVLand
-p87
-aVLand
-p88
-aVLand
-p89
-aVLand
-p90
-aVLand
-p91
-aVLand
-p92
-aVLand
-p93
-aVLand
-p94
-aVLand
-p95
-aVLand
-p96
-aVLand
-p97
-aVLand
-p98
-aVLand
-p99
-aVLand
-p100
-aVMythic Rare
-p101
-aVCommon
-p102
-aVLand
-p103
-aVLand
-p104
-aVLand
-p105
-aVLand
-p106
-aVMythic Rare
-p107
-aVLand
-p108
-aVLand
-p109
-aVLand
-p110
-aVRare
-p111
-aVLand
-p112
-aVLand
-p113
-aVLand
-p114
-aVLand
-p115
-aVLand
-p116
-aVLand
-p117
-aVLand
-p118
-aVLand
-p119
-aVLand
-p120
-aVLand
-p121
-aVLand
-p122
-aVLand
-p123
-aVLand
-p124
-aVLand
-p125
-aVLand
-p126
-aVUncommon
-p127
-aVLand
-p128
-aVLand
-p129
-aVLand
-p130
-aVLand
-p131
-aVLand
-p132
-aVLand
-p133
-aVLand
-p134
-aVLand
-p135
-aVLand
-p136
-aVLand
-p137
-aVLand
-p138
-aVLand
-p139
-aVLand
-p140
-aVLand
-p141
-aVLand
-p142
-aVLand
-p143
-aVLand
-p144
-aVLand
-p145
-aVLand
-p146
-aVLand
-p147
-aVLand
-p148
-aVRare
-p149
-aVLand
-p150
-aVLand
-p151
-aVLand
-p152
-aVLand
-p153
-aVLand
-p154
-aVUncommon
-p155
-aVLand
-p156
-aVLand
-p157
-aVLand
-p158
-aVLand
-p159
-aVLand
-p160
-aVLand
-p161
-aVLand
-p162
-aVLand
-p163
-aVCommon
-p164
-aVLand
-p165
-aVLand
-p166
-aVLand
-p167
-aVLand
-p168
-aVLand
-p169
-aVLand
-p170
-aVLand
-p171
-aVLand
-p172
-aVLand
-p173
-aVLand
-p174
-aVLand
-p175
-aVLand
-p176
-aVLand
-p177
-aVLand
-p178
-aVRare
-p179
-aVLand
-p180
-aVLand
-p181
-aVLand
-p182
-aVLand
-p183
-aVLand
-p184
-aVLand
-p185
-aVLand
-p186
-aVLand
-p187
-aVLand
-p188
-aVRare
-p189
-aVLand
-p190
-aVLand
-p191
-aVLand
-p192
-aVLand
-p193
-aVLand
-p194
-aVLand
-p195
-aVLand
-p196
-aVLand
-p197
-aVLand
-p198
-aVLand
-p199
-aVLand
-p200
-aVLand
-p201
-aVLand
-p202
-aVLand
-p203
-aVRare
-p204
-aVLand
-p205
-aVLand
-p206
-aVLand
-p207
-aVRare
-p208
-aVLand
-p209
-aVLand
-p210
-aVLand
-p211
-aVLand
-p212
-aVRare
-p213
-aVRare
-p214
-aVLand
-p215
-aVUncommon
-p216
-aVLand
-p217
-aVLand
-p218
-aVLand
-p219
-aVLand
-p220
-aVLand
-p221
-aVLand
-p222
-aVLand
-p223
-aVRare
-p224
-aVRare
-p225
-aVLand
-p226
-aVLand
-p227
-aVLand
-p228
-aVLand
-p229
-aVLand
-p230
-aVLand
-p231
-aVLand
-p232
-aVLand
-p233
-aVLand
-p234
-aVLand
-p235
-aVLand
-p236
-aVLand
-p237
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag8
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag7
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag6
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
 asS'editns'
-p238
-(lp239
+p9
+(lp10
 VMagic: The Gathering-Commander
-p240
+p11
 aVMagic: The Gathering-Commander
-p241
+p12
 aVMagic: The Gathering-Commander
-p242
+p13
 aVMagic: The Gathering-Commander
-p243
+p14
 aVMagic 2012
-p244
+p15
 aVMagic 2012
-p245
+p16
 aVMagic 2012
-p246
+p17
 aVMagic 2012
-p247
+p18
 aVLimited Edition Beta
-p248
+p19
 aVLimited Edition Beta
-p249
+p20
 aVLimited Edition Beta
-p250
+p21
 aVLimited Edition Beta
-p251
+p22
 aVBattle Royale Box Set
-p252
+p23
 aVBattle Royale Box Set
-p253
+p24
 aVBattle Royale Box Set
-p254
+p25
 aVBattle Royale Box Set
-p255
+p26
 aVBattle Royale Box Set
-p256
+p27
 aVMagic 2013
-p257
+p28
 aVMagic 2013
-p258
+p29
 aVMagic 2013
-p259
+p30
 aVMagic 2013
-p260
+p31
 aVFourth Edition
-p261
+p32
 aVFourth Edition
-p262
+p33
 aVFourth Edition
-p263
+p34
 aVFourth Edition
-p264
+p35
 aVFourth Edition
-p265
+p36
 aVDuel Decks: Ajani vs. Nicol Bolas
-p266
+p37
 aVScars of Mirrodin
-p267
+p38
 aVScars of Mirrodin
-p268
+p39
 aVScars of Mirrodin
-p269
+p40
 aVScars of Mirrodin
-p270
+p41
 aVMagic 2010
-p271
+p42
 aVMagic 2010
-p272
+p43
 aVMagic 2010
-p273
+p44
 aVMagic 2010
-p274
+p45
 aVMagic 2014 Core Set
-p275
+p46
 aVTempest
-p276
+p47
 aVTempest
-p277
+p48
 aVTempest
-p278
+p49
 aVTempest
-p279
+p50
 aVTenth Edition
-p280
+p51
 aVTenth Edition
-p281
+p52
 aVTenth Edition
-p282
+p53
 aVTenth Edition
-p283
+p54
 aVMercadian Masques
-p284
+p55
 aVMercadian Masques
-p285
+p56
 aVMercadian Masques
-p286
+p57
 aVMercadian Masques
-p287
+p58
 aVMirrodin Besieged
-p288
+p59
 aVMirrodin Besieged
-p289
+p60
 aVStarter 2000
-p290
+p61
 aVStarter 2000
-p291
+p62
 aVMasters Edition III
-p292
+p63
 aVMasters Edition III
-p293
+p64
 aVMasters Edition III
-p294
+p65
 aVRevised Edition
-p295
+p66
 aVRevised Edition
-p296
+p67
 aVRevised Edition
-p297
+p68
 aVRevised Edition
-p298
+p69
 aVRevised Edition
-p299
+p70
 aVNinth Edition
-p300
+p71
 aVNinth Edition
-p301
+p72
 aVNinth Edition
-p302
+p73
 aVNinth Edition
-p303
+p74
 aVAvacyn Restored
-p304
+p75
 aVAvacyn Restored
-p305
+p76
 aVAvacyn Restored
-p306
+p77
 aVPlanechase 2012 Edition
-p307
+p78
 aVPlanechase 2012 Edition
-p308
+p79
 aVPlanechase 2012 Edition
-p309
+p80
 aVPlanechase 2012 Edition
-p310
+p81
 aVPlanechase 2012 Edition
-p311
+p82
 aVOnslaught
-p312
+p83
 aVOnslaught
-p313
+p84
 aVOnslaught
-p314
+p85
 aVOnslaught
-p315
+p86
 aVChampions of Kamigawa
-p316
+p87
 aVChampions of Kamigawa
-p317
+p88
 aVChampions of Kamigawa
-p318
+p89
 aVChampions of Kamigawa
-p319
+p90
 aVChampions of Kamigawa
-p320
+p91
 aVBetrayers of Kamigawa
-p321
+p92
 aVBetrayers of Kamigawa
-p322
+p93
 aVModern Event Deck 2014
-p323
+p94
 aVRavnica: City of Guilds
-p324
+p95
 aVRavnica: City of Guilds
-p325
+p96
 aVRavnica: City of Guilds
-p326
+p97
 aVRavnica: City of Guilds
-p327
+p98
 aVCommander 2013 Edition
-p328
+p99
 aVOdyssey
-p329
+p100
 aVOdyssey
-p330
+p101
 aVOdyssey
-p331
+p102
 aVOdyssey
-p332
+p103
 aVTime Spiral
-p333
+p104
 aVTime Spiral
-p334
+p105
 aVTime Spiral
-p335
+p106
 aVTime Spiral
-p336
+p107
 aVReturn to Ravnica
-p337
+p108
 aVReturn to Ravnica
-p338
+p109
 aVReturn to Ravnica
-p339
+p110
 aVReturn to Ravnica
-p340
+p111
 aVReturn to Ravnica
-p341
+p112
 aVReturn to Ravnica
-p342
+p113
 aVReturn to Ravnica
-p343
+p114
 aVFrom the Vault: Relics
-p344
+p115
 aVUnlimited Edition
-p345
+p116
 aVUnlimited Edition
-p346
+p117
 aVUnlimited Edition
-p347
+p118
 aVUnlimited Edition
-p348
+p119
 aVIce Age
-p349
+p120
 aVIce Age
-p350
+p121
 aVIce Age
-p351
+p122
 aVZendikar
-p352
+p123
 aVZendikar
-p353
+p124
 aVZendikar
-p354
+p125
 aVZendikar
-p355
+p126
 aVZendikar
-p356
+p127
 aVZendikar
-p357
+p128
 aVZendikar
-p358
+p129
 aVZendikar
-p359
+p130
 aVClassic Sixth Edition
-p360
+p131
 aVClassic Sixth Edition
-p361
+p132
 aVClassic Sixth Edition
-p362
+p133
 aVClassic Sixth Edition
-p363
+p134
 aVMirrodin
-p364
+p135
 aVMirrodin
-p365
+p136
 aVMirrodin
-p366
+p137
 aVMirrodin
-p367
+p138
 aVMirrodin
-p368
+p139
 aVDuel Decks: Elspeth vs. Tezzeret
-p369
+p140
 aVDuel Decks: Elspeth vs. Tezzeret
-p370
+p141
 aVDuel Decks: Elspeth vs. Tezzeret
-p371
+p142
 aVDuel Decks: Elspeth vs. Tezzeret
-p372
+p143
 aVShards of Alara
-p373
+p144
 aVShards of Alara
-p374
+p145
 aVShards of Alara
-p375
+p146
 aVShards of Alara
-p376
+p147
 aVSeventh Edition
-p377
+p148
 aVSeventh Edition
-p378
+p149
 aVSeventh Edition
-p379
+p150
 aVSeventh Edition
-p380
+p151
 aVMagic 2015 Core Set
-p381
+p152
 aVRise of the Eldrazi
-p382
+p153
 aVRise of the Eldrazi
-p383
+p154
 aVRise of the Eldrazi
-p384
+p155
 aVRise of the Eldrazi
-p385
+p156
 aVShadowmoor
-p386
+p157
 aVShadowmoor
-p387
+p158
 aVShadowmoor
-p388
+p159
 aVShadowmoor
-p389
+p160
 aVShadowmoor
-p390
+p161
 aVNew Phyrexia
-p391
+p162
 aVNew Phyrexia
-p392
+p163
 aVNew Phyrexia
-p393
+p164
 aVStarter 1999
-p394
+p165
 aVStarter 1999
-p395
+p166
 aVStarter 1999
-p396
+p167
 aVStarter 1999
-p397
+p168
 aVPortal Second Age
-p398
+p169
 aVPortal Second Age
-p399
+p170
 aVPortal Second Age
-p400
+p171
 aVPlanechase
-p401
+p172
 aVPlanechase
-p402
+p173
 aVPlanechase
-p403
+p174
 aVPlanechase
-p404
+p175
 aVPlanechase
-p405
+p176
 aVDuel Decks: Venser vs. Koth
-p406
+p177
 aVDuel Decks: Venser vs. Koth
-p407
+p178
 aVDuel Decks: Venser vs. Koth
-p408
+p179
 aVUrza's Saga
-p409
+p180
 aVUrza's Saga
-p410
+p181
 aVUrza's Saga
-p411
+p182
 aVUrza's Saga
-p412
+p183
 aVMasters Edition
-p413
+p184
 aVMasters Edition
-p414
+p185
 aVMasters Edition
-p415
+p186
 aVMasters Edition
-p416
+p187
 aVTheros
-p417
+p188
 aVEighth Edition
-p418
+p189
 aVEighth Edition
-p419
+p190
 aVEighth Edition
-p420
+p191
 aVEighth Edition
-p421
+p192
 aVInvasion
-p422
+p193
 aVInvasion
-p423
+p194
 aVInvasion
-p424
+p195
 aVInvasion
-p425
+p196
 aVFifth Edition
-p426
+p197
 aVFifth Edition
-p427
+p198
 aVFifth Edition
-p428
+p199
 aVFifth Edition
-p429
+p200
 aVFifth Edition
-p430
+p201
 aVArchenemy
-p431
+p202
 aVArchenemy
-p432
+p203
 aVArchenemy
-p433
+p204
 aVKhans of Tarkir
-p434
+p205
 aVDuel Decks: Jace vs. Vraska
-p435
+p206
 aVMirage
-p436
+p207
 aVMirage
-p437
+p208
 aVMirage
-p438
+p209
 aVMirage
-p439
+p210
 aVInnistrad
-p440
+p211
 aVInnistrad
-p441
+p212
 aVInnistrad
-p442
+p213
 aVInnistrad
-p443
+p214
 aVLimited Edition Alpha
-p444
+p215
 aVLimited Edition Alpha
-p445
+p216
 aVLimited Edition Alpha
-p446
+p217
 aVBeatdown Box Set
-p447
+p218
 aVBeatdown Box Set
-p448
+p219
 aVBeatdown Box Set
-p449
+p220
 aVMasters Edition IV
-p450
+p221
 aVDissension
-p451
+p222
 aVDuel Decks: Izzet vs. Golgari
-p452
+p223
 aVDuel Decks: Izzet vs. Golgari
-p453
+p224
 aVDuel Decks: Izzet vs. Golgari
-p454
+p225
 aVDuel Decks: Izzet vs. Golgari
-p455
+p226
 aVDuel Decks: Izzet vs. Golgari
-p456
+p227
 aVLorwyn
-p457
+p228
 aVLorwyn
-p458
+p229
 aVLorwyn
-p459
+p230
 aVLorwyn
-p460
+p231
 aVArabian Nights
-p461
+p232
 aVArabian Nights
-p462
+p233
 aVPremium Deck Series: Slivers
-p463
+p234
 aVMagic 2011
-p464
+p235
 aVMagic 2011
-p465
+p236
 aVMagic 2011
-p466
+p237
 aVMagic 2011
-p467
+p238
 aVPortal Three Kingdoms
-p468
+p239
 aVPortal Three Kingdoms
-p469
+p240
 aVPortal Three Kingdoms
-p470
+p241
 aVPortal
-p471
+p242
 aVPortal
-p472
+p243
 aVPortal
-p473
+p244
 aVPortal
-p474
+p245
 asS'ids'
-p475
-(lp476
-V249804
-p477
+p246
+(lp247
+I397596
 aV249807
-p478
+p248
 aV249806
-p479
+p249
 aV249805
-p480
+p250
 aV244325
-p481
+p251
 aV244324
-p482
+p252
 aV244326
-p483
+p253
 aV244323
-p484
+p254
 aV594
-p485
+p255
 aV593
-p486
+p256
 aV592
-p487
+p257
 aV552
-p488
+p258
 aV22367
-p489
+p259
 aV22366
-p490
+p260
 aV22365
-p491
+p261
 aV22364
-p492
+p262
 aV21144
-p493
+p263
 aV249725
-p494
+p264
 aV249726
-p495
+p265
 aV249723
-p496
+p266
 aV249724
-p497
+p267
 aV2391
-p498
+p268
 aV2390
-p499
+p269
 aV2389
-p500
+p270
 aV2161
-p501
+p271
 aV2346
-p502
+p272
 aV259287
-p503
+p273
 aV214666
-p504
+p274
 aV214672
-p505
+p275
 aV214678
-p506
+p276
 aV214682
-p507
+p277
 aV191387
-p508
+p278
 aV191389
-p509
+p279
 aV191390
-p510
+p280
 aV191400
-p511
+p281
 aV370608
-p512
+p282
 aV4952
-p513
+p283
 aV4951
-p514
+p284
 aV4950
-p515
+p285
 aV4949
-p516
+p286
 aV129608
-p517
+p287
 aV129606
-p518
+p288
 aV129607
-p519
+p289
 aV129609
-p520
+p290
 aV20884
-p521
+p291
 aV20885
-p522
+p292
 aV20886
-p523
+p293
 aV20887
-p524
+p294
 aV220369
-p525
+p295
 aV220365
-p526
+p296
 aV25452
-p527
+p297
 aV25451
-p528
+p298
 aV206074
-p529
+p299
 aV206073
-p530
+p300
 aV206072
-p531
+p301
 aV1203
-p532
+p302
 aV1394
-p533
+p303
 aV1393
-p534
+p304
 aV1392
-p535
+p305
 aV1351
-p536
+p306
 aV83136
-p537
+p307
 aV83137
-p538
+p308
 aV83138
-p539
+p309
 aV83139
-p540
+p310
 aV269633
-p541
+p311
 aV269639
-p542
+p312
 aV269625
-p543
+p313
 aV276471
-p544
+p314
 aV276466
-p545
+p315
 aV276452
-p546
+p316
 aV276453
-p547
+p317
 aV276462
-p548
+p318
 aV40120
-p549
+p319
 aV40119
-p550
+p320
 aV40118
-p551
+p321
 aV40117
-p552
+p322
 aV79217
-p553
+p323
 aV79061
-p554
+p324
 aV79069
-p555
+p325
 aV79071
-p556
+p326
 aV79074
-p557
+p327
 aV74039
-p558
+p328
 aV74636
-p559
+p329
 aV382189
-p560
+p330
 aV95103
-p561
+p331
 aV95107
-p562
+p332
 aV95100
-p563
+p333
 aV95113
-p564
+p334
 aV376373
-p565
+p335
 aV31613
-p566
+p336
 aV31614
-p567
+p337
 aV31615
-p568
+p338
 aV31616
-p569
+p339
 aV122095
-p570
+p340
 aV122077
-p571
+p341
 aV122089
-p572
+p342
 aV118905
-p573
+p343
 aV289315
-p574
+p344
 aV290531
-p575
+p345
 aV270958
-p576
+p346
 aV289314
-p577
+p347
 aV289316
-p578
+p348
 aV289313
-p579
+p349
 aV333719
-p580
+p350
 aV212626
-p581
+p351
 aV896
-p582
+p352
 aV895
-p583
+p353
 aV894
-p584
+p354
 aV854
-p585
+p355
 aV2769
-p586
+p356
 aV2768
-p587
+p357
 aV2767
-p588
+p358
 aV201964
-p589
+p359
 aV201966
-p590
+p360
 aV195187
-p591
+p361
 aV195165
-p592
+p362
 aV201963
-p593
+p363
 aV195161
-p594
+p364
 aV201965
-p595
+p365
 aV195170
-p596
+p366
 aV14737
-p597
+p367
 aV14738
-p598
+p368
 aV14739
-p599
+p369
 aV14740
-p600
+p370
 aV46741
-p601
+p371
 aV48411
-p602
+p372
 aV48410
-p603
+p373
 aV48412
-p604
+p374
 aV48413
-p605
+p375
 aV222725
-p606
+p376
 aV222727
-p607
+p377
 aV222726
-p608
+p378
 aV222724
-p609
+p379
 aV174979
-p610
+p380
 aV174977
-p611
+p381
 aV174978
-p612
+p382
 aV174980
-p613
+p383
 aV11348
-p614
+p384
 aV11349
-p615
+p385
 aV11350
-p616
+p386
 aV11351
-p617
+p387
 aV383281
-p618
+p388
 aV205939
-p619
+p389
 aV205932
-p620
+p390
 aV205944
-p621
+p391
 aV205945
-p622
+p392
 aV147370
-p623
+p393
 aV158237
-p624
+p394
 aV157874
-p625
+p395
 aV157875
-p626
+p396
 aV157883
-p627
+p397
 aV227505
-p628
+p398
 aV218057
-p629
+p399
 aV227530
-p630
+p400
 aV21793
-p631
+p401
 aV21794
-p632
+p402
 aV21800
-p633
+p403
 aV21795
-p634
+p404
 aV8391
-p635
+p405
 aV8390
-p636
+p406
 aV8387
-p637
+p407
 aV198096
-p638
+p408
 aV205286
-p639
+p409
 aV205287
-p640
+p410
 aV205288
-p641
+p411
 aV205289
-p642
+p412
 aV284491
-p643
+p413
 aV284490
-p644
+p414
 aV284492
-p645
+p415
 aV8326
-p646
+p416
 aV8327
-p647
+p417
 aV8328
-p648
+p418
 aV8329
-p649
+p419
 aV159281
-p650
+p420
 aV159282
-p651
+p421
 aV159283
-p652
+p422
 aV159763
-p653
+p423
 aV373595
-p654
+p424
 aV46441
-p655
+p425
 aV46442
-p656
+p426
 aV46443
-p657
+p427
 aV46444
-p658
+p428
 aV25964
-p659
+p429
 aV26301
-p660
+p430
 aV26302
-p661
+p431
 aV26303
-p662
+p432
 aV4136
-p663
+p433
 aV4202
-p664
+p434
 aV4201
-p665
+p435
 aV4200
-p666
+p436
 aV4199
-p667
+p437
 aV221300
-p668
+p438
 aV221302
-p669
+p439
 aV221301
-p670
+p440
 aV386566
-p671
+p441
 aV380217
-p672
+p442
 aV3584
-p673
+p443
 aV3583
-p674
+p444
 aV3582
-p675
+p445
 aV3581
-p676
+p446
 aV245235
-p677
+p447
 aV241979
-p678
+p448
 aV245237
-p679
+p449
 aV245236
-p680
+p450
 aV293
-p681
+p451
 aV256
-p682
+p452
 aV292
-p683
+p453
 aV27238
-p684
+p454
 aV27237
-p685
+p455
 aV27236
-p686
+p456
 aV202556
-p687
+p457
 aV107448
-p688
+p458
 aV292765
-p689
+p459
 aV292752
-p690
+p460
 aV292764
-p691
+p461
 aV292763
-p692
+p462
 aV292766
-p693
+p463
 aV143628
-p694
+p464
 aV143624
-p695
+p465
 aV143632
-p696
+p466
 aV143619
-p697
+p467
 aV989
-p698
+p468
 aV935
-p699
+p469
 aV207935
-p700
+p470
 aV213617
-p701
+p471
 aV213619
-p702
+p472
 aV213618
-p703
+p473
 aV213616
-p704
+p474
 aV10551
-p705
+p475
 aV10641
-p706
+p476
 aV10642
-p707
+p477
 aV4424
-p708
+p478
 aV4423
-p709
+p479
 aV4422
-p710
+p480
 aV4421
-p711
+p481
 asS'texts'
-p712
-(lp713
+p482
+(lp483
 VU
-p714
-ag714
-ag714
-ag714
-ag714
-ag714
-ag714
+p484
+ag484
+ag484
+ag484
+ag484
+ag484
+ag484
 aS''
-p715
+p485
 aVKeldon Warlord's power and toughness are each equal to the number of non-Wall creatures you control.
-p716
+p486
 aVAll Swamps are 1/1 black creatures that are still lands.
-p717
+p487
 aVEnchant land<br>When enchanted land becomes tapped, destroy it. That land's controller attaches Kudzu to a land of his or her choice.
-p718
+p488
 aVEnchant creature<br>Enchanted creature has first strike.
-p719
-ag714
-ag714
-ag714
-ag714
+p489
+ag484
+ag484
+ag484
+ag484
 aVAt the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, and put them into your hand. If you do, shuffle your library.
-p720
+p490
 aVR
-p721
+p491
 aVB
-p722
-ag715
-ag715
+p492
+ag485
+ag485
 aVKeldon Warlord's power and toughness are each equal to the number of non-Wall creatures you control.
-p723
+p493
 aVFlying<br>{G}: Killer Bees gets +1/+1 until end of turn.
-p724
+p494
 aVAll Swamps are 1/1 black creatures that are still lands.
-p725
+p495
 aVTrample<br>Leviathan enters the battlefield tapped and doesn't untap during your untap step.<br>At the beginning of your upkeep, you may sacrifice two Islands. If you do, untap Leviathan.<br>Leviathan can't attack unless you sacrifice two Islands.
-p726
+p496
 aVYou have no maximum hand size.<br>If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard.
-p727
-ag714
+p497
+ag484
 aVAt the beginning of your upkeep, put a 2/2 white Cat creature token onto the battlefield for each Equipment attached to Kemba, Kha Regent.
-p728
+p498
 aVW
-p729
-ag729
-ag722
+p499
+ag499
+ag492
 aVLava Axe deals 5 damage to target player.
-p730
-ag715
-ag715
-ag715
+p500
+ag485
+ag485
+ag485
 aVTrample<br>Kalonian Hydra enters the battlefield with four +1/+1 counters on it.<br>Whenever Kalonian Hydra attacks, double the number of +1/+1 counters on each creature you control.
-p731
-ag714
-ag714
+p501
+ag484
+ag484
 aV{B}{B}: Destroy target creature blocking Knight of Dusk.
-p732
+p502
 aVBlack creatures can't attack or block.
-p733
+p503
 aVLava Axe deals 5 damage to target player.
-p734
-ag715
-ag715
-ag715
-ag714
-ag714
+p504
+ag485
+ag485
+ag485
+ag484
+ag484
 aVYou have shroud. <i>(You can't be the target of spells or abilities.)</i>
-p735
+p505
 aVWhenever a creature you control deals combat damage to a player, that player discards a card.
-p736
-ag715
-ag715
+p506
+ag485
+ag485
 aVTarget creature gets +4/+4 until end of turn.
-p737
-ag721
+p507
+ag491
 aVProtection from red<br>Creatures named Ivory Guardians get +1/+1 as long as an opponent controls a nontoken red permanent.
-p738
+p508
 aVJungle Lion can't block.
-p739
+p509
 aV{T}: Add {W} to your mana pool.<br>{T}: Return target legendary creature to its owner's hand.
-p740
+p510
 aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i>
-p741
+p511
 aV{G}{G}: Counter target black spell.
-p742
+p512
 aVTarget spell or permanent becomes green. <i>(Mana symbols on that permanent remain unchanged.)</i>
-p743
+p513
 aVWhenever a Forest an opponent controls becomes tapped, you gain 1 life.
-p744
+p514
 aVLightning Bolt deals 3 damage to target creature or player.
-p745
+p515
 aVCounter target spell unless its controller pays {3}.
-p746
+p516
 aVMaro's power and toughness are each equal to the number of cards in your hand.
-p747
+p517
 aV{T}: Prevent the next 4 damage that would be dealt to target creature or player this turn.
-p748
+p518
 aVWhenever an opponent discards a card, Megrim deals 2 damage to that player.
-p749
-ag721
-ag729
-ag729
+p519
+ag491
+ag499
+ag499
 aVJwar Isle Refuge enters the battlefield tapped.<br>When Jwar Isle Refuge enters the battlefield, you gain 1 life.<br>{T}: Add {U} or {B} to your mana pool.
-p750
-ag714
-ag714
-ag714
-ag721
-ag714
-ag714
+p520
+ag484
+ag484
+ag484
+ag491
+ag484
+ag484
 aVIf target spell has only one target and that target is a creature, change that spell's target to another creature.
-p751
+p521
 aVSoldier creatures have vigilance. <i>(Attacking doesn't cause them to tap.)</i><br>{2}{W}: Put a 1/1 white Soldier creature token onto the battlefield.
-p752
+p522
 aVFlying<br>Whenever you cast a Spirit or Arcane spell, you may exile Hikari, Twilight Guardian. If you do, return it to the battlefield under its owner's control at the beginning of the next end step.
-p753
-ag714
+p523
+ag484
 aVEnchant creature<br>All creatures able to block enchanted creature do so.
-p754
-ag721
-ag721
+p524
+ag491
+ag491
 aVIsao, Enlightened Bushi can't be countered.<br>Bushido 2 <i>(When this blocks or becomes blocked, it gets +2/+2 until end of turn.)</i><br>{2}: Regenerate target Samurai.
-p755
+p525
 aV{T}, Sacrifice three Spirits: Search your library for a legendary Spirit permanent card and put it onto the battlefield. Then shuffle your library.
-p756
+p526
 aVIsolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.<br>{T}: Add {W} or {B} to your mana pool.
-p757
-ag714
-ag714
-ag721
-ag721
-ag714
-ag714
-ag714
-ag714
+p527
+ag484
+ag484
+ag491
+ag491
+ag484
+ag484
+ag484
+ag484
 aVHaste <i>(This creature can attack and {T} as soon as it comes under your control.)</i><br>{T}: Kamahl, Pit Fighter deals 3 damage to target creature or player.
-p758
-ag714
-ag714
-ag714
-ag721
+p528
+ag484
+ag484
+ag484
+ag491
 aVIzzet Guildgate enters the battlefield tapped.<br>{T}: Add {U} or {R} to your mana pool.
-p759
+p529
 aV{T}: Add {U} or {R} to your mana pool.<br>{U}{R}: Until end of turn, Izzet Keyrune becomes a 2/1 blue and red Elemental artifact creature.<br>Whenever Izzet Keyrune deals combat damage to a player, you may draw a card. If you do, discard a card.
-p760
+p530
 aVFlash <i>(You may cast this spell any time you could cast an instant.)</i><br>Haste<br>{T}: Izzet Staticaster deals 1 damage to target creature and each other creature with the same name as that creature.
-p761
+p531
 aVG
-p762
-ag721
-ag721
-ag729
+p532
+ag491
+ag491
+ag499
 aVImprint- When Isochron Scepter enters the battlefield, you may exile an instant card with converted mana cost 2 or less from your hand.<br>{2}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.
-p763
+p533
 aVEnchant land<br>When enchanted land becomes tapped, destroy it. That land's controller attaches Kudzu to a land of his or her choice.
-p764
+p534
 aVEnchant creature<br>Enchanted creature has first strike.
-p765
+p535
 aV{T}: Untap target land.
-p766
+p536
 aVYou have no maximum hand size.<br>If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard.
-p767
+p537
 aV{2}, {T}, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles his or her library.
-p768
+p538
 aVWhenever Johtull Wurm becomes blocked, it gets -2/-1 until end of turn for each creature blocking it beyond the first.
-p769
+p539
 aVDestroy all artifacts, creatures, and lands. They can't be regenerated.
-p770
-ag714
-ag714
-ag714
-ag721
-ag721
-ag721
-ag721
-ag721
+p540
+ag484
+ag484
+ag484
+ag491
+ag491
+ag491
+ag491
+ag491
 aV{T}: Add {1} to your mana pool.<br>{T}: Add {R} or {G} to your mana pool. Karplusan Forest deals 1 damage to you.
-p771
+p541
 aVArtifacts, creatures, and lands played by your opponents enter the battlefield tapped.
-p772
+p542
 aVWhen Kjeldoran Dead enters the battlefield, sacrifice a creature.<br>{B}: Regenerate Kjeldoran Dead.
-p773
+p543
 aVLightning Blast deals 4 damage to target creature or player.
-p774
+p544
 aVImprint- When Isochron Scepter enters the battlefield, you may exile an instant card with converted mana cost 2 or less from your hand.<br>{2}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.
-p775
-ag721
-ag714
+p545
+ag491
+ag484
 aVEquipped creature gets +1/+1.<br>Equip {1} <i>({1}: Attach to target creature you control. Equip only as a sorcery.)</i>
-p776
+p546
 aVEquipped creature gets +3/+0 and has trample and lifelink. <i>(If the creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker. Damage dealt by the creature also causes its controller to gain that much life.)</i><br>Equip {3} <i>({3}: Attach to target creature you control. Equip only as a sorcery.)</i>
-p777
-ag714
-ag714
+p547
+ag484
+ag484
 aVWhen Journey to Nowhere enters the battlefield, exile target creature.<br>When Journey to Nowhere leaves the battlefield, return the exiled card to the battlefield under its owner's control.
-p778
+p548
 aVJuggernaut attacks each turn if able.<br>Juggernaut can't be blocked by Walls.
-p779
+p549
 aVShroud<br>Whenever another creature dies, you may put a +1/+1 counter on Algae Gharial.
-p780
-ag721
-ag729
-ag729
+p550
+ag491
+ag499
+ag499
 aV{B}: Looming Shade gets +1/+1 until end of turn.
-p781
+p551
 aVOther Merfolk creatures get +1/+1 and have islandwalk.
-p782
+p552
 aVEnchant creature<br>All creatures able to block enchanted creature do so.
-p783
+p553
 aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i>
-p784
+p554
 aVJorubai Murk Lurker gets +1/+1 as long as you control a Swamp.<br>{1}{B}: Target creature gains lifelink until end of turn. <i>(Damage dealt by the creature also causes its controller to gain that much life.)</i>
-p785
+p555
 aVAnnihilator 2 <i>(Whenever this creature attacks, defending player sacrifices two permanents.)</i><br>Whenever an opponent sacrifices a nontoken permanent, put that card onto the battlefield under your control.
-p786
-ag721
-ag721
-ag729
+p556
+ag491
+ag491
+ag499
 aVWhenever a player casts a black spell, you may pay {1}. If you do, target player loses 1 life.
-p787
-ag714
-ag714
+p557
+ag484
+ag484
 aVLifelink, protection from converted mana cost 3 or greater
-p788
-ag721
-ag714
+p558
+ag491
+ag484
 aVFlash<br>At the beginning of your end step, draw seven cards.<br>Each opponent's maximum hand size is reduced by seven.
-p789
-ag715
+p559
+ag485
 aVSearch your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
-p790
+p560
 aVReach <i>(This creature can block creatures with flying.)</i>
-p791
+p561
 aVFlying<br>When Owl Familiar enters the battlefield, draw a card, then discard a card.
-p792
+p562
 aVDestroy target creature. Its owner gains 4 life.
-p793
+p563
 aVSearch your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
-p794
+p564
 aVOgre Taskmaster can't block.
-p795
+p565
 aVUntil end of turn, you may tap lands you don't control for mana. Spend this mana only to cast spells.
-p796
+p566
 aVWhenever a nontoken creature enters the battlefield, its controller puts a token onto the battlefield that's a copy of that creature.<br>Whenever you roll , destroy target creature and all other creatures with the same name as that creature.
-p797
-ag714
-ag714
-ag714
-ag714
-ag714
-ag714
-ag714
-ag714
+p567
+ag484
+ag484
+ag484
+ag484
+ag484
+ag484
+ag484
+ag484
 aVJagged Lightning deals 3 damage to each of two target creatures.
-p798
+p568
 aVDestroy target land.<br>Cycling {2} <i>({2}, Discard this card: Draw a card.)</i>
-p799
+p569
 aVFlying<br>Echo {2}{R}{R} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i><br>{R}: Lightning Dragon gets +1/+0 until end of turn.
-p800
-ag714
-ag714
-ag714
+p570
+ag484
+ag484
+ag484
 aV{T}: The power of target creature with flying becomes 0 until end of turn.
-p801
+p571
 aVMinotaur creatures you control have haste.<br>Whenever a Minotaur you control attacks, it gets +2/+0 until end of turn.
-p802
+p572
 aVTarget creature gets +7/+7 until end of turn.
-p803
+p573
 aV{2}, {T}: Target player puts the top two cards of his or her library into his or her graveyard.
-p804
+p574
 aVTarget player discards two cards.
-p805
+p575
 aVTarget creature gets +4/+4 until end of turn.
-p806
-ag714
-ag714
-ag714
-ag714
+p576
+ag484
+ag484
+ag484
+ag484
 aVFlying; banding <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
-p807
+p577
 aV{4}, {T}: Draw a card.
-p808
+p578
 aVAt the beginning of each player's upkeep, Karma deals damage to that player equal to the number of Swamps he or she controls.
-p809
+p579
 aV{T}: Add {1} to your mana pool.<br>{T}: Add {R} or {G} to your mana pool. Karplusan Forest deals 1 damage to you.
-p810
+p580
 aVKeldon Warlord's power and toughness are each equal to the number of non-Wall creatures you control.
-p811
-ag714
-ag714
-ag714
+p581
+ag484
+ag484
+ag484
 aVUntap each creature you control with a +1/+1 counter on it during each other player's untap step.
-p812
-ag714
-ag714
-ag714
-ag714
+p582
+ag484
+ag484
+ag484
+ag484
 aVWhenever Lead Golem attacks, it doesn't untap during its controller's next untap step.
-p813
+p583
 aVIsolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.<br>{T}: Add {W} or {B} to your mana pool.
-p814
+p584
 aVWhenever Kessig Cagebreakers attacks, put a 2/2 green Wolf creature token onto the battlefield tapped and attacking for each creature card in your graveyard.
-p815
-ag722
-ag722
+p585
+ag492
+ag492
 aV{T}: Add {G} to your mana pool.
-p816
+p586
 aVOther Merfolk creatures get +1/+1 and have islandwalk.
-p817
-ag715
-ag714
-ag714
+p587
+ag485
+ag484
+ag484
 aVKird Ape gets +1/+2 as long as you control a Forest.
-p818
+p588
 aVArtifacts, creatures, and lands played by your opponents enter the battlefield tapped.
-p819
+p589
 aVFlying<br>Whenever Isperia the Inscrutable deals combat damage to a player, name a card. That player reveals his or her hand. If he or she reveals the named card, search your library for a creature card with flying, reveal it, put it into your hand, then shuffle your library.
-p820
-ag714
+p590
+ag484
 aVImprint- When Isochron Scepter enters the battlefield, you may exile an instant card with converted mana cost 2 or less from your hand.<br>{2}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.
-p821
-ag714
-ag714
-ag714
-ag714
-ag714
-ag714
-ag721
+p591
+ag484
+ag484
+ag484
+ag484
+ag484
+ag484
+ag491
 aV{T}: The power of target creature with flying becomes 0 until end of turn.
-p822
+p592
 aVIsland Fish Jasconius doesn't untap during your untap step.<br>At the beginning of your upkeep, you may pay {U}{U}{U}. If you do, untap Island Fish Jasconius.<br>Island Fish Jasconius can't attack unless defending player controls an Island.<br>When you control no Islands, sacrifice Island Fish Jasconius.
-p823
-ag714
+p593
+ag484
 aVJuggernaut attacks each turn if able.<br>Juggernaut can't be blocked by Walls.
-p824
-ag715
-ag715
-ag715
-ag729
+p594
+ag485
+ag485
+ag485
+ag499
 aVCast Rally the Troops only during the declare attackers step and only if you've been attacked this step.<br>Untap all creatures you control.
-p825
+p595
 aVUntap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.
-p826
+p596
 aVGreen creatures you control gain forestwalk until end of turn.
-p827
+p597
 aVSearch your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
-p828
+p598
 aVNeedle Storm deals 4 damage to each creature with flying.
-p829
+p599
 aVDestroy target creature. Its owner gains 4 life.
-p830
+p600
 asS'costs'
-p831
-(lp832
+p601
+(lp602
 S'0'
-p833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
+p603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
 aV{1}{W}
-p834
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
+p604
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
 aV{4}{U}{U}{U}
-p835
+p605
 aV{1}{W}
-p836
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
+p606
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
 aV{4}{U}{U}{U}
-p837
-ag833
-ag833
-ag833
+p607
+ag603
+ag603
+ag603
 aV{1}{W}
-p838
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
+p608
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
 aV{W}
-p839
-ag833
-ag833
-ag833
-ag833
+p609
+ag603
+ag603
+ag603
+ag603
 aV{2}{G}
-p840
+p610
 aV{1}{R}
-p841
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
+p611
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
 aV{2}{W}{W}{U}{U}
-p842
+p612
 aV{5}{U}
-p843
-ag833
-ag833
-ag833
-ag833
+p613
+ag603
+ag603
+ag603
+ag603
 aV{2}
-p844
-ag833
-ag833
-ag833
+p614
+ag603
+ag603
+ag603
 aV{1}{W}
-p845
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
+p615
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
 aV{2}
-p846
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
+p616
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
 aV{5}{U}{U}
-p847
-ag833
-ag833
-ag833
-ag833
-ag833
+p617
+ag603
+ag603
+ag603
+ag603
+ag603
 aV{4}
-p848
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
+p618
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
 aV{1}{W}
-p849
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
+p619
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
 aV{1}{W}
-p850
-ag833
-ag833
-ag833
-ag833
+p620
+ag603
+ag603
+ag603
+ag603
 aV{1}{W}
-p851
+p621
 aV{1}{W}{W}{U}{U}
-p852
-ag833
+p622
+ag603
 aV{2}
-p853
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
+p623
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
 aV{4}{U}{U}{U}
-p854
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
-ag833
+p624
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
+ag603
 asS'names'
-p855
-(lp856
+p625
+(lp626
 VIsland
+p627
+aVIsland
+p628
+aVIsland
+p629
+aVIsland
+p630
+aVIsland
+p631
+aVIsland
+p632
+aVIsland
+p633
+aVIsland
+p634
+aVIsland
+p635
+aVIsland
+p636
+aVIsland
+p637
+aVIsland Sanctuary
+p638
+aVIsland
+p639
+aVIsland
+p640
+aVIsland
+p641
+aVIsland
+p642
+aVIsland
+p643
+aVIsland
+p644
+aVIsland
+p645
+aVIsland
+p646
+aVIsland
+p647
+aVIsland
+p648
+aVIsland
+p649
+aVIsland
+p650
+aVIsland Fish Jasconius
+p651
+aVIsland Sanctuary
+p652
+aVIsland
+p653
+aVIsland
+p654
+aVIsland
+p655
+aVIsland
+p656
+aVIsland
+p657
+aVIsland
+p658
+aVIsland
+p659
+aVIsland
+p660
+aVIsland
+p661
+aVIsland
+p662
+aVIsland
+p663
+aVIsland
+p664
+aVIsland
+p665
+aVIsland
+p666
+aVIsland
+p667
+aVIsland
+p668
+aVIsland
+p669
+aVIsland
+p670
+aVIsland
+p671
+aVIsland
+p672
+aVIsland
+p673
+aVIsland
+p674
+aVIsland
+p675
+aVIsland
+p676
+aVIsland
+p677
+aVIsland
+p678
+aVIsland
+p679
+aVIsland
+p680
+aVIsland
+p681
+aVIsland Fish Jasconius
+p682
+aVIsland
+p683
+aVIsland
+p684
+aVIsland
+p685
+aVIsland Sanctuary
+p686
+aVIsland
+p687
+aVIsland
+p688
+aVIsland
+p689
+aVIsland
+p690
+aVIsland
+p691
+aVIsland
+p692
+aVIsland
+p693
+aVIsland
+p694
+aVIsland
+p695
+aVIsland
+p696
+aVIsland
+p697
+aVIsland
+p698
+aVIsland
+p699
+aVIsland
+p700
+aVIsland
+p701
+aVIsland
+p702
+aVIsamaru, Hound of Konda
+p703
+aVIsland
+p704
+aVIsland
+p705
+aVIsland
+p706
+aVIsland
+p707
+aVIsao, Enlightened Bushi
+p708
+aVIshi-Ishi, Akki Crackshot
+p709
+aVIsolated Chapel
+p710
+aVIsland
+p711
+aVIsland
+p712
+aVIsland
+p713
+aVIsland
+p714
+aVIsland
+p715
+aVIsland
+p716
+aVIsland
+p717
+aVIsland
+p718
+aVIsland
+p719
+aVIsland
+p720
+aVIsland
+p721
+aVIsland
+p722
+aVIsland
+p723
+aVIsland
+p724
+aVIsperia, Supreme Judge
+p725
+aVIsperia's Skywatch
+p726
+aVIsland
+p727
+aVIsland
+p728
+aVIsland
+p729
+aVIsland
+p730
+aVIsochron Scepter
+p731
+aVIsland
+p732
+aVIsland
+p733
+aVIsland
+p734
+aVIsland Sanctuary
+p735
+aVIsland
+p736
+aVIsland
+p737
+aVIsland
+p738
+aVIsland
+p739
+aVIsland
+p740
+aVIsland
+p741
+aVIsland
+p742
+aVIsland
+p743
+aVIsland
+p744
+aVIsland
+p745
+aVIsland
+p746
+aVIsland
+p747
+aVIsland
+p748
+aVIsland
+p749
+aVIsland
+p750
+aVIsochron Scepter
+p751
+aVIsland
+p752
+aVIsland
+p753
+aVIsland
+p754
+aVIsland
+p755
+aVIsland
+p756
+aVIsland
+p757
+aVIsland
+p758
+aVIsland
+p759
+aVIsland
+p760
+aVIsland
+p761
+aVIsland
+p762
+aVIsland
+p763
+aVIsland
+p764
+aVIsland
+p765
+aVIsland
+p766
+aVIsland
+p767
+aVIsland
+p768
+aVIsland
+p769
+aVIsland
+p770
+aVIsland
+p771
+aVIsland
+p772
+aVIsleback Spawn
+p773
+aVIsland
+p774
+aVIsland
+p775
+aVIsland
+p776
+aVIsland
+p777
+aVIsland
+p778
+aVIsolation Cell
+p779
+aVIsland
+p780
+aVIsland
+p781
+aVIsland
+p782
+aVIsland
+p783
+aVIsland
+p784
+aVIsland
+p785
+aVIsland
+p786
+aVIsland
+p787
+aVIsle of Vesuva
+p788
+aVIsland
+p789
+aVIsland
+p790
+aVIsland
+p791
+aVIsland
+p792
+aVIsland
+p793
+aVIsland
+p794
+aVIsland
+p795
+aVIsland
+p796
+aVIsland
+p797
+aVIsland
+p798
+aVIsland
+p799
+aVIsland
+p800
+aVIsland
+p801
+aVIsland
+p802
+aVIsland of Wak-Wak
+p803
+aVIsland
+p804
+aVIsland
+p805
+aVIsland
+p806
+aVIsland
+p807
+aVIsland
+p808
+aVIsland
+p809
+aVIsland
+p810
+aVIsland
+p811
+aVIsland
+p812
+aVIsland Sanctuary
+p813
+aVIsland
+p814
+aVIsland
+p815
+aVIsland
+p816
+aVIsland
+p817
+aVIsland
+p818
+aVIsland
+p819
+aVIsland
+p820
+aVIsland
+p821
+aVIsland
+p822
+aVIsland
+p823
+aVIsland
+p824
+aVIsland
+p825
+aVIsland
+p826
+aVIsland
+p827
+aVIsolated Chapel
+p828
+aVIsland
+p829
+aVIsland
+p830
+aVIsland
+p831
+aVIsland Sanctuary
+p832
+aVIsland
+p833
+aVIsland
+p834
+aVIsland
+p835
+aVIsland
+p836
+aVIsland Sanctuary
+p837
+aVIsperia the Inscrutable
+p838
+aVIsland
+p839
+aVIsochron Scepter
+p840
+aVIsland
+p841
+aVIsland
+p842
+aVIsland
+p843
+aVIsland
+p844
+aVIsland
+p845
+aVIsland
+p846
+aVIsland
+p847
+aVIsland of Wak-Wak
+p848
+aVIsland Fish Jasconius
+p849
+aVIsland
+p850
+aVIsland
+p851
+aVIsland
+p852
+aVIsland
+p853
+aVIsland
+p854
+aVIsland
+p855
+aVIsland
+p856
+aVIsland
 p857
 aVIsland
 p858
@@ -2046,765 +2276,536 @@ aVIsland
 p860
 aVIsland
 p861
-aVIsland
+asS'rares'
 p862
-aVIsland
-p863
-aVIsland
+(lp863
+VLand
 p864
-aVIsland
+aVLand
 p865
-aVIsland
+aVLand
 p866
-aVIsland
+aVLand
 p867
-aVIsland Sanctuary
+aVLand
 p868
-aVIsland
+aVLand
 p869
-aVIsland
+aVLand
 p870
-aVIsland
+aVLand
 p871
-aVIsland
+aVLand
 p872
-aVIsland
+aVLand
 p873
-aVIsland
+aVLand
 p874
-aVIsland
+aVRare
 p875
-aVIsland
+aVLand
 p876
-aVIsland
+aVLand
 p877
-aVIsland
+aVLand
 p878
-aVIsland
+aVLand
 p879
-aVIsland
+aVLand
 p880
-aVIsland Fish Jasconius
+aVLand
 p881
-aVIsland Sanctuary
+aVLand
 p882
-aVIsland
+aVLand
 p883
-aVIsland
+aVLand
 p884
-aVIsland
+aVLand
 p885
-aVIsland
+aVLand
 p886
-aVIsland
+aVLand
 p887
-aVIsland
+aVRare
 p888
-aVIsland
+aVRare
 p889
-aVIsland
+aVLand
 p890
-aVIsland
+aVLand
 p891
-aVIsland
+aVLand
 p892
-aVIsland
+aVLand
 p893
-aVIsland
+aVLand
 p894
-aVIsland
+aVLand
 p895
-aVIsland
+aVLand
 p896
-aVIsland
+aVLand
 p897
-aVIsland
+aVLand
 p898
-aVIsland
+aVLand
 p899
-aVIsland
+aVLand
 p900
-aVIsland
+aVLand
 p901
-aVIsland
+aVLand
 p902
-aVIsland
+aVLand
 p903
-aVIsland
+aVLand
 p904
-aVIsland
+aVLand
 p905
-aVIsland
+aVLand
 p906
-aVIsland
+aVLand
 p907
-aVIsland
+aVLand
 p908
-aVIsland
+aVLand
 p909
-aVIsland
+aVLand
 p910
-aVIsland
+aVLand
 p911
-aVIsland Fish Jasconius
+aVLand
 p912
-aVIsland
+aVLand
 p913
-aVIsland
+aVLand
 p914
-aVIsland
+aVLand
 p915
-aVIsland Sanctuary
+aVLand
 p916
-aVIsland
+aVLand
 p917
-aVIsland
+aVLand
 p918
-aVIsland
+aVRare
 p919
-aVIsland
+aVLand
 p920
-aVIsland
+aVLand
 p921
-aVIsland
+aVLand
 p922
-aVIsland
+aVRare
 p923
-aVIsland
+aVLand
 p924
-aVIsland
+aVLand
 p925
-aVIsland
+aVLand
 p926
-aVIsland
+aVLand
 p927
-aVIsland
+aVLand
 p928
-aVIsland
+aVLand
 p929
-aVIsland
+aVLand
 p930
-aVIsland
+aVLand
 p931
-aVIsland
+aVLand
 p932
-aVIsamaru, Hound of Konda
+aVLand
 p933
-aVIsland
+aVLand
 p934
-aVIsland
+aVLand
 p935
-aVIsland
+aVLand
 p936
-aVIsland
+aVLand
 p937
-aVIsao, Enlightened Bushi
+aVLand
 p938
-aVIshi-Ishi, Akki Crackshot
+aVLand
 p939
-aVIsolated Chapel
+aVRare
 p940
-aVIsland
+aVLand
 p941
-aVIsland
+aVLand
 p942
-aVIsland
+aVLand
 p943
-aVIsland
+aVLand
 p944
-aVIsland
+aVRare
 p945
-aVIsland
+aVRare
 p946
-aVIsland
+aVRare
 p947
-aVIsland
+aVLand
 p948
-aVIsland
+aVLand
 p949
-aVIsland
+aVLand
 p950
-aVIsland
+aVLand
 p951
-aVIsland
+aVLand
 p952
-aVIsland
+aVLand
 p953
-aVIsland
+aVLand
 p954
-aVIsperia, Supreme Judge
+aVLand
 p955
-aVIsperia's Skywatch
+aVLand
 p956
-aVIsland
+aVLand
 p957
-aVIsland
+aVLand
 p958
-aVIsland
+aVLand
 p959
-aVIsland
+aVLand
 p960
-aVIsochron Scepter
+aVLand
 p961
-aVIsland
+aVMythic Rare
 p962
-aVIsland
+aVCommon
 p963
-aVIsland
+aVLand
 p964
-aVIsland Sanctuary
+aVLand
 p965
-aVIsland
+aVLand
 p966
-aVIsland
+aVLand
 p967
-aVIsland
+aVMythic Rare
 p968
-aVIsland
+aVLand
 p969
-aVIsland
+aVLand
 p970
-aVIsland
+aVLand
 p971
-aVIsland
+aVRare
 p972
-aVIsland
+aVLand
 p973
-aVIsland
+aVLand
 p974
-aVIsland
+aVLand
 p975
-aVIsland
+aVLand
 p976
-aVIsland
+aVLand
 p977
-aVIsland
+aVLand
 p978
-aVIsland
+aVLand
 p979
-aVIsland
+aVLand
 p980
-aVIsochron Scepter
+aVLand
 p981
-aVIsland
+aVLand
 p982
-aVIsland
+aVLand
 p983
-aVIsland
+aVLand
 p984
-aVIsland
+aVLand
 p985
-aVIsland
+aVLand
 p986
-aVIsland
+aVLand
 p987
-aVIsland
+aVUncommon
 p988
-aVIsland
+aVLand
 p989
-aVIsland
+aVLand
 p990
-aVIsland
+aVLand
 p991
-aVIsland
+aVLand
 p992
-aVIsland
+aVLand
 p993
-aVIsland
+aVLand
 p994
-aVIsland
+aVLand
 p995
-aVIsland
+aVLand
 p996
-aVIsland
+aVLand
 p997
-aVIsland
+aVLand
 p998
-aVIsland
+aVLand
 p999
-aVIsland
+aVLand
 p1000
-aVIsland
+aVLand
 p1001
-aVIsland
+aVLand
 p1002
-aVIsleback Spawn
+aVLand
 p1003
-aVIsland
+aVLand
 p1004
-aVIsland
+aVLand
 p1005
-aVIsland
+aVLand
 p1006
-aVIsland
+aVLand
 p1007
-aVIsland
+aVLand
 p1008
-aVIsolation Cell
+aVLand
 p1009
-aVIsland
+aVRare
 p1010
-aVIsland
+aVLand
 p1011
-aVIsland
+aVLand
 p1012
-aVIsland
+aVLand
 p1013
-aVIsland
+aVLand
 p1014
-aVIsland
+aVLand
 p1015
-aVIsland
+aVUncommon
 p1016
-aVIsland
+aVLand
 p1017
-aVIsle of Vesuva
+aVLand
 p1018
-aVIsland
+aVLand
 p1019
-aVIsland
+aVLand
 p1020
-aVIsland
+aVLand
 p1021
-aVIsland
+aVLand
 p1022
-aVIsland
+aVLand
 p1023
-aVIsland
+aVLand
 p1024
-aVIsland
+aVCommon
 p1025
-aVIsland
+aVLand
 p1026
-aVIsland
+aVLand
 p1027
-aVIsland
+aVLand
 p1028
-aVIsland
+aVLand
 p1029
-aVIsland
+aVLand
 p1030
-aVIsland
+aVLand
 p1031
-aVIsland
+aVLand
 p1032
-aVIsland of Wak-Wak
+aVLand
 p1033
-aVIsland
+aVLand
 p1034
-aVIsland
+aVLand
 p1035
-aVIsland
+aVLand
 p1036
-aVIsland
+aVLand
 p1037
-aVIsland
+aVLand
 p1038
-aVIsland
+aVLand
 p1039
-aVIsland
+aVRare
 p1040
-aVIsland
+aVLand
 p1041
-aVIsland
+aVLand
 p1042
-aVIsland Sanctuary
+aVLand
 p1043
-aVIsland
+aVLand
 p1044
-aVIsland
+aVLand
 p1045
-aVIsland
+aVLand
 p1046
-aVIsland
+aVLand
 p1047
-aVIsland
+aVLand
 p1048
-aVIsland
+aVLand
 p1049
-aVIsland
+aVRare
 p1050
-aVIsland
+aVLand
 p1051
-aVIsland
+aVLand
 p1052
-aVIsland
+aVLand
 p1053
-aVIsland
+aVLand
 p1054
-aVIsland
+aVLand
 p1055
-aVIsland
+aVLand
 p1056
-aVIsland
+aVLand
 p1057
-aVIsolated Chapel
+aVLand
 p1058
-aVIsland
+aVLand
 p1059
-aVIsland
+aVLand
 p1060
-aVIsland
+aVLand
 p1061
-aVIsland Sanctuary
+aVLand
 p1062
-aVIsland
+aVLand
 p1063
-aVIsland
+aVLand
 p1064
-aVIsland
+aVRare
 p1065
-aVIsland
+aVLand
 p1066
-aVIsland Sanctuary
+aVLand
 p1067
-aVIsperia the Inscrutable
+aVLand
 p1068
-aVIsland
+aVRare
 p1069
-aVIsochron Scepter
+aVLand
 p1070
-aVIsland
+aVLand
 p1071
-aVIsland
+aVLand
 p1072
-aVIsland
+aVLand
 p1073
-aVIsland
+aVRare
 p1074
-aVIsland
+aVRare
 p1075
-aVIsland
+aVLand
 p1076
-aVIsland
+aVUncommon
 p1077
-aVIsland of Wak-Wak
+aVLand
 p1078
-aVIsland Fish Jasconius
+aVLand
 p1079
-aVIsland
+aVLand
 p1080
-aVIsland
+aVLand
 p1081
-aVIsland
+aVLand
 p1082
-aVIsland
+aVLand
 p1083
-aVIsland
+aVLand
 p1084
-aVIsland
+aVRare
 p1085
-aVIsland
+aVRare
 p1086
-aVIsland
+aVLand
 p1087
-aVIsland
+aVLand
 p1088
-aVIsland
+aVLand
 p1089
-aVIsland
+aVLand
 p1090
-aVIsland
+aVLand
 p1091
-asS'toughs'
+aVLand
 p1092
-(lp1093
-S'N/A'
+aVLand
+p1093
+aVLand
 p1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-aV5
+aVLand
 p1095
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-aV1
+aVLand
 p1096
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-aV2
+aVLand
 p1097
-ag1094
-ag1094
-ag1094
-ag1094
-ag1096
-ag1096
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-aV4
+aVLand
 p1098
-aV3
-p1099
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1099
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1098
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1097
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
 asS'artists'
-p1100
-(lp1101
+p1099
+(lp1100
 VRob Alexander
+p1101
+aVJohn Avon
 p1102
 aVJohn Avon
 p1103
-aVJohn Avon
-p1104
 aVRichard Wright
-p1105
+p1104
 aVRob Alexander
-p1106
+p1105
 aVMichael Komarck
-p1107
+p1106
 aVPeter Mohrbacher
+p1107
+ag485
+aVMark Poole
 p1108
-ag715
 aVMark Poole
 p1109
 aVMark Poole
 p1110
 aVMark Poole
 p1111
-aVMark Poole
+aVKu Xueming
 p1112
 aVKu Xueming
 p1113
 aVKu Xueming
 p1114
-aVKu Xueming
+aVDonato Giancola
 p1115
 aVDonato Giancola
 p1116
-aVDonato Giancola
-p1117
 aVMike Bierek
+p1117
+aVCliff Childs
 p1118
-aVCliff Childs
-p1119
 aVPeter Mohrbacher
-p1120
+p1119
 aVCliff Childs
+p1120
+aVMark Poole
 p1121
 aVMark Poole
 p1122
 aVMark Poole
 p1123
-aVMark Poole
-p1124
 aVJesper Myrfors
-p1125
+p1124
 aVMark Poole
-p1126
+p1125
 aVMark Tedin
+p1126
+aVJung Park
 p1127
 aVJung Park
 p1128
@@ -2812,17 +2813,17 @@ aVJung Park
 p1129
 aVJung Park
 p1130
-aVJung Park
-p1131
 aVRob Alexander
-p1132
+p1131
 aVJohn Avon
-p1133
+p1132
 aVScott Bailey
-p1134
+p1133
 aVFred Fields
-p1135
+p1134
 aVCliff Childs
+p1135
+aVRandy Gallegos
 p1136
 aVRandy Gallegos
 p1137
@@ -2830,37 +2831,37 @@ aVRandy Gallegos
 p1138
 aVRandy Gallegos
 p1139
-aVRandy Gallegos
-p1140
 aVMartina Pilcerova
-p1141
+p1140
 aVDonato Giancola
-p1142
+p1141
 aVJohn Avon
-p1143
+p1142
 aVStephan Martiniere
-p1144
+p1143
 aVTerry Springer
+p1144
+aVScott Bailey
 p1145
 aVScott Bailey
 p1146
-aVScott Bailey
-p1147
 aVTony Szczudlo
-p1148
-ag715
-ag715
+p1147
+ag485
+ag485
 aVEric Peterson
-p1149
+p1148
 aVDouglas Shuler
+p1149
+aVKu Xueming
 p1150
 aVKu Xueming
 p1151
-aVKu Xueming
-p1152
 aVMelissa A. Benson
-p1153
+p1152
 aVJesper Myrfors
+p1153
+aVMark Poole
 p1154
 aVMark Poole
 p1155
@@ -2868,36 +2869,36 @@ aVMark Poole
 p1156
 aVMark Poole
 p1157
-aVMark Poole
+aVJohn Avon
 p1158
 aVJohn Avon
 p1159
-aVJohn Avon
+aVTony Szczudlo
 p1160
-aVTony Szczudlo
-p1161
 aVScott Bailey
-p1162
+p1161
 aVJung Park
-p1163
+p1162
 aVAdam Paquette
-p1164
+p1163
 aVJames Paick
-p1165
-ag715
-ag715
-ag715
-ag715
-ag715
+p1164
+ag485
+ag485
+ag485
+ag485
+ag485
 aVTony Szczudlo
-p1166
+p1165
 aVBradley Williams
-p1167
+p1166
 aVMatt Thompson
-p1168
+p1167
 aVRandy Elliott
-p1169
+p1168
 aVChristopher Moeller
+p1169
+aVMartina Pilcerova
 p1170
 aVMartina Pilcerova
 p1171
@@ -2905,55 +2906,55 @@ aVMartina Pilcerova
 p1172
 aVMartina Pilcerova
 p1173
-aVMartina Pilcerova
+aVChristopher Moeller
 p1174
-aVChristopher Moeller
-p1175
 aVChristopher Rush
+p1175
+aVCliff Childs
 p1176
-aVCliff Childs
-p1177
 aVStephan Martiniere
-p1178
+p1177
 aVChristopher Moeller
-p1179
+p1178
 aVAnthony S. Waters
-p1180
+p1179
 aVRichard Wright
-p1181
+p1180
 aVCliff Childs
-p1182
+p1181
 aVAlan Pollack
-p1183
+p1182
 aVBen Thompson
-p1184
+p1183
 aVLarry Elmore
+p1184
+aVRob Alexander
 p1185
 aVRob Alexander
 p1186
-aVRob Alexander
-p1187
 aVJeremy Jarvis
-p1188
+p1187
 aVCraig Mullins
+p1188
+aVRichard Wright
 p1189
-aVRichard Wright
-p1190
 aVYeong-Hao Han
-p1191
+p1190
 aVScott M. Fischer
-p1192
+p1191
 aVChris Rahn
+p1192
+aVRichard Wright
 p1193
-aVRichard Wright
-p1194
 aVJohn Avon
-p1195
+p1194
 aVAdam Paquette
-p1196
+p1195
 aVRichard Wright
-p1197
+p1196
 aVChippy
+p1197
+aVMark Poole
 p1198
 aVMark Poole
 p1199
@@ -2961,73 +2962,73 @@ aVMark Poole
 p1200
 aVMark Poole
 p1201
-aVMark Poole
+aVAnson Maddocks
 p1202
 aVAnson Maddocks
 p1203
 aVAnson Maddocks
 p1204
-aVAnson Maddocks
-p1205
 aVJung Park
+p1205
+aVJohn Avon
 p1206
 aVJohn Avon
 p1207
-aVJohn Avon
-p1208
 aVJung Park
+p1208
+aVVéronique Meignaud
 p1209
 aVVéronique Meignaud
 p1210
-aVVéronique Meignaud
+aVVincent Proce
 p1211
 aVVincent Proce
 p1212
-aVVincent Proce
-p1213
 aVDouglas Shuler
-p1214
+p1213
 aVJ. W. Frost
+p1214
+aVJohn Avon
 p1215
-aVJohn Avon
-p1216
 aVEric Peterson
-p1217
+p1216
 aVMark Harrison
+p1217
+aVRob Alexander
 p1218
-aVRob Alexander
-p1219
 aVMark Tedin
-p1220
+p1219
 aVMartina Pilcerova
+p1220
+aVJohn Avon
 p1221
-aVJohn Avon
-p1222
 aVRob Alexander
-p1223
+p1222
 aVJohn Avon
+p1223
+aVChippy
 p1224
 aVChippy
 p1225
-aVChippy
-p1226
 aVMark Tedin
-p1227
+p1226
 aVMichael Komarck
+p1227
+aVChippy
 p1228
 aVChippy
 p1229
-aVChippy
-p1230
 aVScott Bailey
-p1231
+p1230
 aVRob Alexander
-p1232
+p1231
 aVJohn Avon
-p1233
+p1232
 aVTony Szczudlo
-p1234
+p1233
 aVFlorian de Gesincourt
+p1234
+aVVincent Proce
 p1235
 aVVincent Proce
 p1236
@@ -3035,51 +3036,51 @@ aVVincent Proce
 p1237
 aVVincent Proce
 p1238
-aVVincent Proce
-p1239
 aVMark Tedin
-p1240
+p1239
 aVOmar Rayyan
-p1241
+p1240
 aVWarren Mahy
-p1242
+p1241
 aVBrandon Kitkouski
-p1243
+p1242
 aVRob Alexander
-p1244
+p1243
 aVJung Park
-p1245
-ag715
-ag715
+p1244
+ag485
+ag485
 aVDouglas Shuler
-p1246
+p1245
 aVJ. W. Frost
-p1247
+p1246
 aVJohn Avon
-p1248
+p1247
 aVEric Peterson
+p1248
+aVJohn Avon
 p1249
 aVJohn Avon
 p1250
 aVJohn Avon
 p1251
-aVJohn Avon
-p1252
 aVZoltan Boros & Gabor Szikszai
-p1253
+p1252
 aVMark Tedin
+p1253
+aVRob Alexander
 p1254
-aVRob Alexander
+aVMartina Pilcerova
 p1255
-aVMartina Pilcerova
-p1256
 aVJohn Avon
-p1257
+p1256
 aVRob Alexander
-p1258
+p1257
 aVJung Park
-p1259
+p1258
 aVMartina Pilcerova
+p1259
+aVDonato Giancola
 p1260
 aVDonato Giancola
 p1261
@@ -3087,35 +3088,35 @@ aVDonato Giancola
 p1262
 aVDonato Giancola
 p1263
-aVDonato Giancola
+aVMark Poole
 p1264
 aVMark Poole
 p1265
 aVMark Poole
 p1266
-aVMark Poole
-p1267
 aVDouglas Shuler
-p1268
+p1267
 aVSteven Belledin
+p1268
+aVJohn Avon
 p1269
 aVJohn Avon
 p1270
-aVJohn Avon
+aVTony Szczudlo
 p1271
-aVTony Szczudlo
-p1272
 aVScott Bailey
-p1273
+p1272
 aVTony Szczudlo
-p1274
+p1273
 aVJohn Avon
-p1275
+p1274
 aVTerese Nielsen
-p1276
+p1275
 aVDarrell Riche
-p1277
+p1276
 aVMark Poole
+p1277
+aVJ. W. Frost
 p1278
 aVJ. W. Frost
 p1279
@@ -3123,17 +3124,17 @@ aVJ. W. Frost
 p1280
 aVJ. W. Frost
 p1281
-aVJ. W. Frost
+aVJohn Avon
 p1282
 aVJohn Avon
 p1283
 aVJohn Avon
 p1284
-aVJohn Avon
-p1285
 aVFlorian de Gesincourt
-p1286
+p1285
 aVYeong-Hao Han
+p1286
+aVDouglas Shuler
 p1287
 aVDouglas Shuler
 p1288
@@ -3141,15 +3142,15 @@ aVDouglas Shuler
 p1289
 aVDouglas Shuler
 p1290
-aVDouglas Shuler
-p1291
 aVJames Paick
-p1292
+p1291
 aVCliff Childs
-p1293
+p1292
 aVAdam Paquette
-p1294
+p1293
 aVJung Park
+p1294
+aVMark Poole
 p1295
 aVMark Poole
 p1296
@@ -3157,53 +3158,53 @@ aVMark Poole
 p1297
 aVMark Poole
 p1298
-aVMark Poole
+aVJohn Avon
 p1299
-aVJohn Avon
-p1300
 aVTony Szczudlo
-p1301
+p1300
 aVMark Poole
-p1302
+p1301
 aVGreg Staples
-p1303
+p1302
 aVChristopher Moeller
-p1304
+p1303
 aVMark Harrison
-p1305
+p1304
 aVStephan Martiniere
-p1306
+p1305
 aVAnthony S. Waters
-p1307
+p1306
 aVRichard Wright
-p1308
+p1307
 aVWarren Mahy
-p1309
+p1308
 aVRon Spears
-p1310
+p1309
 aVMartina Pilcerova
+p1310
+aVRob Alexander
 p1311
-aVRob Alexander
-p1312
 aVDouglas Shuler
-p1313
+p1312
 aVJesper Myrfors
-p1314
+p1313
 aVRandy Gallegos
-p1315
+p1314
 aVJohn Avon
-p1316
+p1315
 aVRob Alexander
-p1317
+p1316
 aVFred Fields
-p1318
+p1317
 aVEric Peterson
+p1318
+aVKu Xueming
 p1319
 aVKu Xueming
 p1320
 aVKu Xueming
 p1321
-aVKu Xueming
+aVEric Peterson
 p1322
 aVEric Peterson
 p1323
@@ -3211,251 +3212,251 @@ aVEric Peterson
 p1324
 aVEric Peterson
 p1325
-aVEric Peterson
-p1326
 asS'powers'
-p1327
-(lp1328
-g1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1098
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1096
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1097
-ag1094
-ag1094
-ag1094
-ag1094
-ag1097
-ag1096
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
+p1326
+(lp1327
+g3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag7
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag5
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag6
+ag3
+ag3
+ag3
+ag3
+ag6
+ag5
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
 aV6
-p1329
-ag1099
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1097
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1096
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1099
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
-ag1094
+p1328
+ag8
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag6
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag5
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag8
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
 asS'types'
-p1330
-(lp1331
+p1329
+(lp1330
 VBasic Land - Island
+p1331
+aVBasic Land - Island
 p1332
 aVBasic Land - Island
 p1333
@@ -3475,9 +3476,9 @@ aVBasic Land - Island
 p1340
 aVBasic Land - Island
 p1341
-aVBasic Land - Island
-p1342
 aVEnchantment
+p1342
+aVBasic Land - Island
 p1343
 aVBasic Land - Island
 p1344
@@ -3501,11 +3502,11 @@ aVBasic Land - Island
 p1353
 aVBasic Land - Island
 p1354
-aVBasic Land - Island
-p1355
 aVCreature - Fish
-p1356
+p1355
 aVEnchantment
+p1356
+aVBasic Land - Island
 p1357
 aVBasic Land - Island
 p1358
@@ -3563,17 +3564,17 @@ aVBasic Land - Island
 p1384
 aVBasic Land - Island
 p1385
-aVBasic Land - Island
-p1386
 aVCreature - Fish
+p1386
+aVBasic Land - Island
 p1387
 aVBasic Land - Island
 p1388
 aVBasic Land - Island
 p1389
-aVBasic Land - Island
-p1390
 aVEnchantment
+p1390
+aVBasic Land - Island
 p1391
 aVBasic Land - Island
 p1392
@@ -3605,9 +3606,9 @@ aVBasic Land - Island
 p1405
 aVBasic Land - Island
 p1406
-aVBasic Land - Island
-p1407
 aVLegendary Creature - Hound
+p1407
+aVBasic Land - Island
 p1408
 aVBasic Land - Island
 p1409
@@ -3615,13 +3616,13 @@ aVBasic Land - Island
 p1410
 aVBasic Land - Island
 p1411
-aVBasic Land - Island
-p1412
 aVLegendary Creature - Human Samurai
-p1413
+p1412
 aVLegendary Creature - Goblin Warrior
-p1414
+p1413
 aVLand
+p1414
+aVBasic Land - Island
 p1415
 aVBasic Land - Island
 p1416
@@ -3649,11 +3650,11 @@ aVBasic Land - Island
 p1427
 aVBasic Land - Island
 p1428
-aVBasic Land - Island
-p1429
 aVLegendary Creature - Sphinx
-p1430
+p1429
 aVCreature - Vedalken Knight
+p1430
+aVBasic Land - Island
 p1431
 aVBasic Land - Island
 p1432
@@ -3661,17 +3662,17 @@ aVBasic Land - Island
 p1433
 aVBasic Land - Island
 p1434
-aVBasic Land - Island
-p1435
 aVArtifact
+p1435
+aVBasic Land - Island
 p1436
 aVBasic Land - Island
 p1437
 aVBasic Land - Island
 p1438
-aVBasic Land - Island
-p1439
 aVEnchantment
+p1439
+aVBasic Land - Island
 p1440
 aVBasic Land - Island
 p1441
@@ -3701,9 +3702,9 @@ aVBasic Land - Island
 p1453
 aVBasic Land - Island
 p1454
-aVBasic Land - Island
-p1455
 aVArtifact
+p1455
+aVBasic Land - Island
 p1456
 aVBasic Land - Island
 p1457
@@ -3745,9 +3746,9 @@ aVBasic Land - Island
 p1475
 aVBasic Land - Island
 p1476
-aVBasic Land - Island
-p1477
 aVCreature - Kraken
+p1477
+aVBasic Land - Island
 p1478
 aVBasic Land - Island
 p1479
@@ -3757,9 +3758,9 @@ aVBasic Land - Island
 p1481
 aVBasic Land - Island
 p1482
-aVBasic Land - Island
-p1483
 aVArtifact
+p1483
+aVBasic Land - Island
 p1484
 aVBasic Land - Island
 p1485
@@ -3775,9 +3776,9 @@ aVBasic Land - Island
 p1490
 aVBasic Land - Island
 p1491
-aVBasic Land - Island
-p1492
 aVPlane - Dominaria
+p1492
+aVBasic Land - Island
 p1493
 aVBasic Land - Island
 p1494
@@ -3805,9 +3806,9 @@ aVBasic Land - Island
 p1505
 aVBasic Land - Island
 p1506
-aVBasic Land - Island
-p1507
 aVLand
+p1507
+aVBasic Land - Island
 p1508
 aVBasic Land - Island
 p1509
@@ -3825,9 +3826,9 @@ aVBasic Land - Island
 p1515
 aVBasic Land - Island
 p1516
-aVBasic Land - Island
-p1517
 aVEnchantment
+p1517
+aVBasic Land - Island
 p1518
 aVBasic Land - Island
 p1519
@@ -3855,17 +3856,17 @@ aVBasic Land - Island
 p1530
 aVBasic Land - Island
 p1531
-aVBasic Land - Island
-p1532
 aVLand
+p1532
+aVBasic Land - Island
 p1533
 aVBasic Land - Island
 p1534
 aVBasic Land - Island
 p1535
-aVBasic Land - Island
-p1536
 aVEnchantment
+p1536
+aVBasic Land - Island
 p1537
 aVBasic Land - Island
 p1538
@@ -3873,15 +3874,15 @@ aVBasic Land - Island
 p1539
 aVBasic Land - Island
 p1540
-aVBasic Land - Island
-p1541
 aVEnchantment
-p1542
+p1541
 aVLegendary Creature - Sphinx
-p1543
+p1542
 aVBasic Land - Island
-p1544
+p1543
 aVArtifact
+p1544
+aVBasic Land - Island
 p1545
 aVBasic Land - Island
 p1546
@@ -3895,11 +3896,11 @@ aVBasic Land - Island
 p1550
 aVBasic Land - Island
 p1551
-aVBasic Land - Island
-p1552
 aVLand
-p1553
+p1552
 aVCreature - Fish
+p1553
+aVBasic Land - Island
 p1554
 aVBasic Land - Island
 p1555
@@ -3923,478 +3924,476 @@ aVBasic Land - Island
 p1564
 aVBasic Land - Island
 p1565
-aVBasic Land - Island
-p1566
 asS'numbers'
-p1567
-(lp1568
+p1566
+(lp1567
 V303
-p1569
+p1568
 aV304
-p1570
+p1569
 aV305
-p1571
+p1570
 aV306
+p1571
+aV234
 p1572
-aV234
+aV236
 p1573
-aV236
+aV237
 p1574
-aV237
+aV235
 p1575
-aV235
+aV137
 p1576
-aV137
+aV138
 p1577
-aV138
+aV139
 p1578
-aV139
+aV140
 p1579
-aV140
+aV79
 p1580
-aV79
-p1581
 aV80
-p1582
+p1581
 aV81
-p1583
+p1582
 aV82
-p1584
+p1583
 aV83
+p1584
+aV235
 p1585
-aV235
+aV234
 p1586
-aV234
+aV236
 p1587
-aV236
+aV237
 p1588
-aV237
-p1589
 aV239
-p1590
+p1589
 aV240
-p1591
+p1590
 aV241
-p1592
+p1591
 aV242
-p1593
+p1592
 aV243
-p1594
+p1593
 aV79
+p1594
+aV235
 p1595
-aV235
+aV234
 p1596
-aV234
+aV236
 p1597
-aV236
+aV237
 p1598
-aV237
+aV234
 p1599
-aV234
+aV235
 p1600
-aV235
-p1601
 aV236
-p1602
+p1601
 aV237
+p1602
+aV235
 p1603
-aV235
-p1604
 aV273
-p1605
+p1604
 aV274
-p1606
+p1605
 aV275
-p1607
+p1606
 aV276
-p1608
+p1607
 aV370
-p1609
+p1608
 aV368
-p1610
+p1609
 aV369
-p1611
+p1610
 aV371
+p1611
+aV335
 p1612
-aV335
+aV336
 p1613
-aV336
+aV337
 p1614
-aV337
+aV338
 p1615
-aV338
-p1616
 aV148
-p1617
+p1616
 aV149
-p1618
+p1617
 aV22
-p1619
+p1618
 aV23
-p1620
+p1619
 aV219
-p1621
+p1620
 aV220
-p1622
+p1621
 aV221
-p1623
+p1622
 aV27
-p1624
+p1623
 aV162
-p1625
+p1624
 aV163
-p1626
+p1625
 aV164
-p1627
+p1626
 aV165
+p1627
+aV335
 p1628
-aV335
+aV336
 p1629
-aV336
+aV337
 p1630
-aV337
+aV338
 p1631
-aV338
+aV235
 p1632
-aV235
-p1633
 aV233
-p1634
+p1633
 aV234
+p1634
+aV140
 p1635
-aV140
-p1636
 aV137
-p1637
+p1636
 aV138
+p1637
+aV139
 p1638
-aV139
+aV141
 p1639
-aV141
+aV335
 p1640
-aV335
+aV336
 p1641
-aV336
+aV337
 p1642
-aV337
+aV338
 p1643
-aV338
-p1644
 aV19
+p1644
+aV291
 p1645
-aV291
+aV292
 p1646
-aV292
+aV293
 p1647
-aV293
+aV294
 p1648
-aV294
-p1649
 aV129
-p1650
+p1649
 aV110
-p1651
+p1650
 aV16
-p1652
+p1651
 aV291
-p1653
+p1652
 aV292
-p1654
+p1653
 aV293
-p1655
+p1654
 aV294
-p1656
+p1655
 aV342
-p1657
+p1656
 aV335
-p1658
+p1657
 aV336
-p1659
+p1658
 aV337
-p1660
+p1659
 aV338
-p1661
+p1660
 aV286
-p1662
+p1661
 aV287
-p1663
+p1662
 aV288
-p1664
+p1663
 aV289
-p1665
+p1664
 aV256
-p1666
+p1665
 aV171
-p1667
+p1666
 aV43
-p1668
+p1667
 aV258
-p1669
+p1668
 aV255
-p1670
+p1669
 aV257
-p1671
+p1670
 aV259
-p1672
-ag1099
+p1671
+ag8
 aV139
-p1673
+p1672
 aV140
-p1674
+p1673
 aV141
-p1675
+p1674
 aV142
-p1676
+p1675
 aV299
-p1677
+p1676
 aV300
-p1678
+p1677
 aV301
-p1679
+p1678
 aV235
+p1679
+aV234
 p1680
 aV234
 p1681
-aV234
-p1682
 aV235
+p1682
+aV236
 p1683
 aV236
 p1684
-aV236
+aV237
 p1685
 aV237
 p1686
-aV237
+aV335
 p1687
-aV335
+aV336
 p1688
-aV336
+aV337
 p1689
-aV337
+aV338
 p1690
-aV338
-p1691
 aV188
+p1691
+aV292
 p1692
-aV292
-p1693
 aV291
-p1694
+p1693
 aV293
+p1694
+aV294
 p1695
-aV294
-p1696
 aV76
-p1697
+p1696
 aV77
-p1698
+p1697
 aV78
-p1699
+p1698
 aV79
+p1699
+aV237
 p1700
-aV237
+aV234
 p1701
-aV234
+aV235
 p1702
-aV235
+aV236
 p1703
-aV236
-p1704
 aV332
-p1705
+p1704
 aV333
-p1706
+p1705
 aV334
+p1706
+aV335
 p1707
-aV335
+aV255
 p1708
-aV255
+aV234
 p1709
-aV234
-p1710
 aV233
+p1710
+aV235
 p1711
-aV235
+aV236
 p1712
-aV236
+aV40
 p1713
-aV40
+aV286
 p1714
-aV286
+aV287
 p1715
-aV287
+aV288
 p1716
-aV288
+aV289
 p1717
-aV289
+aV169
 p1718
-aV169
+aV141
 p1719
-aV141
-p1720
 aV168
-p1721
+p1720
 aV158
-p1722
+p1721
 aV159
-p1723
+p1722
 aV160
-p1724
+p1723
 aV161
-p1725
+p1724
 aV117
-p1726
+p1725
 aV118
-p1727
+p1726
 aV119
-p1728
+p1727
 aV18
-p1729
+p1728
 aV147
+p1729
+aV148
 p1730
-aV148
+aV149
 p1731
-aV149
+aV150
 p1732
-aV150
-p1733
 aV41
-p1734
+p1733
 aV42
-p1735
+p1734
 aV43
+p1735
+aV335
 p1736
-aV335
+aV336
 p1737
-aV336
+aV337
 p1738
-aV337
+aV338
 p1739
-aV338
-p1740
 aV184
-p1741
+p1740
 aV185
-p1742
+p1741
 aV186
-p1743
+p1742
 aV176
+p1743
+aV235
 p1744
-aV235
+aV335
 p1745
-aV335
+aV336
 p1746
-aV336
+aV337
 p1747
-aV337
+aV338
 p1748
-aV338
-p1749
 aV335
-p1750
+p1749
 aV336
-p1751
+p1750
 aV337
-p1752
+p1751
 aV338
+p1752
+aV183
 p1753
-aV183
-p1754
 aV306
-p1755
+p1754
 aV307
-p1756
+p1755
 aV308
-p1757
+p1756
 aV309
-p1758
+p1757
 aV139
-p1759
+p1758
 aV140
-p1760
+p1759
 aV141
+p1760
+aV255
 p1761
-aV255
+aV38
 p1762
-aV38
-p1763
 aV294
-p1764
+p1763
 aV295
-p1765
+p1764
 aV296
-p1766
+p1765
 aV297
-p1767
+p1766
 aV253
-p1768
+p1767
 aV242
-p1769
+p1768
 aV254
-p1770
+p1769
 aV255
-p1771
+p1770
 aV182
-p1772
+p1771
 aV183
-p1773
+p1772
 aV292
-p1774
+p1773
 aV55
-p1775
+p1774
 aV56
-p1776
+p1775
 aV57
-p1777
+p1776
 aV15
-p1778
+p1777
 aV114
+p1778
+aV38
 p1779
-aV38
-p1780
 aV16
+p1780
+aV37
 p1781
-aV37
-p1782
 aV39
-p1783
+p1782
 aV40
-p1784
+p1783
 aV286
-p1785
+p1784
 aV287
-p1786
+p1785
 aV288
-p1787
+p1786
 aV289
-p1788
+p1787
 aV37
-p1789
+p1788
 aV65
-p1790
+p1789
 aV38
-p1791
+p1790
 aV235
-p1792
+p1791
 aV234
-p1793
+p1792
 aV236
-p1794
+p1793
 aV237
-p1795
+p1794
 aV169
-p1796
+p1795
 aV170
-p1797
+p1796
 aV171
-p1798
+p1797
 aV148
-p1799
+p1798
 aV149
-p1800
+p1799
 aV150
-p1801
+p1800
 aV151
-p1802
+p1801
 as.

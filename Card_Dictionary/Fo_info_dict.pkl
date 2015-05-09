@@ -1,4857 +1,4858 @@
 (dp0
-S'rares'
+S'toughs'
 p1
 (lp2
-VLand
+S'N/A'
 p3
-aVLand
+ag3
+aV2
 p4
-aVUncommon
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+aV4
 p5
-aVCommon
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+aV3
 p6
-aVLand
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag4
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag5
+aV0
 p7
-aVLand
+aV1
 p8
-aVLand
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag8
+ag3
+ag3
+ag3
+ag3
+ag3
+ag4
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag6
+ag3
+ag3
+ag3
+ag3
+aV5
 p9
-aVLand
+ag3
+ag3
+ag8
+ag4
+ag3
+ag6
+ag3
+ag3
+ag3
+ag3
+ag8
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag5
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag5
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag5
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag9
+ag3
+ag3
+ag8
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag8
+ag6
+ag6
+ag3
+ag3
+ag5
+ag3
+ag3
+ag3
+ag3
+ag3
+ag5
+ag3
+ag4
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag6
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag8
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag8
+ag8
+ag3
+ag8
+ag3
+ag3
+ag3
+ag3
+ag3
+ag8
+ag3
+aV6
 p10
-aVCommon
-p11
-aVLand
-p12
-aVLand
-p13
-aVLand
-p14
-aVCommon
-p15
-aVLand
-p16
-aVCommon
-p17
-aVRare
-p18
-aVRare
-p19
-aVLand
-p20
-aVLand
-p21
-aVLand
-p22
-aVRare
-p23
-aVUncommon
-p24
-aVLand
-p25
-aVLand
-p26
-aVLand
-p27
-aVLand
-p28
-aVLand
-p29
-aVLand
-p30
-aVLand
-p31
-aVLand
-p32
-aVLand
-p33
-aVCommon
-p34
-aVUncommon
-p35
-aVCommon
-p36
-aVLand
-p37
-aVLand
-p38
-aVLand
-p39
-aVLand
-p40
-aVCommon
-p41
-aVCommon
-p42
-aVRare
-p43
-aVLand
-p44
-aVLand
-p45
-aVLand
-p46
-aVLand
-p47
-aVLand
-p48
-aVUncommon
-p49
-aVCommon
-p50
-aVCommon
-p51
-aVRare
-p52
-aVLand
-p53
-aVLand
-p54
-aVLand
-p55
-aVLand
-p56
-aVLand
-p57
-aVLand
-p58
-aVLand
-p59
-aVLand
-p60
-aVRare
-p61
-aVUncommon
-p62
-aVCommon
-p63
-aVCommon
-p64
-aVLand
-p65
-aVLand
-p66
-aVLand
-p67
-aVLand
-p68
-aVCommon
-p69
-aVLand
-p70
-aVCommon
-p71
-aVRare
-p72
-aVLand
-p73
-aVLand
-p74
-aVLand
-p75
-aVLand
-p76
-aVUncommon
-p77
-aVLand
-p78
-aVLand
-p79
-aVUncommon
-p80
-aVUncommon
-p81
-aVLand
-p82
-aVLand
-p83
-aVRare
-p84
-aVRare
-p85
-aVRare
-p86
-aVRare
-p87
-aVUncommon
-p88
-aVLand
-p89
-aVLand
-p90
-aVLand
-p91
-aVLand
-p92
-aVRare
-p93
-aVCommon
-p94
-aVUncommon
-p95
-aVLand
-p96
-aVLand
-p97
-aVLand
-p98
-aVLand
-p99
-aVUncommon
-p100
-aVCommon
-p101
-aVCommon
-p102
-aVLand
-p103
-aVLand
-p104
-aVLand
-p105
-aVUncommon
-p106
-aVCommon
-p107
-aVRare
-p108
-aVLand
-p109
-aVLand
-p110
-aVLand
-p111
-aVRare
-p112
-aVCommon
-p113
-aVUncommon
-p114
-aVUncommon
-p115
-aVCommon
-p116
-aVRare
-p117
-aVRare
-p118
-aVCommon
-p119
-aVLand
-p120
-aVLand
-p121
-aVLand
-p122
-aVLand
-p123
-aVCommon
-p124
-aVRare
-p125
-aVLand
-p126
-aVLand
-p127
-aVLand
-p128
-aVLand
-p129
-aVLand
-p130
-aVLand
-p131
-aVLand
-p132
-aVLand
-p133
-aVLand
-p134
-aVCommon
-p135
-aVCommon
-p136
-aVLand
-p137
-aVLand
-p138
-aVLand
-p139
-aVLand
-p140
-aVMythic Rare
-p141
-aVRare
-p142
-aVLand
-p143
-aVLand
-p144
-aVLand
-p145
-aVLand
-p146
-aVUncommon
-p147
-aVUncommon
-p148
-aVRare
-p149
-aVLand
-p150
-aVLand
-p151
-aVLand
-p152
-aVLand
-p153
-aVUncommon
-p154
-aVLand
-p155
-aVCommon
-p156
-aVRare
-p157
-aVLand
-p158
-aVLand
-p159
-aVLand
-p160
-aVLand
-p161
-aVCommon
-p162
-aVUncommon
-p163
-aVCommon
-p164
-aVRare
-p165
-aVUncommon
-p166
-aVLand
-p167
-aVLand
-p168
-aVLand
-p169
-aVLand
-p170
-aVLand
-p171
-aVLand
-p172
-aVLand
-p173
-aVLand
-p174
-aVLand
-p175
-aVCommon
-p176
-aVUncommon
-p177
-aVRare
-p178
-aVCommon
-p179
-aVUncommon
-p180
-aVCommon
-p181
-aVRare
-p182
-aVRare
-p183
-aVLand
-p184
-aVLand
-p185
-aVLand
-p186
-aVRare
-p187
-aVCommon
-p188
-aVUncommon
-p189
-aVCommon
-p190
-aVRare
-p191
-aVUncommon
-p192
-aVRare
-p193
-aVLand
-p194
-aVLand
-p195
-aVLand
-p196
-aVCommon
-p197
-aVLand
-p198
-aVLand
-p199
-aVLand
-p200
-aVLand
-p201
-aVLand
-p202
-aVLand
-p203
-aVLand
-p204
-aVLand
-p205
-aVCommon
-p206
-aVRare
-p207
-aVCommon
-p208
-aVLand
-p209
-aVLand
-p210
-aVLand
-p211
-aVLand
-p212
-aVRare
-p213
-aVUncommon
-p214
-aVUncommon
-p215
-aVLand
-p216
-aVLand
-p217
-aVLand
-p218
-aVLand
-p219
-aVUncommon
-p220
-aVLand
-p221
-aVLand
-p222
-aVLand
-p223
-aVLand
-p224
-aVCommon
-p225
-aVUncommon
-p226
-aVCommon
-p227
-aVLand
-p228
-aVLand
-p229
-aVLand
-p230
-aVLand
-p231
-aVUncommon
-p232
-aVRare
-p233
-aVLand
-p234
-aVCommon
-p235
-aVCommon
-p236
-aVUncommon
-p237
-aVCommon
-p238
-aVLand
-p239
-aVUncommon
-p240
-aVLand
-p241
-aVLand
-p242
-aVLand
-p243
-aVUncommon
-p244
-aVCommon
-p245
-aVCommon
-p246
-aVUncommon
-p247
-aVLand
-p248
-aVLand
-p249
-aVLand
-p250
-aVLand
-p251
-aVLand
-p252
-aVCommon
-p253
-aVLand
-p254
-aVCommon
-p255
-aVLand
-p256
-aVLand
-p257
-aVLand
-p258
-aVLand
-p259
-aVUncommon
-p260
-aVRare
-p261
-aVRare
-p262
-aVRare
-p263
-aVCommon
-p264
-aVCommon
-p265
-aVRare
-p266
-aVUncommon
-p267
-aVLand
-p268
-aVLand
-p269
-aVLand
-p270
-aVLand
-p271
-aVLand
-p272
-aVLand
-p273
-aVLand
-p274
-aVLand
-p275
-aVRare
-p276
-aVUncommon
-p277
-aVCommon
-p278
-aVLand
-p279
-aVLand
-p280
-aVLand
-p281
-aVLand
-p282
-aVRare
-p283
-aVRare
-p284
-aVLand
-p285
-aVLand
-p286
-aVLand
-p287
-aVLand
-p288
-aVUncommon
-p289
-aVCommon
-p290
-aVUncommon
-p291
-aVUncommon
-p292
-aVLand
-p293
-aVLand
-p294
-aVLand
-p295
-aVLand
-p296
-aVCommon
-p297
-aVCommon
-p298
-aVLand
-p299
-aVLand
-p300
-aVLand
-p301
-aVLand
-p302
-aVCommon
-p303
-aVCommon
-p304
-aVCommon
-p305
-aVCommon
-p306
-aVCommon
-p307
-aVUncommon
-p308
-aVRare
-p309
-aVCommon
-p310
-aVCommon
-p311
-aVRare
-p312
-aVCommon
-p313
-aVLand
-p314
-aVLand
-p315
-aVLand
-p316
-aVLand
-p317
-aVUncommon
-p318
-aVCommon
-p319
-aVLand
-p320
-aVLand
-p321
-aVLand
-p322
-aVRare
-p323
-aVCommon
-p324
-aVLand
-p325
-aVLand
-p326
-aVRare
-p327
-aVCommon
-p328
-aVUncommon
-p329
-aVRare
-p330
-aVLand
-p331
-aVLand
-p332
-aVLand
-p333
-aVLand
-p334
-aVCommon
-p335
-aVLand
-p336
-aVCommon
-p337
-aVLand
-p338
-aVLand
-p339
-aVRare
-p340
-aVRare
-p341
-aVCommon
-p342
-aVRare
-p343
-aVLand
-p344
-aVLand
-p345
-aVRare
-p346
-aVUncommon
-p347
-aVCommon
-p348
-aVCommon
-p349
-aVRare
-p350
-aVLand
-p351
-aVLand
-p352
-aVLand
-p353
-aVCommon
-p354
-aVRare
-p355
-aVRare
-p356
-aVCommon
-p357
-aVCommon
-p358
-aVRare
-p359
-aVCommon
-p360
-aVUncommon
-p361
-aVCommon
-p362
-aVLand
-p363
-aVCommon
-p364
-aVLand
-p365
-aVLand
-p366
-aVLand
-p367
-aVCommon
-p368
-aVRare
-p369
-aVUncommon
-p370
-aVLand
-p371
-aVLand
-p372
-aVLand
-p373
-aVLand
-p374
-aVLand
-p375
-aVCommon
-p376
-aVCommon
-p377
-aVLand
-p378
-aVLand
-p379
-aVLand
-p380
-aVLand
-p381
-aVCommon
-p382
-aVCommon
-p383
-aVRare
-p384
-aVCommon
-p385
-aVCommon
-p386
-aVLand
-p387
-aVLand
-p388
-aVLand
-p389
-aVLand
-p390
-aVRare
-p391
-aVCommon
-p392
-aVLand
-p393
-aVLand
-p394
-aVLand
-p395
-aVLand
-p396
-aVRare
-p397
-aVCommon
-p398
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag5
+ag3
+ag3
+ag3
+ag3
+ag3
+ag6
+ag3
+ag3
+ag5
+ag3
+ag4
+ag4
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag4
+ag4
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag6
+ag8
+ag4
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag6
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag8
+ag3
+ag3
+ag3
+ag3
+ag3
+ag8
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag6
+ag3
+ag3
+ag3
+ag3
+ag3
+ag5
+ag3
+ag3
+ag3
+ag3
+ag3
+ag6
+ag8
+ag3
+ag3
+ag3
+ag3
+ag10
+ag3
+ag9
+ag4
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag6
+ag9
+ag3
+ag4
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag5
+ag3
+ag3
+ag3
+ag3
+ag3
+ag4
 asS'editns'
-p399
-(lp400
+p11
+(lp12
 VAnthologies
-p401
+p13
 aVAnthologies
-p402
+p14
 aVMagic: The Gathering-Commander
-p403
+p15
 aVMagic: The Gathering-Commander
-p404
+p16
 aVMagic: The Gathering-Commander
-p405
+p17
 aVMagic: The Gathering-Commander
-p406
+p18
 aVMagic: The Gathering-Commander
-p407
+p19
 aVMagic: The Gathering-Commander
-p408
+p20
 aVMagic: The Gathering-Commander
-p409
+p21
 aVMagic 2012
-p410
+p22
 aVMagic 2012
-p411
+p23
 aVMagic 2012
-p412
+p24
 aVMagic 2012
-p413
+p25
 aVMagic 2012
-p414
+p26
 aVLimited Edition Beta
-p415
+p27
 aVLimited Edition Beta
-p416
+p28
 aVLimited Edition Beta
-p417
+p29
 aVLimited Edition Beta
-p418
+p30
 aVLimited Edition Beta
-p419
+p31
 aVLimited Edition Beta
-p420
+p32
 aVLimited Edition Beta
-p421
+p33
 aVSaviors of Kamigawa
-p422
+p34
 aVBattle Royale Box Set
-p423
+p35
 aVBattle Royale Box Set
-p424
+p36
 aVBattle Royale Box Set
-p425
+p37
 aVBattle Royale Box Set
-p426
+p38
 aVBattle Royale Box Set
-p427
+p39
 aVBattle Royale Box Set
-p428
+p40
 aVBattle Royale Box Set
-p429
+p41
 aVBattle Royale Box Set
-p430
+p42
 aVBattle Royale Box Set
-p431
+p43
 aVMorningtide
-p432
+p44
 aVMagic 2013
-p433
+p45
 aVMagic 2013
-p434
+p46
 aVMagic 2013
-p435
+p47
 aVMagic 2013
-p436
+p48
 aVMagic 2013
-p437
+p49
 aVMagic 2013
-p438
+p50
 aVFourth Edition
-p439
+p51
 aVFourth Edition
-p440
+p52
 aVFourth Edition
-p441
+p53
 aVFourth Edition
-p442
+p54
 aVFourth Edition
-p443
+p55
 aVFourth Edition
-p444
+p56
 aVDuel Decks: Ajani vs. Nicol Bolas
-p445
+p57
 aVDuel Decks: Ajani vs. Nicol Bolas
-p446
+p58
 aVAlliances
-p447
+p59
 aVAlliances
-p448
+p60
 aVAlliances
-p449
+p61
 aVFrom the Vault: Dragons
-p450
+p62
 aVDuel Decks: Knights vs. Dragons
-p451
+p63
 aVDuel Decks: Knights vs. Dragons
-p452
+p64
 aVDuel Decks: Knights vs. Dragons
-p453
+p65
 aVDuel Decks: Knights vs. Dragons
-p454
+p66
 aVScars of Mirrodin
-p455
+p67
 aVScars of Mirrodin
-p456
+p68
 aVScars of Mirrodin
-p457
+p69
 aVScars of Mirrodin
-p458
+p70
 aVBorn of the Gods
-p459
+p71
 aVBorn of the Gods
-p460
+p72
 aVBorn of the Gods
-p461
+p73
 aVMagic 2010
-p462
+p74
 aVMagic 2010
-p463
+p75
 aVMagic 2010
-p464
+p76
 aVMagic 2010
-p465
+p77
 aVMagic 2010
-p466
+p78
 aVMagic 2014 Core Set
-p467
+p79
 aVMagic 2014 Core Set
-p468
+p80
 aVMagic 2014 Core Set
-p469
+p81
 aVTempest
-p470
+p82
 aVTempest
-p471
+p83
 aVTempest
-p472
+p84
 aVTempest
-p473
+p85
 aVTempest
-p474
+p86
 aVTenth Edition
-p475
+p87
 aVTenth Edition
-p476
+p88
 aVTenth Edition
-p477
+p89
 aVTenth Edition
-p478
+p90
 aVTenth Edition
-p479
+p91
 aVTenth Edition
-p480
+p92
 aVTenth Edition
-p481
+p93
 aVMercadian Masques
-p482
+p94
 aVMercadian Masques
-p483
+p95
 aVMercadian Masques
-p484
+p96
 aVMercadian Masques
-p485
+p97
 aVMercadian Masques
-p486
+p98
 aVMercadian Masques
-p487
+p99
 aVMercadian Masques
-p488
+p100
 aVMercadian Masques
-p489
+p101
 aVMercadian Masques
-p490
+p102
 aVVintage Masters
-p491
+p103
 aVVintage Masters
-p492
+p104
 aVThe Dark
-p493
+p105
 aVMirrodin Besieged
-p494
+p106
 aVMirrodin Besieged
-p495
+p107
 aVStarter 2000
-p496
+p108
 aVStarter 2000
-p497
+p109
 aVApocalypse
-p498
+p110
 aVMasters Edition III
-p499
+p111
 aVMasters Edition III
-p500
+p112
 aVMasters Edition III
-p501
+p113
 aVMasters Edition III
-p502
+p114
 aVMasters Edition III
-p503
+p115
 aVMasters Edition III
-p504
+p116
 aVRevised Edition
-p505
+p117
 aVRevised Edition
-p506
+p118
 aVRevised Edition
-p507
+p119
 aVRevised Edition
-p508
+p120
 aVRevised Edition
-p509
+p121
 aVRevised Edition
-p510
+p122
 aVMasters Edition II
-p511
+p123
 aVMasters Edition II
-p512
+p124
 aVMasters Edition II
-p513
+p125
 aVMasters Edition II
-p514
+p126
 aVNinth Edition
-p515
+p127
 aVNinth Edition
-p516
+p128
 aVNinth Edition
-p517
+p129
 aVNinth Edition
-p518
+p130
 aVNinth Edition
-p519
+p131
 aVNinth Edition
-p520
+p132
 aVNinth Edition
-p521
+p133
 aVNinth Edition
-p522
+p134
 aVConflux
-p523
+p135
 aVAvacyn Restored
-p524
+p136
 aVAvacyn Restored
-p525
+p137
 aVAvacyn Restored
-p526
+p138
 aVPlanechase 2012 Edition
-p527
+p139
 aVPlanechase 2012 Edition
-p528
+p140
 aVPlanechase 2012 Edition
-p529
+p141
 aVPlanechase 2012 Edition
-p530
+p142
 aVPlanechase 2012 Edition
-p531
+p143
 aVPlanechase 2012 Edition
-p532
+p144
 aVOnslaught
-p533
+p145
 aVOnslaught
-p534
+p146
 aVOnslaught
-p535
+p147
 aVOnslaught
-p536
+p148
 aVOnslaught
-p537
+p149
 aVOnslaught
-p538
+p150
 aVFrom the Vault: Realms
-p539
+p151
 aVChampions of Kamigawa
-p540
+p152
 aVChampions of Kamigawa
-p541
+p153
 aVChampions of Kamigawa
-p542
+p154
 aVChampions of Kamigawa
-p543
+p155
 aVChampions of Kamigawa
-p544
+p156
 aVBetrayers of Kamigawa
-p545
+p157
 aVUrza's Destiny
-p546
+p158
 aVRavnica: City of Guilds
-p547
+p159
 aVRavnica: City of Guilds
-p548
+p160
 aVRavnica: City of Guilds
-p549
+p161
 aVRavnica: City of Guilds
-p550
+p162
 aVRavnica: City of Guilds
-p551
+p163
 aVCommander 2013 Edition
-p552
+p164
 aVCommander 2013 Edition
-p553
+p165
 aVCommander 2013 Edition
-p554
+p166
 aVCommander 2013 Edition
-p555
+p167
 aVOdyssey
-p556
+p168
 aVOdyssey
-p557
+p169
 aVOdyssey
-p558
+p170
 aVOdyssey
-p559
+p171
 aVTime Spiral
-p560
+p172
 aVTime Spiral
-p561
+p173
 aVTime Spiral
-p562
+p174
 aVTime Spiral
-p563
+p175
 aVTime Spiral
-p564
+p176
 aVTime Spiral
-p565
+p177
 aVTime Spiral
-p566
+p178
 aVTime Spiral
-p567
+p179
 aVTime Spiral
-p568
+p180
 aVReturn to Ravnica
-p569
+p181
 aVReturn to Ravnica
-p570
+p182
 aVReturn to Ravnica
-p571
+p183
 aVReturn to Ravnica
-p572
+p184
 aVReturn to Ravnica
-p573
+p185
 aVGatecrash
-p574
+p186
 aVGatecrash
-p575
+p187
 aVGatecrash
-p576
+p188
 aVGatecrash
-p577
+p189
 aVExodus
-p578
+p190
 aVUnlimited Edition
-p579
+p191
 aVUnlimited Edition
-p580
+p192
 aVUnlimited Edition
-p581
+p193
 aVUnlimited Edition
-p582
+p194
 aVUnlimited Edition
-p583
+p195
 aVUnlimited Edition
-p584
+p196
 aVUnlimited Edition
-p585
+p197
 aVIce Age
-p586
+p198
 aVIce Age
-p587
+p199
 aVIce Age
-p588
+p200
 aVIce Age
-p589
+p201
 aVIce Age
-p590
+p202
 aVIce Age
-p591
+p203
 aVIce Age
-p592
+p204
 aVIce Age
-p593
+p205
 aVIce Age
-p594
+p206
 aVIce Age
-p595
+p207
 aVZendikar
-p596
+p208
 aVZendikar
-p597
+p209
 aVZendikar
-p598
+p210
 aVZendikar
-p599
+p211
 aVZendikar
-p600
+p212
 aVZendikar
-p601
+p213
 aVZendikar
-p602
+p214
 aVZendikar
-p603
+p215
 aVClassic Sixth Edition
-p604
+p216
 aVClassic Sixth Edition
-p605
+p217
 aVClassic Sixth Edition
-p606
+p218
 aVClassic Sixth Edition
-p607
+p219
 aVClassic Sixth Edition
-p608
+p220
 aVClassic Sixth Edition
-p609
+p221
 aVClassic Sixth Edition
-p610
+p222
 aVClassic Sixth Edition
-p611
+p223
 aVClassic Sixth Edition
-p612
+p224
 aVMirrodin
-p613
+p225
 aVMirrodin
-p614
+p226
 aVMirrodin
-p615
+p227
 aVMirrodin
-p616
+p228
 aVMirrodin
-p617
+p229
 aVDuel Decks: Elspeth vs. Tezzeret
-p618
+p230
 aVShards of Alara
-p619
+p231
 aVShards of Alara
-p620
+p232
 aVShards of Alara
-p621
+p233
 aVShards of Alara
-p622
+p234
 aVSeventh Edition
-p623
+p235
 aVSeventh Edition
-p624
+p236
 aVSeventh Edition
-p625
+p237
 aVSeventh Edition
-p626
+p238
 aVSeventh Edition
-p627
+p239
 aVSeventh Edition
-p628
+p240
 aVSeventh Edition
-p629
+p241
 aVProphecy
-p630
+p242
 aVProphecy
-p631
+p243
 aVMagic 2015 Core Set
-p632
+p244
 aVMagic 2015 Core Set
-p633
+p245
 aVMagic 2015 Core Set
-p634
+p246
 aVUrza's Legacy
-p635
+p247
 aVUrza's Legacy
-p636
+p248
 aVRise of the Eldrazi
-p637
+p249
 aVRise of the Eldrazi
-p638
+p250
 aVRise of the Eldrazi
-p639
+p251
 aVRise of the Eldrazi
-p640
+p252
 aVRise of the Eldrazi
-p641
+p253
 aVJudgment
-p642
+p254
 aVJudgment
-p643
+p255
 aVShadowmoor
-p644
+p256
 aVShadowmoor
-p645
+p257
 aVShadowmoor
-p646
+p258
 aVShadowmoor
-p647
+p259
 aVShadowmoor
-p648
+p260
 aVShadowmoor
-p649
+p261
 aVNew Phyrexia
-p650
+p262
 aVNew Phyrexia
-p651
+p263
 aVNew Phyrexia
-p652
+p264
 aVStarter 1999
-p653
+p265
 aVStarter 1999
-p654
+p266
 aVStarter 1999
-p655
+p267
 aVStarter 1999
-p656
+p268
 aVStarter 1999
-p657
+p269
 aVFifth Dawn
-p658
+p270
 aVScourge
-p659
+p271
 aVScourge
-p660
+p272
 aVScourge
-p661
+p273
 aVFuture Sight
-p662
+p274
 aVFuture Sight
-p663
+p275
 aVFuture Sight
-p664
+p276
 aVPortal Second Age
-p665
+p277
 aVPortal Second Age
-p666
+p278
 aVPortal Second Age
-p667
+p279
 aVPortal Second Age
-p668
+p280
 aVPlanechase
-p669
+p281
 aVPlanechase
-p670
+p282
 aVPlanechase
-p671
+p283
 aVPlanechase
-p672
+p284
 aVPlanechase
-p673
+p285
 aVPlanechase
-p674
+p286
 aVUrza's Saga
-p675
+p287
 aVUrza's Saga
-p676
+p288
 aVUrza's Saga
-p677
+p289
 aVUrza's Saga
-p678
+p290
 aVUrza's Saga
-p679
+p291
 aVUrza's Saga
-p680
+p292
 aVMasters Edition
-p681
+p293
 aVMasters Edition
-p682
+p294
 aVMasters Edition
-p683
+p295
 aVMasters Edition
-p684
+p296
 aVMasters Edition
-p685
+p297
 aVTheros
-p686
+p298
 aVWeatherlight
-p687
+p299
 aVWeatherlight
-p688
+p300
 aVEighth Edition
-p689
+p301
 aVEighth Edition
-p690
+p302
 aVEighth Edition
-p691
+p303
 aVEighth Edition
-p692
+p304
 aVEighth Edition
-p693
+p305
 aVEighth Edition
-p694
+p306
 aVNemesis
-p695
+p307
 aVChronicles
-p696
+p308
 aVInvasion
-p697
+p309
 aVInvasion
-p698
+p310
 aVInvasion
-p699
+p311
 aVInvasion
-p700
+p312
 aVJourney into Nyx
-p701
+p313
 aVJourney into Nyx
-p702
+p314
 aVJourney into Nyx
-p703
+p315
 aVJourney into Nyx
-p704
+p316
 aVJourney into Nyx
-p705
+p317
 aVJourney into Nyx
-p706
+p318
 aVFifth Edition
-p707
+p319
 aVFifth Edition
-p708
+p320
 aVFifth Edition
-p709
+p321
 aVFifth Edition
-p710
+p322
 aVFifth Edition
-p711
+p323
 aVFifth Edition
-p712
+p324
 aVFifth Edition
-p713
+p325
 aVFifth Edition
-p714
+p326
 aVFifth Edition
-p715
+p327
 aVFifth Edition
-p716
+p328
 aVArchenemy
-p717
+p329
 aVArchenemy
-p718
+p330
 aVArchenemy
-p719
+p331
 aVArchenemy
-p720
+p332
 aVArchenemy
-p721
+p333
 aVKhans of Tarkir
-p722
+p334
 aVKhans of Tarkir
-p723
+p335
 aVDuel Decks: Jace vs. Vraska
-p724
+p336
 aVMirage
-p725
+p337
 aVMirage
-p726
+p338
 aVMirage
-p727
+p339
 aVMirage
-p728
+p340
 aVMirage
-p729
+p341
 aVMirage
-p730
+p342
 aVMirage
-p731
+p343
 aVMirage
-p732
+p344
 aVInnistrad
-p733
+p345
 aVInnistrad
-p734
+p346
 aVInnistrad
-p735
+p347
 aVInnistrad
-p736
+p348
 aVInnistrad
-p737
+p349
 aVLimited Edition Alpha
-p738
+p350
 aVLimited Edition Alpha
-p739
+p351
 aVLimited Edition Alpha
-p740
+p352
 aVLimited Edition Alpha
-p741
+p353
 aVLimited Edition Alpha
-p742
+p354
 aVLimited Edition Alpha
-p743
+p355
 aVVisions
-p744
+p356
 aVVisions
-p745
+p357
 aVBeatdown Box Set
-p746
+p358
 aVBeatdown Box Set
-p747
+p359
 aVBeatdown Box Set
-p748
+p360
 aVBeatdown Box Set
-p749
+p361
 aVBeatdown Box Set
-p750
+p362
 aVBeatdown Box Set
-p751
+p363
 aVMasters Edition IV
-p752
+p364
 aVMasters Edition IV
-p753
+p365
 aVMasters Edition IV
-p754
+p366
 aVMasters Edition IV
-p755
+p367
 aVStronghold
-p756
+p368
 aVLegends
-p757
+p369
 aVLegends
-p758
+p370
 aVLegends
-p759
+p371
 aVDuel Decks: Izzet vs. Golgari
-p760
+p372
 aVDuel Decks: Izzet vs. Golgari
-p761
+p373
 aVDuel Decks: Izzet vs. Golgari
-p762
+p374
 aVDuel Decks: Izzet vs. Golgari
-p763
+p375
 aVDuel Decks: Izzet vs. Golgari
-p764
+p376
 aVDuel Decks: Izzet vs. Golgari
-p765
+p377
 aVLorwyn
-p766
+p378
 aVLorwyn
-p767
+p379
 aVLorwyn
-p768
+p380
 aVLorwyn
-p769
+p381
 aVLorwyn
-p770
+p382
 aVLorwyn
-p771
+p383
 aVLorwyn
-p772
+p384
 aVPremium Deck Series: Slivers
-p773
+p385
 aVMagic 2011
-p774
+p386
 aVMagic 2011
-p775
+p387
 aVMagic 2011
-p776
+p388
 aVMagic 2011
-p777
+p389
 aVMagic 2011
-p778
+p390
 aVMagic 2011
-p779
+p391
 aVHomelands
-p780
+p392
 aVHomelands
-p781
+p393
 aVHomelands
-p782
+p394
 aVPortal Three Kingdoms
-p783
+p395
 aVPortal Three Kingdoms
-p784
+p396
 aVPortal Three Kingdoms
-p785
+p397
 aVPortal Three Kingdoms
-p786
+p398
 aVPortal Three Kingdoms
-p787
+p399
 aVDuel Decks: Heroes vs. Monsters
-p788
+p400
 aVPortal
-p789
+p401
 aVPortal
-p790
+p402
 aVPortal
-p791
+p403
 aVPortal
-p792
+p404
 aVPortal
-p793
+p405
 aVPortal
-p794
+p406
 aVPlaneshift
-p795
+p407
 aVDark Ascension
-p796
+p408
 asS'ids'
-p797
-(lp798
-V-2146729900
-p799
+p409
+(lp410
+I397582
 aV-2146729899
-p800
+p411
 aV247528
-p801
+p412
 aV247300
-p802
+p413
 aV249803
-p803
+p414
 aV249801
-p804
+p415
 aV249800
-p805
+p416
 aV249802
-p806
+p417
 aV247346
-p807
+p418
 aV244320
-p808
+p419
 aV244321
-p809
+p420
 aV244322
-p810
+p421
 aV226900
-p811
+p422
 aV244319
-p812
+p423
 aV444
-p813
+p424
 aV445
-p814
+p425
 aV309
-p815
+p426
 aV588
-p816
+p427
 aV587
-p817
+p428
 aV586
-p818
+p429
 aV495
-p819
+p430
 aV74400
-p820
+p431
 aV22355
-p821
+p432
 aV22354
-p822
+p433
 aV22353
-p823
+p434
 aV22352
-p824
+p435
 aV22351
-p825
+p436
 aV22349
-p826
+p437
 aV22348
-p827
+p438
 aV22347
-p828
+p439
 aV21119
-p829
+p440
 aV157431
-p830
+p441
 aV270314
-p831
+p442
 aV253673
-p832
+p443
 aV249719
-p833
+p444
 aV249718
-p834
+p445
 aV249720
-p835
+p446
 aV249721
-p836
+p447
 aV2341
-p837
+p448
 aV2211
-p838
+p449
 aV2212
-p839
+p450
 aV2379
-p840
+p451
 aV2378
-p841
+p452
 aV2377
-p842
+p453
 aV262651
-p843
+p454
 aV259285
-p844
+p455
 aV3107
-p845
+p456
 aV3109
-p846
+p457
 aV3108
-p847
+p458
 aV178016
-p848
+p459
 aV243460
-p849
+p460
 aV243461
-p850
+p461
 aV243462
-p851
+p462
 aV243463
-p852
+p463
 aV214673
-p853
+p464
 aV214665
-p854
+p465
 aV214680
-p855
+p466
 aV214670
-p856
+p467
 aV378470
-p857
+p468
 aV378443
-p858
+p469
 aV378444
-p859
+p470
 aV189919
-p860
+p471
 aV191407
-p861
+p472
 aV191405
-p862
+p473
 aV191406
-p863
+p474
 aV191409
-p864
+p475
 aV370633
-p865
+p476
 aV370729
-p866
+p477
 aV370712
-p867
+p478
 aV4609
-p868
+p479
 aV4929
-p869
+p480
 aV4928
-p870
+p481
 aV4927
-p871
+p482
 aV4926
-p872
+p483
 aV106428
-p873
+p484
 aV129559
-p874
+p485
 aV129562
-p875
+p486
 aV132073
-p876
+p487
 aV135273
-p877
+p488
 aV129560
-p878
+p489
 aV129561
-p879
+p490
 aV19737
-p880
+p491
 aV19740
-p881
+p492
 aV19784
-p882
+p493
 aV19826
-p883
+p494
 aV19893
-p884
+p495
 aV20896
-p885
+p496
 aV20897
-p886
+p497
 aV20898
-p887
+p498
 aV20899
-p888
+p499
 aV382943
-p889
+p500
 aV382944
-p890
+p501
 aV1715
-p891
+p502
 aV214031
-p892
+p503
 aV214075
-p893
+p504
 aV25483
-p894
+p505
 aV25482
-p895
+p506
 aV28805
-p896
+p507
 aV201160
-p897
+p508
 aV201278
-p898
+p509
 aV206069
-p899
+p510
 aV206070
-p900
+p511
 aV206071
-p901
+p512
 aV201292
-p902
+p513
 aV1244
-p903
+p514
 aV1245
-p904
+p515
 aV1388
-p905
+p516
 aV1387
-p906
+p517
 aV1386
-p907
+p518
 aV1294
-p908
+p519
 aV184623
-p909
+p520
 aV184573
-p910
+p521
 aV184624
-p911
+p522
 aV184625
-p912
+p523
 aV83977
-p913
+p524
 aV84068
-p914
+p525
 aV84608
-p915
+p526
 aV83092
-p916
+p527
 aV83093
-p917
+p528
 aV83094
-p918
+p529
 aV83095
-p919
+p530
 aV84682
-p920
+p531
 aV189147
-p921
+p532
 aV269629
-p922
+p533
 aV269636
-p923
+p534
 aV269635
-p924
+p535
 aV276456
-p925
+p536
 aV276467
-p926
+p537
 aV276468
-p927
+p538
 aV276460
-p928
+p539
 aV276464
-p929
+p540
 aV276454
-p930
+p541
 aV34410
-p931
+p542
 aV41140
-p932
+p543
 aV40116
-p933
+p544
 aV40115
-p934
+p545
 aV40106
-p935
+p546
 aV40105
-p936
+p547
 aV282541
-p937
+p548
 aV79252
-p938
+p549
 aV79062
-p939
+p550
 aV79068
-p940
+p551
 aV79079
-p941
+p552
 aV79078
-p942
+p553
 aV74410
-p943
+p554
 aV15250
-p944
+p555
 aV83699
-p945
+p556
 aV95097
-p946
+p557
 aV95099
-p947
+p558
 aV95098
-p948
+p559
 aV95106
-p949
+p560
 aV376339
-p950
+p561
 aV376342
-p951
+p562
 aV376344
-p952
+p563
 aV376345
-p953
+p564
 aV31625
-p954
+p565
 aV31626
-p955
+p566
 aV31627
-p956
+p567
 aV31628
-p957
+p568
 aV106652
-p958
+p569
 aV108904
-p959
+p570
 aV116732
-p960
+p571
 aV126289
-p961
+p572
 aV126294
-p962
+p573
 aV122088
-p963
+p574
 aV122083
-p964
+p575
 aV118927
-p965
+p576
 aV118906
-p966
+p577
 aV289326
-p967
+p578
 aV289327
-p968
+p579
 aV289325
-p969
+p580
 aV289328
-p970
+p581
 aV333718
-p971
+p582
 aV366336
-p972
+p583
 aV366280
-p973
+p584
 aV366431
-p974
+p585
 aV366472
-p975
+p586
 aV5157
-p976
+p587
 aV746
-p977
+p588
 aV747
-p978
+p589
 aV611
-p979
+p590
 aV890
-p980
+p591
 aV889
-p981
+p592
 aV888
-p982
+p593
 aV797
-p983
+p594
 aV2450
-p984
+p595
 aV2506
-p985
+p596
 aV2559
-p986
+p597
 aV2560
-p987
+p598
 aV2561
-p988
+p599
 aV2685
-p989
+p600
 aV2748
-p990
+p601
 aV2747
-p991
+p602
 aV2746
-p992
+p603
 aV2562
-p993
+p604
 aV201962
-p994
+p605
 aV201959
-p995
+p606
 aV195158
-p996
+p607
 aV195192
-p997
+p608
 aV201960
-p998
+p609
 aV195177
-p999
+p610
 aV201961
-p1000
+p611
 aV195183
-p1001
+p612
 aV14682
-p1002
+p613
 aV15388
-p1003
+p614
 aV16433
-p1004
+p615
 aV14749
-p1005
+p616
 aV14750
-p1006
+p617
 aV14751
-p1007
+p618
 aV14752
-p1008
+p619
 aV14547
-p1009
+p620
 aV14765
-p1010
+p621
 aV46577
-p1011
+p622
 aV48422
-p1012
+p623
 aV48421
-p1013
+p624
 aV48423
-p1014
+p625
 aV48424
-p1015
+p626
 aV222766
-p1016
+p627
 aV174927
-p1017
+p628
 aV174929
-p1018
+p629
 aV174928
-p1019
+p630
 aV174930
-p1020
+p631
 aV11285
-p1021
+p632
 aV25638
-p1022
+p633
 aV11283
-p1023
+p634
 aV11286
-p1024
+p635
 aV11287
-p1025
+p636
 aV11288
-p1026
+p637
 aV11289
-p1027
+p638
 aV24587
-p1028
+p639
 aV24676
-p1029
+p640
 aV383242
-p1030
+p641
 aV383245
-p1031
+p642
 aV383246
-p1032
+p643
 aV12494
-p1033
+p644
 aV9699
-p1034
+p645
 aV205933
-p1035
+p646
 aV193512
-p1036
+p647
 aV205935
-p1037
+p648
 aV205927
-p1038
+p649
 aV205949
-p1039
+p650
 aV34244
-p1040
+p651
 aV35071
-p1041
+p652
 aV141998
-p1042
+p653
 aV146736
-p1043
+p654
 aV157877
-p1044
+p655
 aV157870
-p1045
+p656
 aV158242
-p1046
+p657
 aV158241
-p1047
+p658
 aV230071
-p1048
+p659
 aV230083
-p1049
+p660
 aV230081
-p1050
+p661
 aV20398
-p1051
+p662
 aV21807
-p1052
+p663
 aV21808
-p1053
+p664
 aV21805
-p1054
+p665
 aV21806
-p1055
+p666
 aV51631
-p1056
+p667
 aV44219
-p1057
+p668
 aV45138
-p1058
+p669
 aV43566
-p1059
+p670
 aV126149
-p1060
+p671
 aV130669
-p1061
+p672
 aV130713
-p1062
+p673
 aV6568
-p1063
+p674
 aV8410
-p1064
+p675
 aV8409
-p1065
+p676
 aV8408
-p1066
+p677
 aV205464
-p1067
+p678
 aV205466
-p1068
+p679
 aV205467
-p1069
+p680
 aV205465
-p1070
+p681
 aV205279
-p1071
+p682
 aV205273
-p1072
+p683
 aV5753
-p1073
+p684
 aV9850
-p1074
+p685
 aV8338
-p1075
+p686
 aV8339
-p1076
+p687
 aV8340
-p1077
+p688
 aV8341
-p1078
+p689
 aV159092
-p1079
+p690
 aV159755
-p1080
+p691
 aV159278
-p1081
+p692
 aV159279
-p1082
+p693
 aV159280
-p1083
+p694
 aV373625
-p1084
+p695
 aV4576
-p1085
+p696
 aV4486
-p1086
+p697
 aV45424
-p1087
+p698
 aV45467
-p1088
+p699
 aV46453
-p1089
+p700
 aV46454
-p1090
+p701
 aV46455
-p1091
+p702
 aV46456
-p1092
+p703
 aV21368
-p1093
+p704
 aV2782
-p1094
+p705
 aV25967
-p1095
+p706
 aV26310
-p1096
+p707
 aV26311
-p1097
+p708
 aV26312
-p1098
+p709
 aV380417
-p1099
+p710
 aV380418
-p1100
+p711
 aV380419
-p1101
+p712
 aV380420
-p1102
+p713
 aV380421
-p1103
+p714
 aV380422
-p1104
+p715
 aV3910
-p1105
+p716
 aV3978
-p1106
+p717
 aV3976
-p1107
+p718
 aV3977
-p1108
+p719
 aV3909
-p1109
+p720
 aV4174
-p1110
+p721
 aV4173
-p1111
+p722
 aV4172
-p1112
+p723
 aV4171
-p1113
+p724
 aV3784
-p1114
+p725
 aV220479
-p1115
+p726
 aV221297
-p1116
+p727
 aV221296
-p1117
+p728
 aV221295
-p1118
+p729
 aV220583
-p1119
+p730
 aV386539
-p1120
+p731
 aV386540
-p1121
+p732
 aV380209
-p1122
+p733
 aV3294
-p1123
+p734
 aV3385
-p1124
+p735
 aV3386
-p1125
+p736
 aV3293
-p1126
+p737
 aV3569
-p1127
+p738
 aV3568
-p1128
+p739
 aV3567
-p1129
+p740
 aV3566
-p1130
+p741
 aV226758
-p1131
+p742
 aV245247
-p1132
+p743
 aV234429
-p1133
+p744
 aV245248
-p1134
+p745
 aV245246
-p1135
+p746
 aV14
-p1136
+p747
 aV200
-p1137
+p748
 aV149
-p1138
+p749
 aV150
-p1139
+p750
 aV289
-p1140
+p751
 aV288
-p1141
+p752
 aV3617
-p1142
+p753
 aV3640
-p1143
+p754
 aV26648
-p1144
+p755
 aV26657
-p1145
+p756
 aV26609
-p1146
+p757
 aV27244
-p1147
+p758
 aV27243
-p1148
+p759
 aV27242
-p1149
+p760
 aV202617
-p1150
+p761
 aV233304
-p1151
+p762
 aV202493
-p1152
+p763
 aV221495
-p1153
+p764
 aV5158
-p1154
+p765
 aV1404
-p1155
+p766
 aV1484
-p1156
+p767
 aV1612
-p1157
+p768
 aV292750
-p1158
+p769
 aV292945
-p1159
+p770
 aV292761
-p1160
+p771
 aV292943
-p1161
+p772
 aV292944
-p1162
+p773
 aV292946
-p1163
+p774
 aV139440
-p1164
+p775
 aV146166
-p1165
+p776
 aV146447
-p1166
+p777
 aV143618
-p1167
+p778
 aV143625
-p1168
+p779
 aV143617
-p1169
+p780
 aV143633
-p1170
+p781
 aV207934
-p1171
+p782
 aV205064
-p1172
+p783
 aV205068
-p1173
+p784
 aV213629
-p1174
+p785
 aV213628
-p1175
+p786
 aV213630
-p1176
+p787
 aV213631
-p1177
+p788
 aV2967
-p1178
+p789
 aV2968
-p1179
+p790
 aV2941
-p1180
+p791
 aV10505
-p1181
+p792
 aV10622
-p1182
+p793
 aV10532
-p1183
+p794
 aV10639
-p1184
+p795
 aV10640
-p1185
+p796
 aV373375
-p1186
+p797
 aV4341
-p1187
+p798
 aV4384
-p1188
+p799
 aV4416
-p1189
+p800
 aV4415
-p1190
+p801
 aV4414
-p1191
+p802
 aV4413
-p1192
+p803
 aV25893
-p1193
+p804
 aV221174
-p1194
+p805
 asS'texts'
-p1195
-(lp1196
+p806
+(lp807
 V({T}: Add {W} to your mana pool.)
-p1197
+p808
 aV({T}: Add {W} to your mana pool.)
-p1198
+p809
 aVDefender, flying<br>Prevent all combat damage that would be dealt to and dealt by Fog Bank.
-p1199
+p810
 aVPut any number of target creature cards from your graveyard on top of your library.<br>Draw a card.
-p1200
+p811
 aVG
-p1201
-ag1201
-ag1201
-ag1201
+p812
+ag812
+ag812
+ag812
 aVForgotten Cave enters the battlefield tapped.<br>{T}: Add {R} to your mana pool.<br>Cycling {R} <i>({R}, Discard this card: Draw a card.)</i>
-p1202
-ag1201
-ag1201
-ag1201
+p813
+ag812
+ag812
+ag812
 aVTrample <i>(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</i>
-p1203
+p814
 aS''
-p1204
+p815
 aV{B}: Frozen Shade gets +1/+1 until end of turn.
-p1205
+p816
 aVWhenever Fungusaur is dealt damage, put a +1/+1 counter on it.
-p1206
+p817
 aVAs long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls.<br>{T}: Target land becomes a Forest until Gaea's Liege leaves the battlefield.
-p1207
+p818
 aVRed creatures get +1/+1.<br>Whenever a Mountain is tapped for mana, its controller adds {R} to his or her mana pool <i>(in addition to the mana the land produces)</i>.
-p1208
+p819
 aVTarget creature gets +3/+3 until end of turn.
-p1209
+p820
 aVReach <i>(This creature can block creatures with flying.)</i>
-p1210
+p821
 aV{T}: Look at target player's hand.
-p1211
+p822
 aVReturn target creature card from your graveyard to the battlefield. Sacrifice that creature at the beginning of the next end step.
-p1212
-ag1201
-ag1201
-ag1201
-ag1201
-ag1201
-ag1201
-ag1201
-ag1201
+p823
+ag812
+ag812
+ag812
+ag812
+ag812
+ag812
+ag812
+ag812
 aVTarget creature gets +3/+3 until end of turn.
-p1213
+p824
 aVWhenever a creature you control attacks, it gets +1/+0 until end of turn for each other attacking creature that shares a creature type with it.
-p1214
+p825
 aVTarget creature gets -5/-0 until end of turn.
-p1215
+p826
 aVTarget creature you control fights target creature you don't control. <i>(Each deals damage equal to its power to the other.)</i>
-p1216
+p827
 aVW
-p1217
-ag1217
+p828
+ag828
 aVB
-p1218
-ag1218
+p829
+ag829
 aVEnchant creature<br>Enchanted creature gets +0/+2.<br>{W}: Enchanted creature gets +0/+1 until end of turn.
-p1219
-ag1201
+p830
+ag812
 aV{B}: Frozen Shade gets +1/+1 until end of turn.
-p1220
+p831
 aVWhenever Fungusaur is dealt damage, put a +1/+1 counter on it.
-p1221
+p832
 aVAs long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls.<br>{T}: Target land becomes a Forest until Gaea's Liege leaves the battlefield.
-p1222
+p833
 aVEnchant creature<br>Prevent all combat damage that would be dealt to and dealt by enchanted creature.
-p1223
-ag1201
-ag1201
+p834
+ag812
+ag812
 aVYou may pay 1 life and exile a blue card from your hand rather than pay Force of Will's mana cost.<br>Counter target spell.
-p1224
+p835
 aVSearch your library for three cards, exile them, then shuffle your library.<br>Draw a card at the beginning of the next turn's upkeep.
-p1225
+p836
 aVEnchant creature<br>Whenever enchanted creature blocks or becomes blocked, it gets +0/+3 until end of turn and you gain 1 life.
-p1226
+p837
 aVAt the beginning of your upkeep, Form of the Dragon deals 5 damage to target creature or player.<br>At the beginning of each end step, your life total becomes 5.<br>Creatures without flying can't attack you.
-p1227
-ag1201
-ag1201
-ag1201
-ag1201
+p838
+ag812
+ag812
+ag812
+ag812
 aVChoose two target creatures. Tap those creatures, then unattach all Equipment from them.
-p1228
+p839
 aVR
-p1229
-ag1229
-ag1217
+p840
+ag840
+ag828
 aVIntimidate<br>Inspired- Whenever Forlorn Pseudamma becomes untapped, you may pay {2}{B}. If you do, put a 2/2 black Zombie enchantment creature token onto the battlefield.
-p1230
+p841
 aVWhen Forsaken Drifters dies, put the top four cards of your library into your graveyard.
-p1231
+p842
 aVBestow {5}{W} <i>(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)</i><br>Double strike <i>(This creature deals both first-strike and regular combat damage.)</i><br>Enchanted creature gets +1/+1 and has double strike.
-p1232
+p843
 aVGlacial Fortress enters the battlefield tapped unless you control a Plains or an Island.<br>{T}: Add {W} or {U} to your mana pool.
-p1233
+p844
 aVCreatures you control get +1/+1 until end of turn.
-p1234
-ag1218
-ag1218
-ag1204
+p845
+ag829
+ag829
+ag815
 aVTap up to two target creatures. Those creatures don't untap during their controller's next untap step.
-p1235
+p846
 aVSliver creatures you control have flying.
-p1236
+p847
 aV+1: Reveal the top five cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.<br>-3: You may put a green creature card from your hand onto the battlefield.<br>-7: You get an emblem with "Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle your library."
-p1237
+p848
 aV{2}, {T}: Draw a card. Activate this ability only if you have no cards in hand.
-p1238
-ag1201
-ag1201
-ag1201
+p849
+ag812
+ag812
+ag812
 aVIf a source would deal damage to a creature or player, it deals double that damage to that creature or player instead.
-p1239
+p850
 aVForbidding Watchtower enters the battlefield tapped.<br>{T}: Add {W} to your mana pool.<br>{1}{W}: Forbidding Watchtower becomes a 1/5 white Soldier creature until end of turn. It's still a land.
-p1240
-ag1201
+p851
+ag812
 aVWhen Highway Robber enters the battlefield, target opponent loses 2 life and you gain 2 life.
-p1241
+p852
 aVVigilance <i>(Attacking doesn't cause this creature to tap.)</i>
-p1242
+p853
 aV{1}{B}, Sacrifice Thrull Surgeon: Look at target player's hand and choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.
-p1243
-ag1218
-ag1218
+p854
+ag829
+ag829
 aVWhenever a creature you control dies, you may pay {1}. If you do, reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest into your graveyard.
-p1244
+p855
 aVAt the beginning of your upkeep, each player reveals the top card of his or her library. If all cards revealed this way are creature cards, put those cards onto the battlefield under their owners' control.
-p1245
+p856
 aVEnchant creature<br>Enchanted creature can't attack or block, and its activated abilities can't be activated.
-p1246
+p857
 aVYou may exile a black card from your hand rather than pay Unmask's mana cost.<br>Target player reveals his or her hand. You choose a nonland card from it. That player discards that card.
-p1247
+p858
 aVRushwood Grove enters the battlefield tapped.<br>{T}: Put a storage counter on Rushwood Grove.<br>{T}, Remove any number of storage counters from Rushwood Grove: Add {G} to your mana pool for each storage counter removed this way.
-p1248
-ag1201
-ag1201
+p859
+ag812
+ag812
 aV{1}{G}: Return target basic land card from your graveyard to your hand.
-p1249
+p860
 aVWhen Highway Robber enters the battlefield, target opponent loses 2 life and you gain 2 life.
-p1250
+p861
 aVDraw two cards, then discard two cards. Untap up to three lands.
-p1251
+p862
 aVPlay with the top card of your library revealed.<br>You may play the top card of your library.
-p1252
+p863
 aVFlying<br>{U}{U}{U}: Regenerate Ghost Ship.
-p1253
+p864
 aVU
-p1254
-ag1204
+p865
+ag815
 aVTarget creature gets +3/+3 until end of turn.
-p1255
+p866
 aVDestroy target nonblack creature.
-p1256
+p867
 aVEnchant creature<br>Enchanted creature gets -1/-1 and has "{T}: Target creature gets -1/-1 until end of turn."
-p1257
-ag1201
-ag1201
-ag1201
+p868
+ag812
+ag812
+ag812
 aVForked Lightning deals 4 damage divided as you choose among one, two, or three target creatures.
-p1258
+p869
 aVWhenever a permanent becomes tapped, put a wind counter on it. <br>If a permanent with a wind counter on it would untap during its controller's untap step, remove all wind counters from it instead.
-p1259
+p870
 aVRampage 2 <i>(Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)</i>
-p1260
+p871
 aVAs long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls.<br>{T}: Target land becomes a Forest until Gaea's Liege leaves the battlefield.
-p1261
+p872
 aVTarget creature gets +3/+3 until end of turn.
-p1262
+p873
 aVReach <i>(This creature can block creatures with flying.)</i>
-p1263
+p874
 aV{T}: Look at target player's hand.
-p1264
+p875
 aVWhite spells cost {3} more to cast.<br>Activated abilities of white enchantments cost {3} more to activate.
-p1265
+p876
 aV{R}: Goblin Balloon Brigade gains flying until end of turn.
-p1266
+p877
 aVTarget opponent chooses a card in your graveyard. You may pay {G}. If you do, repeat this process except that opponent can't choose a card already chosen for Forgotten Lore. Then put the last chosen card into your hand.
-p1267
+p878
 aVFoul Familiar can't block.<br>{B}, Pay 1 life: Return Foul Familiar to its owner's hand.
-p1268
+p879
 aVAs an additional cost to cast Fumarole, pay 3 life.<br>Destroy target creature and target land.
-p1269
+p880
 aVEnchant creature<br>When enchanted creature leaves the battlefield, its controller sacrifices a creature.
-p1270
+p881
 aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i><br>{1}{U}: Target player reveals the top card of his or her library.
-p1271
+p882
 aVWhen Phyrexian Gargantua enters the battlefield, you draw two cards and you lose 2 life.
-p1272
+p883
 aVYou may play up to three additional lands this turn.
-p1273
+p884
 aVWhen Highway Robber enters the battlefield, target opponent loses 2 life and you gain 2 life.
-p1274
+p885
 aVPrevent all combat damage that would be dealt this turn.
-p1275
+p886
 aV{W}: Honor Guard gets +0/+1 until end of turn.
-p1276
+p887
 aVAt the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card.
-p1277
+p888
 aVWhen Hunted Wumpus enters the battlefield, each other player may put a creature card from his or her hand onto the battlefield.
-p1278
+p889
 aVExalted <i>(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</i><br>{U}, {T}: Draw a card, then discard a card.
-p1279
-ag1254
-ag1229
-ag1229
-ag1201
-ag1201
-ag1201
-ag1201
-ag1201
-ag1254
+p890
+ag865
+ag840
+ag840
+ag812
+ag812
+ag812
+ag812
+ag812
+ag865
 aVProtection from Goblins<br>Morph {W} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
-p1280
+p891
 aVForgotten Cave enters the battlefield tapped.<br>{T}: Add {R} to your mana pool.<br>Cycling {R} <i>({R}, Discard this card: Draw a card.)</i>
-p1281
-ag1201
-ag1201
-ag1201
+p892
+ag812
+ag812
+ag812
 aVFear <i>(This creature can't be blocked except by artifact creatures and/or black creatures.)</i>
-p1282
+p893
 aV{T}: Add one mana of any color to your mana pool.<br>Whenever you tap Forbidden Orchard for mana, put a 1/1 colorless Spirit creature token onto the battlefield under target opponent's control.
-p1283
+p894
 aV{B}, Sacrifice a creature: Target player discards a card. Activate this ability only any time you could cast a sorcery.
-p1284
-ag1201
-ag1254
-ag1254
-ag1254
+p895
+ag812
+ag865
+ag865
+ag865
 aVSoulshift 4, soulshift 4 <i>(When this creature dies, you may return up to two target Spirit cards with converted mana cost 4 or less from your graveyard to your hand.)</i>
-p1285
+p896
 aV{4}, {T}, Sacrifice a creature: Fodder Cannon deals 4 damage to target creature.
-p1286
+p897
 aV<i>({B/G} can be paid with either {B} or {G}.)</i><br>Trample<br>At the beginning of your end step, return to your hand all creature cards in your graveyard that were put there from the battlefield this turn.
-p1287
-ag1201
-ag1201
+p898
+ag812
+ag812
 aVMountainwalk
-p1288
-ag1254
+p899
+ag865
 aVDefender, flying<br>Prevent all combat damage that would be dealt to and dealt by Fog Bank.
-p1289
-ag1201
+p900
+ag812
 aVForgotten Cave enters the battlefield tapped.<br>{T}: Add {R} to your mana pool.<br>Cycling {R} <i>({R}, Discard this card: Draw a card.)</i>
-p1290
+p901
 aVWhenever a creature you control dies, you may pay {1}. If you do, reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest into your graveyard.
-p1291
-ag1201
-ag1201
-ag1201
+p902
+ag812
+ag812
+ag812
 aVWhen Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.
-p1292
+p903
 aVFlash <i>(You may cast this spell any time you could cast an instant.)</i><br>Defender<br>Foriysian Interceptor can block an additional creature.
-p1293
+p904
 aV{T}: Add {R} to your mana pool.<br>{4}{R}: Foriysian Totem becomes a 4/4 red Giant artifact creature with trample until end of turn.<br>As long as Foriysian Totem is a creature, it can block an additional creature.
-p1294
+p905
 aVChoose one- Creatures you control get +2/+0 until end of turn; or creatures you control get +0/+2 until end of turn.
-p1295
+p906
 aVEnchant creature<br>When enchanted creature dies, return that card to the battlefield under your control.<br>When Fool's Demise is put into a graveyard from the battlefield, return Fool's Demise to its owner's hand.
-p1296
+p907
 aVMagus of the Disk enters the battlefield tapped.<br>{1}, {T}: Destroy all artifacts, creatures, and enchantments.
-p1297
-ag1201
-ag1201
-ag1201
-ag1254
+p908
+ag812
+ag812
+ag812
+ag865
 aVTarget creature gets +3/+3 until end of turn.
-p1298
-ag1218
-ag1254
-ag1254
-ag1229
+p909
+ag829
+ag865
+ag865
+ag840
 aVEnchant creature<br>At the beginning of your upkeep, put a +1/+1 counter on enchanted creature.
-p1299
+p910
 aVWhenever Fortress Cyclops attacks, it gets +3/+0 until end of turn.<br>Whenever Fortress Cyclops blocks, it gets +0/+3 until end of turn.
-p1300
+p911
 aVWhen Foundry Champion enters the battlefield, it deals damage to target creature or player equal to the number of creatures you control.<br>{R}: Foundry Champion gets +1/+0 until end of turn.<br>{W}: Foundry Champion gets +0/+1 until end of turn.
-p1301
+p912
 aVWhenever another red creature enters the battlefield under your control, Foundry Street Denizen gets +1/+0 until end of turn.
-p1302
+p913
 aVBuyback\u2014Discard two cards. <i>(You may discard two cards in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)</i><br>Counter target spell.
-p1303
+p914
 aV{B}: Frozen Shade gets +1/+1 until end of turn.
-p1304
+p915
 aVWhenever Fungusaur is dealt damage, put a +1/+1 counter on it.
-p1305
+p916
 aVAs long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls.<br>{T}: Target land becomes a Forest until Gaea's Liege leaves the battlefield.
-p1306
+p917
 aVRed creatures get +1/+1.<br>Whenever a Mountain is tapped for mana, its controller adds {R} to his or her mana pool <i>(in addition to the mana the land produces)</i>.
-p1307
+p918
 aVTarget creature gets +3/+3 until end of turn.
-p1308
+p919
 aVReach <i>(This creature can block creatures with flying.)</i>
-p1309
+p920
 aV{T}: Look at target player's hand.
-p1310
+p921
 aVFoul Familiar can't block.<br>{B}, Pay 1 life: Return Foul Familiar to its owner's hand.
-p1311
+p922
 aVCounter target spell unless its controller pays {1}.<br><br>Draw a card at the beginning of the next turn's upkeep.
-p1312
+p923
 aVEnchant land<br>Enchanted land has "{T}: Target creature gets +2/+1 until end of turn."
-p1313
+p924
 aVTarget opponent chooses a card in your graveyard. You may pay {G}. If you do, repeat this process except that opponent can't choose a card already chosen for Forgotten Lore. Then put the last chosen card into your hand.
-p1314
+p925
 aV{T}, Sacrifice a red or white creature: Freyalise Supplicant deals damage to target creature or player equal to half the sacrificed creature's power, rounded down.
-p1315
+p926
 aV{T}: Switch the blocking creatures of two target attacking creatures. Activate this ability only during the declare blockers step.
-p1316
+p927
 aVUntap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.<br>Draw a card at the beginning of the next turn's upkeep.
-p1317
+p928
 aV{2}{G}, {T}: Untap target creature.
-p1318
+p929
 aV{T}: Add {G}{G} to your mana pool.
-p1319
+p930
 aVFlip a coin. If you win the flip, you gain 1 life and target opponent loses 1 life, and you decide whether to flip again. If you lose the flip, you lose 1 life and that opponent gains 1 life, and that player decides whether to flip again. Double the life stakes with each flip.
-p1320
-ag1201
-ag1201
-ag1201
-ag1254
-ag1254
-ag1254
-ag1254
-ag1254
+p931
+ag812
+ag812
+ag812
+ag865
+ag865
+ag865
+ag865
+ag865
 aVDestroy all enchantments.
-p1321
+p932
 aV{3}{B}{B}, Sacrifice a creature: Return Necrosavant from your graveyard to the battlefield. Activate this ability only during your upkeep.
-p1322
+p933
 aVTarget creature gets +3/+3 until end of turn.
-p1323
+p934
 aVReach <i>(This creature can block creatures with flying.)</i>
-p1324
+p935
 aVDefender <i>(This creature can't attack.)</i>
-p1325
+p936
 aV{T}: Look at target player's hand.
-p1326
+p937
 aV{T}, Sacrifice Goblin Digging Team: Destroy target Wall.
-p1327
+p938
 aVWhenever Goblin Elite Infantry blocks or becomes blocked, it gets -1/-1 until end of turn.
-p1328
+p939
 aVOther Goblin creatures get +1/+1 and have mountainwalk. <i>(They're unblockable as long as defending player controls a Mountain.)</i>
-p1329
+p940
 aVAs an additional cost to cast Forge Armor, sacrifice an artifact.<br>Put X +1/+1 counters on target creature, where X is the sacrificed artifact's converted mana cost.
-p1330
+p941
 aVFlying
-p1331
-ag1201
+p942
+ag812
 aV{1}, {T}: Tap target artifact, creature, or land.
-p1332
-ag1254
+p943
+ag865
 aVAffinity for artifacts <i>(This spell costs {1} less to cast for each artifact you control.)</i>
-p1333
+p944
 aVPut two 1/1 red Goblin creature tokens onto the battlefield.
-p1334
-ag1254
-ag1229
-ag1229
+p945
+ag865
+ag840
+ag840
 aVCounter target spell unless its controller pays {1}.
-p1335
+p946
 aVChoose a color. Target player reveals his or her hand and discards all cards of that color.
-p1336
+p947
 aVOther Goblin creatures get +1/+1 and have mountainwalk. <i>(They're unblockable as long as defending player controls a Mountain.)</i>
-p1337
+p948
 aVGoblin Raider can't block.
-p1338
+p949
 aV{T}: Grapeshot Catapult deals 1 damage to target creature with flying.
-p1339
+p950
 aVWhen Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.
-p1340
+p951
 aV{B}, Pay 2 life: Draw a card.
-p1341
+p952
 aVYou may discard an Island card and another card rather than pay Foil's mana cost.<br>Counter target spell.
-p1342
+p953
 aVAt the beginning of your upkeep, you may exile a land card from your graveyard. If you do, put a +1/+1 counter on target creature.
-p1343
+p954
 aVWhenever another red creature enters the battlefield under your control, Foundry Street Denizen gets +1/+0 until end of turn.
-p1344
+p955
 aVWhenever Frenzied Goblin attacks, you may pay {R}. If you do, target creature can't block this turn.
-p1345
+p956
 aVWhen Frost Lynx enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
-p1346
+p957
 aVForbidding Watchtower enters the battlefield tapped.<br>{T}: Add {W} to your mana pool.<br>{1}{W}: Forbidding Watchtower becomes a 1/5 white Soldier creature until end of turn. It's still a land.
-p1347
+p958
 aVFlying<br>{B}: Regenerate Fog of Gnats.
-p1348
-ag1201
+p959
+ag812
 aVForked Bolt deals 2 damage divided as you choose among one or two target creatures and/or players.
-p1349
-ag1254
-ag1254
-ag1229
+p960
+ag865
+ag865
+ag840
 aV{T}: Return target card from an opponent's graveyard to his or her hand. Put a +1/+1 counter on target creature.
-p1350
+p961
 aVYou gain 1 life for each creature you control.<br>Flashback {1}{W} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
-p1351
+p962
 aV{R/G}{R/G}{R/G}: Foxfire Oak gets +3/+0 until end of turn.
-p1352
+p963
 aVEnchant player<br>If a card would be put into enchanted player's graveyard from anywhere, instead that card is revealed and put on the bottom of that player's library.
-p1353
-ag1201
-ag1201
+p964
+ag812
+ag812
 aV{T}: Add {1} to your mana pool.<br>{B/R}, {T}: Add {B}{B}, {B}{R}, or {R}{R} to your mana pool.
-p1354
-ag1254
-ag1201
+p965
+ag865
+ag812
 aVPut a 3/3 green Beast creature token onto the battlefield for each creature put into your graveyard from the battlefield this turn.
-p1355
-ag1218
+p966
+ag829
 aVHulking Ogre can't block.
-p1356
+p967
 aVFlying<br>When Ingenious Thief enters the battlefield, look at target player's hand.
-p1357
-ag1254
-ag1254
-ag1254
+p968
+ag865
+ag865
+ag865
 aVSacrifice an artifact: Add {2} to your mana pool.
-p1358
+p969
 aVWhenever a player casts a spell, you may put a +1/+1 counter on Forgotten Ancient.<br>At the beginning of your upkeep, you may move any number of +1/+1 counters from Forgotten Ancient onto other creatures.
-p1359
+p970
 aVIf damage would be dealt to you, put that many depletion counters on Force Bubble instead.<br>When there are four or more depletion counters on Force Bubble, sacrifice it.<br>At the beginning of each end step, remove all depletion counters from Force Bubble.
-p1360
+p971
 aVAt the beginning of your upkeep, Form of the Dragon deals 5 damage to target creature or player.<br>At the beginning of each end step, your life total becomes 5.<br>Creatures without flying can't attack you.
-p1361
+p972
 aVReturn target permanent to its owner's hand. Exile Reality Strobe with three time counters on it.<br>Suspend 3\u2014{2}{U} <i>(Rather than cast this card from your hand, you may pay {2}{U} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)</i>
-p1362
+p973
 aVCowards can't block Warriors.<br>{R}: Target creature becomes a Coward until end of turn.<br>{2}{R}: Target creature becomes a Warrior until end of turn.
-p1363
+p974
 aVSacrifice Llanowar Augur: Target creature gets +3/+3 and gains trample until end of turn. Activate this ability only during your upkeep.
-p1364
+p975
 aVYou draw three cards and you lose 3 life.
-p1365
-ag1254
-ag1254
+p976
+ag865
+ag865
 aVJagged Lightning deals 3 damage to each of two target creatures.
-p1366
-ag1201
-ag1201
-ag1201
-ag1201
-ag1201
+p977
+ag812
+ag812
+ag812
+ag812
+ag812
 aVWhenever a player casts a spell, you may put a +1/+1 counter on Forgotten Ancient.<br>At the beginning of your upkeep, you may move any number of +1/+1 counters from Forgotten Ancient onto other creatures.
-p1367
+p978
 aVPrevent all combat damage that would be dealt this turn.<br>Cycling {2} <i>({2}, Discard this card: Draw a card.)</i>
-p1368
+p979
 aVWhenever Goblin Lackey deals damage to a player, you may put a Goblin permanent card from your hand onto the battlefield.
-p1369
-ag1201
-ag1201
+p980
+ag812
+ag812
 aVCreatures you control get +1/+1.
-p1370
+p981
 aVWhen Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, and put it into your hand. If you do, shuffle your library.
-p1371
+p982
 aVYou may pay 1 life and exile a blue card from your hand rather than pay Force of Will's mana cost.<br>Counter target spell.
-p1372
+p983
 aV{1}: The next time an unblocked creature of your choice would deal combat damage to you this turn, prevent all but 1 of that damage.
-p1373
-ag1201
-ag1201
-ag1201
+p984
+ag812
+ag812
+ag812
 aVExile target white permanent.
-p1374
+p985
 aVForiysian Brigade can block an additional creature.
-p1375
+p986
 aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i><br>When Fog Elemental attacks or blocks, sacrifice it at end of combat.
-p1376
+p987
 aVIslands don't untap during their controllers' untap steps.
-p1377
+p988
 aVCreatures with power greater than the number of cards in your hand can't attack.
-p1378
+p989
 aVOther Goblin creatures get +1/+1 and have mountainwalk. <i>(They're unblockable as long as defending player controls a Mountain.)</i>
-p1379
+p990
 aVGoblin Raider can't block.
-p1380
+p991
 aVWhenever a creature you control dies, each other player sacrifices a creature.
-p1381
+p992
 aVWhen Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.
-p1382
+p993
 aVCast Fog Patch only during the declare blockers step.<br>Attacking creatures become blocked. <i>(This spell works on unblockable creatures.)</i>
-p1383
+p994
 aVAt the beginning of your upkeep, if a player has more life than each other player, the player with the most life gains control of Ghazb·n Ogre.
-p1384
-ag1201
-ag1201
-ag1201
-ag1201
+p995
+ag812
+ag812
+ag812
+ag812
 aV{1}{G}, Sacrifice Font of Fertility: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
-p1385
+p996
 aV{1}{U}, Sacrifice Font of Fortunes: Draw two cards.
-p1386
+p997
 aV{3}{R}, Sacrifice Font of Ire: Font of Ire deals 5 damage to target player.
-p1387
+p998
 aV{3}{B}, Sacrifice Font of Return: Return up to three target creature cards from your graveyard to your hand.
-p1388
+p999
 aV{2}{W}, Sacrifice Font of Vigor: You gain 7 life.
-p1389
+p1000
 aVConstellation- Whenever Forgeborn Oreads or another enchantment enters the battlefield under your control, Forgeborn Oreads deals 1 damage to target creature or player.
-p1390
+p1001
 aVTarget player discards two cards, then draws as many cards as he or she discarded this way.
-p1391
+p1002
 aVWhenever Fungusaur is dealt damage, put a +1/+1 counter on it.
-p1392
-ag1201
-ag1201
+p1003
+ag812
+ag812
 aV{2}, {T}: You gain 1 life.
-p1393
+p1004
 aV{B}: Frozen Shade gets +1/+1 until end of turn.
-p1394
+p1005
 aV{T}: Add {G}{G} to your mana pool.
-p1395
+p1006
 aVTarget creature gets +3/+3 until end of turn.
-p1396
+p1007
 aVReach <i>(This creature can block creatures with flying.)</i>
-p1397
+p1008
 aVEnchant creature<br>Enchanted creature gets +2/+2.
-p1398
+p1009
 aVPrevent all combat damage that would be dealt this turn.
-p1399
-ag1201
-ag1201
-ag1201
+p1010
+ag812
+ag812
+ag812
 aVWhenever a player casts a spell, you may put a +1/+1 counter on Forgotten Ancient.<br>At the beginning of your upkeep, you may move any number of +1/+1 counters from Forgotten Ancient onto other creatures.
-p1400
-ag1201
+p1011
+ag812
 aVFrontier Bivouac enters the battlefield tapped.<br>{T}: Add {G}, {U}, or {R} to your mana pool.
-p1401
-ag1201
+p1012
+ag812
 aVPlayers can't gain life.<br>At the beginning of each player's upkeep, that player loses 1 life.<br>Whenever Forsaken Wastes becomes the target of a spell, that spell's controller loses 5 life.
-p1402
+p1013
 aV{G}, Sacrifice a Forest: Foratog gets +2/+2 until end of turn.
-p1403
+p1014
 aVIf you would draw a card, return a card from your graveyard to your hand instead. If you can't, you lose the game.<br>If a card would be put into your graveyard from anywhere, exile that card instead.
-p1404
-ag1201
-ag1201
-ag1201
-ag1201
+p1015
+ag812
+ag812
+ag812
+ag812
 aVWhenever Goblin Elite Infantry blocks or becomes blocked, it gets -1/-1 until end of turn.
-p1405
+p1016
 aVLook at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.<br>Flashback {6}{B} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
-p1406
-ag1201
+p1017
+ag812
 aVCounter target spell unless its controller pays {1}. That player discards a card.
-p1407
-ag1217
-ag1217
+p1018
+ag828
+ag828
 aVEnchant creature<br>Enchanted creature can attack as though it had haste.<br>{0}: Untap enchanted creature. Activate this ability only during your turn and only once each turn.
-p1408
+p1019
 aVLightning Bolt deals 3 damage to target creature or player.
-p1409
+p1020
 aVChoose one- Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn.
-p1410
+p1021
 aV{1}, {T}: Target creature gains banding until end of turn. <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
-p1411
+p1022
 aVEnchant creature<br>Enchanted creature gets +0/+2.<br>{W}: Enchanted creature gets +0/+1 until end of turn.
-p1412
-ag1204
+p1023
+ag815
 aVAs an additional cost to cast Infernal Harvest, return X Swamps you control to their owner's hand.<br>Infernal Harvest deals X damage divided as you choose among any number of target creatures.
-p1413
+p1024
 aVFlanking <i>(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)</i><br>When Knight of the Mists enters the battlefield, you may pay {U}. If you don't, destroy target Knight and it can't be regenerated.
-p1414
+p1025
 aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i><br>When Fog Elemental attacks or blocks, sacrifice it at end of combat.
-p1415
+p1026
 aVTrample <i>(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</i><br>At the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}.
-p1416
-ag1201
-ag1201
-ag1201
+p1027
+ag812
+ag812
+ag812
 aVEnchant creature<br>Prevent all combat damage that would be dealt to and dealt by enchanted creature.
-p1417
+p1028
 aVFlying<br>When Foul Spirit enters the battlefield, sacrifice a land.
-p1418
+p1029
 aVGaea's Avenger's power and toughness are each equal to 1 plus the number of artifacts your opponents control.
-p1419
+p1030
 aVSacrifice a creature: Destroy target artifact. Activate this ability only during your upkeep and only once each turn.
-p1420
+p1031
 aVRed creatures get +1/+1.<br>Whenever a Mountain is tapped for mana, its controller adds {R} to his or her mana pool <i>(in addition to the mana the land produces)</i>.
-p1421
+p1032
 aVFlying<br>When Foul Imp enters the battlefield, you lose 2 life.
-p1422
+p1033
 aVAt the beginning of your upkeep, sacrifice Forethought Amulet unless you pay {3}.<br>If an instant or sorcery source would deal 3 or more damage to you, it deals 2 damage to you instead.
-p1423
+p1034
 aVSacrifice a Swamp: Regenerate target black creature. <i>(The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</i>
-p1424
+p1035
 aVEnchant creature<br>Enchanted creature gets +2/-2.
-p1425
+p1036
 aVCounter target spell unless its controller pays {1}.
-p1426
-ag1201
+p1037
+ag812
 aVForgotten Cave enters the battlefield tapped.<br>{T}: Add {R} to your mana pool.<br>Cycling {R} <i>({R}, Discard this card: Draw a card.)</i>
-p1427
-ag1201
-ag1201
-ag1201
+p1038
+ag812
+ag812
+ag812
 aVPut any number of target creature cards from your graveyard on top of your library.<br>Draw a card.
-p1428
+p1039
 aVWhenever another nontoken Elf is put into your graveyard from the battlefield, you may put a 1/1 green Elf Warrior creature token onto the battlefield.
-p1429
+p1040
 aVFlash<br>Enchant creature<br>When Triclopean Sight enters the battlefield, untap enchanted creature.<br>Enchanted creature gets +1/+1 and has vigilance.
-p1430
-ag1201
-ag1201
-ag1201
-ag1254
-ag1201
+p1041
+ag812
+ag812
+ag812
+ag865
+ag812
 aVGaea's Revenge can't be countered.<br>Haste<br>Gaea's Revenge can't be the target of nongreen spells or abilities from nongreen sources.
-p1431
+p1042
 aVDefender <i>(This creature can't attack.)</i><br>{3}: Until end of turn, Gargoyle Sentinel loses defender and gains flying.
-p1432
+p1043
 aV+1: Untap two target lands.<br>-1: Put a 3/3 green Beast creature token onto the battlefield.<br>-4: Creatures you control get +3/+3 and gain trample until end of turn.
-p1433
-ag1218
-ag1218
-ag1218
+p1044
+ag829
+ag829
+ag829
 aVWhenever Folk of An-Havva blocks, it gets +2/+0 until end of turn.
-p1434
+p1045
 aVEnchant creature<br>When enchanted creature leaves the battlefield, its controller sacrifices a creature.
-p1435
+p1046
 aVFlying<br>When Giant Albatross dies, you may pay {1}{U}. If you do, for each creature that dealt damage to Giant Albatross this turn, destroy that creature unless its controller pays 2 life. A creature destroyed this way can't be regenerated.
-p1436
+p1047
 aVReturn target creature card from your graveyard to the battlefield.
-p1437
+p1048
 aVSwampwalk
-p1438
+p1049
 aVYou gain 2 life for each creature you control.
-p1439
-ag1217
-ag1217
-ag1201
+p1050
+ag828
+ag828
+ag812
 aVHaste
-p1440
+p1051
 aVHulking Goblin can't block.
-p1441
+p1052
 aVHurricane deals X damage to each creature with flying and each player.
-p1442
-ag1254
-ag1254
-ag1254
+p1053
+ag865
+ag865
+ag865
 aVForsaken City doesn't untap during your untap step.<br>At the beginning of your upkeep, you may exile a card from your hand. If you do, untap Forsaken City.<br>{T}: Add one mana of any color to your mana pool.
-p1443
+p1054
 aVWhen Forge Devil enters the battlefield, it deals 1 damage to target creature and 1 damage to you.
-p1444
+p1055
 asS'costs'
-p1445
-(lp1446
+p1056
+(lp1057
 S'0'
-p1447
-ag1447
+p1058
+ag1058
 aV{1}{U}
-p1448
+p1059
 aV{2}{B}
-p1449
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
+p1060
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
 aV{U}
-p1450
-ag1447
+p1061
+ag1058
 aV{G}
-p1451
+p1062
 aV{2}{G}{G}{G}{G}
-p1452
+p1063
 aV{3}
-p1453
-ag1447
-ag1447
-ag1447
+p1064
+ag1058
+ag1058
+ag1058
 aV{R}{R}
-p1454
+p1065
 aV{2}{B}
-p1455
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
+p1066
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
 aV{1}{W}
-p1456
+p1067
 aV{4}{U}
-p1457
+p1068
 aV{1}{G}{G}
-p1458
-ag1447
-ag1447
-ag1447
-ag1447
+p1069
+ag1058
+ag1058
+ag1058
+ag1058
 aV{1}{W}{W}
-p1459
+p1070
 aV{G}
-p1460
+p1071
 aV{2}{G}{G}{G}{G}
-p1461
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
+p1072
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
 aV{3}{U}{U}
-p1462
+p1073
 aV{1}{U}
-p1463
+p1074
 aV{1}{U}
-p1464
+p1075
 aV{4}{R}{R}{R}
-p1465
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
+p1076
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
 aV{4}{R}{R}
-p1466
+p1077
 aV{3}{B}
-p1467
+p1078
 aV{3}{B}
-p1468
+p1079
 aV{R}
-p1469
-ag1447
-ag1447
-ag1447
-ag1447
+p1080
+ag1058
+ag1058
+ag1058
+ag1058
 aV{2}{R}
-p1470
-ag1447
+p1081
+ag1058
 aV{5}{R}{R}
-p1471
+p1082
 aV{4}
-p1472
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
+p1083
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
 aV{2}{U}
-p1473
+p1084
 aV{0}
-p1474
-ag1447
-ag1447
+p1085
+ag1058
+ag1058
 aV{2}{G}
-p1475
+p1086
 aV{2}{G}{G}
-p1476
+p1087
 aV{3}{W}{W}
-p1477
+p1088
 aV{X}{B}{B}{B}
-p1478
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
+p1089
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
 aV{U}
-p1479
-ag1447
+p1090
+ag1058
 aV{0}
-p1480
-ag1447
-ag1447
-ag1447
-ag1447
+p1091
+ag1058
+ag1058
+ag1058
+ag1058
 aV{2}{B}
-p1481
+p1092
 aV{U}
-p1482
+p1093
 aV{2}{U}
-p1483
-ag1447
-ag1447
-ag1447
+p1094
+ag1058
+ag1058
+ag1058
 aV{3}{R}
-p1484
+p1095
 aV{G}
-p1485
+p1096
 aV{2}{G}{G}{G}{G}
-p1486
-ag1447
-ag1447
-ag1447
+p1097
+ag1058
+ag1058
+ag1058
 aV{R}{R}
-p1487
+p1098
 aV{4}{G}
-p1488
+p1099
 aV{2}{G}
-p1489
+p1100
 aV{G}
-p1490
+p1101
 aV{2}{B}
-p1491
+p1102
 aV{2}{G}{G}{G}{G}
-p1492
+p1103
 aV{4}{R}{R}{R}
-p1493
+p1104
 aV{3}{W}
-p1494
-ag1447
-ag1447
-ag1447
-ag1447
+p1105
+ag1058
+ag1058
+ag1058
+ag1058
 aV{B}{B}
-p1495
+p1106
 aV{4}
-p1496
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
+p1107
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
 aV{W}
-p1497
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
+p1108
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
 aV{3}{G}{G}
-p1498
+p1109
 aV{4}
-p1499
+p1110
 aV{3}{U}{U}
-p1500
-ag1447
-ag1447
-ag1447
-ag1447
+p1111
+ag1058
+ag1058
+ag1058
+ag1058
 aV{1}{U}
-p1501
-ag1447
-ag1447
+p1112
+ag1058
+ag1058
 aV{2}{G}{G}
-p1502
-ag1447
-ag1447
-ag1447
-ag1447
+p1113
+ag1058
+ag1058
+ag1058
+ag1058
 aV{3}{W}
-p1503
+p1114
 aV{3}
-p1504
+p1115
 aV{2}{W}
-p1505
+p1116
 aV{4}{R}
-p1506
+p1117
 aV{4}{U}
-p1507
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
+p1118
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
 aV{1}{R}{R}
-p1508
+p1119
 aV{G}
-p1509
+p1120
 aV{3}{R}{W}
-p1510
+p1121
 aV{4}{R}{W}
-p1511
+p1122
 aV{1}{U}{U}
-p1512
+p1123
 aV{G}
-p1513
+p1124
 aV{2}{G}{G}{G}{G}
-p1514
+p1125
 aV{3}
-p1515
-ag1447
-ag1447
-ag1447
+p1126
+ag1058
+ag1058
+ag1058
 aV{R}{R}
-p1516
+p1127
 aV{2}{B}
-p1517
+p1128
 aV{2}{U}
-p1518
+p1129
 aV{4}{G}
-p1519
+p1130
 aV{2}{G}
-p1520
+p1131
 aV{G}
-p1521
+p1132
 aV{1}{W}
-p1522
-ag1447
-ag1447
-ag1447
+p1133
+ag1058
+ag1058
+ag1058
 aV{2}{G}
-p1523
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
+p1134
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
 aV{G}
-p1524
+p1135
 aV{3}{B}{B}
-p1525
+p1136
 aV{2}{U}
-p1526
-ag1447
-ag1447
-ag1447
-ag1447
+p1137
+ag1058
+ag1058
+ag1058
+ag1058
 aV{U}{U}
-p1527
+p1138
 aV{0}
-p1528
+p1139
 aV{4}{R}
-p1529
-ag1447
-ag1447
-ag1447
-ag1447
+p1140
+ag1058
+ag1058
+ag1058
+ag1058
 aV{3}{U}
-p1530
-ag1447
-ag1447
-ag1447
-ag1447
+p1141
+ag1058
+ag1058
+ag1058
+ag1058
 aV{U}
-p1531
+p1142
 aV{B}{B}
-p1532
+p1143
 aV{G}
-p1533
-ag1447
-ag1447
-ag1447
-ag1447
+p1144
+ag1058
+ag1058
+ag1058
+ag1058
 aV{2}{U}{U}
-p1534
+p1145
 aV{1}{G}
-p1535
-ag1447
+p1146
+ag1058
 aV{3}{W}
-p1536
+p1147
 aV{3}{B}{B}
-p1537
-ag1447
+p1148
+ag1058
 aV{B}{B}
-p1538
-ag1447
+p1149
+ag1058
 aV{R}
-p1539
-ag1447
-ag1447
-ag1447
+p1150
+ag1058
+ag1058
+ag1058
 aV{1}{G}
-p1540
+p1151
 aV{2}{G}
-p1541
+p1152
 aV{5}{G}
-p1542
+p1153
 aV{R/G}
-p1543
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
+p1154
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
 aV{1}{W}
-p1544
-ag1447
+p1155
+ag1058
 aV{3}{W}
-p1545
-ag1447
-ag1447
-ag1447
-ag1447
+p1156
+ag1058
+ag1058
+ag1058
+ag1058
 aV{2}{U}{U}
-p1546
+p1157
 aV{3}{G}
-p1547
+p1158
 aV{2}{W}{W}
-p1548
+p1159
 aV{4}{R}{R}{R}
-p1549
+p1160
 aV{4}{R}
-p1550
+p1161
 aV{3}{U}
-p1551
+p1162
 aV{2}{G}
-p1552
+p1163
 aV{2}{B}
-p1553
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
+p1164
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
 aV{3}{G}
-p1554
+p1165
 aV{1}{U}
-p1555
+p1166
 aV{1}{G}
-p1556
-ag1447
-ag1447
-ag1447
-ag1447
+p1167
+ag1058
+ag1058
+ag1058
+ag1058
 aV{3}{U}{U}
-p1557
+p1168
 aV{3}
-p1558
-ag1447
-ag1447
-ag1447
-ag1447
+p1169
+ag1058
+ag1058
+ag1058
+ag1058
 aV{3}{W}
-p1559
+p1170
 aV{2}{U}
-p1560
+p1171
 aV{2}{G}
-p1561
+p1172
 aV{4}
-p1562
-ag1447
-ag1447
-ag1447
-ag1447
+p1173
+ag1058
+ag1058
+ag1058
+ag1058
 aV{1}{G}
-p1563
+p1174
 aV{0}
-p1564
-ag1447
-ag1447
-ag1447
-ag1447
+p1175
+ag1058
+ag1058
+ag1058
+ag1058
 aV{4}{R}
-p1565
+p1176
 aV{G}
-p1566
+p1177
 aV{1}{U}
-p1567
+p1178
 aV{1}{R}
-p1568
+p1179
 aV{1}{B}
-p1569
+p1180
 aV{1}{W}
-p1570
+p1181
 aV{U}{U}
-p1571
+p1182
 aV{2}{G}
-p1572
+p1183
 aV{G}
-p1573
+p1184
 aV{2}{G}{G}{G}{G}
-p1574
+p1185
 aV{U}
-p1575
-ag1447
-ag1447
-ag1447
-ag1447
+p1186
+ag1058
+ag1058
+ag1058
+ag1058
 aV{0}
-p1576
+p1187
 aV{G}
-p1577
-ag1447
-ag1447
-ag1447
+p1188
+ag1058
+ag1058
+ag1058
 aV{3}{G}
-p1578
+p1189
 aV{1}{U}
-p1579
-ag1447
-ag1447
+p1190
+ag1058
+ag1058
 aV{2}{B}
-p1580
+p1191
 aV{G}
-p1581
+p1192
 aV{2}{G}
-p1582
+p1193
 aV{3}{B}{B}
-p1583
-ag1447
-ag1447
-ag1447
-ag1447
+p1194
+ag1058
+ag1058
+ag1058
+ag1058
 aV{2}{U}
-p1584
-ag1447
+p1195
+ag1058
 aV{3}{U}
-p1585
-ag1447
-ag1447
+p1196
+ag1058
+ag1058
 aV{3}
-p1586
+p1197
 aV{R}{R}
-p1587
+p1198
 aV{G}
-p1588
+p1199
 aV{2}{G}{G}{G}{G}
-p1589
-ag1447
-ag1447
+p1200
+ag1058
+ag1058
 aV{2}{B}{B}
-p1590
+p1201
 aV{1}{U}
-p1591
+p1202
 aV{G}
-p1592
+p1203
 aV{2}{U}
-p1593
+p1204
 aV{2}{G}{G}{G}{G}
-p1594
-ag1447
-ag1447
-ag1447
+p1205
+ag1058
+ag1058
+ag1058
 aV{G}
-p1595
+p1206
 aV{2}{G}{G}{G}{G}
-p1596
+p1207
 aV{R}{R}
-p1597
+p1208
 aV{2}{B}
-p1598
+p1209
 aV{B}{B}
-p1599
+p1210
 aV{5}
-p1600
+p1211
 aV{U}
-p1601
+p1212
 aV{1}{W}{W}
-p1602
+p1213
 aV{U}
-p1603
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
+p1214
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
 aV{2}{B}
-p1604
+p1215
 aV{1}{R}
-p1605
+p1216
 aV{G}
-p1606
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
+p1217
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
 aV{1}{U}
-p1607
+p1218
 aV{1}{R}
-p1608
-ag1447
-ag1447
-ag1447
-ag1447
+p1219
+ag1058
+ag1058
+ag1058
+ag1058
 aV{G}
-p1609
+p1220
 aV{G}
-p1610
+p1221
 aV{U}{U}
-p1611
+p1222
 aV{1}{G}
-p1612
+p1223
 aV{2}{U}
-p1613
-ag1447
-ag1447
-ag1447
-ag1447
+p1224
+ag1058
+ag1058
+ag1058
+ag1058
 aV{3}{R}
-p1614
+p1225
 aV{3}{W}
-p1615
-ag1447
-ag1447
-ag1447
-ag1447
-ag1447
+p1226
+ag1058
+ag1058
+ag1058
+ag1058
+ag1058
 aV{R}
-p1616
+p1227
 asS'names'
-p1617
-(lp1618
+p1228
+(lp1229
 VForest
+p1230
+aVForest
+p1231
+aVFog Bank
+p1232
+aVFootbottom Feast
+p1233
+aVForest
+p1234
+aVForest
+p1235
+aVForest
+p1236
+aVForest
+p1237
+aVForgotten Cave
+p1238
+aVForest
+p1239
+aVForest
+p1240
+aVForest
+p1241
+aVFog
+p1242
+aVForest
+p1243
+aVFog
+p1244
+aVForce of Nature
+p1245
+aVForcefield
+p1246
+aVForest
+p1247
+aVForest
+p1248
+aVForest
+p1249
+aVFork
+p1250
+aVFootsteps of the Goryo
+p1251
+aVForest
+p1252
+aVForest
+p1253
+aVForest
+p1254
+aVForest
+p1255
+aVForest
+p1256
+aVForest
+p1257
+aVForest
+p1258
+aVForest
+p1259
+aVForest
+p1260
+aVForfend
+p1261
+aVFog Bank
+p1262
+aVFog
+p1263
+aVForest
+p1264
+aVForest
+p1265
+aVForest
+p1266
+aVForest
+p1267
+aVFortified Area
+p1268
+aVFog
+p1269
+aVForce of Nature
+p1270
+aVForest
+p1271
+aVForest
+p1272
+aVForest
+p1273
+aVForest
+p1274
+aVForest
+p1275
+aVForce of Will
+p1276
+aVForesight
+p1277
+aVForesight
+p1278
+aVForm of the Dragon
+p1279
+aVForest
+p1280
+aVForest
+p1281
+aVForest
+p1282
+aVForest
+p1283
+aVForest
+p1284
+aVForest
+p1285
+aVForest
+p1286
+aVForest
+p1287
+aVForgestoker Dragon
+p1288
+aVForlorn Pseudamma
+p1289
+aVForsaken Drifters
+p1290
+aVFog
+p1291
+aVForest
+p1292
+aVForest
+p1293
+aVForest
+p1294
+aVForest
+p1295
+aVFog
+p1296
+aVForest
+p1297
+aVFortify
+p1298
+aVFool's Tome
+p1299
+aVForest
+p1300
+aVForest
+p1301
+aVForest
+p1302
+aVForest
+p1303
+aVForbidding Watchtower
+p1304
+aVForest
+p1305
+aVForest
+p1306
+aVFog Elemental
+p1307
+aVFountain of Youth
+p1308
+aVForest
+p1309
+aVForest
+p1310
+aVFood Chain
+p1311
+aVFoster
+p1312
+aVFountain Watch
+p1313
+aVForced March
+p1314
+aVFountain of Cho
+p1315
+aVForest
+p1316
+aVForest
+p1317
+aVForest
+p1318
+aVForest
+p1319
+aVForce of Will
+p1320
+aVForgotten Cave
+p1321
+aVFountain of Youth
+p1322
+aVForest
+p1323
+aVForest
+p1324
+aVForest
+p1325
+aVForest
+p1326
+aVFoul Presence
+p1327
+aVForce Spike
+p1328
+aVForced Retreat
+p1329
+aVForest
+p1330
+aVForest
+p1331
+aVForest
+p1332
+aVForked Lightning
+p1333
+aVFog
+p1334
+aVForce of Nature
+p1335
+aVForest
+p1336
+aVForest
+p1337
+aVForest
+p1338
+aVFork
+p1339
+aVFolk of the Pines
+p1340
+aVForbidden Lore
+p1341
+aVForgotten Lore
+p1342
+aVFoul Familiar
+p1343
+aVForce of Nature
+p1344
+aVForm of the Dragon
+p1345
+aVFoot Soldiers
+p1346
+aVForest
+p1347
+aVForest
+p1348
+aVForest
+p1349
+aVForest
+p1350
+aVFoul Imp
+p1351
+aVFont of Mythos
+p1352
+aVForest
+p1353
+aVForest
+p1354
+aVForest
+p1355
+aVForest
+p1356
+aVForest
+p1357
+aVForest
+p1358
+aVForest
+p1359
+aVForest
+p1360
+aVForest
+p1361
+aVFoothill Guide
+p1362
+aVForgotten Cave
+p1363
+aVForest
+p1364
+aVForest
+p1365
+aVForest
+p1366
+aVForest
+p1367
+aVForbidden Orchard
+p1368
+aVForbidden Orchard
+p1369
+aVForest
+p1370
+aVForest
+p1371
+aVForest
+p1372
+aVForest
+p1373
+aVForked-Branch Garami
+p1374
+aVFodder Cannon
+p1375
+aVFollowed Footsteps
+p1376
+aVForest
+p1377
+aVForest
+p1378
+aVForest
+p1379
+aVForest
+p1380
+aVFog Bank
+p1381
+aVForest
+p1382
+aVForgotten Cave
+p1383
+aVFoster
+p1384
+aVForest
+p1385
+aVForest
+p1386
+aVForest
+p1387
+aVForest
+p1388
+aVForiysian Interceptor
+p1389
+aVForiysian Totem
+p1390
+aVFortify
+p1391
+aVFortune Thief
+p1392
+aVFool's Demise
+p1393
+aVForest
+p1394
+aVForest
+p1395
+aVForest
+p1396
+aVForest
+p1397
+aVForest
+p1398
+aVForest
+p1399
+aVForest
+p1400
+aVForest
+p1401
+aVForest
+p1402
+aVForced Adaptation
+p1403
+aVFortress Cyclops
+p1404
+aVFoundry Champion
+p1405
+aVFoundry Street Denizen
+p1406
+aVForbid
+p1407
+aVFog
+p1408
+aVForce of Nature
+p1409
+aVForcefield
+p1410
+aVForest
+p1411
+aVForest
+p1412
+aVForest
+p1413
+aVFork
+p1414
+aVFoul Familiar
+p1415
+aVForce Void
+p1416
+aVFolk of the Pines
+p1417
+aVForbidden Lore
+p1418
+aVForgotten Lore
+p1419
+aVFormation
+p1420
+aVForest
+p1421
+aVForest
+p1422
+aVForest
+p1423
+aVFoxfire
+p1424
+aVForest
+p1425
+aVForest
+p1426
+aVForest
+p1427
+aVForest
+p1428
+aVForest
+p1429
+aVForest
+p1430
+aVForest
+p1431
+aVForest
+p1432
+aVFog
+p1433
+aVForbidden Crypt
+p1434
+aVFog Elemental
+p1435
+aVForest
+p1436
+aVForest
+p1437
+aVForest
+p1438
+aVForest
+p1439
+aVForget
+p1440
+aVFountain of Youth
+p1441
+aVForge Armor
+p1442
+aVForest
+p1443
+aVForest
+p1444
+aVForest
+p1445
+aVForest
+p1446
+aVFoil
+p1447
+aVForest
+p1448
+aVForest
+p1449
+aVForest
+p1450
+aVForest
+p1451
+aVForce Spike
+p1452
+aVFoul Imp
+p1453
+aVFog
+p1454
+aVForest
+p1455
+aVForest
+p1456
+aVForest
+p1457
+aVForest
+p1458
+aVFoil
+p1459
+aVForgotten Harvest
+p1460
+aVForest
+p1461
+aVForge Devil
+p1462
+aVFoundry Street Denizen
+p1463
+aVForbidding Watchtower
+p1464
+aVFog of Gnats
+p1465
+aVForest
+p1466
+aVForked Bolt
+p1467
+aVForest
+p1468
+aVForest
+p1469
+aVForest
+p1470
+aVForcemage Advocate
+p1471
+aVFolk Medicine
+p1472
+aVFoxfire Oak
+p1473
+aVFossil Find
+p1474
+aVForest
+p1475
+aVForest
+p1476
+aVForest
+p1477
+aVForest
+p1478
+aVForest
+p1479
+aVForced Worship
+p1480
+aVForest
+p1481
+aVFoot Soldiers
+p1482
+aVForest
+p1483
+aVForest
+p1484
+aVForest
+p1485
+aVForest
+p1486
+aVFold into ∆ther
+p1487
+aVForgotten Ancient
+p1488
+aVForce Bubble
+p1489
+aVForm of the Dragon
+p1490
+aVFomori Nomad
+p1491
+aVForesee
+p1492
+aVForce of Savagery
+p1493
+aVFoul Spirit
+p1494
+aVForest
+p1495
+aVForest
+p1496
+aVForest
+p1497
+aVForest
+p1498
+aVForest
+p1499
+aVForest
+p1500
+aVForest
+p1501
+aVForest
+p1502
+aVForgotten Ancient
+p1503
+aVFog Bank
+p1504
+aVFortitude
+p1505
+aVForest
+p1506
+aVForest
+p1507
+aVForest
+p1508
+aVForest
+p1509
+aVForce of Will
+p1510
+aVForcefield
+p1511
+aVForest
+p1512
+aVForest
+p1513
+aVForest
+p1514
+aVForest
+p1515
+aVForiysian Brigade
+p1516
+aVFog Elemental
+p1517
+aVForatog
+p1518
+aVFodder Cannon
+p1519
+aVForest
+p1520
+aVForest
+p1521
+aVForest
+p1522
+aVForest
+p1523
+aVFog Patch
+p1524
+aVFountain of Youth
+p1525
+aVForest
+p1526
+aVForest
+p1527
+aVForest
+p1528
+aVForest
+p1529
+aVFont of Fertility
+p1530
+aVFont of Fortunes
+p1531
+aVFont of Ire
+p1532
+aVFont of Return
+p1533
+aVFont of Vigor
+p1534
+aVForgeborn Oreads
+p1535
+aVForget
+p1536
+aVFoxfire
+p1537
+aVFog
+p1538
+aVForce of Nature
+p1539
+aVForce Spike
+p1540
+aVForest
+p1541
+aVForest
+p1542
+aVForest
+p1543
+aVForest
+p1544
+aVFountain of Youth
+p1545
+aVFog
+p1546
+aVForest
+p1547
+aVForest
+p1548
+aVForest
+p1549
+aVForgotten Ancient
+p1550
+aVForce Away
+p1551
+aVForest
+p1552
+aVForest
+p1553
+aVForsaken Wastes
+p1554
+aVFog
+p1555
+aVForatog
+p1556
+aVForbidden Crypt
+p1557
+aVForest
+p1558
+aVForest
+p1559
+aVForest
+p1560
+aVForest
+p1561
+aVForbidden Alchemy
+p1562
+aVForest
+p1563
+aVFortress Crab
+p1564
+aVForest
+p1565
+aVForest
+p1566
+aVForcefield
+p1567
+aVFork
+p1568
+aVFog
+p1569
+aVForce of Nature
+p1570
+aVForest
+p1571
+aVForest
+p1572
+aVForbidden Ritual
+p1573
+aVForeshadow
+p1574
+aVFog
+p1575
+aVFog Elemental
+p1576
+aVForce of Nature
+p1577
+aVForest
+p1578
+aVForest
+p1579
+aVForest
+p1580
+aVFog
+p1581
+aVForce of Nature
+p1582
+aVFork
+p1583
+aVFoul Spirit
+p1584
+aVFoul Imp
+p1585
+aVForethought Amulet
+p1586
+aVForce Spike
+p1587
+aVFortified Area
+p1588
+aVForce Spike
+p1589
+aVForest
+p1590
+aVForgotten Cave
+p1591
+aVForest
+p1592
+aVForest
+p1593
+aVForest
+p1594
+aVFootbottom Feast
+p1595
+aVForced Fruition
+p1596
+aVFodder Launch
+p1597
+aVForest
+p1598
+aVForest
+p1599
+aVForest
+p1600
+aVForest
+p1601
+aVForest
+p1602
+aVFog
+p1603
+aVForesee
+p1604
+aVForest
+p1605
+aVForest
+p1606
+aVForest
+p1607
+aVForest
+p1608
+aVFolk of An-Havva
+p1609
+aVFolk of An-Havva
+p1610
+aVForget
+p1611
+aVForest Bear
+p1612
+aVForced Retreat
+p1613
+aVForest
+p1614
+aVForest
+p1615
+aVForest
+p1616
+aVForest
+p1617
+aVForked Lightning
+p1618
+aVFoot Soldiers
 p1619
 aVForest
 p1620
-aVFog Bank
+aVForest
 p1621
-aVFootbottom Feast
+aVForest
 p1622
 aVForest
 p1623
-aVForest
-p1624
-aVForest
-p1625
-aVForest
-p1626
-aVForgotten Cave
-p1627
-aVForest
-p1628
-aVForest
-p1629
-aVForest
-p1630
-aVFog
-p1631
-aVForest
-p1632
-aVFog
-p1633
-aVForce of Nature
-p1634
-aVForcefield
-p1635
-aVForest
-p1636
-aVForest
-p1637
-aVForest
-p1638
-aVFork
-p1639
-aVFootsteps of the Goryo
-p1640
-aVForest
-p1641
-aVForest
-p1642
-aVForest
-p1643
-aVForest
-p1644
-aVForest
-p1645
-aVForest
-p1646
-aVForest
-p1647
-aVForest
-p1648
-aVForest
-p1649
-aVForfend
-p1650
-aVFog Bank
-p1651
-aVFog
-p1652
-aVForest
-p1653
-aVForest
-p1654
-aVForest
-p1655
-aVForest
-p1656
-aVFortified Area
-p1657
-aVFog
-p1658
-aVForce of Nature
-p1659
-aVForest
-p1660
-aVForest
-p1661
-aVForest
-p1662
-aVForest
-p1663
-aVForest
-p1664
-aVForce of Will
-p1665
-aVForesight
-p1666
-aVForesight
-p1667
-aVForm of the Dragon
-p1668
-aVForest
-p1669
-aVForest
-p1670
-aVForest
-p1671
-aVForest
-p1672
-aVForest
-p1673
-aVForest
-p1674
-aVForest
-p1675
-aVForest
-p1676
-aVForgestoker Dragon
-p1677
-aVForlorn Pseudamma
-p1678
-aVForsaken Drifters
-p1679
-aVFog
-p1680
-aVForest
-p1681
-aVForest
-p1682
-aVForest
-p1683
-aVForest
-p1684
-aVFog
-p1685
-aVForest
-p1686
-aVFortify
-p1687
-aVFool's Tome
-p1688
-aVForest
-p1689
-aVForest
-p1690
-aVForest
-p1691
-aVForest
-p1692
-aVForbidding Watchtower
-p1693
-aVForest
-p1694
-aVForest
-p1695
-aVFog Elemental
-p1696
-aVFountain of Youth
-p1697
-aVForest
-p1698
-aVForest
-p1699
-aVFood Chain
-p1700
-aVFoster
-p1701
-aVFountain Watch
-p1702
-aVForced March
-p1703
-aVFountain of Cho
-p1704
-aVForest
-p1705
-aVForest
-p1706
-aVForest
-p1707
-aVForest
-p1708
-aVForce of Will
-p1709
-aVForgotten Cave
-p1710
-aVFountain of Youth
-p1711
-aVForest
-p1712
-aVForest
-p1713
-aVForest
-p1714
-aVForest
-p1715
-aVFoul Presence
-p1716
-aVForce Spike
-p1717
-aVForced Retreat
-p1718
-aVForest
-p1719
-aVForest
-p1720
-aVForest
-p1721
-aVForked Lightning
-p1722
-aVFog
-p1723
-aVForce of Nature
-p1724
-aVForest
-p1725
-aVForest
-p1726
-aVForest
-p1727
-aVFork
-p1728
-aVFolk of the Pines
-p1729
-aVForbidden Lore
-p1730
-aVForgotten Lore
-p1731
-aVFoul Familiar
-p1732
-aVForce of Nature
-p1733
-aVForm of the Dragon
-p1734
-aVFoot Soldiers
-p1735
-aVForest
-p1736
-aVForest
-p1737
-aVForest
-p1738
-aVForest
-p1739
-aVFoul Imp
-p1740
-aVFont of Mythos
-p1741
-aVForest
-p1742
-aVForest
-p1743
-aVForest
-p1744
-aVForest
-p1745
-aVForest
-p1746
-aVForest
-p1747
-aVForest
-p1748
-aVForest
-p1749
-aVForest
-p1750
-aVFoothill Guide
-p1751
-aVForgotten Cave
-p1752
-aVForest
-p1753
-aVForest
-p1754
-aVForest
-p1755
-aVForest
-p1756
-aVForbidden Orchard
-p1757
-aVForbidden Orchard
-p1758
-aVForest
-p1759
-aVForest
-p1760
-aVForest
-p1761
-aVForest
-p1762
-aVForked-Branch Garami
-p1763
-aVFodder Cannon
-p1764
-aVFollowed Footsteps
-p1765
-aVForest
-p1766
-aVForest
-p1767
-aVForest
-p1768
-aVForest
-p1769
-aVFog Bank
-p1770
-aVForest
-p1771
-aVForgotten Cave
-p1772
-aVFoster
-p1773
-aVForest
-p1774
-aVForest
-p1775
-aVForest
-p1776
-aVForest
-p1777
-aVForiysian Interceptor
-p1778
-aVForiysian Totem
-p1779
-aVFortify
-p1780
-aVFortune Thief
-p1781
-aVFool's Demise
-p1782
-aVForest
-p1783
-aVForest
-p1784
-aVForest
-p1785
-aVForest
-p1786
-aVForest
-p1787
-aVForest
-p1788
-aVForest
-p1789
-aVForest
-p1790
-aVForest
-p1791
-aVForced Adaptation
-p1792
-aVFortress Cyclops
-p1793
-aVFoundry Champion
-p1794
-aVFoundry Street Denizen
-p1795
-aVForbid
-p1796
-aVFog
-p1797
-aVForce of Nature
-p1798
-aVForcefield
-p1799
-aVForest
-p1800
-aVForest
-p1801
-aVForest
-p1802
-aVFork
-p1803
-aVFoul Familiar
-p1804
-aVForce Void
-p1805
-aVFolk of the Pines
-p1806
-aVForbidden Lore
-p1807
-aVForgotten Lore
-p1808
-aVFormation
-p1809
-aVForest
-p1810
-aVForest
-p1811
-aVForest
-p1812
-aVFoxfire
-p1813
-aVForest
-p1814
-aVForest
-p1815
-aVForest
-p1816
-aVForest
-p1817
-aVForest
-p1818
-aVForest
-p1819
-aVForest
-p1820
-aVForest
-p1821
-aVFog
-p1822
-aVForbidden Crypt
-p1823
-aVFog Elemental
-p1824
-aVForest
-p1825
-aVForest
-p1826
-aVForest
-p1827
-aVForest
-p1828
-aVForget
-p1829
-aVFountain of Youth
-p1830
-aVForge Armor
-p1831
-aVForest
-p1832
-aVForest
-p1833
-aVForest
-p1834
-aVForest
-p1835
-aVFoil
-p1836
-aVForest
-p1837
-aVForest
-p1838
-aVForest
-p1839
-aVForest
-p1840
-aVForce Spike
-p1841
-aVFoul Imp
-p1842
-aVFog
-p1843
-aVForest
-p1844
-aVForest
-p1845
-aVForest
-p1846
-aVForest
-p1847
-aVFoil
-p1848
-aVForgotten Harvest
-p1849
-aVForest
-p1850
-aVForge Devil
-p1851
-aVFoundry Street Denizen
-p1852
-aVForbidding Watchtower
-p1853
-aVFog of Gnats
-p1854
-aVForest
-p1855
-aVForked Bolt
-p1856
-aVForest
-p1857
-aVForest
-p1858
-aVForest
-p1859
-aVForcemage Advocate
-p1860
-aVFolk Medicine
-p1861
-aVFoxfire Oak
-p1862
-aVFossil Find
-p1863
-aVForest
-p1864
-aVForest
-p1865
-aVForest
-p1866
-aVForest
-p1867
-aVForest
-p1868
-aVForced Worship
-p1869
-aVForest
-p1870
-aVFoot Soldiers
-p1871
-aVForest
-p1872
-aVForest
-p1873
-aVForest
-p1874
-aVForest
-p1875
-aVFold into ∆ther
-p1876
-aVForgotten Ancient
-p1877
-aVForce Bubble
-p1878
-aVForm of the Dragon
-p1879
-aVFomori Nomad
-p1880
-aVForesee
-p1881
-aVForce of Savagery
-p1882
-aVFoul Spirit
-p1883
-aVForest
-p1884
-aVForest
-p1885
-aVForest
-p1886
-aVForest
-p1887
-aVForest
-p1888
-aVForest
-p1889
-aVForest
-p1890
-aVForest
-p1891
-aVForgotten Ancient
-p1892
-aVFog Bank
-p1893
-aVFortitude
-p1894
-aVForest
-p1895
-aVForest
-p1896
-aVForest
-p1897
-aVForest
-p1898
-aVForce of Will
-p1899
-aVForcefield
-p1900
-aVForest
-p1901
-aVForest
-p1902
-aVForest
-p1903
-aVForest
-p1904
-aVForiysian Brigade
-p1905
-aVFog Elemental
-p1906
-aVForatog
-p1907
-aVFodder Cannon
-p1908
-aVForest
-p1909
-aVForest
-p1910
-aVForest
-p1911
-aVForest
-p1912
-aVFog Patch
-p1913
-aVFountain of Youth
-p1914
-aVForest
-p1915
-aVForest
-p1916
-aVForest
-p1917
-aVForest
-p1918
-aVFont of Fertility
-p1919
-aVFont of Fortunes
-p1920
-aVFont of Ire
-p1921
-aVFont of Return
-p1922
-aVFont of Vigor
-p1923
-aVForgeborn Oreads
-p1924
-aVForget
-p1925
-aVFoxfire
-p1926
-aVFog
-p1927
-aVForce of Nature
-p1928
-aVForce Spike
-p1929
-aVForest
-p1930
-aVForest
-p1931
-aVForest
-p1932
-aVForest
-p1933
-aVFountain of Youth
-p1934
-aVFog
-p1935
-aVForest
-p1936
-aVForest
-p1937
-aVForest
-p1938
-aVForgotten Ancient
-p1939
-aVForce Away
-p1940
-aVForest
-p1941
-aVForest
-p1942
-aVForsaken Wastes
-p1943
-aVFog
-p1944
-aVForatog
-p1945
-aVForbidden Crypt
-p1946
-aVForest
-p1947
-aVForest
-p1948
-aVForest
-p1949
-aVForest
-p1950
-aVForbidden Alchemy
-p1951
-aVForest
-p1952
-aVFortress Crab
-p1953
-aVForest
-p1954
-aVForest
-p1955
-aVForcefield
-p1956
-aVFork
-p1957
-aVFog
-p1958
-aVForce of Nature
-p1959
-aVForest
-p1960
-aVForest
-p1961
-aVForbidden Ritual
-p1962
-aVForeshadow
-p1963
-aVFog
-p1964
-aVFog Elemental
-p1965
-aVForce of Nature
-p1966
-aVForest
-p1967
-aVForest
-p1968
-aVForest
-p1969
-aVFog
-p1970
-aVForce of Nature
-p1971
-aVFork
-p1972
-aVFoul Spirit
-p1973
-aVFoul Imp
-p1974
-aVForethought Amulet
-p1975
-aVForce Spike
-p1976
-aVFortified Area
-p1977
-aVForce Spike
-p1978
-aVForest
-p1979
-aVForgotten Cave
-p1980
-aVForest
-p1981
-aVForest
-p1982
-aVForest
-p1983
-aVFootbottom Feast
-p1984
-aVForced Fruition
-p1985
-aVFodder Launch
-p1986
-aVForest
-p1987
-aVForest
-p1988
-aVForest
-p1989
-aVForest
-p1990
-aVForest
-p1991
-aVFog
-p1992
-aVForesee
-p1993
-aVForest
-p1994
-aVForest
-p1995
-aVForest
-p1996
-aVForest
-p1997
-aVFolk of An-Havva
-p1998
-aVFolk of An-Havva
-p1999
-aVForget
-p2000
-aVForest Bear
-p2001
-aVForced Retreat
-p2002
-aVForest
-p2003
-aVForest
-p2004
-aVForest
-p2005
-aVForest
-p2006
-aVForked Lightning
-p2007
-aVFoot Soldiers
-p2008
-aVForest
-p2009
-aVForest
-p2010
-aVForest
-p2011
-aVForest
-p2012
 aVForsaken City
-p2013
+p1624
 aVForge Devil
+p1625
+asS'rares'
+p1626
+(lp1627
+VLand
+p1628
+aVLand
+p1629
+aVUncommon
+p1630
+aVCommon
+p1631
+aVLand
+p1632
+aVLand
+p1633
+aVLand
+p1634
+aVLand
+p1635
+aVCommon
+p1636
+aVLand
+p1637
+aVLand
+p1638
+aVLand
+p1639
+aVCommon
+p1640
+aVLand
+p1641
+aVCommon
+p1642
+aVRare
+p1643
+aVRare
+p1644
+aVLand
+p1645
+aVLand
+p1646
+aVLand
+p1647
+aVRare
+p1648
+aVUncommon
+p1649
+aVLand
+p1650
+aVLand
+p1651
+aVLand
+p1652
+aVLand
+p1653
+aVLand
+p1654
+aVLand
+p1655
+aVLand
+p1656
+aVLand
+p1657
+aVLand
+p1658
+aVCommon
+p1659
+aVUncommon
+p1660
+aVCommon
+p1661
+aVLand
+p1662
+aVLand
+p1663
+aVLand
+p1664
+aVLand
+p1665
+aVCommon
+p1666
+aVCommon
+p1667
+aVRare
+p1668
+aVLand
+p1669
+aVLand
+p1670
+aVLand
+p1671
+aVLand
+p1672
+aVLand
+p1673
+aVUncommon
+p1674
+aVCommon
+p1675
+aVCommon
+p1676
+aVRare
+p1677
+aVLand
+p1678
+aVLand
+p1679
+aVLand
+p1680
+aVLand
+p1681
+aVLand
+p1682
+aVLand
+p1683
+aVLand
+p1684
+aVLand
+p1685
+aVRare
+p1686
+aVUncommon
+p1687
+aVCommon
+p1688
+aVCommon
+p1689
+aVLand
+p1690
+aVLand
+p1691
+aVLand
+p1692
+aVLand
+p1693
+aVCommon
+p1694
+aVLand
+p1695
+aVCommon
+p1696
+aVRare
+p1697
+aVLand
+p1698
+aVLand
+p1699
+aVLand
+p1700
+aVLand
+p1701
+aVUncommon
+p1702
+aVLand
+p1703
+aVLand
+p1704
+aVUncommon
+p1705
+aVUncommon
+p1706
+aVLand
+p1707
+aVLand
+p1708
+aVRare
+p1709
+aVRare
+p1710
+aVRare
+p1711
+aVRare
+p1712
+aVUncommon
+p1713
+aVLand
+p1714
+aVLand
+p1715
+aVLand
+p1716
+aVLand
+p1717
+aVRare
+p1718
+aVCommon
+p1719
+aVUncommon
+p1720
+aVLand
+p1721
+aVLand
+p1722
+aVLand
+p1723
+aVLand
+p1724
+aVUncommon
+p1725
+aVCommon
+p1726
+aVCommon
+p1727
+aVLand
+p1728
+aVLand
+p1729
+aVLand
+p1730
+aVUncommon
+p1731
+aVCommon
+p1732
+aVRare
+p1733
+aVLand
+p1734
+aVLand
+p1735
+aVLand
+p1736
+aVRare
+p1737
+aVCommon
+p1738
+aVUncommon
+p1739
+aVUncommon
+p1740
+aVCommon
+p1741
+aVRare
+p1742
+aVRare
+p1743
+aVCommon
+p1744
+aVLand
+p1745
+aVLand
+p1746
+aVLand
+p1747
+aVLand
+p1748
+aVCommon
+p1749
+aVRare
+p1750
+aVLand
+p1751
+aVLand
+p1752
+aVLand
+p1753
+aVLand
+p1754
+aVLand
+p1755
+aVLand
+p1756
+aVLand
+p1757
+aVLand
+p1758
+aVLand
+p1759
+aVCommon
+p1760
+aVCommon
+p1761
+aVLand
+p1762
+aVLand
+p1763
+aVLand
+p1764
+aVLand
+p1765
+aVMythic Rare
+p1766
+aVRare
+p1767
+aVLand
+p1768
+aVLand
+p1769
+aVLand
+p1770
+aVLand
+p1771
+aVUncommon
+p1772
+aVUncommon
+p1773
+aVRare
+p1774
+aVLand
+p1775
+aVLand
+p1776
+aVLand
+p1777
+aVLand
+p1778
+aVUncommon
+p1779
+aVLand
+p1780
+aVCommon
+p1781
+aVRare
+p1782
+aVLand
+p1783
+aVLand
+p1784
+aVLand
+p1785
+aVLand
+p1786
+aVCommon
+p1787
+aVUncommon
+p1788
+aVCommon
+p1789
+aVRare
+p1790
+aVUncommon
+p1791
+aVLand
+p1792
+aVLand
+p1793
+aVLand
+p1794
+aVLand
+p1795
+aVLand
+p1796
+aVLand
+p1797
+aVLand
+p1798
+aVLand
+p1799
+aVLand
+p1800
+aVCommon
+p1801
+aVUncommon
+p1802
+aVRare
+p1803
+aVCommon
+p1804
+aVUncommon
+p1805
+aVCommon
+p1806
+aVRare
+p1807
+aVRare
+p1808
+aVLand
+p1809
+aVLand
+p1810
+aVLand
+p1811
+aVRare
+p1812
+aVCommon
+p1813
+aVUncommon
+p1814
+aVCommon
+p1815
+aVRare
+p1816
+aVUncommon
+p1817
+aVRare
+p1818
+aVLand
+p1819
+aVLand
+p1820
+aVLand
+p1821
+aVCommon
+p1822
+aVLand
+p1823
+aVLand
+p1824
+aVLand
+p1825
+aVLand
+p1826
+aVLand
+p1827
+aVLand
+p1828
+aVLand
+p1829
+aVLand
+p1830
+aVCommon
+p1831
+aVRare
+p1832
+aVCommon
+p1833
+aVLand
+p1834
+aVLand
+p1835
+aVLand
+p1836
+aVLand
+p1837
+aVRare
+p1838
+aVUncommon
+p1839
+aVUncommon
+p1840
+aVLand
+p1841
+aVLand
+p1842
+aVLand
+p1843
+aVLand
+p1844
+aVUncommon
+p1845
+aVLand
+p1846
+aVLand
+p1847
+aVLand
+p1848
+aVLand
+p1849
+aVCommon
+p1850
+aVUncommon
+p1851
+aVCommon
+p1852
+aVLand
+p1853
+aVLand
+p1854
+aVLand
+p1855
+aVLand
+p1856
+aVUncommon
+p1857
+aVRare
+p1858
+aVLand
+p1859
+aVCommon
+p1860
+aVCommon
+p1861
+aVUncommon
+p1862
+aVCommon
+p1863
+aVLand
+p1864
+aVUncommon
+p1865
+aVLand
+p1866
+aVLand
+p1867
+aVLand
+p1868
+aVUncommon
+p1869
+aVCommon
+p1870
+aVCommon
+p1871
+aVUncommon
+p1872
+aVLand
+p1873
+aVLand
+p1874
+aVLand
+p1875
+aVLand
+p1876
+aVLand
+p1877
+aVCommon
+p1878
+aVLand
+p1879
+aVCommon
+p1880
+aVLand
+p1881
+aVLand
+p1882
+aVLand
+p1883
+aVLand
+p1884
+aVUncommon
+p1885
+aVRare
+p1886
+aVRare
+p1887
+aVRare
+p1888
+aVCommon
+p1889
+aVCommon
+p1890
+aVRare
+p1891
+aVUncommon
+p1892
+aVLand
+p1893
+aVLand
+p1894
+aVLand
+p1895
+aVLand
+p1896
+aVLand
+p1897
+aVLand
+p1898
+aVLand
+p1899
+aVLand
+p1900
+aVRare
+p1901
+aVUncommon
+p1902
+aVCommon
+p1903
+aVLand
+p1904
+aVLand
+p1905
+aVLand
+p1906
+aVLand
+p1907
+aVRare
+p1908
+aVRare
+p1909
+aVLand
+p1910
+aVLand
+p1911
+aVLand
+p1912
+aVLand
+p1913
+aVUncommon
+p1914
+aVCommon
+p1915
+aVUncommon
+p1916
+aVUncommon
+p1917
+aVLand
+p1918
+aVLand
+p1919
+aVLand
+p1920
+aVLand
+p1921
+aVCommon
+p1922
+aVCommon
+p1923
+aVLand
+p1924
+aVLand
+p1925
+aVLand
+p1926
+aVLand
+p1927
+aVCommon
+p1928
+aVCommon
+p1929
+aVCommon
+p1930
+aVCommon
+p1931
+aVCommon
+p1932
+aVUncommon
+p1933
+aVRare
+p1934
+aVCommon
+p1935
+aVCommon
+p1936
+aVRare
+p1937
+aVCommon
+p1938
+aVLand
+p1939
+aVLand
+p1940
+aVLand
+p1941
+aVLand
+p1942
+aVUncommon
+p1943
+aVCommon
+p1944
+aVLand
+p1945
+aVLand
+p1946
+aVLand
+p1947
+aVRare
+p1948
+aVCommon
+p1949
+aVLand
+p1950
+aVLand
+p1951
+aVRare
+p1952
+aVCommon
+p1953
+aVUncommon
+p1954
+aVRare
+p1955
+aVLand
+p1956
+aVLand
+p1957
+aVLand
+p1958
+aVLand
+p1959
+aVCommon
+p1960
+aVLand
+p1961
+aVCommon
+p1962
+aVLand
+p1963
+aVLand
+p1964
+aVRare
+p1965
+aVRare
+p1966
+aVCommon
+p1967
+aVRare
+p1968
+aVLand
+p1969
+aVLand
+p1970
+aVRare
+p1971
+aVUncommon
+p1972
+aVCommon
+p1973
+aVCommon
+p1974
+aVRare
+p1975
+aVLand
+p1976
+aVLand
+p1977
+aVLand
+p1978
+aVCommon
+p1979
+aVRare
+p1980
+aVRare
+p1981
+aVCommon
+p1982
+aVCommon
+p1983
+aVRare
+p1984
+aVCommon
+p1985
+aVUncommon
+p1986
+aVCommon
+p1987
+aVLand
+p1988
+aVCommon
+p1989
+aVLand
+p1990
+aVLand
+p1991
+aVLand
+p1992
+aVCommon
+p1993
+aVRare
+p1994
+aVUncommon
+p1995
+aVLand
+p1996
+aVLand
+p1997
+aVLand
+p1998
+aVLand
+p1999
+aVLand
+p2000
+aVCommon
+p2001
+aVCommon
+p2002
+aVLand
+p2003
+aVLand
+p2004
+aVLand
+p2005
+aVLand
+p2006
+aVCommon
+p2007
+aVCommon
+p2008
+aVRare
+p2009
+aVCommon
+p2010
+aVCommon
+p2011
+aVLand
+p2012
+aVLand
+p2013
+aVLand
 p2014
-asS'toughs'
+aVLand
 p2015
-(lp2016
-S'N/A'
+aVRare
+p2016
+aVCommon
 p2017
-ag2017
-aV2
+aVLand
 p2018
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-aV4
+aVLand
 p2019
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-aV3
+aVLand
 p2020
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2018
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2019
-aV0
+aVLand
 p2021
-aV1
+aVRare
 p2022
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2022
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2018
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2020
-ag2017
-ag2017
-ag2017
-ag2017
-aV5
+aVCommon
 p2023
-ag2017
-ag2017
-ag2022
-ag2018
-ag2017
-ag2020
-ag2017
-ag2017
-ag2017
-ag2017
-ag2022
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2019
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2019
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2019
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2023
-ag2017
-ag2017
-ag2022
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2022
-ag2020
-ag2020
-ag2017
-ag2017
-ag2019
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2019
-ag2017
-ag2018
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2020
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2022
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2022
-ag2022
-ag2017
-ag2022
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2022
-ag2017
-aV6
-p2024
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2019
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2020
-ag2017
-ag2017
-ag2019
-ag2017
-ag2018
-ag2018
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2018
-ag2018
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2020
-ag2022
-ag2018
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2020
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2022
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2022
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2020
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2019
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2020
-ag2022
-ag2017
-ag2017
-ag2017
-ag2017
-ag2024
-ag2017
-ag2023
-ag2018
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2020
-ag2023
-ag2017
-ag2018
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2019
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2018
 asS'artists'
-p2025
-(lp2026
+p2024
+(lp2025
 VQuinton Hoover
-p2027
+p2026
 aVTony Roberts
-p2028
+p2027
 aVScott Kirschner
+p2028
+aVJim Nelson
 p2029
-aVJim Nelson
-p2030
 aVRob Alexander
-p2031
+p2030
 aVSteven Belledin
-p2032
+p2031
 aVZoltan Boros & Gabor Szikszai
-p2033
+p2032
 aVAnthony S. Waters
-p2034
+p2033
 aVTony Szczudlo
-p2035
+p2034
 aVGlen Angus
-p2036
+p2035
 aVJim Nelson
-p2037
+p2036
 aVRyan Pancoast
-p2038
-ag1204
-ag1204
+p2037
+ag815
+ag815
 aVJesper Myrfors
-p2039
+p2038
 aVDouglas Schuler
-p2040
+p2039
 aVDan Frazier
+p2040
+aVChristopher Rush
 p2041
 aVChristopher Rush
 p2042
 aVChristopher Rush
 p2043
-aVChristopher Rush
-p2044
 aVAmy Weber
-p2045
+p2044
 aVChippy
+p2045
+aVJi Yong
 p2046
 aVJi Yong
 p2047
 aVJi Yong
 p2048
-aVJi Yong
+aVJohn Avon
 p2049
 aVJohn Avon
 p2050
@@ -4859,57 +4860,57 @@ aVJohn Avon
 p2051
 aVJohn Avon
 p2052
-aVJohn Avon
+aVDavid O'Connor
 p2053
 aVDavid O'Connor
 p2054
-aVDavid O'Connor
-p2055
 aVFranz Vohwinkel
-p2056
+p2055
 aVHoward Lyon
-p2057
+p2056
 aVJaime Jones
-p2058
+p2057
 aVVolkan Baga
-p2059
+p2058
 aVNoah Bradley
-p2060
+p2059
 aVJim Nelson
-p2061
+p2060
 aVRob Alexander
-p2062
+p2061
 aVRandy Asplund-Faith
-p2063
+p2062
 aVJesper Myrfors
-p2064
+p2063
 aVDouglas Shuler
+p2064
+aVChristopher Rush
 p2065
 aVChristopher Rush
 p2066
 aVChristopher Rush
 p2067
-aVChristopher Rush
+aVZoltan Boros & Gabor Szikszai
 p2068
 aVZoltan Boros & Gabor Szikszai
 p2069
-aVZoltan Boros & Gabor Szikszai
+aVTerese Nielsen
 p2070
 aVTerese Nielsen
 p2071
 aVTerese Nielsen
 p2072
-aVTerese Nielsen
-p2073
 aVDaarken
-p2074
+p2073
 aVScott Bailey
-p2075
+p2074
 aVMike Ploog
-p2076
+p2075
 aVLarry Elmore
-p2077
+p2076
 aVMichael Komarck
+p2077
+aVMark Tedin
 p2078
 aVMark Tedin
 p2079
@@ -4917,31 +4918,31 @@ aVMark Tedin
 p2080
 aVMark Tedin
 p2081
-aVMark Tedin
-p2082
 aVTodd Lockwood
-p2083
+p2082
 aVWinona Nelson
-p2084
+p2083
 aVMin Yum
+p2084
+aVJohn Avon
 p2085
-aVJohn Avon
+aVSteven Belledin
 p2086
-aVSteven Belledin
-p2087
 aVGlen Angus
-p2088
+p2087
 aVJohn Avon
-p2089
+p2088
 aVJim Nelson
-p2090
+p2089
 aVJaime Jones
-p2091
+p2090
 aVSteven Belledin
-p2092
+p2091
 aVChristopher Moeller
-p2093
+p2092
 aVJulie Baroh
+p2093
+aVDouglas Shuler
 p2094
 aVDouglas Shuler
 p2095
@@ -4949,91 +4950,91 @@ aVDouglas Shuler
 p2096
 aVDouglas Shuler
 p2097
-aVDouglas Shuler
-p2098
 aVAleksi Briclot
-p2099
+p2098
 aVAnthony S. Waters
-p2100
+p2099
 aVStephan Martiniere
-p2101
+p2100
 aVJon J Muth
-p2102
+p2101
 aVDan Scott
-p2103
+p2102
 aVJohn Avon
-p2104
+p2103
 aVRob Alexander
-p2105
+p2104
 aVVal Mayerik
-p2106
+p2105
 aVCarl Critchlow
-p2107
+p2106
 aVJeff Miracola
-p2108
+p2107
 aVGreg & Tim Hildebrandt
-p2109
+p2108
 aVScott Hampton
-p2110
+p2109
 aVDonato Giancola
+p2110
+aVRob Alexander
 p2111
 aVRob Alexander
 p2112
-aVRob Alexander
-p2113
 aVTerry Springer
-p2114
+p2113
 aVMatt Stewart
-p2115
+p2114
 aVNoah Bradley
-p2116
+p2115
 aVDaniel Gelon
+p2116
+ag815
+ag815
+aVJohn Avon
 p2117
-ag1204
-ag1204
 aVJohn Avon
 p2118
-aVJohn Avon
-p2119
 aVRay Lago
-p2120
+p2119
 aVHuang Qishi
+p2120
+aVJi Yong
 p2121
 aVJi Yong
 p2122
 aVJi Yong
 p2123
-aVJi Yong
-p2124
 aVTed Naifeh
-p2125
+p2124
 aVMark Tedin
-p2126
+p2125
 aVJesper Myrfors
-p2127
+p2126
 aVDouglas Shuler
+p2127
+aVChristopher Rush
 p2128
 aVChristopher Rush
 p2129
 aVChristopher Rush
 p2130
-aVChristopher Rush
-p2131
 aVAmy Weber
-p2132
+p2131
 aVNÈNÈ Thomas & Catherine Buck
-p2133
+p2132
 aVChristopher Rush
-p2134
+p2133
 aVHarold McNeill
-p2135
+p2134
 aVAnson Maddocks
-p2136
+p2135
 aVGreg Staples
-p2137
+p2136
 aVCarl Critchlow
-p2138
+p2137
 aVKev Walker
+p2138
+aVJohn Avon
 p2139
 aVJohn Avon
 p2140
@@ -5041,39 +5042,39 @@ aVJohn Avon
 p2141
 aVJohn Avon
 p2142
-aVJohn Avon
-p2143
 aVKev Walker
-p2144
+p2143
 aVDave Allsop
-p2145
+p2144
 aVEytan Zana
-p2146
+p2145
 aVJung Park
-p2147
+p2146
 aVJames Paick
-p2148
-ag1204
-ag1204
-ag1204
-ag1204
-ag1204
-ag1204
+p2147
+ag815
+ag815
+ag815
+ag815
+ag815
+ag815
 aVEric Peterson
-p2149
+p2148
 aVTony Szczudlo
+p2149
+aVJohn Avon
 p2150
-aVJohn Avon
-p2151
 aVJohn Matson
-p2152
+p2151
 aVJohn Avon
-p2153
+p2152
 aVDavid Martin
-p2154
+p2153
 aVDaniel Ljunggren
-p2155
+p2154
 aVDany Orizio
+p2155
+aVRob Alexander
 p2156
 aVRob Alexander
 p2157
@@ -5081,269 +5082,269 @@ aVRob Alexander
 p2158
 aVRob Alexander
 p2159
-aVRob Alexander
-p2160
 aVDany Orizio
-p2161
+p2160
 aVDiTerlizzi
-p2162
+p2161
 aVGlen Angus
-p2163
+p2162
 aVStephan Martiniere
-p2164
+p2163
 aVChristopher Moeller
-p2165
+p2164
 aVAnthony S. Waters
-p2166
+p2165
 aVRichard Wright
-p2167
+p2166
 aVHoward Lyon
-p2168
+p2167
 aVJung Park
+p2168
+aVTony Szczudlo
 p2169
-aVTony Szczudlo
-p2170
 aVCarl Critchlow
-p2171
+p2170
 aVLarry Elmore
-p2172
+p2171
 aVRob Alexander
-p2173
+p2172
 aVJerry Tiritilli
-p2174
+p2173
 aVTony Szczudlo
+p2174
+aVAnson Maddocks
 p2175
 aVAnson Maddocks
 p2176
-aVAnson Maddocks
+aVChristopher Moeller
 p2177
 aVChristopher Moeller
 p2178
-aVChristopher Moeller
-p2179
 aVZoltan Boros & Gabor Szikszai
-p2180
+p2179
 aVRob Alexander
-p2181
+p2180
 aVVance Kovacs
-p2182
+p2181
 aVCraig Mullins
-p2183
+p2182
 aVStephen Tappin
-p2184
+p2183
 aVYeong-Hao Han
+p2184
+aVRichard Wright
 p2185
-aVRichard Wright
-p2186
 aVJohn Avon
-p2187
+p2186
 aVAdam Paquette
-p2188
+p2187
 aVRichard Wright
-p2189
+p2188
 aVTrevor Claxton
-p2190
+p2189
 aVMaciej Kuciara
-p2191
+p2190
 aVTodd Lockwood
-p2192
+p2191
 aVRaoul Vitale
-p2193
+p2192
 aVScott Kirschner
-p2194
+p2193
 aVJesper Myrfors
-p2195
+p2194
 aVDouglas Schuler
-p2196
+p2195
 aVDan Frazier
+p2196
+aVChristopher Rush
 p2197
 aVChristopher Rush
 p2198
 aVChristopher Rush
 p2199
-aVChristopher Rush
-p2200
 aVAmy Weber
-p2201
+p2200
 aVAnson Maddocks
-p2202
+p2201
 aVMark Tedin
-p2203
+p2202
 aVNÈNÈ Thomas & Catherine Buck
-p2204
+p2203
 aVChristopher Rush
-p2205
+p2204
 aVHarold McNeill
-p2206
+p2205
 aVKen Meyer, Jr.
+p2206
+aVPat Morrissey
 p2207
 aVPat Morrissey
 p2208
 aVPat Morrissey
 p2209
-aVPat Morrissey
-p2210
 aVMargaret Organ-Kean
-p2211
+p2210
 aVJung Park
+p2211
+aVJohn Avon
 p2212
 aVJohn Avon
 p2213
-aVJohn Avon
-p2214
 aVJung Park
+p2214
+aVVÈronique Meignaud
 p2215
 aVVÈronique Meignaud
 p2216
-aVVÈronique Meignaud
+aVVincent Proce
 p2217
 aVVincent Proce
 p2218
-aVVincent Proce
-p2219
 aVHarold McNeill
-p2220
+p2219
 aVD. Alexander Gregory
-p2221
+p2220
 aVJon J. Muth
+p2221
+aVQuinton Hoover
 p2222
 aVQuinton Hoover
 p2223
-aVQuinton Hoover
+aVJohn Avon
 p2224
 aVJohn Avon
 p2225
-aVJohn Avon
-p2226
 aVMike Kimble
-p2227
+p2226
 aVDaniel Gelon
-p2228
+p2227
 aVTony Szczudlo
-p2229
+p2228
 aVRob Alexander
-p2230
+p2229
 aVMark Tedin
-p2231
+p2230
 aVMartina Pilcerova
-p2232
+p2231
 aVJohn Avon
-p2233
+p2232
 aVBradley Williams
-p2234
+p2233
 aVAleksi Briclot
+p2234
+aVZoltan Boros & Gabor Szikszai
 p2235
 aVZoltan Boros & Gabor Szikszai
 p2236
-aVZoltan Boros & Gabor Szikszai
-p2237
 aVMichael Komarck
-p2238
+p2237
 aVNelson DeCastro
-p2239
+p2238
 aVKev Walker
-p2240
+p2239
 aVArnie Swekel
-p2241
+p2240
 aVD. J. Cleland-Hura
-p2242
+p2241
 aVRob Alexander
+p2242
+aVJohn Avon
 p2243
 aVJohn Avon
 p2244
-aVJohn Avon
-p2245
 aVBradley Williams
-p2246
+p2245
 aVDiTerlizzi
-p2247
+p2246
 aVSteven Belledin
-p2248
+p2247
 aVAustin Hsu
-p2249
+p2248
 aVRaoul Vitale
-p2250
+p2249
 aVMark Brill
-p2251
+p2250
 aVJeff Miracola
-p2252
+p2251
 aVJung Park
-p2253
+p2252
 aVTomasz Jedruszek
+p2253
+aVJung Park
 p2254
 aVJung Park
 p2255
 aVJung Park
 p2256
-aVJung Park
-p2257
 aVDarrell Riche
-p2258
+p2257
 aVMatt Cavotta
-p2259
+p2258
 aVDave Kendall
-p2260
+p2259
 aVDave DeVries
-p2261
+p2260
 aVLarry MacDougall
-p2262
+p2261
 aVRob Alexander
-p2263
+p2262
 aVChippy
-p2264
+p2263
 aVSteve Prescott
-p2265
+p2264
 aVMark Tedin
-p2266
-ag1204
-ag1204
+p2265
+ag815
+ag815
 aVKev Walker
+p2266
+aVJohn Avon
 p2267
 aVJohn Avon
 p2268
-aVJohn Avon
+aVQuinton Hoover
 p2269
 aVQuinton Hoover
 p2270
-aVQuinton Hoover
-p2271
 aVAnthony S. Waters
-p2272
+p2271
 aVMark Tedin
-p2273
+p2272
 aVAlan Pollack
-p2274
+p2273
 aVCarl Critchlow
-p2275
+p2274
 aVRaymond Swanland
-p2276
+p2275
 aVRon Spears
-p2277
+p2276
 aVDan Scott
-p2278
+p2277
 aVrk post
+p2278
+aVQuinton Hoover
 p2279
 aVQuinton Hoover
 p2280
 aVQuinton Hoover
 p2281
-aVQuinton Hoover
-p2282
 aVJohn Avon
-p2283
+p2282
 aVCraig Mullins
-p2284
+p2283
 aVChippy
-p2285
+p2284
 aVGlen Angus
+p2285
+aVMark Tedin
 p2286
 aVMark Tedin
 p2287
-aVMark Tedin
-p2288
 aVScott Kirschner
-p2289
+p2288
 aVDaren Bader
+p2289
+aVAnthony S. Waters
 p2290
 aVAnthony S. Waters
 p2291
@@ -5351,27 +5352,27 @@ aVAnthony S. Waters
 p2292
 aVAnthony S. Waters
 p2293
-aVAnthony S. Waters
-p2294
 aVTerese Nielsen
-p2295
+p2294
 aVDan Frazier
+p2295
+aVChristopher Rush
 p2296
 aVChristopher Rush
 p2297
 aVChristopher Rush
 p2298
-aVChristopher Rush
-p2299
 aVSteven Belledin
-p2300
+p2299
 aVKev Walker
-p2301
+p2300
 aVJon J Muth
-p2302
+p2301
 aVMark Poole
-p2303
+p2302
 aVChristopher Moeller
+p2303
+aVJohn Avon
 p2304
 aVJohn Avon
 p2305
@@ -5379,41 +5380,41 @@ aVJohn Avon
 p2306
 aVJohn Avon
 p2307
-aVJohn Avon
-p2308
 aVRebecca Guay
-p2309
+p2308
 aVDaniel Gelon
-p2310
+p2309
 aVJohn Avon
+p2310
+aVAlan Pollack
 p2311
 aVAlan Pollack
 p2312
-aVAlan Pollack
-p2313
 aVGlen Angus
-p2314
+p2313
 aVJack Wang
-p2315
+p2314
 aVJonas De Ro
-p2316
+p2315
 aVZack Stella
-p2317
+p2316
 aVDaarken
-p2318
+p2317
 aVNoah Bradley
-p2319
+p2318
 aVRyan Yee
-p2320
+p2319
 aVMike Kimble
-p2321
+p2320
 aVMargaret Organ-Kean
-p2322
+p2321
 aVJohn Avon
-p2323
+p2322
 aVPete Venters
-p2324
+p2323
 aVJohn Matson
+p2324
+aVDavid O'Connor
 p2325
 aVDavid O'Connor
 p2326
@@ -5421,33 +5422,33 @@ aVDavid O'Connor
 p2327
 aVDavid O'Connor
 p2328
-aVDavid O'Connor
-p2329
 aVDaniel Gelon
-p2330
+p2329
 aVJohn Avon
+p2330
+aVQuinton Hoover
 p2331
 aVQuinton Hoover
 p2332
 aVQuinton Hoover
 p2333
-aVQuinton Hoover
-p2334
 aVMark Tedin
-p2335
+p2334
 aVMark Winters
-p2336
+p2335
 aVTitus Lunter
-p2337
+p2336
 aVYeong-Hao Han
-p2338
+p2337
 aVKev Walker
-p2339
+p2338
 aVHarold McNeill
-p2340
+p2339
 aVMark Poole
-p2341
+p2340
 aVD. Alexander Gregory
+p2341
+aVTony Roberts
 p2342
 aVTony Roberts
 p2343
@@ -5455,123 +5456,123 @@ aVTony Roberts
 p2344
 aVTony Roberts
 p2345
-aVTony Roberts
-p2346
 aVDavid Rapoza
-p2347
+p2346
 aVJames Paick
-p2348
+p2347
 aVVincent Proce
-p2349
+p2348
 aVJung Park
-p2350
+p2349
 aVEytan Zana
-p2351
+p2350
 aVDan Frazier
-p2352
+p2351
 aVAmy Weber
-p2353
+p2352
 aVJesper Myrfors
-p2354
+p2353
 aVDouglas Schuler
+p2354
+aVChristopher Rush
 p2355
 aVChristopher Rush
 p2356
 aVChristopher Rush
 p2357
-aVChristopher Rush
-p2358
 aVGeorge Pratt
-p2359
+p2358
 aVHarold McNeill
-p2360
+p2359
 aVJon J Muth
-p2361
+p2360
 aVDouglas Shuler
+p2361
+aVJohn Avon
 p2362
 aVJohn Avon
 p2363
-aVJohn Avon
+aVDouglas Shuler
 p2364
-aVDouglas Shuler
-p2365
 aVJesper Myrfors
+p2365
+aVDouglas Shuler
 p2366
-aVDouglas Shuler
-p2367
 aVAmy Weber
-p2368
+p2367
 aVrk post
+p2368
+aVJim Nelson
 p2369
-aVJim Nelson
-p2370
 aVMelissa Benson
-p2371
+p2370
 aVBryon Wackwitz
-p2372
+p2371
 aVRandy Asplund-Faith
-p2373
+p2372
 aVNelson DeCastro
-p2374
+p2373
 aVChristopher Moeller
-p2375
+p2374
 aVTony Szczudlo
-p2376
+p2375
 aVStephan Martiniere
-p2377
+p2376
 aVAnthony S. Waters
-p2378
+p2377
 aVRichard Wright
+p2378
+aVJim Nelson
 p2379
-aVJim Nelson
-p2380
 aVWilliam O'Connor
-p2381
+p2380
 aVNils Hamm
-p2382
+p2381
 aVOmar Rayyan
+p2382
+aVRob Alexander
 p2383
-aVRob Alexander
-p2384
 aVSteve Prescott
-p2385
+p2384
 aVDarrell Riche
-p2386
+p2385
 aVDouglas Shuler
+p2386
+aVJohn Avon
 p2387
-aVJohn Avon
-p2388
 aVRon Spears
-p2389
+p2388
 aVJohn Avon
-p2390
+p2389
 aVRob Alexander
-p2391
+p2390
 aVSteven Belledin
-p2392
+p2391
 aVJim Nelson
+p2392
+aVJulie Baroh
 p2393
 aVJulie Baroh
 p2394
-aVJulie Baroh
-p2395
 aVMike Kimble
-p2396
+p2395
 aVWang Yuqun
-p2397
+p2396
 aVHuang Qishi
+p2397
+aVJi Yong
 p2398
 aVJi Yong
 p2399
 aVJi Yong
 p2400
-aVJi Yong
-p2401
 aVChippy
-p2402
+p2401
 aVTed Naifeh
-p2403
+p2402
 aVKev Walker
+p2403
+aVJohn Avon
 p2404
 aVJohn Avon
 p2405
@@ -5579,422 +5580,422 @@ aVJohn Avon
 p2406
 aVJohn Avon
 p2407
-aVJohn Avon
-p2408
 aVDana Knutson
-p2409
+p2408
 aVKarl Kopinski
-p2410
+p2409
 asS'powers'
-p2411
-(lp2412
-g2017
-ag2017
-ag2021
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2023
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2021
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2018
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2024
-ag2021
-ag2020
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2018
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2018
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2022
-ag2017
-ag2017
-ag2017
-ag2017
-ag2018
-ag2017
-ag2017
-ag2020
-ag2018
-ag2017
-ag2020
-ag2017
-ag2017
-ag2017
-ag2017
-ag2022
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2019
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2019
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2019
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2021
-ag2017
-ag2017
-ag2022
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2020
-ag2020
-ag2019
-ag2017
-ag2017
-ag2023
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2021
-ag2017
-ag2021
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2020
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2022
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2022
-ag2022
-ag2017
-ag2022
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2018
-ag2017
-ag2020
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2018
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2021
-ag2017
-ag2017
-ag2019
-ag2017
-ag2020
-ag2020
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2018
-ag2018
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2022
-ag2018
-ag2022
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2022
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2022
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2022
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2020
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2023
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2020
-ag2018
-ag2017
-ag2017
-ag2017
-ag2017
+p2410
+(lp2411
+g3
+ag3
+ag7
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag9
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag7
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag4
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag10
+ag7
+ag6
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag4
+ag3
+ag3
+ag3
+ag3
+ag3
+ag4
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag8
+ag3
+ag3
+ag3
+ag3
+ag4
+ag3
+ag3
+ag6
+ag4
+ag3
+ag6
+ag3
+ag3
+ag3
+ag3
+ag8
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag5
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag5
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag5
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag7
+ag3
+ag3
+ag8
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag6
+ag6
+ag5
+ag3
+ag3
+ag9
+ag3
+ag3
+ag3
+ag3
+ag3
+ag7
+ag3
+ag7
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag6
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag8
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag8
+ag8
+ag3
+ag8
+ag3
+ag3
+ag3
+ag3
+ag3
+ag4
+ag3
+ag6
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag4
+ag3
+ag3
+ag3
+ag3
+ag3
+ag7
+ag3
+ag3
+ag5
+ag3
+ag6
+ag6
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag4
+ag4
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag8
+ag4
+ag8
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag8
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag8
+ag3
+ag3
+ag3
+ag3
+ag3
+ag8
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag6
+ag3
+ag3
+ag3
+ag3
+ag3
+ag9
+ag3
+ag3
+ag3
+ag3
+ag3
+ag6
+ag4
+ag3
+ag3
+ag3
+ag3
 aV7
-p2413
-ag2017
-ag2023
-ag2018
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2021
-ag2019
-ag2017
-ag2018
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2018
-ag2017
-ag2017
-ag2017
-ag2017
-ag2017
-ag2019
+p2412
+ag3
+ag9
+ag4
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag7
+ag5
+ag3
+ag4
+ag3
+ag3
+ag3
+ag3
+ag3
+ag3
+ag4
+ag3
+ag3
+ag3
+ag3
+ag3
+ag5
 asS'types'
-p2414
-(lp2415
+p2413
+(lp2414
 VBasic Land - Forest
-p2416
+p2415
 aVBasic Land - Forest
-p2417
+p2416
 aVCreature - Wall
-p2418
+p2417
 aVInstant
+p2418
+aVBasic Land - Forest
 p2419
 aVBasic Land - Forest
 p2420
@@ -6002,35 +6003,35 @@ aVBasic Land - Forest
 p2421
 aVBasic Land - Forest
 p2422
-aVBasic Land - Forest
-p2423
 aVLand
+p2423
+aVBasic Land - Forest
 p2424
 aVBasic Land - Forest
 p2425
 aVBasic Land - Forest
 p2426
-aVBasic Land - Forest
+aVInstant
 p2427
-aVInstant
-p2428
 aVBasic Land - Forest
-p2429
+p2428
 aVInstant
-p2430
+p2429
 aVCreature - Elemental
-p2431
+p2430
 aVArtifact
+p2431
+aVBasic Land - Forest
 p2432
 aVBasic Land - Forest
 p2433
 aVBasic Land - Forest
 p2434
-aVBasic Land - Forest
-p2435
 aVInstant
-p2436
+p2435
 aVSorcery - Arcane
+p2436
+aVBasic Land - Forest
 p2437
 aVBasic Land - Forest
 p2438
@@ -6048,13 +6049,13 @@ aVBasic Land - Forest
 p2444
 aVBasic Land - Forest
 p2445
-aVBasic Land - Forest
+aVInstant
 p2446
-aVInstant
-p2447
 aVCreature - Wall
-p2448
+p2447
 aVInstant
+p2448
+aVBasic Land - Forest
 p2449
 aVBasic Land - Forest
 p2450
@@ -6062,13 +6063,13 @@ aVBasic Land - Forest
 p2451
 aVBasic Land - Forest
 p2452
-aVBasic Land - Forest
-p2453
 aVEnchantment
-p2454
+p2453
 aVInstant
-p2455
+p2454
 aVCreature - Elemental
+p2455
+aVBasic Land - Forest
 p2456
 aVBasic Land - Forest
 p2457
@@ -6078,15 +6079,15 @@ aVBasic Land - Forest
 p2459
 aVBasic Land - Forest
 p2460
-aVBasic Land - Forest
-p2461
 aVInstant
+p2461
+aVSorcery
 p2462
 aVSorcery
 p2463
-aVSorcery
-p2464
 aVEnchantment
+p2464
+aVBasic Land - Forest
 p2465
 aVBasic Land - Forest
 p2466
@@ -6102,15 +6103,15 @@ aVBasic Land - Forest
 p2471
 aVBasic Land - Forest
 p2472
-aVBasic Land - Forest
-p2473
 aVCreature - Dragon
+p2473
+aVCreature - Zombie
 p2474
 aVCreature - Zombie
 p2475
-aVCreature - Zombie
-p2476
 aVInstant
+p2476
+aVBasic Land - Forest
 p2477
 aVBasic Land - Forest
 p2478
@@ -6118,15 +6119,15 @@ aVBasic Land - Forest
 p2479
 aVBasic Land - Forest
 p2480
-aVBasic Land - Forest
+aVInstant
 p2481
-aVInstant
-p2482
 aVBasic Land - Forest
-p2483
+p2482
 aVInstant
-p2484
+p2483
 aVArtifact
+p2484
+aVBasic Land - Forest
 p2485
 aVBasic Land - Forest
 p2486
@@ -6134,31 +6135,31 @@ aVBasic Land - Forest
 p2487
 aVBasic Land - Forest
 p2488
-aVBasic Land - Forest
-p2489
 aVLand
+p2489
+aVBasic Land - Forest
 p2490
 aVBasic Land - Forest
 p2491
-aVBasic Land - Forest
-p2492
 aVCreature - Elemental
-p2493
+p2492
 aVArtifact
+p2493
+aVBasic Land - Forest
 p2494
 aVBasic Land - Forest
 p2495
-aVBasic Land - Forest
+aVEnchantment
 p2496
 aVEnchantment
 p2497
-aVEnchantment
-p2498
 aVCreature - Human Cleric
-p2499
+p2498
 aVSorcery
-p2500
+p2499
 aVLand
+p2500
+aVBasic Land - Forest
 p2501
 aVBasic Land - Forest
 p2502
@@ -6166,13 +6167,13 @@ aVBasic Land - Forest
 p2503
 aVBasic Land - Forest
 p2504
-aVBasic Land - Forest
-p2505
 aVInstant
-p2506
+p2505
 aVLand
-p2507
+p2506
 aVArtifact
+p2507
+aVBasic Land - Forest
 p2508
 aVBasic Land - Forest
 p2509
@@ -6180,47 +6181,47 @@ aVBasic Land - Forest
 p2510
 aVBasic Land - Forest
 p2511
-aVBasic Land - Forest
-p2512
 aVEnchantment - Aura
-p2513
+p2512
 aVInstant
-p2514
+p2513
 aVSorcery
+p2514
+aVBasic Land - Forest
 p2515
 aVBasic Land - Forest
 p2516
 aVBasic Land - Forest
 p2517
-aVBasic Land - Forest
-p2518
 aVSorcery
-p2519
+p2518
 aVInstant
-p2520
+p2519
 aVCreature - Elemental
+p2520
+aVBasic Land - Forest
 p2521
 aVBasic Land - Forest
 p2522
 aVBasic Land - Forest
 p2523
-aVBasic Land - Forest
-p2524
 aVInstant
-p2525
+p2524
 aVCreature - Dryad
-p2526
+p2525
 aVEnchantment - Aura
-p2527
+p2526
 aVSorcery
-p2528
+p2527
 aVCreature - Spirit
-p2529
+p2528
 aVCreature - Elemental
-p2530
+p2529
 aVEnchantment
-p2531
+p2530
 aVCreature - Human Soldier
+p2531
+aVBasic Land - Forest
 p2532
 aVBasic Land - Forest
 p2533
@@ -6228,11 +6229,11 @@ aVBasic Land - Forest
 p2534
 aVBasic Land - Forest
 p2535
-aVBasic Land - Forest
-p2536
 aVCreature - Imp
-p2537
+p2536
 aVArtifact
+p2537
+aVBasic Land - Forest
 p2538
 aVBasic Land - Forest
 p2539
@@ -6250,11 +6251,11 @@ aVBasic Land - Forest
 p2545
 aVBasic Land - Forest
 p2546
-aVBasic Land - Forest
-p2547
 aVCreature - Human Cleric
-p2548
+p2547
 aVLand
+p2548
+aVBasic Land - Forest
 p2549
 aVBasic Land - Forest
 p2550
@@ -6262,11 +6263,11 @@ aVBasic Land - Forest
 p2551
 aVBasic Land - Forest
 p2552
-aVBasic Land - Forest
+aVLand
 p2553
 aVLand
 p2554
-aVLand
+aVBasic Land - Forest
 p2555
 aVBasic Land - Forest
 p2556
@@ -6274,13 +6275,13 @@ aVBasic Land - Forest
 p2557
 aVBasic Land - Forest
 p2558
-aVBasic Land - Forest
-p2559
 aVCreature - Spirit
-p2560
+p2559
 aVArtifact
-p2561
+p2560
 aVEnchantment - Aura
+p2561
+aVBasic Land - Forest
 p2562
 aVBasic Land - Forest
 p2563
@@ -6288,15 +6289,15 @@ aVBasic Land - Forest
 p2564
 aVBasic Land - Forest
 p2565
-aVBasic Land - Forest
-p2566
 aVCreature - Wall
-p2567
+p2566
 aVBasic Land - Forest
-p2568
+p2567
 aVLand
-p2569
+p2568
 aVEnchantment
+p2569
+aVBasic Land - Forest
 p2570
 aVBasic Land - Forest
 p2571
@@ -6304,17 +6305,17 @@ aVBasic Land - Forest
 p2572
 aVBasic Land - Forest
 p2573
-aVBasic Land - Forest
-p2574
 aVCreature - Human Soldier
-p2575
+p2574
 aVArtifact
-p2576
+p2575
 aVInstant
-p2577
+p2576
 aVCreature - Human Rogue
-p2578
+p2577
 aVEnchantment - Aura
+p2578
+aVBasic Land - Forest
 p2579
 aVBasic Land - Forest
 p2580
@@ -6332,51 +6333,51 @@ aVBasic Land - Forest
 p2586
 aVBasic Land - Forest
 p2587
-aVBasic Land - Forest
-p2588
 aVEnchantment - Aura
-p2589
+p2588
 aVCreature - Cyclops Soldier
-p2590
+p2589
 aVCreature - Elemental Soldier
-p2591
+p2590
 aVCreature - Goblin Warrior
+p2591
+aVInstant
 p2592
 aVInstant
 p2593
-aVInstant
-p2594
 aVCreature - Elemental
-p2595
+p2594
 aVArtifact
+p2595
+aVBasic Land - Forest
 p2596
 aVBasic Land - Forest
 p2597
 aVBasic Land - Forest
 p2598
-aVBasic Land - Forest
+aVInstant
 p2599
-aVInstant
-p2600
 aVCreature - Spirit
+p2600
+aVInstant
 p2601
-aVInstant
-p2602
 aVCreature - Dryad
-p2603
+p2602
 aVEnchantment - Aura
-p2604
+p2603
 aVSorcery
-p2605
+p2604
 aVInstant
+p2605
+aVBasic Land - Forest
 p2606
 aVBasic Land - Forest
 p2607
 aVBasic Land - Forest
 p2608
-aVBasic Land - Forest
-p2609
 aVInstant
+p2609
+aVBasic Land - Forest
 p2610
 aVBasic Land - Forest
 p2611
@@ -6392,13 +6393,13 @@ aVBasic Land - Forest
 p2616
 aVBasic Land - Forest
 p2617
-aVBasic Land - Forest
-p2618
 aVInstant
-p2619
+p2618
 aVEnchantment
-p2620
+p2619
 aVCreature - Elemental
+p2620
+aVBasic Land - Forest
 p2621
 aVBasic Land - Forest
 p2622
@@ -6406,13 +6407,13 @@ aVBasic Land - Forest
 p2623
 aVBasic Land - Forest
 p2624
-aVBasic Land - Forest
-p2625
 aVSorcery
-p2626
+p2625
 aVArtifact
-p2627
+p2626
 aVInstant
+p2627
+aVBasic Land - Forest
 p2628
 aVBasic Land - Forest
 p2629
@@ -6420,9 +6421,9 @@ aVBasic Land - Forest
 p2630
 aVBasic Land - Forest
 p2631
-aVBasic Land - Forest
-p2632
 aVInstant
+p2632
+aVBasic Land - Forest
 p2633
 aVBasic Land - Forest
 p2634
@@ -6430,13 +6431,13 @@ aVBasic Land - Forest
 p2635
 aVBasic Land - Forest
 p2636
-aVBasic Land - Forest
+aVInstant
 p2637
-aVInstant
-p2638
 aVCreature - Imp
-p2639
+p2638
 aVInstant
+p2639
+aVBasic Land - Forest
 p2640
 aVBasic Land - Forest
 p2641
@@ -6444,39 +6445,39 @@ aVBasic Land - Forest
 p2642
 aVBasic Land - Forest
 p2643
-aVBasic Land - Forest
-p2644
 aVInstant
-p2645
+p2644
 aVEnchantment
+p2645
+aVBasic Land - Forest
 p2646
-aVBasic Land - Forest
-p2647
 aVCreature - Devil
-p2648
+p2647
 aVCreature - Goblin Warrior
-p2649
+p2648
 aVLand
-p2650
+p2649
 aVCreature - Insect
-p2651
+p2650
 aVBasic Land - Forest
-p2652
+p2651
 aVSorcery
+p2652
+aVBasic Land - Forest
 p2653
 aVBasic Land - Forest
 p2654
 aVBasic Land - Forest
 p2655
-aVBasic Land - Forest
-p2656
 aVCreature - Centaur Shaman
-p2657
+p2656
 aVInstant
-p2658
+p2657
 aVCreature - Treefolk Shaman
-p2659
+p2658
 aVSorcery
+p2659
+aVBasic Land - Forest
 p2660
 aVBasic Land - Forest
 p2661
@@ -6486,13 +6487,13 @@ aVBasic Land - Forest
 p2663
 aVBasic Land - Forest
 p2664
-aVBasic Land - Forest
-p2665
 aVEnchantment - Aura
-p2666
+p2665
 aVBasic Land - Forest
-p2667
+p2666
 aVCreature - Human Soldier
+p2667
+aVBasic Land - Forest
 p2668
 aVBasic Land - Forest
 p2669
@@ -6500,23 +6501,23 @@ aVBasic Land - Forest
 p2670
 aVBasic Land - Forest
 p2671
-aVBasic Land - Forest
-p2672
 aVInstant
-p2673
+p2672
 aVCreature - Elemental
+p2673
+aVEnchantment
 p2674
 aVEnchantment
 p2675
-aVEnchantment
-p2676
 aVCreature - Nomad Giant
-p2677
+p2676
 aVSorcery
-p2678
+p2677
 aVCreature - Elemental
-p2679
+p2678
 aVCreature - Spirit
+p2679
+aVBasic Land - Forest
 p2680
 aVBasic Land - Forest
 p2681
@@ -6532,13 +6533,13 @@ aVBasic Land - Forest
 p2686
 aVBasic Land - Forest
 p2687
-aVBasic Land - Forest
-p2688
 aVCreature - Elemental
-p2689
+p2688
 aVCreature - Wall
-p2690
+p2689
 aVEnchantment - Aura
+p2690
+aVBasic Land - Forest
 p2691
 aVBasic Land - Forest
 p2692
@@ -6546,11 +6547,11 @@ aVBasic Land - Forest
 p2693
 aVBasic Land - Forest
 p2694
-aVBasic Land - Forest
-p2695
 aVInstant
-p2696
+p2695
 aVArtifact
+p2696
+aVBasic Land - Forest
 p2697
 aVBasic Land - Forest
 p2698
@@ -6558,15 +6559,15 @@ aVBasic Land - Forest
 p2699
 aVBasic Land - Forest
 p2700
-aVBasic Land - Forest
-p2701
 aVCreature - Human Soldier
-p2702
+p2701
 aVCreature - Elemental
-p2703
+p2702
 aVCreature - Atog
-p2704
+p2703
 aVArtifact
+p2704
+aVBasic Land - Forest
 p2705
 aVBasic Land - Forest
 p2706
@@ -6574,11 +6575,11 @@ aVBasic Land - Forest
 p2707
 aVBasic Land - Forest
 p2708
-aVBasic Land - Forest
-p2709
 aVInstant
-p2710
+p2709
 aVArtifact
+p2710
+aVBasic Land - Forest
 p2711
 aVBasic Land - Forest
 p2712
@@ -6586,7 +6587,7 @@ aVBasic Land - Forest
 p2713
 aVBasic Land - Forest
 p2714
-aVBasic Land - Forest
+aVEnchantment
 p2715
 aVEnchantment
 p2716
@@ -6596,19 +6597,19 @@ aVEnchantment
 p2718
 aVEnchantment
 p2719
-aVEnchantment
-p2720
 aVEnchantment Creature - Nymph
-p2721
+p2720
 aVSorcery
+p2721
+aVInstant
 p2722
 aVInstant
 p2723
-aVInstant
-p2724
 aVCreature - Elemental
-p2725
+p2724
 aVInstant
+p2725
+aVBasic Land - Forest
 p2726
 aVBasic Land - Forest
 p2727
@@ -6616,33 +6617,33 @@ aVBasic Land - Forest
 p2728
 aVBasic Land - Forest
 p2729
-aVBasic Land - Forest
-p2730
 aVArtifact
-p2731
+p2730
 aVInstant
+p2731
+aVBasic Land - Forest
 p2732
 aVBasic Land - Forest
 p2733
 aVBasic Land - Forest
 p2734
-aVBasic Land - Forest
-p2735
 aVCreature - Elemental
-p2736
+p2735
 aVInstant
+p2736
+aVBasic Land - Forest
 p2737
 aVBasic Land - Forest
 p2738
-aVBasic Land - Forest
-p2739
 aVWorld Enchantment
-p2740
+p2739
 aVInstant
-p2741
+p2740
 aVCreature - Atog
-p2742
+p2741
 aVEnchantment
+p2742
+aVBasic Land - Forest
 p2743
 aVBasic Land - Forest
 p2744
@@ -6650,79 +6651,79 @@ aVBasic Land - Forest
 p2745
 aVBasic Land - Forest
 p2746
-aVBasic Land - Forest
-p2747
 aVInstant
-p2748
+p2747
 aVBasic Land - Forest
-p2749
+p2748
 aVCreature - Crab
+p2749
+aVBasic Land - Forest
 p2750
 aVBasic Land - Forest
 p2751
-aVBasic Land - Forest
-p2752
 aVArtifact
+p2752
+aVInstant
 p2753
 aVInstant
 p2754
-aVInstant
-p2755
 aVCreature - Elemental
+p2755
+aVBasic Land - Forest
 p2756
 aVBasic Land - Forest
 p2757
-aVBasic Land - Forest
-p2758
 aVSorcery
+p2758
+aVInstant
 p2759
 aVInstant
 p2760
-aVInstant
+aVCreature - Elemental
 p2761
 aVCreature - Elemental
 p2762
-aVCreature - Elemental
+aVBasic Land - Forest
 p2763
 aVBasic Land - Forest
 p2764
 aVBasic Land - Forest
 p2765
-aVBasic Land - Forest
+aVInstant
 p2766
-aVInstant
-p2767
 aVCreature - Elemental
+p2767
+aVInstant
 p2768
-aVInstant
-p2769
 aVCreature - Spirit
-p2770
+p2769
 aVCreature - Imp
-p2771
+p2770
 aVArtifact
+p2771
+aVInstant
 p2772
-aVInstant
-p2773
 aVEnchantment
-p2774
+p2773
 aVInstant
-p2775
+p2774
 aVBasic Land - Forest
-p2776
+p2775
 aVLand
+p2776
+aVBasic Land - Forest
 p2777
 aVBasic Land - Forest
 p2778
 aVBasic Land - Forest
 p2779
-aVBasic Land - Forest
-p2780
 aVInstant
-p2781
+p2780
 aVEnchantment
-p2782
+p2781
 aVTribal Sorcery - Goblin
+p2782
+aVBasic Land - Forest
 p2783
 aVBasic Land - Forest
 p2784
@@ -6732,11 +6733,11 @@ aVBasic Land - Forest
 p2786
 aVBasic Land - Forest
 p2787
-aVBasic Land - Forest
-p2788
 aVInstant
-p2789
+p2788
 aVSorcery
+p2789
+aVBasic Land - Forest
 p2790
 aVBasic Land - Forest
 p2791
@@ -6744,17 +6745,17 @@ aVBasic Land - Forest
 p2792
 aVBasic Land - Forest
 p2793
-aVBasic Land - Forest
+aVCreature - Human
 p2794
 aVCreature - Human
 p2795
-aVCreature - Human
+aVSorcery
 p2796
-aVSorcery
-p2797
 aVCreature - Bear
-p2798
+p2797
 aVSorcery
+p2798
+aVBasic Land - Forest
 p2799
 aVBasic Land - Forest
 p2800
@@ -6762,11 +6763,11 @@ aVBasic Land - Forest
 p2801
 aVBasic Land - Forest
 p2802
-aVBasic Land - Forest
-p2803
 aVSorcery
-p2804
+p2803
 aVCreature - Human Soldier
+p2804
+aVBasic Land - Forest
 p2805
 aVBasic Land - Forest
 p2806
@@ -6774,802 +6775,800 @@ aVBasic Land - Forest
 p2807
 aVBasic Land - Forest
 p2808
-aVBasic Land - Forest
-p2809
 aVLand
-p2810
+p2809
 aVCreature - Devil
-p2811
+p2810
 asS'numbers'
-p2812
-(lp2813
+p2811
+(lp2812
 V84
+p2813
+aV85
 p2814
-aV85
-p2815
 aV47
-p2816
+p2815
 aV84
-p2817
+p2816
 aV315
-p2818
+p2817
 aV316
+p2818
+aV317
 p2819
-aV317
-p2820
 aV318
+p2820
+aV273
 p2821
-aV273
+aV246
 p2822
-aV246
+aV248
 p2823
-aV248
+aV249
 p2824
-aV249
-p2825
 aV173
+p2825
+aV247
 p2826
-aV247
+aV98
 p2827
-aV98
-p2828
 aV99
+p2828
+aV100
 p2829
-aV100
-p2830
 aV101
+p2830
+aV102
 p2831
-aV102
+aV103
 p2832
-aV103
+aV104
 p2833
-aV104
+aV68
 p2834
-aV68
-p2835
 aV66
-p2836
+p2835
 aV67
-p2837
+p2836
 aV68
+p2837
+aV69
 p2838
-aV69
-p2839
 aV70
+p2839
+aV71
 p2840
-aV71
+aV72
 p2841
-aV72
-p2842
 aV73
-p2843
+p2842
 aV74
-p2844
+p2843
 aV10
-p2845
+p2844
 aV52
-p2846
+p2845
 aV172
+p2846
+aV247
 p2847
-aV247
+aV246
 p2848
-aV246
+aV248
 p2849
-aV248
+aV249
 p2850
-aV249
-p2851
 aV128
-p2852
+p2851
 aV211
-p2853
+p2852
 aV212
-p2854
+p2853
 aV213
-p2855
+p2854
 aV214
-p2856
+p2855
 aV215
-p2857
+p2856
 aV38
+p2857
+aV39
 p2858
-aV39
+aV43
 p2859
-aV43
+aV44
 p2860
-aV44
-p2861
 aV150
-p2862
-ag2413
+p2861
+ag2412
 aV43
+p2862
+aV44
 p2863
-aV44
-p2864
 aV45
-p2865
+p2864
 aV46
+p2865
+aV247
 p2866
-aV247
+aV246
 p2867
-aV246
+aV248
 p2868
-aV248
+aV249
 p2869
-aV249
-p2870
 aV98
-p2871
+p2870
 aV71
-p2872
+p2871
 aV72
-p2873
+p2872
 aV182
-p2874
+p2873
 aV248
+p2874
+aV246
 p2875
-aV246
+aV247
 p2876
-aV247
-p2877
 aV249
-p2878
+p2877
 aV171
+p2878
+aV247
 p2879
-aV247
+aV19
 p2880
-aV19
-p2881
 aV12
-p2882
+p2881
 aV259
-p2883
+p2882
 aV260
-p2884
+p2883
 aV261
-p2885
+p2884
 aV262
-p2886
+p2885
 aV352
-p2887
+p2886
 aV380
-p2888
+p2887
 aV383
-p2889
+p2888
 aV85
-p2890
+p2889
 aV323
-p2891
+p2890
 aV381
-p2892
+p2891
 aV382
-p2893
+p2892
 aV246
+p2893
+aV247
 p2894
-aV247
+aV19
 p2895
-aV19
+aV136
 p2896
-aV136
+aV317
 p2897
-aV317
+aV347
 p2898
-aV347
+aV348
 p2899
-aV348
+aV349
 p2900
-aV349
+aV350
 p2901
-aV350
-p2902
 aV69
-p2903
+p2902
 aV297
-p2904
+p2903
 aV94
+p2904
+aV154
 p2905
-aV154
+aV155
 p2906
-aV155
+aV14
 p2907
-aV14
-p2908
 aV15
-p2909
+p2908
 aV39
-p2910
+p2909
 aV36
-p2911
+p2910
 aV37
-p2912
+p2911
 aV228
-p2913
+p2912
 aV229
-p2914
+p2913
 aV230
-p2915
+p2914
 aV100
-p2916
+p2915
 aV130
+p2916
+aV131
 p2917
-aV131
+aV132
 p2918
-aV132
-p2919
 aV133
-p2920
+p2919
 aV134
-p2921
+p2920
 aV135
-p2922
+p2921
 aV162
-p2923
+p2922
 aV163
+p2923
+aV164
 p2924
-aV164
-p2925
 aV90
+p2925
+aV242
 p2926
-aV242
-p2927
 aV187
-p2928
+p2927
 aV14
+p2928
+aV347
 p2929
-aV347
+aV348
 p2930
-aV348
+aV349
 p2931
-aV349
+aV350
 p2932
-aV350
-p2933
 aV132
-p2934
+p2933
 aV136
-p2935
+p2934
 aV244
-p2936
+p2935
 aV242
-p2937
+p2936
 aV243
-p2938
+p2937
 aV155
-p2939
+p2938
 aV151
-p2940
+p2939
 aV152
-p2941
+p2940
 aV153
-p2942
+p2941
 aV154
+p2942
+aV156
 p2943
-aV156
-p2944
 aV29
-p2945
+p2944
 aV317
+p2945
+aV347
 p2946
-aV347
+aV348
 p2947
-aV348
+aV349
 p2948
-aV349
+aV350
 p2949
-aV350
-p2950
-ag2024
+ag10
 aV276
+p2950
+aV303
 p2951
-aV303
+aV304
 p2952
-aV304
+aV305
 p2953
-aV305
+aV306
 p2954
-aV306
-p2955
 aV125
-p2956
+p2955
 aV131
-p2957
+p2956
 aV51
-p2958
+p2957
 aV303
-p2959
+p2958
 aV304
-p2960
+p2959
 aV305
-p2961
+p2960
 aV306
-p2962
+p2961
 aV44
-p2963
+p2962
 aV354
-p2964
+p2963
 aV289
-p2965
+p2964
 aV146
-p2966
+p2965
 aV347
-p2967
+p2966
 aV348
-p2968
+p2967
 aV349
-p2969
+p2968
 aV350
-p2970
+p2969
 aV18
-p2971
+p2970
 aV254
-p2972
+p2971
 aV19
-p2973
+p2972
 aV156
-p2974
+p2973
 aV64
-p2975
+p2974
 aV298
-p2976
+p2975
 aV299
-p2977
+p2976
 aV300
-p2978
+p2977
 aV301
-p2979
+p2978
 aV271
-p2980
+p2979
 aV273
-p2981
+p2980
 aV270
-p2982
+p2981
 aV272
-p2983
+p2982
 aV274
-p2984
+p2983
 aV120
-p2985
+p2984
 aV164
-p2986
+p2985
 aV165
-p2987
+p2986
 aV92
-p2988
+p2987
 aV35
-p2989
+p2988
 aV102
-p2990
+p2989
 aV103
-p2991
+p2990
 aV104
-p2992
+p2991
 aV105
-p2993
+p2992
 aV106
-p2994
+p2993
 aV107
-p2995
+p2994
 aV108
-p2996
+p2995
 aV40
-p2997
+p2996
 aV78
-p2998
+p2997
 aV113
-p2999
+p2998
 aV114
-p3000
+p2999
 aV115
-p3001
+p3000
 aV188
-p3002
+p3001
 aV279
-p3003
+p3002
 aV280
-p3004
+p3003
 aV281
-p3005
+p3004
 aV282
-p3006
+p3005
 aV247
+p3006
+aV246
 p3007
 aV246
 p3008
-aV246
-p3009
 aV247
+p3009
+aV248
 p3010
 aV248
 p3011
-aV248
+aV249
 p3012
 aV249
 p3013
-aV249
-p3014
 aV230
-p3015
+p3014
 aV132
-p3016
+p3015
 aV69
-p3017
+p3016
 aV347
-p3018
+p3017
 aV348
-p3019
+p3018
 aV349
-p3020
+p3019
 aV350
+p3020
+aV70
 p3021
-aV70
-p3022
 aV286
-p3023
+p3022
 aV92
-p3024
+p3023
 aV304
-p3025
+p3024
 aV303
-p3026
+p3025
 aV305
-p3027
+p3026
 aV306
-p3028
+p3027
 aV70
+p3028
+aV246
 p3029
-aV246
+aV247
 p3030
-aV247
+aV248
 p3031
-aV248
-p3032
 aV249
-p3033
+p3032
 aV76
-p3034
+p3033
 aV136
+p3034
+aV245
 p3035
-aV245
-p3036
 aV328
-p3037
+p3036
 aV329
-p3038
+p3037
 aV330
-p3039
+p3038
 aV331
-p3040
+p3039
 aV34
-p3041
+p3040
 aV114
-p3042
+p3041
 aV267
+p3042
+aV140
 p3043
-aV140
-p3044
 aV141
-p3045
+p3044
 aV140
-p3046
+p3045
 aV53
-p3047
+p3046
 aV246
-p3048
+p3047
 aV146
-p3049
+p3048
 aV245
-p3050
+p3049
 aV247
-p3051
+p3050
 aV248
-p3052
+p3051
 aV116
+p3052
+aV115
 p3053
 aV115
 p3054
-aV115
-p3055
 aV206
+p3055
+aV298
 p3056
-aV298
+aV299
 p3057
-aV299
+aV300
 p3058
-aV300
+aV301
 p3059
-aV301
-p3060
 aV175
+p3060
+aV11
 p3061
-aV11
-p3062
 aV174
-p3063
+p3062
 aV17
+p3063
+aV154
 p3064
-aV154
-p3065
 aV155
-p3066
+p3065
 aV156
+p3066
+aV157
 p3067
-aV157
-p3068
 aV31
-p3069
+p3068
 aV120
+p3069
+aV14
 p3070
-aV14
-p3071
 aV93
+p3071
+aV114
 p3072
-aV114
-p3073
 aV36
-p3074
+p3073
 aV126
-p3075
+p3074
 aV49
+p3075
+aV104
 p3076
-aV104
+aV105
 p3077
-aV105
-p3078
 aV106
-p3079
+p3078
 aV165
-p3080
+p3079
 aV166
-p3081
+p3080
 aV167
-p3082
+p3081
 aV168
-p3083
+p3082
 aV169
+p3083
+aV73
 p3084
-aV73
-p3085
 aV75
-p3086
+p3085
 aV253
+p3086
+aV347
 p3087
-aV347
+aV348
 p3088
-aV348
+aV349
 p3089
-aV349
+aV350
 p3090
-aV350
+aV33
 p3091
-aV33
-p3092
 aV157
-p3093
+p3092
 aV193
-p3094
+p3093
 aV194
-p3095
+p3094
 aV195
+p3095
+aV247
 p3096
-aV247
-p3097
 aV105
-p3098
+p3097
 aV140
+p3098
+aV249
 p3099
-aV249
-p3100
 aV302
+p3100
+aV347
 p3101
-aV347
+aV348
 p3102
-aV348
+aV349
 p3103
-aV349
+aV350
 p3104
-aV350
-p3105
 aV104
-p3106
+p3105
 aV73
-p3107
+p3106
 aV347
-p3108
+p3107
 aV348
-p3109
+p3108
 aV349
-p3110
+p3109
 aV350
-p3111
+p3110
 aV123
+p3111
+aV38
 p3112
-aV38
-p3113
 aV97
-p3114
+p3113
 aV71
-p3115
+p3114
 aV11
-p3116
+p3115
 aV98
-p3117
+p3116
 aV67
-p3118
+p3117
 aV101
-p3119
+p3118
 aV275
-p3120
+p3119
 aV276
-p3121
+p3120
 aV277
+p3121
+aV278
 p3122
-aV278
+aV279
 p3123
-aV279
+aV280
 p3124
-aV280
+aV281
 p3125
-aV281
+aV282
 p3126
-aV282
+aV56
 p3127
-aV56
-p3128
 aV148
-p3129
+p3128
 aV149
+p3129
+aV150
 p3130
-aV150
-p3131
 aV57
-p3132
+p3131
 aV40
-p3133
+p3132
 aV267
-p3134
+p3133
 aV85
-p3135
+p3134
 aV34
-p3136
+p3135
 aV278
-p3137
+p3136
 aV279
-p3138
+p3137
 aV280
-p3139
+p3138
 aV281
-p3140
+p3139
 aV282
-p3141
+p3140
 aV283
-p3142
+p3141
 aV284
-p3143
+p3142
 aV55
-p3144
+p3143
 aV262
-p3145
+p3144
 aV56
-p3146
+p3145
 aV263
-p3147
+p3146
 aV264
-p3148
+p3147
 aV25
-p3149
+p3148
 aV38
-p3150
+p3149
 aV150
-p3151
+p3150
 aV151
-p3152
+p3151
 aV152
-p3153
+p3152
 aV291
-p3154
+p3153
 aV22
+p3154
+aV37
 p3155
-aV37
-p3156
 aV43
+p3156
+aV44
 p3157
-aV44
-p3158
 aV45
-p3159
+p3158
 aV46
-p3160
+p3159
 aV47
-p3161
+p3160
 aV48
-p3162
+p3161
 aV153
-p3163
+p3162
 aV154
-p3164
+p3163
 aV116
-p3165
+p3164
 aV81
-p3166
+p3165
 aV118
-p3167
-ag2019
+p3166
+ag5
 aV224
-p3168
+p3167
 aV225
-p3169
+p3168
 aV14
-p3170
+p3169
 aV88
-p3171
+p3170
 aV33
-p3172
+p3171
 aV87
-p3173
+p3172
 aV89
-p3174
+p3173
 aV90
-p3175
+p3174
 aV115
-p3176
+p3175
 aV66
-p3177
+p3176
 aV114
-p3178
+p3177
 aV298
-p3179
+p3178
 aV299
-p3180
+p3179
 aV300
-p3181
+p3180
 aV301
-p3182
+p3181
 aV41
-p3183
+p3182
 aV173
-p3184
+p3183
 aV54
-p3185
+p3184
 aV247
-p3186
+p3185
 aV246
-p3187
+p3186
 aV248
-p3188
+p3187
 aV249
-p3189
+p3188
 aV37
-p3190
+p3189
 aV109
-p3191
+p3190
 aV110
-p3192
+p3191
 aV135
-p3193
+p3192
 aV44
-p3194
+p3193
 aV178
-p3195
+p3194
 aV179
-p3196
+p3195
 aV180
-p3197
+p3196
 aV79
-p3198
+p3197
 aV62
-p3199
+p3198
 aV129
-p3200
+p3199
 aV130
-p3201
+p3200
 aV131
-p3202
+p3201
 aV132
-p3203
+p3202
 aV133
-p3204
+p3203
 aV139
-p3205
+p3204
 aV91
-p3206
+p3205
 as.
