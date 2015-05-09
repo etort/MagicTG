@@ -1,6010 +1,6010 @@
 (dp0
-S'toughs'
+S'rares'
 p1
 (lp2
-V1
+VSpecial
 p3
-ag3
-aV3
+aVSpecial
 p4
-aS'N/A'
+aVSpecial
 p5
-ag5
-ag5
-aV5
+aVLand
 p6
-ag5
-ag3
-ag3
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag3
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag3
-ag3
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-aV2
+aVLand
 p7
-ag3
-ag3
-ag5
-ag7
-ag5
-ag5
-ag5
-ag5
-ag5
-ag4
-ag5
-ag5
-ag5
-ag7
-aV4
+aVUncommon
 p8
-ag7
-ag5
-ag5
-ag3
-ag5
-ag5
-ag5
-ag5
-ag6
-ag5
-ag5
-ag3
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag4
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag4
-ag3
-ag4
-ag8
-ag6
-ag8
-ag5
-ag5
-ag5
-ag5
-ag5
-aV*
+aVCommon
 p9
-ag4
-ag5
-ag5
-ag3
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag8
-ag5
-ag5
-ag5
-ag5
-ag5
-ag8
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag4
-ag5
-ag3
-ag5
-ag5
-ag5
-ag5
-ag5
-ag3
-ag3
-ag5
-ag5
-ag5
-ag8
-ag5
-ag5
-ag5
-ag3
-ag5
-ag5
-ag5
-ag3
-ag5
-ag5
-aV6
+aVUncommon
 p10
-ag8
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag4
-ag5
-ag7
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag7
-ag5
-ag6
-ag5
-ag5
-ag5
-ag5
-ag8
-ag5
-ag8
-ag7
-ag5
-ag8
-ag5
-ag5
-ag5
-ag5
-ag5
-ag3
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag3
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag3
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag7
-ag7
-ag3
-ag4
-ag5
-ag5
-ag3
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag3
-ag5
-aV1+*
+aVRare
 p11
-ag6
-ag5
-ag5
-ag5
-ag7
-ag5
-ag5
-ag5
-ag7
-ag7
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag3
-ag4
-ag5
-ag8
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag7
-ag4
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag8
-ag4
-ag5
-ag4
-ag5
-ag5
-ag5
-ag5
-ag5
-ag4
-ag5
-ag8
-ag3
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag7
-ag5
-ag3
-ag5
-ag3
-ag5
-ag5
-ag5
-ag5
-aV8
+aVUncommon
 p12
-ag5
-ag3
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-aV0
+aVLand
 p13
-ag7
-ag4
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag7
-ag6
-ag5
-ag7
-ag5
-ag8
-ag5
-ag3
-ag10
-ag5
-ag5
-ag5
-ag5
-ag5
-ag3
-ag5
-ag5
-ag7
-ag3
-ag3
-ag4
-ag5
-ag7
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag4
-ag5
-ag3
-ag7
-ag3
-ag5
-ag5
-ag5
-ag5
-ag6
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag6
-ag7
-ag5
-ag6
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag3
-ag5
-ag4
-ag5
-ag5
-ag6
-ag5
-ag5
-ag5
-ag3
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag8
-ag4
-ag5
-ag5
-ag3
-ag7
-ag5
-ag5
-ag8
-ag5
-ag5
-ag10
-ag10
-ag3
-ag5
-ag5
-ag5
-ag5
-ag4
-ag5
-ag5
-ag8
-ag5
-ag5
-ag5
-ag5
-ag4
-ag3
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag3
-ag5
-ag5
-ag5
-ag4
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag3
-ag4
-ag5
-ag5
-ag5
-ag3
-ag5
-ag5
-ag5
-ag5
-ag3
-ag7
-ag8
-ag7
-ag8
-ag5
-ag8
-asS'editns'
+aVLand
 p14
-(lp15
-VAnthologies
+aVLand
+p15
+aVLand
 p16
-aVAnthologies
+aVLand
 p17
-aVAnthologies
+aVLand
 p18
-aVAnthologies
+aVLand
 p19
-aVAnthologies
+aVRare
 p20
-aVMagic: The Gathering-Commander
+aVLand
 p21
-aVMagic: The Gathering-Commander
+aVRare
 p22
-aVMagic: The Gathering-Commander
+aVRare
 p23
-aVMagic: The Gathering-Commander
+aVCommon
 p24
-aVMagic: The Gathering-Commander
+aVLand
 p25
-aVMagic: The Gathering-Commander
+aVLand
 p26
-aVMagic: The Gathering-Commander
+aVLand
 p27
-aVMagic: The Gathering-Commander
+aVRare
 p28
-aVMagic: The Gathering-Commander
+aVRare
 p29
-aVMagic 2012
+aVRare
 p30
-aVMagic 2012
+aVCommon
 p31
-aVMagic 2012
+aVCommon
 p32
-aVMagic 2012
+aVUncommon
 p33
-aVMagic 2012
+aVUncommon
 p34
-aVLimited Edition Beta
+aVLand
 p35
-aVLimited Edition Beta
+aVLand
 p36
-aVLimited Edition Beta
+aVLand
 p37
-aVLimited Edition Beta
+aVLand
 p38
-aVLimited Edition Beta
+aVLand
 p39
-aVLimited Edition Beta
+aVLand
 p40
-aVLimited Edition Beta
+aVLand
 p41
-aVLimited Edition Beta
+aVLand
 p42
-aVLimited Edition Beta
+aVLand
 p43
-aVSaviors of Kamigawa
+aVCommon
 p44
-aVSaviors of Kamigawa
+aVCommon
 p45
-aVSaviors of Kamigawa
+aVCommon
 p46
-aVBattle Royale Box Set
+aVCommon
 p47
-aVBattle Royale Box Set
+aVCommon
 p48
-aVBattle Royale Box Set
+aVLand
 p49
-aVBattle Royale Box Set
+aVLand
 p50
-aVBattle Royale Box Set
+aVLand
 p51
-aVBattle Royale Box Set
+aVLand
 p52
-aVBattle Royale Box Set
+aVCommon
 p53
-aVBattle Royale Box Set
+aVCommon
 p54
-aVBattle Royale Box Set
+aVLand
 p55
-aVBattle Royale Box Set
+aVLand
 p56
-aVMorningtide
+aVLand
 p57
-aVMorningtide
+aVRare
 p58
-aVMorningtide
+aVCommon
 p59
-aVMorningtide
+aVUncommon
 p60
-aVMagic 2013
+aVLand
 p61
-aVMagic 2013
+aVLand
 p62
-aVMagic 2013
+aVRare
 p63
-aVMagic 2013
+aVLand
 p64
-aVMagic 2013
+aVLand
 p65
-aVFourth Edition
+aVLand
 p66
-aVFourth Edition
+aVLand
 p67
-aVFourth Edition
+aVCommon
 p68
-aVFourth Edition
+aVRare
 p69
-aVFourth Edition
+aVMythic Rare
 p70
-aVPlanar Chaos
+aVCommon
 p71
-aVDuel Decks: Ajani vs. Nicol Bolas
+aVCommon
 p72
-aVDuel Decks: Ajani vs. Nicol Bolas
+aVLand
 p73
-aVDuel Decks: Ajani vs. Nicol Bolas
+aVMythic Rare
 p74
-aVDuel Decks: Ajani vs. Nicol Bolas
+aVLand
 p75
-aVDuel Decks: Knights vs. Dragons
+aVLand
 p76
-aVDuel Decks: Knights vs. Dragons
+aVLand
 p77
-aVDuel Decks: Knights vs. Dragons
+aVMythic Rare
 p78
-aVDuel Decks: Knights vs. Dragons
+aVCommon
 p79
-aVDuel Decks: Knights vs. Dragons
+aVCommon
 p80
-aVScars of Mirrodin
+aVUncommon
 p81
-aVScars of Mirrodin
+aVLand
 p82
-aVScars of Mirrodin
+aVLand
 p83
-aVScars of Mirrodin
+aVLand
 p84
-aVScars of Mirrodin
+aVLand
 p85
-aVScars of Mirrodin
+aVUncommon
 p86
-aVScars of Mirrodin
+aVLand
 p87
-aVScars of Mirrodin
+aVUncommon
 p88
-aVScars of Mirrodin
+aVRare
 p89
-aVScars of Mirrodin
+aVCommon
 p90
-aVBorn of the Gods
+aVCommon
 p91
-aVBorn of the Gods
+aVUncommon
 p92
-aVBorn of the Gods
+aVCommon
 p93
-aVMagic 2010
+aVCommon
 p94
-aVMagic 2010
+aVUncommon
 p95
-aVMagic 2010
+aVLand
 p96
-aVMagic 2010
+aVLand
 p97
-aVMagic 2010
+aVLand
 p98
-aVMagic 2014 Core Set
+aVLand
 p99
-aVMagic 2014 Core Set
+aVRare
 p100
-aVTempest
+aVRare
 p101
-aVTempest
+aVLand
 p102
-aVTempest
+aVRare
 p103
-aVTempest
+aVUncommon
 p104
-aVTempest
+aVRare
 p105
-aVTempest
+aVLand
 p106
-aVTempest
+aVLand
 p107
-aVTempest
+aVLand
 p108
-aVTempest
+aVUncommon
 p109
-aVTempest
+aVCommon
 p110
-aVTempest
+aVUncommon
 p111
-aVTempest
+aVRare
 p112
-aVTenth Edition
+aVLand
 p113
-aVTenth Edition
+aVLand
 p114
-aVTenth Edition
+aVLand
 p115
-aVTenth Edition
+aVLand
 p116
-aVTenth Edition
+aVMythic Rare
 p117
-aVTenth Edition
+aVUncommon
 p118
-aVTenth Edition
+aVBonus
 p119
-aVTenth Edition
+aVBonus
 p120
-aVTenth Edition
+aVBonus
 p121
-aVMercadian Masques
+aVBonus
 p122
-aVMercadian Masques
+aVBonus
 p123
-aVMercadian Masques
+aVCommon
 p124
-aVMercadian Masques
+aVCommon
 p125
-aVMercadian Masques
+aVRare
 p126
-aVMercadian Masques
+aVCommon
 p127
-aVMercadian Masques
+aVCommon
 p128
-aVMercadian Masques
+aVLand
 p129
-aVVintage Masters
+aVLand
 p130
-aVVintage Masters
+aVCommon
 p131
-aVVintage Masters
+aVUncommon
 p132
-aVVintage Masters
+aVUncommon
 p133
-aVVintage Masters
+aVCommon
 p134
-aVVintage Masters
+aVCommon
 p135
-aVVintage Masters
+aVLand
 p136
-aVModern Masters
+aVLand
 p137
-aVModern Masters
+aVCommon
 p138
-aVModern Masters
+aVLand
 p139
-aVModern Masters
+aVLand
 p140
-aVThe Dark
+aVLand
 p141
-aVMirrodin Besieged
+aVCommon
 p142
-aVMirrodin Besieged
+aVLand
 p143
-aVMirrodin Besieged
+aVLand
 p144
-aVMirrodin Besieged
+aVLand
 p145
-aVStarter 2000
+aVCommon
 p146
-aVStarter 2000
+aVUncommon
 p147
-aVStarter 2000
+aVRare
 p148
-aVStarter 2000
+aVRare
 p149
-aVStarter 2000
+aVRare
 p150
-aVApocalypse
+aVLand
 p151
-aVMasters Edition III
+aVLand
 p152
-aVMasters Edition III
+aVLand
 p153
-aVMasters Edition III
+aVLand
 p154
-aVRevised Edition
+aVCommon
 p155
-aVRevised Edition
+aVUncommon
 p156
-aVRevised Edition
+aVCommon
 p157
-aVRevised Edition
+aVLand
 p158
-aVGuildpact
+aVCommon
 p159
-aVGuildpact
+aVRare
 p160
-aVGuildpact
+aVCommon
 p161
-aVNinth Edition
+aVLand
 p162
-aVNinth Edition
+aVLand
 p163
-aVNinth Edition
+aVCommon
 p164
-aVNinth Edition
+aVCommon
 p165
-aVNinth Edition
+aVLand
 p166
-aVNinth Edition
+aVLand
 p167
-aVEventide
+aVLand
 p168
-aVEventide
+aVLand
 p169
-aVConflux
+aVUncommon
 p170
-aVAvacyn Restored
+aVLand
 p171
-aVAvacyn Restored
+aVLand
 p172
-aVAvacyn Restored
+aVLand
 p173
-aVAvacyn Restored
+aVRare
 p174
-aVAvacyn Restored
+aVLand
 p175
-aVAvacyn Restored
+aVLand
 p176
-aVPlanechase 2012 Edition
+aVLand
 p177
-aVPlanechase 2012 Edition
+aVLand
 p178
-aVPlanechase 2012 Edition
+aVCommon
 p179
-aVPlanechase 2012 Edition
+aVRare
 p180
-aVPlanechase 2012 Edition
+aVCommon
 p181
-aVPlanechase 2012 Edition
+aVLand
 p182
-aVDuel Decks: Sorin vs. Tibalt
+aVLand
 p183
-aVDuel Decks: Sorin vs. Tibalt
+aVLand
 p184
-aVDuel Decks: Sorin vs. Tibalt
+aVLand
 p185
-aVDuel Decks: Sorin vs. Tibalt
+aVCommon
 p186
-aVOnslaught
+aVUncommon
 p187
-aVOnslaught
+aVUncommon
 p188
-aVOnslaught
+aVCommon
 p189
-aVOnslaught
+aVUncommon
 p190
-aVOnslaught
+aVRare
 p191
-aVChampions of Kamigawa
+aVRare
 p192
-aVChampions of Kamigawa
+aVLand
 p193
-aVChampions of Kamigawa
+aVLand
 p194
-aVChampions of Kamigawa
+aVLand
 p195
-aVChampions of Kamigawa
+aVLand
 p196
-aVChampions of Kamigawa
+aVCommon
 p197
-aVChampions of Kamigawa
+aVRare
 p198
-aVBetrayers of Kamigawa
+aVUncommon
 p199
-aVUrza's Destiny
+aVRare
 p200
-aVRavnica: City of Guilds
+aVLand
 p201
-aVRavnica: City of Guilds
+aVCommon
 p202
-aVRavnica: City of Guilds
+aVCommon
 p203
-aVRavnica: City of Guilds
+aVRare
 p204
-aVRavnica: City of Guilds
+aVRare
 p205
-aVRavnica: City of Guilds
+aVUncommon
 p206
-aVRavnica: City of Guilds
+aVCommon
 p207
-aVRavnica: City of Guilds
+aVRare
 p208
-aVRavnica: City of Guilds
+aVLand
 p209
-aVCommander 2013 Edition
+aVLand
 p210
-aVCommander 2013 Edition
+aVLand
 p211
-aVCommander 2013 Edition
+aVLand
 p212
-aVCommander 2013 Edition
+aVUncommon
 p213
-aVCommander 2013 Edition
+aVCommon
 p214
-aVOdyssey
+aVCommon
 p215
-aVOdyssey
+aVRare
 p216
-aVOdyssey
+aVCommon
 p217
-aVOdyssey
+aVLand
 p218
-aVOdyssey
+aVLand
 p219
-aVOdyssey
+aVLand
 p220
-aVOdyssey
+aVLand
 p221
-aVOdyssey
+aVLand
 p222
-aVOdyssey
+aVLand
 p223
-aVOdyssey
+aVLand
 p224
-aVOdyssey
+aVLand
 p225
-aVTime Spiral
+aVLand
 p226
-aVTime Spiral
+aVRare
 p227
-aVTime Spiral
+aVCommon
 p228
-aVTime Spiral
+aVUncommon
 p229
-aVTime Spiral
+aVRare
 p230
-aVTime Spiral
+aVUncommon
 p231
-aVTime Spiral
+aVMythic Rare
 p232
-aVTime Spiral
+aVCommon
 p233
-aVTime Spiral
+aVLand
 p234
-aVReturn to Ravnica
+aVLand
 p235
-aVReturn to Ravnica
+aVLand
 p236
-aVReturn to Ravnica
+aVRare
 p237
-aVReturn to Ravnica
+aVRare
 p238
-aVReturn to Ravnica
+aVRare
 p239
-aVGatecrash
+aVRare
 p240
-aVGatecrash
+aVRare
 p241
-aVExodus
+aVCommon
 p242
-aVExodus
+aVRare
 p243
-aVColdsnap
+aVRare
 p244
-aVFrom the Vault: Relics
+aVUncommon
 p245
-aVUnlimited Edition
+aVLand
 p246
-aVUnlimited Edition
+aVLand
 p247
-aVUnlimited Edition
+aVLand
 p248
-aVUnlimited Edition
+aVCommon
 p249
-aVUnlimited Edition
+aVRare
 p250
-aVUnlimited Edition
+aVUncommon
 p251
-aVUnlimited Edition
+aVRare
 p252
-aVUnlimited Edition
+aVCommon
 p253
-aVUnlimited Edition
+aVCommon
 p254
-aVIce Age
+aVLand
 p255
-aVIce Age
+aVLand
 p256
-aVIce Age
+aVLand
 p257
-aVIce Age
+aVLand
 p258
-aVIce Age
+aVLand
 p259
-aVIce Age
+aVLand
 p260
-aVIce Age
+aVLand
 p261
-aVIce Age
+aVLand
 p262
-aVTorment
+aVUncommon
 p263
-aVTorment
+aVLand
 p264
-aVTorment
+aVLand
 p265
-aVZendikar
+aVLand
 p266
-aVZendikar
+aVLand
 p267
-aVZendikar
+aVCommon
 p268
-aVZendikar
+aVCommon
 p269
-aVZendikar
+aVCommon
 p270
-aVZendikar
+aVRare
 p271
-aVZendikar
+aVUncommon
 p272
-aVZendikar
+aVLand
 p273
-aVZendikar
+aVLand
 p274
-aVZendikar
+aVLand
 p275
-aVClassic Sixth Edition
+aVLand
 p276
-aVClassic Sixth Edition
+aVCommon
 p277
-aVClassic Sixth Edition
+aVCommon
 p278
-aVClassic Sixth Edition
+aVCommon
 p279
-aVClassic Sixth Edition
+aVLand
 p280
-aVClassic Sixth Edition
+aVLand
 p281
-aVMirrodin
+aVLand
 p282
-aVMirrodin
+aVLand
 p283
-aVMirrodin
+aVCommon
 p284
-aVMirrodin
+aVUncommon
 p285
-aVMirrodin
+aVLand
 p286
-aVMirrodin
+aVLand
 p287
-aVMirrodin
+aVLand
 p288
-aVMirrodin
+aVLand
 p289
-aVDuel Decks: Elspeth vs. Tezzeret
+aVLand
 p290
-aVDuel Decks: Elspeth vs. Tezzeret
+aVUncommon
 p291
-aVShards of Alara
+aVRare
 p292
-aVShards of Alara
+aVRare
 p293
-aVShards of Alara
+aVRare
 p294
-aVShards of Alara
+aVLand
 p295
-aVShards of Alara
+aVLand
 p296
-aVSeventh Edition
+aVLand
 p297
-aVSeventh Edition
+aVLand
 p298
-aVSeventh Edition
+aVRare
 p299
-aVSeventh Edition
+aVRare
 p300
-aVSeventh Edition
+aVUncommon
 p301
-aVSeventh Edition
+aVRare
 p302
-aVMagic 2015 Core Set
+aVCommon
 p303
-aVUrza's Legacy
+aVLand
 p304
-aVUrza's Legacy
+aVLand
 p305
-aVRise of the Eldrazi
+aVLand
 p306
-aVRise of the Eldrazi
+aVLand
 p307
-aVRise of the Eldrazi
+aVLand
 p308
-aVRise of the Eldrazi
+aVRare
 p309
-aVRise of the Eldrazi
+aVCommon
 p310
-aVRise of the Eldrazi
+aVLand
 p311
-aVJudgment
+aVRare
 p312
-aVPromo set for Gatherer
+aVCommon
 p313
-aVShadowmoor
+aVUncommon
 p314
-aVShadowmoor
+aVLand
 p315
-aVShadowmoor
+aVLand
 p316
-aVShadowmoor
+aVLand
 p317
-aVShadowmoor
+aVLand
 p318
-aVShadowmoor
+aVRare
 p319
-aVShadowmoor
+aVRare
 p320
-aVNew Phyrexia
+aVCommon
 p321
-aVNew Phyrexia
+aVCommon
 p322
-aVNew Phyrexia
+aVLand
 p323
-aVNew Phyrexia
+aVLand
 p324
-aVStarter 1999
+aVLand
 p325
-aVStarter 1999
+aVLand
 p326
-aVStarter 1999
+aVLand
 p327
-aVStarter 1999
+aVLand
 p328
-aVStarter 1999
+aVLand
 p329
-aVStarter 1999
+aVLand
 p330
-aVStarter 1999
+aVLand
 p331
-aVFifth Dawn
+aVLand
 p332
-aVFuture Sight
+aVLand
 p333
-aVPortal Second Age
+aVLand
 p334
-aVPortal Second Age
+aVLand
 p335
-aVPortal Second Age
+aVLand
 p336
-aVPortal Second Age
+aVLand
 p337
-aVPortal Second Age
+aVLand
 p338
-aVPlanechase
+aVUncommon
 p339
-aVPlanechase
+aVUncommon
 p340
-aVPlanechase
+aVCommon
 p341
-aVPlanechase
+aVRare
 p342
-aVPlanechase
+aVLand
 p343
-aVPlanechase
+aVLand
 p344
-aVPlanechase
+aVLand
 p345
-aVPlanechase
+aVLand
 p346
-aVPlanechase
+aVRare
 p347
-aVDuel Decks: Venser vs. Koth
+aVLand
 p348
-aVDuel Decks: Venser vs. Koth
+aVLand
 p349
-aVDuel Decks: Venser vs. Koth
+aVLand
 p350
-aVDuel Decks: Venser vs. Koth
+aVCommon
 p351
-aVUrza's Saga
+aVUncommon
 p352
-aVUrza's Saga
+aVLand
 p353
-aVUrza's Saga
+aVRare
 p354
-aVUrza's Saga
+aVCommon
 p355
-aVUrza's Saga
+aVUncommon
 p356
-aVUrza's Saga
+aVUncommon
 p357
-aVUrza's Saga
+aVRare
 p358
-aVUrza's Saga
+aVCommon
 p359
-aVMasters Edition
+aVCommon
 p360
-aVMasters Edition
+aVLand
 p361
-aVMasters Edition
+aVLand
 p362
-aVMasters Edition
+aVLand
 p363
-aVMasters Edition
+aVLand
 p364
-aVTheros
+aVCommon
 p365
-aVTheros
+aVUncommon
 p366
-aVWeatherlight
+aVUncommon
 p367
-aVMagic: The Gathering\u2014Conspiracy
+aVRare
 p368
-aVMagic: The Gathering\u2014Conspiracy
+aVCommon
 p369
-aVMagic: The Gathering\u2014Conspiracy
+aVRare
 p370
-aVEighth Edition
+aVCommon
 p371
-aVEighth Edition
+aVCommon
 p372
-aVEighth Edition
+aVRare
 p373
-aVEighth Edition
+aVLand
 p374
-aVEighth Edition
+aVLand
 p375
-aVEighth Edition
+aVLand
 p376
-aVEighth Edition
+aVLand
 p377
-aVNemesis
+aVUncommon
 p378
-aVNemesis
+aVCommon
 p379
-aVNemesis
+aVCommon
 p380
-aVNemesis
+aVUncommon
 p381
-aVNemesis
+aVUncommon
 p382
-aVWorldwake
+aVCommon
 p383
-aVChronicles
+aVCommon
 p384
-aVInvasion
+aVLand
 p385
-aVInvasion
+aVLand
 p386
-aVInvasion
+aVLand
 p387
-aVInvasion
+aVLand
 p388
-aVInvasion
+aVRare
 p389
-aVInvasion
+aVCommon
 p390
-aVJourney into Nyx
+aVRare
 p391
-aVJourney into Nyx
+aVLand
 p392
-aVAlara Reborn
+aVLand
 p393
-aVAlara Reborn
+aVLand
 p394
-aVFifth Edition
+aVCommon
 p395
-aVFifth Edition
+aVCommon
 p396
-aVFifth Edition
+aVUncommon
 p397
-aVFifth Edition
+aVLand
 p398
-aVFifth Edition
+aVCommon
 p399
-aVFifth Edition
+aVUncommon
 p400
-aVFifth Edition
+aVUncommon
 p401
-aVArchenemy
+aVLand
 p402
-aVArchenemy
+aVLand
 p403
-aVArchenemy
+aVLand
 p404
-aVArchenemy
+aVLand
 p405
-aVArchenemy
+aVSpecial
 p406
-aVArchenemy
+aVSpecial
 p407
-aVKhans of Tarkir
+aVUncommon
 p408
-aVKhans of Tarkir
+aVRare
 p409
-aVKhans of Tarkir
+aVCommon
 p410
-aVKhans of Tarkir
+aVCommon
 p411
-aVDuel Decks: Jace vs. Vraska
+aVCommon
 p412
-aVMirage
+aVRare
 p413
-aVMirage
+aVUncommon
 p414
-aVMirage
+aVLand
 p415
-aVMirage
+aVLand
 p416
-aVMirage
+aVLand
 p417
-aVMirage
+aVCommon
 p418
-aVVanguard
+aVRare
 p419
-aVVanguard
+aVRare
 p420
-aVInnistrad
+aVRare
 p421
-aVInnistrad
+aVLand
 p422
-aVInnistrad
+aVRare
 p423
-aVInnistrad
+aVRare
 p424
-aVInnistrad
+aVLand
 p425
-aVInnistrad
+aVCommon
 p426
-aVInnistrad
+aVUncommon
 p427
-aVInnistrad
+aVLand
 p428
-aVInnistrad
+aVLand
 p429
-aVInnistrad
+aVLand
 p430
-aVLimited Edition Alpha
+aVCommon
 p431
-aVLimited Edition Alpha
+aVCommon
 p432
-aVLimited Edition Alpha
+aVCommon
 p433
-aVLimited Edition Alpha
+aVCommon
 p434
-aVLimited Edition Alpha
+aVRare
 p435
-aVLimited Edition Alpha
+aVUncommon
 p436
-aVLimited Edition Alpha
+aVCommon
 p437
-aVLimited Edition Alpha
+aVRare
 p438
-aVVisions
+aVRare
 p439
-aVVisions
+aVRare
 p440
-aVBeatdown Box Set
+aVUncommon
 p441
-aVBeatdown Box Set
+aVRare
 p442
-aVBeatdown Box Set
+aVCommon
 p443
-aVDragon's Maze
+aVUncommon
 p444
-aVStronghold
+aVRare
 p445
-aVStronghold
+aVLand
 p446
-aVStronghold
+aVLand
 p447
-aVStronghold
+aVLand
 p448
-aVStronghold
+aVLand
 p449
-aVStronghold
+aVCommon
 p450
-aVStronghold
+aVCommon
 p451
-aVStronghold
+aVRare
 p452
-aVLegends
+aVCommon
 p453
-aVLegends
+aVLand
 p454
-aVLegends
+aVLand
 p455
-aVLegends
+aVLand
 p456
-aVLegends
+aVLand
 p457
-aVDissension
+aVCommon
 p458
-aVDuel Decks: Izzet vs. Golgari
+aVCommon
 p459
-aVDuel Decks: Izzet vs. Golgari
+aVCommon
 p460
-aVDuel Decks: Izzet vs. Golgari
+aVLand
 p461
-aVDuel Decks: Izzet vs. Golgari
+aVLand
 p462
-aVLorwyn
+aVLand
 p463
-aVLorwyn
+aVLand
 p464
-aVLorwyn
+aVLand
 p465
-aVLorwyn
+aVCommon
 p466
-aVLorwyn
+aVLand
 p467
-aVLorwyn
+aVLand
 p468
-aVLorwyn
+aVLand
 p469
-aVLorwyn
+aVSpecial
 p470
-aVArabian Nights
+aVCommon
 p471
-aVArabian Nights
+aVLand
 p472
-aVArabian Nights
+aVLand
 p473
-aVPremium Deck Series: Slivers
+aVLand
 p474
-aVMagic 2011
+aVLand
 p475
-aVMagic 2011
+aVLand
 p476
-aVMagic 2011
+aVUncommon
 p477
-aVMagic 2011
+aVCommon
 p478
-aVPortal Three Kingdoms
+aVCommon
 p479
-aVPortal Three Kingdoms
+aVCommon
 p480
-aVPortal Three Kingdoms
+aVCommon
 p481
-aVPortal Three Kingdoms
+aVUncommon
 p482
-aVTime Spiral "Timeshifted"
+aVLand
 p483
-aVDuel Decks: Heroes vs. Monsters
+aVLand
 p484
-aVDuel Decks: Heroes vs. Monsters
+aVLand
 p485
-aVPremium Deck Series: Fire and Lightning
+aVLand
 p486
-aVPremium Deck Series: Fire and Lightning
+aVUncommon
 p487
-aVPremium Deck Series: Fire and Lightning
+aVUncommon
 p488
-aVPremium Deck Series: Fire and Lightning
+aVCommon
 p489
-aVPremium Deck Series: Fire and Lightning
+aVRare
 p490
-aVPremium Deck Series: Fire and Lightning
+aVRare
 p491
-aVPortal
+aVCommon
 p492
-aVPortal
+aVMythic Rare
 p493
-aVPortal
+asS'editns'
 p494
-aVPortal
-p495
-aVPortal
+(lp495
+VAnthologies
 p496
-aVPortal
+aVAnthologies
 p497
-aVPortal
+aVAnthologies
 p498
-aVPortal
+aVAnthologies
 p499
-aVPortal
+aVAnthologies
 p500
-aVPlaneshift
+aVMagic: The Gathering-Commander
 p501
-aVPlaneshift
+aVMagic: The Gathering-Commander
 p502
-aVPlaneshift
+aVMagic: The Gathering-Commander
 p503
-aVDark Ascension
+aVMagic: The Gathering-Commander
 p504
-aVDark Ascension
+aVMagic: The Gathering-Commander
 p505
-aVDark Ascension
+aVMagic: The Gathering-Commander
 p506
-asS'ids'
+aVMagic: The Gathering-Commander
 p507
-(lp508
-V-2146729949
+aVMagic: The Gathering-Commander
+p508
+aVMagic: The Gathering-Commander
 p509
-aV-2146729948
+aVMagic 2012
 p510
-aV-2146729947
+aVMagic 2012
 p511
-aI397546
-aV-2146729943
+aVMagic 2012
 p512
-aV247515
+aVMagic 2012
 p513
-aV247530
+aVMagic 2012
 p514
-aV247282
+aVLimited Edition Beta
 p515
-aV247143
+aVLimited Edition Beta
 p516
-aV247525
+aVLimited Edition Beta
 p517
-aV249810
+aVLimited Edition Beta
 p518
-aV249809
+aVLimited Edition Beta
 p519
-aV249808
+aVLimited Edition Beta
 p520
-aV249811
+aVLimited Edition Beta
 p521
-aV244328
+aVLimited Edition Beta
 p522
-aV244329
+aVLimited Edition Beta
 p523
-aV244327
+aVSaviors of Kamigawa
 p524
-aV220143
+aVSaviors of Kamigawa
 p525
-aV244330
+aVSaviors of Kamigawa
 p526
-aV328
+aVBattle Royale Box Set
 p527
-aV330
+aVBattle Royale Box Set
 p528
-aV507
+aVBattle Royale Box Set
 p529
-aV591
+aVBattle Royale Box Set
 p530
-aV590
+aVBattle Royale Box Set
 p531
-aV589
+aVBattle Royale Box Set
 p532
-aV327
+aVBattle Royale Box Set
 p533
-aV329
+aVBattle Royale Box Set
 p534
-aV331
+aVBattle Royale Box Set
 p535
-aV74198
+aVBattle Royale Box Set
 p536
-aV84643
-p537
-aV87331
-p538
-aV21117
-p539
-aV22344
-p540
-aV22343
-p541
-aV22342
-p542
-aV22340
-p543
-aV22339
-p544
-aV22336
-p545
-aV22335
-p546
-aV22334
-p547
-aV21118
-p548
-aV143218
-p549
-aV143333
-p550
-aV152585
-p551
-aV152903
-p552
-aV249706
-p553
-aV249730
-p554
-aV249729
-p555
-aV249728
-p556
-aV249727
-p557
-aV2351
-p558
-aV2296
-p559
-aV2383
-p560
-aV2382
-p561
-aV2381
-p562
-aV134738
-p563
-aV259264
-p564
-aV249367
-p565
-aV259284
-p566
-aV259286
-p567
-aV243476
-p568
-aV243495
-p569
-aV243496
-p570
-aV243497
-p571
-aV243498
-p572
-aV209403
-p573
-aV212716
-p574
-aV215089
-p575
-aV194309
-p576
-aV209037
-p577
-aV214668
-p578
-aV208248
-p579
-aV214667
-p580
-aV214675
-p581
-aV214681
-p582
-aV378523
-p583
-aV378392
-p584
-aV378499
-p585
-aV189909
-p586
-aV191402
-p587
-aV191403
-p588
-aV191404
-p589
-aV191401
-p590
-aV370604
-p591
-aV370591
-p592
-aV4618
-p593
-aV4771
-p594
-aV4831
-p595
-aV4833
-p596
-aV4834
-p597
-aV4888
-p598
-aV4832
-p599
-aV4934
-p600
-aV4948
-p601
-aV4947
-p602
-aV4946
-p603
-aV4945
-p604
-aV106368
-p605
-aV129648
-p606
-aV129649
-p607
-aV129716
-p608
-aV134748
-p609
-aV135259
-p610
-aV129650
-p611
-aV129651
-p612
-aV129652
-p613
-aV136514
-p614
-aV19554
-p615
-aV19818
-p616
-aV19878
-p617
-aV20892
-p618
-aV20893
-p619
-aV20894
-p620
-aV20895
-p621
-aV383017
-p622
-aV383018
-p623
-aV383019
-p624
-aV383020
-p625
-aV383021
-p626
-aV383022
-p627
-aV383023
-p628
-aV370444
-p629
-aV370547
-p630
-aV370437
-p631
-aV370508
-p632
-aV1814
-p633
-aV214045
-p634
-aV214066
-p635
-aV222863
-p636
-aV213725
-p637
-aV25485
-p638
-aV25491
-p639
-aV25475
-p640
-aV25481
-p641
-aV25480
-p642
-aV26800
-p643
-aV206077
-p644
-aV206076
-p645
-aV206075
-p646
-aV1308
-p647
-aV1391
-p648
-aV1390
-p649
-aV1389
-p650
-aV96910
-p651
-aV96930
-p652
-aV97192
-p653
-aV83173
-p654
-aV83464
-p655
-aV83176
-p656
-aV83177
-p657
-aV83178
-p658
-aV83179
-p659
-aV153441
-p660
-aV157403
-p661
-aV184988
-p662
-aV269622
-p663
-aV278059
-p664
-aV240065
-p665
-aV262849
-p666
-aV269632
-p667
-aV269630
-p668
-aV226514
-p669
-aV226515
-p670
-aV276465
-p671
-aV276447
-p672
-aV276449
-p673
-aV276470
-p674
-aV368498
-p675
-aV368502
-p676
-aV368500
-p677
-aV368512
-p678
-aV39699
-p679
-aV40110
-p680
-aV40109
-p681
-aV40108
-p682
-aV40107
-p683
-aV50385
-p684
-aV73907
-p685
-aV76641
-p686
-aV79064
-p687
-aV79070
-p688
-aV79075
-p689
-aV79077
-p690
-aV74028
-p691
-aV15235
-p692
-aV83631
-p693
-aV87955
-p694
-aV89009
-p695
-aV89080
-p696
-aV89088
-p697
-aV95096
-p698
-aV95104
-p699
-aV95102
-p700
-aV95109
-p701
-aV376412
-p702
-aV376413
-p703
-aV376414
-p704
-aV376415
-p705
-aV376419
-p706
-aV29743
-p707
-aV29745
-p708
-aV29795
-p709
-aV29972
-p710
-aV30010
-p711
-aV31811
-p712
-aV29946
-p713
-aV31621
-p714
-aV31622
-p715
-aV31623
-p716
-aV31624
-p717
-aV108860
-p718
-aV109733
-p719
-aV114914
-p720
-aV116391
-p721
-aV116739
-p722
-aV118921
-p723
-aV122090
-p724
-aV122080
-p725
-aV118926
-p726
-aV289324
-p727
-aV289323
-p728
-aV289321
-p729
-aV289322
-p730
-aV333720
-p731
-aV366356
-p732
-aV366449
-p733
-aV6118
-p734
-aV6128
-p735
-aV121234
-p736
-aV212634
-p737
-aV809
-p738
-aV893
-p739
-aV892
-p740
-aV891
-p741
-aV629
-p742
-aV630
-p743
-aV631
-p744
-aV632
-p745
-aV633
-p746
-aV2477
-p747
-aV2734
-p748
-aV2735
-p749
-aV2476
-p750
-aV2765
-p751
-aV2764
-p752
-aV2763
-p753
-aV2639
-p754
-aV34234
-p755
-aV36433
-p756
-aV29960
-p757
-aV183414
-p758
-aV191359
-p759
-aV201967
-p760
-aV201968
-p761
-aV195178
-p762
-aV195171
-p763
-aV201969
-p764
-aV195181
-p765
-aV201970
-p766
-aV195184
-p767
-aV15442
-p768
-aV14745
-p769
-aV14746
-p770
-aV14747
-p771
-aV14748
-p772
-aV16442
-p773
-aV45965
-p774
-aV46000
-p775
-aV48083
-p776
-aV50538
-p777
-aV48418
-p778
-aV48417
-p779
-aV48419
-p780
-aV48420
-p781
-aV222709
-p782
-aV222716
-p783
-aV174787
-p784
-aV175018
-p785
-aV175019
-p786
-aV175017
-p787
-aV175020
-p788
-aV30169
-p789
-aV15854
-p790
-aV11410
-p791
-aV11411
-p792
-aV11412
-p793
-aV11413
-p794
-aV383317
-p795
-aV5704
-p796
-aV9689
-p797
-aV193497
-p798
-aV209108
-p799
-aV205926
-p800
-aV205947
-p801
-aV205923
-p802
-aV205937
-p803
-aV35171
-p804
-aV97049
-p805
-aV141943
-p806
-aV146021
-p807
-aV159407
-p808
-aV158240
-p809
-aV157888
-p810
-aV157885
-p811
-aV157882
-p812
-aV230064
-p813
-aV233051
-p814
-aV233072
-p815
-aV227507
-p816
-aV21065
-p817
-aV20234
-p818
-aV20229
-p819
-aV21801
-p820
-aV21804
-p821
-aV21803
-p822
-aV21802
-p823
-aV51091
-p824
-aV136154
-p825
-aV6554
-p826
-aV6621
-p827
-aV8407
-p828
-aV8406
-p829
-aV8395
-p830
-aV205468
-p831
-aV205471
-p832
-aV205470
-p833
-aV205469
-p834
-aV205292
-p835
-aV205447
-p836
-aV205432
-p837
-aV205441
-p838
-aV205435
-p839
-aV284494
-p840
-aV284496
-p841
-aV284493
-p842
-aV284495
-p843
-aV5550
-p844
-aV5706
-p845
-aV5708
-p846
-aV5863
-p847
-aV8334
-p848
-aV8335
-p849
-aV8336
-p850
-aV8337
-p851
-aV159308
-p852
-aV159284
-p853
-aV159285
-p854
-aV159286
-p855
-aV159773
-p856
-aV373565
-p857
-aV373746
-p858
-aV4463
-p859
-aV382311
-p860
-aV382312
-p861
-aV382313
-p862
-aV45381
-p863
-aV45411
-p864
-aV45412
-p865
-aV46449
-p866
-aV46450
-p867
-aV46451
-p868
-aV46452
-p869
-aV21290
-p870
-aV21345
-p871
-aV21349
-p872
-aV21350
-p873
-aV22299
-p874
-aV197162
-p875
-aV2849
-p876
-aV23031
-p877
-aV23138
-p878
-aV25966
-p879
-aV26307
-p880
-aV26308
-p881
-aV26309
-p882
-aV380456
-p883
-aV380457
-p884
-aV185051
-p885
-aV179614
-p886
-aV3862
-p887
-aV4073
-p888
-aV4072
-p889
-aV4198
-p890
-aV4197
-p891
-aV4196
-p892
-aV4195
-p893
-aV220485
-p894
-aV212608
-p895
-aV220570
-p896
-aV221303
-p897
-aV221305
-p898
-aV221304
-p899
-aV386606
-p900
-aV386607
-p901
-aV386608
-p902
-aV386611
-p903
-aV380249
-p904
-aV3574
-p905
-aV3260
-p906
-aV3580
-p907
-aV3579
-p908
-aV3578
-p909
-aV3577
-p910
-aV182271
-p911
-aV182300
-p912
-aV227286
-p913
-aV249664
-p914
-aV226882
-p915
-aV221187
-p916
-aV222933
-p917
-aV233239
-p918
-aV230777
-p919
-aV245242
-p920
-aV245245
-p921
-aV245243
-p922
-aV212
-p923
-aV32
-p924
-aV34
-p925
-aV36
-p926
-aV291
-p927
-aV33
-p928
-aV35
-p929
-aV290
-p930
-aV3670
-p931
-aV3695
-p932
-aV27241
-p933
-aV27240
-p934
-aV27239
-p935
-aV369049
-p936
-aV4980
-p937
-aV5100
-p938
-aV5101
-p939
-aV5107
-p940
-aV5120
-p941
-aV5191
-p942
-aV5192
-p943
-aV5193
-p944
-aV1452
-p945
-aV1702
-p946
-aV1626
-p947
-aV1535
-p948
-aV1585
-p949
-aV107506
-p950
-aV292769
-p951
-aV292767
-p952
-aV292768
-p953
-aV292770
-p954
-aV139483
-p955
-aV139506
-p956
-aV139515
-p957
-aV145800
-p958
-aV143623
-p959
-aV143627
-p960
-aV143631
-p961
-aV143626
-p962
-aV975
-p963
-aV976
-p964
-aV983
-p965
-aV207936
-p966
-aV213625
-p967
-aV213624
-p968
-aV213626
-p969
-aV213627
-p970
-aV10585
-p971
-aV10563
-p972
-aV10643
-p973
-aV10644
-p974
-aV108849
-p975
-aV373344
-p976
-aV373346
-p977
-aV234738
-p978
-aV234739
-p979
-aV234740
-p980
-aV234741
-p981
-aV234699
-p982
-aV234710
-p983
-aV4303
-p984
-aV4305
-p985
-aV4304
-p986
-aV4306
-p987
-aV4420
-p988
-aV4419
-p989
-aV4418
-p990
-aV4417
-p991
-aV4352
-p992
-aV26275
-p993
-aV27589
-p994
-aV26269
-p995
-aV253433
-p996
-aV262659
-p997
-aV249885
-p998
-asS'texts'
-p999
-(lp1000
-VSacrifice a Goblin: Target creature gets +1/+1 until end of turn.
-p1001
-aVPyrotechnics deals 4 damage divided as you choose among any number of target creatures and/or players.
-p1002
-aVHaste (This creature can attack and {T} as soon as it comes under your control.)
-p1003
-aV({T}: Add {B} to your mana pool.)
-p1004
-aV({T}: Add {B} to your mana pool.)
-p1005
-aV{T}: Add {1} to your mana pool.<br>{1}, {T}: Put a storage counter on Molten Slagheap.<br>{1}, Remove X storage counters from Molten Slagheap: Add X mana in any combination of {B} and/or {R} to your mana pool.
-p1006
-aVWhen Monk Realist enters the battlefield, destroy target enchantment.
-p1007
-aVDestroy target creature or enchantment.
-p1008
-aVMortivore's power and toughness are each equal to the number of creature cards in all graveyards.<br>{B}: Regenerate Mortivore.
-p1009
-aV{T}: Target creature you control gains protection from the color of your choice until end of turn.
-p1010
-aVR
-p1011
-ag1011
-ag1011
-ag1011
-ag1011
-ag1011
-ag1011
-aVPentavus enters the battlefield with five +1/+1 counters on it.<br>{1}, Remove a +1/+1 counter from Pentavus: Put a 1/1 colorless Pentavite artifact creature token with flying onto the battlefield.<br>{1}, Sacrifice a Pentavite: Put a +1/+1 counter on Pentavus.
-p1012
-aS''
-p1013
-aV{T}: Add {B} to your mana pool.
-p1014
-aV{T}: Add {R} to your mana pool.
-p1015
-aV{T}: Orcish Artillery deals 2 damage to target creature or player and 3 damage to you.
-p1016
-aVAttacking creatures you control get +1/+0.
-p1017
-aVEnchant creature<br>When Paralyze enters the battlefield, tap enchanted creature.<br>Enchanted creature doesn't untap during its controller's untap step.<br>At the beginning of the upkeep of enchanted creature's controller, that player may pay {4}. If he or she does, untap the creature.
-p1018
-aV{0}: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Any player may activate this ability, but only if he or she owns Personal Incarnation.<br>When Personal Incarnation dies, its owner loses half his or her life, rounded up.
-p1019
-aVAt the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence.<br>{B}: Pestilence deals 1 damage to each creature and each player.
-p1020
-aVFlying<br>At the beginning of your upkeep, sacrifice Phantasmal Forces unless you pay {U}.
-p1021
-aVEnchant land<br>As Phantasmal Terrain enters the battlefield, choose a basic land type.<br>Enchanted land is the chosen type.
-p1022
-aVFlying<br>{2}, Return a land you control to its owner's hand: Target land becomes the basic land type of your choice until end of turn.
-p1023
-aVFlying<br>{W}: Moonwing Moth gets +0/+1 until end of turn.
-p1024
-aVReturn Molting Skin to its owner's hand: Regenerate target creature.
-p1025
-aV{T}: Add {1} to your mana pool.<br>{T}: Add {R} or {G} to your mana pool. Mogg Hollows doesn't untap during your next untap step.
-p1026
-aVFlying<br>Whenever Abyssal Specter deals damage to a player, that player discards a card.
-p1027
-ag1011
-ag1011
-ag1011
-ag1011
-ag1011
-ag1011
-ag1011
-aVFirst strike <i>(This creature deals combat damage before creatures without first strike.)</i><br>When Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can't be regenerated.
-p1028
-aVChangeling <i>(This card is every creature type at all times.)</i><br>{B}: Moonglove Changeling gains deathtouch until end of turn. <i>(Any amount of damage it deals to a creature is enough to destroy that creature.)</i>
-p1029
-aVChangeling <i>(This card is every creature type at all times.)</i><br>Tap an untapped creature you control: Mothdust Changeling gains flying until end of turn.
-p1030
-aVFirst strike<br>Reinforce 1\u2014{1}{W} <i>({1}{W}, Discard this card: Put a +1/+1 counter on target creature.)</i>
-p1031
-aVProwl {1}{B} <i>(You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)</i><br>Target player loses 3 life and you gain 3 life. If Morsel Theft's prowl cost was paid, draw a card.
-p1032
-aV{R}, Sacrifice Torch Fiend: Destroy target artifact.
-p1033
-aVW
-p1034
-ag1013
-ag1013
-ag1013
-aVBlocking creatures get +0/+3 until end of turn.
-p1035
-aVEnchant creature<br>When Paralyze enters the battlefield, tap enchanted creature.<br>Enchanted creature doesn't untap during its controller's untap step.<br>At the beginning of the upkeep of enchanted creature's controller, that player may pay {4}. If he or she does, untap the creature.
-p1036
-aV{0}: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Any player may activate this ability, but only if he or she owns Personal Incarnation.<br>When Personal Incarnation dies, its owner loses half his or her life, rounded up.
-p1037
-aVAt the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence.<br>{B}: Pestilence deals 1 damage to each creature and each player.
-p1038
-aVFlying<br>At the beginning of your upkeep, sacrifice Phantasmal Forces unless you pay {U}.
-p1039
-aVFlying<br>When Molten Firebird dies, return it to the battlefield under its owner's control at the beginning of the next end step and you skip your next draw step.<br>{4}{R}: Exile Molten Firebird.
-p1040
-aVSacrifice Morgue Toad: Add {U}{R} to your mana pool.
-p1041
-aVFlying<br>At the beginning of your upkeep, you lose 1 life.
-p1042
-ag1011
-ag1011
-aVFlying<br>{1}{R}: Mordant Dragon gets +1/+0 until end of turn.<br>Whenever Mordant Dragon deals combat damage to a player, you may have it deal that much damage to target creature that player controls.
-p1043
-ag1011
-ag1011
-ag1011
-ag1011
-aV{1}{B}, Sacrifice Moriok Replica: You draw two cards and lose 2 life.
-p1044
-ag1011
-aVMetalcraft- {T}: Add one mana of any color to your mana pool. Activate this ability only if you control three or more artifacts.
-p1045
-aVWhen Myr Battlesphere enters the battlefield, put four 1/1 colorless Myr artifact creature tokens onto the battlefield.<br>Whenever Myr Battlesphere attacks, you may tap X untapped Myr you control. If you do, Myr Battlesphere gets +X/+0 until end of turn and deals X damage to defending player.
-p1046
-aVOther Myr creatures you control get +1/+1.<br>{1}, {T}: Untap each other Myr you control.
-p1047
-aV{3}, {T}: Put a token that's a copy of Myr Propagator onto the battlefield.
-p1048
-aV{T}: Add {2} to your mana pool. Spend this mana only to cast Myr spells or activate abilities of Myr.<br>{3}, {T}: Return target Myr card from your graveyard to your hand.
-p1049
-aVB
-p1050
-ag1050
-ag1013
-aVTarget creature gets +1/+1 and gains indestructible until end of turn. <i>(Damage and effects that say "destroy" don't destroy it.)</i>
-p1051
-aVTarget creature gains deathtouch until end of turn. Regenerate it.
-p1052
-aVTribute 3 <i>(As this creature enters the battlefield, an opponent of your choice may place three +1/+1 counters on it.)</i><br>When Nessian Demolok enters the battlefield, if tribute wasn't paid, destroy target noncreature permanent.
-p1053
-aVFlying
-p1054
-aVCreatures you control get +3/+3 and gain trample until end of turn.
-p1055
-ag1013
-ag1013
-ag1013
-aVFlash <i>(You may cast this spell any time you could cast an instant.)</i><br>Flying
-p1056
-aVFlying<br>Nightmare's power and toughness are each equal to the number of Swamps you control.
-p1057
-aVWhite spells you cast cost {1} less to cast.
-p1058
-aVAll Sliver creatures get +1/+1.
-p1059
-aVSacrifice a Goblin: Target creature gets +1/+1 until end of turn.
-p1060
-aVMogg Squad gets -1/-1 for each other creature on the battlefield.
-p1061
-aVWhenever a creature becomes blocked by a creature with lesser power, destroy the blocking creature.<br><br>Whenever a creature blocks a creature with lesser power, destroy the attacking creature.
-p1062
-aV{T}: Target opponent chooses any number of creatures he or she controls. During that player's next turn, the chosen creatures attack if able, and other creatures can't attack. At the beginning of that turn's end step, destroy each of the chosen creatures that didn't attack. Activate this ability only during your turn.
-p1063
-ag1011
-ag1011
-ag1011
-aVTarget player gains 8 life.
-p1064
-aVAll lands are 2/2 creatures that are still lands.
-p1065
-aVNeedle Storm deals 4 damage to each creature with flying.
-p1066
-aVTrample <i>(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</i><br>Molimo, Maro-Sorcerer's power and toughness are each equal to the number of lands you control.
-p1067
-aVFirst strike <i>(This creature deals combat damage before creatures without first strike.)</i><br>When Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can't be regenerated.
-p1068
-aVFlying<br>Nightmare's power and toughness are each equal to the number of Swamps you control.
-p1069
-aVFlying<br>{R}: Shivan Dragon gets +1/+0 until end of turn.
-p1070
-aV{T}: Target creature with power 2 or less is unblockable this turn.
-p1071
-aV{2}, {T}: You gain 1 life.
-p1072
-ag1013
-ag1013
-ag1013
-aVWhenever a creature dies, you gain 1 life.
-p1073
-aV{W}, Pay 2 life: The next time a source of your choice would deal damage to you this turn, prevent that damage.
-p1074
-aVIf an opponent controls a Forest and you control a Swamp, you may cast Deepwood Legate without paying its mana cost.<br>{B}: Deepwood Legate gets +1/+1 until end of turn.
-p1075
-aV{X}, {T}: Target creature you control gets +X/+X until end of turn. Destroy it at the beginning of the next end step.
-p1076
-ag1011
-ag1011
-aVAll lands become 2/2 creatures until end of turn. They're still lands.
-p1077
-aVWhenever a creature you control deals combat damage, you gain that much life.
-p1078
-aV{T}: Add {G} to your mana pool.
-p1079
-aV{T}: Add {B} to your mana pool.
-p1080
-aV{T}: Add {W} to your mana pool.
-p1081
-aV{T}: Add {R} to your mana pool.
-p1082
-aV{T}: Add {U} to your mana pool.
-p1083
-aV{3}{U}, {T}: Look at the top X cards of your library, where X is the highest converted mana cost among artifacts you control. You may reveal an artifact card from among them and put it onto the battlefield. Put the rest on the bottom of your library in any order.
-p1084
-aVThreshold- As long as seven or more cards are in your graveyard, Mystic Zealot gets +1/+1 and has flying.
-p1085
-aVEnchant creature<br>Enchanted creature gets +3/+3.<br>Dredge 2 <i>(If you would draw a card, instead you may put exactly two cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)</i>
-p1086
-aVEcho {1}{R} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i><br>When Mogg War Marshal enters the battlefield or dies, put a 1/1 red Goblin creature token onto the battlefield.
-p1087
-aVKicker {R} <i>(You may pay an additional {R} as you cast this spell.)</i><br>If Molten Disaster was kicked, it has split second. <i>(As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)</i><br>Molten Disaster deals X damage to each creature without flying and each player.
-p1088
-aVChangeling <i>(This card is every creature type at all times.)</i><br>Tap an untapped creature you control: Mothdust Changeling gains flying until end of turn.
-p1089
-aVFirst strike; banding <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
-p1090
-ag1011
-ag1011
-aVLiving weapon <i>(When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)</i><br>Equipped creature gets +0/+1 and has "Sacrifice this creature: This creature deals 1 damage to target creature or player."<br>Equip {2}
-p1091
-aVWhen Myr Sire dies, put a 1/1 colorless Myr artifact creature token onto the battlefield.
-p1092
-aVFlying
-p1093
-aV{T}: Prodigal Sorcerer deals 1 damage to target creature or player.
-p1094
-aV{3}, {T}: Rod of Ruin deals 1 damage to target creature or player.
-p1095
-aVFlying
-p1096
-aV{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
-p1097
-aV{W}, {T}: Target player gains 1 life.
-p1098
-aVYou may choose not to untap Old Man of the Sea during your untap step.<br>{T}: Gain control of target creature with power less than or equal to Old Man of the Sea's power for as long as Old Man of the Sea remains tapped and that creature's power remains less than or equal to Old Man of the Sea's power.
-p1099
-aVFlying, trample<br>At the beginning of your upkeep, sacrifice Palladia-Mors unless you pay {R}{G}{W}.
-p1100
-aV{B}{R}: Pavel Maliki gets +1/+0 until end of turn.
-p1101
-aVFlying<br>At the beginning of your upkeep, sacrifice Phantasmal Forces unless you pay {U}.
-p1102
-aVFlying
-p1103
-aVPirate Ship can't attack unless defending player controls an Island.<br>{T}: Pirate Ship deals 1 damage to target creature or player.<br>When you control no Islands, sacrifice Pirate Ship.
-p1104
-aVPlague Rats's power and toughness are each equal to the number of creatures named Plague Rats on the battlefield.
-p1105
-aVCounter target spell unless its controller pays {1}.<br>Draw a card.
-p1106
-aVYou may have creatures you control assign their combat damage this turn as though they weren't blocked.
-p1107
-aV<i>({W/B} can be paid with either {W} or {B}.)</i><br>At the beginning of your upkeep, put target creature card from a graveyard onto the battlefield under your control.
-p1108
-aVAt the beginning of your upkeep, you draw a card and you lose 1 life.
-p1109
-aVUntil end of turn, if target player would draw a card, instead that player skips that draw and you draw a card.
-p1110
-aVSwampwalk <i>(This creature is unblockable as long as defending player controls a Swamp.)</i>
-p1111
-aVDestroy all creatures you don't control. They can't be regenerated.
-p1112
-ag1034
-ag1034
-aVTarget creature gets +4/+4 until end of turn.<br>Retrace <i>(You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)</i>
-p1113
-aVTarget player can't play land cards this turn if {R} was spent to cast Moonhold and can't play creature cards this turn if {W} was spent to cast it. <i>(Do both if {R}{W} was spent.)</i>
-p1114
-aVProtection from blue
-p1115
-ag1034
-aVEquipped creature has first strike.<br>Whenever equipped creature attacks, put a 4/4 white Angel creature token with flying onto the battlefield.<br>Equip {4}
-p1116
-aV{2}{W}: Moorland Inquisitor gains first strike until end of turn.
-p1117
-aV{2}: Narstad Scrapper gets +1/+0 until end of turn.
-p1118
-ag1050
-ag1050
-aVWhen you encounter Morphic Tide, each player shuffles all permanents he or she owns into his or her library, then reveals that many cards from the top of his or her library. Each player puts all artifact, creature, land, and planeswalker cards revealed this way onto the battlefield, then does the same for enchantment cards, then puts all cards revealed this way that weren't put onto the battlefield on the bottom of his or her library in any order. <i>(Then planeswalk away from this phenomenon.)</i>
-p1119
-aVAt the beginning of your end step, put a pressure counter on Mount Keralia.<br>When you planeswalk away from Mount Keralia, it deals damage equal to the number of pressure counters on it to each creature and each planeswalker.<br>Whenever you roll chaos, prevent all damage that planes named Mount Keralia would deal this game to permanents you control.
-p1120
-aVWhen Mudbutton Torchrunner dies, it deals 3 damage to target creature or player.
-p1121
-ag1011
-ag1011
-ag1034
-aVDestroy target creature or enchantment.
-p1122
-ag1011
-ag1011
-ag1011
-ag1011
-ag1011
-ag1011
-aVSacrifice a creature: Nantuko Husk gets +2/+2 until end of turn.
-p1123
-aVDestroy target artifact or enchantment.
-p1124
-aVEnchant creature<br>At the beginning of your upkeep, sacrifice a creature.<br>Enchanted creature gets +3/+3 and has trample.<br>Enchanted creature is a Demon Spirit.
-p1125
-aVWhenever you cast a creature spell this turn, draw a card.
-p1126
-aV{T}: Tap target Spirit.
-p1127
-ag1034
-ag1034
-ag1034
-aVAs an additional cost to cast Soulblast, sacrifice all creatures you control. <br>Soulblast deals damage to target creature or player equal to the total power of the sacrificed creatures.
-p1128
-aVSacrifice Moonlit Strider: Target creature you control gains protection from the color of your choice until end of turn.<br>Soulshift 3 <i>(When this creature dies, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)</i>
-p1129
-aVEnchant creature<br>At the beginning of your upkeep, you may put a growth counter on Momentum.<br>Enchanted creature gets +1/+1 for each growth counter on Momentum.
-p1130
-aVRibbons of Night deals 4 damage to target creature and you gain 4 life. If {U} was spent to cast Ribbons of Night, draw a card.
-p1131
-aVConvoke <i>(Each creature you tap while casting this spell reduces its cost by {1} or by one mana of that creature's color.)</i><br>Prevent all damage that would be dealt by creatures this turn. You gain life equal to the damage prevented this way.
-p1132
-aVEnchant creature<br>Enchanted creature has flying.<br>Whenever enchanted creature deals combat damage to a player, put that many 1/1 green Saproling creature tokens onto the battlefield.
-p1133
-aVWhenever you cast a creature spell, you may draw a card.
-p1134
-aVEquipped creature has defender, flying, and first strike.<br>Equip {2}
-p1135
-ag1011
-ag1011
-ag1034
-ag1034
-aVKicker {1}{G} <i>(You may pay an additional {1}{G} as you cast this spell.)</i><br>When Mold Shambler enters the battlefield, if it was kicked, destroy target noncreature permanent.
-p1136
-aVKicker {R} <i>(You may pay an additional {R} as you cast this spell.)</i><br>If Molten Disaster was kicked, it has split second. <i>(As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)</i><br>Molten Disaster deals X damage to each creature without flying and each player.
-p1137
-aV{T}: Add {1} to your mana pool.<br>{1}, {T}: Put a storage counter on Molten Slagheap.<br>{1}, Remove X storage counters from Molten Slagheap: Add X mana in any combination of {B} and/or {R} to your mana pool.
-p1138
-aVHideaway <i>(This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)</i><br>{T}: Add {G} to your mana pool.<br>{G}, {T}: You may play the exiled card without paying its mana cost if creatures you control have total power 10 or greater.
-p1139
-ag1011
-aVReturn target creature card from your graveyard to your hand.<br>Flashback {4}{B} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
-p1140
-aVMorbid Hunger deals 3 damage to target creature or player. You gain 3 life.<br>Flashback {7}{B}{B} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
-p1141
-aV{1}, {T}: Add {G}{W} to your mana pool.
-p1142
-aVWhenever a player taps a land for mana, if it's not that player's turn, destroy that land.
-p1143
-aV{T}: Add {1} to your mana pool.<br><br>{5}, {T}: Add {W}{U}{B}{R}{G} to your mana pool.
-p1144
-aVEnchant creature<br>Enchanted creature has trample.
-p1145
-ag1011
-ag1011
-ag1011
-ag1011
-aV{G}, {T}: Target creature gets +2/+2 until end of turn.
-p1146
-aV{T}: Add {1} to your mana pool.<br>{1}, {T}: Put a storage counter on Molten Slagheap.<br>{1}, Remove X storage counters from Molten Slagheap: Add X mana in any combination of {B} and/or {R} to your mana pool.
-p1147
-aVExile target creature you control, then return it to the battlefield under its owner's control.<br>Flashback {3}{U} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
-p1148
-aVDestroy target artifact or enchantment with converted mana cost X. It can't be regenerated. You gain X life.
-p1149
-aVTarget spell or permanent becomes colorless.
-p1150
-aVEcho {1}{R} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i><br>When Mogg War Marshal enters the battlefield or dies, put a 1/1 red Goblin creature token onto the battlefield.
-p1151
-ag1011
-ag1011
-ag1011
-ag1034
-aVExile an instant or sorcery spell you control: Put two +1/+1 counters on Nivmagus Elemental. <i>(That spell won't resolve.)</i>
-p1152
-aVG
-p1153
-ag1034
-ag1034
-ag1050
-aVWhen Mortus Strider dies, return it to its owner's hand.
-p1154
-aVMugging deals 2 damage to target creature. That creature can't block this turn.
-p1155
-aV{T}: You choose target creature an opponent controls, and that opponent chooses target creature. Flip a coin. If you win the flip, destroy the creature you chose. If you lose the flip, destroy the creature your opponent chose.
-p1156
-aVMonstrous Hound can't attack unless you control more lands than defending player.<br>Monstrous Hound can't block unless you control more lands than attacking player.
-p1157
-aVCumulative upkeep {1} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>{T}: Kjeldoran Javelineer deals damage equal to the number of age counters on it to target attacking or blocking creature.
-p1158
-aVIf Mox Diamond would enter the battlefield, you may discard a land card instead. If you do, put Mox Diamond onto the battlefield. If you don't, put it into its owner's graveyard.<br>{T}: Add one mana of any color to your mana pool.
-p1159
-aV{W}{W}, {T}: Destroy target black permanent.
-p1160
-aV{T}: Orcish Artillery deals 2 damage to target creature or player and 3 damage to you.
-p1161
-aVAttacking creatures you control get +1/+0.
-p1162
-aVEnchant creature<br>When Paralyze enters the battlefield, tap enchanted creature.<br>Enchanted creature doesn't untap during its controller's untap step.<br>At the beginning of the upkeep of enchanted creature's controller, that player may pay {4}. If he or she does, untap the creature.
-p1163
-aV{0}: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Any player may activate this ability, but only if he or she owns Personal Incarnation.<br>When Personal Incarnation dies, its owner loses half his or her life, rounded up.
-p1164
-aVAt the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence.<br>{B}: Pestilence deals 1 damage to each creature and each player.
-p1165
-aVFlying<br>At the beginning of your upkeep, sacrifice Phantasmal Forces unless you pay {U}.
-p1166
-aVEnchant land<br>As Phantasmal Terrain enters the battlefield, choose a basic land type.<br>Enchanted land is the chosen type.
-p1167
-aVFlying
-p1168
-aVSwampwalk
-p1169
-aVBlack creatures can't attack unless their controller sacrifices a land for each black creature he or she controls that's attacking.
-p1170
-aVWhen you control no Islands, sacrifice Skeleton Ship.<br>{T}: Put a -1/-1 counter on target creature.
-p1171
-ag1011
-aVMountainwalk
-p1172
-aVSearch your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
-p1173
-aVSkip your draw step.<br>Whenever you discard a card, exile that card from your graveyard.<br>Pay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step.
-p1174
-aVOrcish Conscripts can't attack unless at least two other creatures attack.<br><br>Orcish Conscripts can't block unless at least two other creatures block.
-p1175
-aVExile all cards from all graveyards.
-p1176
-aV{1}{B}, Discard a card: Exile target card from a graveyard.<br>{1}{B}, Sacrifice Mortiphobia: Exile target card from a graveyard.
-p1177
-aVAt the beginning of your upkeep, if twenty or more creature cards are in your graveyard, you win the game.
-p1178
-aV{R}: Molten Ravager gets +1/+0 until end of turn.
-p1179
-ag1011
-aVWhenever Murasa Pyromancer or another Ally enters the battlefield under your control, you may have Murasa Pyromancer deal damage to target creature equal to the number of Allies you control.
-p1180
-ag1011
-ag1011
-ag1034
-ag1034
-ag1034
-ag1034
-ag1034
-aVWhenever a creature enters the battlefield, Æther Flash deals 2 damage to it.
-p1181
-aV{3}: Patagia Golem gains flying until end of turn.
-p1182
-aVEnchant land<br>As Phantasmal Terrain enters the battlefield, choose a basic land type.<br>Enchanted land is the chosen type.
-p1183
-aVPhantom Warrior is unblockable.
-p1184
-aVDestroy target artifact or land. It can't be regenerated.
-p1185
-ag1034
-aVWhen Moriok Scavenger enters the battlefield, you may return target artifact creature card from your graveyard to your hand.
-p1186
-aVDestroy target land. If that land was nonbasic, Molten Rain deals 2 damage to the land's controller.
-p1187
-aVAt the beginning of each player's upkeep, that player sacrifices an artifact.
-p1188
-ag1153
-ag1050
-aVFlying
-p1189
-ag1034
-ag1034
-aVPentavus enters the battlefield with five +1/+1 counters on it.<br>{1}, Remove a +1/+1 counter from Pentavus: Put a 1/1 colorless Pentavite artifact creature token with flying onto the battlefield.<br>{1}, Sacrifice a Pentavite: Put a +1/+1 counter on Pentavus.
-p1190
-ag1034
-aV{1}: Target creature with power 5 or greater gains trample until end of turn.
-p1191
-ag1034
-ag1034
-ag1050
-ag1050
-aV{G}: Regenerate Ancient Silverback. <i>(The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</i>
-p1192
-aVSwampwalk <i>(This creature is unblockable as long as defending player controls a Swamp.)</i>
-p1193
-ag1034
-ag1034
-ag1034
-ag1034
-aVWhen Necromancer's Assistant enters the battlefield, put the top three cards of your library into your graveyard.
-p1194
-aV{T}: Target creature you control gains protection from the color of your choice until end of turn.
-p1195
-aV{1}{R}{R}: Put a +1/+1 counter on Molten Hydra.<br>{T}, Remove all +1/+1 counters from Molten Hydra: Molten Hydra deals damage to target creature or player equal to the number of +1/+1 counters removed this way.
-p1196
-aVPlay with the top card of your library revealed.<br>As long as the top card of your library is a creature card, Mul Daya Channelers gets +3/+3.<br>As long as the top card of your library is a land card, Mul Daya Channelers has "{T}: Add two mana of any one color to your mana pool."
-p1197
-aVEnchant creature<br>At the beginning of each upkeep, if enchanted creature is untapped, tap it.
-p1198
-aVDestroy target artifact or enchantment.
-p1199
-ag1034
-ag1034
-ag1050
-aVExchange your graveyard and library. Then shuffle your library.
-p1200
-aVMonstrous Hound can't attack unless you control more lands than defending player.<br>Monstrous Hound can't block unless you control more lands than attacking player.
-p1201
-aV<i>({T}: Add {U} to your mana pool.)</i><br>Moonring Island enters the battlefield tapped.<br>{U}, {T}: Look at the top card of target player's library. Activate this ability only if you control two or more blue permanents.
-p1202
-aVTap all creatures your opponents control and untap all creatures you control.
-p1203
-aVDestroy all Auras and Equipment attached to target creature.
-p1204
-ag1011
-ag1011
-ag1034
-ag1034
-ag1011
-aV<i>({GP} can be paid with either {G} or 2 life.)</i><br>Target creature gets +2/+2 until end of turn.
-p1205
-aVMycosynth Fiend gets +1/+1 for each poison counter your opponents have.
-p1206
-ag1013
-aVReturn target creature card from your graveyard to your hand.
-p1207
-aVLook at the top five cards of target player's library. Put any number of them on the bottom of that library in any order and the rest on top of the library in any order.
-p1208
-aVWhen Ravenous Rats enters the battlefield, target opponent discards a card.
-p1209
-aVReturn target instant or sorcery card from your graveyard to your hand.
-p1210
-aVUntap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.
-p1211
-aVCounter target creature spell.
-p1212
-aVShuffle any number of target creature cards from your graveyard into your library.
-p1213
-aVWhenever an artifact is put into a graveyard from the battlefield, you may put a +1/+1 counter on Moriok Rigger.
-p1214
-aVEnchant creature<br>{T}: Tap enchanted creature.<br>{T}: Untap enchanted creature.
-p1215
-aVWhen Brutal Nightstalker enters the battlefield, you may have target opponent discard a card.
-p1216
-aVWhen Ravenous Rats enters the battlefield, target opponent discards a card.
-p1217
-aVUntap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.
-p1218
-aVDestroy all tapped creatures. You gain 2 life for each creature destroyed this way.
-p1219
-aVIslandwalk <i>(This creature is unblockable as long as defending player controls an Island.)</i>
-p1220
-ag1011
-ag1011
-ag1011
-ag1011
-ag1011
-ag1011
-ag1011
-ag1011
-ag1011
-ag1011
-ag1011
-ag1011
-ag1011
-aVDefender <i>(This creature can't attack.)</i><br>{3}: Mobile Fort gets +3/-1 until end of turn and can attack this turn as though it didn't have defender. Activate this ability only once each turn.
-p1221
-aVWhen Monk Idealist enters the battlefield, return target enchantment card from your graveyard to your hand.
-p1222
-aVWhen Monk Realist enters the battlefield, destroy target enchantment.
-p1223
-aVEcho {1}{G} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i>
-p1224
-ag1011
-aVSacrifice No Rest for the Wicked: Return to your hand all creature cards in your graveyard that were put there from the battlefield this turn.
-p1225
-aVOkk can't attack unless a creature with greater power also attacks.<br>Okk can't block unless a creature with greater power also blocks.
-p1226
-aVWhenever a player casts a spell, that player discards a card.
-p1227
-aVCreatures without flying can't attack.
-p1228
-ag1011
-ag1011
-ag1011
-aVMountainwalk, protection from white
-p1229
-aVReach<br>{6}{G}: Monstrosity 4. <i>(If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)</i>
-p1230
-aVBestow {2}{B}{B} <i>(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)</i><br>Nighthowler and enchanted creature each get +X/+X, where X is the number of creature cards in all graveyards.
-p1231
-aVFlying<br>Cumulative upkeep\u2014Pay 1 life. <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i>
-p1232
-aVMorbid- When Morkrut Banshee enters the battlefield, if a creature died this turn, target creature gets -4/-4 until end of turn.
-p1233
-aVDestroy target creature or enchantment.
-p1234
-aV{3}{U}, {T}: Look at the top X cards of your library, where X is the highest converted mana cost among artifacts you control. You may reveal an artifact card from among them and put it onto the battlefield. Put the rest on the bottom of your library in any order.
-p1235
-aVDiscard a land card: Seismic Assault deals 2 damage to target creature or player.
-p1236
-aV{G}, Sacrifice a Forest: Foratog gets +2/+2 until end of turn.
-p1237
-ag1034
-ag1034
-aV{U}, {T}: You may tap or untap target creature.
-p1238
-aVPyroclasm deals 2 damage to each creature.
-p1239
-aVHaste <i>(This creature can attack and {T} as soon as it comes under your control.)</i>
-p1240
-aVWhenever Mossdog becomes the target of a spell or ability an opponent controls, put a +1/+1 counter on Mossdog.
-p1241
-aVYou may sacrifice two Mountains rather than pay Mogg Alarm's mana cost.<br>Put two 1/1 red Goblin creature tokens onto the battlefield.
-p1242
-aVIf an opponent controls an Island and you control a Mountain, you may cast Mogg Salvage without paying its mana cost.<br>Destroy target artifact.
-p1243
-aV{3}, {T}: Search your library for a Goblin permanent card and put it onto the battlefield. Then shuffle your library.
-p1244
-aVMogg Toady can't attack unless you control more creatures than defending player.<br>Mogg Toady can't block unless you control more creatures than attacking player.
-p1245
-aVDestroy target artifact or enchantment. Its controller gains 4 life.
-p1246
-aVMountainwalk, protection from white
-p1247
-aVEnchant creature<br>Enchanted creature gets -2/-0.<br>{B}: Return Mourning to its owner's hand.
-p1248
-aVTrample <i>(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</i><br>Molimo, Maro-Sorcerer's power and toughness are each equal to the number of lands you control.
-p1249
-ag1011
-ag1011
-ag1011
-ag1011
-aVBestow {2}{R} <i>(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)</i><br>Mogis's Warhound attacks each turn if able.<br>Enchanted creature gets +2/+2 and attacks each turn if able.
-p1250
-aVEnchant creature you control<br>Enchanted creature gets +1/+1.<br>Whenever enchanted creature deals combat damage to a player, you may sacrifice Mortal Obstinacy. If you do, destroy target enchantment.
-p1251
-aVExile target creature card from a graveyard, then put X 1/1 green Saproling creature tokens onto the battlefield, where X is the exiled card's toughness.
-p1252
-aVWhenever Mycoid Shepherd or another creature you control with power 5 or greater dies, you may gain 5 life.
-p1253
-aVYou may choose not to untap Mole Worms during your untap step.<br>{T}: Tap target land. It doesn't untap during its controller's untap step for as long as Mole Worms remains tapped.
-p1254
-aVAttacking creatures you control get +1/+0.
-p1255
-aVFlying
-p1256
-aVEnchant creature<br>When Paralyze enters the battlefield, tap enchanted creature.<br>Enchanted creature doesn't untap during its controller's untap step.<br>At the beginning of the upkeep of enchanted creature's controller, that player may pay {4}. If he or she does, untap the creature.
-p1257
-aV{4}, {T}: The next time a source of your choice would deal damage to you this turn, prevent that damage.
-p1258
-aVAt the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence.<br>{B}: Pestilence deals 1 damage to each creature and each player.
-p1259
-aVFlying<br>At the beginning of your upkeep, sacrifice Phantasmal Forces unless you pay {U}.
-p1260
-aVTrample <i>(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</i><br>Molimo, Maro-Sorcerer's power and toughness are each equal to the number of lands you control.
-p1261
-aVWhen you set this scheme in motion, each opponent's life total becomes the lowest life total among your opponents.
-p1262
-aVHideaway <i>(This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)</i><br>{T}: Add {G} to your mana pool.<br>{G}, {T}: You may play the exiled card without paying its mana cost if creatures you control have total power 10 or greater.
-p1263
-ag1011
-ag1011
-ag1011
-aVDefender, flying<br>Morph {U} <i>(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
-p1264
-aVHaste<br>Prowess <i>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i>
-p1265
-ag1011
-aVDelve <i>(Each card you exile from your graveyard while casting this spell pays for {1}.)</i><br>Destroy target creature.
-p1266
-aVKicker {1}{G} <i>(You may pay an additional {1}{G} as you cast this spell.)</i><br>When Mold Shambler enters the battlefield, if it was kicked, destroy target noncreature permanent.
-p1267
-aVRocky Tar Pit enters the battlefield tapped.<br>{T}, Sacrifice Rocky Tar Pit: Search your library for a Swamp or Mountain card and put it onto the battlefield. Then shuffle your library.
-p1268
-ag1011
-ag1011
-ag1011
-ag1011
-aVSearch your library for an instant or sorcery card and reveal that card. Shuffle your library, then put the card on top of it.
-p1269
-aV{X}, Discard a card: Put a token onto the battlefield that's a copy of a creature card with converted mana cost X chosen at random. Activate this ability only any time you could cast a sorcery and only once each turn.
-p1270
-aVAt the beginning of your upkeep, you lose 1 life for each permanent you control.
-p1271
-aVTarget creature gets +2/+2 and gains lifelink until end of turn. <i>(Damage dealt by the creature also causes its controller to gain that much life.)</i>
-p1272
-aVFlying
-p1273
-aVTransform all Humans. Prevent all combat damage that would be dealt this turn by creatures other than Werewolves and Wolves. <i>(Only double-faced cards can be transformed.)</i>
-p1274
-aV{T}: Add {1} to your mana pool.<br>{W}{U}, {T}, Exile a creature card from your graveyard: Put a 1/1 white Spirit creature token with flying onto the battlefield.
-p1275
-aVMorbid- When Morkrut Banshee enters the battlefield, if a creature died this turn, target creature gets -4/-4 until end of turn.
-p1276
-ag1011
-aVReveal the top four cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard.
-p1277
-aVFlying<br>Whenever another creature dies, you may draw a card. If you do, discard a card.
-p1278
-ag1013
-ag1013
-aVRock Hydra enters the battlefield with X +1/+1 counters on it.<br>For each 1 damage that would be dealt to Rock Hydra, if it has a +1/+1 counter on it, remove a +1/+1 counter from it and prevent that 1 damage.<br>{R}: Prevent the next 1 damage that would be dealt to Rock Hydra this turn.<br>{R}{R}{R}: Put a +1/+1 counter on Rock Hydra. Activate this ability only during your upkeep.
-p1279
-aVRemove Contract from Below from your deck before playing if you're not playing for ante.<br>Discard your hand, add the top card of your library to the ante, then draw seven cards.
-p1280
-aVEnchant land<br>At the beginning of the upkeep of enchanted land's controller, Cursed Land deals 1 damage to that player.
-p1281
-aVRemove Darkpact from your deck before playing if you're not playing for ante.<br>You own target card in the ante. Exchange that card with the top card of your library.
-p1282
-aVChoose one- Counter target blue spell; or destroy target blue permanent.
-p1283
-aVEnchant creature<br>Enchanted creature has protection from red. This effect doesn't remove Red Ward.
-p1284
-aVEnchant creature <i>(Target a creature as you cast this. This card enters the battlefield attached to that creature.)</i><br>{G}: Regenerate enchanted creature. <i>(The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</i>
-p1285
-ag1013
-aV{G}, {T}: Target land becomes a 2/2 green creature that's still a land. <i>(This effect lasts indefinitely.)</i>
-p1286
-aVOgre Enforcer can't be destroyed by lethal damage unless lethal damage dealt by a single source is marked on it.
-p1287
-ag1011
-ag1011
-aVReach <i>(This creature can block creatures with flying.)</i>
-p1288
-aVTarget creature you control with a +1/+1 counter on it fights target creature an opponent controls. <i>(Each deals damage equal to its power to the other.)</i>
-p1289
-aVWhen another creature enters the battlefield, sacrifice Mogg Bombers and it deals 3 damage to target player.
-p1290
-aVMogg Flunkies can't attack or block alone.
-p1291
-aVMob Justice deals damage to target player equal to the number of creatures you control.
-p1292
-aVDestroy all creatures target player controls. For each creature that died this way, put two 1/1 red Goblin creature tokens onto the battlefield under that player's control.
-p1293
-aVWhenever Mogg Maniac is dealt damage, it deals that much damage to target opponent.
-p1294
-aVSacrifice Morgue Thrull: Put the top three cards of your library into your graveyard.
-p1295
-aVWhenever a creature is put into your graveyard from the battlefield, put that card on top of your library.
-p1296
-aVIf Mox Diamond would enter the battlefield, you may discard a land card instead. If you do, put Mox Diamond onto the battlefield. If you don't, put it into its owner's graveyard.<br>{T}: Add one mana of any color to your mana pool.
-p1297
-aVWhenever a player casts a spell, counter it unless its controller pays {3}.
-p1298
-aVEnchant creature<br>Enchanted creature can't be the target of spells and can't be enchanted. This effect doesn't remove Anti-Magic Aura.
-p1299
-aVDiscard X cards, then return a card from your graveyard to your hand for each card discarded this way. Exile Recall.
-p1300
-aV{2}, {T}: Put a charge counter on Red Mana Battery.<br><br>{T}, Remove any number of charge counters from Red Mana Battery: Add {R} to your mana pool, then add an additional {R} to your mana pool for each charge counter removed this way.
-p1301
-aV{T}: Tap target artifact.
-p1302
-aVWhenever you cast a green creature spell, you may search your library for a creature card and reveal it. If you do, shuffle your library and put that card on top of it.<br>Whenever you cast a blue creature spell, reveal the top card of your library. If it's a creature card, put that card into your hand.
-p1303
-ag1011
-ag1011
-ag1011
-ag1011
-aVDeathtouch <i>(Any amount of damage this deals to a creature is enough to destroy it.)</i>
-p1304
-aVSacrifice Moonglove Extract: Moonglove Extract deals 2 damage to target creature or player.
-p1305
-aVHideaway <i>(This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)</i><br>{T}: Add {G} to your mana pool.<br>{G}, {T}: You may play the exiled card without paying its mana cost if creatures you control have total power 10 or greater.
-p1306
-aVWhen Mournwhelk enters the battlefield, target player discards two cards.<br>Evoke {3}{B} <i>(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</i>
-p1307
-ag1011
-ag1011
-ag1011
-ag1034
-aVTrample
-p1308
-aVTrample
-p1309
-ag1011
-aVAll Sliver creatures get +1/+1.
-p1310
-aVCounter target noncreature spell.
-p1311
-ag1013
-ag1013
-ag1013
-aVWhen Corrupt Court Official enters the battlefield, target opponent discards a card.
-p1312
-aVDestroy target land.
-p1313
-ag1050
-ag1050
-aVTrample
-p1314
-aVTarget creature gets +2/+2 and gains lifelink until end of turn. <i>(Damage dealt by the creature also causes its controller to gain that much life.)</i>
-p1315
-ag1011
-ag1011
-ag1011
-ag1011
-ag1011
-aVSacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.
-p1316
-aVMogg Flunkies can't attack or block alone.
-p1317
-aVWhen Plant Elemental enters the battlefield, sacrifice it unless you sacrifice a Forest.
-p1318
-aVEach player draws X cards.
-p1319
-aVPyroclasm deals 2 damage to each creature.
-p1320
-aVHaste <i>(This creature can attack and {T} as soon as it comes under your control.)</i>
-p1321
-aVHaste <i>(This creature can attack and {T} as soon as it comes under your control.)</i>
-p1322
-aVDestroy target land.
-p1323
-aVReturn target creature card from your graveyard to your hand.
-p1324
-aVYou gain 4 life.
-p1325
-aVScorching Spear deals 1 damage to target creature or player.
-p1326
-aVMogg Jailer can't attack if defending player controls an untapped creature with power 2 or less.
-p1327
-aVSacrifice Morgue Toad: Add {U}{R} to your mana pool.
-p1328
-aVWhenever an opponent casts a spell, Mogg Sentry gets +2/+2 until end of turn.
-p1329
-aVFlying<br>{R}: Each creature you control gets +1/+0 until end of turn.
-p1330
-aVReturn target instant or sorcery card from your graveyard to your hand.<br>Flashback {2}{R} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
-p1331
-aVUndying <i>(When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</i>
-p1332
-asS'costs'
-p1333
-(lp1334
-V{R}
-p1335
-aV{1}{R}
-p1336
-aV{R}
-p1337
-aS'0'
-p1338
-ag1338
-ag1338
-aV{U}
-p1339
-aV{1}{W}
-p1340
-aV{1}{W}{B}
-p1341
-aV{2}{B}{B}
-p1342
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-aV{1}{W}
-p1343
-ag1338
-aV{0}
-p1344
-aV{0}
-p1345
-aV{R}
-p1346
-ag1338
-ag1338
-ag1338
-aV{0}
-p1347
-aV{0}
-p1348
-aV{0}
-p1349
-aV{2}{U}
-p1350
-aV{1}{W}{W}
-p1351
-aV{2}{G}
-p1352
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-aV{2}{B}
-p1353
-aV{U}
-p1354
-aV{W}
-p1355
-aV{2}{B}{B}
-p1356
-aV{1}{R}
-p1357
-ag1338
-ag1338
-ag1338
-ag1338
-aV{1}{W}{W}
-p1358
-aV{R}
-p1359
-ag1338
-ag1338
-ag1338
-aV{4}{R}
-p1360
-aV{2}{R/W}{G}
-p1361
-aV{2}{B}
-p1362
-ag1338
-ag1338
-aV{3}{R}{R}{R}
-p1363
-ag1338
-ag1338
-ag1338
-ag1338
-aV{3}
-p1364
-aV{6}
-p1365
-aV{4}{G}
-p1366
-aV{1}{R}{R}
-p1367
-aV{4}
-p1368
-ag1338
-aV{2}{B}
-p1369
-ag1338
-ag1338
-ag1338
-aV{4}{G}
-p1370
-aV{2}{B}{R}
-p1371
-aV{W}
-p1372
-aV{2}{B}
-p1373
-ag1338
-ag1338
-ag1338
-ag1338
-aV{3}{U}{U}
-p1374
-ag1338
-aV{2}
-p1375
-aV{3}{G}
-p1376
-aV{R}
-p1377
-aV{R}
-p1378
-aV{1}{R}
-p1379
-aV{3}{W}
-p1380
-aV{R}
-p1381
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-aV{4}{G}{G}{G}
-p1382
-aV{2}{B}{B}
-p1383
-ag1338
-aV{2}{W}
-p1384
-aV{R}
-p1385
-aV{2}{B}{B}
-p1386
-ag1338
-ag1338
-ag1338
-aV{2}{W}
-p1387
-aV{W}
-p1388
-aV{B}
-p1389
-aV{5}
-p1390
-ag1338
-ag1338
-ag1338
-ag1338
-aV{4}{U}{U}
-p1391
-ag1338
-aV{3}{W}
-p1392
-aV{3}{U}{U}
-p1393
-aV{0}
-p1394
-aV{0}
-p1395
-aV{0}
-p1396
-aV{2}{G}
-p1397
-aV{1}{R}
-p1398
-aV{X}{R}{R}
-p1399
-aV{U}
-p1400
-aV{1}{W}{W}
-p1401
-ag1338
-ag1338
-aV{1}{B}{B}
-p1402
-aV{2}
-p1403
-aV{1}{G}
-p1404
-aV{R}
-p1405
-aV{1}{G}
-p1406
-ag1338
-ag1338
-aV{2}{B}
-p1407
-ag1338
-ag1338
-ag1338
-aV{R}
-p1408
-ag1338
-ag1338
-ag1338
-aV{1}{W/B}
-p1409
-aV{1}{W}{B}
-p1410
-aV{1}
-p1411
-aV{R}
-p1412
-aV{2}{B}{B}
-p1413
-ag1338
-ag1338
-ag1338
-ag1338
-aV{3}{G}
-p1414
-aV{2}{R/W}
-p1415
-aV{1}{R}
-p1416
-ag1338
-aV{2}{U}{U}
-p1417
-aV{2}{U}{U}
-p1418
-aV{2}{W}
-p1419
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-aV{1}{W}{B}
-p1420
-ag1338
-ag1338
-ag1338
-aV{2}{W}
-p1421
-ag1338
-ag1338
-ag1338
-ag1338
-aV{3}{W}
-p1422
-aV{5}
-p1423
-aV{5}{G}
-p1424
-ag1338
-ag1338
-ag1338
-ag1338
-aV{3}{W}
-p1425
-aV{2}{G}
-p1426
-aV{2}{U}{B}
-p1427
-aV{3}{B}
-p1428
-aV{2}{G}
-p1429
-aV{3}{R}
-p1430
-aV{3}{B}{B}
-p1431
-ag1338
-ag1338
-ag1338
-ag1338
-aV{3}{G}
-p1432
-aV{X}{R}{R}
-p1433
-ag1338
-ag1338
-ag1338
-aV{1}{B}
-p1434
-aV{4}{B}{B}
-p1435
-ag1338
-aV{1}{R}
-p1436
-aV{1}
-p1437
-aV{1}{G}
-p1438
-aV{2}{B}{B}
-p1439
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-aV{1}{W}
-p1440
-aV{X}{G}
-p1441
-aV{U}
-p1442
-aV{1}{R}
-p1443
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-aV{X}{U}{B}
-p1444
-aV{4}{U}
-p1445
-aV{2}{R}
-p1446
-aV{3}{R}
-p1447
-ag1338
-aV{0}
-p1448
-aV{R}
-p1449
-ag1338
-ag1338
-ag1338
-aV{0}
-p1450
-aV{0}
-p1451
-aV{0}
-p1452
-aV{0}
-p1453
-aV{0}
-p1454
-aV{3}{B}
-p1455
-aV{2}{R}{G}
-p1456
-aV{2}{B}{R}
-p1457
-aV{2}{B}
-p1458
-ag1338
-ag1338
-ag1338
-aV{R}
-p1459
-aV{1}{W}
-p1460
-aV{1}{B}{B}
-p1461
-aV{2}{B}{B}
-p1462
-aV{B}
-p1463
-aV{3}{G}
-p1464
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-aV{2}
-p1465
-ag1338
-ag1338
-ag1338
-ag1338
-aV{R}
-p1466
-aV{3}{B}
-p1467
-aV{1}{R}{R}
-p1468
-aV{3}{G}{G}
-p1469
-aV{4}
-p1470
-ag1338
-ag1338
-ag1338
-ag1338
-aV{1}{W}
-p1471
-aV{3}
-p1472
-aV{4}{G}
-p1473
-ag1338
-ag1338
-ag1338
-ag1338
-aV{1}{G}
-p1474
-aV{2}
-p1475
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-aV{W}
-p1476
-aV{1}{R}
-p1477
-aV{4}{U}
-p1478
-aV{2}{G}{G}
-p1479
-ag1338
-ag1338
-ag1338
-ag1338
-aV{5}{B}{B}
-p1480
-aV{3}{R}
-p1481
-ag1338
-aV{5}{G}{G}
-p1482
-aV{4}{R/G}{R/G}
-p1483
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-aV{5}{U}
-p1484
-aV{4}{RP}{RP}
-p1485
-ag1338
-aV{R}
-p1486
-aV{1}{G}
-p1487
-aV{1}{G}
-p1488
-ag1338
-ag1338
-ag1338
-ag1338
-aV{2}{B}
-p1489
-aV{X}{R}{R}
-p1490
-aV{2}{B}
-p1491
-aV{1}{G}
-p1492
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-aV{4}
-p1493
-aV{2}{W}
-p1494
-aV{1}{W}
-p1495
-aV{3}{U}{U}
-p1496
-ag1338
-ag1338
-ag1338
-ag1338
-aV{2}{W}{W}
-p1497
-ag1338
-ag1338
-ag1338
-aV{2}{R}{R}
-p1498
-aV{X}{G}
-p1499
-ag1338
-aV{3}{B}{B}
-p1500
-aV{3}{U}{U}
-p1501
-aV{1}{W}
-p1502
-aV{3}{B}{B}
-p1503
-aV{R}
-p1504
-aV{3}{G}{G}
-p1505
-aV{1}{G}
-p1506
-ag1338
-ag1338
-ag1338
-ag1338
-aV{G}
-p1507
-aV{1}{R}{R}
-p1508
-aV{2}{R}
-p1509
-aV{2}{R}{R}
-p1510
-aV{1}{R}
-p1511
-aV{B}
-p1512
-aV{2}{R}{R}
-p1513
-aV{1}{B}
-p1514
-aV{4}{G}{G}{G}
-p1515
-ag1338
-ag1338
-ag1338
-ag1338
-aV{1}{B}{B}
-p1516
-aV{1}{R}
-p1517
-aV{3}{B}{R}
-p1518
-aV{4}{B}{G}
-p1519
-aV{2}{B}
-p1520
-aV{R}
-p1521
-aV{R}
-p1522
-ag1338
-ag1338
-ag1338
-ag1338
-aV{4}{G}{G}{G}
-p1523
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-aV{B}
-p1524
-aV{2}{U}
-p1525
-aV{R}
-p1526
-ag1338
-aV{2}{U}
-p1527
-ag1338
-aV{2}
-p1528
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-aV{1}{U}
-p1529
-aV{3}{U}{U}
-p1530
-aV{2}{B}{B}
-p1531
-aV{4}{G}{G}{G}
-p1532
-aV{1}{W}
-p1533
-ag1338
-aV{3}{U}
-p1534
-ag1338
-ag1338
-ag1338
-aV{R}
-p1535
-aV{0}
-p1536
-aV{0}
-p1537
-aV{0}
-p1538
-ag1338
-aV{0}
-p1539
-aV{0}
-p1540
-ag1338
-aV{G}
-p1541
-aV{R}
-p1542
-ag1338
-ag1338
-ag1338
-aV{4}{B}{R}
-p1543
-aV{3}{R}
-p1544
-aV{1}{R}
-p1545
-aV{1}{R}
-p1546
-aV{3}{R}{R}
-p1547
-aV{1}{R}
-p1548
-aV{2}{B}
-p1549
-aV{3}{B}
-p1550
-aV{0}
-p1551
-aV{5}{B}{B}
-p1552
-ag1338
-aV{2}{W}{W}
-p1553
-aV{3}{G}{G}
-p1554
-aV{2}{R}{R}
-p1555
-aV{3}{G}{U}
-p1556
-ag1338
-ag1338
-ag1338
-ag1338
-aV{3}{B}
-p1557
-aV{3}
-p1558
-ag1338
-aV{1}{G}
-p1559
-ag1338
-ag1338
-ag1338
-ag1338
-aV{2}{W}{W}
-p1560
-aV{2}{W}{W}
-p1561
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-aV{R}
-p1562
-ag1338
-ag1338
-ag1338
-aV{2}{W}{W}
-p1563
-aV{1}{W}
-p1564
-ag1338
-ag1338
-ag1338
-ag1338
-ag1338
-aV{R}
-p1565
-aV{1}{R}
-p1566
-aV{G}
-p1567
-aV{1}{G}
-p1568
-aV{1}{G}
-p1569
-aV{1}{G}
-p1570
-ag1338
-ag1338
-ag1338
-ag1338
-aV{R}
-p1571
-aV{1}{R}
-p1572
-aV{2}{B}
-p1573
-aV{R}
-p1574
-aV{3}{R}
-p1575
-ag1338
-aV{3}{R}{R}{R}
-p1576
-asS'names'
-p1577
-(lp1578
-VMogg Fanatic
-p1579
-aVMogg Flunkies
-p1580
-aVMogg Raider
-p1581
-aVMountain
-p1582
-aVMountain
-p1583
-aVMolten Slagheap
-p1584
-aVMonk Realist
-p1585
-aVMortify
-p1586
-aVMortivore
-p1587
-aVMother of Runes
-p1588
-aVMountain
-p1589
-aVMountain
-p1590
-aVMountain
-p1591
-aVMountain
-p1592
-aVMountain
-p1593
-aVMountain
-p1594
-aVMountain
-p1595
-aVMonomania
-p1596
-aVMountain
-p1597
-aVMox Jet
-p1598
-aVMox Ruby
-p1599
-aVMons's Goblin Raiders
-p1600
-aVMountain
-p1601
-aVMountain
-p1602
-aVMountain
-p1603
-aVMox Emerald
-p1604
-aVMox Pearl
-p1605
-aVMox Sapphire
-p1606
-aVMoonbow Illusionist
-p1607
-aVMoonwing Moth
-p1608
-aVMolting Skin
-p1609
-aVMogg Hollows
-p1610
-aVMountain
-p1611
-aVMountain
-p1612
-aVMountain
-p1613
-aVMountain
-p1614
-aVMountain
-p1615
-aVMountain
-p1616
-aVMountain
-p1617
-aVMountain
-p1618
-aVMountain
-p1619
-aVMoonglove Changeling
-p1620
-aVMothdust Changeling
-p1621
-aVMosquito Guard
-p1622
-aVMorsel Theft
-p1623
-aVMogg Flunkies
-p1624
-aVMountain
-p1625
-aVMountain
-p1626
-aVMountain
-p1627
-aVMountain
-p1628
-aVMorale
-p1629
-aVMons's Goblin Raiders
-p1630
-aVMountain
-p1631
-aVMountain
-p1632
-aVMountain
-p1633
-aVMolten Firebird
-p1634
-aVMorgue Toad
-p1635
-aVMoroii
-p1636
-aVMountain
-p1637
-aVMountain
-p1638
-aVMordant Dragon
-p1639
-aVMountain
-p1640
-aVMountain
-p1641
-aVMountain
-p1642
-aVMountain
-p1643
-aVMolder Beast
-p1644
-aVMolten Psyche
-p1645
-aVMolten-Tail Masticore
-p1646
-aVMoriok Reaver
-p1647
-aVMoriok Replica
-p1648
-aVMountain
-p1649
-aVMox Opal
-p1650
-aVMountain
-p1651
-aVMountain
-p1652
-aVMountain
-p1653
-aVMogis, God of Slaughter
-p1654
-aVMortal's Ardor
-p1655
-aVMortal's Resolve
-p1656
-aVMold Adder
-p1657
-aVMountain
-p1658
-aVMountain
-p1659
-aVMountain
-p1660
-aVMountain
-p1661
-aVMolten Birth
-p1662
-aVMountain
-p1663
-aVMogg Cannon
-p1664
-aVMongrel Pack
-p1665
-aVMogg Conscripts
-p1666
-aVMogg Raider
-p1667
-aVMogg Squad
-p1668
-aVMounted Archers
-p1669
-aVMogg Fanatic
-p1670
-aVMogg Hollows
-p1671
-aVMountain
-p1672
-aVMountain
-p1673
-aVMountain
-p1674
-aVMountain
-p1675
-aVMolimo, Maro-Sorcerer
-p1676
-aVMortivore
-p1677
-aVMountain
-p1678
-aVMobilization
-p1679
-aVMogg Fanatic
-p1680
-aVMortal Combat
-p1681
-aVMountain
-p1682
-aVMountain
-p1683
-aVMountain
-p1684
-aVMoonlit Wake
-p1685
-aVMoment of Silence
-p1686
-aVMolting Harpy
-p1687
-aVMonkey Cage
-p1688
-aVMountain
-p1689
-aVMountain
-p1690
-aVMountain
-p1691
-aVMountain
-p1692
-aVMorphling
-p1693
-aVMountain Valley
-p1694
-aVMox Emerald
-p1695
-aVMox Jet
-p1696
-aVMox Pearl
-p1697
-aVMox Ruby
-p1698
-aVMox Sapphire
-p1699
-aVMoldervine Cloak
-p1700
-aVMogg War Marshal
-p1701
-aVMolten Disaster
-p1702
-aVMothdust Changeling
-p1703
-aVMorale
-p1704
-aVMountain
-p1705
-aVMountain
-p1706
-aVMorbid Plunder
-p1707
-aVMortarpod
-p1708
-aVMoon Sprite
-p1709
-aVMons's Goblin Raiders
-p1710
-aVMonstrous Growth
-p1711
-aVMountain
-p1712
-aVMountain
-p1713
-aVMournful Zombie
-p1714
-aVMountain
-p1715
-aVMountain
-p1716
-aVMountain
-p1717
-aVMons's Goblin Raiders
-p1718
-aVMountain
-p1719
-aVMountain
-p1720
-aVMountain
-p1721
-aVMourning Thrull
-p1722
-aVMortify
-p1723
-aVMoratorium Stone
-p1724
-aVMogg Sentry
-p1725
-aVMortivore
-p1726
-aVMountain
-p1727
-aVMountain
-p1728
-aVMountain
-p1729
-aVMountain
-p1730
-aVMonstrify
-p1731
-aVMoonhold
-p1732
-aVMolten Frame
-p1733
-aVMountain
-p1734
-aVMoonlight Geist
-p1735
-aVMoonsilver Spear
-p1736
-aVMoorland Inquisitor
-p1737
-aVMountain
-p1738
-aVMountain
-p1739
-aVMorphic Tide
-p1740
-aVMount Keralia
-p1741
-aVMountain
-p1742
-aVMountain
-p1743
-aVMountain
-p1744
-aVMountain
-p1745
-aVMortify
-p1746
-aVMountain
-p1747
-aVMountain
-p1748
-aVMountain
-p1749
-aVMobilization
-p1750
-aVMountain
-p1751
-aVMountain
-p1752
-aVMountain
-p1753
-aVMountain
-p1754
-aVMothrider Samurai
-p1755
-aVMoonring Mirror
-p1756
-aVMoss Kami
-p1757
-aVMountain
-p1758
-aVMountain
-p1759
-aVMountain
-p1760
-aVMountain
-p1761
-aVMoonlit Strider
-p1762
-aVMomentum
-p1763
-aVMoroii
-p1764
-aVMortipede
-p1765
-aVMoldervine Cloak
-p1766
-aVMolten Sentry
-p1767
-aVMoonlight Bargain
-p1768
-aVMountain
-p1769
-aVMountain
-p1770
-aVMountain
-p1771
-aVMountain
-p1772
-aVMold Shambler
-p1773
-aVMolten Disaster
-p1774
-aVMolten Slagheap
-p1775
-aVMosswort Bridge
-p1776
-aVMountain
-p1777
-aVMorgue Theft
-p1778
-aVMorbid Hunger
-p1779
-aVMossfire Valley
-p1780
-aVMolten Influence
-p1781
-aVMossfire Egg
-p1782
-aVMoment's Peace
-p1783
-aVMortivore
-p1784
-aVMountain
-p1785
-aVMountain
-p1786
-aVMountain
-p1787
-aVMountain
-p1788
-aVMolten Slagheap
-p1789
-aVMomentary Blink
-p1790
-aVMolder
-p1791
-aVMoonlace
-p1792
-aVMogg War Marshal
-p1793
-aVMountain
-p1794
-aVMountain
-p1795
-aVMountain
-p1796
-aVMountain
-p1797
-aVMountain
-p1798
-aVMountain
-p1799
-aVMountain
-p1800
-aVMountain
-p1801
-aVMountain
-p1802
-aVMolten Primordial
-p1803
-aVMortus Strider
-p1804
-aVMogg Assassin
-p1805
-aVMonstrous Hound
-p1806
-aVMouth of Ronom
-p1807
-aVMox Diamond
-p1808
-aVMons's Goblin Raiders
-p1809
-aVMountain
-p1810
-aVMountain
-p1811
-aVMountain
-p1812
-aVMox Emerald
-p1813
-aVMox Jet
-p1814
-aVMox Pearl
-p1815
-aVMox Ruby
-p1816
-aVMox Sapphire
-p1817
-aVMoor Fiend
-p1818
-aVMonsoon
-p1819
-aVMountain Titan
-p1820
-aVMole Worms
-p1821
-aVMountain
-p1822
-aVMountain
-p1823
-aVMountain
-p1824
-aVMountain Goat
-p1825
 aVMorningtide
+p537
+aVMorningtide
+p538
+aVMorningtide
+p539
+aVMorningtide
+p540
+aVMagic 2013
+p541
+aVMagic 2013
+p542
+aVMagic 2013
+p543
+aVMagic 2013
+p544
+aVMagic 2013
+p545
+aVFourth Edition
+p546
+aVFourth Edition
+p547
+aVFourth Edition
+p548
+aVFourth Edition
+p549
+aVFourth Edition
+p550
+aVPlanar Chaos
+p551
+aVDuel Decks: Ajani vs. Nicol Bolas
+p552
+aVDuel Decks: Ajani vs. Nicol Bolas
+p553
+aVDuel Decks: Ajani vs. Nicol Bolas
+p554
+aVDuel Decks: Ajani vs. Nicol Bolas
+p555
+aVDuel Decks: Knights vs. Dragons
+p556
+aVDuel Decks: Knights vs. Dragons
+p557
+aVDuel Decks: Knights vs. Dragons
+p558
+aVDuel Decks: Knights vs. Dragons
+p559
+aVDuel Decks: Knights vs. Dragons
+p560
+aVScars of Mirrodin
+p561
+aVScars of Mirrodin
+p562
+aVScars of Mirrodin
+p563
+aVScars of Mirrodin
+p564
+aVScars of Mirrodin
+p565
+aVScars of Mirrodin
+p566
+aVScars of Mirrodin
+p567
+aVScars of Mirrodin
+p568
+aVScars of Mirrodin
+p569
+aVScars of Mirrodin
+p570
+aVBorn of the Gods
+p571
+aVBorn of the Gods
+p572
+aVBorn of the Gods
+p573
+aVMagic 2010
+p574
+aVMagic 2010
+p575
+aVMagic 2010
+p576
+aVMagic 2010
+p577
+aVMagic 2010
+p578
+aVMagic 2014 Core Set
+p579
+aVMagic 2014 Core Set
+p580
+aVTempest
+p581
+aVTempest
+p582
+aVTempest
+p583
+aVTempest
+p584
+aVTempest
+p585
+aVTempest
+p586
+aVTempest
+p587
+aVTempest
+p588
+aVTempest
+p589
+aVTempest
+p590
+aVTempest
+p591
+aVTempest
+p592
+aVTenth Edition
+p593
+aVTenth Edition
+p594
+aVTenth Edition
+p595
+aVTenth Edition
+p596
+aVTenth Edition
+p597
+aVTenth Edition
+p598
+aVTenth Edition
+p599
+aVTenth Edition
+p600
+aVTenth Edition
+p601
+aVMercadian Masques
+p602
+aVMercadian Masques
+p603
+aVMercadian Masques
+p604
+aVMercadian Masques
+p605
+aVMercadian Masques
+p606
+aVMercadian Masques
+p607
+aVMercadian Masques
+p608
+aVMercadian Masques
+p609
+aVVintage Masters
+p610
+aVVintage Masters
+p611
+aVVintage Masters
+p612
+aVVintage Masters
+p613
+aVVintage Masters
+p614
+aVVintage Masters
+p615
+aVVintage Masters
+p616
+aVModern Masters
+p617
+aVModern Masters
+p618
+aVModern Masters
+p619
+aVModern Masters
+p620
+aVThe Dark
+p621
+aVMirrodin Besieged
+p622
+aVMirrodin Besieged
+p623
+aVMirrodin Besieged
+p624
+aVMirrodin Besieged
+p625
+aVStarter 2000
+p626
+aVStarter 2000
+p627
+aVStarter 2000
+p628
+aVStarter 2000
+p629
+aVStarter 2000
+p630
+aVApocalypse
+p631
+aVMasters Edition III
+p632
+aVMasters Edition III
+p633
+aVMasters Edition III
+p634
+aVRevised Edition
+p635
+aVRevised Edition
+p636
+aVRevised Edition
+p637
+aVRevised Edition
+p638
+aVGuildpact
+p639
+aVGuildpact
+p640
+aVGuildpact
+p641
+aVNinth Edition
+p642
+aVNinth Edition
+p643
+aVNinth Edition
+p644
+aVNinth Edition
+p645
+aVNinth Edition
+p646
+aVNinth Edition
+p647
+aVEventide
+p648
+aVEventide
+p649
+aVConflux
+p650
+aVAvacyn Restored
+p651
+aVAvacyn Restored
+p652
+aVAvacyn Restored
+p653
+aVAvacyn Restored
+p654
+aVAvacyn Restored
+p655
+aVAvacyn Restored
+p656
+aVPlanechase 2012 Edition
+p657
+aVPlanechase 2012 Edition
+p658
+aVPlanechase 2012 Edition
+p659
+aVPlanechase 2012 Edition
+p660
+aVPlanechase 2012 Edition
+p661
+aVPlanechase 2012 Edition
+p662
+aVDuel Decks: Sorin vs. Tibalt
+p663
+aVDuel Decks: Sorin vs. Tibalt
+p664
+aVDuel Decks: Sorin vs. Tibalt
+p665
+aVDuel Decks: Sorin vs. Tibalt
+p666
+aVOnslaught
+p667
+aVOnslaught
+p668
+aVOnslaught
+p669
+aVOnslaught
+p670
+aVOnslaught
+p671
+aVChampions of Kamigawa
+p672
+aVChampions of Kamigawa
+p673
+aVChampions of Kamigawa
+p674
+aVChampions of Kamigawa
+p675
+aVChampions of Kamigawa
+p676
+aVChampions of Kamigawa
+p677
+aVChampions of Kamigawa
+p678
+aVBetrayers of Kamigawa
+p679
+aVUrza's Destiny
+p680
+aVRavnica: City of Guilds
+p681
+aVRavnica: City of Guilds
+p682
+aVRavnica: City of Guilds
+p683
+aVRavnica: City of Guilds
+p684
+aVRavnica: City of Guilds
+p685
+aVRavnica: City of Guilds
+p686
+aVRavnica: City of Guilds
+p687
+aVRavnica: City of Guilds
+p688
+aVRavnica: City of Guilds
+p689
+aVCommander 2013 Edition
+p690
+aVCommander 2013 Edition
+p691
+aVCommander 2013 Edition
+p692
+aVCommander 2013 Edition
+p693
+aVCommander 2013 Edition
+p694
+aVOdyssey
+p695
+aVOdyssey
+p696
+aVOdyssey
+p697
+aVOdyssey
+p698
+aVOdyssey
+p699
+aVOdyssey
+p700
+aVOdyssey
+p701
+aVOdyssey
+p702
+aVOdyssey
+p703
+aVOdyssey
+p704
+aVOdyssey
+p705
+aVTime Spiral
+p706
+aVTime Spiral
+p707
+aVTime Spiral
+p708
+aVTime Spiral
+p709
+aVTime Spiral
+p710
+aVTime Spiral
+p711
+aVTime Spiral
+p712
+aVTime Spiral
+p713
+aVTime Spiral
+p714
+aVReturn to Ravnica
+p715
+aVReturn to Ravnica
+p716
+aVReturn to Ravnica
+p717
+aVReturn to Ravnica
+p718
+aVReturn to Ravnica
+p719
+aVGatecrash
+p720
+aVGatecrash
+p721
+aVExodus
+p722
+aVExodus
+p723
+aVColdsnap
+p724
+aVFrom the Vault: Relics
+p725
+aVUnlimited Edition
+p726
+aVUnlimited Edition
+p727
+aVUnlimited Edition
+p728
+aVUnlimited Edition
+p729
+aVUnlimited Edition
+p730
+aVUnlimited Edition
+p731
+aVUnlimited Edition
+p732
+aVUnlimited Edition
+p733
+aVUnlimited Edition
+p734
+aVIce Age
+p735
+aVIce Age
+p736
+aVIce Age
+p737
+aVIce Age
+p738
+aVIce Age
+p739
+aVIce Age
+p740
+aVIce Age
+p741
+aVIce Age
+p742
+aVTorment
+p743
+aVTorment
+p744
+aVTorment
+p745
+aVZendikar
+p746
+aVZendikar
+p747
+aVZendikar
+p748
+aVZendikar
+p749
+aVZendikar
+p750
+aVZendikar
+p751
+aVZendikar
+p752
+aVZendikar
+p753
+aVZendikar
+p754
+aVZendikar
+p755
+aVClassic Sixth Edition
+p756
+aVClassic Sixth Edition
+p757
+aVClassic Sixth Edition
+p758
+aVClassic Sixth Edition
+p759
+aVClassic Sixth Edition
+p760
+aVClassic Sixth Edition
+p761
+aVMirrodin
+p762
+aVMirrodin
+p763
+aVMirrodin
+p764
+aVMirrodin
+p765
+aVMirrodin
+p766
+aVMirrodin
+p767
+aVMirrodin
+p768
+aVMirrodin
+p769
+aVDuel Decks: Elspeth vs. Tezzeret
+p770
+aVDuel Decks: Elspeth vs. Tezzeret
+p771
+aVShards of Alara
+p772
+aVShards of Alara
+p773
+aVShards of Alara
+p774
+aVShards of Alara
+p775
+aVShards of Alara
+p776
+aVSeventh Edition
+p777
+aVSeventh Edition
+p778
+aVSeventh Edition
+p779
+aVSeventh Edition
+p780
+aVSeventh Edition
+p781
+aVSeventh Edition
+p782
+aVMagic 2015 Core Set
+p783
+aVUrza's Legacy
+p784
+aVUrza's Legacy
+p785
+aVRise of the Eldrazi
+p786
+aVRise of the Eldrazi
+p787
+aVRise of the Eldrazi
+p788
+aVRise of the Eldrazi
+p789
+aVRise of the Eldrazi
+p790
+aVRise of the Eldrazi
+p791
+aVJudgment
+p792
+aVPromo set for Gatherer
+p793
+aVShadowmoor
+p794
+aVShadowmoor
+p795
+aVShadowmoor
+p796
+aVShadowmoor
+p797
+aVShadowmoor
+p798
+aVShadowmoor
+p799
+aVShadowmoor
+p800
+aVNew Phyrexia
+p801
+aVNew Phyrexia
+p802
+aVNew Phyrexia
+p803
+aVNew Phyrexia
+p804
+aVStarter 1999
+p805
+aVStarter 1999
+p806
+aVStarter 1999
+p807
+aVStarter 1999
+p808
+aVStarter 1999
+p809
+aVStarter 1999
+p810
+aVStarter 1999
+p811
+aVFifth Dawn
+p812
+aVFuture Sight
+p813
+aVPortal Second Age
+p814
+aVPortal Second Age
+p815
+aVPortal Second Age
+p816
+aVPortal Second Age
+p817
+aVPortal Second Age
+p818
+aVPlanechase
+p819
+aVPlanechase
+p820
+aVPlanechase
+p821
+aVPlanechase
+p822
+aVPlanechase
+p823
+aVPlanechase
+p824
+aVPlanechase
+p825
+aVPlanechase
+p826
+aVPlanechase
+p827
+aVDuel Decks: Venser vs. Koth
+p828
+aVDuel Decks: Venser vs. Koth
+p829
+aVDuel Decks: Venser vs. Koth
+p830
+aVDuel Decks: Venser vs. Koth
+p831
+aVUrza's Saga
+p832
+aVUrza's Saga
+p833
+aVUrza's Saga
+p834
+aVUrza's Saga
+p835
+aVUrza's Saga
+p836
+aVUrza's Saga
+p837
+aVUrza's Saga
+p838
+aVUrza's Saga
+p839
+aVMasters Edition
+p840
+aVMasters Edition
+p841
+aVMasters Edition
+p842
+aVMasters Edition
+p843
+aVMasters Edition
+p844
+aVTheros
+p845
+aVTheros
+p846
+aVWeatherlight
+p847
+aVMagic: The Gathering\u2014Conspiracy
+p848
+aVMagic: The Gathering\u2014Conspiracy
+p849
+aVMagic: The Gathering\u2014Conspiracy
+p850
+aVEighth Edition
+p851
+aVEighth Edition
+p852
+aVEighth Edition
+p853
+aVEighth Edition
+p854
+aVEighth Edition
+p855
+aVEighth Edition
+p856
+aVEighth Edition
+p857
+aVNemesis
+p858
+aVNemesis
+p859
+aVNemesis
+p860
+aVNemesis
+p861
+aVNemesis
+p862
+aVWorldwake
+p863
+aVChronicles
+p864
+aVInvasion
+p865
+aVInvasion
+p866
+aVInvasion
+p867
+aVInvasion
+p868
+aVInvasion
+p869
+aVInvasion
+p870
+aVJourney into Nyx
+p871
+aVJourney into Nyx
+p872
+aVAlara Reborn
+p873
+aVAlara Reborn
+p874
+aVFifth Edition
+p875
+aVFifth Edition
+p876
+aVFifth Edition
+p877
+aVFifth Edition
+p878
+aVFifth Edition
+p879
+aVFifth Edition
+p880
+aVFifth Edition
+p881
+aVArchenemy
+p882
+aVArchenemy
+p883
+aVArchenemy
+p884
+aVArchenemy
+p885
+aVArchenemy
+p886
+aVArchenemy
+p887
+aVKhans of Tarkir
+p888
+aVKhans of Tarkir
+p889
+aVKhans of Tarkir
+p890
+aVKhans of Tarkir
+p891
+aVDuel Decks: Jace vs. Vraska
+p892
+aVMirage
+p893
+aVMirage
+p894
+aVMirage
+p895
+aVMirage
+p896
+aVMirage
+p897
+aVMirage
+p898
+aVVanguard
+p899
+aVVanguard
+p900
+aVInnistrad
+p901
+aVInnistrad
+p902
+aVInnistrad
+p903
+aVInnistrad
+p904
+aVInnistrad
+p905
+aVInnistrad
+p906
+aVInnistrad
+p907
+aVInnistrad
+p908
+aVInnistrad
+p909
+aVInnistrad
+p910
+aVLimited Edition Alpha
+p911
+aVLimited Edition Alpha
+p912
+aVLimited Edition Alpha
+p913
+aVLimited Edition Alpha
+p914
+aVLimited Edition Alpha
+p915
+aVLimited Edition Alpha
+p916
+aVLimited Edition Alpha
+p917
+aVLimited Edition Alpha
+p918
+aVVisions
+p919
+aVVisions
+p920
+aVBeatdown Box Set
+p921
+aVBeatdown Box Set
+p922
+aVBeatdown Box Set
+p923
+aVDragon's Maze
+p924
+aVStronghold
+p925
+aVStronghold
+p926
+aVStronghold
+p927
+aVStronghold
+p928
+aVStronghold
+p929
+aVStronghold
+p930
+aVStronghold
+p931
+aVStronghold
+p932
+aVLegends
+p933
+aVLegends
+p934
+aVLegends
+p935
+aVLegends
+p936
+aVLegends
+p937
+aVDissension
+p938
+aVDuel Decks: Izzet vs. Golgari
+p939
+aVDuel Decks: Izzet vs. Golgari
+p940
+aVDuel Decks: Izzet vs. Golgari
+p941
+aVDuel Decks: Izzet vs. Golgari
+p942
+aVLorwyn
+p943
+aVLorwyn
+p944
+aVLorwyn
+p945
+aVLorwyn
+p946
+aVLorwyn
+p947
+aVLorwyn
+p948
+aVLorwyn
+p949
+aVLorwyn
+p950
+aVArabian Nights
+p951
+aVArabian Nights
+p952
+aVArabian Nights
+p953
+aVPremium Deck Series: Slivers
+p954
+aVMagic 2011
+p955
+aVMagic 2011
+p956
+aVMagic 2011
+p957
+aVMagic 2011
+p958
+aVPortal Three Kingdoms
+p959
+aVPortal Three Kingdoms
+p960
+aVPortal Three Kingdoms
+p961
+aVPortal Three Kingdoms
+p962
+aVTime Spiral "Timeshifted"
+p963
+aVDuel Decks: Heroes vs. Monsters
+p964
+aVDuel Decks: Heroes vs. Monsters
+p965
+aVPremium Deck Series: Fire and Lightning
+p966
+aVPremium Deck Series: Fire and Lightning
+p967
+aVPremium Deck Series: Fire and Lightning
+p968
+aVPremium Deck Series: Fire and Lightning
+p969
+aVPremium Deck Series: Fire and Lightning
+p970
+aVPremium Deck Series: Fire and Lightning
+p971
+aVPortal
+p972
+aVPortal
+p973
+aVPortal
+p974
+aVPortal
+p975
+aVPortal
+p976
+aVPortal
+p977
+aVPortal
+p978
+aVPortal
+p979
+aVPortal
+p980
+aVPlaneshift
+p981
+aVPlaneshift
+p982
+aVPlaneshift
+p983
+aVDark Ascension
+p984
+aVDark Ascension
+p985
+aVDark Ascension
+p986
+asS'ids'
+p987
+(lp988
+V-2146729949
+p989
+aV-2146729948
+p990
+aV-2146729947
+p991
+aI370725
+aV-2146729943
+p992
+aV247515
+p993
+aV247530
+p994
+aV247282
+p995
+aV247143
+p996
+aV247525
+p997
+aV249810
+p998
+aV249809
+p999
+aV249808
+p1000
+aV249811
+p1001
+aV244328
+p1002
+aV244329
+p1003
+aV244327
+p1004
+aV220143
+p1005
+aV244330
+p1006
+aV328
+p1007
+aV330
+p1008
+aV507
+p1009
+aV591
+p1010
+aV590
+p1011
+aV589
+p1012
+aV327
+p1013
+aV329
+p1014
+aV331
+p1015
+aV74198
+p1016
+aV84643
+p1017
+aV87331
+p1018
+aV21117
+p1019
+aV22344
+p1020
+aV22343
+p1021
+aV22342
+p1022
+aV22340
+p1023
+aV22339
+p1024
+aV22336
+p1025
+aV22335
+p1026
+aV22334
+p1027
+aV21118
+p1028
+aV143218
+p1029
+aV143333
+p1030
+aV152585
+p1031
+aV152903
+p1032
+aV249706
+p1033
+aV249730
+p1034
+aV249729
+p1035
+aV249728
+p1036
+aV249727
+p1037
+aV2351
+p1038
+aV2296
+p1039
+aV2383
+p1040
+aV2382
+p1041
+aV2381
+p1042
+aV134738
+p1043
+aV259264
+p1044
+aV249367
+p1045
+aV259284
+p1046
+aV259286
+p1047
+aV243476
+p1048
+aV243495
+p1049
+aV243496
+p1050
+aV243497
+p1051
+aV243498
+p1052
+aV209403
+p1053
+aV212716
+p1054
+aV215089
+p1055
+aV194309
+p1056
+aV209037
+p1057
+aV214668
+p1058
+aV208248
+p1059
+aV214667
+p1060
+aV214675
+p1061
+aV214681
+p1062
+aV378523
+p1063
+aV378392
+p1064
+aV378499
+p1065
+aV189909
+p1066
+aV191402
+p1067
+aV191403
+p1068
+aV191404
+p1069
+aV191401
+p1070
+aV370604
+p1071
+aV370591
+p1072
+aV4618
+p1073
+aV4771
+p1074
+aV4831
+p1075
+aV4833
+p1076
+aV4834
+p1077
+aV4888
+p1078
+aV4832
+p1079
+aV4934
+p1080
+aV4948
+p1081
+aV4947
+p1082
+aV4946
+p1083
+aV4945
+p1084
+aV106368
+p1085
+aV129648
+p1086
+aV129649
+p1087
+aV129716
+p1088
+aV134748
+p1089
+aV135259
+p1090
+aV129650
+p1091
+aV129651
+p1092
+aV129652
+p1093
+aV136514
+p1094
+aV19554
+p1095
+aV19818
+p1096
+aV19878
+p1097
+aV20892
+p1098
+aV20893
+p1099
+aV20894
+p1100
+aV20895
+p1101
+aV383017
+p1102
+aV383018
+p1103
+aV383019
+p1104
+aV383020
+p1105
+aV383021
+p1106
+aV383022
+p1107
+aV383023
+p1108
+aV370444
+p1109
+aV370547
+p1110
+aV370437
+p1111
+aV370508
+p1112
+aV1814
+p1113
+aV214045
+p1114
+aV214066
+p1115
+aV222863
+p1116
+aV213725
+p1117
+aV25485
+p1118
+aV25491
+p1119
+aV25475
+p1120
+aV25481
+p1121
+aV25480
+p1122
+aV26800
+p1123
+aV206077
+p1124
+aV206076
+p1125
+aV206075
+p1126
+aV1308
+p1127
+aV1391
+p1128
+aV1390
+p1129
+aV1389
+p1130
+aV96910
+p1131
+aV96930
+p1132
+aV97192
+p1133
+aV83173
+p1134
+aV83464
+p1135
+aV83176
+p1136
+aV83177
+p1137
+aV83178
+p1138
+aV83179
+p1139
+aV153441
+p1140
+aV157403
+p1141
+aV184988
+p1142
+aV269622
+p1143
+aV278059
+p1144
+aV240065
+p1145
+aV262849
+p1146
+aV269632
+p1147
+aV269630
+p1148
+aV226514
+p1149
+aV226515
+p1150
+aV276465
+p1151
+aV276447
+p1152
+aV276449
+p1153
+aV276470
+p1154
+aV368498
+p1155
+aV368502
+p1156
+aV368500
+p1157
+aV368512
+p1158
+aV39699
+p1159
+aV40110
+p1160
+aV40109
+p1161
+aV40108
+p1162
+aV40107
+p1163
+aV50385
+p1164
+aV73907
+p1165
+aV76641
+p1166
+aV79064
+p1167
+aV79070
+p1168
+aV79075
+p1169
+aV79077
+p1170
+aV74028
+p1171
+aV15235
+p1172
+aV83631
+p1173
+aV87955
+p1174
+aV89009
+p1175
+aV89080
+p1176
+aV89088
+p1177
+aV95096
+p1178
+aV95104
+p1179
+aV95102
+p1180
+aV95109
+p1181
+aV376412
+p1182
+aV376413
+p1183
+aV376414
+p1184
+aV376415
+p1185
+aV376419
+p1186
+aV29743
+p1187
+aV29745
+p1188
+aV29795
+p1189
+aV29972
+p1190
+aV30010
+p1191
+aV31811
+p1192
+aV29946
+p1193
+aV31621
+p1194
+aV31622
+p1195
+aV31623
+p1196
+aV31624
+p1197
+aV108860
+p1198
+aV109733
+p1199
+aV114914
+p1200
+aV116391
+p1201
+aV116739
+p1202
+aV118921
+p1203
+aV122090
+p1204
+aV122080
+p1205
+aV118926
+p1206
+aV289324
+p1207
+aV289323
+p1208
+aV289321
+p1209
+aV289322
+p1210
+aV333720
+p1211
+aV366356
+p1212
+aV366449
+p1213
+aV6118
+p1214
+aV6128
+p1215
+aV121234
+p1216
+aV212634
+p1217
+aV809
+p1218
+aV893
+p1219
+aV892
+p1220
+aV891
+p1221
+aV629
+p1222
+aV630
+p1223
+aV631
+p1224
+aV632
+p1225
+aV633
+p1226
+aV2477
+p1227
+aV2734
+p1228
+aV2735
+p1229
+aV2476
+p1230
+aV2765
+p1231
+aV2764
+p1232
+aV2763
+p1233
+aV2639
+p1234
+aV34234
+p1235
+aV36433
+p1236
+aV29960
+p1237
+aV183414
+p1238
+aV191359
+p1239
+aV201967
+p1240
+aV201968
+p1241
+aV195178
+p1242
+aV195171
+p1243
+aV201969
+p1244
+aV195181
+p1245
+aV201970
+p1246
+aV195184
+p1247
+aV15442
+p1248
+aV14745
+p1249
+aV14746
+p1250
+aV14747
+p1251
+aV14748
+p1252
+aV16442
+p1253
+aV45965
+p1254
+aV46000
+p1255
+aV48083
+p1256
+aV50538
+p1257
+aV48418
+p1258
+aV48417
+p1259
+aV48419
+p1260
+aV48420
+p1261
+aV222709
+p1262
+aV222716
+p1263
+aV174787
+p1264
+aV175018
+p1265
+aV175019
+p1266
+aV175017
+p1267
+aV175020
+p1268
+aV30169
+p1269
+aV15854
+p1270
+aV11410
+p1271
+aV11411
+p1272
+aV11412
+p1273
+aV11413
+p1274
+aV383317
+p1275
+aV5704
+p1276
+aV9689
+p1277
+aV193497
+p1278
+aV209108
+p1279
+aV205926
+p1280
+aV205947
+p1281
+aV205923
+p1282
+aV205937
+p1283
+aV35171
+p1284
+aV97049
+p1285
+aV141943
+p1286
+aV146021
+p1287
+aV159407
+p1288
+aV158240
+p1289
+aV157888
+p1290
+aV157885
+p1291
+aV157882
+p1292
+aV230064
+p1293
+aV233051
+p1294
+aV233072
+p1295
+aV227507
+p1296
+aV21065
+p1297
+aV20234
+p1298
+aV20229
+p1299
+aV21801
+p1300
+aV21804
+p1301
+aV21803
+p1302
+aV21802
+p1303
+aV51091
+p1304
+aV136154
+p1305
+aV6554
+p1306
+aV6621
+p1307
+aV8407
+p1308
+aV8406
+p1309
+aV8395
+p1310
+aV205468
+p1311
+aV205471
+p1312
+aV205470
+p1313
+aV205469
+p1314
+aV205292
+p1315
+aV205447
+p1316
+aV205432
+p1317
+aV205441
+p1318
+aV205435
+p1319
+aV284494
+p1320
+aV284496
+p1321
+aV284493
+p1322
+aV284495
+p1323
+aV5550
+p1324
+aV5706
+p1325
+aV5708
+p1326
+aV5863
+p1327
+aV8334
+p1328
+aV8335
+p1329
+aV8336
+p1330
+aV8337
+p1331
+aV159308
+p1332
+aV159284
+p1333
+aV159285
+p1334
+aV159286
+p1335
+aV159773
+p1336
+aV373565
+p1337
+aV373746
+p1338
+aV4463
+p1339
+aV382311
+p1340
+aV382312
+p1341
+aV382313
+p1342
+aV45381
+p1343
+aV45411
+p1344
+aV45412
+p1345
+aV46449
+p1346
+aV46450
+p1347
+aV46451
+p1348
+aV46452
+p1349
+aV21290
+p1350
+aV21345
+p1351
+aV21349
+p1352
+aV21350
+p1353
+aV22299
+p1354
+aV197162
+p1355
+aV2849
+p1356
+aV23031
+p1357
+aV23138
+p1358
+aV25966
+p1359
+aV26307
+p1360
+aV26308
+p1361
+aV26309
+p1362
+aV380456
+p1363
+aV380457
+p1364
+aV185051
+p1365
+aV179614
+p1366
+aV3862
+p1367
+aV4073
+p1368
+aV4072
+p1369
+aV4198
+p1370
+aV4197
+p1371
+aV4196
+p1372
+aV4195
+p1373
+aV220485
+p1374
+aV212608
+p1375
+aV220570
+p1376
+aV221303
+p1377
+aV221305
+p1378
+aV221304
+p1379
+aV386606
+p1380
+aV386607
+p1381
+aV386608
+p1382
+aV386611
+p1383
+aV380249
+p1384
+aV3574
+p1385
+aV3260
+p1386
+aV3580
+p1387
+aV3579
+p1388
+aV3578
+p1389
+aV3577
+p1390
+aV182271
+p1391
+aV182300
+p1392
+aV227286
+p1393
+aV249664
+p1394
+aV226882
+p1395
+aV221187
+p1396
+aV222933
+p1397
+aV233239
+p1398
+aV230777
+p1399
+aV245242
+p1400
+aV245245
+p1401
+aV245243
+p1402
+aV212
+p1403
+aV32
+p1404
+aV34
+p1405
+aV36
+p1406
+aV291
+p1407
+aV33
+p1408
+aV35
+p1409
+aV290
+p1410
+aV3670
+p1411
+aV3695
+p1412
+aV27241
+p1413
+aV27240
+p1414
+aV27239
+p1415
+aV369049
+p1416
+aV4980
+p1417
+aV5100
+p1418
+aV5101
+p1419
+aV5107
+p1420
+aV5120
+p1421
+aV5191
+p1422
+aV5192
+p1423
+aV5193
+p1424
+aV1452
+p1425
+aV1702
+p1426
+aV1626
+p1427
+aV1535
+p1428
+aV1585
+p1429
+aV107506
+p1430
+aV292769
+p1431
+aV292767
+p1432
+aV292768
+p1433
+aV292770
+p1434
+aV139483
+p1435
+aV139506
+p1436
+aV139515
+p1437
+aV145800
+p1438
+aV143623
+p1439
+aV143627
+p1440
+aV143631
+p1441
+aV143626
+p1442
+aV975
+p1443
+aV976
+p1444
+aV983
+p1445
+aV207936
+p1446
+aV213625
+p1447
+aV213624
+p1448
+aV213626
+p1449
+aV213627
+p1450
+aV10585
+p1451
+aV10563
+p1452
+aV10643
+p1453
+aV10644
+p1454
+aV108849
+p1455
+aV373344
+p1456
+aV373346
+p1457
+aV234738
+p1458
+aV234739
+p1459
+aV234740
+p1460
+aV234741
+p1461
+aV234699
+p1462
+aV234710
+p1463
+aV4303
+p1464
+aV4305
+p1465
+aV4304
+p1466
+aV4306
+p1467
+aV4420
+p1468
+aV4419
+p1469
+aV4418
+p1470
+aV4417
+p1471
+aV4352
+p1472
+aV26275
+p1473
+aV27589
+p1474
+aV26269
+p1475
+aV253433
+p1476
+aV262659
+p1477
+aV249885
+p1478
+asS'texts'
+p1479
+(lp1480
+VSacrifice a Goblin: Target creature gets +1/+1 until end of turn.
+p1481
+aVPyrotechnics deals 4 damage divided as you choose among any number of target creatures and/or players.
+p1482
+aVHaste (This creature can attack and {T} as soon as it comes under your control.)
+p1483
+aV({T}: Add {B} to your mana pool.)
+p1484
+aV({T}: Add {B} to your mana pool.)
+p1485
+aV{T}: Add {1} to your mana pool.<br>{1}, {T}: Put a storage counter on Molten Slagheap.<br>{1}, Remove X storage counters from Molten Slagheap: Add X mana in any combination of {B} and/or {R} to your mana pool.
+p1486
+aVWhen Monk Realist enters the battlefield, destroy target enchantment.
+p1487
+aVDestroy target creature or enchantment.
+p1488
+aVMortivore's power and toughness are each equal to the number of creature cards in all graveyards.<br>{B}: Regenerate Mortivore.
+p1489
+aV{T}: Target creature you control gains protection from the color of your choice until end of turn.
+p1490
+aVR
+p1491
+ag1491
+ag1491
+ag1491
+ag1491
+ag1491
+ag1491
+aVPentavus enters the battlefield with five +1/+1 counters on it.<br>{1}, Remove a +1/+1 counter from Pentavus: Put a 1/1 colorless Pentavite artifact creature token with flying onto the battlefield.<br>{1}, Sacrifice a Pentavite: Put a +1/+1 counter on Pentavus.
+p1492
+aS''
+p1493
+aV{T}: Add {B} to your mana pool.
+p1494
+aV{T}: Add {R} to your mana pool.
+p1495
+aV{T}: Orcish Artillery deals 2 damage to target creature or player and 3 damage to you.
+p1496
+aVAttacking creatures you control get +1/+0.
+p1497
+aVEnchant creature<br>When Paralyze enters the battlefield, tap enchanted creature.<br>Enchanted creature doesn't untap during its controller's untap step.<br>At the beginning of the upkeep of enchanted creature's controller, that player may pay {4}. If he or she does, untap the creature.
+p1498
+aV{0}: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Any player may activate this ability, but only if he or she owns Personal Incarnation.<br>When Personal Incarnation dies, its owner loses half his or her life, rounded up.
+p1499
+aVAt the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence.<br>{B}: Pestilence deals 1 damage to each creature and each player.
+p1500
+aVFlying<br>At the beginning of your upkeep, sacrifice Phantasmal Forces unless you pay {U}.
+p1501
+aVEnchant land<br>As Phantasmal Terrain enters the battlefield, choose a basic land type.<br>Enchanted land is the chosen type.
+p1502
+aVFlying<br>{2}, Return a land you control to its owner's hand: Target land becomes the basic land type of your choice until end of turn.
+p1503
+aVFlying<br>{W}: Moonwing Moth gets +0/+1 until end of turn.
+p1504
+aVReturn Molting Skin to its owner's hand: Regenerate target creature.
+p1505
+aV{T}: Add {1} to your mana pool.<br>{T}: Add {R} or {G} to your mana pool. Mogg Hollows doesn't untap during your next untap step.
+p1506
+aVFlying<br>Whenever Abyssal Specter deals damage to a player, that player discards a card.
+p1507
+ag1491
+ag1491
+ag1491
+ag1491
+ag1491
+ag1491
+ag1491
+aVFirst strike <i>(This creature deals combat damage before creatures without first strike.)</i><br>When Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can't be regenerated.
+p1508
+aVChangeling <i>(This card is every creature type at all times.)</i><br>{B}: Moonglove Changeling gains deathtouch until end of turn. <i>(Any amount of damage it deals to a creature is enough to destroy that creature.)</i>
+p1509
+aVChangeling <i>(This card is every creature type at all times.)</i><br>Tap an untapped creature you control: Mothdust Changeling gains flying until end of turn.
+p1510
+aVFirst strike<br>Reinforce 1\u2014{1}{W} <i>({1}{W}, Discard this card: Put a +1/+1 counter on target creature.)</i>
+p1511
+aVProwl {1}{B} <i>(You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)</i><br>Target player loses 3 life and you gain 3 life. If Morsel Theft's prowl cost was paid, draw a card.
+p1512
+aV{R}, Sacrifice Torch Fiend: Destroy target artifact.
+p1513
+aVW
+p1514
+ag1493
+ag1493
+ag1493
+aVBlocking creatures get +0/+3 until end of turn.
+p1515
+aVEnchant creature<br>When Paralyze enters the battlefield, tap enchanted creature.<br>Enchanted creature doesn't untap during its controller's untap step.<br>At the beginning of the upkeep of enchanted creature's controller, that player may pay {4}. If he or she does, untap the creature.
+p1516
+aV{0}: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Any player may activate this ability, but only if he or she owns Personal Incarnation.<br>When Personal Incarnation dies, its owner loses half his or her life, rounded up.
+p1517
+aVAt the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence.<br>{B}: Pestilence deals 1 damage to each creature and each player.
+p1518
+aVFlying<br>At the beginning of your upkeep, sacrifice Phantasmal Forces unless you pay {U}.
+p1519
+aVFlying<br>When Molten Firebird dies, return it to the battlefield under its owner's control at the beginning of the next end step and you skip your next draw step.<br>{4}{R}: Exile Molten Firebird.
+p1520
+aVSacrifice Morgue Toad: Add {U}{R} to your mana pool.
+p1521
+aVFlying<br>At the beginning of your upkeep, you lose 1 life.
+p1522
+ag1491
+ag1491
+aVFlying<br>{1}{R}: Mordant Dragon gets +1/+0 until end of turn.<br>Whenever Mordant Dragon deals combat damage to a player, you may have it deal that much damage to target creature that player controls.
+p1523
+ag1491
+ag1491
+ag1491
+ag1491
+aV{1}{B}, Sacrifice Moriok Replica: You draw two cards and lose 2 life.
+p1524
+ag1491
+aVMetalcraft- {T}: Add one mana of any color to your mana pool. Activate this ability only if you control three or more artifacts.
+p1525
+aVWhen Myr Battlesphere enters the battlefield, put four 1/1 colorless Myr artifact creature tokens onto the battlefield.<br>Whenever Myr Battlesphere attacks, you may tap X untapped Myr you control. If you do, Myr Battlesphere gets +X/+0 until end of turn and deals X damage to defending player.
+p1526
+aVOther Myr creatures you control get +1/+1.<br>{1}, {T}: Untap each other Myr you control.
+p1527
+aV{3}, {T}: Put a token that's a copy of Myr Propagator onto the battlefield.
+p1528
+aV{T}: Add {2} to your mana pool. Spend this mana only to cast Myr spells or activate abilities of Myr.<br>{3}, {T}: Return target Myr card from your graveyard to your hand.
+p1529
+aVB
+p1530
+ag1530
+ag1493
+aVTarget creature gets +1/+1 and gains indestructible until end of turn. <i>(Damage and effects that say "destroy" don't destroy it.)</i>
+p1531
+aVTarget creature gains deathtouch until end of turn. Regenerate it.
+p1532
+aVTribute 3 <i>(As this creature enters the battlefield, an opponent of your choice may place three +1/+1 counters on it.)</i><br>When Nessian Demolok enters the battlefield, if tribute wasn't paid, destroy target noncreature permanent.
+p1533
+aVFlying
+p1534
+aVCreatures you control get +3/+3 and gain trample until end of turn.
+p1535
+ag1493
+ag1493
+ag1493
+aVFlash <i>(You may cast this spell any time you could cast an instant.)</i><br>Flying
+p1536
+aVFlying<br>Nightmare's power and toughness are each equal to the number of Swamps you control.
+p1537
+aVWhite spells you cast cost {1} less to cast.
+p1538
+aVAll Sliver creatures get +1/+1.
+p1539
+aVSacrifice a Goblin: Target creature gets +1/+1 until end of turn.
+p1540
+aVMogg Squad gets -1/-1 for each other creature on the battlefield.
+p1541
+aVWhenever a creature becomes blocked by a creature with lesser power, destroy the blocking creature.<br><br>Whenever a creature blocks a creature with lesser power, destroy the attacking creature.
+p1542
+aV{T}: Target opponent chooses any number of creatures he or she controls. During that player's next turn, the chosen creatures attack if able, and other creatures can't attack. At the beginning of that turn's end step, destroy each of the chosen creatures that didn't attack. Activate this ability only during your turn.
+p1543
+ag1491
+ag1491
+ag1491
+aVTarget player gains 8 life.
+p1544
+aVAll lands are 2/2 creatures that are still lands.
+p1545
+aVNeedle Storm deals 4 damage to each creature with flying.
+p1546
+aVTrample <i>(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</i><br>Molimo, Maro-Sorcerer's power and toughness are each equal to the number of lands you control.
+p1547
+aVFirst strike <i>(This creature deals combat damage before creatures without first strike.)</i><br>When Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can't be regenerated.
+p1548
+aVFlying<br>Nightmare's power and toughness are each equal to the number of Swamps you control.
+p1549
+aVFlying<br>{R}: Shivan Dragon gets +1/+0 until end of turn.
+p1550
+aV{T}: Target creature with power 2 or less is unblockable this turn.
+p1551
+aV{2}, {T}: You gain 1 life.
+p1552
+ag1493
+ag1493
+ag1493
+aVWhenever a creature dies, you gain 1 life.
+p1553
+aV{W}, Pay 2 life: The next time a source of your choice would deal damage to you this turn, prevent that damage.
+p1554
+aVIf an opponent controls a Forest and you control a Swamp, you may cast Deepwood Legate without paying its mana cost.<br>{B}: Deepwood Legate gets +1/+1 until end of turn.
+p1555
+aV{X}, {T}: Target creature you control gets +X/+X until end of turn. Destroy it at the beginning of the next end step.
+p1556
+ag1491
+ag1491
+aVAll lands become 2/2 creatures until end of turn. They're still lands.
+p1557
+aVWhenever a creature you control deals combat damage, you gain that much life.
+p1558
+aV{T}: Add {G} to your mana pool.
+p1559
+aV{T}: Add {B} to your mana pool.
+p1560
+aV{T}: Add {W} to your mana pool.
+p1561
+aV{T}: Add {R} to your mana pool.
+p1562
+aV{T}: Add {U} to your mana pool.
+p1563
+aV{3}{U}, {T}: Look at the top X cards of your library, where X is the highest converted mana cost among artifacts you control. You may reveal an artifact card from among them and put it onto the battlefield. Put the rest on the bottom of your library in any order.
+p1564
+aVThreshold- As long as seven or more cards are in your graveyard, Mystic Zealot gets +1/+1 and has flying.
+p1565
+aVEnchant creature<br>Enchanted creature gets +3/+3.<br>Dredge 2 <i>(If you would draw a card, instead you may put exactly two cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)</i>
+p1566
+aVEcho {1}{R} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i><br>When Mogg War Marshal enters the battlefield or dies, put a 1/1 red Goblin creature token onto the battlefield.
+p1567
+aVKicker {R} <i>(You may pay an additional {R} as you cast this spell.)</i><br>If Molten Disaster was kicked, it has split second. <i>(As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)</i><br>Molten Disaster deals X damage to each creature without flying and each player.
+p1568
+aVChangeling <i>(This card is every creature type at all times.)</i><br>Tap an untapped creature you control: Mothdust Changeling gains flying until end of turn.
+p1569
+aVFirst strike; banding <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
+p1570
+ag1491
+ag1491
+aVLiving weapon <i>(When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)</i><br>Equipped creature gets +0/+1 and has "Sacrifice this creature: This creature deals 1 damage to target creature or player."<br>Equip {2}
+p1571
+aVWhen Myr Sire dies, put a 1/1 colorless Myr artifact creature token onto the battlefield.
+p1572
+aVFlying
+p1573
+aV{T}: Prodigal Sorcerer deals 1 damage to target creature or player.
+p1574
+aV{3}, {T}: Rod of Ruin deals 1 damage to target creature or player.
+p1575
+aVFlying
+p1576
+aV{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+p1577
+aV{W}, {T}: Target player gains 1 life.
+p1578
+aVYou may choose not to untap Old Man of the Sea during your untap step.<br>{T}: Gain control of target creature with power less than or equal to Old Man of the Sea's power for as long as Old Man of the Sea remains tapped and that creature's power remains less than or equal to Old Man of the Sea's power.
+p1579
+aVFlying, trample<br>At the beginning of your upkeep, sacrifice Palladia-Mors unless you pay {R}{G}{W}.
+p1580
+aV{B}{R}: Pavel Maliki gets +1/+0 until end of turn.
+p1581
+aVFlying<br>At the beginning of your upkeep, sacrifice Phantasmal Forces unless you pay {U}.
+p1582
+aVFlying
+p1583
+aVPirate Ship can't attack unless defending player controls an Island.<br>{T}: Pirate Ship deals 1 damage to target creature or player.<br>When you control no Islands, sacrifice Pirate Ship.
+p1584
+aVPlague Rats's power and toughness are each equal to the number of creatures named Plague Rats on the battlefield.
+p1585
+aVCounter target spell unless its controller pays {1}.<br>Draw a card.
+p1586
+aVYou may have creatures you control assign their combat damage this turn as though they weren't blocked.
+p1587
+aV<i>({W/B} can be paid with either {W} or {B}.)</i><br>At the beginning of your upkeep, put target creature card from a graveyard onto the battlefield under your control.
+p1588
+aVAt the beginning of your upkeep, you draw a card and you lose 1 life.
+p1589
+aVUntil end of turn, if target player would draw a card, instead that player skips that draw and you draw a card.
+p1590
+aVSwampwalk <i>(This creature is unblockable as long as defending player controls a Swamp.)</i>
+p1591
+aVDestroy all creatures you don't control. They can't be regenerated.
+p1592
+ag1514
+ag1514
+aVTarget creature gets +4/+4 until end of turn.<br>Retrace <i>(You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)</i>
+p1593
+aVTarget player can't play land cards this turn if {R} was spent to cast Moonhold and can't play creature cards this turn if {W} was spent to cast it. <i>(Do both if {R}{W} was spent.)</i>
+p1594
+aVProtection from blue
+p1595
+ag1514
+aVEquipped creature has first strike.<br>Whenever equipped creature attacks, put a 4/4 white Angel creature token with flying onto the battlefield.<br>Equip {4}
+p1596
+aV{2}{W}: Moorland Inquisitor gains first strike until end of turn.
+p1597
+aV{2}: Narstad Scrapper gets +1/+0 until end of turn.
+p1598
+ag1530
+ag1530
+aVWhen you encounter Morphic Tide, each player shuffles all permanents he or she owns into his or her library, then reveals that many cards from the top of his or her library. Each player puts all artifact, creature, land, and planeswalker cards revealed this way onto the battlefield, then does the same for enchantment cards, then puts all cards revealed this way that weren't put onto the battlefield on the bottom of his or her library in any order. <i>(Then planeswalk away from this phenomenon.)</i>
+p1599
+aVAt the beginning of your end step, put a pressure counter on Mount Keralia.<br>When you planeswalk away from Mount Keralia, it deals damage equal to the number of pressure counters on it to each creature and each planeswalker.<br>Whenever you roll chaos, prevent all damage that planes named Mount Keralia would deal this game to permanents you control.
+p1600
+aVWhen Mudbutton Torchrunner dies, it deals 3 damage to target creature or player.
+p1601
+ag1491
+ag1491
+ag1514
+aVDestroy target creature or enchantment.
+p1602
+ag1491
+ag1491
+ag1491
+ag1491
+ag1491
+ag1491
+aVSacrifice a creature: Nantuko Husk gets +2/+2 until end of turn.
+p1603
+aVDestroy target artifact or enchantment.
+p1604
+aVEnchant creature<br>At the beginning of your upkeep, sacrifice a creature.<br>Enchanted creature gets +3/+3 and has trample.<br>Enchanted creature is a Demon Spirit.
+p1605
+aVWhenever you cast a creature spell this turn, draw a card.
+p1606
+aV{T}: Tap target Spirit.
+p1607
+ag1514
+ag1514
+ag1514
+aVAs an additional cost to cast Soulblast, sacrifice all creatures you control. <br>Soulblast deals damage to target creature or player equal to the total power of the sacrificed creatures.
+p1608
+aVSacrifice Moonlit Strider: Target creature you control gains protection from the color of your choice until end of turn.<br>Soulshift 3 <i>(When this creature dies, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)</i>
+p1609
+aVEnchant creature<br>At the beginning of your upkeep, you may put a growth counter on Momentum.<br>Enchanted creature gets +1/+1 for each growth counter on Momentum.
+p1610
+aVRibbons of Night deals 4 damage to target creature and you gain 4 life. If {U} was spent to cast Ribbons of Night, draw a card.
+p1611
+aVConvoke <i>(Each creature you tap while casting this spell reduces its cost by {1} or by one mana of that creature's color.)</i><br>Prevent all damage that would be dealt by creatures this turn. You gain life equal to the damage prevented this way.
+p1612
+aVEnchant creature<br>Enchanted creature has flying.<br>Whenever enchanted creature deals combat damage to a player, put that many 1/1 green Saproling creature tokens onto the battlefield.
+p1613
+aVWhenever you cast a creature spell, you may draw a card.
+p1614
+aVEquipped creature has defender, flying, and first strike.<br>Equip {2}
+p1615
+ag1491
+ag1491
+ag1514
+ag1514
+aVKicker {1}{G} <i>(You may pay an additional {1}{G} as you cast this spell.)</i><br>When Mold Shambler enters the battlefield, if it was kicked, destroy target noncreature permanent.
+p1616
+aVKicker {R} <i>(You may pay an additional {R} as you cast this spell.)</i><br>If Molten Disaster was kicked, it has split second. <i>(As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)</i><br>Molten Disaster deals X damage to each creature without flying and each player.
+p1617
+aV{T}: Add {1} to your mana pool.<br>{1}, {T}: Put a storage counter on Molten Slagheap.<br>{1}, Remove X storage counters from Molten Slagheap: Add X mana in any combination of {B} and/or {R} to your mana pool.
+p1618
+aVHideaway <i>(This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)</i><br>{T}: Add {G} to your mana pool.<br>{G}, {T}: You may play the exiled card without paying its mana cost if creatures you control have total power 10 or greater.
+p1619
+ag1491
+aVReturn target creature card from your graveyard to your hand.<br>Flashback {4}{B} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
+p1620
+aVMorbid Hunger deals 3 damage to target creature or player. You gain 3 life.<br>Flashback {7}{B}{B} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
+p1621
+aV{1}, {T}: Add {G}{W} to your mana pool.
+p1622
+aVWhenever a player taps a land for mana, if it's not that player's turn, destroy that land.
+p1623
+aV{T}: Add {1} to your mana pool.<br><br>{5}, {T}: Add {W}{U}{B}{R}{G} to your mana pool.
+p1624
+aVEnchant creature<br>Enchanted creature has trample.
+p1625
+ag1491
+ag1491
+ag1491
+ag1491
+aV{G}, {T}: Target creature gets +2/+2 until end of turn.
+p1626
+aV{T}: Add {1} to your mana pool.<br>{1}, {T}: Put a storage counter on Molten Slagheap.<br>{1}, Remove X storage counters from Molten Slagheap: Add X mana in any combination of {B} and/or {R} to your mana pool.
+p1627
+aVExile target creature you control, then return it to the battlefield under its owner's control.<br>Flashback {3}{U} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
+p1628
+aVDestroy target artifact or enchantment with converted mana cost X. It can't be regenerated. You gain X life.
+p1629
+aVTarget spell or permanent becomes colorless.
+p1630
+aVEcho {1}{R} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i><br>When Mogg War Marshal enters the battlefield or dies, put a 1/1 red Goblin creature token onto the battlefield.
+p1631
+ag1491
+ag1491
+ag1491
+ag1514
+aVExile an instant or sorcery spell you control: Put two +1/+1 counters on Nivmagus Elemental. <i>(That spell won't resolve.)</i>
+p1632
+aVG
+p1633
+ag1514
+ag1514
+ag1530
+aVWhen Mortus Strider dies, return it to its owner's hand.
+p1634
+aVMugging deals 2 damage to target creature. That creature can't block this turn.
+p1635
+aV{T}: You choose target creature an opponent controls, and that opponent chooses target creature. Flip a coin. If you win the flip, destroy the creature you chose. If you lose the flip, destroy the creature your opponent chose.
+p1636
+aVMonstrous Hound can't attack unless you control more lands than defending player.<br>Monstrous Hound can't block unless you control more lands than attacking player.
+p1637
+aVCumulative upkeep {1} <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i><br>{T}: Kjeldoran Javelineer deals damage equal to the number of age counters on it to target attacking or blocking creature.
+p1638
+aVIf Mox Diamond would enter the battlefield, you may discard a land card instead. If you do, put Mox Diamond onto the battlefield. If you don't, put it into its owner's graveyard.<br>{T}: Add one mana of any color to your mana pool.
+p1639
+aV{W}{W}, {T}: Destroy target black permanent.
+p1640
+aV{T}: Orcish Artillery deals 2 damage to target creature or player and 3 damage to you.
+p1641
+aVAttacking creatures you control get +1/+0.
+p1642
+aVEnchant creature<br>When Paralyze enters the battlefield, tap enchanted creature.<br>Enchanted creature doesn't untap during its controller's untap step.<br>At the beginning of the upkeep of enchanted creature's controller, that player may pay {4}. If he or she does, untap the creature.
+p1643
+aV{0}: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Any player may activate this ability, but only if he or she owns Personal Incarnation.<br>When Personal Incarnation dies, its owner loses half his or her life, rounded up.
+p1644
+aVAt the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence.<br>{B}: Pestilence deals 1 damage to each creature and each player.
+p1645
+aVFlying<br>At the beginning of your upkeep, sacrifice Phantasmal Forces unless you pay {U}.
+p1646
+aVEnchant land<br>As Phantasmal Terrain enters the battlefield, choose a basic land type.<br>Enchanted land is the chosen type.
+p1647
+aVFlying
+p1648
+aVSwampwalk
+p1649
+aVBlack creatures can't attack unless their controller sacrifices a land for each black creature he or she controls that's attacking.
+p1650
+aVWhen you control no Islands, sacrifice Skeleton Ship.<br>{T}: Put a -1/-1 counter on target creature.
+p1651
+ag1491
+aVMountainwalk
+p1652
+aVSearch your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+p1653
+aVSkip your draw step.<br>Whenever you discard a card, exile that card from your graveyard.<br>Pay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step.
+p1654
+aVOrcish Conscripts can't attack unless at least two other creatures attack.<br><br>Orcish Conscripts can't block unless at least two other creatures block.
+p1655
+aVExile all cards from all graveyards.
+p1656
+aV{1}{B}, Discard a card: Exile target card from a graveyard.<br>{1}{B}, Sacrifice Mortiphobia: Exile target card from a graveyard.
+p1657
+aVAt the beginning of your upkeep, if twenty or more creature cards are in your graveyard, you win the game.
+p1658
+aV{R}: Molten Ravager gets +1/+0 until end of turn.
+p1659
+ag1491
+aVWhenever Murasa Pyromancer or another Ally enters the battlefield under your control, you may have Murasa Pyromancer deal damage to target creature equal to the number of Allies you control.
+p1660
+ag1491
+ag1491
+ag1514
+ag1514
+ag1514
+ag1514
+ag1514
+aVWhenever a creature enters the battlefield, Æther Flash deals 2 damage to it.
+p1661
+aV{3}: Patagia Golem gains flying until end of turn.
+p1662
+aVEnchant land<br>As Phantasmal Terrain enters the battlefield, choose a basic land type.<br>Enchanted land is the chosen type.
+p1663
+aVPhantom Warrior is unblockable.
+p1664
+aVDestroy target artifact or land. It can't be regenerated.
+p1665
+ag1514
+aVWhen Moriok Scavenger enters the battlefield, you may return target artifact creature card from your graveyard to your hand.
+p1666
+aVDestroy target land. If that land was nonbasic, Molten Rain deals 2 damage to the land's controller.
+p1667
+aVAt the beginning of each player's upkeep, that player sacrifices an artifact.
+p1668
+ag1633
+ag1530
+aVFlying
+p1669
+ag1514
+ag1514
+aVPentavus enters the battlefield with five +1/+1 counters on it.<br>{1}, Remove a +1/+1 counter from Pentavus: Put a 1/1 colorless Pentavite artifact creature token with flying onto the battlefield.<br>{1}, Sacrifice a Pentavite: Put a +1/+1 counter on Pentavus.
+p1670
+ag1514
+aV{1}: Target creature with power 5 or greater gains trample until end of turn.
+p1671
+ag1514
+ag1514
+ag1530
+ag1530
+aV{G}: Regenerate Ancient Silverback. <i>(The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</i>
+p1672
+aVSwampwalk <i>(This creature is unblockable as long as defending player controls a Swamp.)</i>
+p1673
+ag1514
+ag1514
+ag1514
+ag1514
+aVWhen Necromancer's Assistant enters the battlefield, put the top three cards of your library into your graveyard.
+p1674
+aV{T}: Target creature you control gains protection from the color of your choice until end of turn.
+p1675
+aV{1}{R}{R}: Put a +1/+1 counter on Molten Hydra.<br>{T}, Remove all +1/+1 counters from Molten Hydra: Molten Hydra deals damage to target creature or player equal to the number of +1/+1 counters removed this way.
+p1676
+aVPlay with the top card of your library revealed.<br>As long as the top card of your library is a creature card, Mul Daya Channelers gets +3/+3.<br>As long as the top card of your library is a land card, Mul Daya Channelers has "{T}: Add two mana of any one color to your mana pool."
+p1677
+aVEnchant creature<br>At the beginning of each upkeep, if enchanted creature is untapped, tap it.
+p1678
+aVDestroy target artifact or enchantment.
+p1679
+ag1514
+ag1514
+ag1530
+aVExchange your graveyard and library. Then shuffle your library.
+p1680
+aVMonstrous Hound can't attack unless you control more lands than defending player.<br>Monstrous Hound can't block unless you control more lands than attacking player.
+p1681
+aV<i>({T}: Add {U} to your mana pool.)</i><br>Moonring Island enters the battlefield tapped.<br>{U}, {T}: Look at the top card of target player's library. Activate this ability only if you control two or more blue permanents.
+p1682
+aVTap all creatures your opponents control and untap all creatures you control.
+p1683
+aVDestroy all Auras and Equipment attached to target creature.
+p1684
+ag1491
+ag1491
+ag1514
+ag1514
+ag1491
+aV<i>({GP} can be paid with either {G} or 2 life.)</i><br>Target creature gets +2/+2 until end of turn.
+p1685
+aVMycosynth Fiend gets +1/+1 for each poison counter your opponents have.
+p1686
+ag1493
+aVReturn target creature card from your graveyard to your hand.
+p1687
+aVLook at the top five cards of target player's library. Put any number of them on the bottom of that library in any order and the rest on top of the library in any order.
+p1688
+aVWhen Ravenous Rats enters the battlefield, target opponent discards a card.
+p1689
+aVReturn target instant or sorcery card from your graveyard to your hand.
+p1690
+aVUntap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.
+p1691
+aVCounter target creature spell.
+p1692
+aVShuffle any number of target creature cards from your graveyard into your library.
+p1693
+aVWhenever an artifact is put into a graveyard from the battlefield, you may put a +1/+1 counter on Moriok Rigger.
+p1694
+aVEnchant creature<br>{T}: Tap enchanted creature.<br>{T}: Untap enchanted creature.
+p1695
+aVWhen Brutal Nightstalker enters the battlefield, you may have target opponent discard a card.
+p1696
+aVWhen Ravenous Rats enters the battlefield, target opponent discards a card.
+p1697
+aVUntap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.
+p1698
+aVDestroy all tapped creatures. You gain 2 life for each creature destroyed this way.
+p1699
+aVIslandwalk <i>(This creature is unblockable as long as defending player controls an Island.)</i>
+p1700
+ag1491
+ag1491
+ag1491
+ag1491
+ag1491
+ag1491
+ag1491
+ag1491
+ag1491
+ag1491
+ag1491
+ag1491
+ag1491
+aVDefender <i>(This creature can't attack.)</i><br>{3}: Mobile Fort gets +3/-1 until end of turn and can attack this turn as though it didn't have defender. Activate this ability only once each turn.
+p1701
+aVWhen Monk Idealist enters the battlefield, return target enchantment card from your graveyard to your hand.
+p1702
+aVWhen Monk Realist enters the battlefield, destroy target enchantment.
+p1703
+aVEcho {1}{G} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i>
+p1704
+ag1491
+aVSacrifice No Rest for the Wicked: Return to your hand all creature cards in your graveyard that were put there from the battlefield this turn.
+p1705
+aVOkk can't attack unless a creature with greater power also attacks.<br>Okk can't block unless a creature with greater power also blocks.
+p1706
+aVWhenever a player casts a spell, that player discards a card.
+p1707
+aVCreatures without flying can't attack.
+p1708
+ag1491
+ag1491
+ag1491
+aVMountainwalk, protection from white
+p1709
+aVReach<br>{6}{G}: Monstrosity 4. <i>(If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)</i>
+p1710
+aVBestow {2}{B}{B} <i>(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)</i><br>Nighthowler and enchanted creature each get +X/+X, where X is the number of creature cards in all graveyards.
+p1711
+aVFlying<br>Cumulative upkeep\u2014Pay 1 life. <i>(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</i>
+p1712
+aVMorbid- When Morkrut Banshee enters the battlefield, if a creature died this turn, target creature gets -4/-4 until end of turn.
+p1713
+aVDestroy target creature or enchantment.
+p1714
+aV{3}{U}, {T}: Look at the top X cards of your library, where X is the highest converted mana cost among artifacts you control. You may reveal an artifact card from among them and put it onto the battlefield. Put the rest on the bottom of your library in any order.
+p1715
+aVDiscard a land card: Seismic Assault deals 2 damage to target creature or player.
+p1716
+aV{G}, Sacrifice a Forest: Foratog gets +2/+2 until end of turn.
+p1717
+ag1514
+ag1514
+aV{U}, {T}: You may tap or untap target creature.
+p1718
+aVPyroclasm deals 2 damage to each creature.
+p1719
+aVHaste <i>(This creature can attack and {T} as soon as it comes under your control.)</i>
+p1720
+aVWhenever Mossdog becomes the target of a spell or ability an opponent controls, put a +1/+1 counter on Mossdog.
+p1721
+aVYou may sacrifice two Mountains rather than pay Mogg Alarm's mana cost.<br>Put two 1/1 red Goblin creature tokens onto the battlefield.
+p1722
+aVIf an opponent controls an Island and you control a Mountain, you may cast Mogg Salvage without paying its mana cost.<br>Destroy target artifact.
+p1723
+aV{3}, {T}: Search your library for a Goblin permanent card and put it onto the battlefield. Then shuffle your library.
+p1724
+aVMogg Toady can't attack unless you control more creatures than defending player.<br>Mogg Toady can't block unless you control more creatures than attacking player.
+p1725
+aVDestroy target artifact or enchantment. Its controller gains 4 life.
+p1726
+aVMountainwalk, protection from white
+p1727
+aVEnchant creature<br>Enchanted creature gets -2/-0.<br>{B}: Return Mourning to its owner's hand.
+p1728
+aVTrample <i>(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</i><br>Molimo, Maro-Sorcerer's power and toughness are each equal to the number of lands you control.
+p1729
+ag1491
+ag1491
+ag1491
+ag1491
+aVBestow {2}{R} <i>(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)</i><br>Mogis's Warhound attacks each turn if able.<br>Enchanted creature gets +2/+2 and attacks each turn if able.
+p1730
+aVEnchant creature you control<br>Enchanted creature gets +1/+1.<br>Whenever enchanted creature deals combat damage to a player, you may sacrifice Mortal Obstinacy. If you do, destroy target enchantment.
+p1731
+aVExile target creature card from a graveyard, then put X 1/1 green Saproling creature tokens onto the battlefield, where X is the exiled card's toughness.
+p1732
+aVWhenever Mycoid Shepherd or another creature you control with power 5 or greater dies, you may gain 5 life.
+p1733
+aVYou may choose not to untap Mole Worms during your untap step.<br>{T}: Tap target land. It doesn't untap during its controller's untap step for as long as Mole Worms remains tapped.
+p1734
+aVAttacking creatures you control get +1/+0.
+p1735
+aVFlying
+p1736
+aVEnchant creature<br>When Paralyze enters the battlefield, tap enchanted creature.<br>Enchanted creature doesn't untap during its controller's untap step.<br>At the beginning of the upkeep of enchanted creature's controller, that player may pay {4}. If he or she does, untap the creature.
+p1737
+aV{4}, {T}: The next time a source of your choice would deal damage to you this turn, prevent that damage.
+p1738
+aVAt the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence.<br>{B}: Pestilence deals 1 damage to each creature and each player.
+p1739
+aVFlying<br>At the beginning of your upkeep, sacrifice Phantasmal Forces unless you pay {U}.
+p1740
+aVTrample <i>(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</i><br>Molimo, Maro-Sorcerer's power and toughness are each equal to the number of lands you control.
+p1741
+aVWhen you set this scheme in motion, each opponent's life total becomes the lowest life total among your opponents.
+p1742
+aVHideaway <i>(This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)</i><br>{T}: Add {G} to your mana pool.<br>{G}, {T}: You may play the exiled card without paying its mana cost if creatures you control have total power 10 or greater.
+p1743
+ag1491
+ag1491
+ag1491
+aVDefender, flying<br>Morph {U} <i>(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+p1744
+aVHaste<br>Prowess <i>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i>
+p1745
+ag1491
+aVDelve <i>(Each card you exile from your graveyard while casting this spell pays for {1}.)</i><br>Destroy target creature.
+p1746
+aVKicker {1}{G} <i>(You may pay an additional {1}{G} as you cast this spell.)</i><br>When Mold Shambler enters the battlefield, if it was kicked, destroy target noncreature permanent.
+p1747
+aVRocky Tar Pit enters the battlefield tapped.<br>{T}, Sacrifice Rocky Tar Pit: Search your library for a Swamp or Mountain card and put it onto the battlefield. Then shuffle your library.
+p1748
+ag1491
+ag1491
+ag1491
+ag1491
+aVSearch your library for an instant or sorcery card and reveal that card. Shuffle your library, then put the card on top of it.
+p1749
+aV{X}, Discard a card: Put a token onto the battlefield that's a copy of a creature card with converted mana cost X chosen at random. Activate this ability only any time you could cast a sorcery and only once each turn.
+p1750
+aVAt the beginning of your upkeep, you lose 1 life for each permanent you control.
+p1751
+aVTarget creature gets +2/+2 and gains lifelink until end of turn. <i>(Damage dealt by the creature also causes its controller to gain that much life.)</i>
+p1752
+aVFlying
+p1753
+aVTransform all Humans. Prevent all combat damage that would be dealt this turn by creatures other than Werewolves and Wolves. <i>(Only double-faced cards can be transformed.)</i>
+p1754
+aV{T}: Add {1} to your mana pool.<br>{W}{U}, {T}, Exile a creature card from your graveyard: Put a 1/1 white Spirit creature token with flying onto the battlefield.
+p1755
+aVMorbid- When Morkrut Banshee enters the battlefield, if a creature died this turn, target creature gets -4/-4 until end of turn.
+p1756
+ag1491
+aVReveal the top four cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard.
+p1757
+aVFlying<br>Whenever another creature dies, you may draw a card. If you do, discard a card.
+p1758
+ag1493
+ag1493
+aVRock Hydra enters the battlefield with X +1/+1 counters on it.<br>For each 1 damage that would be dealt to Rock Hydra, if it has a +1/+1 counter on it, remove a +1/+1 counter from it and prevent that 1 damage.<br>{R}: Prevent the next 1 damage that would be dealt to Rock Hydra this turn.<br>{R}{R}{R}: Put a +1/+1 counter on Rock Hydra. Activate this ability only during your upkeep.
+p1759
+aVRemove Contract from Below from your deck before playing if you're not playing for ante.<br>Discard your hand, add the top card of your library to the ante, then draw seven cards.
+p1760
+aVEnchant land<br>At the beginning of the upkeep of enchanted land's controller, Cursed Land deals 1 damage to that player.
+p1761
+aVRemove Darkpact from your deck before playing if you're not playing for ante.<br>You own target card in the ante. Exchange that card with the top card of your library.
+p1762
+aVChoose one- Counter target blue spell; or destroy target blue permanent.
+p1763
+aVEnchant creature<br>Enchanted creature has protection from red. This effect doesn't remove Red Ward.
+p1764
+aVEnchant creature <i>(Target a creature as you cast this. This card enters the battlefield attached to that creature.)</i><br>{G}: Regenerate enchanted creature. <i>(The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</i>
+p1765
+ag1493
+aV{G}, {T}: Target land becomes a 2/2 green creature that's still a land. <i>(This effect lasts indefinitely.)</i>
+p1766
+aVOgre Enforcer can't be destroyed by lethal damage unless lethal damage dealt by a single source is marked on it.
+p1767
+ag1491
+ag1491
+aVReach <i>(This creature can block creatures with flying.)</i>
+p1768
+aVTarget creature you control with a +1/+1 counter on it fights target creature an opponent controls. <i>(Each deals damage equal to its power to the other.)</i>
+p1769
+aVWhen another creature enters the battlefield, sacrifice Mogg Bombers and it deals 3 damage to target player.
+p1770
+aVMogg Flunkies can't attack or block alone.
+p1771
+aVMob Justice deals damage to target player equal to the number of creatures you control.
+p1772
+aVDestroy all creatures target player controls. For each creature that died this way, put two 1/1 red Goblin creature tokens onto the battlefield under that player's control.
+p1773
+aVWhenever Mogg Maniac is dealt damage, it deals that much damage to target opponent.
+p1774
+aVSacrifice Morgue Thrull: Put the top three cards of your library into your graveyard.
+p1775
+aVWhenever a creature is put into your graveyard from the battlefield, put that card on top of your library.
+p1776
+aVIf Mox Diamond would enter the battlefield, you may discard a land card instead. If you do, put Mox Diamond onto the battlefield. If you don't, put it into its owner's graveyard.<br>{T}: Add one mana of any color to your mana pool.
+p1777
+aVWhenever a player casts a spell, counter it unless its controller pays {3}.
+p1778
+aVEnchant creature<br>Enchanted creature can't be the target of spells and can't be enchanted. This effect doesn't remove Anti-Magic Aura.
+p1779
+aVDiscard X cards, then return a card from your graveyard to your hand for each card discarded this way. Exile Recall.
+p1780
+aV{2}, {T}: Put a charge counter on Red Mana Battery.<br><br>{T}, Remove any number of charge counters from Red Mana Battery: Add {R} to your mana pool, then add an additional {R} to your mana pool for each charge counter removed this way.
+p1781
+aV{T}: Tap target artifact.
+p1782
+aVWhenever you cast a green creature spell, you may search your library for a creature card and reveal it. If you do, shuffle your library and put that card on top of it.<br>Whenever you cast a blue creature spell, reveal the top card of your library. If it's a creature card, put that card into your hand.
+p1783
+ag1491
+ag1491
+ag1491
+ag1491
+aVDeathtouch <i>(Any amount of damage this deals to a creature is enough to destroy it.)</i>
+p1784
+aVSacrifice Moonglove Extract: Moonglove Extract deals 2 damage to target creature or player.
+p1785
+aVHideaway <i>(This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)</i><br>{T}: Add {G} to your mana pool.<br>{G}, {T}: You may play the exiled card without paying its mana cost if creatures you control have total power 10 or greater.
+p1786
+aVWhen Mournwhelk enters the battlefield, target player discards two cards.<br>Evoke {3}{B} <i>(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</i>
+p1787
+ag1491
+ag1491
+ag1491
+ag1514
+aVTrample
+p1788
+aVTrample
+p1789
+ag1491
+aVAll Sliver creatures get +1/+1.
+p1790
+aVCounter target noncreature spell.
+p1791
+ag1493
+ag1493
+ag1493
+aVWhen Corrupt Court Official enters the battlefield, target opponent discards a card.
+p1792
+aVDestroy target land.
+p1793
+ag1530
+ag1530
+aVTrample
+p1794
+aVTarget creature gets +2/+2 and gains lifelink until end of turn. <i>(Damage dealt by the creature also causes its controller to gain that much life.)</i>
+p1795
+ag1491
+ag1491
+ag1491
+ag1491
+ag1491
+aVSacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.
+p1796
+aVMogg Flunkies can't attack or block alone.
+p1797
+aVWhen Plant Elemental enters the battlefield, sacrifice it unless you sacrifice a Forest.
+p1798
+aVEach player draws X cards.
+p1799
+aVPyroclasm deals 2 damage to each creature.
+p1800
+aVHaste <i>(This creature can attack and {T} as soon as it comes under your control.)</i>
+p1801
+aVHaste <i>(This creature can attack and {T} as soon as it comes under your control.)</i>
+p1802
+aVDestroy target land.
+p1803
+aVReturn target creature card from your graveyard to your hand.
+p1804
+aVYou gain 4 life.
+p1805
+aVScorching Spear deals 1 damage to target creature or player.
+p1806
+aVMogg Jailer can't attack if defending player controls an untapped creature with power 2 or less.
+p1807
+aVSacrifice Morgue Toad: Add {U}{R} to your mana pool.
+p1808
+aVWhenever an opponent casts a spell, Mogg Sentry gets +2/+2 until end of turn.
+p1809
+aVFlying<br>{R}: Each creature you control gets +1/+0 until end of turn.
+p1810
+aVReturn target instant or sorcery card from your graveyard to your hand.<br>Flashback {2}{R} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
+p1811
+aVUndying <i>(When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</i>
+p1812
+asS'costs'
+p1813
+(lp1814
+V{R}
+p1815
+aV{1}{R}
+p1816
+aV{R}
+p1817
+aS'0'
+p1818
+ag1818
+ag1818
+aV{U}
+p1819
+aV{1}{W}
+p1820
+aV{1}{W}{B}
+p1821
+aV{2}{B}{B}
+p1822
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+aV{1}{W}
+p1823
+ag1818
+aV{0}
+p1824
+aV{0}
+p1825
+aV{R}
 p1826
-aVMortiphobia
+ag1818
+ag1818
+ag1818
+aV{0}
 p1827
-aVMortal Combat
+aV{0}
 p1828
-aVMold Shambler
+aV{0}
 p1829
-aVMolten Ravager
+aV{2}{U}
 p1830
-aVMountain
+aV{1}{W}{W}
 p1831
-aVMountain
+aV{2}{G}
 p1832
-aVMountain
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+aV{2}{B}
 p1833
-aVMountain
+aV{U}
 p1834
-aVMountain
+aV{W}
 p1835
-aVMountain
+aV{2}{B}{B}
 p1836
-aVMountain
+aV{1}{R}
 p1837
-aVMountain
+ag1818
+ag1818
+ag1818
+ag1818
+aV{1}{W}{W}
 p1838
-aVMoss Diamond
+aV{R}
 p1839
-aVMountain
+ag1818
+ag1818
+ag1818
+aV{4}{R}
 p1840
-aVMountain
+aV{2}{R/W}{G}
 p1841
-aVMountain
+aV{2}{B}
 p1842
-aVMountain
+ag1818
+ag1818
+aV{3}{R}{R}{R}
 p1843
-aVMountain Goat
+ag1818
+ag1818
+ag1818
+ag1818
+aV{3}
 p1844
-aVMoriok Scavenger
+aV{6}
 p1845
-aVMolten Rain
+aV{4}{G}
 p1846
-aVMolder Slug
+aV{1}{R}{R}
 p1847
-aVMourner's Shield
+aV{4}
 p1848
-aVMountain
+ag1818
+aV{2}{B}
 p1849
-aVMountain
+ag1818
+ag1818
+ag1818
+aV{4}{G}
 p1850
-aVMountain
+aV{2}{B}{R}
 p1851
-aVMountain
+aV{W}
 p1852
-aVMoonglove Extract
+aV{2}{B}
 p1853
-aVMosquito Guard
+ag1818
+ag1818
+ag1818
+ag1818
+aV{3}{U}{U}
 p1854
-aVMosstodon
+ag1818
+aV{2}
 p1855
-aVMountain
+aV{3}{G}
 p1856
-aVMountain
+aV{R}
 p1857
-aVMountain
+aV{R}
 p1858
-aVMountain
+aV{1}{R}
 p1859
-aVMonstrous Growth
+aV{3}{W}
 p1860
-aVMoss Diamond
+aV{R}
 p1861
-aVMountain
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+aV{4}{G}{G}{G}
 p1862
-aVMountain
+aV{2}{B}{B}
 p1863
-aVMountain
+ag1818
+aV{2}{W}
 p1864
-aVMountain
+aV{R}
 p1865
-aVMountain
+aV{2}{B}{B}
 p1866
-aVMother of Runes
+ag1818
+ag1818
+ag1818
+aV{2}{W}
 p1867
-aVMolten Hydra
+aV{W}
 p1868
-aVMomentous Fall
+aV{B}
 p1869
-aVMortician Beetle
+aV{5}
 p1870
-aVMountain
+ag1818
+ag1818
+ag1818
+ag1818
+aV{4}{U}{U}
 p1871
-aVMountain
+ag1818
+aV{3}{W}
 p1872
-aVMountain
+aV{3}{U}{U}
 p1873
-aVMountain
+aV{0}
 p1874
-aVMorality Shift
+aV{0}
 p1875
-aVMonstrous Hound
+aV{0}
 p1876
-aVMoonring Island
+aV{2}{G}
 p1877
-aVMossbridge Troll
+aV{1}{R}
 p1878
-aVMorselhoarder
+aV{X}{R}{R}
 p1879
-aVMountain
+aV{U}
 p1880
-aVMountain
+aV{1}{W}{W}
 p1881
-aVMountain
+ag1818
+ag1818
+aV{1}{B}{B}
 p1882
-aVMountain
+aV{2}
 p1883
-aVMountain
+aV{1}{G}
 p1884
-aVMoltensteel Dragon
+aV{R}
 p1885
-aVMortis Dogs
+aV{1}{G}
 p1886
-aVMountain
+ag1818
+ag1818
+aV{2}{B}
 p1887
-aVMons's Goblin Raiders
+ag1818
+ag1818
+ag1818
+aV{R}
 p1888
-aVMonstrous Growth
+ag1818
+ag1818
+ag1818
+aV{1}{W/B}
 p1889
-aVMoon Sprite
+aV{1}{W}{B}
 p1890
-aVMountain
+aV{1}
 p1891
-aVMountain
+aV{R}
 p1892
-aVMountain
+aV{2}{B}{B}
 p1893
-aVMountain
+ag1818
+ag1818
+ag1818
+ag1818
+aV{3}{G}
 p1894
-aVMoriok Rigger
+aV{2}{R/W}
 p1895
-aVMolten Disaster
+aV{1}{R}
 p1896
-aVMoaning Spirit
+ag1818
+aV{2}{U}{U}
 p1897
-aVMonstrous Growth
+aV{2}{U}{U}
 p1898
-aVMountain
+aV{2}{W}
 p1899
-aVMountain
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+aV{1}{W}{B}
 p1900
-aVMountain
+ag1818
+ag1818
+ag1818
+aV{2}{W}
 p1901
-aVMountain
+ag1818
+ag1818
+ag1818
+ag1818
+aV{3}{W}
 p1902
-aVMountain
+aV{5}
 p1903
-aVMountain
+aV{5}{G}
 p1904
-aVMountain
+ag1818
+ag1818
+ag1818
+ag1818
+aV{3}{W}
 p1905
-aVMountain
+aV{2}{G}
 p1906
-aVMountain
+aV{2}{U}{B}
 p1907
-aVMountain
+aV{3}{B}
 p1908
-aVMountain
+aV{2}{G}
 p1909
-aVMountain
+aV{3}{R}
 p1910
-aVMountain
+aV{3}{B}{B}
 p1911
-aVMountain
+ag1818
+ag1818
+ag1818
+ag1818
+aV{3}{G}
 p1912
-aVMountain
+aV{X}{R}{R}
 p1913
-aVMountain
+ag1818
+ag1818
+ag1818
+aV{1}{B}
 p1914
-aVMobile Fort
+aV{4}{B}{B}
 p1915
-aVMonk Idealist
+ag1818
+aV{1}{R}
 p1916
-aVMonk Realist
+aV{1}
 p1917
-aVMorphling
+aV{1}{G}
 p1918
-aVMountain
+aV{2}{B}{B}
 p1919
-aVMountain
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+aV{1}{W}
 p1920
-aVMountain
+aV{X}{G}
 p1921
-aVMountain
+aV{U}
 p1922
-aVMoat
+aV{1}{R}
 p1923
-aVMountain
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+aV{X}{U}{B}
 p1924
-aVMountain
+aV{4}{U}
 p1925
-aVMountain
+aV{2}{R}
 p1926
-aVMountain Yeti
+aV{3}{R}
 p1927
-aVMogis's Marauder
+ag1818
+aV{0}
 p1928
-aVMountain
+aV{R}
 p1929
-aVMorinfen
+ag1818
+ag1818
+ag1818
+aV{0}
 p1930
-aVMoment of Heroism
+aV{0}
 p1931
-aVMorkrut Banshee
+aV{0}
 p1932
-aVMortify
+aV{0}
 p1933
-aVMogg Sentry
+aV{0}
 p1934
-aVMoss Monster
+aV{3}{B}
 p1935
-aVMonstrous Growth
+aV{2}{R}{G}
 p1936
-aVMountain
+aV{2}{B}{R}
 p1937
-aVMountain
+aV{2}{B}
 p1938
-aVMountain
+ag1818
+ag1818
+ag1818
+aV{R}
 p1939
-aVMountain
+aV{1}{W}
 p1940
-aVMossdog
+aV{1}{B}{B}
 p1941
-aVMogg Alarm
+aV{2}{B}{B}
 p1942
-aVMogg Salvage
+aV{B}
 p1943
-aVMoggcatcher
+aV{3}{G}
 p1944
-aVMogg Toady
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+aV{2}
 p1945
-aVMordant Dragon
+ag1818
+ag1818
+ag1818
+ag1818
+aV{R}
 p1946
-aVMountain Yeti
+aV{3}{B}
 p1947
-aVMourning
+aV{1}{R}{R}
 p1948
-aVMolimo, Maro-Sorcerer
+aV{3}{G}{G}
 p1949
-aVMountain
+aV{4}
 p1950
-aVMountain
+ag1818
+ag1818
+ag1818
+ag1818
+aV{1}{W}
 p1951
-aVMountain
+aV{3}
 p1952
-aVMountain
+aV{4}{G}
 p1953
-aVMogis's Warhound
+ag1818
+ag1818
+ag1818
+ag1818
+aV{1}{G}
 p1954
-aVMortal Obstinacy
+aV{2}
 p1955
-aVMonstrous Carabid
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+aV{W}
 p1956
-aVMorbid Bloom
+aV{1}{R}
 p1957
-aVMole Worms
+aV{4}{U}
 p1958
-aVMountain Goat
+aV{2}{G}{G}
 p1959
-aVMons's Goblin Raiders
+ag1818
+ag1818
+ag1818
+ag1818
+aV{5}{B}{B}
 p1960
-aVMountain
+aV{3}{R}
 p1961
-aVMountain
+ag1818
+aV{5}{G}{G}
 p1962
-aVMountain
+aV{4}{R/G}{R/G}
 p1963
-aVMountain
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+aV{5}{U}
 p1964
-aVMolimo, Maro-Sorcerer
+aV{4}{RP}{RP}
 p1965
-aVMortal Flesh Is Weak
+ag1818
+aV{R}
 p1966
-aVMosswort Bridge
+aV{1}{G}
 p1967
-aVMountain
+aV{1}{G}
 p1968
-aVMountain
+ag1818
+ag1818
+ag1818
+ag1818
+aV{2}{B}
 p1969
-aVMountain
+aV{X}{R}{R}
 p1970
-aVMolting Snakeskin
+aV{2}{B}
 p1971
-aVMonastery Flock
+aV{1}{G}
 p1972
-aVMonastery Swiftspear
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+aV{4}
 p1973
-aVMountain
+aV{2}{W}
 p1974
-aVMold Shambler
+aV{1}{W}
 p1975
-aVMountain Valley
+aV{3}{U}{U}
 p1976
-aVMoss Diamond
+ag1818
+ag1818
+ag1818
+ag1818
+aV{2}{W}{W}
 p1977
-aVMountain
+ag1818
+ag1818
+ag1818
+aV{2}{R}{R}
 p1978
-aVMountain
+aV{X}{G}
 p1979
-aVMountain
+ag1818
+aV{3}{B}{B}
 p1980
-aVMountain
+aV{3}{U}{U}
 p1981
-aVMomir Vig, Simic Visionary Avatar
+aV{1}{W}
 p1982
-aVMorinfen Avatar
+aV{3}{B}{B}
 p1983
-aVMoan of the Unhallowed
+aV{R}
 p1984
-aVMoldgraf Monstrosity
+aV{3}{G}{G}
 p1985
-aVMoment of Heroism
+aV{1}{G}
 p1986
-aVMoon Heron
+ag1818
+ag1818
+ag1818
+ag1818
+aV{G}
 p1987
-aVMoonmist
+aV{1}{R}{R}
 p1988
-aVMoorland Haunt
+aV{2}{R}
 p1989
-aVMorkrut Banshee
+aV{2}{R}{R}
 p1990
-aVMountain
+aV{1}{R}
 p1991
-aVMountain
+aV{B}
 p1992
-aVMountain
+aV{2}{R}{R}
 p1993
-aVMons's Goblin Raiders
+aV{1}{B}
 p1994
-aVMox Emerald
+aV{4}{G}{G}{G}
 p1995
-aVMox Pearl
+ag1818
+ag1818
+ag1818
+ag1818
+aV{1}{B}{B}
 p1996
-aVMox Sapphire
+aV{1}{R}
 p1997
-aVMountain
+aV{3}{B}{R}
 p1998
-aVMox Jet
+aV{4}{B}{G}
 p1999
-aVMox Ruby
+aV{2}{B}
 p2000
-aVMountain
+aV{R}
 p2001
-aVMortal Wound
+aV{R}
 p2002
-aVMob Mentality
+ag1818
+ag1818
+ag1818
+ag1818
+aV{4}{G}{G}{G}
 p2003
-aVMountain
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+aV{B}
 p2004
-aVMountain
+aV{2}{U}
 p2005
-aVMountain
+aV{R}
 p2006
-aVMorgue Burst
+ag1818
+aV{2}{U}
 p2007
-aVMogg Bombers
+ag1818
+aV{2}
 p2008
-aVMogg Flunkies
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+aV{1}{U}
 p2009
-aVMob Justice
+aV{3}{U}{U}
 p2010
-aVMogg Infestation
+aV{2}{B}{B}
 p2011
-aVMogg Maniac
+aV{4}{G}{G}{G}
 p2012
-aVMorgue Thrull
+aV{1}{W}
 p2013
-aVMortuary
+ag1818
+aV{3}{U}
 p2014
-aVMox Diamond
+ag1818
+ag1818
+ag1818
+aV{R}
 p2015
-aVMold Demon
+aV{0}
 p2016
-aVMountain Stronghold
+aV{0}
 p2017
-aVMoat
+aV{0}
 p2018
-aVMoss Monster
+ag1818
+aV{0}
 p2019
-aVMountain Yeti
+aV{0}
 p2020
-aVMomir Vig, Simic Visionary
+ag1818
+aV{G}
 p2021
-aVMountain
+aV{R}
 p2022
-aVMountain
+ag1818
+ag1818
+ag1818
+aV{4}{B}{R}
 p2023
-aVMountain
+aV{3}{R}
 p2024
-aVMountain
+aV{1}{R}
 p2025
-aVMoonglove Winnower
+aV{1}{R}
 p2026
-aVMoonglove Extract
+aV{3}{R}{R}
 p2027
-aVMosswort Bridge
+aV{1}{R}
 p2028
-aVMournwhelk
+aV{2}{B}
 p2029
-aVMountain
+aV{3}{B}
 p2030
-aVMountain
+aV{0}
 p2031
-aVMountain
+aV{5}{B}{B}
 p2032
-aVMountain
+ag1818
+aV{2}{W}{W}
 p2033
-aVMoorish Cavalry
+aV{3}{G}{G}
 p2034
-aVMoorish Cavalry
+aV{2}{R}{R}
 p2035
-aVMountain
+aV{3}{G}{U}
 p2036
-aVMountain
+ag1818
+ag1818
+ag1818
+ag1818
+aV{3}{B}
 p2037
-aVMountain
+aV{3}
 p2038
-aVMountain
+ag1818
+aV{1}{G}
 p2039
-aVMountain
+ag1818
+ag1818
+ag1818
+ag1818
+aV{2}{W}{W}
 p2040
-aVMountain
+aV{2}{W}{W}
 p2041
-aVMountain Bandit
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+aV{R}
 p2042
-aVMountain
+ag1818
+ag1818
+ag1818
+aV{2}{W}{W}
 p2043
-aVMountain
+aV{1}{W}
 p2044
-aVMountain
+ag1818
+ag1818
+ag1818
+ag1818
+ag1818
+aV{R}
 p2045
-aVMoorish Cavalry
+aV{1}{R}
 p2046
-aVMoment of Heroism
+aV{G}
 p2047
-aVMountain
+aV{1}{G}
 p2048
-aVMountain
+aV{1}{G}
 p2049
-aVMountain
+aV{1}{G}
 p2050
-aVMountain
+ag1818
+ag1818
+ag1818
+ag1818
+aV{R}
 p2051
-aVMountain
+aV{1}{R}
 p2052
-aVMogg Fanatic
+aV{2}{B}
 p2053
-aVMogg Flunkies
+aV{R}
 p2054
-aVMobilize
+aV{3}{R}
 p2055
-aVMonstrous Growth
+ag1818
+aV{3}{R}{R}{R}
 p2056
-aVMonstrous Growth
+asS'names'
 p2057
-aVMoon Sprite
-p2058
-aVMountain
+(lp2058
+VMogg Fanatic
 p2059
-aVMountain
+aVMogg Flunkies
 p2060
-aVMountain
+aVMogg Raider
 p2061
 aVMountain
 p2062
-aVMountain Goat
+aVMountain
 p2063
-aVMogg Jailer
+aVMolten Slagheap
 p2064
-aVMorgue Toad
+aVMonk Realist
 p2065
-aVMogg Sentry
+aVMortify
 p2066
-aVMondronen Shaman
+aVMortivore
 p2067
-aVMoonscarred Werewolf
+aVMother of Runes
 p2068
-aVMoonveil Dragon
+aVMountain
 p2069
-asS'rares'
+aVMountain
 p2070
-(lp2071
-VSpecial
+aVMountain
+p2071
+aVMountain
 p2072
-aVSpecial
+aVMountain
 p2073
-aVSpecial
+aVMountain
 p2074
-aVLand
+aVMountain
 p2075
-aVLand
+aVMonomania
 p2076
-aVUncommon
+aVMountain
 p2077
-aVCommon
+aVMox Jet
 p2078
-aVUncommon
+aVMox Ruby
 p2079
-aVRare
+aVMons's Goblin Raiders
 p2080
-aVUncommon
+aVMountain
 p2081
-aVLand
+aVMountain
 p2082
-aVLand
+aVMountain
 p2083
-aVLand
+aVMox Emerald
 p2084
-aVLand
+aVMox Pearl
 p2085
-aVLand
+aVMox Sapphire
 p2086
-aVLand
+aVMoonbow Illusionist
 p2087
-aVLand
+aVMoonwing Moth
 p2088
-aVRare
+aVMolting Skin
 p2089
-aVLand
+aVMogg Hollows
 p2090
-aVRare
+aVMountain
 p2091
-aVRare
+aVMountain
 p2092
-aVCommon
+aVMountain
 p2093
-aVLand
+aVMountain
 p2094
-aVLand
+aVMountain
 p2095
-aVLand
+aVMountain
 p2096
-aVRare
+aVMountain
 p2097
-aVRare
+aVMountain
 p2098
-aVRare
+aVMountain
 p2099
-aVCommon
+aVMoonglove Changeling
 p2100
-aVCommon
+aVMothdust Changeling
 p2101
-aVUncommon
+aVMosquito Guard
 p2102
-aVUncommon
+aVMorsel Theft
 p2103
-aVLand
+aVMogg Flunkies
 p2104
-aVLand
+aVMountain
 p2105
-aVLand
+aVMountain
 p2106
-aVLand
+aVMountain
 p2107
-aVLand
+aVMountain
 p2108
-aVLand
+aVMorale
 p2109
-aVLand
+aVMons's Goblin Raiders
 p2110
-aVLand
+aVMountain
 p2111
-aVLand
+aVMountain
 p2112
-aVCommon
+aVMountain
 p2113
-aVCommon
+aVMolten Firebird
 p2114
-aVCommon
+aVMorgue Toad
 p2115
-aVCommon
+aVMoroii
 p2116
-aVCommon
+aVMountain
 p2117
-aVLand
+aVMountain
 p2118
-aVLand
+aVMordant Dragon
 p2119
-aVLand
+aVMountain
 p2120
-aVLand
+aVMountain
 p2121
-aVCommon
+aVMountain
 p2122
-aVCommon
+aVMountain
 p2123
-aVLand
+aVMolder Beast
 p2124
-aVLand
+aVMolten Psyche
 p2125
-aVLand
+aVMolten-Tail Masticore
 p2126
-aVRare
+aVMoriok Reaver
 p2127
-aVCommon
+aVMoriok Replica
 p2128
-aVUncommon
+aVMountain
 p2129
-aVLand
+aVMox Opal
 p2130
-aVLand
+aVMountain
 p2131
-aVRare
+aVMountain
 p2132
-aVLand
+aVMountain
 p2133
-aVLand
+aVMogis, God of Slaughter
 p2134
-aVLand
+aVMortal's Ardor
 p2135
-aVLand
+aVMortal's Resolve
 p2136
-aVCommon
+aVMold Adder
 p2137
-aVRare
+aVMountain
 p2138
-aVMythic Rare
+aVMountain
 p2139
-aVCommon
+aVMountain
 p2140
-aVCommon
+aVMountain
 p2141
-aVLand
+aVMolten Birth
 p2142
-aVMythic Rare
+aVMountain
 p2143
-aVLand
+aVMogg Cannon
 p2144
-aVLand
+aVMongrel Pack
 p2145
-aVLand
+aVMogg Conscripts
 p2146
-aVMythic Rare
+aVMogg Raider
 p2147
-aVCommon
+aVMogg Squad
 p2148
-aVCommon
+aVMounted Archers
 p2149
-aVUncommon
+aVMogg Fanatic
 p2150
-aVLand
+aVMogg Hollows
 p2151
-aVLand
+aVMountain
 p2152
-aVLand
+aVMountain
 p2153
-aVLand
+aVMountain
 p2154
-aVUncommon
+aVMountain
 p2155
-aVLand
+aVMolimo, Maro-Sorcerer
 p2156
-aVUncommon
+aVMortivore
 p2157
-aVRare
+aVMountain
 p2158
-aVCommon
+aVMobilization
 p2159
-aVCommon
+aVMogg Fanatic
 p2160
-aVUncommon
+aVMortal Combat
 p2161
-aVCommon
+aVMountain
 p2162
-aVCommon
+aVMountain
 p2163
-aVUncommon
+aVMountain
 p2164
-aVLand
+aVMoonlit Wake
 p2165
-aVLand
+aVMoment of Silence
 p2166
-aVLand
+aVMolting Harpy
 p2167
-aVLand
+aVMonkey Cage
 p2168
-aVRare
+aVMountain
 p2169
-aVRare
+aVMountain
 p2170
-aVLand
+aVMountain
 p2171
-aVRare
+aVMountain
 p2172
-aVUncommon
+aVMorphling
 p2173
-aVRare
+aVMountain Valley
 p2174
-aVLand
+aVMox Emerald
 p2175
-aVLand
+aVMox Jet
 p2176
-aVLand
+aVMox Pearl
 p2177
-aVUncommon
+aVMox Ruby
 p2178
-aVCommon
+aVMox Sapphire
 p2179
-aVUncommon
+aVMoldervine Cloak
 p2180
-aVRare
+aVMogg War Marshal
 p2181
-aVLand
+aVMolten Disaster
 p2182
-aVLand
+aVMothdust Changeling
 p2183
-aVLand
+aVMorale
 p2184
-aVLand
+aVMountain
 p2185
-aVMythic Rare
+aVMountain
 p2186
-aVUncommon
+aVMorbid Plunder
 p2187
-aVBonus
+aVMortarpod
 p2188
-aVBonus
+aVMoon Sprite
 p2189
-aVBonus
+aVMons's Goblin Raiders
 p2190
-aVBonus
+aVMonstrous Growth
 p2191
-aVBonus
+aVMountain
 p2192
-aVCommon
+aVMountain
 p2193
-aVCommon
+aVMournful Zombie
 p2194
-aVRare
+aVMountain
 p2195
-aVCommon
+aVMountain
 p2196
-aVCommon
+aVMountain
 p2197
-aVLand
+aVMons's Goblin Raiders
 p2198
-aVLand
+aVMountain
 p2199
-aVCommon
+aVMountain
 p2200
-aVUncommon
+aVMountain
 p2201
-aVUncommon
+aVMourning Thrull
 p2202
-aVCommon
+aVMortify
 p2203
-aVCommon
+aVMoratorium Stone
 p2204
-aVLand
+aVMogg Sentry
 p2205
-aVLand
+aVMortivore
 p2206
-aVCommon
+aVMountain
 p2207
-aVLand
+aVMountain
 p2208
-aVLand
+aVMountain
 p2209
-aVLand
+aVMountain
 p2210
-aVCommon
+aVMonstrify
 p2211
-aVLand
+aVMoonhold
 p2212
-aVLand
+aVMolten Frame
 p2213
-aVLand
+aVMountain
 p2214
-aVCommon
+aVMoonlight Geist
 p2215
-aVUncommon
+aVMoonsilver Spear
 p2216
-aVRare
+aVMoorland Inquisitor
 p2217
-aVRare
+aVMountain
 p2218
-aVRare
+aVMountain
 p2219
-aVLand
+aVMorphic Tide
 p2220
-aVLand
+aVMount Keralia
 p2221
-aVLand
+aVMountain
 p2222
-aVLand
+aVMountain
 p2223
-aVCommon
+aVMountain
 p2224
-aVUncommon
+aVMountain
 p2225
-aVCommon
+aVMortify
 p2226
-aVLand
+aVMountain
 p2227
-aVCommon
+aVMountain
 p2228
-aVRare
+aVMountain
 p2229
-aVCommon
+aVMobilization
 p2230
-aVLand
+aVMountain
 p2231
-aVLand
+aVMountain
 p2232
-aVCommon
+aVMountain
 p2233
-aVCommon
+aVMountain
 p2234
-aVLand
+aVMothrider Samurai
 p2235
-aVLand
+aVMoonring Mirror
 p2236
-aVLand
+aVMoss Kami
 p2237
-aVLand
+aVMountain
 p2238
-aVUncommon
+aVMountain
 p2239
-aVLand
+aVMountain
 p2240
-aVLand
+aVMountain
 p2241
-aVLand
+aVMoonlit Strider
 p2242
-aVRare
+aVMomentum
 p2243
-aVLand
+aVMoroii
 p2244
-aVLand
+aVMortipede
 p2245
-aVLand
+aVMoldervine Cloak
 p2246
-aVLand
+aVMolten Sentry
 p2247
-aVCommon
+aVMoonlight Bargain
 p2248
-aVRare
+aVMountain
 p2249
-aVCommon
+aVMountain
 p2250
-aVLand
+aVMountain
 p2251
-aVLand
+aVMountain
 p2252
-aVLand
+aVMold Shambler
 p2253
-aVLand
+aVMolten Disaster
 p2254
-aVCommon
+aVMolten Slagheap
 p2255
-aVUncommon
+aVMosswort Bridge
 p2256
-aVUncommon
+aVMountain
 p2257
-aVCommon
+aVMorgue Theft
 p2258
-aVUncommon
+aVMorbid Hunger
 p2259
-aVRare
+aVMossfire Valley
 p2260
-aVRare
+aVMolten Influence
 p2261
-aVLand
+aVMossfire Egg
 p2262
-aVLand
+aVMoment's Peace
 p2263
-aVLand
+aVMortivore
 p2264
-aVLand
+aVMountain
 p2265
-aVCommon
+aVMountain
 p2266
-aVRare
+aVMountain
 p2267
-aVUncommon
+aVMountain
 p2268
-aVRare
+aVMolten Slagheap
 p2269
-aVLand
+aVMomentary Blink
 p2270
-aVCommon
+aVMolder
 p2271
-aVCommon
+aVMoonlace
 p2272
-aVRare
+aVMogg War Marshal
 p2273
-aVRare
+aVMountain
 p2274
-aVUncommon
+aVMountain
 p2275
-aVCommon
+aVMountain
 p2276
-aVRare
+aVMountain
 p2277
-aVLand
+aVMountain
 p2278
-aVLand
+aVMountain
 p2279
-aVLand
+aVMountain
 p2280
-aVLand
+aVMountain
 p2281
-aVUncommon
+aVMountain
 p2282
-aVCommon
+aVMolten Primordial
 p2283
-aVCommon
+aVMortus Strider
 p2284
-aVRare
+aVMogg Assassin
 p2285
-aVCommon
+aVMonstrous Hound
 p2286
-aVLand
+aVMouth of Ronom
 p2287
-aVLand
+aVMox Diamond
 p2288
-aVLand
+aVMons's Goblin Raiders
 p2289
-aVLand
+aVMountain
 p2290
-aVLand
+aVMountain
 p2291
-aVLand
+aVMountain
 p2292
-aVLand
+aVMox Emerald
 p2293
-aVLand
+aVMox Jet
 p2294
-aVLand
+aVMox Pearl
 p2295
-aVRare
+aVMox Ruby
 p2296
-aVCommon
+aVMox Sapphire
 p2297
-aVUncommon
+aVMoor Fiend
 p2298
-aVRare
+aVMonsoon
 p2299
-aVUncommon
+aVMountain Titan
 p2300
-aVMythic Rare
+aVMole Worms
 p2301
-aVCommon
+aVMountain
 p2302
-aVLand
+aVMountain
 p2303
-aVLand
+aVMountain
 p2304
-aVLand
+aVMountain Goat
 p2305
-aVRare
+aVMorningtide
 p2306
-aVRare
+aVMortiphobia
 p2307
-aVRare
+aVMortal Combat
 p2308
-aVRare
+aVMold Shambler
 p2309
-aVRare
+aVMolten Ravager
 p2310
-aVCommon
+aVMountain
 p2311
-aVRare
+aVMountain
 p2312
-aVRare
+aVMountain
 p2313
-aVUncommon
+aVMountain
 p2314
-aVLand
+aVMountain
 p2315
-aVLand
+aVMountain
 p2316
-aVLand
+aVMountain
 p2317
-aVCommon
+aVMountain
 p2318
-aVRare
+aVMoss Diamond
 p2319
-aVUncommon
+aVMountain
 p2320
-aVRare
+aVMountain
 p2321
-aVCommon
+aVMountain
 p2322
-aVCommon
+aVMountain
 p2323
-aVLand
+aVMountain Goat
 p2324
-aVLand
+aVMoriok Scavenger
 p2325
-aVLand
+aVMolten Rain
 p2326
-aVLand
+aVMolder Slug
 p2327
-aVLand
+aVMourner's Shield
 p2328
-aVLand
+aVMountain
 p2329
-aVLand
+aVMountain
 p2330
-aVLand
+aVMountain
 p2331
-aVUncommon
+aVMountain
 p2332
-aVLand
+aVMoonglove Extract
 p2333
-aVLand
+aVMosquito Guard
 p2334
-aVLand
+aVMosstodon
 p2335
-aVLand
+aVMountain
 p2336
-aVCommon
+aVMountain
 p2337
-aVCommon
+aVMountain
 p2338
-aVCommon
+aVMountain
 p2339
-aVRare
+aVMonstrous Growth
 p2340
-aVUncommon
+aVMoss Diamond
 p2341
-aVLand
+aVMountain
 p2342
-aVLand
+aVMountain
 p2343
-aVLand
+aVMountain
 p2344
-aVLand
+aVMountain
 p2345
-aVCommon
+aVMountain
 p2346
-aVCommon
+aVMother of Runes
 p2347
-aVCommon
+aVMolten Hydra
 p2348
-aVLand
+aVMomentous Fall
 p2349
-aVLand
+aVMortician Beetle
 p2350
-aVLand
+aVMountain
 p2351
-aVLand
+aVMountain
 p2352
-aVCommon
+aVMountain
 p2353
-aVUncommon
+aVMountain
 p2354
-aVLand
+aVMorality Shift
 p2355
-aVLand
+aVMonstrous Hound
 p2356
-aVLand
+aVMoonring Island
 p2357
-aVLand
+aVMossbridge Troll
 p2358
-aVLand
+aVMorselhoarder
 p2359
-aVUncommon
+aVMountain
 p2360
-aVRare
+aVMountain
 p2361
-aVRare
+aVMountain
 p2362
-aVRare
+aVMountain
 p2363
-aVLand
+aVMountain
 p2364
-aVLand
+aVMoltensteel Dragon
 p2365
-aVLand
+aVMortis Dogs
 p2366
-aVLand
+aVMountain
 p2367
-aVRare
+aVMons's Goblin Raiders
 p2368
-aVRare
+aVMonstrous Growth
 p2369
-aVUncommon
+aVMoon Sprite
 p2370
-aVRare
+aVMountain
 p2371
-aVCommon
+aVMountain
 p2372
-aVLand
+aVMountain
 p2373
-aVLand
+aVMountain
 p2374
-aVLand
+aVMoriok Rigger
 p2375
-aVLand
+aVMolten Disaster
 p2376
-aVLand
+aVMoaning Spirit
 p2377
-aVRare
+aVMonstrous Growth
 p2378
-aVCommon
+aVMountain
 p2379
-aVLand
+aVMountain
 p2380
-aVRare
+aVMountain
 p2381
-aVCommon
+aVMountain
 p2382
-aVUncommon
+aVMountain
 p2383
-aVLand
+aVMountain
 p2384
-aVLand
+aVMountain
 p2385
-aVLand
+aVMountain
 p2386
-aVLand
+aVMountain
 p2387
-aVRare
+aVMountain
 p2388
-aVRare
+aVMountain
 p2389
-aVCommon
+aVMountain
 p2390
-aVCommon
+aVMountain
 p2391
-aVLand
+aVMountain
 p2392
-aVLand
+aVMountain
 p2393
-aVLand
+aVMountain
 p2394
-aVLand
+aVMobile Fort
 p2395
-aVLand
+aVMonk Idealist
 p2396
-aVLand
+aVMonk Realist
 p2397
-aVLand
+aVMorphling
 p2398
-aVLand
+aVMountain
 p2399
-aVLand
+aVMountain
 p2400
-aVLand
+aVMountain
 p2401
-aVLand
+aVMountain
 p2402
-aVLand
+aVMoat
 p2403
-aVLand
+aVMountain
 p2404
-aVLand
+aVMountain
 p2405
-aVLand
+aVMountain
 p2406
-aVLand
+aVMountain Yeti
 p2407
-aVUncommon
+aVMogis's Marauder
 p2408
-aVUncommon
+aVMountain
 p2409
-aVCommon
+aVMorinfen
 p2410
-aVRare
+aVMoment of Heroism
 p2411
-aVLand
+aVMorkrut Banshee
 p2412
-aVLand
+aVMortify
 p2413
-aVLand
+aVMogg Sentry
 p2414
-aVLand
+aVMoss Monster
 p2415
-aVRare
+aVMonstrous Growth
 p2416
-aVLand
+aVMountain
 p2417
-aVLand
+aVMountain
 p2418
-aVLand
+aVMountain
 p2419
-aVCommon
+aVMountain
 p2420
-aVUncommon
+aVMossdog
 p2421
-aVLand
+aVMogg Alarm
 p2422
-aVRare
+aVMogg Salvage
 p2423
-aVCommon
+aVMoggcatcher
 p2424
-aVUncommon
+aVMogg Toady
 p2425
-aVUncommon
+aVMordant Dragon
 p2426
-aVRare
+aVMountain Yeti
 p2427
-aVCommon
+aVMourning
 p2428
-aVCommon
+aVMolimo, Maro-Sorcerer
 p2429
-aVLand
+aVMountain
 p2430
-aVLand
+aVMountain
 p2431
-aVLand
+aVMountain
 p2432
-aVLand
+aVMountain
 p2433
-aVCommon
+aVMogis's Warhound
 p2434
-aVUncommon
+aVMortal Obstinacy
 p2435
-aVUncommon
+aVMonstrous Carabid
 p2436
-aVRare
+aVMorbid Bloom
 p2437
-aVCommon
+aVMole Worms
 p2438
-aVRare
+aVMountain Goat
 p2439
-aVCommon
+aVMons's Goblin Raiders
 p2440
-aVCommon
+aVMountain
 p2441
-aVRare
+aVMountain
 p2442
-aVLand
+aVMountain
 p2443
-aVLand
+aVMountain
 p2444
-aVLand
+aVMolimo, Maro-Sorcerer
 p2445
-aVLand
+aVMortal Flesh Is Weak
 p2446
-aVUncommon
+aVMosswort Bridge
 p2447
-aVCommon
+aVMountain
 p2448
-aVCommon
+aVMountain
 p2449
-aVUncommon
+aVMountain
 p2450
-aVUncommon
+aVMolting Snakeskin
 p2451
-aVCommon
+aVMonastery Flock
 p2452
-aVCommon
+aVMonastery Swiftspear
 p2453
-aVLand
+aVMountain
 p2454
-aVLand
+aVMold Shambler
 p2455
-aVLand
+aVMountain Valley
 p2456
-aVLand
+aVMoss Diamond
 p2457
-aVRare
+aVMountain
 p2458
-aVCommon
+aVMountain
 p2459
-aVRare
+aVMountain
 p2460
-aVLand
+aVMountain
 p2461
-aVLand
+aVMomir Vig, Simic Visionary Avatar
 p2462
-aVLand
+aVMorinfen Avatar
 p2463
-aVCommon
+aVMoan of the Unhallowed
 p2464
-aVCommon
+aVMoldgraf Monstrosity
 p2465
-aVUncommon
+aVMoment of Heroism
 p2466
-aVLand
+aVMoon Heron
 p2467
-aVCommon
+aVMoonmist
 p2468
-aVUncommon
+aVMoorland Haunt
 p2469
-aVUncommon
+aVMorkrut Banshee
 p2470
-aVLand
+aVMountain
 p2471
-aVLand
+aVMountain
 p2472
-aVLand
+aVMountain
 p2473
-aVLand
+aVMons's Goblin Raiders
 p2474
-aVSpecial
+aVMox Emerald
 p2475
-aVSpecial
+aVMox Pearl
 p2476
-aVUncommon
+aVMox Sapphire
 p2477
-aVRare
+aVMountain
 p2478
-aVCommon
+aVMox Jet
 p2479
-aVCommon
+aVMox Ruby
 p2480
-aVCommon
+aVMountain
 p2481
-aVRare
+aVMortal Wound
 p2482
-aVUncommon
+aVMob Mentality
 p2483
-aVLand
+aVMountain
 p2484
-aVLand
+aVMountain
 p2485
-aVLand
+aVMountain
 p2486
-aVCommon
+aVMorgue Burst
 p2487
-aVRare
+aVMogg Bombers
 p2488
-aVRare
+aVMogg Flunkies
 p2489
-aVRare
+aVMob Justice
 p2490
-aVLand
+aVMogg Infestation
 p2491
-aVRare
+aVMogg Maniac
 p2492
-aVRare
+aVMorgue Thrull
 p2493
-aVLand
+aVMortuary
 p2494
-aVCommon
+aVMox Diamond
 p2495
-aVUncommon
+aVMold Demon
 p2496
-aVLand
+aVMountain Stronghold
 p2497
-aVLand
+aVMoat
 p2498
-aVLand
+aVMoss Monster
 p2499
-aVCommon
+aVMountain Yeti
 p2500
-aVCommon
+aVMomir Vig, Simic Visionary
 p2501
-aVCommon
+aVMountain
 p2502
-aVCommon
+aVMountain
 p2503
-aVRare
+aVMountain
 p2504
-aVUncommon
+aVMountain
 p2505
-aVCommon
+aVMoonglove Winnower
 p2506
-aVRare
+aVMoonglove Extract
 p2507
-aVRare
+aVMosswort Bridge
 p2508
-aVRare
+aVMournwhelk
 p2509
-aVUncommon
+aVMountain
 p2510
-aVRare
+aVMountain
 p2511
-aVCommon
+aVMountain
 p2512
-aVUncommon
+aVMountain
 p2513
-aVRare
+aVMoorish Cavalry
 p2514
-aVLand
+aVMoorish Cavalry
 p2515
-aVLand
+aVMountain
 p2516
-aVLand
+aVMountain
 p2517
-aVLand
+aVMountain
 p2518
-aVCommon
+aVMountain
 p2519
-aVCommon
+aVMountain
 p2520
-aVRare
+aVMountain
 p2521
-aVCommon
+aVMountain Bandit
 p2522
-aVLand
+aVMountain
 p2523
-aVLand
+aVMountain
 p2524
-aVLand
+aVMountain
 p2525
-aVLand
+aVMoorish Cavalry
 p2526
-aVCommon
+aVMoment of Heroism
 p2527
-aVCommon
+aVMountain
 p2528
-aVCommon
+aVMountain
 p2529
-aVLand
+aVMountain
 p2530
-aVLand
+aVMountain
 p2531
-aVLand
+aVMountain
 p2532
-aVLand
+aVMogg Fanatic
 p2533
-aVLand
+aVMogg Flunkies
 p2534
-aVCommon
+aVMobilize
 p2535
-aVLand
+aVMonstrous Growth
 p2536
-aVLand
+aVMonstrous Growth
 p2537
-aVLand
+aVMoon Sprite
 p2538
-aVSpecial
+aVMountain
 p2539
-aVCommon
+aVMountain
 p2540
-aVLand
+aVMountain
 p2541
-aVLand
+aVMountain
 p2542
-aVLand
+aVMountain Goat
 p2543
-aVLand
+aVMogg Jailer
 p2544
-aVLand
+aVMorgue Toad
 p2545
-aVUncommon
+aVMogg Sentry
 p2546
-aVCommon
+aVMondronen Shaman
 p2547
-aVCommon
+aVMoonscarred Werewolf
 p2548
-aVCommon
+aVMoonveil Dragon
 p2549
-aVCommon
+asS'toughs'
 p2550
-aVUncommon
-p2551
-aVLand
+(lp2551
+V1
 p2552
-aVLand
+ag2552
+aV3
 p2553
-aVLand
+aS'N/A'
 p2554
-aVLand
+ag2554
+ag2554
+aV5
 p2555
-aVUncommon
+ag2554
+ag2552
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2552
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+aV2
 p2556
-aVUncommon
+ag2552
+ag2552
+ag2554
+ag2556
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2553
+ag2554
+ag2554
+ag2554
+ag2556
+aV4
 p2557
-aVCommon
+ag2556
+ag2554
+ag2554
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2555
+ag2554
+ag2554
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2553
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2553
+ag2552
+ag2553
+ag2557
+ag2555
+ag2557
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+aV*
 p2558
-aVRare
+ag2553
+ag2554
+ag2554
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2557
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2557
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2553
+ag2554
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2552
+ag2552
+ag2554
+ag2554
+ag2554
+ag2557
+ag2554
+ag2554
+ag2554
+ag2552
+ag2554
+ag2554
+ag2554
+ag2552
+ag2554
+ag2554
+aV6
 p2559
-aVRare
+ag2557
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2553
+ag2554
+ag2556
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2556
+ag2554
+ag2555
+ag2554
+ag2554
+ag2554
+ag2554
+ag2557
+ag2554
+ag2557
+ag2556
+ag2554
+ag2557
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2556
+ag2556
+ag2552
+ag2553
+ag2554
+ag2554
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2552
+ag2554
+aV1+*
 p2560
-aVCommon
+ag2555
+ag2554
+ag2554
+ag2554
+ag2556
+ag2554
+ag2554
+ag2554
+ag2556
+ag2556
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2552
+ag2553
+ag2554
+ag2557
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2556
+ag2553
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2557
+ag2553
+ag2554
+ag2553
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2553
+ag2554
+ag2557
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2556
+ag2554
+ag2552
+ag2554
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+aV8
 p2561
-aVMythic Rare
+ag2554
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+aV0
 p2562
+ag2556
+ag2553
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2556
+ag2555
+ag2554
+ag2556
+ag2554
+ag2557
+ag2554
+ag2552
+ag2559
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2552
+ag2554
+ag2554
+ag2556
+ag2552
+ag2552
+ag2553
+ag2554
+ag2556
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2553
+ag2554
+ag2552
+ag2556
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2555
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2555
+ag2556
+ag2554
+ag2555
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2552
+ag2554
+ag2553
+ag2554
+ag2554
+ag2555
+ag2554
+ag2554
+ag2554
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2557
+ag2553
+ag2554
+ag2554
+ag2552
+ag2556
+ag2554
+ag2554
+ag2557
+ag2554
+ag2554
+ag2559
+ag2559
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2553
+ag2554
+ag2554
+ag2557
+ag2554
+ag2554
+ag2554
+ag2554
+ag2553
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2552
+ag2554
+ag2554
+ag2554
+ag2553
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2552
+ag2553
+ag2554
+ag2554
+ag2554
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2552
+ag2556
+ag2557
+ag2556
+ag2557
+ag2554
+ag2557
 asS'artists'
 p2563
 (lp2564
@@ -6042,8 +6042,8 @@ aVRobh Ruppel
 p2580
 aVSam Wood
 p2581
-ag1013
-ag1013
+ag1493
+ag1493
 aVDan Frazier
 p2582
 aVDan Frazier
@@ -6248,18 +6248,18 @@ aVVolkan Baga
 p2682
 aVVolkan Baga
 p2683
-ag1013
-ag1013
-ag1013
-ag1013
+ag1493
+ag1493
+ag1493
+ag1493
 aVMark Poole
 p2684
 aVTomasz Jedruszek
 p2685
 aVTomasz Jedruszek
 p2686
-ag1013
-ag1013
+ag1493
+ag1493
 aVTerese Nielsen
 p2687
 aVPete Venters
@@ -6326,10 +6326,10 @@ aVJohn Avon
 p2718
 aVJohn Avon
 p2719
-ag1013
-ag1013
-ag1013
-ag1013
+ag1493
+ag1493
+ag1493
+ag1493
 aVNils Hamm
 p2720
 aVJames Paick
@@ -6608,9 +6608,9 @@ aVSteve Prescott
 p2857
 aVTomasz Jedruszek
 p2858
-ag1013
-ag1013
-ag1013
+ag1493
+ag1493
+ag1493
 aVPete Venters
 p2859
 aVUna Fricker
@@ -6941,8 +6941,8 @@ aVAleksi Briclot
 p3022
 aVRichard Wright
 p3023
-ag1013
-ag1013
+ag1493
+ag1493
 aVRebecca Guay
 p3024
 aVDan Frazier
@@ -6976,499 +6976,499 @@ p3038
 asS'powers'
 p3039
 (lp3040
-g3
-ag3
-ag4
-ag5
-ag5
-ag5
-ag3
-ag5
-ag3
-ag7
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag3
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag7
-ag7
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag7
-ag3
-ag3
-ag5
-ag4
-ag5
-ag5
-ag5
-ag5
-ag5
-ag4
-ag5
-ag5
-ag5
-ag7
-ag7
-ag8
-ag5
-ag5
-ag3
-ag5
-ag5
-ag5
-ag5
-ag7
-ag5
-ag5
-ag3
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag4
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag7
-ag3
-ag4
-ag4
-ag13
-ag3
-ag5
-ag5
-ag5
-ag5
-ag5
-ag9
-ag3
-ag5
-ag5
-ag3
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag8
-ag5
-ag5
-ag5
-ag5
-ag5
-ag4
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag4
-ag5
-ag3
-ag5
-ag5
-ag5
-ag5
-ag5
-ag3
-ag3
-ag5
-ag5
-ag5
-ag4
-ag5
-ag5
-ag5
-ag3
-ag5
-ag5
-ag5
-ag3
-ag5
-ag5
-ag6
-ag3
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag4
-ag5
-ag7
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag7
-ag5
-ag6
-ag5
-ag5
-ag5
-ag5
-ag3
-ag5
-ag8
-ag7
-ag5
-ag7
-ag5
-ag5
-ag5
-ag5
-ag5
-ag3
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag7
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag13
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag7
-ag7
-ag7
-ag4
-ag5
-ag5
-ag3
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag3
-ag5
+g2552
+ag2552
+ag2553
+ag2554
+ag2554
+ag2554
+ag2552
+ag2554
+ag2552
+ag2556
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2556
+ag2556
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2556
+ag2552
+ag2552
+ag2554
+ag2553
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2553
+ag2554
+ag2554
+ag2554
+ag2556
+ag2556
+ag2557
+ag2554
+ag2554
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2556
+ag2554
+ag2554
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2553
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2556
+ag2552
+ag2553
+ag2553
+ag2562
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2558
+ag2552
+ag2554
+ag2554
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2557
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2553
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2553
+ag2554
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2552
+ag2552
+ag2554
+ag2554
+ag2554
+ag2553
+ag2554
+ag2554
+ag2554
+ag2552
+ag2554
+ag2554
+ag2554
+ag2552
+ag2554
+ag2554
+ag2555
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2553
+ag2554
+ag2556
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2556
+ag2554
+ag2555
+ag2554
+ag2554
+ag2554
+ag2554
+ag2552
+ag2554
+ag2557
+ag2556
+ag2554
+ag2556
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2556
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2562
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2556
+ag2556
+ag2556
+ag2553
+ag2554
+ag2554
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2552
+ag2554
 aV1+*
 p3041
-ag7
-ag5
-ag5
-ag5
-ag7
-ag5
-ag5
-ag5
-ag7
-ag4
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag3
-ag7
-ag5
-ag8
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag3
-ag6
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag10
-ag4
-ag5
-ag13
-ag5
-ag5
-ag5
-ag5
-ag5
-ag10
-ag5
-ag8
-ag7
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag4
-ag5
-ag3
-ag5
-ag3
-ag5
-ag5
-ag5
-ag5
-ag12
-ag5
-ag7
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag13
-ag7
-ag4
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag7
-ag4
-ag5
-ag4
-ag5
-ag7
-ag5
-ag3
-ag4
-ag5
-ag5
-ag5
-ag5
-ag5
-ag3
-ag5
-ag5
-ag7
-ag3
-ag6
-ag4
-ag5
-ag7
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag4
-ag5
-ag4
-ag7
-ag3
-ag5
-ag5
-ag5
-ag5
-ag6
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag13
-ag3
-ag5
-ag3
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag6
-ag5
+ag2556
+ag2554
+ag2554
+ag2554
+ag2556
+ag2554
+ag2554
+ag2554
+ag2556
+ag2553
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2552
+ag2556
+ag2554
+ag2557
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2552
+ag2555
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2559
+ag2553
+ag2554
+ag2562
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2559
+ag2554
+ag2557
+ag2556
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2553
+ag2554
+ag2552
+ag2554
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2561
+ag2554
+ag2556
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2562
+ag2556
+ag2553
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2556
+ag2553
+ag2554
+ag2553
+ag2554
+ag2556
+ag2554
+ag2552
+ag2553
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2552
+ag2554
+ag2554
+ag2556
+ag2552
+ag2555
+ag2553
+ag2554
+ag2556
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2553
+ag2554
+ag2553
+ag2556
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2555
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2562
+ag2552
+ag2554
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2555
+ag2554
 aV13
 p3042
-ag5
-ag5
-ag13
-ag5
-ag5
-ag5
-ag3
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag4
-ag4
-ag5
-ag5
-ag3
-ag7
-ag5
-ag5
-ag7
-ag5
-ag5
-ag8
-ag4
-ag3
-ag5
-ag5
-ag5
-ag5
-ag7
-ag5
-ag5
-ag4
-ag5
-ag5
-ag5
-ag5
-ag4
-ag3
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag3
-ag5
-ag5
-ag5
-ag4
-ag5
-ag5
-ag5
-ag5
-ag5
-ag5
-ag3
-ag4
-ag5
-ag5
-ag5
-ag3
-ag5
-ag5
-ag5
-ag5
-ag3
-ag7
-ag7
-ag7
-ag8
-ag5
-ag8
+ag2554
+ag2554
+ag2562
+ag2554
+ag2554
+ag2554
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2553
+ag2553
+ag2554
+ag2554
+ag2552
+ag2556
+ag2554
+ag2554
+ag2556
+ag2554
+ag2554
+ag2557
+ag2553
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2556
+ag2554
+ag2554
+ag2553
+ag2554
+ag2554
+ag2554
+ag2554
+ag2553
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2552
+ag2554
+ag2554
+ag2554
+ag2553
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2554
+ag2552
+ag2553
+ag2554
+ag2554
+ag2554
+ag2552
+ag2554
+ag2554
+ag2554
+ag2554
+ag2552
+ag2556
+ag2556
+ag2556
+ag2557
+ag2554
+ag2557
 asS'types'
 p3043
 (lp3044
@@ -8495,8 +8495,8 @@ aV102
 p3555
 aV243
 p3556
-ag8
-ag6
+ag2557
+ag2555
 aV175
 p3557
 aV176
@@ -8687,17 +8687,17 @@ aV81
 p3650
 aV306
 p3651
-ag6
-ag10
+ag2555
+ag2559
 aV7
 p3652
-ag12
+ag2561
 aV9
 p3653
-ag1013
-ag1013
-ag1013
-ag1013
+ag1493
+ag1493
+ag1493
+ag1493
 aV106
 p3654
 aV152
@@ -8708,7 +8708,7 @@ aV47
 p3657
 aV115
 p3658
-ag3
+ag2552
 aV28
 p3659
 aV29
@@ -8997,7 +8997,7 @@ aV302
 p3801
 aV67
 p3802
-ag10
+ag2559
 aV139
 p3803
 aV243
@@ -9304,9 +9304,9 @@ aV66
 p3954
 aV86
 p3955
-ag3
-ag7
-ag4
+ag2552
+ag2556
+ag2553
 ag3652
 aV17
 p3956
@@ -9390,8 +9390,8 @@ aV33
 p3995
 aV34
 p3996
-ag1013
-ag1013
+ag1493
+ag1493
 aV48
 p3997
 aV158

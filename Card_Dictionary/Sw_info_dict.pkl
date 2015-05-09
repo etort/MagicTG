@@ -1,2801 +1,2523 @@
 (dp0
-S'toughs'
+S'rares'
 p1
 (lp2
-S'N/A'
+VLand
 p3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-aV2
+aVLand
 p4
-aV3
+aVSpecial
 p5
-aV6
+aVLand
 p6
-ag3
-ag3
-ag3
-ag3
-ag3
-ag4
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag4
-ag5
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag4
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag6
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-aV*
+aVLand
 p7
-ag3
-ag3
-ag3
-ag3
-ag3
-ag6
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag4
-aV1
+aVLand
 p8
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag4
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag5
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag8
-ag3
-ag3
-ag3
-ag3
-asS'editns'
+aVLand
 p9
-(lp10
-VAnthologies
+aVLand
+p10
+aVLand
 p11
-aVAnthologies
+aVLand
 p12
-aVAnthologies
+aVUncommon
 p13
-aVMagic: The Gathering-Commander
+aVLand
 p14
-aVMagic: The Gathering-Commander
+aVLand
 p15
-aVMagic: The Gathering-Commander
+aVLand
 p16
-aVMagic: The Gathering-Commander
+aVLand
 p17
-aVMagic 2012
+aVUncommon
 p18
-aVMagic 2012
+aVLand
 p19
-aVMagic 2012
+aVLand
 p20
-aVMagic 2012
+aVLand
 p21
-aVMagic 2012
+aVLand
 p22
-aVLimited Edition Beta
+aVUncommon
 p23
-aVLimited Edition Beta
+aVUncommon
 p24
-aVLimited Edition Beta
+aVUncommon
 p25
-aVLimited Edition Beta
+aVLand
 p26
-aVBattle Royale Box Set
+aVLand
 p27
-aVBattle Royale Box Set
+aVLand
 p28
-aVBattle Royale Box Set
+aVLand
 p29
-aVBattle Royale Box Set
+aVLand
 p30
-aVBattle Royale Box Set
+aVLand
 p31
-aVMorningtide
+aVLand
 p32
-aVMagic 2013
+aVUncommon
 p33
-aVMagic 2013
+aVLand
 p34
-aVMagic 2013
+aVLand
 p35
-aVMagic 2013
+aVCommon
 p36
-aVMagic 2013
+aVRare
 p37
-aVFourth Edition
+aVCommon
 p38
-aVFourth Edition
+aVLand
 p39
-aVFourth Edition
+aVMythic Rare
 p40
-aVFourth Edition
+aVLand
 p41
-aVDuel Decks: Ajani vs. Nicol Bolas
+aVLand
 p42
-aVDuel Decks: Ajani vs. Nicol Bolas
+aVLand
 p43
-aVAlliances
+aVCommon
 p44
-aVAlliances
+aVLand
 p45
-aVAlliances
+aVLand
 p46
-aVScars of Mirrodin
+aVLand
 p47
-aVScars of Mirrodin
+aVLand
 p48
-aVScars of Mirrodin
+aVLand
 p49
-aVScars of Mirrodin
+aVLand
 p50
-aVScars of Mirrodin
+aVLand
 p51
-aVBorn of the Gods
+aVLand
 p52
-aVMagic 2010
+aVLand
 p53
-aVMagic 2010
+aVLand
 p54
-aVMagic 2010
+aVLand
 p55
-aVMagic 2010
+aVLand
 p56
-aVMagic 2014 Core Set
+aVLand
 p57
-aVTempest
+aVLand
 p58
-aVTempest
+aVLand
 p59
-aVTempest
+aVLand
 p60
-aVTempest
+aVLand
 p61
-aVTenth Edition
+aVUncommon
 p62
-aVTenth Edition
+aVMythic Rare
 p63
-aVTenth Edition
+aVMythic Rare
 p64
-aVTenth Edition
+aVLand
 p65
-aVMercadian Masques
+aVLand
 p66
-aVMercadian Masques
+aVMythic Rare
 p67
-aVMercadian Masques
+aVLand
 p68
-aVMercadian Masques
+aVLand
 p69
-aVVintage Masters
+aVLand
 p70
-aVModern Masters
+aVLand
 p71
-aVModern Masters
+aVLand
 p72
-aVMirrodin Besieged
+aVRare
 p73
-aVMirrodin Besieged
+aVLand
 p74
-aVMirrodin Besieged
+aVLand
 p75
-aVStarter 2000
+aVLand
 p76
-aVStarter 2000
+aVUncommon
 p77
-aVMasters Edition III
+aVUncommon
 p78
-aVMasters Edition III
+aVRare
 p79
-aVMasters Edition III
+aVLand
 p80
-aVMasters Edition III
+aVLand
 p81
-aVRevised Edition
+aVLand
 p82
-aVRevised Edition
+aVLand
 p83
-aVRevised Edition
+aVUncommon
 p84
-aVRevised Edition
+aVUncommon
 p85
-aVMasters Edition II
+aVLand
 p86
-aVGuildpact
+aVLand
 p87
-aVNinth Edition
+aVLand
 p88
-aVNinth Edition
+aVLand
 p89
-aVNinth Edition
+aVLand
 p90
-aVNinth Edition
+aVLand
 p91
-aVNinth Edition
+aVLand
 p92
-aVEventide
+aVLand
 p93
-aVAvacyn Restored
+aVLand
 p94
-aVAvacyn Restored
+aVLand
 p95
-aVAvacyn Restored
+aVLand
 p96
-aVPlanechase 2012 Edition
+aVLand
 p97
-aVPlanechase 2012 Edition
+aVLand
 p98
-aVPlanechase 2012 Edition
+aVLand
 p99
-aVPlanechase 2012 Edition
+aVLand
 p100
-aVPlanechase 2012 Edition
+aVLand
 p101
-aVDuel Decks: Sorin vs. Tibalt
+aVLand
 p102
-aVDuel Decks: Sorin vs. Tibalt
+aVLand
 p103
-aVDuel Decks: Sorin vs. Tibalt
+aVCommon
 p104
-aVDuel Decks: Sorin vs. Tibalt
+aVUncommon
 p105
-aVDuel Decks: Sorin vs. Tibalt
+aVRare
 p106
-aVDuel Decks: Sorin vs. Tibalt
+aVLand
 p107
-aVOnslaught
+aVLand
 p108
-aVOnslaught
+aVLand
 p109
-aVOnslaught
+aVLand
 p110
-aVOnslaught
+aVRare
 p111
-aVOnslaught
+aVMythic Rare
 p112
-aVChampions of Kamigawa
+aVLand
 p113
-aVChampions of Kamigawa
+aVMythic Rare
 p114
-aVChampions of Kamigawa
+aVLand
 p115
-aVChampions of Kamigawa
+aVLand
 p116
-aVChampions of Kamigawa
+aVLand
 p117
-aVChampions of Kamigawa
+aVLand
 p118
-aVBetrayers of Kamigawa
+aVLand
 p119
-aVFrom the Vault: Twenty
+aVUncommon
 p120
-aVModern Event Deck 2014
+aVRare
 p121
-aVModern Event Deck 2014
+aVLand
 p122
-aVRavnica: City of Guilds
+aVLand
 p123
-aVRavnica: City of Guilds
+aVLand
 p124
-aVRavnica: City of Guilds
+aVLand
 p125
-aVRavnica: City of Guilds
+aVRare
 p126
-aVCommander 2013 Edition
+aVLand
 p127
-aVCommander 2013 Edition
+aVLand
 p128
-aVCommander 2013 Edition
+aVLand
 p129
-aVOdyssey
+aVLand
 p130
-aVOdyssey
+aVLand
 p131
-aVOdyssey
+aVCommon
 p132
-aVOdyssey
+aVLand
 p133
-aVTime Spiral
+aVLand
 p134
-aVTime Spiral
+aVLand
 p135
-aVTime Spiral
+aVLand
 p136
-aVTime Spiral
+aVCommon
 p137
-aVTime Spiral
+aVMythic Rare
 p138
-aVReturn to Ravnica
+aVLand
 p139
-aVReturn to Ravnica
+aVLand
 p140
-aVReturn to Ravnica
+aVLand
 p141
-aVReturn to Ravnica
+aVUncommon
 p142
-aVReturn to Ravnica
+aVLand
 p143
-aVReturn to Ravnica
+aVLand
 p144
-aVColdsnap
+aVLand
 p145
-aVFrom the Vault: Relics
+aVUncommon
 p146
-aVUnlimited Edition
+aVLand
 p147
-aVUnlimited Edition
+aVLand
 p148
-aVUnlimited Edition
+aVLand
 p149
-aVUnlimited Edition
+aVLand
 p150
-aVIce Age
+aVLand
 p151
-aVIce Age
+aVLand
 p152
-aVIce Age
+aVLand
 p153
-aVIce Age
+aVLand
 p154
-aVZendikar
+aVLand
 p155
-aVZendikar
+aVLand
 p156
-aVZendikar
+aVLand
 p157
-aVZendikar
+aVLand
 p158
-aVZendikar
+aVLand
 p159
-aVZendikar
+aVLand
 p160
-aVZendikar
+aVLand
 p161
-aVZendikar
+aVLand
 p162
-aVClassic Sixth Edition
+aVRare
 p163
-aVClassic Sixth Edition
+aVUncommon
 p164
-aVClassic Sixth Edition
+aVUncommon
 p165
-aVClassic Sixth Edition
+aVUncommon
 p166
-aVMirrodin
+aVLand
 p167
-aVMirrodin
+aVLand
 p168
-aVMirrodin
+aVLand
 p169
-aVMirrodin
+aVLand
 p170
-aVMirrodin
+aVLand
 p171
-aVDuel Decks: Elspeth vs. Tezzeret
+aVLand
 p172
-aVDuel Decks: Elspeth vs. Tezzeret
+aVLand
 p173
-aVShards of Alara
+aVLand
 p174
-aVShards of Alara
+aVUncommon
 p175
-aVShards of Alara
+aVLand
 p176
-aVShards of Alara
+aVCommon
 p177
-aVShards of Alara
+aVRare
 p178
-aVSeventh Edition
+aVRare
 p179
-aVSeventh Edition
+aVLand
 p180
-aVSeventh Edition
+aVLand
 p181
-aVSeventh Edition
+aVLand
 p182
-aVProphecy
+aVLand
 p183
-aVMagic 2015 Core Set
+aVCommon
 p184
-aVUrza's Legacy
+aVUncommon
 p185
-aVDarksteel
+aVRare
 p186
-aVDarksteel
+aVRare
 p187
-aVRise of the Eldrazi
+aVLand
 p188
-aVRise of the Eldrazi
+aVLand
 p189
-aVRise of the Eldrazi
+aVLand
 p190
-aVRise of the Eldrazi
+aVLand
 p191
-aVJudgment
+aVLand
 p192
-aVJudgment
+aVMythic Rare
 p193
-aVPromo set for Gatherer
+aVLand
 p194
-aVShadowmoor
+aVLand
 p195
-aVShadowmoor
+aVLand
 p196
-aVShadowmoor
+aVLand
 p197
-aVShadowmoor
+aVLand
 p198
-aVShadowmoor
+aVUncommon
 p199
-aVNew Phyrexia
+aVLand
 p200
-aVNew Phyrexia
+aVLand
 p201
-aVNew Phyrexia
+aVLand
 p202
-aVStarter 1999
+aVCommon
 p203
-aVStarter 1999
+aVLand
 p204
-aVStarter 1999
+aVLand
 p205
-aVStarter 1999
+aVLand
 p206
-aVFuture Sight
+aVLand
 p207
-aVPortal Second Age
+aVLand
 p208
-aVPortal Second Age
+aVUncommon
 p209
-aVPortal Second Age
+aVLand
 p210
-aVPortal Second Age
+aVLand
 p211
-aVPlanechase
+aVLand
 p212
-aVPlanechase
+aVLand
 p213
-aVPlanechase
+aVLand
 p214
-aVPlanechase
+aVLand
 p215
-aVPlanechase
+aVLand
 p216
-aVLegions
+aVLand
 p217
-aVUrza's Saga
+aVRare
 p218
-aVUrza's Saga
+aVUncommon
 p219
-aVUrza's Saga
+aVUncommon
 p220
-aVUrza's Saga
+aVUncommon
 p221
-aVMasters Edition
+aVLand
 p222
-aVMasters Edition
+aVLand
 p223
-aVMasters Edition
+aVLand
 p224
-aVTheros
+aVLand
 p225
-aVTheros
+aVLand
 p226
-aVMagic: The Gathering\u2014Conspiracy
+aVLand
 p227
-aVEighth Edition
+aVLand
 p228
-aVEighth Edition
+aVLand
 p229
-aVEighth Edition
+aVUncommon
 p230
-aVEighth Edition
+aVLand
 p231
-aVEighth Edition
+aVLand
 p232
-aVEighth Edition
+aVLand
 p233
-aVPremium Deck Series: Graveborn
+aVLand
 p234
-aVPremium Deck Series: Graveborn
+aVUncommon
 p235
-aVPremium Deck Series: Graveborn
+aVLand
 p236
-aVPremium Deck Series: Graveborn
+aVLand
 p237
-aVInvasion
+aVLand
 p238
-aVInvasion
+aVLand
 p239
-aVInvasion
+aVLand
 p240
-aVInvasion
+aVLand
 p241
-aVInvasion
+aVLand
 p242
-aVJourney into Nyx
+aVLand
 p243
-aVFifth Edition
+aVUncommon
 p244
-aVFifth Edition
+aVCommon
 p245
-aVFifth Edition
+aVCommon
 p246
-aVFifth Edition
+aVLand
 p247
-aVArchenemy
+aVLand
 p248
-aVArchenemy
+aVLand
 p249
-aVArchenemy
+aVLand
 p250
-aVKhans of Tarkir
+aVLand
 p251
-aVKhans of Tarkir
+aVLand
 p252
-aVKhans of Tarkir
+aVLand
 p253
-aVKhans of Tarkir
+aVLand
 p254
-aVDuel Decks: Jace vs. Vraska
+aVUncommon
 p255
-aVMirage
+aVLand
 p256
-aVMirage
+aVLand
 p257
-aVMirage
+aVLand
 p258
-aVMirage
+aVLand
 p259
-aVInnistrad
+aVLand
 p260
-aVInnistrad
+aVUncommon
 p261
-aVInnistrad
+aVRare
 p262
-aVLimited Edition Alpha
+aVRare
 p263
-aVLimited Edition Alpha
+aVRare
 p264
-aVLimited Edition Alpha
+aVLand
 p265
-aVBeatdown Box Set
+aVLand
 p266
-aVBeatdown Box Set
+aVLand
 p267
-aVBeatdown Box Set
+aVLand
 p268
-aVMasters Edition IV
+aVLand
 p269
-aVStronghold
+aVLand
 p270
-aVLegends
+aVLand
 p271
-aVDissension
+aVLand
 p272
-aVDuel Decks: Izzet vs. Golgari
+aVLand
 p273
-aVDuel Decks: Izzet vs. Golgari
+aVLand
 p274
-aVDuel Decks: Izzet vs. Golgari
+aVRare
 p275
-aVDuel Decks: Izzet vs. Golgari
+aVLand
 p276
-aVLorwyn
+aVLand
 p277
-aVLorwyn
+aVLand
 p278
-aVLorwyn
+aVLand
 p279
-aVLorwyn
+aVLand
 p280
-aVPremium Deck Series: Slivers
+aVLand
 p281
-aVMagic 2011
+aVSpecial
 p282
-aVMagic 2011
+aVLand
 p283
-aVMagic 2011
+aVLand
 p284
-aVMagic 2011
+aVLand
 p285
-aVMagic 2011
+aVLand
 p286
-aVPortal Three Kingdoms
+asS'editns'
 p287
-aVPortal Three Kingdoms
-p288
-aVPortal Three Kingdoms
+(lp288
+VAnthologies
 p289
-aVTime Spiral "Timeshifted"
+aVAnthologies
 p290
-aVPortal
+aVAnthologies
 p291
-aVPortal
+aVMagic: The Gathering-Commander
 p292
-aVPortal
+aVMagic: The Gathering-Commander
 p293
-aVPortal
+aVMagic: The Gathering-Commander
 p294
-asS'ids'
+aVMagic: The Gathering-Commander
 p295
-(lp296
-I397426
-aV-2146729941
+aVMagic 2012
+p296
+aVMagic 2012
 p297
-aV-2146729926
+aVMagic 2012
 p298
-aV249816
+aVMagic 2012
 p299
-aV249819
+aVMagic 2012
 p300
-aV249818
+aVLimited Edition Beta
 p301
-aV249817
+aVLimited Edition Beta
 p302
-aV244338
+aVLimited Edition Beta
 p303
-aV244335
+aVLimited Edition Beta
 p304
-aV244336
+aVBattle Royale Box Set
 p305
-aV220261
+aVBattle Royale Box Set
 p306
-aV244337
+aVBattle Royale Box Set
 p307
-aV575
+aVBattle Royale Box Set
 p308
-aV574
+aVBattle Royale Box Set
 p309
-aV573
+aVMorningtide
 p310
-aV567
+aVMagic 2013
 p311
-aV22370
+aVMagic 2013
 p312
-aV22369
+aVMagic 2013
 p313
-aV22368
+aVMagic 2013
 p314
-aV21171
+aVMagic 2013
 p315
-aV21172
+aVFourth Edition
 p316
-aV152729
+aVFourth Edition
 p317
-aV253704
+aVFourth Edition
 p318
-aV249740
+aVFourth Edition
 p319
-aV249739
+aVDuel Decks: Ajani vs. Nicol Bolas
 p320
-aV249738
+aVDuel Decks: Ajani vs. Nicol Bolas
 p321
-aV249737
+aVAlliances
 p322
-aV2376
+aVAlliances
 p323
-aV2375
+aVAlliances
 p324
-aV2374
+aVScars of Mirrodin
 p325
-aV2367
+aVScars of Mirrodin
 p326
-aV262652
+aVScars of Mirrodin
 p327
-aV259283
+aVScars of Mirrodin
 p328
-aV3096
+aVScars of Mirrodin
 p329
-aV3217
+aVBorn of the Gods
 p330
-aV3095
+aVMagic 2010
 p331
-aV214669
+aVMagic 2010
 p332
-aV209280
+aVMagic 2010
 p333
-aV214684
+aVMagic 2010
 p334
-aV214676
+aVMagic 2014 Core Set
 p335
-aV214674
+aVTempest
 p336
-aV378514
+aVTempest
 p337
-aV191398
+aVTempest
 p338
-aV191399
+aVTempest
 p339
-aV191391
+aVTenth Edition
 p340
-aV191381
+aVTenth Edition
 p341
-aV370785
+aVTenth Edition
 p342
-aV4925
+aVTenth Edition
 p343
-aV4924
+aVMercadian Masques
 p344
-aV4923
+aVMercadian Masques
 p345
-aV4922
+aVMercadian Masques
 p346
-aV129757
+aVMercadian Masques
 p347
-aV129754
+aVVintage Masters
 p348
-aV129755
+aVModern Masters
 p349
-aV129756
+aVModern Masters
 p350
-aV20888
+aVMirrodin Besieged
 p351
-aV20889
+aVMirrodin Besieged
 p352
-aV20890
+aVMirrodin Besieged
 p353
-aV20891
+aVStarter 2000
 p354
-aV383119
+aVStarter 2000
 p355
-aV370471
+aVMasters Edition III
 p356
-aV370455
+aVMasters Edition III
 p357
-aV220367
+aVMasters Edition III
 p358
-aV220368
+aVMasters Edition III
 p359
-aV214070
+aVRevised Edition
 p360
-aV25479
+aVRevised Edition
 p361
-aV25478
+aVRevised Edition
 p362
-aV206083
+aVRevised Edition
 p363
-aV206081
+aVMasters Edition II
 p364
-aV206082
+aVGuildpact
 p365
-aV201233
+aVNinth Edition
 p366
-aV1375
+aVNinth Edition
 p367
-aV1374
+aVNinth Edition
 p368
-aV1373
+aVNinth Edition
 p369
-aV1367
+aVNinth Edition
 p370
-aV184675
+aVEventide
 p371
-aV107095
+aVAvacyn Restored
 p372
-aV83288
+aVAvacyn Restored
 p373
-aV83289
+aVAvacyn Restored
 p374
-aV83290
+aVPlanechase 2012 Edition
 p375
-aV83291
+aVPlanechase 2012 Edition
 p376
-aV83292
+aVPlanechase 2012 Edition
 p377
-aV154348
+aVPlanechase 2012 Edition
 p378
-aV269641
+aVPlanechase 2012 Edition
 p379
-aV269631
+aVDuel Decks: Sorin vs. Tibalt
 p380
-aV269627
+aVDuel Decks: Sorin vs. Tibalt
 p381
-aV276455
+aVDuel Decks: Sorin vs. Tibalt
 p382
-aV276472
+aVDuel Decks: Sorin vs. Tibalt
 p383
-aV276463
+aVDuel Decks: Sorin vs. Tibalt
 p384
-aV276448
+aVDuel Decks: Sorin vs. Tibalt
 p385
-aV276457
+aVOnslaught
 p386
-aV368497
+aVOnslaught
 p387
-aV368492
+aVOnslaught
 p388
-aV368538
+aVOnslaught
 p389
-aV368494
+aVOnslaught
 p390
-aV368484
+aVChampions of Kamigawa
 p391
-aV368482
+aVChampions of Kamigawa
 p392
-aV40114
+aVChampions of Kamigawa
 p393
-aV40113
+aVChampions of Kamigawa
 p394
-aV40112
+aVChampions of Kamigawa
 p395
-aV40111
+aVChampions of Kamigawa
 p396
-aV41136
+aVBetrayers of Kamigawa
 p397
-aV79089
+aVFrom the Vault: Twenty
 p398
-aV80276
+aVModern Event Deck 2014
 p399
-aV79065
+aVModern Event Deck 2014
 p400
-aV79066
+aVRavnica: City of Guilds
 p401
-aV79067
+aVRavnica: City of Guilds
 p402
-aV79073
+aVRavnica: City of Guilds
 p403
-aV74034
+aVRavnica: City of Guilds
 p404
-aV373334
+aVCommander 2013 Edition
 p405
-aV382199
+aVCommander 2013 Edition
 p406
-aV382200
+aVCommander 2013 Edition
 p407
-aV95111
+aVOdyssey
 p408
-aV95110
+aVOdyssey
 p409
-aV95101
+aVOdyssey
 p410
-aV95114
+aVOdyssey
 p411
-aV376535
+aVTime Spiral
 p412
-aV376537
+aVTime Spiral
 p413
-aV376538
+aVTime Spiral
 p414
-aV31617
+aVTime Spiral
 p415
-aV31618
+aVTime Spiral
 p416
-aV31619
+aVReturn to Ravnica
 p417
-aV31620
+aVReturn to Ravnica
 p418
-aV114913
+aVReturn to Ravnica
 p419
-aV122078
+aVReturn to Ravnica
 p420
-aV122076
+aVReturn to Ravnica
 p421
-aV118904
+aVReturn to Ravnica
 p422
-aV118903
+aVColdsnap
 p423
-aV289320
+aVFrom the Vault: Relics
 p424
-aV265416
+aVUnlimited Edition
 p425
-aV289319
+aVUnlimited Edition
 p426
-aV289317
+aVUnlimited Edition
 p427
-aV289318
+aVUnlimited Edition
 p428
-aV333722
+aVIce Age
 p429
-aV121255
+aVIce Age
 p430
-aV212640
+aVIce Age
 p431
-aV877
+aVIce Age
 p432
-aV876
+aVZendikar
 p433
-aV875
+aVZendikar
 p434
-aV869
+aVZendikar
 p435
-aV2745
+aVZendikar
 p436
-aV2744
+aVZendikar
 p437
-aV2743
+aVZendikar
 p438
-aV2714
+aVZendikar
 p439
-aV201978
+aVZendikar
 p440
-aV201977
+aVClassic Sixth Edition
 p441
-aV195172
+aVClassic Sixth Edition
 p442
-aV195194
+aVClassic Sixth Edition
 p443
-aV201976
+aVClassic Sixth Edition
 p444
-aV195159
+aVMirrodin
 p445
-aV201975
+aVMirrodin
 p446
-aV195157
+aVMirrodin
 p447
-aV14741
+aVMirrodin
 p448
-aV14742
+aVMirrodin
 p449
-aV14743
+aVDuel Decks: Elspeth vs. Tezzeret
 p450
-aV14744
+aVDuel Decks: Elspeth vs. Tezzeret
 p451
-aV48415
+aVShards of Alara
 p452
-aV48414
+aVShards of Alara
 p453
-aV48416
+aVShards of Alara
 p454
-aV48425
+aVShards of Alara
 p455
-aV48583
+aVShards of Alara
 p456
-aV222718
+aVSeventh Edition
 p457
-aV218581
+aVSeventh Edition
 p458
-aV175010
+aVSeventh Edition
 p459
-aV175089
+aVSeventh Edition
 p460
-aV175090
+aVProphecy
 p461
-aV175088
+aVMagic 2015 Core Set
 p462
-aV175091
+aVUrza's Legacy
 p463
-aV11521
+aVDarksteel
 p464
-aV11522
+aVDarksteel
 p465
-aV11523
+aVRise of the Eldrazi
 p466
-aV11524
+aVRise of the Eldrazi
 p467
-aV24544
+aVRise of the Eldrazi
 p468
-aV383410
+aVRise of the Eldrazi
 p469
-aV9694
+aVJudgment
 p470
-aV46429
+aVJudgment
 p471
-aV47453
+aVPromo set for Gatherer
 p472
-aV205941
+aVShadowmoor
 p473
-aV205940
+aVShadowmoor
 p474
-aV205942
+aVShadowmoor
 p475
-aV205948
+aVShadowmoor
 p476
-aV29762
+aVShadowmoor
 p477
-aV36119
+aVNew Phyrexia
 p478
-aV97056
+aVNew Phyrexia
 p479
-aV146754
+aVNew Phyrexia
 p480
-aV157889
+aVStarter 1999
 p481
-aV157871
+aVStarter 1999
 p482
-aV158239
+aVStarter 1999
 p483
-aV157886
+aVStarter 1999
 p484
-aV227521
+aVFuture Sight
 p485
-aV214368
+aVPortal Second Age
 p486
-aV227519
+aVPortal Second Age
 p487
-aV21797
+aVPortal Second Age
 p488
-aV21799
+aVPortal Second Age
 p489
-aV21796
+aVPlanechase
 p490
-aV21798
+aVPlanechase
 p491
-aV126215
+aVPlanechase
 p492
-aV8394
+aVPlanechase
 p493
-aV8393
+aVPlanechase
 p494
-aV8392
+aVLegions
 p495
-aV6555
+aVUrza's Saga
 p496
-aV205309
+aVUrza's Saga
 p497
-aV205443
+aVUrza's Saga
 p498
-aV205434
+aVUrza's Saga
 p499
-aV205442
+aVMasters Edition
 p500
-aV205446
+aVMasters Edition
 p501
-aV45126
+aVMasters Edition
 p502
-aV8330
+aVTheros
 p503
-aV8331
+aVTheros
 p504
-aV8332
+aVMagic: The Gathering\u2014Conspiracy
 p505
-aV8333
+aVEighth Edition
 p506
-aV159290
+aVEighth Edition
 p507
-aV159291
+aVEighth Edition
 p508
-aV159292
+aVEighth Edition
 p509
-aV373567
+aVEighth Edition
 p510
-aV373701
+aVEighth Edition
 p511
-aV382380
+aVPremium Deck Series: Graveborn
 p512
-aV45190
+aVPremium Deck Series: Graveborn
 p513
-aV45305
+aVPremium Deck Series: Graveborn
 p514
-aV46445
+aVPremium Deck Series: Graveborn
 p515
-aV46446
+aVInvasion
 p516
-aV46447
+aVInvasion
 p517
-aV46448
+aVInvasion
 p518
-aV270475
+aVInvasion
 p519
-aV270473
+aVInvasion
 p520
-aV270474
+aVJourney into Nyx
 p521
-aV270476
+aVFifth Edition
 p522
-aV22999
+aVFifth Edition
 p523
-aV25965
+aVFifth Edition
 p524
-aV26304
+aVFifth Edition
 p525
-aV26305
+aVArchenemy
 p526
-aV26306
+aVArchenemy
 p527
-aV380513
+aVArchenemy
 p528
-aV4170
+aVKhans of Tarkir
 p529
-aV4169
+aVKhans of Tarkir
 p530
-aV4168
+aVKhans of Tarkir
 p531
-aV4167
+aVKhans of Tarkir
 p532
-aV221311
+aVDuel Decks: Jace vs. Vraska
 p533
-aV221312
+aVMirage
 p534
-aV221313
+aVMirage
 p535
-aV386686
+aVMirage
 p536
-aV386687
+aVMirage
 p537
-aV386688
+aVInnistrad
 p538
-aV386689
+aVInnistrad
 p539
-aV380239
+aVInnistrad
 p540
-aV3565
+aVLimited Edition Alpha
 p541
-aV3564
+aVLimited Edition Alpha
 p542
-aV3563
+aVLimited Edition Alpha
 p543
-aV3562
+aVBeatdown Box Set
 p544
-aV245240
+aVBeatdown Box Set
 p545
-aV245239
+aVBeatdown Box Set
 p546
-aV245241
+aVMasters Edition IV
 p547
-aV271
+aVStronghold
 p548
-aV278
+aVLegends
 p549
-aV277
+aVDissension
 p550
-aV27234
+aVDuel Decks: Izzet vs. Golgari
 p551
-aV27235
+aVDuel Decks: Izzet vs. Golgari
 p552
-aV27233
+aVDuel Decks: Izzet vs. Golgari
 p553
-aV202462
+aVDuel Decks: Izzet vs. Golgari
 p554
-aV5250
+aVLorwyn
 p555
-aV1423
+aVLorwyn
 p556
-aV107284
+aVLorwyn
 p557
-aV292961
+aVLorwyn
 p558
-aV292962
+aVPremium Deck Series: Slivers
 p559
-aV292960
+aVMagic 2011
 p560
-aV292963
+aVMagic 2011
 p561
-aV143636
+aVMagic 2011
 p562
-aV143634
+aVMagic 2011
 p563
-aV143629
+aVMagic 2011
 p564
-aV143635
+aVPortal Three Kingdoms
 p565
-aV207938
+aVPortal Three Kingdoms
 p566
-aV213620
+aVPortal Three Kingdoms
 p567
-aV205044
+aVTime Spiral "Timeshifted"
 p568
-aV213621
+aVPortal
 p569
-aV213622
+aVPortal
 p570
-aV213623
+aVPortal
 p571
-aV10607
+aVPortal
 p572
-aV10647
+asS'ids'
 p573
-aV10648
-p574
-aV106656
+(lp574
+I370703
+aV-2146729941
 p575
-aV4412
+aV-2146729926
 p576
-aV4411
+aV249816
 p577
-aV4410
+aV249819
 p578
-aV4409
+aV249818
 p579
-asS'texts'
+aV249817
 p580
-(lp581
-V{T}: Add {1} to your mana pool.<br><br>{T}: Add {G} or {W} to your mana pool. Brushland deals 1 damage to you.
+aV244338
+p581
+aV244335
 p582
-aVFirst strike, forestwalk, vigilance (This creature deals combat damage before creatures without first strike, it can't be blocked as long as defending player controls a Forest, and attacking doesn't cause this creature to tap.)
+aV244336
 p583
-aVBuyback\u2014Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)<br><br>Put a 1/1 white Pegasus creature token with flying onto the battlefield.
+aV220261
 p584
-aVB
+aV244337
 p585
-ag585
-ag585
-ag585
-ag585
-ag585
-ag585
-aVTormented Soul can't block and is unblockable.
+aV575
 p586
-aS''
+aV574
 p587
-aVYou may have Vesuvan Doppelganger enter the battlefield as a copy of any creature on the battlefield except it doesn't copy that creature's color and it gains "At the beginning of your upkeep, you may have this creature become a copy of target creature except it doesn't copy that creature's color. If you do, this creature gains this ability."
+aV573
 p588
-aVAs long as Veteran Bodyguard is untapped, all damage that would be dealt to you by unblocked creatures is dealt to Veteran Bodyguard instead.
+aV567
 p589
-aVDestroy X target Mountains. Volcanic Eruption deals damage to each creature and each player equal to the number of Mountains put into a graveyard this way.
+aV22370
 p590
-aVDefender, flying <i>(This creature can't attack, and it can block creatures with flying.)</i>
+aV22369
 p591
-ag585
-ag585
-aVExile target creature. Its controller gains life equal to its power.
+aV22368
 p592
-aVSyphon Soul deals 2 damage to each other player. You gain life equal to the damage dealt this way.
+aV21171
 p593
-aVDestroy target nonartifact, nonblack creature. It can't be regenerated.
+aV21172
 p594
-aVCreatures you control get +2/+2 until end of turn.<br>Reinforce X\u2014{X}{W}{W} <i>({X}{W}{W}, Discard this card: Put X +1/+1 counters on target creature.)</i>
+aV152729
 p595
-aVReturn target creature to its owner's hand.
+aV253704
 p596
-aVR
+aV249740
 p597
-ag587
-ag587
-ag587
-aVReturn target creature to its owner's hand.
+aV249739
 p598
-aVSearch your library for a basic land card and put that card onto the battlefield. Then shuffle your library.
+aV249738
 p599
-aV{0}: Urza's Avenger gets -1/-1 and gains your choice of banding, flying, first strike, or trample until end of turn. <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
+aV249737
 p600
-aV{R}: Regenerate Uthden Troll.
+aV2376
 p601
-ag585
-ag585
-aVFlying<br>Whenever Swamp Mosquito attacks and isn't blocked, defending player gets a poison counter. <i>(A player with ten or more poison counters loses the game.)</i>
+aV2375
 p602
-aV{1}{W}: Target nonattacking, nonblocking creature gets +0/+2 until end of turn.
+aV2374
 p603
-aVAs an additional cost to cast Undergrowth, you may pay {2}{R}.<br>Prevent all combat damage that would be dealt this turn. If its additional cost was paid, Undergrowth doesn't affect combat damage that would be dealt by red creatures.
+aV2367
 p604
-aVProtection from artifacts<br>Infect <i>(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</i>
+aV262652
 p605
-aVArtifact creatures you control get +2/+2.
+aV259283
 p606
-ag587
-ag587
-ag587
-aVTemple of Plenty enters the battlefield tapped.<br>When Temple of Plenty enters the battlefield, scry 1. <i>(Look at the top card of your library. You may put that card on the bottom of your library.)</i><br>{T}: Add {G} or {W} to your mana pool.
+aV3096
 p607
-aVWhenever an opponent draws a card, Underworld Dreams deals 1 damage to him or her.
+aV3217
 p608
-ag587
-ag587
-ag587
-aVTarget player puts the top half of his or her library, rounded down, into his or her graveyard.
+aV3095
 p609
-aV{T}: Add {1} to your mana pool.<br>{T}: Add {W} or {U} to your mana pool. Thalakos Lowlands doesn't untap during your next untap step.
+aV214669
 p610
-aVPut target creature on top of its owner's library.
+aV209280
 p611
-aVDestroy all enchantments.
+aV214684
 p612
-aV{1}{G}: Target creature blocks Trumpeting Armodon this turn if able.
+aV214676
 p613
-aVEnchant creature <i>(Target a creature as you cast this. This card enters the battlefield attached to that creature.)</i><br>Enchanted creature gets +1/+1 and can't be blocked except by creatures with flying.
+aV214674
 p614
-ag587
-ag587
-ag587
-ag585
-ag585
-aVExile all nontoken permanents. Starting with you, each player chooses one of the exiled cards and puts it onto the battlefield tapped under his or her control. Repeat this process until all cards exiled this way have been chosen.
+aV378514
 p615
-aVTidal Kraken is unblockable.
+aV191398
 p616
-aVTarget player loses 2 life and you gain 2 life.<br>Storm <i>(When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)</i>
+aV191399
 p617
-aVEquipped creature gets +2/+2 and has protection from red and from blue.<br>Whenever equipped creature deals combat damage to a player, Sword of Fire and Ice deals 2 damage to target creature or player and you draw a card.<br>Equip {2}
+aV191391
 p618
-aVEquipped creature gets +2/+2 and has protection from white and from black.<br>Whenever equipped creature deals combat damage to a player, you gain 3 life and you may return up to one target creature card from your graveyard to your hand.<br>Equip {2}
+aV191381
 p619
-ag585
-ag585
-aV+1: Look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.<br>-1: Target artifact becomes a 5/5 artifact creature.<br>-4: Target player loses X life and you gain X life, where X is twice the number of artifacts you control.
+aV370785
 p620
-ag587
-ag587
-aV{G}{G}, {T}: Tracker deals damage equal to its power to target creature. That creature deals damage equal to its power to Tracker.
+aV4925
 p621
-aVDestroy target creature with horsemanship.
+aV4924
 p622
-aVFlying<br>{R}{G}, {T}: Target creature gets +2/+2 until end of turn.
+aV4923
 p623
-aV{T}: Add {B} to your mana pool.<br><br>{T}: Target creature loses first strike or swampwalk until end of turn.
+aV4922
 p624
-aVAs long as Veteran Bodyguard is untapped, all damage that would be dealt to you by unblocked creatures is dealt to Veteran Bodyguard instead.
+aV129757
 p625
-aVDefender, flying <i>(This creature can't attack, and it can block creatures with flying.)</i>
+aV129754
 p626
-aVDefender <i>(This creature can't attack.)</i><br>{B}: Regenerate Wall of Bone. <i>(The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</i>
+aV129755
 p627
-aVDefender <i>(This creature can't attack.)</i><br>{G}: Regenerate Wall of Brambles.
+aV129756
 p628
-aVAt the beginning of your upkeep, put a spore counter on Thallid Devourer.<br>Remove three spore counters from Thallid Devourer: Put a 1/1 green Saproling creature token onto the battlefield.<br>Sacrifice a Saproling: Thallid Devourer gets +1/+2 until end of turn.
+aV20888
 p629
-aV{3}: Mizzium Transreliquat becomes a copy of target artifact until end of turn.<br>{1}{U}{R}: Mizzium Transreliquat becomes a copy of target artifact and gains this ability.
+aV20889
 p630
-aVWhen Venerable Monk enters the battlefield, you gain 2 life.
+aV20890
 p631
-aVDestroy target tapped creature.
+aV20891
 p632
-aVAt the beginning of each upkeep, put a 1/1 green Saproling creature token onto the battlefield.
+aV383119
 p633
-aVHaste <i>(This creature can attack the turn it comes under your control.)</i><br>At the beginning of the end step, return Viashino Sandstalker to its owner's hand. <i>(Return it only if it's on the battlefield.)</i>
+aV370471
 p634
-aVWhen Viridian Shaman enters the battlefield, destroy target artifact.
+aV370455
 p635
-aV{G/U}{G/U}: Target creature you control becomes the color or colors of your choice until end of turn.
+aV220367
 p636
-aVEnchant land<br>When Abundant Growth enters the battlefield, draw a card.<br>Enchanted land has "{T}: Add one mana of any color to your mana pool."
+aV220368
 p637
-ag587
-ag587
-aV{T}: Add {1} to your mana pool.<br>{T}: Add {U} or {B} to your mana pool. Activate this ability only if you control a Swamp.
+aV214070
 p638
-ag585
-ag585
-ag585
-ag587
-ag585
-ag585
-ag585
-ag585
-ag585
-ag585
-ag585
-ag585
-aVDestroy target creature with power 2 or less.<br>Cycling {2} <i>({2}, Discard this card: Draw a card.)</i>
+aV25479
 p639
-aVSyphon Soul deals 2 damage to each other player. You gain life equal to the damage dealt this way.
+aV25478
 p640
-aVAll creatures able to block Taunting Elf do so.
+aV206083
 p641
-aVCreatures you control get +1/+0 and gain fear until end of turn. <i>(They can't be blocked except by artifact creatures and/or black creatures.)</i>
+aV206081
 p642
-aVName a nonland card. Search target player's graveyard, hand, and library for all cards with that name and exile them. Then that player shuffles his or her library.
+aV206082
 p643
-aVFlash <i>(You may cast this spell any time you could cast an instant.)</i><br>Enchant creature <i>(Target a creature as you cast this. This card enters the battlefield attached to that creature.)</i><br>Enchanted creature gets +2/+2 and attacks each turn if able.
+aV201233
 p644
-aV{T}: Initiate of Blood deals 1 damage to target creature that was dealt damage this turn. When that creature dies this turn, flip Initiate of Blood.<br>
+aV1375
 p645
-aV{1}: Attach target Aura attached to a creature to another creature.
+aV1374
 p646
-ag587
-aVEach player shuffles his or her hand, graveyard, and permanents he or she owns into his or her library, then draws seven cards. Each player's life total becomes 7.
+aV1373
 p647
-aVExile target creature. Its controller gains life equal to its power.
+aV1367
 p648
-ag585
-aVEquipped creature gets +2/+2 and has protection from black and from green.<br>Whenever equipped creature deals combat damage to a player, that player discards a card and you untap all lands you control.<br>Equip {2}
+aV184675
 p649
-ag585
-ag585
-aVLook at the top three cards of your library. Put one of those cards into your hand, one on top of your library, and one on the bottom of your library.
+aV107095
 p650
-aVEach player shuffles all permanents he or she owns into his or her library, then reveals that many cards from the top of his or her library. Each player puts all artifact, creature, and land cards revealed this way onto the battlefield, then does the same for enchantment cards, then puts all cards revealed this way that weren't put onto the battlefield on the bottom of his or her library.
+aV83288
 p651
-ag585
-aVEquipped creature has hexproof and haste.<br>Equip {1}
+aV83289
 p652
-aVAs long as equipped creature is tapped, tapped creatures you control get +2/+0.<br>As long as equipped creature is untapped, untapped creatures you control get +0/+2.<br>{3}: You may tap or untap equipped creature.<br>Equip {3}
+aV83290
 p653
-ag585
-ag585
-ag585
-aVTarget player takes two extra turns after this one.
+aV83291
 p654
-aV{T}: Add {1} to your mana pool.<br>{T}: Regenerate target Insect, Rat, Spider, or Squirrel.
+aV83292
 p655
-ag585
-ag585
-ag585
-aV{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+aV154348
 p656
-aV{T}, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life.
+aV269641
 p657
-aVTarget creature you control gets +1/+0 until end of turn and can't be blocked this turn.<br>Overload {3}{U}{R} <i>(You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")</i>
+aV269631
 p658
-aVU
+aV269627
 p659
-ag587
-ag587
-ag587
-ag585
-aVEquipped creature gets +2/+2 and has protection from green and from blue.<br>Whenever equipped creature deals combat damage to a player, you put a 2/2 green Wolf creature token onto the battlefield and that player puts the top ten cards of his or her library into his or her graveyard.<br>Equip {2}
+aV276455
 p660
-aVAs long as Veteran Bodyguard is untapped, all damage that would be dealt to you by unblocked creatures is dealt to Veteran Bodyguard instead.
+aV276472
 p661
-aVDestroy X target Mountains. Volcanic Eruption deals damage to each creature and each player equal to the number of Mountains put into a graveyard this way.
+aV276463
 p662
-aVDefender, flying <i>(This creature can't attack, and it can block creatures with flying.)</i>
+aV276448
 p663
-aVDefender <i>(This creature can't attack.)</i><br>{B}: Regenerate Wall of Bone. <i>(The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</i>
+aV276457
 p664
-aVWhen Tarpan dies, you gain 1 life.
+aV368497
 p665
-aVWhenever an Island an opponent controls becomes tapped, you may gain 1 life.
+aV368492
 p666
-aVAt the beginning of your upkeep, put a time counter on Time Bomb.<br>{1}, {T}, Sacrifice Time Bomb: Time Bomb deals damage equal to the number of time counters on it to each creature and each player.
+aV368538
 p667
-aVTouch of Death deals 1 damage to target player. You gain 1 life.<br><br>Draw a card at the beginning of the next turn's upkeep.
+aV368494
 p668
-aVKicker {4}{U} <i>(You may pay an additional {4}{U} as you cast this spell.)</i><br>Flying<br>When Tempest Owl enters the battlefield, if it was kicked, tap up to three target permanents.
+aV368484
 p669
-ag585
-ag585
-ag587
-ag587
-ag587
-ag587
-ag587
-aVFlying
+aV368482
 p670
-aVWhenever a player casts a green spell, you may pay {1}. If you do, you gain 1 life.
+aV40114
 p671
-aVDestroy all creatures. They can't be regenerated.
+aV40113
 p672
-aVPlayers play with their hands revealed.<br>If a player would draw a card, he or she reveals it instead. Then any other player may pay 2 life. If a player does, put that card into its owner's graveyard. Otherwise, that player draws a card.
+aV40112
 p673
-aVEnchant creature<br>Enchanted creature can't attack or block, and its activated abilities can't be activated.
+aV40111
 p674
-aVEquipped creature gets +5/+5.<br>Whenever equipped creature deals damage to a creature, exile that creature.<br>Equip {4} <i>({4}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)</i>
+aV41136
 p675
-aVSearch your library for a land card, reveal it, and put it into your hand. Then shuffle your library.
+aV79089
 p676
-aV{1}, {T}: You gain 1 life.
+aV80276
 p677
-aVDestroy all enchantments.
+aV79065
 p678
-aVWhen you control no other artifacts, sacrifice Synod Centurion.
+aV79066
 p679
-aVWhen Temple Acolyte enters the battlefield, you gain 3 life.
+aV79067
 p680
-aVLifelink <i>(Damage dealt by this creature also causes you to gain that much life.)</i><br>Windwright Mage has flying as long as an artifact card is in your graveyard.
+aV79073
 p681
-aVDevour 2 <i>(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.)</i><br>When Tar Fiend enters the battlefield, target player discards a card for each creature it devoured.
+aV74034
 p682
-ag587
-ag587
-ag587
-aVDefender <i>(This creature can't attack.)</i><br>{R}: Wall of Fire gets +1/+0 until end of turn.
+aV373334
 p683
-aVDefender <i>(This creature can't attack.)</i><br>First strike
+aV382199
 p684
-aVDefender, flying <i>(This creature can't attack, and it can block creatures with flying.)</i>
+aV382200
 p685
-aV{B}{B}, {T}: Destroy target white creature.
+aV95111
 p686
-aV{W}{W}: Target attacking creature gets -1/-0 until end of turn.
+aV95110
 p687
-aV{R}, Sacrifice Torch Fiend: Destroy target artifact.
+aV95101
 p688
-aVDestroy target creature with power 2 or less.<br>Cycling {2} <i>({2}, Discard this card: Draw a card.)</i>
+aV95114
 p689
-aVEquipped creature gets +2/+2 and has protection from red and from blue.<br>Whenever equipped creature deals combat damage to a player, Sword of Fire and Ice deals 2 damage to target creature or player and you draw a card.<br>Equip {2}
+aV376535
 p690
-aVEquipped creature gets +2/+2 and has protection from white and from black.<br>Whenever equipped creature deals combat damage to a player, you gain 3 life and you may return up to one target creature card from your graveyard to your hand.<br>Equip {2}
+aV376537
 p691
-aVWhen Totem-Guide Hartebeest enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library.
+aV376538
 p692
-ag587
-ag587
-ag587
-aVThreshold- Swirling Sandstorm deals 5 damage to each creature without flying if seven or more cards are in your graveyard.
+aV31617
 p693
-aVSwelter deals 2 damage to each of two target creatures.
+aV31618
 p694
-aVEquipped creature gets +5/+5.<br>Whenever equipped creature deals damage to a creature, exile that creature.<br>Equip {4} <i>({4}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)</i>
+aV31619
 p695
-aVFlying<br>When Puppeteer Clique enters the battlefield, put target creature card from an opponent's graveyard onto the battlefield under your control. It gains haste. At the beginning of your next end step, exile it.<br>Persist <i>(When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)</i>
+aV31620
 p696
-ag585
-ag585
-ag587
-ag587
-ag585
-aVCreatures entering the battlefield don't cause abilities to trigger.
+aV114913
 p697
-ag587
-ag587
-ag587
-ag587
-ag587
-aV{W}, {T}, Discard a card: Put a 1/1 white Kithkin Soldier creature token named Goldmeadow Harrier onto the battlefield. It has "{W}, {T}: Tap target creature."
+aV122078
 p698
-aVVolcanic Hammer deals 3 damage to target creature or player.
+aV122076
 p699
-aVFlying
+aV118904
 p700
-aVEach player sacrifices four lands. Wildfire deals 4 damage to each creature.
+aV118903
 p701
-aVOne or two target creatures gain flying until end of turn.
+aV289320
 p702
-ag585
-ag585
-ag585
-ag585
-ag585
-aVFlying<br>{1}: Swooping Talon loses flying until end of turn.<br>Provoke <i>(When this attacks, you may have target creature defending player controls untap and block it if able.)</i>
+aV265416
 p703
-ag585
-aVTwo target creatures each get +2/+2 until end of turn.
+aV289319
 p704
-aVWhenever a creature enters the battlefield, its controller sacrifices a creature or land.
+aV289317
 p705
-aVYour opponents play with their hands revealed.
+aV289318
 p706
-ag585
-ag585
-ag585
-aVTemple of Silence enters the battlefield tapped.<br>When Temple of Silence enters the battlefield, scry 1. <i>(Look at the top card of your library. You may put that card on the bottom of your library.)</i><br>{T}: Add {W} or {B} to your mana pool.
+aV333722
 p707
-aVTemple of Triumph enters the battlefield tapped.<br>When Temple of Triumph enters the battlefield, scry 1. <i>(Look at the top card of your library. You may put that card on the bottom of your library.)</i><br>{T}: Add {R} or {W} to your mana pool.
+aV121255
 p708
-aVTarget creature gets -1/-1 until end of turn.<br>Morbid- That creature gets -13/-13 until end of turn instead if a creature died this turn.
+aV212640
 p709
-aVWhenever Seasoned Marshal attacks, you may tap target creature.
+aV877
 p710
-aVYou draw three cards and you lose 3 life.
+aV876
 p711
-aVVolcanic Hammer deals 3 damage to target creature or player.
+aV875
 p712
-aVDefender, flying <i>(This creature can't attack, and it can block creatures with flying.)</i>
+aV869
 p713
-aVDefender, flying <i>(This creature can't attack, and it can block creatures with flying.)</i>
+aV2745
 p714
-aVFlying
+aV2744
 p715
-ag585
-ag585
-ag585
-ag585
-aVAny number of target creatures become the color of your choice until end of turn.<br><br>Draw a card.
+aV2743
 p716
-ag585
-ag585
-ag585
-ag585
-aVHeroic- Whenever you cast a spell that targets Tethmos High Priest, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
+aV2714
 p717
-aVEach noncreature artifact loses all abilities and becomes an artifact creature with power and toughness each equal to its converted mana cost. If Titania's Song leaves the battlefield, this effect continues until end of turn.
+aV201978
 p718
-aVDestroy all enchantments.
+aV201977
 p719
-aVDestroy all Islands.
+aV195172
 p720
-aVFirst strike <i>(This creature deals combat damage before creatures without first strike.)</i>
+aV195194
 p721
-ag585
-ag585
-ag585
-aVSwiftwater Cliffs enters the battlefield tapped.<br>When Swiftwater Cliffs enters the battlefield, you gain 1 life.<br>{T}: Add {U} or {R} to your mana pool.
+aV201976
 p722
-aVLook at the top five cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.
+aV195159
 p723
-aVPut three 1/1 white Warrior creature tokens onto the battlefield.
+aV201975
 p724
-aVCreatures you control have haste.<br>Whenever a creature with power 4 or greater enters the battlefield under your control, you may draw a card.
+aV195157
 p725
-ag585
-ag585
-ag585
-ag585
-aVHaste
+aV14741
 p726
-aVVigilance<br>Whenever another creature you control dies, you may transform Thraben Sentry.
+aV14742
 p727
-ag587
-ag587
-aVYou have no maximum hand size.<br>If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard.
+aV14743
 p728
-aVEnchant creature<br>At the beginning of the upkeep of enchanted creature's controller, Wanderlust deals 1 damage to that player.
+aV14744
 p729
-ag587
-ag585
-aVHaste
+aV48415
 p730
-aVDestroy target nonartifact, nonblack creature. It can't be regenerated.
+aV48414
 p731
-aVWhenever Thing from the Deep attacks, sacrifice it unless you sacrifice an Island.
+aV48416
 p732
-aV{T}: Target legendary creature gets +2/+2 until end of turn.
+aV48425
 p733
-aVSword of the Ages enters the battlefield tapped.<br>{T}, Sacrifice Sword of the Ages and any number of creatures you control: Sword of the Ages deals X damage to target creature or player, where X is the total power of the creatures sacrificed this way, then exile Sword of the Ages and those creature cards.
+aV48583
 p734
-aVCounter all other spells. Draw a card for each spell countered this way.
+aV222718
 p735
-ag585
-ag585
-ag585
-ag585
-ag585
-ag585
-ag585
-ag587
-aV{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+aV218581
 p736
-aVReturn target creature to its owner's hand.
+aV175010
 p737
-aVFlying<br>{X}: Prevent the next X damage that would be dealt to you this turn. If damage is prevented this way, Vengeful Archon deals that much damage to target player.
+aV175089
 p738
-ag587
-ag587
-ag587
-ag587
-ag587
-ag587
-aVFlying<br>Whenever Swamp Mosquito attacks and isn't blocked, defending player gets a poison counter. <i>(A player with ten or more poison counters loses the game.)</i>
+aV175090
 p739
-ag587
-ag587
-ag587
-ag587
-asS'costs'
+aV175088
 p740
-(lp741
-S'0'
+aV175091
+p741
+aV11521
 p742
-ag742
-aV{W}
+aV11522
 p743
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-aV{1}{R}
+aV11523
 p744
-ag742
-ag742
-ag742
-ag742
-aV{W}
+aV11524
 p745
-ag742
-ag742
-ag742
-ag742
-aV{W}
+aV24544
 p746
-aV{3}{W}{W}
+aV383410
 p747
-aV{5}{U}{U}
+aV9694
 p748
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-aV{W}
+aV46429
 p749
-ag742
-ag742
-aV{1}{B}
+aV47453
 p750
-aV{2}{W}{W}
+aV205941
 p751
-aV{1}{B}
+aV205940
 p752
-ag742
-aV{4}{W}{W}
+aV205942
 p753
-ag742
-ag742
-ag742
-aV{3}{W}
+aV205948
 p754
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-aV{1}{R}{R}
+aV29762
 p755
-aV{3}
+aV36119
 p756
-aV{3}
+aV97056
 p757
-ag742
-ag742
-aV{3}
+aV146754
 p758
-ag742
-ag742
-ag742
-ag742
-ag742
-aV{6}
+aV157889
 p759
-ag742
-ag742
-ag742
-aV{W}
+aV157871
 p760
-aV{W}
+aV158239
 p761
-aV{4}
+aV157886
 p762
-ag742
-ag742
-ag742
-ag742
-aV{1}{B}
+aV227521
 p763
-aV{2}{G}{G}
+aV214368
 p764
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-aV{1}{B}{B}
+aV227519
 p765
-aV{X}{B}{B}
+aV21797
 p766
-aV{2}{U}{U}
+aV21799
 p767
-ag742
-ag742
-ag742
-ag742
-aV{8}{U}{U}
+aV21796
 p768
-aV{2}{U}{U}
+aV21798
 p769
-ag742
-aV{2/W}{2/W}{2/W}
+aV126215
 p770
-ag742
-ag742
-ag742
-ag742
-ag742
-aV{2}
+aV8394
 p771
-aV{4}
+aV8393
 p772
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-aV{4}{R}
+aV8392
 p773
-ag742
-ag742
-ag742
-ag742
-aV{1}{W}
+aV6555
 p774
-aV{3}
+aV205309
 p775
-ag742
-ag742
-ag742
-aV{W}
+aV205443
 p776
-ag742
-ag742
-ag742
-aV{W}
+aV205434
 p777
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-aV{4}
+aV205442
 p778
-aV{W}
+aV205446
 p779
-aV{3}{W}{W}
+aV45126
 p780
-aV{1}{W}
+aV8330
 p781
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-aV{1}{W}
+aV8331
 p782
-ag742
-aV{1}{B}{B}
+aV8332
 p783
-aV{3}
+aV8333
 p784
-aV{3}
+aV159290
 p785
-ag742
-ag742
-ag742
-ag742
-aV{3}{R}
+aV159291
 p786
-aV{3}{R}
+aV159292
 p787
-aV{4}
+aV373567
 p788
-aV{2}{W/U}{W/U}
+aV373701
 p789
-ag742
-ag742
-ag742
-ag742
-ag742
-aV{1}{W}
+aV382380
 p790
-ag742
-ag742
-ag742
-ag742
-ag742
-aV{2}
+aV45190
 p791
-ag742
-ag742
-ag742
-aV{1}{B}
+aV45305
 p792
-ag742
-ag742
-ag742
-ag742
-ag742
-aV{4}{W}{W}
+aV46445
 p793
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-aV{3}{R}{R}
+aV46446
 p794
-aV{1}{R}{R}
+aV46447
 p795
-aV{1}{W}
+aV46448
 p796
-aV{1}{B}
+aV270475
 p797
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-aV{1}{U}
+aV270473
 p798
-ag742
-ag742
-ag742
-ag742
-aV{3}{W}{W}
+aV270474
 p799
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-aV{2}{G}{U}{R}
+aV270476
 p800
-aV{1}{W}
+aV22999
 p801
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-aV{W}
+aV25965
 p802
-ag742
-ag742
-ag742
-ag742
-ag742
-aV{W}
+aV26304
 p803
-aV{2}
+aV26305
 p804
-aV{6}
+aV26306
 p805
-aV{2}{W}{U}{U}
+aV380513
 p806
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-aV{2}
+aV4170
 p807
-ag742
-ag742
-ag742
-ag742
-ag742
-ag742
-aV{1}{B}
+aV4169
 p808
-ag742
-ag742
-ag742
-ag742
-asS'names'
+aV4168
 p809
-(lp810
-VSwamp
+aV4167
+p810
+aV221311
 p811
-aVSwamp
+aV221312
 p812
-aVSwords to Plowshares
+aV221313
 p813
-aVSwamp
+aV386686
 p814
-aVSwamp
+aV386687
 p815
-aVSwamp
+aV386688
 p816
-aVSwamp
+aV386689
 p817
-aVSwamp
+aV380239
 p818
-aVSwamp
+aV3565
 p819
-aVSwamp
+aV3564
 p820
-aVSwiftfoot Boots
+aV3563
 p821
-aVSwamp
+aV3562
 p822
-aVSwamp
+aV245240
 p823
-aVSwamp
+aV245239
 p824
-aVSwamp
+aV245241
 p825
-aVSwords to Plowshares
+aV271
 p826
-aVSwamp
+aV278
 p827
-aVSwamp
+aV277
 p828
-aVSwamp
+aV27234
 p829
-aVSwamp
+aV27235
 p830
-aVSwords to Plowshares
+aV27233
 p831
-aVSwell of Courage
+aV202462
 p832
-aVSwitcheroo
+aV5250
 p833
-aVSwamp
+aV1423
 p834
-aVSwamp
+aV107284
 p835
-aVSwamp
+aV292961
 p836
-aVSwamp
+aV292962
 p837
-aVSwamp
+aV292960
 p838
-aVSwamp
+aV292963
 p839
-aVSwamp
+aV143636
 p840
-aVSwords to Plowshares
+aV143634
 p841
-aVSwamp
+aV143629
 p842
-aVSwamp
+aV143635
 p843
-aVSwamp Mosquito
+aV207938
 p844
-aVSworn Defender
+aV213620
 p845
-aVSwamp Mosquito
+aV205044
 p846
-aVSwamp
+aV213621
 p847
-aVSword of Body and Mind
+aV213622
 p848
-aVSwamp
+aV213623
 p849
-aVSwamp
+aV10607
 p850
-aVSwamp
+aV10647
 p851
-aVSwordwise Centaur
+aV10648
 p852
-aVSwamp
+aV106656
 p853
-aVSwamp
+aV4412
 p854
-aVSwamp
+aV4411
 p855
-aVSwamp
+aV4410
 p856
-aVSwamp
+aV4409
 p857
-aVSwamp
+asS'texts'
 p858
-aVSwamp
-p859
-aVSwamp
+(lp859
+V{T}: Add {1} to your mana pool.<br><br>{T}: Add {G} or {W} to your mana pool. Brushland deals 1 damage to you.
 p860
-aVSwamp
+aVFirst strike, forestwalk, vigilance (This creature deals combat damage before creatures without first strike, it can't be blocked as long as defending player controls a Forest, and attacking doesn't cause this creature to tap.)
 p861
-aVSwamp
+aVBuyback\u2014Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)<br><br>Put a 1/1 white Pegasus creature token with flying onto the battlefield.
 p862
-aVSwamp
+aVB
 p863
-aVSwamp
+ag863
+ag863
+ag863
+ag863
+ag863
+ag863
+aVTormented Soul can't block and is unblockable.
 p864
-aVSwamp
+aS''
 p865
-aVSwamp
+aVYou may have Vesuvan Doppelganger enter the battlefield as a copy of any creature on the battlefield except it doesn't copy that creature's color and it gains "At the beginning of your upkeep, you may have this creature become a copy of target creature except it doesn't copy that creature's color. If you do, this creature gains this ability."
 p866
-aVSwamp
+aVAs long as Veteran Bodyguard is untapped, all damage that would be dealt to you by unblocked creatures is dealt to Veteran Bodyguard instead.
 p867
-aVSwamp
+aVDestroy X target Mountains. Volcanic Eruption deals damage to each creature and each player equal to the number of Mountains put into a graveyard this way.
 p868
-aVSwamp
+aVDefender, flying <i>(This creature can't attack, and it can block creatures with flying.)</i>
 p869
-aVSwords to Plowshares
+ag863
+ag863
+aVExile target creature. Its controller gains life equal to its power.
 p870
-aVSword of Fire and Ice
+aVSyphon Soul deals 2 damage to each other player. You gain life equal to the damage dealt this way.
 p871
-aVSword of Light and Shadow
+aVDestroy target nonartifact, nonblack creature. It can't be regenerated.
 p872
-aVSwamp
+aVCreatures you control get +2/+2 until end of turn.<br>Reinforce X\u2014{X}{W}{W} <i>({X}{W}{W}, Discard this card: Put X +1/+1 counters on target creature.)</i>
 p873
-aVSwamp
+aVReturn target creature to its owner's hand.
 p874
-aVSword of Feast and Famine
+aVR
 p875
-aVSwamp
+ag865
+ag865
+ag865
+aVReturn target creature to its owner's hand.
 p876
-aVSwamp
+aVSearch your library for a basic land card and put that card onto the battlefield. Then shuffle your library.
 p877
-aVSwamp
+aV{0}: Urza's Avenger gets -1/-1 and gains your choice of banding, flying, first strike, or trample until end of turn. <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
 p878
-aVSwamp
+aV{R}: Regenerate Uthden Troll.
 p879
-aVSwamp
+ag863
+ag863
+aVFlying<br>Whenever Swamp Mosquito attacks and isn't blocked, defending player gets a poison counter. <i>(A player with ten or more poison counters loses the game.)</i>
 p880
-aVSword of the Ages
+aV{1}{W}: Target nonattacking, nonblocking creature gets +0/+2 until end of turn.
 p881
-aVSwamp
+aVAs an additional cost to cast Undergrowth, you may pay {2}{R}.<br>Prevent all combat damage that would be dealt this turn. If its additional cost was paid, Undergrowth doesn't affect combat damage that would be dealt by red creatures.
 p882
-aVSwamp
+aVProtection from artifacts<br>Infect <i>(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</i>
 p883
-aVSwamp
+aVArtifact creatures you control get +2/+2.
 p884
-aVSwords to Plowshares
+ag865
+ag865
+ag865
+aVTemple of Plenty enters the battlefield tapped.<br>When Temple of Plenty enters the battlefield, scry 1. <i>(Look at the top card of your library. You may put that card on the bottom of your library.)</i><br>{T}: Add {G} or {W} to your mana pool.
 p885
-aVSwords to Plowshares
+aVWhenever an opponent draws a card, Underworld Dreams deals 1 damage to him or her.
 p886
-aVSword of the Paruns
+ag865
+ag865
+ag865
+aVTarget player puts the top half of his or her library, rounded down, into his or her graveyard.
 p887
-aVSwamp
+aV{T}: Add {1} to your mana pool.<br>{T}: Add {W} or {U} to your mana pool. Thalakos Lowlands doesn't untap during your next untap step.
 p888
-aVSwamp
+aVPut target creature on top of its owner's library.
 p889
-aVSwamp
+aVDestroy all enchantments.
 p890
-aVSwamp
+aV{1}{G}: Target creature blocks Trumpeting Armodon this turn if able.
 p891
-aVSwarm of Rats
+aVEnchant creature <i>(Target a creature as you cast this. This card enters the battlefield attached to that creature.)</i><br>Enchanted creature gets +1/+1 and can't be blocked except by creatures with flying.
 p892
-aVSwirling Spriggan
+ag865
+ag865
+ag865
+ag863
+ag863
+aVExile all nontoken permanents. Starting with you, each player chooses one of the exiled cards and puts it onto the battlefield tapped under his or her control. Repeat this process until all cards exiled this way have been chosen.
 p893
-aVSwamp
+aVTidal Kraken is unblockable.
 p894
-aVSwamp
+aVTarget player loses 2 life and you gain 2 life.<br>Storm <i>(When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)</i>
 p895
-aVSwamp
+aVEquipped creature gets +2/+2 and has protection from red and from blue.<br>Whenever equipped creature deals combat damage to a player, Sword of Fire and Ice deals 2 damage to target creature or player and you draw a card.<br>Equip {2}
 p896
-aVSwamp
+aVEquipped creature gets +2/+2 and has protection from white and from black.<br>Whenever equipped creature deals combat damage to a player, you gain 3 life and you may return up to one target creature card from your graveyard to your hand.<br>Equip {2}
 p897
-aVSwamp
+ag863
+ag863
+aV+1: Look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.<br>-1: Target artifact becomes a 5/5 artifact creature.<br>-4: Target player loses X life and you gain X life, where X is twice the number of artifacts you control.
 p898
-aVSwamp
+ag865
+ag865
+aV{G}{G}, {T}: Tracker deals damage equal to its power to target creature. That creature deals damage equal to its power to Tracker.
 p899
-aVSwamp
+aVDestroy target creature with horsemanship.
 p900
-aVSwamp
+aVFlying<br>{R}{G}, {T}: Target creature gets +2/+2 until end of turn.
 p901
-aVSwamp
+aV{T}: Add {B} to your mana pool.<br><br>{T}: Target creature loses first strike or swampwalk until end of turn.
 p902
-aVSwamp
+aVAs long as Veteran Bodyguard is untapped, all damage that would be dealt to you by unblocked creatures is dealt to Veteran Bodyguard instead.
 p903
-aVSwamp
+aVDefender, flying <i>(This creature can't attack, and it can block creatures with flying.)</i>
 p904
-aVSwamp
+aVDefender <i>(This creature can't attack.)</i><br>{B}: Regenerate Wall of Bone. <i>(The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</i>
 p905
-aVSwamp
+aVDefender <i>(This creature can't attack.)</i><br>{G}: Regenerate Wall of Brambles.
 p906
-aVSwamp
+aVAt the beginning of your upkeep, put a spore counter on Thallid Devourer.<br>Remove three spore counters from Thallid Devourer: Put a 1/1 green Saproling creature token onto the battlefield.<br>Sacrifice a Saproling: Thallid Devourer gets +1/+2 until end of turn.
 p907
-aVSwamp
+aV{3}: Mizzium Transreliquat becomes a copy of target artifact until end of turn.<br>{1}{U}{R}: Mizzium Transreliquat becomes a copy of target artifact and gains this ability.
 p908
-aVSwamp
+aVWhen Venerable Monk enters the battlefield, you gain 2 life.
 p909
-aVSwamp
+aVDestroy target tapped creature.
 p910
-aVSwamp
+aVAt the beginning of each upkeep, put a 1/1 green Saproling creature token onto the battlefield.
 p911
-aVSwat
+aVHaste <i>(This creature can attack the turn it comes under your control.)</i><br>At the beginning of the end step, return Viashino Sandstalker to its owner's hand. <i>(Return it only if it's on the battlefield.)</i>
 p912
-aVSwallowing Plague
+aVWhen Viridian Shaman enters the battlefield, destroy target artifact.
 p913
-aVSwirl the Mists
+aV{G/U}{G/U}: Target creature you control becomes the color or colors of your choice until end of turn.
 p914
-aVSwamp
+aVEnchant land<br>When Abundant Growth enters the battlefield, draw a card.<br>Enchanted land has "{T}: Add one mana of any color to your mana pool."
 p915
-aVSwamp
+ag865
+ag865
+aV{T}: Add {1} to your mana pool.<br>{T}: Add {U} or {B} to your mana pool. Activate this ability only if you control a Swamp.
 p916
-aVSwamp
+ag863
+ag863
+ag863
+ag865
+ag863
+ag863
+ag863
+ag863
+ag863
+ag863
+ag863
+ag863
+aVDestroy target creature with power 2 or less.<br>Cycling {2} <i>({2}, Discard this card: Draw a card.)</i>
 p917
-aVSwamp
+aVSyphon Soul deals 2 damage to each other player. You gain life equal to the damage dealt this way.
 p918
-aVSway of the Stars
+aVAll creatures able to block Taunting Elf do so.
 p919
-aVSwords to Plowshares
+aVCreatures you control get +1/+0 and gain fear until end of turn. <i>(They can't be blocked except by artifact creatures and/or black creatures.)</i>
 p920
-aVSwamp
+aVName a nonland card. Search target player's graveyard, hand, and library for all cards with that name and exile them. Then that player shuffles his or her library.
 p921
-aVSword of Feast and Famine
+aVFlash <i>(You may cast this spell any time you could cast an instant.)</i><br>Enchant creature <i>(Target a creature as you cast this. This card enters the battlefield attached to that creature.)</i><br>Enchanted creature gets +2/+2 and attacks each turn if able.
 p922
-aVSwamp
+aV{T}: Initiate of Blood deals 1 damage to target creature that was dealt damage this turn. When that creature dies this turn, flip Initiate of Blood.<br>
 p923
-aVSwamp
+aV{1}: Attach target Aura attached to a creature to another creature.
 p924
-aVSwamp
+ag865
+aVEach player shuffles his or her hand, graveyard, and permanents he or she owns into his or her library, then draws seven cards. Each player's life total becomes 7.
 p925
-aVSwamp
+aVExile target creature. Its controller gains life equal to its power.
 p926
-aVSwamp
+ag863
+aVEquipped creature gets +2/+2 and has protection from black and from green.<br>Whenever equipped creature deals combat damage to a player, that player discards a card and you untap all lands you control.<br>Equip {2}
 p927
-aVSwiftfoot Boots
+ag863
+ag863
+aVLook at the top three cards of your library. Put one of those cards into your hand, one on top of your library, and one on the bottom of your library.
 p928
-aVSword of the Paruns
+aVEach player shuffles all permanents he or she owns into his or her library, then reveals that many cards from the top of his or her library. Each player puts all artifact, creature, and land cards revealed this way onto the battlefield, then does the same for enchantment cards, then puts all cards revealed this way that weren't put onto the battlefield on the bottom of his or her library.
 p929
-aVSwamp
+ag863
+aVEquipped creature has hexproof and haste.<br>Equip {1}
 p930
-aVSwamp
+aVAs long as equipped creature is tapped, tapped creatures you control get +2/+0.<br>As long as equipped creature is untapped, untapped creatures you control get +0/+2.<br>{3}: You may tap or untap equipped creature.<br>Equip {3}
 p931
-aVSwamp
+ag863
+ag863
+ag863
+aVTarget player takes two extra turns after this one.
 p932
-aVSwamp
+aV{T}: Add {1} to your mana pool.<br>{T}: Regenerate target Insect, Rat, Spider, or Squirrel.
 p933
-aVSwarmyard
+ag863
+ag863
+ag863
+aV{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
 p934
-aVSwamp
+aV{T}, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life.
 p935
-aVSwamp
+aVTarget creature you control gets +1/+0 until end of turn and can't be blocked this turn.<br>Overload {3}{U}{R} <i>(You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")</i>
 p936
-aVSwamp
+aVU
 p937
-aVSwamp
+ag865
+ag865
+ag865
+ag863
+aVEquipped creature gets +2/+2 and has protection from green and from blue.<br>Whenever equipped creature deals combat damage to a player, you put a 2/2 green Wolf creature token onto the battlefield and that player puts the top ten cards of his or her library into his or her graveyard.<br>Equip {2}
 p938
-aVSwamp
+aVAs long as Veteran Bodyguard is untapped, all damage that would be dealt to you by unblocked creatures is dealt to Veteran Bodyguard instead.
 p939
-aVSwift Justice
+aVDestroy X target Mountains. Volcanic Eruption deals damage to each creature and each player equal to the number of Mountains put into a graveyard this way.
 p940
-aVSwamp
+aVDefender, flying <i>(This creature can't attack, and it can block creatures with flying.)</i>
 p941
-aVSwamp
+aVDefender <i>(This creature can't attack.)</i><br>{B}: Regenerate Wall of Bone. <i>(The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</i>
 p942
-aVSwamp
+aVWhen Tarpan dies, you gain 1 life.
 p943
-aVSwamp
+aVWhenever an Island an opponent controls becomes tapped, you may gain 1 life.
 p944
-aVSwift Maneuver
+aVAt the beginning of your upkeep, put a time counter on Time Bomb.<br>{1}, {T}, Sacrifice Time Bomb: Time Bomb deals damage equal to the number of time counters on it to each creature and each player.
 p945
-aVSword of Body and Mind
+aVTouch of Death deals 1 damage to target player. You gain 1 life.<br><br>Draw a card at the beginning of the next turn's upkeep.
 p946
-aVSwamp
+aVKicker {4}{U} <i>(You may pay an additional {4}{U} as you cast this spell.)</i><br>Flying<br>When Tempest Owl enters the battlefield, if it was kicked, tap up to three target permanents.
 p947
-aVSwamp
+ag863
+ag863
+ag865
+ag865
+ag865
+ag865
+ag865
+aVFlying
 p948
-aVSwamp
+aVWhenever a player casts a green spell, you may pay {1}. If you do, you gain 1 life.
 p949
-aVSwords to Plowshares
+aVDestroy all creatures. They can't be regenerated.
 p950
-aVSwamp
+aVPlayers play with their hands revealed.<br>If a player would draw a card, he or she reveals it instead. Then any other player may pay 2 life. If a player does, put that card into its owner's graveyard. Otherwise, that player draws a card.
 p951
-aVSwamp
+aVEnchant creature<br>Enchanted creature can't attack or block, and its activated abilities can't be activated.
 p952
-aVSwamp
+aVEquipped creature gets +5/+5.<br>Whenever equipped creature deals damage to a creature, exile that creature.<br>Equip {4} <i>({4}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)</i>
 p953
-aVSwords to Plowshares
+aVSearch your library for a land card, reveal it, and put it into your hand. Then shuffle your library.
 p954
-aVSwamp
+aV{1}, {T}: You gain 1 life.
 p955
-aVSwamp
+aVDestroy all enchantments.
 p956
-aVSwamp
+aVWhen you control no other artifacts, sacrifice Synod Centurion.
 p957
-aVSwamp
+aVWhen Temple Acolyte enters the battlefield, you gain 3 life.
 p958
-aVSwamp
+aVLifelink <i>(Damage dealt by this creature also causes you to gain that much life.)</i><br>Windwright Mage has flying as long as an artifact card is in your graveyard.
 p959
-aVSwamp
+aVDevour 2 <i>(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.)</i><br>When Tar Fiend enters the battlefield, target player discards a card for each creature it devoured.
 p960
-aVSwamp
+ag865
+ag865
+ag865
+aVDefender <i>(This creature can't attack.)</i><br>{R}: Wall of Fire gets +1/+0 until end of turn.
 p961
-aVSwamp
+aVDefender <i>(This creature can't attack.)</i><br>First strike
 p962
-aVSwamp
+aVDefender, flying <i>(This creature can't attack, and it can block creatures with flying.)</i>
 p963
-aVSwamp
+aV{B}{B}, {T}: Destroy target white creature.
 p964
-aVSwamp
+aV{W}{W}: Target attacking creature gets -1/-0 until end of turn.
 p965
-aVSwamp
+aV{R}, Sacrifice Torch Fiend: Destroy target artifact.
 p966
-aVSwamp
+aVDestroy target creature with power 2 or less.<br>Cycling {2} <i>({2}, Discard this card: Draw a card.)</i>
 p967
-aVSwamp
+aVEquipped creature gets +2/+2 and has protection from red and from blue.<br>Whenever equipped creature deals combat damage to a player, Sword of Fire and Ice deals 2 damage to target creature or player and you draw a card.<br>Equip {2}
 p968
-aVSwamp
+aVEquipped creature gets +2/+2 and has protection from white and from black.<br>Whenever equipped creature deals combat damage to a player, you gain 3 life and you may return up to one target creature card from your graveyard to your hand.<br>Equip {2}
 p969
-aVSwamp
+aVWhen Totem-Guide Hartebeest enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library.
 p970
-aVSword of Kaldra
+ag865
+ag865
+ag865
+aVThreshold- Swirling Sandstorm deals 5 damage to each creature without flying if seven or more cards are in your graveyard.
 p971
-aVSwell of Courage
+aVSwelter deals 2 damage to each of two target creatures.
 p972
-aVSwords to Plowshares
+aVEquipped creature gets +5/+5.<br>Whenever equipped creature deals damage to a creature, exile that creature.<br>Equip {4} <i>({4}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)</i>
 p973
-aVSwerve
+aVFlying<br>When Puppeteer Clique enters the battlefield, put target creature card from an opponent's graveyard onto the battlefield under your control. It gains haste. At the beginning of your next end step, exile it.<br>Persist <i>(When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)</i>
 p974
-aVSwamp
+ag863
+ag863
+ag865
+ag865
+ag863
+aVCreatures entering the battlefield don't cause abilities to trigger.
 p975
-aVSwamp
+ag865
+ag865
+ag865
+ag865
+ag865
+aV{W}, {T}, Discard a card: Put a 1/1 white Kithkin Soldier creature token named Goldmeadow Harrier onto the battlefield. It has "{W}, {T}: Tap target creature."
 p976
-aVSwamp
+aVVolcanic Hammer deals 3 damage to target creature or player.
 p977
-aVSwamp
+aVFlying
 p978
-aVSwamp
+aVEach player sacrifices four lands. Wildfire deals 4 damage to each creature.
 p979
-aVSwamp
+aVOne or two target creatures gain flying until end of turn.
 p980
-aVSwamp
+ag863
+ag863
+ag863
+ag863
+ag863
+aVFlying<br>{1}: Swooping Talon loses flying until end of turn.<br>Provoke <i>(When this attacks, you may have target creature defending player controls untap and block it if able.)</i>
 p981
-aVSwamp
+ag863
+aVTwo target creatures each get +2/+2 until end of turn.
 p982
-aVSword Dancer
+aVWhenever a creature enters the battlefield, its controller sacrifices a creature or land.
 p983
-aVSwamp
+aVYour opponents play with their hands revealed.
 p984
-aVSwat
+ag863
+ag863
+ag863
+aVTemple of Silence enters the battlefield tapped.<br>When Temple of Silence enters the battlefield, scry 1. <i>(Look at the top card of your library. You may put that card on the bottom of your library.)</i><br>{T}: Add {W} or {B} to your mana pool.
 p985
-aVSword of Fire and Ice
+aVTemple of Triumph enters the battlefield tapped.<br>When Temple of Triumph enters the battlefield, scry 1. <i>(Look at the top card of your library. You may put that card on the bottom of your library.)</i><br>{T}: Add {R} or {W} to your mana pool.
 p986
-aVSword of Light and Shadow
+aVTarget creature gets -1/-1 until end of turn.<br>Morbid- That creature gets -13/-13 until end of turn instead if a creature died this turn.
 p987
-aVSwamp
+aVWhenever Seasoned Marshal attacks, you may tap target creature.
 p988
-aVSwamp
+aVYou draw three cards and you lose 3 life.
 p989
-aVSwamp
+aVVolcanic Hammer deals 3 damage to target creature or player.
 p990
-aVSwamp
+aVDefender, flying <i>(This creature can't attack, and it can block creatures with flying.)</i>
 p991
-aVSwirling Sandstorm
+aVDefender, flying <i>(This creature can't attack, and it can block creatures with flying.)</i>
 p992
-aVSwelter
+aVFlying
 p993
-aVSword of Kaldra
+ag863
+ag863
+ag863
+ag863
+aVAny number of target creatures become the color of your choice until end of turn.<br><br>Draw a card.
 p994
-aVSwans of Bryn Argoll
+ag863
+ag863
+ag863
+ag863
+aVHeroic- Whenever you cast a spell that targets Tethmos High Priest, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
 p995
-aVSwamp
+aVEach noncreature artifact loses all abilities and becomes an artifact creature with power and toughness each equal to its converted mana cost. If Titania's Song leaves the battlefield, this effect continues until end of turn.
 p996
-aVSwamp
+aVDestroy all enchantments.
 p997
-aVSwamp
+aVDestroy all Islands.
 p998
-aVSwamp
+aVFirst strike <i>(This creature deals combat damage before creatures without first strike.)</i>
 p999
-aVSwamp
+ag863
+ag863
+ag863
+aVSwiftwater Cliffs enters the battlefield tapped.<br>When Swiftwater Cliffs enters the battlefield, you gain 1 life.<br>{T}: Add {U} or {R} to your mana pool.
 p1000
-aVSword of War and Peace
+aVLook at the top five cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.
 p1001
-aVSwamp
+aVPut three 1/1 white Warrior creature tokens onto the battlefield.
 p1002
-aVSwamp
+aVCreatures you control have haste.<br>Whenever a creature with power 4 or greater enters the battlefield under your control, you may draw a card.
 p1003
-aVSwamp
+ag863
+ag863
+ag863
+ag863
+aVHaste
 p1004
-aVSwamp
+aVVigilance<br>Whenever another creature you control dies, you may transform Thraben Sentry.
 p1005
-aVSwamp
+ag865
+ag865
+aVYou have no maximum hand size.<br>If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard.
 p1006
-aVSword of the Meek
+aVEnchant creature<br>At the beginning of the upkeep of enchanted creature's controller, Wanderlust deals 1 damage to that player.
 p1007
-aVSwamp
+ag865
+ag863
+aVHaste
 p1008
-aVSwamp
+aVDestroy target nonartifact, nonblack creature. It can't be regenerated.
 p1009
-aVSwamp
+aVWhenever Thing from the Deep attacks, sacrifice it unless you sacrifice an Island.
 p1010
-aVSwarm of Rats
+aV{T}: Target legendary creature gets +2/+2 until end of turn.
 p1011
-aVSwamp
+aVSword of the Ages enters the battlefield tapped.<br>{T}, Sacrifice Sword of the Ages and any number of creatures you control: Sword of the Ages deals X damage to target creature or player, where X is the total power of the creatures sacrificed this way, then exile Sword of the Ages and those creature cards.
 p1012
-aVSwamp
+aVCounter all other spells. Draw a card for each spell countered this way.
 p1013
-aVSwamp
+ag863
+ag863
+ag863
+ag863
+ag863
+ag863
+ag863
+ag865
+aV{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
 p1014
-aVSwamp
+aVReturn target creature to its owner's hand.
 p1015
-aVSwamp
+aVFlying<br>{X}: Prevent the next X damage that would be dealt to you this turn. If damage is prevented this way, Vengeful Archon deals that much damage to target player.
 p1016
-aVSwooping Talon
+ag865
+ag865
+ag865
+ag865
+ag865
+ag865
+aVFlying<br>Whenever Swamp Mosquito attacks and isn't blocked, defending player gets a poison counter. <i>(A player with ten or more poison counters loses the game.)</i>
 p1017
-aVSwamp
+ag865
+ag865
+ag865
+ag865
+asS'costs'
 p1018
-aVSwamp
-p1019
-aVSwamp
+(lp1019
+S'0'
 p1020
-aVSwamp
+ag1020
+aV{W}
 p1021
-aVSwamp
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+aV{1}{R}
 p1022
-aVSwamp
+ag1020
+ag1020
+ag1020
+ag1020
+aV{W}
 p1023
-aVSwamp
+ag1020
+ag1020
+ag1020
+ag1020
+aV{W}
 p1024
-aVSwamp
+aV{3}{W}{W}
 p1025
-aVSwan Song
+aV{5}{U}{U}
 p1026
-aVSwords to Plowshares
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+aV{W}
 p1027
-aVSword Dancer
+ag1020
+ag1020
+aV{1}{B}
 p1028
-aVSwarm of Rats
+aV{2}{W}{W}
 p1029
-aVSwamp
+aV{1}{B}
 p1030
-aVSwamp
+ag1020
+aV{4}{W}{W}
 p1031
-aVSwamp
+ag1020
+ag1020
+ag1020
+aV{3}{W}
 p1032
-aVSwamp
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+aV{1}{R}{R}
 p1033
-aVSwamp
+aV{3}
 p1034
-aVSwamp
+aV{3}
 p1035
-aVSwamp
+ag1020
+ag1020
+aV{3}
 p1036
-aVSwamp
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+aV{6}
 p1037
-aVSway of Illusion
+ag1020
+ag1020
+ag1020
+aV{W}
 p1038
-aVSwamp
+aV{W}
 p1039
-aVSwamp
+aV{4}
 p1040
-aVSwamp
+ag1020
+ag1020
+ag1020
+ag1020
+aV{1}{B}
 p1041
-aVSwamp
+aV{2}{G}{G}
 p1042
-aVSwarmborn Giant
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+aV{1}{B}{B}
 p1043
-aVSwamp
+aV{X}{B}{B}
 p1044
-aVSwamp
+aV{2}{U}{U}
 p1045
-aVSwamp
+ag1020
+ag1020
+ag1020
+ag1020
+aV{8}{U}{U}
 p1046
-aVSwamp
+aV{2}{U}{U}
 p1047
-aVSwamp
+ag1020
+aV{2/W}{2/W}{2/W}
 p1048
-aVSwamp
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+aV{2}
 p1049
-aVSwamp
+aV{4}
 p1050
-aVSwamp
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+aV{4}{R}
 p1051
-aVSwarm of Bloodflies
+ag1020
+ag1020
+ag1020
+ag1020
+aV{1}{W}
 p1052
-aVSwift Kick
+aV{3}
 p1053
-aVSwiftwater Cliffs
+ag1020
+ag1020
+ag1020
+aV{W}
 p1054
-aVSwamp
+ag1020
+ag1020
+ag1020
+aV{W}
 p1055
-aVSwamp
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+aV{4}
 p1056
-aVSwamp
+aV{W}
 p1057
-aVSwamp
+aV{3}{W}{W}
 p1058
-aVSwamp
+aV{1}{W}
 p1059
-aVSwamp
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+aV{1}{W}
 p1060
-aVSwamp
+ag1020
+aV{1}{B}{B}
 p1061
-aVSwamp
+aV{3}
 p1062
-aVSwords to Plowshares
+aV{3}
 p1063
-aVSwamp
+ag1020
+ag1020
+ag1020
+ag1020
+aV{3}{R}
 p1064
-aVSwamp
+aV{3}{R}
 p1065
-aVSwamp
+aV{4}
 p1066
-aVSwamp
+aV{2}{W/U}{W/U}
 p1067
-aVSwamp
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+aV{1}{W}
 p1068
-aVSwords to Plowshares
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+aV{2}
 p1069
-aVSword of the Chosen
+ag1020
+ag1020
+ag1020
+aV{1}{B}
 p1070
-aVSword of the Ages
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+aV{4}{W}{W}
 p1071
-aVSwift Silence
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+aV{3}{R}{R}
 p1072
-aVSwamp
+aV{1}{R}{R}
 p1073
-aVSwamp
+aV{1}{W}
 p1074
-aVSwamp
+aV{1}{B}
 p1075
-aVSwamp
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+aV{1}{U}
 p1076
-aVSwamp
+ag1020
+ag1020
+ag1020
+ag1020
+aV{3}{W}{W}
 p1077
-aVSwamp
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+aV{2}{G}{U}{R}
 p1078
-aVSwamp
+aV{1}{W}
 p1079
-aVSwamp
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+aV{W}
 p1080
-aVSwamp
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+aV{W}
 p1081
-aVSwamp
+aV{2}
 p1082
-aVSword of Vengeance
+aV{6}
 p1083
-aVSwamp
+aV{2}{W}{U}{U}
 p1084
-aVSwamp
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+aV{2}
 p1085
-aVSwamp
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+ag1020
+aV{1}{B}
 p1086
-aVSwamp
+ag1020
+ag1020
+ag1020
+ag1020
+asS'names'
 p1087
-aVSwamp
-p1088
-aVSwamp
+(lp1088
+VSwamp
 p1089
-aVSwamp Mosquito
-p1090
 aVSwamp
+p1090
+aVSwords to Plowshares
 p1091
 aVSwamp
 p1092
@@ -2803,577 +2525,855 @@ aVSwamp
 p1093
 aVSwamp
 p1094
-asS'rares'
+aVSwamp
 p1095
-(lp1096
-VLand
+aVSwamp
+p1096
+aVSwamp
 p1097
-aVLand
+aVSwamp
 p1098
-aVSpecial
+aVSwiftfoot Boots
 p1099
-aVLand
+aVSwamp
 p1100
-aVLand
+aVSwamp
 p1101
-aVLand
+aVSwamp
 p1102
-aVLand
+aVSwamp
 p1103
-aVLand
+aVSwords to Plowshares
 p1104
-aVLand
+aVSwamp
 p1105
-aVLand
+aVSwamp
 p1106
-aVUncommon
+aVSwamp
 p1107
-aVLand
+aVSwamp
 p1108
-aVLand
+aVSwords to Plowshares
 p1109
-aVLand
+aVSwell of Courage
 p1110
-aVLand
+aVSwitcheroo
 p1111
-aVUncommon
+aVSwamp
 p1112
-aVLand
+aVSwamp
 p1113
-aVLand
+aVSwamp
 p1114
-aVLand
+aVSwamp
 p1115
-aVLand
+aVSwamp
 p1116
-aVUncommon
+aVSwamp
 p1117
-aVUncommon
+aVSwamp
 p1118
-aVUncommon
+aVSwords to Plowshares
 p1119
-aVLand
+aVSwamp
 p1120
-aVLand
+aVSwamp
 p1121
-aVLand
+aVSwamp Mosquito
 p1122
-aVLand
+aVSworn Defender
 p1123
-aVLand
+aVSwamp Mosquito
 p1124
-aVLand
+aVSwamp
 p1125
-aVLand
+aVSword of Body and Mind
 p1126
-aVUncommon
+aVSwamp
 p1127
-aVLand
+aVSwamp
 p1128
-aVLand
+aVSwamp
 p1129
-aVCommon
+aVSwordwise Centaur
 p1130
-aVRare
+aVSwamp
 p1131
-aVCommon
+aVSwamp
 p1132
-aVLand
+aVSwamp
 p1133
-aVMythic Rare
+aVSwamp
 p1134
-aVLand
+aVSwamp
 p1135
-aVLand
+aVSwamp
 p1136
-aVLand
+aVSwamp
 p1137
-aVCommon
+aVSwamp
 p1138
-aVLand
+aVSwamp
 p1139
-aVLand
+aVSwamp
 p1140
-aVLand
+aVSwamp
 p1141
-aVLand
+aVSwamp
 p1142
-aVLand
+aVSwamp
 p1143
-aVLand
+aVSwamp
 p1144
-aVLand
+aVSwamp
 p1145
-aVLand
+aVSwamp
 p1146
-aVLand
+aVSwamp
 p1147
-aVLand
+aVSwords to Plowshares
 p1148
-aVLand
+aVSword of Fire and Ice
 p1149
-aVLand
+aVSword of Light and Shadow
 p1150
-aVLand
+aVSwamp
 p1151
-aVLand
+aVSwamp
 p1152
-aVLand
+aVSword of Feast and Famine
 p1153
-aVLand
+aVSwamp
 p1154
-aVLand
+aVSwamp
 p1155
-aVUncommon
+aVSwamp
 p1156
-aVMythic Rare
+aVSwamp
 p1157
-aVMythic Rare
+aVSwamp
 p1158
-aVLand
+aVSword of the Ages
 p1159
-aVLand
+aVSwamp
 p1160
-aVMythic Rare
+aVSwamp
 p1161
-aVLand
+aVSwamp
 p1162
-aVLand
+aVSwords to Plowshares
 p1163
-aVLand
+aVSwords to Plowshares
 p1164
-aVLand
+aVSword of the Paruns
 p1165
-aVLand
+aVSwamp
 p1166
-aVRare
+aVSwamp
 p1167
-aVLand
+aVSwamp
 p1168
-aVLand
+aVSwamp
 p1169
-aVLand
+aVSwarm of Rats
 p1170
-aVUncommon
+aVSwirling Spriggan
 p1171
-aVUncommon
+aVSwamp
 p1172
-aVRare
+aVSwamp
 p1173
-aVLand
+aVSwamp
 p1174
-aVLand
+aVSwamp
 p1175
-aVLand
+aVSwamp
 p1176
-aVLand
+aVSwamp
 p1177
-aVUncommon
+aVSwamp
 p1178
-aVUncommon
+aVSwamp
 p1179
-aVLand
+aVSwamp
 p1180
-aVLand
+aVSwamp
 p1181
-aVLand
+aVSwamp
 p1182
-aVLand
+aVSwamp
 p1183
-aVLand
+aVSwamp
 p1184
-aVLand
+aVSwamp
 p1185
-aVLand
+aVSwamp
 p1186
-aVLand
+aVSwamp
 p1187
-aVLand
+aVSwamp
 p1188
-aVLand
+aVSwamp
 p1189
-aVLand
+aVSwat
 p1190
-aVLand
+aVSwallowing Plague
 p1191
-aVLand
+aVSwirl the Mists
 p1192
-aVLand
+aVSwamp
 p1193
-aVLand
+aVSwamp
 p1194
-aVLand
+aVSwamp
 p1195
-aVLand
+aVSwamp
 p1196
-aVLand
+aVSway of the Stars
 p1197
-aVCommon
+aVSwords to Plowshares
 p1198
-aVUncommon
+aVSwamp
 p1199
-aVRare
+aVSword of Feast and Famine
 p1200
-aVLand
+aVSwamp
 p1201
-aVLand
+aVSwamp
 p1202
-aVLand
+aVSwamp
 p1203
-aVLand
+aVSwamp
 p1204
-aVRare
+aVSwamp
 p1205
-aVMythic Rare
+aVSwiftfoot Boots
 p1206
-aVLand
+aVSword of the Paruns
 p1207
-aVMythic Rare
+aVSwamp
 p1208
-aVLand
+aVSwamp
 p1209
-aVLand
+aVSwamp
 p1210
-aVLand
+aVSwamp
 p1211
-aVLand
+aVSwarmyard
 p1212
-aVLand
+aVSwamp
 p1213
-aVUncommon
+aVSwamp
 p1214
-aVRare
+aVSwamp
 p1215
-aVLand
+aVSwamp
 p1216
-aVLand
+aVSwamp
 p1217
-aVLand
+aVSwift Justice
 p1218
-aVLand
+aVSwamp
 p1219
-aVRare
+aVSwamp
 p1220
-aVLand
+aVSwamp
 p1221
-aVLand
+aVSwamp
 p1222
-aVLand
+aVSwift Maneuver
 p1223
-aVLand
+aVSword of Body and Mind
 p1224
-aVLand
+aVSwamp
 p1225
-aVCommon
+aVSwamp
 p1226
-aVLand
+aVSwamp
 p1227
-aVLand
+aVSwords to Plowshares
 p1228
-aVLand
+aVSwamp
 p1229
-aVLand
+aVSwamp
 p1230
-aVCommon
+aVSwamp
 p1231
-aVMythic Rare
+aVSwords to Plowshares
 p1232
-aVLand
+aVSwamp
 p1233
-aVLand
+aVSwamp
 p1234
-aVLand
+aVSwamp
 p1235
-aVUncommon
+aVSwamp
 p1236
-aVLand
+aVSwamp
 p1237
-aVLand
+aVSwamp
 p1238
-aVLand
+aVSwamp
 p1239
-aVUncommon
+aVSwamp
 p1240
-aVLand
+aVSwamp
 p1241
-aVLand
+aVSwamp
 p1242
-aVLand
+aVSwamp
 p1243
-aVLand
+aVSwamp
 p1244
-aVLand
+aVSwamp
 p1245
-aVLand
+aVSwamp
 p1246
-aVLand
+aVSwamp
 p1247
-aVLand
+aVSwamp
 p1248
-aVLand
+aVSword of Kaldra
 p1249
-aVLand
+aVSwell of Courage
 p1250
-aVLand
+aVSwords to Plowshares
 p1251
-aVLand
+aVSwerve
 p1252
-aVLand
+aVSwamp
 p1253
-aVLand
+aVSwamp
 p1254
-aVLand
+aVSwamp
 p1255
-aVLand
+aVSwamp
 p1256
-aVRare
+aVSwamp
 p1257
-aVUncommon
+aVSwamp
 p1258
-aVUncommon
+aVSwamp
 p1259
-aVUncommon
+aVSwamp
 p1260
-aVLand
+aVSword Dancer
 p1261
-aVLand
+aVSwamp
 p1262
-aVLand
+aVSwat
 p1263
-aVLand
+aVSword of Fire and Ice
 p1264
-aVLand
+aVSword of Light and Shadow
 p1265
-aVLand
+aVSwamp
 p1266
-aVLand
+aVSwamp
 p1267
-aVLand
+aVSwamp
 p1268
-aVUncommon
+aVSwamp
 p1269
-aVLand
+aVSwirling Sandstorm
 p1270
-aVCommon
+aVSwelter
 p1271
-aVRare
+aVSword of Kaldra
 p1272
-aVRare
+aVSwans of Bryn Argoll
 p1273
-aVLand
+aVSwamp
 p1274
-aVLand
+aVSwamp
 p1275
-aVLand
+aVSwamp
 p1276
-aVLand
+aVSwamp
 p1277
-aVCommon
+aVSwamp
 p1278
-aVUncommon
+aVSword of War and Peace
 p1279
-aVRare
+aVSwamp
 p1280
-aVRare
+aVSwamp
 p1281
-aVLand
+aVSwamp
 p1282
-aVLand
+aVSwamp
 p1283
-aVLand
+aVSwamp
 p1284
-aVLand
+aVSword of the Meek
 p1285
-aVLand
+aVSwamp
 p1286
-aVMythic Rare
+aVSwamp
 p1287
-aVLand
+aVSwamp
 p1288
-aVLand
+aVSwarm of Rats
 p1289
-aVLand
+aVSwamp
 p1290
-aVLand
+aVSwamp
 p1291
-aVLand
+aVSwamp
 p1292
-aVUncommon
+aVSwamp
 p1293
-aVLand
+aVSwamp
 p1294
-aVLand
+aVSwooping Talon
 p1295
-aVLand
+aVSwamp
 p1296
-aVCommon
+aVSwamp
 p1297
-aVLand
+aVSwamp
 p1298
-aVLand
+aVSwamp
 p1299
-aVLand
+aVSwamp
 p1300
-aVLand
+aVSwamp
 p1301
-aVLand
+aVSwamp
 p1302
-aVUncommon
+aVSwamp
 p1303
-aVLand
+aVSwan Song
 p1304
-aVLand
+aVSwords to Plowshares
 p1305
-aVLand
+aVSword Dancer
 p1306
-aVLand
+aVSwarm of Rats
 p1307
-aVLand
+aVSwamp
 p1308
-aVLand
+aVSwamp
 p1309
-aVLand
+aVSwamp
 p1310
-aVLand
+aVSwamp
 p1311
-aVRare
+aVSwamp
 p1312
-aVUncommon
+aVSwamp
 p1313
-aVUncommon
+aVSwamp
 p1314
-aVUncommon
+aVSwamp
 p1315
-aVLand
+aVSway of Illusion
 p1316
-aVLand
+aVSwamp
 p1317
-aVLand
+aVSwamp
 p1318
-aVLand
+aVSwamp
 p1319
-aVLand
+aVSwamp
 p1320
-aVLand
+aVSwarmborn Giant
 p1321
-aVLand
+aVSwamp
 p1322
-aVLand
+aVSwamp
 p1323
-aVUncommon
+aVSwamp
 p1324
-aVLand
+aVSwamp
 p1325
-aVLand
+aVSwamp
 p1326
-aVLand
+aVSwamp
 p1327
-aVLand
+aVSwamp
 p1328
-aVUncommon
+aVSwamp
 p1329
-aVLand
+aVSwarm of Bloodflies
 p1330
-aVLand
+aVSwift Kick
 p1331
-aVLand
+aVSwiftwater Cliffs
 p1332
-aVLand
+aVSwamp
 p1333
-aVLand
+aVSwamp
 p1334
-aVLand
+aVSwamp
 p1335
-aVLand
+aVSwamp
 p1336
-aVLand
+aVSwamp
 p1337
-aVUncommon
+aVSwamp
 p1338
-aVCommon
+aVSwamp
 p1339
-aVCommon
+aVSwamp
 p1340
-aVLand
+aVSwords to Plowshares
 p1341
-aVLand
+aVSwamp
 p1342
-aVLand
+aVSwamp
 p1343
-aVLand
+aVSwamp
 p1344
-aVLand
+aVSwamp
 p1345
-aVLand
+aVSwamp
 p1346
-aVLand
+aVSwords to Plowshares
 p1347
-aVLand
+aVSword of the Chosen
 p1348
-aVUncommon
+aVSword of the Ages
 p1349
-aVLand
+aVSwift Silence
 p1350
-aVLand
+aVSwamp
 p1351
-aVLand
+aVSwamp
 p1352
-aVLand
+aVSwamp
 p1353
-aVLand
+aVSwamp
 p1354
-aVUncommon
+aVSwamp
 p1355
-aVRare
+aVSwamp
 p1356
-aVRare
+aVSwamp
 p1357
-aVRare
+aVSwamp
 p1358
-aVLand
+aVSwamp
 p1359
-aVLand
+aVSwamp
 p1360
-aVLand
+aVSword of Vengeance
 p1361
-aVLand
+aVSwamp
 p1362
-aVLand
+aVSwamp
 p1363
-aVLand
+aVSwamp
 p1364
-aVLand
+aVSwamp
 p1365
-aVLand
+aVSwamp
 p1366
-aVLand
+aVSwamp
 p1367
-aVLand
+aVSwamp Mosquito
 p1368
-aVRare
+aVSwamp
 p1369
-aVLand
+aVSwamp
 p1370
-aVLand
+aVSwamp
 p1371
-aVLand
+aVSwamp
 p1372
-aVLand
+asS'toughs'
 p1373
-aVLand
-p1374
-aVLand
+(lp1374
+S'N/A'
 p1375
-aVSpecial
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+aV2
 p1376
-aVLand
+aV3
 p1377
-aVLand
+aV6
 p1378
-aVLand
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1376
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1376
+ag1377
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1376
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1378
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+aV*
 p1379
-aVLand
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1378
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1376
+aV1
 p1380
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1376
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1377
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1380
+ag1375
+ag1375
+ag1375
+ag1375
 asS'artists'
 p1381
 (lp1382
@@ -3397,8 +3397,8 @@ aVJung Park
 p1391
 aVAlan Pollack
 p1392
-ag587
-ag587
+ag865
+ag865
 aVDan Frazier
 p1393
 aVDan Frazier
@@ -3427,7 +3427,7 @@ aVCliff Childs
 p1405
 aVJung Park
 p1406
-ag587
+ag865
 aVDan Frazier
 p1407
 aVDan Frazier
@@ -3494,13 +3494,13 @@ aVTerry Springer
 p1438
 aVTerese Nielsen
 p1439
-ag587
-ag587
+ag865
+ag865
 aVLars Grant-West
 p1440
 aVLars Grant-West
 p1441
-ag587
+ag865
 aVDouglas Shuler
 p1442
 aVDan Frazier
@@ -3541,12 +3541,12 @@ aVJung Park
 p1460
 aVAdam Paquette
 p1461
-ag587
-ag587
-ag587
-ag587
-ag587
-ag587
+ag865
+ag865
+ag865
+ag865
+ag865
+ag865
 aVJung Park
 p1462
 aVJames Paick
@@ -3745,8 +3745,8 @@ aVChippy
 p1559
 aVLars Grant-West
 p1560
-ag587
-ag587
+ag865
+ag865
 aVDan Frazier
 p1561
 aVRomas
@@ -3934,293 +3934,293 @@ p1652
 asS'powers'
 p1653
 (lp1654
-g3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag4
-ag4
+g1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1376
+ag1376
 aV0
 p1655
-ag3
-ag3
-ag3
-ag3
-ag3
-ag5
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag8
-ag5
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag8
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1377
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1380
+ag1377
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1380
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
 aV7
 p1656
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag7
-ag3
-ag3
-ag3
-ag3
-ag3
-ag4
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag8
-ag7
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1379
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1376
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1380
+ag1379
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
 aV4
 p1657
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
 ag1655
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
+ag1375
 ag1655
-ag3
-ag3
-ag3
-ag3
+ag1375
+ag1375
+ag1375
+ag1375
 asS'types'
 p1658
 (lp1659
@@ -4915,8 +4915,8 @@ aV342
 p2004
 aV51
 p2005
-ag587
-ag587
+ag865
+ag865
 aV150
 p2006
 aV151
@@ -5011,7 +5011,7 @@ aV298
 p2051
 aV54
 p2052
-ag4
+ag1376
 aV20
 p2053
 aV10

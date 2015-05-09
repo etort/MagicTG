@@ -1,2270 +1,2041 @@
 (dp0
-S'toughs'
+S'rares'
 p1
 (lp2
-S'N/A'
+VLand
 p3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-aV5
+aVLand
 p4
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-aV1
+aVLand
 p5
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-aV2
+aVLand
 p6
-ag3
-ag3
-ag3
-ag3
-ag5
-ag5
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-aV4
+aVLand
 p7
-aV3
+aVLand
 p8
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag8
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag7
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag6
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-asS'editns'
+aVLand
 p9
-(lp10
-VMagic: The Gathering-Commander
+aVLand
+p10
+aVLand
 p11
-aVMagic: The Gathering-Commander
+aVLand
 p12
-aVMagic: The Gathering-Commander
+aVLand
 p13
-aVMagic: The Gathering-Commander
+aVRare
 p14
-aVMagic 2012
+aVLand
 p15
-aVMagic 2012
+aVLand
 p16
-aVMagic 2012
+aVLand
 p17
-aVMagic 2012
+aVLand
 p18
-aVLimited Edition Beta
+aVLand
 p19
-aVLimited Edition Beta
+aVLand
 p20
-aVLimited Edition Beta
+aVLand
 p21
-aVLimited Edition Beta
+aVLand
 p22
-aVBattle Royale Box Set
+aVLand
 p23
-aVBattle Royale Box Set
+aVLand
 p24
-aVBattle Royale Box Set
+aVLand
 p25
-aVBattle Royale Box Set
+aVLand
 p26
-aVBattle Royale Box Set
+aVRare
 p27
-aVMagic 2013
+aVRare
 p28
-aVMagic 2013
+aVLand
 p29
-aVMagic 2013
+aVLand
 p30
-aVMagic 2013
+aVLand
 p31
-aVFourth Edition
+aVLand
 p32
-aVFourth Edition
+aVLand
 p33
-aVFourth Edition
+aVLand
 p34
-aVFourth Edition
+aVLand
 p35
-aVFourth Edition
+aVLand
 p36
-aVDuel Decks: Ajani vs. Nicol Bolas
+aVLand
 p37
-aVScars of Mirrodin
+aVLand
 p38
-aVScars of Mirrodin
+aVLand
 p39
-aVScars of Mirrodin
+aVLand
 p40
-aVScars of Mirrodin
+aVLand
 p41
-aVMagic 2010
+aVLand
 p42
-aVMagic 2010
+aVLand
 p43
-aVMagic 2010
+aVLand
 p44
-aVMagic 2010
+aVLand
 p45
-aVMagic 2014 Core Set
+aVLand
 p46
-aVTempest
+aVLand
 p47
-aVTempest
+aVLand
 p48
-aVTempest
+aVLand
 p49
-aVTempest
+aVLand
 p50
-aVTenth Edition
+aVLand
 p51
-aVTenth Edition
+aVLand
 p52
-aVTenth Edition
+aVLand
 p53
-aVTenth Edition
+aVLand
 p54
-aVMercadian Masques
+aVLand
 p55
-aVMercadian Masques
+aVLand
 p56
-aVMercadian Masques
+aVLand
 p57
-aVMercadian Masques
+aVRare
 p58
-aVMirrodin Besieged
+aVLand
 p59
-aVMirrodin Besieged
+aVLand
 p60
-aVStarter 2000
+aVLand
 p61
-aVStarter 2000
+aVRare
 p62
-aVMasters Edition III
+aVLand
 p63
-aVMasters Edition III
+aVLand
 p64
-aVMasters Edition III
+aVLand
 p65
-aVRevised Edition
+aVLand
 p66
-aVRevised Edition
+aVLand
 p67
-aVRevised Edition
+aVLand
 p68
-aVRevised Edition
+aVLand
 p69
-aVRevised Edition
+aVLand
 p70
-aVNinth Edition
+aVLand
 p71
-aVNinth Edition
+aVLand
 p72
-aVNinth Edition
+aVLand
 p73
-aVNinth Edition
+aVLand
 p74
-aVAvacyn Restored
+aVLand
 p75
-aVAvacyn Restored
+aVLand
 p76
-aVAvacyn Restored
+aVLand
 p77
-aVPlanechase 2012 Edition
+aVLand
 p78
-aVPlanechase 2012 Edition
+aVRare
 p79
-aVPlanechase 2012 Edition
+aVLand
 p80
-aVPlanechase 2012 Edition
+aVLand
 p81
-aVPlanechase 2012 Edition
+aVLand
 p82
-aVOnslaught
+aVLand
 p83
-aVOnslaught
+aVRare
 p84
-aVOnslaught
+aVRare
 p85
-aVOnslaught
+aVRare
 p86
-aVChampions of Kamigawa
+aVLand
 p87
-aVChampions of Kamigawa
+aVLand
 p88
-aVChampions of Kamigawa
+aVLand
 p89
-aVChampions of Kamigawa
+aVLand
 p90
-aVChampions of Kamigawa
+aVLand
 p91
-aVBetrayers of Kamigawa
+aVLand
 p92
-aVBetrayers of Kamigawa
+aVLand
 p93
-aVModern Event Deck 2014
+aVLand
 p94
-aVRavnica: City of Guilds
+aVLand
 p95
-aVRavnica: City of Guilds
+aVLand
 p96
-aVRavnica: City of Guilds
+aVLand
 p97
-aVRavnica: City of Guilds
+aVLand
 p98
-aVCommander 2013 Edition
+aVLand
 p99
-aVOdyssey
+aVLand
 p100
-aVOdyssey
+aVMythic Rare
 p101
-aVOdyssey
+aVCommon
 p102
-aVOdyssey
+aVLand
 p103
-aVTime Spiral
+aVLand
 p104
-aVTime Spiral
+aVLand
 p105
-aVTime Spiral
+aVLand
 p106
-aVTime Spiral
+aVMythic Rare
 p107
-aVReturn to Ravnica
+aVLand
 p108
-aVReturn to Ravnica
+aVLand
 p109
-aVReturn to Ravnica
+aVLand
 p110
-aVReturn to Ravnica
+aVRare
 p111
-aVReturn to Ravnica
+aVLand
 p112
-aVReturn to Ravnica
+aVLand
 p113
-aVReturn to Ravnica
+aVLand
 p114
-aVFrom the Vault: Relics
+aVLand
 p115
-aVUnlimited Edition
+aVLand
 p116
-aVUnlimited Edition
+aVLand
 p117
-aVUnlimited Edition
+aVLand
 p118
-aVUnlimited Edition
+aVLand
 p119
-aVIce Age
+aVLand
 p120
-aVIce Age
+aVLand
 p121
-aVIce Age
+aVLand
 p122
-aVZendikar
+aVLand
 p123
-aVZendikar
+aVLand
 p124
-aVZendikar
+aVLand
 p125
-aVZendikar
+aVLand
 p126
-aVZendikar
+aVUncommon
 p127
-aVZendikar
+aVLand
 p128
-aVZendikar
+aVLand
 p129
-aVZendikar
+aVLand
 p130
-aVClassic Sixth Edition
+aVLand
 p131
-aVClassic Sixth Edition
+aVLand
 p132
-aVClassic Sixth Edition
+aVLand
 p133
-aVClassic Sixth Edition
+aVLand
 p134
-aVMirrodin
+aVLand
 p135
-aVMirrodin
+aVLand
 p136
-aVMirrodin
+aVLand
 p137
-aVMirrodin
+aVLand
 p138
-aVMirrodin
+aVLand
 p139
-aVDuel Decks: Elspeth vs. Tezzeret
+aVLand
 p140
-aVDuel Decks: Elspeth vs. Tezzeret
+aVLand
 p141
-aVDuel Decks: Elspeth vs. Tezzeret
+aVLand
 p142
-aVDuel Decks: Elspeth vs. Tezzeret
+aVLand
 p143
-aVShards of Alara
+aVLand
 p144
-aVShards of Alara
+aVLand
 p145
-aVShards of Alara
+aVLand
 p146
-aVShards of Alara
+aVLand
 p147
-aVSeventh Edition
+aVLand
 p148
-aVSeventh Edition
+aVRare
 p149
-aVSeventh Edition
+aVLand
 p150
-aVSeventh Edition
+aVLand
 p151
-aVMagic 2015 Core Set
+aVLand
 p152
-aVRise of the Eldrazi
+aVLand
 p153
-aVRise of the Eldrazi
+aVLand
 p154
-aVRise of the Eldrazi
+aVUncommon
 p155
-aVRise of the Eldrazi
+aVLand
 p156
-aVShadowmoor
+aVLand
 p157
-aVShadowmoor
+aVLand
 p158
-aVShadowmoor
+aVLand
 p159
-aVShadowmoor
+aVLand
 p160
-aVShadowmoor
+aVLand
 p161
-aVNew Phyrexia
+aVLand
 p162
-aVNew Phyrexia
+aVLand
 p163
-aVNew Phyrexia
+aVCommon
 p164
-aVStarter 1999
+aVLand
 p165
-aVStarter 1999
+aVLand
 p166
-aVStarter 1999
+aVLand
 p167
-aVStarter 1999
+aVLand
 p168
-aVPortal Second Age
+aVLand
 p169
-aVPortal Second Age
+aVLand
 p170
-aVPortal Second Age
+aVLand
 p171
-aVPlanechase
+aVLand
 p172
-aVPlanechase
+aVLand
 p173
-aVPlanechase
+aVLand
 p174
-aVPlanechase
+aVLand
 p175
-aVPlanechase
+aVLand
 p176
-aVDuel Decks: Venser vs. Koth
+aVLand
 p177
-aVDuel Decks: Venser vs. Koth
+aVLand
 p178
-aVDuel Decks: Venser vs. Koth
+aVRare
 p179
-aVUrza's Saga
+aVLand
 p180
-aVUrza's Saga
+aVLand
 p181
-aVUrza's Saga
+aVLand
 p182
-aVUrza's Saga
+aVLand
 p183
-aVMasters Edition
+aVLand
 p184
-aVMasters Edition
+aVLand
 p185
-aVMasters Edition
+aVLand
 p186
-aVMasters Edition
+aVLand
 p187
-aVTheros
+aVLand
 p188
-aVEighth Edition
+aVRare
 p189
-aVEighth Edition
+aVLand
 p190
-aVEighth Edition
+aVLand
 p191
-aVEighth Edition
+aVLand
 p192
-aVInvasion
+aVLand
 p193
-aVInvasion
+aVLand
 p194
-aVInvasion
+aVLand
 p195
-aVInvasion
+aVLand
 p196
-aVFifth Edition
+aVLand
 p197
-aVFifth Edition
+aVLand
 p198
-aVFifth Edition
+aVLand
 p199
-aVFifth Edition
+aVLand
 p200
-aVFifth Edition
+aVLand
 p201
-aVArchenemy
+aVLand
 p202
-aVArchenemy
+aVLand
 p203
-aVArchenemy
+aVRare
 p204
-aVKhans of Tarkir
+aVLand
 p205
-aVDuel Decks: Jace vs. Vraska
+aVLand
 p206
-aVMirage
+aVLand
 p207
-aVMirage
+aVRare
 p208
-aVMirage
+aVLand
 p209
-aVMirage
+aVLand
 p210
-aVInnistrad
+aVLand
 p211
-aVInnistrad
+aVLand
 p212
-aVInnistrad
+aVRare
 p213
-aVInnistrad
+aVRare
 p214
-aVLimited Edition Alpha
+aVLand
 p215
-aVLimited Edition Alpha
+aVUncommon
 p216
-aVLimited Edition Alpha
+aVLand
 p217
-aVBeatdown Box Set
+aVLand
 p218
-aVBeatdown Box Set
+aVLand
 p219
-aVBeatdown Box Set
+aVLand
 p220
-aVMasters Edition IV
+aVLand
 p221
-aVDissension
+aVLand
 p222
-aVDuel Decks: Izzet vs. Golgari
+aVLand
 p223
-aVDuel Decks: Izzet vs. Golgari
+aVRare
 p224
-aVDuel Decks: Izzet vs. Golgari
+aVRare
 p225
-aVDuel Decks: Izzet vs. Golgari
+aVLand
 p226
-aVDuel Decks: Izzet vs. Golgari
+aVLand
 p227
-aVLorwyn
+aVLand
 p228
-aVLorwyn
+aVLand
 p229
-aVLorwyn
+aVLand
 p230
-aVLorwyn
+aVLand
 p231
-aVArabian Nights
+aVLand
 p232
-aVArabian Nights
+aVLand
 p233
-aVPremium Deck Series: Slivers
+aVLand
 p234
-aVMagic 2011
+aVLand
 p235
-aVMagic 2011
+aVLand
 p236
-aVMagic 2011
+aVLand
 p237
-aVMagic 2011
+asS'editns'
 p238
-aVPortal Three Kingdoms
-p239
-aVPortal Three Kingdoms
+(lp239
+VMagic: The Gathering-Commander
 p240
-aVPortal Three Kingdoms
+aVMagic: The Gathering-Commander
 p241
-aVPortal
+aVMagic: The Gathering-Commander
 p242
-aVPortal
+aVMagic: The Gathering-Commander
 p243
-aVPortal
+aVMagic 2012
 p244
-aVPortal
+aVMagic 2012
 p245
-asS'ids'
+aVMagic 2012
 p246
-(lp247
-I397596
-aV249807
+aVMagic 2012
+p247
+aVLimited Edition Beta
 p248
-aV249806
+aVLimited Edition Beta
 p249
-aV249805
+aVLimited Edition Beta
 p250
-aV244325
+aVLimited Edition Beta
 p251
-aV244324
+aVBattle Royale Box Set
 p252
-aV244326
+aVBattle Royale Box Set
 p253
-aV244323
+aVBattle Royale Box Set
 p254
-aV594
+aVBattle Royale Box Set
 p255
-aV593
+aVBattle Royale Box Set
 p256
-aV592
+aVMagic 2013
 p257
-aV552
+aVMagic 2013
 p258
-aV22367
+aVMagic 2013
 p259
-aV22366
+aVMagic 2013
 p260
-aV22365
+aVFourth Edition
 p261
-aV22364
+aVFourth Edition
 p262
-aV21144
+aVFourth Edition
 p263
-aV249725
+aVFourth Edition
 p264
-aV249726
+aVFourth Edition
 p265
-aV249723
+aVDuel Decks: Ajani vs. Nicol Bolas
 p266
-aV249724
+aVScars of Mirrodin
 p267
-aV2391
+aVScars of Mirrodin
 p268
-aV2390
+aVScars of Mirrodin
 p269
-aV2389
+aVScars of Mirrodin
 p270
-aV2161
+aVMagic 2010
 p271
-aV2346
+aVMagic 2010
 p272
-aV259287
+aVMagic 2010
 p273
-aV214666
+aVMagic 2010
 p274
-aV214672
+aVMagic 2014 Core Set
 p275
-aV214678
+aVTempest
 p276
-aV214682
+aVTempest
 p277
-aV191387
+aVTempest
 p278
-aV191389
+aVTempest
 p279
-aV191390
+aVTenth Edition
 p280
-aV191400
+aVTenth Edition
 p281
-aV370608
+aVTenth Edition
 p282
-aV4952
+aVTenth Edition
 p283
-aV4951
+aVMercadian Masques
 p284
-aV4950
+aVMercadian Masques
 p285
-aV4949
+aVMercadian Masques
 p286
-aV129608
+aVMercadian Masques
 p287
-aV129606
+aVMirrodin Besieged
 p288
-aV129607
+aVMirrodin Besieged
 p289
-aV129609
+aVStarter 2000
 p290
-aV20884
+aVStarter 2000
 p291
-aV20885
+aVMasters Edition III
 p292
-aV20886
+aVMasters Edition III
 p293
-aV20887
+aVMasters Edition III
 p294
-aV220369
+aVRevised Edition
 p295
-aV220365
+aVRevised Edition
 p296
-aV25452
+aVRevised Edition
 p297
-aV25451
+aVRevised Edition
 p298
-aV206074
+aVRevised Edition
 p299
-aV206073
+aVNinth Edition
 p300
-aV206072
+aVNinth Edition
 p301
-aV1203
+aVNinth Edition
 p302
-aV1394
+aVNinth Edition
 p303
-aV1393
+aVAvacyn Restored
 p304
-aV1392
+aVAvacyn Restored
 p305
-aV1351
+aVAvacyn Restored
 p306
-aV83136
+aVPlanechase 2012 Edition
 p307
-aV83137
+aVPlanechase 2012 Edition
 p308
-aV83138
+aVPlanechase 2012 Edition
 p309
-aV83139
+aVPlanechase 2012 Edition
 p310
-aV269633
+aVPlanechase 2012 Edition
 p311
-aV269639
+aVOnslaught
 p312
-aV269625
+aVOnslaught
 p313
-aV276471
+aVOnslaught
 p314
-aV276466
+aVOnslaught
 p315
-aV276452
+aVChampions of Kamigawa
 p316
-aV276453
+aVChampions of Kamigawa
 p317
-aV276462
+aVChampions of Kamigawa
 p318
-aV40120
+aVChampions of Kamigawa
 p319
-aV40119
+aVChampions of Kamigawa
 p320
-aV40118
+aVBetrayers of Kamigawa
 p321
-aV40117
+aVBetrayers of Kamigawa
 p322
-aV79217
+aVModern Event Deck 2014
 p323
-aV79061
+aVRavnica: City of Guilds
 p324
-aV79069
+aVRavnica: City of Guilds
 p325
-aV79071
+aVRavnica: City of Guilds
 p326
-aV79074
+aVRavnica: City of Guilds
 p327
-aV74039
+aVCommander 2013 Edition
 p328
-aV74636
+aVOdyssey
 p329
-aV382189
+aVOdyssey
 p330
-aV95103
+aVOdyssey
 p331
-aV95107
+aVOdyssey
 p332
-aV95100
+aVTime Spiral
 p333
-aV95113
+aVTime Spiral
 p334
-aV376373
+aVTime Spiral
 p335
-aV31613
+aVTime Spiral
 p336
-aV31614
+aVReturn to Ravnica
 p337
-aV31615
+aVReturn to Ravnica
 p338
-aV31616
+aVReturn to Ravnica
 p339
-aV122095
+aVReturn to Ravnica
 p340
-aV122077
+aVReturn to Ravnica
 p341
-aV122089
+aVReturn to Ravnica
 p342
-aV118905
+aVReturn to Ravnica
 p343
-aV289315
+aVFrom the Vault: Relics
 p344
-aV290531
+aVUnlimited Edition
 p345
-aV270958
+aVUnlimited Edition
 p346
-aV289314
+aVUnlimited Edition
 p347
-aV289316
+aVUnlimited Edition
 p348
-aV289313
+aVIce Age
 p349
-aV333719
+aVIce Age
 p350
-aV212626
+aVIce Age
 p351
-aV896
+aVZendikar
 p352
-aV895
+aVZendikar
 p353
-aV894
+aVZendikar
 p354
-aV854
+aVZendikar
 p355
-aV2769
+aVZendikar
 p356
-aV2768
+aVZendikar
 p357
-aV2767
+aVZendikar
 p358
-aV201964
+aVZendikar
 p359
-aV201966
+aVClassic Sixth Edition
 p360
-aV195187
+aVClassic Sixth Edition
 p361
-aV195165
+aVClassic Sixth Edition
 p362
-aV201963
+aVClassic Sixth Edition
 p363
-aV195161
+aVMirrodin
 p364
-aV201965
+aVMirrodin
 p365
-aV195170
+aVMirrodin
 p366
-aV14737
+aVMirrodin
 p367
-aV14738
+aVMirrodin
 p368
-aV14739
+aVDuel Decks: Elspeth vs. Tezzeret
 p369
-aV14740
+aVDuel Decks: Elspeth vs. Tezzeret
 p370
-aV46741
+aVDuel Decks: Elspeth vs. Tezzeret
 p371
-aV48411
+aVDuel Decks: Elspeth vs. Tezzeret
 p372
-aV48410
+aVShards of Alara
 p373
-aV48412
+aVShards of Alara
 p374
-aV48413
+aVShards of Alara
 p375
-aV222725
+aVShards of Alara
 p376
-aV222727
+aVSeventh Edition
 p377
-aV222726
+aVSeventh Edition
 p378
-aV222724
+aVSeventh Edition
 p379
-aV174979
+aVSeventh Edition
 p380
-aV174977
+aVMagic 2015 Core Set
 p381
-aV174978
+aVRise of the Eldrazi
 p382
-aV174980
+aVRise of the Eldrazi
 p383
-aV11348
+aVRise of the Eldrazi
 p384
-aV11349
+aVRise of the Eldrazi
 p385
-aV11350
+aVShadowmoor
 p386
-aV11351
+aVShadowmoor
 p387
-aV383281
+aVShadowmoor
 p388
-aV205939
+aVShadowmoor
 p389
-aV205932
+aVShadowmoor
 p390
-aV205944
+aVNew Phyrexia
 p391
-aV205945
+aVNew Phyrexia
 p392
-aV147370
+aVNew Phyrexia
 p393
-aV158237
+aVStarter 1999
 p394
-aV157874
+aVStarter 1999
 p395
-aV157875
+aVStarter 1999
 p396
-aV157883
+aVStarter 1999
 p397
-aV227505
+aVPortal Second Age
 p398
-aV218057
+aVPortal Second Age
 p399
-aV227530
+aVPortal Second Age
 p400
-aV21793
+aVPlanechase
 p401
-aV21794
+aVPlanechase
 p402
-aV21800
+aVPlanechase
 p403
-aV21795
+aVPlanechase
 p404
-aV8391
+aVPlanechase
 p405
-aV8390
+aVDuel Decks: Venser vs. Koth
 p406
-aV8387
+aVDuel Decks: Venser vs. Koth
 p407
-aV198096
+aVDuel Decks: Venser vs. Koth
 p408
-aV205286
+aVUrza's Saga
 p409
-aV205287
+aVUrza's Saga
 p410
-aV205288
+aVUrza's Saga
 p411
-aV205289
+aVUrza's Saga
 p412
-aV284491
+aVMasters Edition
 p413
-aV284490
+aVMasters Edition
 p414
-aV284492
+aVMasters Edition
 p415
-aV8326
+aVMasters Edition
 p416
-aV8327
+aVTheros
 p417
-aV8328
+aVEighth Edition
 p418
-aV8329
+aVEighth Edition
 p419
-aV159281
+aVEighth Edition
 p420
-aV159282
+aVEighth Edition
 p421
-aV159283
+aVInvasion
 p422
-aV159763
+aVInvasion
 p423
-aV373595
+aVInvasion
 p424
-aV46441
+aVInvasion
 p425
-aV46442
+aVFifth Edition
 p426
-aV46443
+aVFifth Edition
 p427
-aV46444
+aVFifth Edition
 p428
-aV25964
+aVFifth Edition
 p429
-aV26301
+aVFifth Edition
 p430
-aV26302
+aVArchenemy
 p431
-aV26303
+aVArchenemy
 p432
-aV4136
+aVArchenemy
 p433
-aV4202
+aVKhans of Tarkir
 p434
-aV4201
+aVDuel Decks: Jace vs. Vraska
 p435
-aV4200
+aVMirage
 p436
-aV4199
+aVMirage
 p437
-aV221300
+aVMirage
 p438
-aV221302
+aVMirage
 p439
-aV221301
+aVInnistrad
 p440
-aV386566
+aVInnistrad
 p441
-aV380217
+aVInnistrad
 p442
-aV3584
+aVInnistrad
 p443
-aV3583
+aVLimited Edition Alpha
 p444
-aV3582
+aVLimited Edition Alpha
 p445
-aV3581
+aVLimited Edition Alpha
 p446
-aV245235
+aVBeatdown Box Set
 p447
-aV241979
+aVBeatdown Box Set
 p448
-aV245237
+aVBeatdown Box Set
 p449
-aV245236
+aVMasters Edition IV
 p450
-aV293
+aVDissension
 p451
-aV256
+aVDuel Decks: Izzet vs. Golgari
 p452
-aV292
+aVDuel Decks: Izzet vs. Golgari
 p453
-aV27238
+aVDuel Decks: Izzet vs. Golgari
 p454
-aV27237
+aVDuel Decks: Izzet vs. Golgari
 p455
-aV27236
+aVDuel Decks: Izzet vs. Golgari
 p456
-aV202556
+aVLorwyn
 p457
-aV107448
+aVLorwyn
 p458
-aV292765
+aVLorwyn
 p459
-aV292752
+aVLorwyn
 p460
-aV292764
+aVArabian Nights
 p461
-aV292763
+aVArabian Nights
 p462
-aV292766
+aVPremium Deck Series: Slivers
 p463
-aV143628
+aVMagic 2011
 p464
-aV143624
+aVMagic 2011
 p465
-aV143632
+aVMagic 2011
 p466
-aV143619
+aVMagic 2011
 p467
-aV989
+aVPortal Three Kingdoms
 p468
-aV935
+aVPortal Three Kingdoms
 p469
-aV207935
+aVPortal Three Kingdoms
 p470
-aV213617
+aVPortal
 p471
-aV213619
+aVPortal
 p472
-aV213618
+aVPortal
 p473
-aV213616
+aVPortal
 p474
-aV10551
+asS'ids'
 p475
-aV10641
-p476
-aV10642
+(lp476
+I249804
+aV249807
 p477
-aV4424
+aV249806
 p478
-aV4423
+aV249805
 p479
-aV4422
+aV244325
 p480
-aV4421
+aV244324
 p481
-asS'texts'
+aV244326
 p482
-(lp483
-VU
+aV244323
+p483
+aV594
 p484
-ag484
-ag484
-ag484
-ag484
-ag484
-ag484
-aS''
+aV593
 p485
-aVKeldon Warlord's power and toughness are each equal to the number of non-Wall creatures you control.
+aV592
 p486
-aVAll Swamps are 1/1 black creatures that are still lands.
+aV552
 p487
-aVEnchant land<br>When enchanted land becomes tapped, destroy it. That land's controller attaches Kudzu to a land of his or her choice.
+aV22367
 p488
-aVEnchant creature<br>Enchanted creature has first strike.
+aV22366
 p489
-ag484
-ag484
-ag484
-ag484
-aVAt the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, and put them into your hand. If you do, shuffle your library.
+aV22365
 p490
-aVR
+aV22364
 p491
-aVB
+aV21144
 p492
-ag485
-ag485
-aVKeldon Warlord's power and toughness are each equal to the number of non-Wall creatures you control.
+aV249725
 p493
-aVFlying<br>{G}: Killer Bees gets +1/+1 until end of turn.
+aV249726
 p494
-aVAll Swamps are 1/1 black creatures that are still lands.
+aV249723
 p495
-aVTrample<br>Leviathan enters the battlefield tapped and doesn't untap during your untap step.<br>At the beginning of your upkeep, you may sacrifice two Islands. If you do, untap Leviathan.<br>Leviathan can't attack unless you sacrifice two Islands.
+aV249724
 p496
-aVYou have no maximum hand size.<br>If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard.
+aV2391
 p497
-ag484
-aVAt the beginning of your upkeep, put a 2/2 white Cat creature token onto the battlefield for each Equipment attached to Kemba, Kha Regent.
+aV2390
 p498
-aVW
+aV2389
 p499
-ag499
-ag492
-aVLava Axe deals 5 damage to target player.
+aV2161
 p500
-ag485
-ag485
-ag485
-aVTrample<br>Kalonian Hydra enters the battlefield with four +1/+1 counters on it.<br>Whenever Kalonian Hydra attacks, double the number of +1/+1 counters on each creature you control.
+aV2346
 p501
-ag484
-ag484
-aV{B}{B}: Destroy target creature blocking Knight of Dusk.
+aV259287
 p502
-aVBlack creatures can't attack or block.
+aV214666
 p503
-aVLava Axe deals 5 damage to target player.
+aV214672
 p504
-ag485
-ag485
-ag485
-ag484
-ag484
-aVYou have shroud. <i>(You can't be the target of spells or abilities.)</i>
+aV214678
 p505
-aVWhenever a creature you control deals combat damage to a player, that player discards a card.
+aV214682
 p506
-ag485
-ag485
-aVTarget creature gets +4/+4 until end of turn.
+aV191387
 p507
-ag491
-aVProtection from red<br>Creatures named Ivory Guardians get +1/+1 as long as an opponent controls a nontoken red permanent.
+aV191389
 p508
-aVJungle Lion can't block.
+aV191390
 p509
-aV{T}: Add {W} to your mana pool.<br>{T}: Return target legendary creature to its owner's hand.
+aV191400
 p510
-aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i>
+aV370608
 p511
-aV{G}{G}: Counter target black spell.
+aV4952
 p512
-aVTarget spell or permanent becomes green. <i>(Mana symbols on that permanent remain unchanged.)</i>
+aV4951
 p513
-aVWhenever a Forest an opponent controls becomes tapped, you gain 1 life.
+aV4950
 p514
-aVLightning Bolt deals 3 damage to target creature or player.
+aV4949
 p515
-aVCounter target spell unless its controller pays {3}.
+aV129608
 p516
-aVMaro's power and toughness are each equal to the number of cards in your hand.
+aV129606
 p517
-aV{T}: Prevent the next 4 damage that would be dealt to target creature or player this turn.
+aV129607
 p518
-aVWhenever an opponent discards a card, Megrim deals 2 damage to that player.
+aV129609
 p519
-ag491
-ag499
-ag499
-aVJwar Isle Refuge enters the battlefield tapped.<br>When Jwar Isle Refuge enters the battlefield, you gain 1 life.<br>{T}: Add {U} or {B} to your mana pool.
+aV20884
 p520
-ag484
-ag484
-ag484
-ag491
-ag484
-ag484
-aVIf target spell has only one target and that target is a creature, change that spell's target to another creature.
+aV20885
 p521
-aVSoldier creatures have vigilance. <i>(Attacking doesn't cause them to tap.)</i><br>{2}{W}: Put a 1/1 white Soldier creature token onto the battlefield.
+aV20886
 p522
-aVFlying<br>Whenever you cast a Spirit or Arcane spell, you may exile Hikari, Twilight Guardian. If you do, return it to the battlefield under its owner's control at the beginning of the next end step.
+aV20887
 p523
-ag484
-aVEnchant creature<br>All creatures able to block enchanted creature do so.
+aV220369
 p524
-ag491
-ag491
-aVIsao, Enlightened Bushi can't be countered.<br>Bushido 2 <i>(When this blocks or becomes blocked, it gets +2/+2 until end of turn.)</i><br>{2}: Regenerate target Samurai.
+aV220365
 p525
-aV{T}, Sacrifice three Spirits: Search your library for a legendary Spirit permanent card and put it onto the battlefield. Then shuffle your library.
+aV25452
 p526
-aVIsolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.<br>{T}: Add {W} or {B} to your mana pool.
+aV25451
 p527
-ag484
-ag484
-ag491
-ag491
-ag484
-ag484
-ag484
-ag484
-aVHaste <i>(This creature can attack and {T} as soon as it comes under your control.)</i><br>{T}: Kamahl, Pit Fighter deals 3 damage to target creature or player.
+aV206074
 p528
-ag484
-ag484
-ag484
-ag491
-aVIzzet Guildgate enters the battlefield tapped.<br>{T}: Add {U} or {R} to your mana pool.
+aV206073
 p529
-aV{T}: Add {U} or {R} to your mana pool.<br>{U}{R}: Until end of turn, Izzet Keyrune becomes a 2/1 blue and red Elemental artifact creature.<br>Whenever Izzet Keyrune deals combat damage to a player, you may draw a card. If you do, discard a card.
+aV206072
 p530
-aVFlash <i>(You may cast this spell any time you could cast an instant.)</i><br>Haste<br>{T}: Izzet Staticaster deals 1 damage to target creature and each other creature with the same name as that creature.
+aV1203
 p531
-aVG
+aV1394
 p532
-ag491
-ag491
-ag499
-aVImprint- When Isochron Scepter enters the battlefield, you may exile an instant card with converted mana cost 2 or less from your hand.<br>{2}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.
+aV1393
 p533
-aVEnchant land<br>When enchanted land becomes tapped, destroy it. That land's controller attaches Kudzu to a land of his or her choice.
+aV1392
 p534
-aVEnchant creature<br>Enchanted creature has first strike.
+aV1351
 p535
-aV{T}: Untap target land.
+aV83136
 p536
-aVYou have no maximum hand size.<br>If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard.
+aV83137
 p537
-aV{2}, {T}, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles his or her library.
+aV83138
 p538
-aVWhenever Johtull Wurm becomes blocked, it gets -2/-1 until end of turn for each creature blocking it beyond the first.
+aV83139
 p539
-aVDestroy all artifacts, creatures, and lands. They can't be regenerated.
+aV269633
 p540
-ag484
-ag484
-ag484
-ag491
-ag491
-ag491
-ag491
-ag491
-aV{T}: Add {1} to your mana pool.<br>{T}: Add {R} or {G} to your mana pool. Karplusan Forest deals 1 damage to you.
+aV269639
 p541
-aVArtifacts, creatures, and lands played by your opponents enter the battlefield tapped.
+aV269625
 p542
-aVWhen Kjeldoran Dead enters the battlefield, sacrifice a creature.<br>{B}: Regenerate Kjeldoran Dead.
+aV276471
 p543
-aVLightning Blast deals 4 damage to target creature or player.
+aV276466
 p544
-aVImprint- When Isochron Scepter enters the battlefield, you may exile an instant card with converted mana cost 2 or less from your hand.<br>{2}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.
+aV276452
 p545
-ag491
-ag484
-aVEquipped creature gets +1/+1.<br>Equip {1} <i>({1}: Attach to target creature you control. Equip only as a sorcery.)</i>
+aV276453
 p546
-aVEquipped creature gets +3/+0 and has trample and lifelink. <i>(If the creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker. Damage dealt by the creature also causes its controller to gain that much life.)</i><br>Equip {3} <i>({3}: Attach to target creature you control. Equip only as a sorcery.)</i>
+aV276462
 p547
-ag484
-ag484
-aVWhen Journey to Nowhere enters the battlefield, exile target creature.<br>When Journey to Nowhere leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+aV40120
 p548
-aVJuggernaut attacks each turn if able.<br>Juggernaut can't be blocked by Walls.
+aV40119
 p549
-aVShroud<br>Whenever another creature dies, you may put a +1/+1 counter on Algae Gharial.
+aV40118
 p550
-ag491
-ag499
-ag499
-aV{B}: Looming Shade gets +1/+1 until end of turn.
+aV40117
 p551
-aVOther Merfolk creatures get +1/+1 and have islandwalk.
+aV79217
 p552
-aVEnchant creature<br>All creatures able to block enchanted creature do so.
+aV79061
 p553
-aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i>
+aV79069
 p554
-aVJorubai Murk Lurker gets +1/+1 as long as you control a Swamp.<br>{1}{B}: Target creature gains lifelink until end of turn. <i>(Damage dealt by the creature also causes its controller to gain that much life.)</i>
+aV79071
 p555
-aVAnnihilator 2 <i>(Whenever this creature attacks, defending player sacrifices two permanents.)</i><br>Whenever an opponent sacrifices a nontoken permanent, put that card onto the battlefield under your control.
+aV79074
 p556
-ag491
-ag491
-ag499
-aVWhenever a player casts a black spell, you may pay {1}. If you do, target player loses 1 life.
+aV74039
 p557
-ag484
-ag484
-aVLifelink, protection from converted mana cost 3 or greater
+aV74636
 p558
-ag491
-ag484
-aVFlash<br>At the beginning of your end step, draw seven cards.<br>Each opponent's maximum hand size is reduced by seven.
+aV382189
 p559
-ag485
-aVSearch your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+aV95103
 p560
-aVReach <i>(This creature can block creatures with flying.)</i>
+aV95107
 p561
-aVFlying<br>When Owl Familiar enters the battlefield, draw a card, then discard a card.
+aV95100
 p562
-aVDestroy target creature. Its owner gains 4 life.
+aV95113
 p563
-aVSearch your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+aV376373
 p564
-aVOgre Taskmaster can't block.
+aV31613
 p565
-aVUntil end of turn, you may tap lands you don't control for mana. Spend this mana only to cast spells.
+aV31614
 p566
-aVWhenever a nontoken creature enters the battlefield, its controller puts a token onto the battlefield that's a copy of that creature.<br>Whenever you roll , destroy target creature and all other creatures with the same name as that creature.
+aV31615
 p567
-ag484
-ag484
-ag484
-ag484
-ag484
-ag484
-ag484
-ag484
-aVJagged Lightning deals 3 damage to each of two target creatures.
+aV31616
 p568
-aVDestroy target land.<br>Cycling {2} <i>({2}, Discard this card: Draw a card.)</i>
+aV122095
 p569
-aVFlying<br>Echo {2}{R}{R} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i><br>{R}: Lightning Dragon gets +1/+0 until end of turn.
+aV122077
 p570
-ag484
-ag484
-ag484
-aV{T}: The power of target creature with flying becomes 0 until end of turn.
+aV122089
 p571
-aVMinotaur creatures you control have haste.<br>Whenever a Minotaur you control attacks, it gets +2/+0 until end of turn.
+aV118905
 p572
-aVTarget creature gets +7/+7 until end of turn.
+aV289315
 p573
-aV{2}, {T}: Target player puts the top two cards of his or her library into his or her graveyard.
+aV290531
 p574
-aVTarget player discards two cards.
+aV270958
 p575
-aVTarget creature gets +4/+4 until end of turn.
+aV289314
 p576
-ag484
-ag484
-ag484
-ag484
-aVFlying; banding <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
+aV289316
 p577
-aV{4}, {T}: Draw a card.
+aV289313
 p578
-aVAt the beginning of each player's upkeep, Karma deals damage to that player equal to the number of Swamps he or she controls.
+aV333719
 p579
-aV{T}: Add {1} to your mana pool.<br>{T}: Add {R} or {G} to your mana pool. Karplusan Forest deals 1 damage to you.
+aV212626
 p580
-aVKeldon Warlord's power and toughness are each equal to the number of non-Wall creatures you control.
+aV896
 p581
-ag484
-ag484
-ag484
-aVUntap each creature you control with a +1/+1 counter on it during each other player's untap step.
+aV895
 p582
-ag484
-ag484
-ag484
-ag484
-aVWhenever Lead Golem attacks, it doesn't untap during its controller's next untap step.
+aV894
 p583
-aVIsolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.<br>{T}: Add {W} or {B} to your mana pool.
+aV854
 p584
-aVWhenever Kessig Cagebreakers attacks, put a 2/2 green Wolf creature token onto the battlefield tapped and attacking for each creature card in your graveyard.
+aV2769
 p585
-ag492
-ag492
-aV{T}: Add {G} to your mana pool.
+aV2768
 p586
-aVOther Merfolk creatures get +1/+1 and have islandwalk.
+aV2767
 p587
-ag485
-ag484
-ag484
-aVKird Ape gets +1/+2 as long as you control a Forest.
+aV201964
 p588
-aVArtifacts, creatures, and lands played by your opponents enter the battlefield tapped.
+aV201966
 p589
-aVFlying<br>Whenever Isperia the Inscrutable deals combat damage to a player, name a card. That player reveals his or her hand. If he or she reveals the named card, search your library for a creature card with flying, reveal it, put it into your hand, then shuffle your library.
+aV195187
 p590
-ag484
-aVImprint- When Isochron Scepter enters the battlefield, you may exile an instant card with converted mana cost 2 or less from your hand.<br>{2}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.
+aV195165
 p591
-ag484
-ag484
-ag484
-ag484
-ag484
-ag484
-ag491
-aV{T}: The power of target creature with flying becomes 0 until end of turn.
+aV201963
 p592
-aVIsland Fish Jasconius doesn't untap during your untap step.<br>At the beginning of your upkeep, you may pay {U}{U}{U}. If you do, untap Island Fish Jasconius.<br>Island Fish Jasconius can't attack unless defending player controls an Island.<br>When you control no Islands, sacrifice Island Fish Jasconius.
+aV195161
 p593
-ag484
-aVJuggernaut attacks each turn if able.<br>Juggernaut can't be blocked by Walls.
+aV201965
 p594
-ag485
-ag485
-ag485
-ag499
-aVCast Rally the Troops only during the declare attackers step and only if you've been attacked this step.<br>Untap all creatures you control.
+aV195170
 p595
-aVUntap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.
+aV14737
 p596
-aVGreen creatures you control gain forestwalk until end of turn.
+aV14738
 p597
-aVSearch your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+aV14739
 p598
-aVNeedle Storm deals 4 damage to each creature with flying.
+aV14740
 p599
-aVDestroy target creature. Its owner gains 4 life.
+aV46741
 p600
-asS'costs'
+aV48411
 p601
-(lp602
-S'0'
+aV48410
+p602
+aV48412
 p603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-aV{1}{W}
+aV48413
 p604
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-aV{4}{U}{U}{U}
+aV222725
 p605
-aV{1}{W}
+aV222727
 p606
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-aV{4}{U}{U}{U}
+aV222726
 p607
-ag603
-ag603
-ag603
-aV{1}{W}
+aV222724
 p608
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-aV{W}
+aV174979
 p609
-ag603
-ag603
-ag603
-ag603
-aV{2}{G}
+aV174977
 p610
-aV{1}{R}
+aV174978
 p611
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-aV{2}{W}{W}{U}{U}
+aV174980
 p612
-aV{5}{U}
+aV11348
 p613
-ag603
-ag603
-ag603
-ag603
-aV{2}
+aV11349
 p614
-ag603
-ag603
-ag603
-aV{1}{W}
+aV11350
 p615
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-aV{2}
+aV11351
 p616
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-aV{5}{U}{U}
+aV383281
 p617
-ag603
-ag603
-ag603
-ag603
-ag603
-aV{4}
+aV205939
 p618
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-aV{1}{W}
+aV205932
 p619
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-aV{1}{W}
+aV205944
 p620
-ag603
-ag603
-ag603
-ag603
-aV{1}{W}
+aV205945
 p621
-aV{1}{W}{W}{U}{U}
+aV147370
 p622
-ag603
-aV{2}
+aV158237
 p623
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-aV{4}{U}{U}{U}
+aV157874
 p624
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-ag603
-asS'names'
+aV157875
 p625
-(lp626
-VIsland
+aV157883
+p626
+aV227505
 p627
-aVIsland
+aV218057
 p628
-aVIsland
+aV227530
 p629
-aVIsland
+aV21793
 p630
-aVIsland
+aV21794
 p631
-aVIsland
+aV21800
 p632
-aVIsland
+aV21795
 p633
-aVIsland
+aV8391
 p634
-aVIsland
+aV8390
 p635
-aVIsland
+aV8387
 p636
-aVIsland
+aV198096
 p637
-aVIsland Sanctuary
+aV205286
 p638
-aVIsland
+aV205287
 p639
-aVIsland
+aV205288
 p640
-aVIsland
+aV205289
 p641
-aVIsland
+aV284491
 p642
-aVIsland
+aV284490
 p643
-aVIsland
+aV284492
 p644
-aVIsland
+aV8326
 p645
-aVIsland
+aV8327
 p646
-aVIsland
+aV8328
 p647
-aVIsland
+aV8329
 p648
-aVIsland
+aV159281
 p649
-aVIsland
+aV159282
 p650
-aVIsland Fish Jasconius
+aV159283
 p651
-aVIsland Sanctuary
+aV159763
 p652
-aVIsland
+aV373595
 p653
-aVIsland
+aV46441
 p654
-aVIsland
+aV46442
 p655
-aVIsland
+aV46443
 p656
-aVIsland
+aV46444
 p657
-aVIsland
+aV25964
 p658
-aVIsland
+aV26301
 p659
-aVIsland
+aV26302
 p660
-aVIsland
+aV26303
 p661
-aVIsland
+aV4136
 p662
-aVIsland
+aV4202
 p663
-aVIsland
+aV4201
 p664
-aVIsland
+aV4200
 p665
-aVIsland
+aV4199
 p666
-aVIsland
+aV221300
 p667
-aVIsland
+aV221302
 p668
-aVIsland
+aV221301
 p669
-aVIsland
+aV386566
 p670
-aVIsland
+aV380217
 p671
-aVIsland
+aV3584
 p672
-aVIsland
+aV3583
 p673
-aVIsland
+aV3582
 p674
-aVIsland
+aV3581
 p675
-aVIsland
+aV245235
 p676
-aVIsland
+aV241979
 p677
-aVIsland
+aV245237
 p678
-aVIsland
+aV245236
 p679
-aVIsland
+aV293
 p680
-aVIsland
+aV256
 p681
-aVIsland Fish Jasconius
+aV292
 p682
-aVIsland
+aV27238
 p683
-aVIsland
+aV27237
 p684
-aVIsland
+aV27236
 p685
-aVIsland Sanctuary
+aV202556
 p686
-aVIsland
+aV107448
 p687
-aVIsland
+aV292765
 p688
-aVIsland
+aV292752
 p689
-aVIsland
+aV292764
 p690
-aVIsland
+aV292763
 p691
-aVIsland
+aV292766
 p692
-aVIsland
+aV143628
 p693
-aVIsland
+aV143624
 p694
-aVIsland
+aV143632
 p695
-aVIsland
+aV143619
 p696
-aVIsland
+aV989
 p697
-aVIsland
+aV935
 p698
-aVIsland
+aV207935
 p699
-aVIsland
+aV213617
 p700
-aVIsland
+aV213619
 p701
-aVIsland
+aV213618
 p702
-aVIsamaru, Hound of Konda
+aV213616
 p703
-aVIsland
+aV10551
 p704
-aVIsland
+aV10641
 p705
-aVIsland
+aV10642
 p706
-aVIsland
+aV4424
 p707
-aVIsao, Enlightened Bushi
+aV4423
 p708
-aVIshi-Ishi, Akki Crackshot
+aV4422
 p709
-aVIsolated Chapel
+aV4421
 p710
-aVIsland
+asS'texts'
 p711
-aVIsland
-p712
-aVIsland
+(lp712
+VU
 p713
-aVIsland
+ag713
+ag713
+ag713
+ag713
+ag713
+ag713
+aS''
 p714
-aVIsland
+aVKeldon Warlord's power and toughness are each equal to the number of non-Wall creatures you control.
 p715
-aVIsland
+aVAll Swamps are 1/1 black creatures that are still lands.
 p716
-aVIsland
+aVEnchant land<br>When enchanted land becomes tapped, destroy it. That land's controller attaches Kudzu to a land of his or her choice.
 p717
-aVIsland
+aVEnchant creature<br>Enchanted creature has first strike.
 p718
-aVIsland
+ag713
+ag713
+ag713
+ag713
+aVAt the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, and put them into your hand. If you do, shuffle your library.
 p719
-aVIsland
+aVR
 p720
-aVIsland
+aVB
 p721
-aVIsland
+ag714
+ag714
+aVKeldon Warlord's power and toughness are each equal to the number of non-Wall creatures you control.
 p722
-aVIsland
+aVFlying<br>{G}: Killer Bees gets +1/+1 until end of turn.
 p723
-aVIsland
+aVAll Swamps are 1/1 black creatures that are still lands.
 p724
-aVIsperia, Supreme Judge
+aVTrample<br>Leviathan enters the battlefield tapped and doesn't untap during your untap step.<br>At the beginning of your upkeep, you may sacrifice two Islands. If you do, untap Leviathan.<br>Leviathan can't attack unless you sacrifice two Islands.
 p725
-aVIsperia's Skywatch
+aVYou have no maximum hand size.<br>If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard.
 p726
-aVIsland
+ag713
+aVAt the beginning of your upkeep, put a 2/2 white Cat creature token onto the battlefield for each Equipment attached to Kemba, Kha Regent.
 p727
-aVIsland
+aVW
 p728
-aVIsland
+ag728
+ag721
+aVLava Axe deals 5 damage to target player.
 p729
-aVIsland
+ag714
+ag714
+ag714
+aVTrample<br>Kalonian Hydra enters the battlefield with four +1/+1 counters on it.<br>Whenever Kalonian Hydra attacks, double the number of +1/+1 counters on each creature you control.
 p730
-aVIsochron Scepter
+ag713
+ag713
+aV{B}{B}: Destroy target creature blocking Knight of Dusk.
 p731
-aVIsland
+aVBlack creatures can't attack or block.
 p732
-aVIsland
+aVLava Axe deals 5 damage to target player.
 p733
-aVIsland
+ag714
+ag714
+ag714
+ag713
+ag713
+aVYou have shroud. <i>(You can't be the target of spells or abilities.)</i>
 p734
-aVIsland Sanctuary
+aVWhenever a creature you control deals combat damage to a player, that player discards a card.
 p735
-aVIsland
+ag714
+ag714
+aVTarget creature gets +4/+4 until end of turn.
 p736
-aVIsland
+ag720
+aVProtection from red<br>Creatures named Ivory Guardians get +1/+1 as long as an opponent controls a nontoken red permanent.
 p737
-aVIsland
+aVJungle Lion can't block.
 p738
-aVIsland
+aV{T}: Add {W} to your mana pool.<br>{T}: Return target legendary creature to its owner's hand.
 p739
-aVIsland
+aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i>
 p740
-aVIsland
+aV{G}{G}: Counter target black spell.
 p741
-aVIsland
+aVTarget spell or permanent becomes green. <i>(Mana symbols on that permanent remain unchanged.)</i>
 p742
-aVIsland
+aVWhenever a Forest an opponent controls becomes tapped, you gain 1 life.
 p743
-aVIsland
+aVLightning Bolt deals 3 damage to target creature or player.
 p744
-aVIsland
+aVCounter target spell unless its controller pays {3}.
 p745
-aVIsland
+aVMaro's power and toughness are each equal to the number of cards in your hand.
 p746
-aVIsland
+aV{T}: Prevent the next 4 damage that would be dealt to target creature or player this turn.
 p747
-aVIsland
+aVWhenever an opponent discards a card, Megrim deals 2 damage to that player.
 p748
-aVIsland
+ag720
+ag728
+ag728
+aVJwar Isle Refuge enters the battlefield tapped.<br>When Jwar Isle Refuge enters the battlefield, you gain 1 life.<br>{T}: Add {U} or {B} to your mana pool.
 p749
-aVIsland
+ag713
+ag713
+ag713
+ag720
+ag713
+ag713
+aVIf target spell has only one target and that target is a creature, change that spell's target to another creature.
 p750
-aVIsochron Scepter
+aVSoldier creatures have vigilance. <i>(Attacking doesn't cause them to tap.)</i><br>{2}{W}: Put a 1/1 white Soldier creature token onto the battlefield.
 p751
-aVIsland
+aVFlying<br>Whenever you cast a Spirit or Arcane spell, you may exile Hikari, Twilight Guardian. If you do, return it to the battlefield under its owner's control at the beginning of the next end step.
 p752
-aVIsland
+ag713
+aVEnchant creature<br>All creatures able to block enchanted creature do so.
 p753
-aVIsland
+ag720
+ag720
+aVIsao, Enlightened Bushi can't be countered.<br>Bushido 2 <i>(When this blocks or becomes blocked, it gets +2/+2 until end of turn.)</i><br>{2}: Regenerate target Samurai.
 p754
-aVIsland
+aV{T}, Sacrifice three Spirits: Search your library for a legendary Spirit permanent card and put it onto the battlefield. Then shuffle your library.
 p755
-aVIsland
+aVIsolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.<br>{T}: Add {W} or {B} to your mana pool.
 p756
-aVIsland
+ag713
+ag713
+ag720
+ag720
+ag713
+ag713
+ag713
+ag713
+aVHaste <i>(This creature can attack and {T} as soon as it comes under your control.)</i><br>{T}: Kamahl, Pit Fighter deals 3 damage to target creature or player.
 p757
-aVIsland
+ag713
+ag713
+ag713
+ag720
+aVIzzet Guildgate enters the battlefield tapped.<br>{T}: Add {U} or {R} to your mana pool.
 p758
-aVIsland
+aV{T}: Add {U} or {R} to your mana pool.<br>{U}{R}: Until end of turn, Izzet Keyrune becomes a 2/1 blue and red Elemental artifact creature.<br>Whenever Izzet Keyrune deals combat damage to a player, you may draw a card. If you do, discard a card.
 p759
-aVIsland
+aVFlash <i>(You may cast this spell any time you could cast an instant.)</i><br>Haste<br>{T}: Izzet Staticaster deals 1 damage to target creature and each other creature with the same name as that creature.
 p760
-aVIsland
+aVG
 p761
-aVIsland
+ag720
+ag720
+ag728
+aVImprint- When Isochron Scepter enters the battlefield, you may exile an instant card with converted mana cost 2 or less from your hand.<br>{2}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.
 p762
-aVIsland
+aVEnchant land<br>When enchanted land becomes tapped, destroy it. That land's controller attaches Kudzu to a land of his or her choice.
 p763
-aVIsland
+aVEnchant creature<br>Enchanted creature has first strike.
 p764
-aVIsland
+aV{T}: Untap target land.
 p765
-aVIsland
+aVYou have no maximum hand size.<br>If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard.
 p766
-aVIsland
+aV{2}, {T}, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles his or her library.
 p767
-aVIsland
+aVWhenever Johtull Wurm becomes blocked, it gets -2/-1 until end of turn for each creature blocking it beyond the first.
 p768
-aVIsland
+aVDestroy all artifacts, creatures, and lands. They can't be regenerated.
 p769
-aVIsland
+ag713
+ag713
+ag713
+ag720
+ag720
+ag720
+ag720
+ag720
+aV{T}: Add {1} to your mana pool.<br>{T}: Add {R} or {G} to your mana pool. Karplusan Forest deals 1 damage to you.
 p770
-aVIsland
+aVArtifacts, creatures, and lands played by your opponents enter the battlefield tapped.
 p771
-aVIsland
+aVWhen Kjeldoran Dead enters the battlefield, sacrifice a creature.<br>{B}: Regenerate Kjeldoran Dead.
 p772
-aVIsleback Spawn
+aVLightning Blast deals 4 damage to target creature or player.
 p773
-aVIsland
+aVImprint- When Isochron Scepter enters the battlefield, you may exile an instant card with converted mana cost 2 or less from your hand.<br>{2}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.
 p774
-aVIsland
+ag720
+ag713
+aVEquipped creature gets +1/+1.<br>Equip {1} <i>({1}: Attach to target creature you control. Equip only as a sorcery.)</i>
 p775
-aVIsland
+aVEquipped creature gets +3/+0 and has trample and lifelink. <i>(If the creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker. Damage dealt by the creature also causes its controller to gain that much life.)</i><br>Equip {3} <i>({3}: Attach to target creature you control. Equip only as a sorcery.)</i>
 p776
-aVIsland
+ag713
+ag713
+aVWhen Journey to Nowhere enters the battlefield, exile target creature.<br>When Journey to Nowhere leaves the battlefield, return the exiled card to the battlefield under its owner's control.
 p777
-aVIsland
+aVJuggernaut attacks each turn if able.<br>Juggernaut can't be blocked by Walls.
 p778
-aVIsolation Cell
+aVShroud<br>Whenever another creature dies, you may put a +1/+1 counter on Algae Gharial.
 p779
-aVIsland
+ag720
+ag728
+ag728
+aV{B}: Looming Shade gets +1/+1 until end of turn.
 p780
-aVIsland
+aVOther Merfolk creatures get +1/+1 and have islandwalk.
 p781
-aVIsland
+aVEnchant creature<br>All creatures able to block enchanted creature do so.
 p782
-aVIsland
+aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i>
 p783
-aVIsland
+aVJorubai Murk Lurker gets +1/+1 as long as you control a Swamp.<br>{1}{B}: Target creature gains lifelink until end of turn. <i>(Damage dealt by the creature also causes its controller to gain that much life.)</i>
 p784
-aVIsland
+aVAnnihilator 2 <i>(Whenever this creature attacks, defending player sacrifices two permanents.)</i><br>Whenever an opponent sacrifices a nontoken permanent, put that card onto the battlefield under your control.
 p785
-aVIsland
+ag720
+ag720
+ag728
+aVWhenever a player casts a black spell, you may pay {1}. If you do, target player loses 1 life.
 p786
-aVIsland
+ag713
+ag713
+aVLifelink, protection from converted mana cost 3 or greater
 p787
-aVIsle of Vesuva
+ag720
+ag713
+aVFlash<br>At the beginning of your end step, draw seven cards.<br>Each opponent's maximum hand size is reduced by seven.
 p788
-aVIsland
+ag714
+aVSearch your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
 p789
-aVIsland
+aVReach <i>(This creature can block creatures with flying.)</i>
 p790
-aVIsland
+aVFlying<br>When Owl Familiar enters the battlefield, draw a card, then discard a card.
 p791
-aVIsland
+aVDestroy target creature. Its owner gains 4 life.
 p792
-aVIsland
+aVSearch your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
 p793
-aVIsland
+aVOgre Taskmaster can't block.
 p794
-aVIsland
+aVUntil end of turn, you may tap lands you don't control for mana. Spend this mana only to cast spells.
 p795
-aVIsland
+aVWhenever a nontoken creature enters the battlefield, its controller puts a token onto the battlefield that's a copy of that creature.<br>Whenever you roll , destroy target creature and all other creatures with the same name as that creature.
 p796
-aVIsland
+ag713
+ag713
+ag713
+ag713
+ag713
+ag713
+ag713
+ag713
+aVJagged Lightning deals 3 damage to each of two target creatures.
 p797
-aVIsland
+aVDestroy target land.<br>Cycling {2} <i>({2}, Discard this card: Draw a card.)</i>
 p798
-aVIsland
+aVFlying<br>Echo {2}{R}{R} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i><br>{R}: Lightning Dragon gets +1/+0 until end of turn.
 p799
-aVIsland
+ag713
+ag713
+ag713
+aV{T}: The power of target creature with flying becomes 0 until end of turn.
 p800
-aVIsland
+aVMinotaur creatures you control have haste.<br>Whenever a Minotaur you control attacks, it gets +2/+0 until end of turn.
 p801
-aVIsland
+aVTarget creature gets +7/+7 until end of turn.
 p802
-aVIsland of Wak-Wak
+aV{2}, {T}: Target player puts the top two cards of his or her library into his or her graveyard.
 p803
-aVIsland
+aVTarget player discards two cards.
 p804
-aVIsland
+aVTarget creature gets +4/+4 until end of turn.
 p805
-aVIsland
+ag713
+ag713
+ag713
+ag713
+aVFlying; banding <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
 p806
-aVIsland
+aV{4}, {T}: Draw a card.
 p807
-aVIsland
+aVAt the beginning of each player's upkeep, Karma deals damage to that player equal to the number of Swamps he or she controls.
 p808
-aVIsland
+aV{T}: Add {1} to your mana pool.<br>{T}: Add {R} or {G} to your mana pool. Karplusan Forest deals 1 damage to you.
 p809
-aVIsland
+aVKeldon Warlord's power and toughness are each equal to the number of non-Wall creatures you control.
 p810
-aVIsland
+ag713
+ag713
+ag713
+aVUntap each creature you control with a +1/+1 counter on it during each other player's untap step.
 p811
-aVIsland
+ag713
+ag713
+ag713
+ag713
+aVWhenever Lead Golem attacks, it doesn't untap during its controller's next untap step.
 p812
-aVIsland Sanctuary
+aVIsolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.<br>{T}: Add {W} or {B} to your mana pool.
 p813
-aVIsland
+aVWhenever Kessig Cagebreakers attacks, put a 2/2 green Wolf creature token onto the battlefield tapped and attacking for each creature card in your graveyard.
 p814
-aVIsland
+ag721
+ag721
+aV{T}: Add {G} to your mana pool.
 p815
-aVIsland
+aVOther Merfolk creatures get +1/+1 and have islandwalk.
 p816
-aVIsland
+ag714
+ag713
+ag713
+aVKird Ape gets +1/+2 as long as you control a Forest.
 p817
-aVIsland
+aVArtifacts, creatures, and lands played by your opponents enter the battlefield tapped.
 p818
-aVIsland
+aVFlying<br>Whenever Isperia the Inscrutable deals combat damage to a player, name a card. That player reveals his or her hand. If he or she reveals the named card, search your library for a creature card with flying, reveal it, put it into your hand, then shuffle your library.
 p819
-aVIsland
+ag713
+aVImprint- When Isochron Scepter enters the battlefield, you may exile an instant card with converted mana cost 2 or less from your hand.<br>{2}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.
 p820
-aVIsland
+ag713
+ag713
+ag713
+ag713
+ag713
+ag713
+ag720
+aV{T}: The power of target creature with flying becomes 0 until end of turn.
 p821
-aVIsland
+aVIsland Fish Jasconius doesn't untap during your untap step.<br>At the beginning of your upkeep, you may pay {U}{U}{U}. If you do, untap Island Fish Jasconius.<br>Island Fish Jasconius can't attack unless defending player controls an Island.<br>When you control no Islands, sacrifice Island Fish Jasconius.
 p822
-aVIsland
+ag713
+aVJuggernaut attacks each turn if able.<br>Juggernaut can't be blocked by Walls.
 p823
-aVIsland
+ag714
+ag714
+ag714
+ag728
+aVCast Rally the Troops only during the declare attackers step and only if you've been attacked this step.<br>Untap all creatures you control.
 p824
-aVIsland
+aVUntap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.
 p825
-aVIsland
+aVGreen creatures you control gain forestwalk until end of turn.
 p826
-aVIsland
+aVSearch your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
 p827
-aVIsolated Chapel
+aVNeedle Storm deals 4 damage to each creature with flying.
 p828
-aVIsland
+aVDestroy target creature. Its owner gains 4 life.
 p829
-aVIsland
+asS'costs'
 p830
-aVIsland
-p831
-aVIsland Sanctuary
+(lp831
+S'0'
 p832
-aVIsland
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+aV{1}{W}
 p833
-aVIsland
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+aV{4}{U}{U}{U}
 p834
-aVIsland
+aV{1}{W}
 p835
-aVIsland
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+aV{4}{U}{U}{U}
 p836
-aVIsland Sanctuary
+ag832
+ag832
+ag832
+aV{1}{W}
 p837
-aVIsperia the Inscrutable
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+aV{W}
 p838
-aVIsland
+ag832
+ag832
+ag832
+ag832
+aV{2}{G}
 p839
-aVIsochron Scepter
+aV{1}{R}
 p840
-aVIsland
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+aV{2}{W}{W}{U}{U}
 p841
-aVIsland
+aV{5}{U}
 p842
-aVIsland
+ag832
+ag832
+ag832
+ag832
+aV{2}
 p843
-aVIsland
+ag832
+ag832
+ag832
+aV{1}{W}
 p844
-aVIsland
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+aV{2}
 p845
-aVIsland
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+aV{5}{U}{U}
 p846
-aVIsland
+ag832
+ag832
+ag832
+ag832
+ag832
+aV{4}
 p847
-aVIsland of Wak-Wak
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+aV{1}{W}
 p848
-aVIsland Fish Jasconius
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+aV{1}{W}
 p849
-aVIsland
+ag832
+ag832
+ag832
+ag832
+aV{1}{W}
 p850
-aVIsland
+aV{1}{W}{W}{U}{U}
 p851
-aVIsland
+ag832
+aV{2}
 p852
-aVIsland
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+aV{4}{U}{U}{U}
 p853
-aVIsland
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+ag832
+asS'names'
 p854
-aVIsland
-p855
-aVIsland
+(lp855
+VIsland
 p856
 aVIsland
 p857
@@ -2276,479 +2047,708 @@ aVIsland
 p860
 aVIsland
 p861
-asS'rares'
+aVIsland
 p862
-(lp863
-VLand
+aVIsland
+p863
+aVIsland
 p864
-aVLand
+aVIsland
 p865
-aVLand
+aVIsland
 p866
-aVLand
+aVIsland Sanctuary
 p867
-aVLand
+aVIsland
 p868
-aVLand
+aVIsland
 p869
-aVLand
+aVIsland
 p870
-aVLand
+aVIsland
 p871
-aVLand
+aVIsland
 p872
-aVLand
+aVIsland
 p873
-aVLand
+aVIsland
 p874
-aVRare
+aVIsland
 p875
-aVLand
+aVIsland
 p876
-aVLand
+aVIsland
 p877
-aVLand
+aVIsland
 p878
-aVLand
+aVIsland
 p879
-aVLand
+aVIsland Fish Jasconius
 p880
-aVLand
+aVIsland Sanctuary
 p881
-aVLand
+aVIsland
 p882
-aVLand
+aVIsland
 p883
-aVLand
+aVIsland
 p884
-aVLand
+aVIsland
 p885
-aVLand
+aVIsland
 p886
-aVLand
+aVIsland
 p887
-aVRare
+aVIsland
 p888
-aVRare
+aVIsland
 p889
-aVLand
+aVIsland
 p890
-aVLand
+aVIsland
 p891
-aVLand
+aVIsland
 p892
-aVLand
+aVIsland
 p893
-aVLand
+aVIsland
 p894
-aVLand
+aVIsland
 p895
-aVLand
+aVIsland
 p896
-aVLand
+aVIsland
 p897
-aVLand
+aVIsland
 p898
-aVLand
+aVIsland
 p899
-aVLand
+aVIsland
 p900
-aVLand
+aVIsland
 p901
-aVLand
+aVIsland
 p902
-aVLand
+aVIsland
 p903
-aVLand
+aVIsland
 p904
-aVLand
+aVIsland
 p905
-aVLand
+aVIsland
 p906
-aVLand
+aVIsland
 p907
-aVLand
+aVIsland
 p908
-aVLand
+aVIsland
 p909
-aVLand
+aVIsland
 p910
-aVLand
+aVIsland Fish Jasconius
 p911
-aVLand
+aVIsland
 p912
-aVLand
+aVIsland
 p913
-aVLand
+aVIsland
 p914
-aVLand
+aVIsland Sanctuary
 p915
-aVLand
+aVIsland
 p916
-aVLand
+aVIsland
 p917
-aVLand
+aVIsland
 p918
-aVRare
+aVIsland
 p919
-aVLand
+aVIsland
 p920
-aVLand
+aVIsland
 p921
-aVLand
+aVIsland
 p922
-aVRare
+aVIsland
 p923
-aVLand
+aVIsland
 p924
-aVLand
+aVIsland
 p925
-aVLand
+aVIsland
 p926
-aVLand
+aVIsland
 p927
-aVLand
+aVIsland
 p928
-aVLand
+aVIsland
 p929
-aVLand
+aVIsland
 p930
-aVLand
+aVIsland
 p931
-aVLand
+aVIsamaru, Hound of Konda
 p932
-aVLand
+aVIsland
 p933
-aVLand
+aVIsland
 p934
-aVLand
+aVIsland
 p935
-aVLand
+aVIsland
 p936
-aVLand
+aVIsao, Enlightened Bushi
 p937
-aVLand
+aVIshi-Ishi, Akki Crackshot
 p938
-aVLand
+aVIsolated Chapel
 p939
-aVRare
+aVIsland
 p940
-aVLand
+aVIsland
 p941
-aVLand
+aVIsland
 p942
-aVLand
+aVIsland
 p943
-aVLand
+aVIsland
 p944
-aVRare
+aVIsland
 p945
-aVRare
+aVIsland
 p946
-aVRare
+aVIsland
 p947
-aVLand
+aVIsland
 p948
-aVLand
+aVIsland
 p949
-aVLand
+aVIsland
 p950
-aVLand
+aVIsland
 p951
-aVLand
+aVIsland
 p952
-aVLand
+aVIsland
 p953
-aVLand
+aVIsperia, Supreme Judge
 p954
-aVLand
+aVIsperia's Skywatch
 p955
-aVLand
+aVIsland
 p956
-aVLand
+aVIsland
 p957
-aVLand
+aVIsland
 p958
-aVLand
+aVIsland
 p959
-aVLand
+aVIsochron Scepter
 p960
-aVLand
+aVIsland
 p961
-aVMythic Rare
+aVIsland
 p962
-aVCommon
+aVIsland
 p963
-aVLand
+aVIsland Sanctuary
 p964
-aVLand
+aVIsland
 p965
-aVLand
+aVIsland
 p966
-aVLand
+aVIsland
 p967
-aVMythic Rare
+aVIsland
 p968
-aVLand
+aVIsland
 p969
-aVLand
+aVIsland
 p970
-aVLand
+aVIsland
 p971
-aVRare
+aVIsland
 p972
-aVLand
+aVIsland
 p973
-aVLand
+aVIsland
 p974
-aVLand
+aVIsland
 p975
-aVLand
+aVIsland
 p976
-aVLand
+aVIsland
 p977
-aVLand
+aVIsland
 p978
-aVLand
+aVIsland
 p979
-aVLand
+aVIsochron Scepter
 p980
-aVLand
+aVIsland
 p981
-aVLand
+aVIsland
 p982
-aVLand
+aVIsland
 p983
-aVLand
+aVIsland
 p984
-aVLand
+aVIsland
 p985
-aVLand
+aVIsland
 p986
-aVLand
+aVIsland
 p987
-aVUncommon
+aVIsland
 p988
-aVLand
+aVIsland
 p989
-aVLand
+aVIsland
 p990
-aVLand
+aVIsland
 p991
-aVLand
+aVIsland
 p992
-aVLand
+aVIsland
 p993
-aVLand
+aVIsland
 p994
-aVLand
+aVIsland
 p995
-aVLand
+aVIsland
 p996
-aVLand
+aVIsland
 p997
-aVLand
+aVIsland
 p998
-aVLand
+aVIsland
 p999
-aVLand
+aVIsland
 p1000
-aVLand
+aVIsland
 p1001
-aVLand
+aVIsleback Spawn
 p1002
-aVLand
+aVIsland
 p1003
-aVLand
+aVIsland
 p1004
-aVLand
+aVIsland
 p1005
-aVLand
+aVIsland
 p1006
-aVLand
+aVIsland
 p1007
-aVLand
+aVIsolation Cell
 p1008
-aVLand
+aVIsland
 p1009
-aVRare
+aVIsland
 p1010
-aVLand
+aVIsland
 p1011
-aVLand
+aVIsland
 p1012
-aVLand
+aVIsland
 p1013
-aVLand
+aVIsland
 p1014
-aVLand
+aVIsland
 p1015
-aVUncommon
+aVIsland
 p1016
-aVLand
+aVIsle of Vesuva
 p1017
-aVLand
+aVIsland
 p1018
-aVLand
+aVIsland
 p1019
-aVLand
+aVIsland
 p1020
-aVLand
+aVIsland
 p1021
-aVLand
+aVIsland
 p1022
-aVLand
+aVIsland
 p1023
-aVLand
+aVIsland
 p1024
-aVCommon
+aVIsland
 p1025
-aVLand
+aVIsland
 p1026
-aVLand
+aVIsland
 p1027
-aVLand
+aVIsland
 p1028
-aVLand
+aVIsland
 p1029
-aVLand
+aVIsland
 p1030
-aVLand
+aVIsland
 p1031
-aVLand
+aVIsland of Wak-Wak
 p1032
-aVLand
+aVIsland
 p1033
-aVLand
+aVIsland
 p1034
-aVLand
+aVIsland
 p1035
-aVLand
+aVIsland
 p1036
-aVLand
+aVIsland
 p1037
-aVLand
+aVIsland
 p1038
-aVLand
+aVIsland
 p1039
-aVRare
+aVIsland
 p1040
-aVLand
+aVIsland
 p1041
-aVLand
+aVIsland Sanctuary
 p1042
-aVLand
+aVIsland
 p1043
-aVLand
+aVIsland
 p1044
-aVLand
+aVIsland
 p1045
-aVLand
+aVIsland
 p1046
-aVLand
+aVIsland
 p1047
-aVLand
+aVIsland
 p1048
-aVLand
+aVIsland
 p1049
-aVRare
+aVIsland
 p1050
-aVLand
+aVIsland
 p1051
-aVLand
+aVIsland
 p1052
-aVLand
+aVIsland
 p1053
-aVLand
+aVIsland
 p1054
-aVLand
+aVIsland
 p1055
-aVLand
+aVIsland
 p1056
-aVLand
+aVIsolated Chapel
 p1057
-aVLand
+aVIsland
 p1058
-aVLand
+aVIsland
 p1059
-aVLand
+aVIsland
 p1060
-aVLand
+aVIsland Sanctuary
 p1061
-aVLand
+aVIsland
 p1062
-aVLand
+aVIsland
 p1063
-aVLand
+aVIsland
 p1064
-aVRare
+aVIsland
 p1065
-aVLand
+aVIsland Sanctuary
 p1066
-aVLand
+aVIsperia the Inscrutable
 p1067
-aVLand
+aVIsland
 p1068
-aVRare
+aVIsochron Scepter
 p1069
-aVLand
+aVIsland
 p1070
-aVLand
+aVIsland
 p1071
-aVLand
+aVIsland
 p1072
-aVLand
+aVIsland
 p1073
-aVRare
+aVIsland
 p1074
-aVRare
+aVIsland
 p1075
-aVLand
+aVIsland
 p1076
-aVUncommon
+aVIsland of Wak-Wak
 p1077
-aVLand
+aVIsland Fish Jasconius
 p1078
-aVLand
+aVIsland
 p1079
-aVLand
+aVIsland
 p1080
-aVLand
+aVIsland
 p1081
-aVLand
+aVIsland
 p1082
-aVLand
+aVIsland
 p1083
-aVLand
+aVIsland
 p1084
-aVRare
+aVIsland
 p1085
-aVRare
+aVIsland
 p1086
-aVLand
+aVIsland
 p1087
-aVLand
+aVIsland
 p1088
-aVLand
+aVIsland
 p1089
-aVLand
+aVIsland
 p1090
-aVLand
+asS'toughs'
 p1091
-aVLand
-p1092
-aVLand
+(lp1092
+S'N/A'
 p1093
-aVLand
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+aV5
 p1094
-aVLand
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+aV1
 p1095
-aVLand
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+aV2
 p1096
-aVLand
+ag1093
+ag1093
+ag1093
+ag1093
+ag1095
+ag1095
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+aV4
 p1097
-aVLand
+aV3
 p1098
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1098
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1097
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1096
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
 asS'artists'
 p1099
 (lp1100
@@ -2766,7 +2766,7 @@ aVMichael Komarck
 p1106
 aVPeter Mohrbacher
 p1107
-ag485
+ag714
 aVMark Poole
 p1108
 aVMark Poole
@@ -2847,8 +2847,8 @@ aVScott Bailey
 p1146
 aVTony Szczudlo
 p1147
-ag485
-ag485
+ag714
+ag714
 aVEric Peterson
 p1148
 aVDouglas Shuler
@@ -2883,11 +2883,11 @@ aVAdam Paquette
 p1163
 aVJames Paick
 p1164
-ag485
-ag485
-ag485
-ag485
-ag485
+ag714
+ag714
+ag714
+ag714
+ag714
 aVTony Szczudlo
 p1165
 aVBradley Williams
@@ -3048,8 +3048,8 @@ aVRob Alexander
 p1243
 aVJung Park
 p1244
-ag485
-ag485
+ag714
+ag714
 aVDouglas Shuler
 p1245
 aVJ. W. Frost
@@ -3215,242 +3215,242 @@ p1325
 asS'powers'
 p1326
 (lp1327
-g3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag7
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag5
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag6
-ag3
-ag3
-ag3
-ag3
-ag6
-ag5
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
+g1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1097
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1095
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1096
+ag1093
+ag1093
+ag1093
+ag1093
+ag1096
+ag1095
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
 aV6
 p1328
-ag8
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag6
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag5
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag8
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
+ag1098
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1096
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1095
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1098
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
+ag1093
 asS'types'
 p1329
 (lp1330
@@ -4135,7 +4135,7 @@ aV257
 p1670
 aV259
 p1671
-ag8
+ag1098
 aV139
 p1672
 aV140

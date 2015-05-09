@@ -1,4806 +1,4806 @@
 (dp0
-S'toughs'
+S'rares'
 p1
 (lp2
-S'N/A'
+VLand
 p3
-ag3
-aV2
+aVLand
 p4
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-aV4
+aVUncommon
 p5
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-aV3
+aVCommon
 p6
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag4
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag5
-aV0
+aVLand
 p7
-aV1
+aVLand
 p8
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag8
-ag3
-ag3
-ag3
-ag3
-ag3
-ag4
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag6
-ag3
-ag3
-ag3
-ag3
-aV5
+aVLand
 p9
-ag3
-ag3
-ag8
-ag4
-ag3
-ag6
-ag3
-ag3
-ag3
-ag3
-ag8
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag5
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag5
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag5
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag9
-ag3
-ag3
-ag8
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag8
-ag6
-ag6
-ag3
-ag3
-ag5
-ag3
-ag3
-ag3
-ag3
-ag3
-ag5
-ag3
-ag4
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag6
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag8
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag8
-ag8
-ag3
-ag8
-ag3
-ag3
-ag3
-ag3
-ag3
-ag8
-ag3
-aV6
+aVLand
 p10
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag5
-ag3
-ag3
-ag3
-ag3
-ag3
-ag6
-ag3
-ag3
-ag5
-ag3
-ag4
-ag4
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag4
-ag4
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag6
-ag8
-ag4
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag6
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag8
-ag3
-ag3
-ag3
-ag3
-ag3
-ag8
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag6
-ag3
-ag3
-ag3
-ag3
-ag3
-ag5
-ag3
-ag3
-ag3
-ag3
-ag3
-ag6
-ag8
-ag3
-ag3
-ag3
-ag3
-ag10
-ag3
-ag9
-ag4
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag6
-ag9
-ag3
-ag4
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag5
-ag3
-ag3
-ag3
-ag3
-ag3
-ag4
-asS'editns'
+aVCommon
 p11
-(lp12
-VAnthologies
+aVLand
+p12
+aVLand
 p13
-aVAnthologies
+aVLand
 p14
-aVMagic: The Gathering-Commander
+aVCommon
 p15
-aVMagic: The Gathering-Commander
+aVLand
 p16
-aVMagic: The Gathering-Commander
+aVCommon
 p17
-aVMagic: The Gathering-Commander
+aVRare
 p18
-aVMagic: The Gathering-Commander
+aVRare
 p19
-aVMagic: The Gathering-Commander
+aVLand
 p20
-aVMagic: The Gathering-Commander
+aVLand
 p21
-aVMagic 2012
+aVLand
 p22
-aVMagic 2012
+aVRare
 p23
-aVMagic 2012
+aVUncommon
 p24
-aVMagic 2012
+aVLand
 p25
-aVMagic 2012
+aVLand
 p26
-aVLimited Edition Beta
+aVLand
 p27
-aVLimited Edition Beta
+aVLand
 p28
-aVLimited Edition Beta
+aVLand
 p29
-aVLimited Edition Beta
+aVLand
 p30
-aVLimited Edition Beta
+aVLand
 p31
-aVLimited Edition Beta
+aVLand
 p32
-aVLimited Edition Beta
+aVLand
 p33
-aVSaviors of Kamigawa
+aVCommon
 p34
-aVBattle Royale Box Set
+aVUncommon
 p35
-aVBattle Royale Box Set
+aVCommon
 p36
-aVBattle Royale Box Set
+aVLand
 p37
-aVBattle Royale Box Set
+aVLand
 p38
-aVBattle Royale Box Set
+aVLand
 p39
-aVBattle Royale Box Set
+aVLand
 p40
-aVBattle Royale Box Set
+aVCommon
 p41
-aVBattle Royale Box Set
+aVCommon
 p42
-aVBattle Royale Box Set
+aVRare
 p43
-aVMorningtide
+aVLand
 p44
-aVMagic 2013
+aVLand
 p45
-aVMagic 2013
+aVLand
 p46
-aVMagic 2013
+aVLand
 p47
-aVMagic 2013
+aVLand
 p48
-aVMagic 2013
+aVUncommon
 p49
-aVMagic 2013
+aVCommon
 p50
-aVFourth Edition
+aVCommon
 p51
-aVFourth Edition
+aVRare
 p52
-aVFourth Edition
+aVLand
 p53
-aVFourth Edition
+aVLand
 p54
-aVFourth Edition
+aVLand
 p55
-aVFourth Edition
+aVLand
 p56
-aVDuel Decks: Ajani vs. Nicol Bolas
+aVLand
 p57
-aVDuel Decks: Ajani vs. Nicol Bolas
+aVLand
 p58
-aVAlliances
+aVLand
 p59
-aVAlliances
+aVLand
 p60
-aVAlliances
+aVRare
 p61
-aVFrom the Vault: Dragons
+aVUncommon
 p62
-aVDuel Decks: Knights vs. Dragons
+aVCommon
 p63
-aVDuel Decks: Knights vs. Dragons
+aVCommon
 p64
-aVDuel Decks: Knights vs. Dragons
+aVLand
 p65
-aVDuel Decks: Knights vs. Dragons
+aVLand
 p66
-aVScars of Mirrodin
+aVLand
 p67
-aVScars of Mirrodin
+aVLand
 p68
-aVScars of Mirrodin
+aVCommon
 p69
-aVScars of Mirrodin
+aVLand
 p70
-aVBorn of the Gods
+aVCommon
 p71
-aVBorn of the Gods
+aVRare
 p72
-aVBorn of the Gods
+aVLand
 p73
-aVMagic 2010
+aVLand
 p74
-aVMagic 2010
+aVLand
 p75
-aVMagic 2010
+aVLand
 p76
-aVMagic 2010
+aVUncommon
 p77
-aVMagic 2010
+aVLand
 p78
-aVMagic 2014 Core Set
+aVLand
 p79
-aVMagic 2014 Core Set
+aVUncommon
 p80
-aVMagic 2014 Core Set
+aVUncommon
 p81
-aVTempest
+aVLand
 p82
-aVTempest
+aVLand
 p83
-aVTempest
+aVRare
 p84
-aVTempest
+aVRare
 p85
-aVTempest
+aVRare
 p86
-aVTenth Edition
+aVRare
 p87
-aVTenth Edition
+aVUncommon
 p88
-aVTenth Edition
+aVLand
 p89
-aVTenth Edition
+aVLand
 p90
-aVTenth Edition
+aVLand
 p91
-aVTenth Edition
+aVLand
 p92
-aVTenth Edition
+aVRare
 p93
-aVMercadian Masques
+aVCommon
 p94
-aVMercadian Masques
+aVUncommon
 p95
-aVMercadian Masques
+aVLand
 p96
-aVMercadian Masques
+aVLand
 p97
-aVMercadian Masques
+aVLand
 p98
-aVMercadian Masques
+aVLand
 p99
-aVMercadian Masques
+aVUncommon
 p100
-aVMercadian Masques
+aVCommon
 p101
-aVMercadian Masques
+aVCommon
 p102
-aVVintage Masters
+aVLand
 p103
-aVVintage Masters
+aVLand
 p104
-aVThe Dark
+aVLand
 p105
-aVMirrodin Besieged
+aVUncommon
 p106
-aVMirrodin Besieged
+aVCommon
 p107
-aVStarter 2000
+aVRare
 p108
-aVStarter 2000
+aVLand
 p109
-aVApocalypse
+aVLand
 p110
-aVMasters Edition III
+aVLand
 p111
-aVMasters Edition III
+aVRare
 p112
-aVMasters Edition III
+aVCommon
 p113
-aVMasters Edition III
+aVUncommon
 p114
-aVMasters Edition III
+aVUncommon
 p115
-aVMasters Edition III
+aVCommon
 p116
-aVRevised Edition
+aVRare
 p117
-aVRevised Edition
+aVRare
 p118
-aVRevised Edition
+aVCommon
 p119
-aVRevised Edition
+aVLand
 p120
-aVRevised Edition
+aVLand
 p121
-aVRevised Edition
+aVLand
 p122
-aVMasters Edition II
+aVLand
 p123
-aVMasters Edition II
+aVCommon
 p124
-aVMasters Edition II
+aVRare
 p125
-aVMasters Edition II
+aVLand
 p126
-aVNinth Edition
+aVLand
 p127
-aVNinth Edition
+aVLand
 p128
-aVNinth Edition
+aVLand
 p129
-aVNinth Edition
+aVLand
 p130
-aVNinth Edition
+aVLand
 p131
-aVNinth Edition
+aVLand
 p132
-aVNinth Edition
+aVLand
 p133
-aVNinth Edition
+aVLand
 p134
-aVConflux
+aVCommon
 p135
-aVAvacyn Restored
+aVCommon
 p136
-aVAvacyn Restored
+aVLand
 p137
-aVAvacyn Restored
+aVLand
 p138
-aVPlanechase 2012 Edition
+aVLand
 p139
-aVPlanechase 2012 Edition
+aVLand
 p140
-aVPlanechase 2012 Edition
+aVMythic Rare
 p141
-aVPlanechase 2012 Edition
+aVRare
 p142
-aVPlanechase 2012 Edition
+aVLand
 p143
-aVPlanechase 2012 Edition
+aVLand
 p144
-aVOnslaught
+aVLand
 p145
-aVOnslaught
+aVLand
 p146
-aVOnslaught
+aVUncommon
 p147
-aVOnslaught
+aVUncommon
 p148
-aVOnslaught
+aVRare
 p149
-aVOnslaught
+aVLand
 p150
-aVFrom the Vault: Realms
+aVLand
 p151
-aVChampions of Kamigawa
+aVLand
 p152
-aVChampions of Kamigawa
+aVLand
 p153
-aVChampions of Kamigawa
+aVUncommon
 p154
-aVChampions of Kamigawa
+aVLand
 p155
-aVChampions of Kamigawa
+aVCommon
 p156
-aVBetrayers of Kamigawa
+aVRare
 p157
-aVUrza's Destiny
+aVLand
 p158
-aVRavnica: City of Guilds
+aVLand
 p159
-aVRavnica: City of Guilds
+aVLand
 p160
-aVRavnica: City of Guilds
+aVLand
 p161
-aVRavnica: City of Guilds
+aVCommon
 p162
-aVRavnica: City of Guilds
+aVUncommon
 p163
-aVCommander 2013 Edition
+aVCommon
 p164
-aVCommander 2013 Edition
+aVRare
 p165
-aVCommander 2013 Edition
+aVUncommon
 p166
-aVCommander 2013 Edition
+aVLand
 p167
-aVOdyssey
+aVLand
 p168
-aVOdyssey
+aVLand
 p169
-aVOdyssey
+aVLand
 p170
-aVOdyssey
+aVLand
 p171
-aVTime Spiral
+aVLand
 p172
-aVTime Spiral
+aVLand
 p173
-aVTime Spiral
+aVLand
 p174
-aVTime Spiral
+aVLand
 p175
-aVTime Spiral
+aVCommon
 p176
-aVTime Spiral
+aVUncommon
 p177
-aVTime Spiral
+aVRare
 p178
-aVTime Spiral
+aVCommon
 p179
-aVTime Spiral
+aVUncommon
 p180
-aVReturn to Ravnica
+aVCommon
 p181
-aVReturn to Ravnica
+aVRare
 p182
-aVReturn to Ravnica
+aVRare
 p183
-aVReturn to Ravnica
+aVLand
 p184
-aVReturn to Ravnica
+aVLand
 p185
-aVGatecrash
+aVLand
 p186
-aVGatecrash
+aVRare
 p187
-aVGatecrash
+aVCommon
 p188
-aVGatecrash
+aVUncommon
 p189
-aVExodus
+aVCommon
 p190
-aVUnlimited Edition
+aVRare
 p191
-aVUnlimited Edition
+aVUncommon
 p192
-aVUnlimited Edition
+aVRare
 p193
-aVUnlimited Edition
+aVLand
 p194
-aVUnlimited Edition
+aVLand
 p195
-aVUnlimited Edition
+aVLand
 p196
-aVUnlimited Edition
+aVCommon
 p197
-aVIce Age
+aVLand
 p198
-aVIce Age
+aVLand
 p199
-aVIce Age
+aVLand
 p200
-aVIce Age
+aVLand
 p201
-aVIce Age
+aVLand
 p202
-aVIce Age
+aVLand
 p203
-aVIce Age
+aVLand
 p204
-aVIce Age
+aVLand
 p205
-aVIce Age
+aVCommon
 p206
-aVIce Age
+aVRare
 p207
-aVZendikar
+aVCommon
 p208
-aVZendikar
+aVLand
 p209
-aVZendikar
+aVLand
 p210
-aVZendikar
+aVLand
 p211
-aVZendikar
+aVLand
 p212
-aVZendikar
+aVRare
 p213
-aVZendikar
+aVUncommon
 p214
-aVZendikar
+aVUncommon
 p215
-aVClassic Sixth Edition
+aVLand
 p216
-aVClassic Sixth Edition
+aVLand
 p217
-aVClassic Sixth Edition
+aVLand
 p218
-aVClassic Sixth Edition
+aVLand
 p219
-aVClassic Sixth Edition
+aVUncommon
 p220
-aVClassic Sixth Edition
+aVLand
 p221
-aVClassic Sixth Edition
+aVLand
 p222
-aVClassic Sixth Edition
+aVLand
 p223
-aVClassic Sixth Edition
+aVLand
 p224
-aVMirrodin
+aVCommon
 p225
-aVMirrodin
+aVUncommon
 p226
-aVMirrodin
+aVCommon
 p227
-aVMirrodin
+aVLand
 p228
-aVMirrodin
+aVLand
 p229
-aVDuel Decks: Elspeth vs. Tezzeret
+aVLand
 p230
-aVShards of Alara
+aVLand
 p231
-aVShards of Alara
+aVUncommon
 p232
-aVShards of Alara
+aVRare
 p233
-aVShards of Alara
+aVLand
 p234
-aVSeventh Edition
+aVCommon
 p235
-aVSeventh Edition
+aVCommon
 p236
-aVSeventh Edition
+aVUncommon
 p237
-aVSeventh Edition
+aVCommon
 p238
-aVSeventh Edition
+aVLand
 p239
-aVSeventh Edition
+aVUncommon
 p240
-aVSeventh Edition
+aVLand
 p241
-aVProphecy
+aVLand
 p242
-aVProphecy
+aVLand
 p243
-aVMagic 2015 Core Set
+aVUncommon
 p244
-aVMagic 2015 Core Set
+aVCommon
 p245
-aVMagic 2015 Core Set
+aVCommon
 p246
-aVUrza's Legacy
+aVUncommon
 p247
-aVUrza's Legacy
+aVLand
 p248
-aVRise of the Eldrazi
+aVLand
 p249
-aVRise of the Eldrazi
+aVLand
 p250
-aVRise of the Eldrazi
+aVLand
 p251
-aVRise of the Eldrazi
+aVLand
 p252
-aVRise of the Eldrazi
+aVCommon
 p253
-aVJudgment
+aVLand
 p254
-aVJudgment
+aVCommon
 p255
-aVShadowmoor
+aVLand
 p256
-aVShadowmoor
+aVLand
 p257
-aVShadowmoor
+aVLand
 p258
-aVShadowmoor
+aVLand
 p259
-aVShadowmoor
+aVUncommon
 p260
-aVShadowmoor
+aVRare
 p261
-aVNew Phyrexia
+aVRare
 p262
-aVNew Phyrexia
+aVRare
 p263
-aVNew Phyrexia
+aVCommon
 p264
-aVStarter 1999
+aVCommon
 p265
-aVStarter 1999
+aVRare
 p266
-aVStarter 1999
+aVUncommon
 p267
-aVStarter 1999
+aVLand
 p268
-aVStarter 1999
+aVLand
 p269
-aVFifth Dawn
+aVLand
 p270
-aVScourge
+aVLand
 p271
-aVScourge
+aVLand
 p272
-aVScourge
+aVLand
 p273
-aVFuture Sight
+aVLand
 p274
-aVFuture Sight
+aVLand
 p275
-aVFuture Sight
+aVRare
 p276
-aVPortal Second Age
+aVUncommon
 p277
-aVPortal Second Age
+aVCommon
 p278
-aVPortal Second Age
+aVLand
 p279
-aVPortal Second Age
+aVLand
 p280
-aVPlanechase
+aVLand
 p281
-aVPlanechase
+aVLand
 p282
-aVPlanechase
+aVRare
 p283
-aVPlanechase
+aVRare
 p284
-aVPlanechase
+aVLand
 p285
-aVPlanechase
+aVLand
 p286
-aVUrza's Saga
+aVLand
 p287
-aVUrza's Saga
+aVLand
 p288
-aVUrza's Saga
+aVUncommon
 p289
-aVUrza's Saga
+aVCommon
 p290
-aVUrza's Saga
+aVUncommon
 p291
-aVUrza's Saga
+aVUncommon
 p292
-aVMasters Edition
+aVLand
 p293
-aVMasters Edition
+aVLand
 p294
-aVMasters Edition
+aVLand
 p295
-aVMasters Edition
+aVLand
 p296
-aVMasters Edition
+aVCommon
 p297
-aVTheros
+aVCommon
 p298
-aVWeatherlight
+aVLand
 p299
-aVWeatherlight
+aVLand
 p300
-aVEighth Edition
+aVLand
 p301
-aVEighth Edition
+aVLand
 p302
-aVEighth Edition
+aVCommon
 p303
-aVEighth Edition
+aVCommon
 p304
-aVEighth Edition
+aVCommon
 p305
-aVEighth Edition
+aVCommon
 p306
-aVNemesis
+aVCommon
 p307
-aVChronicles
+aVUncommon
 p308
-aVInvasion
+aVRare
 p309
-aVInvasion
+aVCommon
 p310
-aVInvasion
+aVCommon
 p311
-aVInvasion
+aVRare
 p312
-aVJourney into Nyx
+aVCommon
 p313
-aVJourney into Nyx
+aVLand
 p314
-aVJourney into Nyx
+aVLand
 p315
-aVJourney into Nyx
+aVLand
 p316
-aVJourney into Nyx
+aVLand
 p317
-aVJourney into Nyx
+aVUncommon
 p318
-aVFifth Edition
+aVCommon
 p319
-aVFifth Edition
+aVLand
 p320
-aVFifth Edition
+aVLand
 p321
-aVFifth Edition
+aVLand
 p322
-aVFifth Edition
+aVRare
 p323
-aVFifth Edition
+aVCommon
 p324
-aVFifth Edition
+aVLand
 p325
-aVFifth Edition
+aVLand
 p326
-aVFifth Edition
+aVRare
 p327
-aVFifth Edition
+aVCommon
 p328
-aVArchenemy
+aVUncommon
 p329
-aVArchenemy
+aVRare
 p330
-aVArchenemy
+aVLand
 p331
-aVArchenemy
+aVLand
 p332
-aVArchenemy
+aVLand
 p333
-aVKhans of Tarkir
+aVLand
 p334
-aVKhans of Tarkir
+aVCommon
 p335
-aVDuel Decks: Jace vs. Vraska
+aVLand
 p336
-aVMirage
+aVCommon
 p337
-aVMirage
+aVLand
 p338
-aVMirage
+aVLand
 p339
-aVMirage
+aVRare
 p340
-aVMirage
+aVRare
 p341
-aVMirage
+aVCommon
 p342
-aVMirage
+aVRare
 p343
-aVMirage
+aVLand
 p344
-aVInnistrad
+aVLand
 p345
-aVInnistrad
+aVRare
 p346
-aVInnistrad
+aVUncommon
 p347
-aVInnistrad
+aVCommon
 p348
-aVInnistrad
+aVCommon
 p349
-aVLimited Edition Alpha
+aVRare
 p350
-aVLimited Edition Alpha
+aVLand
 p351
-aVLimited Edition Alpha
+aVLand
 p352
-aVLimited Edition Alpha
+aVLand
 p353
-aVLimited Edition Alpha
+aVCommon
 p354
-aVLimited Edition Alpha
+aVRare
 p355
-aVVisions
+aVRare
 p356
-aVVisions
+aVCommon
 p357
-aVBeatdown Box Set
+aVCommon
 p358
-aVBeatdown Box Set
+aVRare
 p359
-aVBeatdown Box Set
+aVCommon
 p360
-aVBeatdown Box Set
+aVUncommon
 p361
-aVBeatdown Box Set
+aVCommon
 p362
-aVBeatdown Box Set
+aVLand
 p363
-aVMasters Edition IV
+aVCommon
 p364
-aVMasters Edition IV
+aVLand
 p365
-aVMasters Edition IV
+aVLand
 p366
-aVMasters Edition IV
+aVLand
 p367
-aVStronghold
+aVCommon
 p368
-aVLegends
+aVRare
 p369
-aVLegends
+aVUncommon
 p370
-aVLegends
+aVLand
 p371
-aVDuel Decks: Izzet vs. Golgari
+aVLand
 p372
-aVDuel Decks: Izzet vs. Golgari
+aVLand
 p373
-aVDuel Decks: Izzet vs. Golgari
+aVLand
 p374
-aVDuel Decks: Izzet vs. Golgari
+aVLand
 p375
-aVDuel Decks: Izzet vs. Golgari
+aVCommon
 p376
-aVDuel Decks: Izzet vs. Golgari
+aVCommon
 p377
-aVLorwyn
+aVLand
 p378
-aVLorwyn
+aVLand
 p379
-aVLorwyn
+aVLand
 p380
-aVLorwyn
+aVLand
 p381
-aVLorwyn
+aVCommon
 p382
-aVLorwyn
+aVCommon
 p383
-aVLorwyn
+aVRare
 p384
-aVPremium Deck Series: Slivers
+aVCommon
 p385
-aVMagic 2011
+aVCommon
 p386
-aVMagic 2011
+aVLand
 p387
-aVMagic 2011
+aVLand
 p388
-aVMagic 2011
+aVLand
 p389
-aVMagic 2011
+aVLand
 p390
-aVMagic 2011
+aVRare
 p391
-aVHomelands
+aVCommon
 p392
-aVHomelands
+aVLand
 p393
-aVHomelands
+aVLand
 p394
-aVPortal Three Kingdoms
+aVLand
 p395
-aVPortal Three Kingdoms
+aVLand
 p396
-aVPortal Three Kingdoms
+aVRare
 p397
-aVPortal Three Kingdoms
+aVCommon
 p398
-aVPortal Three Kingdoms
+asS'editns'
 p399
-aVDuel Decks: Heroes vs. Monsters
-p400
-aVPortal
+(lp400
+VAnthologies
 p401
-aVPortal
+aVAnthologies
 p402
-aVPortal
+aVMagic: The Gathering-Commander
 p403
-aVPortal
+aVMagic: The Gathering-Commander
 p404
-aVPortal
+aVMagic: The Gathering-Commander
 p405
-aVPortal
+aVMagic: The Gathering-Commander
 p406
-aVPlaneshift
+aVMagic: The Gathering-Commander
 p407
-aVDark Ascension
+aVMagic: The Gathering-Commander
 p408
-asS'ids'
+aVMagic: The Gathering-Commander
 p409
-(lp410
-I397582
-aV-2146729899
+aVMagic 2012
+p410
+aVMagic 2012
 p411
-aV247528
+aVMagic 2012
 p412
-aV247300
+aVMagic 2012
 p413
-aV249803
+aVMagic 2012
 p414
-aV249801
+aVLimited Edition Beta
 p415
-aV249800
+aVLimited Edition Beta
 p416
-aV249802
+aVLimited Edition Beta
 p417
-aV247346
+aVLimited Edition Beta
 p418
-aV244320
+aVLimited Edition Beta
 p419
-aV244321
+aVLimited Edition Beta
 p420
-aV244322
+aVLimited Edition Beta
 p421
-aV226900
+aVSaviors of Kamigawa
 p422
-aV244319
+aVBattle Royale Box Set
 p423
-aV444
+aVBattle Royale Box Set
 p424
-aV445
+aVBattle Royale Box Set
 p425
-aV309
+aVBattle Royale Box Set
 p426
-aV588
+aVBattle Royale Box Set
 p427
-aV587
+aVBattle Royale Box Set
 p428
-aV586
+aVBattle Royale Box Set
 p429
-aV495
+aVBattle Royale Box Set
 p430
-aV74400
+aVBattle Royale Box Set
 p431
-aV22355
+aVMorningtide
 p432
-aV22354
+aVMagic 2013
 p433
-aV22353
+aVMagic 2013
 p434
-aV22352
+aVMagic 2013
 p435
-aV22351
+aVMagic 2013
 p436
-aV22349
+aVMagic 2013
 p437
-aV22348
+aVMagic 2013
 p438
-aV22347
+aVFourth Edition
 p439
-aV21119
+aVFourth Edition
 p440
-aV157431
+aVFourth Edition
 p441
-aV270314
+aVFourth Edition
 p442
-aV253673
+aVFourth Edition
 p443
-aV249719
+aVFourth Edition
 p444
-aV249718
+aVDuel Decks: Ajani vs. Nicol Bolas
 p445
-aV249720
+aVDuel Decks: Ajani vs. Nicol Bolas
 p446
-aV249721
+aVAlliances
 p447
-aV2341
+aVAlliances
 p448
-aV2211
+aVAlliances
 p449
-aV2212
+aVFrom the Vault: Dragons
 p450
-aV2379
+aVDuel Decks: Knights vs. Dragons
 p451
-aV2378
+aVDuel Decks: Knights vs. Dragons
 p452
-aV2377
+aVDuel Decks: Knights vs. Dragons
 p453
-aV262651
+aVDuel Decks: Knights vs. Dragons
 p454
-aV259285
+aVScars of Mirrodin
 p455
-aV3107
+aVScars of Mirrodin
 p456
-aV3109
+aVScars of Mirrodin
 p457
-aV3108
+aVScars of Mirrodin
 p458
-aV178016
+aVBorn of the Gods
 p459
-aV243460
+aVBorn of the Gods
 p460
-aV243461
+aVBorn of the Gods
 p461
-aV243462
+aVMagic 2010
 p462
-aV243463
+aVMagic 2010
 p463
-aV214673
+aVMagic 2010
 p464
-aV214665
+aVMagic 2010
 p465
-aV214680
+aVMagic 2010
 p466
-aV214670
+aVMagic 2014 Core Set
 p467
-aV378470
+aVMagic 2014 Core Set
 p468
-aV378443
+aVMagic 2014 Core Set
 p469
-aV378444
+aVTempest
 p470
-aV189919
+aVTempest
 p471
-aV191407
+aVTempest
 p472
-aV191405
+aVTempest
 p473
-aV191406
+aVTempest
 p474
-aV191409
+aVTenth Edition
 p475
-aV370633
+aVTenth Edition
 p476
-aV370729
+aVTenth Edition
 p477
-aV370712
+aVTenth Edition
 p478
-aV4609
+aVTenth Edition
 p479
-aV4929
+aVTenth Edition
 p480
-aV4928
+aVTenth Edition
 p481
-aV4927
+aVMercadian Masques
 p482
-aV4926
+aVMercadian Masques
 p483
-aV106428
+aVMercadian Masques
 p484
-aV129559
+aVMercadian Masques
 p485
-aV129562
+aVMercadian Masques
 p486
-aV132073
+aVMercadian Masques
 p487
-aV135273
+aVMercadian Masques
 p488
-aV129560
+aVMercadian Masques
 p489
-aV129561
+aVMercadian Masques
 p490
-aV19737
+aVVintage Masters
 p491
-aV19740
+aVVintage Masters
 p492
-aV19784
+aVThe Dark
 p493
-aV19826
+aVMirrodin Besieged
 p494
-aV19893
+aVMirrodin Besieged
 p495
-aV20896
+aVStarter 2000
 p496
-aV20897
+aVStarter 2000
 p497
-aV20898
+aVApocalypse
 p498
-aV20899
+aVMasters Edition III
 p499
-aV382943
+aVMasters Edition III
 p500
-aV382944
+aVMasters Edition III
 p501
-aV1715
+aVMasters Edition III
 p502
-aV214031
+aVMasters Edition III
 p503
-aV214075
+aVMasters Edition III
 p504
-aV25483
+aVRevised Edition
 p505
-aV25482
+aVRevised Edition
 p506
-aV28805
+aVRevised Edition
 p507
-aV201160
+aVRevised Edition
 p508
-aV201278
+aVRevised Edition
 p509
-aV206069
+aVRevised Edition
 p510
-aV206070
+aVMasters Edition II
 p511
-aV206071
+aVMasters Edition II
 p512
-aV201292
+aVMasters Edition II
 p513
-aV1244
+aVMasters Edition II
 p514
-aV1245
+aVNinth Edition
 p515
-aV1388
+aVNinth Edition
 p516
-aV1387
+aVNinth Edition
 p517
-aV1386
+aVNinth Edition
 p518
-aV1294
+aVNinth Edition
 p519
-aV184623
+aVNinth Edition
 p520
-aV184573
+aVNinth Edition
 p521
-aV184624
+aVNinth Edition
 p522
-aV184625
+aVConflux
 p523
-aV83977
+aVAvacyn Restored
 p524
-aV84068
+aVAvacyn Restored
 p525
-aV84608
+aVAvacyn Restored
 p526
-aV83092
+aVPlanechase 2012 Edition
 p527
-aV83093
+aVPlanechase 2012 Edition
 p528
-aV83094
+aVPlanechase 2012 Edition
 p529
-aV83095
+aVPlanechase 2012 Edition
 p530
-aV84682
+aVPlanechase 2012 Edition
 p531
-aV189147
+aVPlanechase 2012 Edition
 p532
-aV269629
+aVOnslaught
 p533
-aV269636
+aVOnslaught
 p534
-aV269635
+aVOnslaught
 p535
-aV276456
+aVOnslaught
 p536
-aV276467
+aVOnslaught
 p537
-aV276468
+aVOnslaught
 p538
-aV276460
+aVFrom the Vault: Realms
 p539
-aV276464
+aVChampions of Kamigawa
 p540
-aV276454
+aVChampions of Kamigawa
 p541
-aV34410
+aVChampions of Kamigawa
 p542
-aV41140
+aVChampions of Kamigawa
 p543
-aV40116
+aVChampions of Kamigawa
 p544
-aV40115
+aVBetrayers of Kamigawa
 p545
-aV40106
+aVUrza's Destiny
 p546
-aV40105
+aVRavnica: City of Guilds
 p547
-aV282541
+aVRavnica: City of Guilds
 p548
-aV79252
+aVRavnica: City of Guilds
 p549
-aV79062
+aVRavnica: City of Guilds
 p550
-aV79068
+aVRavnica: City of Guilds
 p551
-aV79079
+aVCommander 2013 Edition
 p552
-aV79078
+aVCommander 2013 Edition
 p553
-aV74410
+aVCommander 2013 Edition
 p554
-aV15250
+aVCommander 2013 Edition
 p555
-aV83699
+aVOdyssey
 p556
-aV95097
+aVOdyssey
 p557
-aV95099
+aVOdyssey
 p558
-aV95098
+aVOdyssey
 p559
-aV95106
+aVTime Spiral
 p560
-aV376339
+aVTime Spiral
 p561
-aV376342
+aVTime Spiral
 p562
-aV376344
+aVTime Spiral
 p563
-aV376345
+aVTime Spiral
 p564
-aV31625
+aVTime Spiral
 p565
-aV31626
+aVTime Spiral
 p566
-aV31627
+aVTime Spiral
 p567
-aV31628
+aVTime Spiral
 p568
-aV106652
+aVReturn to Ravnica
 p569
-aV108904
+aVReturn to Ravnica
 p570
-aV116732
+aVReturn to Ravnica
 p571
-aV126289
+aVReturn to Ravnica
 p572
-aV126294
+aVReturn to Ravnica
 p573
-aV122088
+aVGatecrash
 p574
-aV122083
+aVGatecrash
 p575
-aV118927
+aVGatecrash
 p576
-aV118906
+aVGatecrash
 p577
-aV289326
+aVExodus
 p578
-aV289327
+aVUnlimited Edition
 p579
-aV289325
+aVUnlimited Edition
 p580
-aV289328
+aVUnlimited Edition
 p581
-aV333718
+aVUnlimited Edition
 p582
-aV366336
+aVUnlimited Edition
 p583
-aV366280
+aVUnlimited Edition
 p584
-aV366431
+aVUnlimited Edition
 p585
-aV366472
+aVIce Age
 p586
-aV5157
+aVIce Age
 p587
-aV746
+aVIce Age
 p588
-aV747
+aVIce Age
 p589
-aV611
+aVIce Age
 p590
-aV890
+aVIce Age
 p591
-aV889
+aVIce Age
 p592
-aV888
+aVIce Age
 p593
-aV797
+aVIce Age
 p594
-aV2450
+aVIce Age
 p595
-aV2506
+aVZendikar
 p596
-aV2559
+aVZendikar
 p597
-aV2560
+aVZendikar
 p598
-aV2561
+aVZendikar
 p599
-aV2685
+aVZendikar
 p600
-aV2748
+aVZendikar
 p601
-aV2747
+aVZendikar
 p602
-aV2746
+aVZendikar
 p603
-aV2562
+aVClassic Sixth Edition
 p604
-aV201962
+aVClassic Sixth Edition
 p605
-aV201959
+aVClassic Sixth Edition
 p606
-aV195158
+aVClassic Sixth Edition
 p607
-aV195192
+aVClassic Sixth Edition
 p608
-aV201960
+aVClassic Sixth Edition
 p609
-aV195177
+aVClassic Sixth Edition
 p610
-aV201961
+aVClassic Sixth Edition
 p611
-aV195183
+aVClassic Sixth Edition
 p612
-aV14682
+aVMirrodin
 p613
-aV15388
+aVMirrodin
 p614
-aV16433
+aVMirrodin
 p615
-aV14749
+aVMirrodin
 p616
-aV14750
+aVMirrodin
 p617
-aV14751
+aVDuel Decks: Elspeth vs. Tezzeret
 p618
-aV14752
+aVShards of Alara
 p619
-aV14547
+aVShards of Alara
 p620
-aV14765
+aVShards of Alara
 p621
-aV46577
+aVShards of Alara
 p622
-aV48422
+aVSeventh Edition
 p623
-aV48421
+aVSeventh Edition
 p624
-aV48423
+aVSeventh Edition
 p625
-aV48424
+aVSeventh Edition
 p626
-aV222766
+aVSeventh Edition
 p627
-aV174927
+aVSeventh Edition
 p628
-aV174929
+aVSeventh Edition
 p629
-aV174928
+aVProphecy
 p630
-aV174930
+aVProphecy
 p631
-aV11285
+aVMagic 2015 Core Set
 p632
-aV25638
+aVMagic 2015 Core Set
 p633
-aV11283
+aVMagic 2015 Core Set
 p634
-aV11286
+aVUrza's Legacy
 p635
-aV11287
+aVUrza's Legacy
 p636
-aV11288
+aVRise of the Eldrazi
 p637
-aV11289
+aVRise of the Eldrazi
 p638
-aV24587
+aVRise of the Eldrazi
 p639
-aV24676
+aVRise of the Eldrazi
 p640
-aV383242
+aVRise of the Eldrazi
 p641
-aV383245
+aVJudgment
 p642
-aV383246
+aVJudgment
 p643
-aV12494
+aVShadowmoor
 p644
-aV9699
+aVShadowmoor
 p645
-aV205933
+aVShadowmoor
 p646
-aV193512
+aVShadowmoor
 p647
-aV205935
+aVShadowmoor
 p648
-aV205927
+aVShadowmoor
 p649
-aV205949
+aVNew Phyrexia
 p650
-aV34244
+aVNew Phyrexia
 p651
-aV35071
+aVNew Phyrexia
 p652
-aV141998
+aVStarter 1999
 p653
-aV146736
+aVStarter 1999
 p654
-aV157877
+aVStarter 1999
 p655
-aV157870
+aVStarter 1999
 p656
-aV158242
+aVStarter 1999
 p657
-aV158241
+aVFifth Dawn
 p658
-aV230071
+aVScourge
 p659
-aV230083
+aVScourge
 p660
-aV230081
+aVScourge
 p661
-aV20398
+aVFuture Sight
 p662
-aV21807
+aVFuture Sight
 p663
-aV21808
+aVFuture Sight
 p664
-aV21805
+aVPortal Second Age
 p665
-aV21806
+aVPortal Second Age
 p666
-aV51631
+aVPortal Second Age
 p667
-aV44219
+aVPortal Second Age
 p668
-aV45138
+aVPlanechase
 p669
-aV43566
+aVPlanechase
 p670
-aV126149
+aVPlanechase
 p671
-aV130669
+aVPlanechase
 p672
-aV130713
+aVPlanechase
 p673
-aV6568
+aVPlanechase
 p674
-aV8410
+aVUrza's Saga
 p675
-aV8409
+aVUrza's Saga
 p676
-aV8408
+aVUrza's Saga
 p677
-aV205464
+aVUrza's Saga
 p678
-aV205466
+aVUrza's Saga
 p679
-aV205467
+aVUrza's Saga
 p680
-aV205465
+aVMasters Edition
 p681
-aV205279
+aVMasters Edition
 p682
-aV205273
+aVMasters Edition
 p683
-aV5753
+aVMasters Edition
 p684
-aV9850
+aVMasters Edition
 p685
-aV8338
+aVTheros
 p686
-aV8339
+aVWeatherlight
 p687
-aV8340
+aVWeatherlight
 p688
-aV8341
+aVEighth Edition
 p689
-aV159092
+aVEighth Edition
 p690
-aV159755
+aVEighth Edition
 p691
-aV159278
+aVEighth Edition
 p692
-aV159279
+aVEighth Edition
 p693
-aV159280
+aVEighth Edition
 p694
-aV373625
+aVNemesis
 p695
-aV4576
+aVChronicles
 p696
-aV4486
+aVInvasion
 p697
-aV45424
+aVInvasion
 p698
-aV45467
+aVInvasion
 p699
-aV46453
+aVInvasion
 p700
-aV46454
+aVJourney into Nyx
 p701
-aV46455
+aVJourney into Nyx
 p702
-aV46456
+aVJourney into Nyx
 p703
-aV21368
+aVJourney into Nyx
 p704
-aV2782
+aVJourney into Nyx
 p705
-aV25967
+aVJourney into Nyx
 p706
-aV26310
+aVFifth Edition
 p707
-aV26311
+aVFifth Edition
 p708
-aV26312
+aVFifth Edition
 p709
-aV380417
+aVFifth Edition
 p710
-aV380418
+aVFifth Edition
 p711
-aV380419
+aVFifth Edition
 p712
-aV380420
+aVFifth Edition
 p713
-aV380421
+aVFifth Edition
 p714
-aV380422
+aVFifth Edition
 p715
-aV3910
+aVFifth Edition
 p716
-aV3978
+aVArchenemy
 p717
-aV3976
+aVArchenemy
 p718
-aV3977
+aVArchenemy
 p719
-aV3909
+aVArchenemy
 p720
-aV4174
+aVArchenemy
 p721
-aV4173
+aVKhans of Tarkir
 p722
-aV4172
+aVKhans of Tarkir
 p723
-aV4171
+aVDuel Decks: Jace vs. Vraska
 p724
-aV3784
+aVMirage
 p725
-aV220479
+aVMirage
 p726
-aV221297
+aVMirage
 p727
-aV221296
+aVMirage
 p728
-aV221295
+aVMirage
 p729
-aV220583
+aVMirage
 p730
-aV386539
+aVMirage
 p731
-aV386540
+aVMirage
 p732
-aV380209
+aVInnistrad
 p733
-aV3294
+aVInnistrad
 p734
-aV3385
+aVInnistrad
 p735
-aV3386
+aVInnistrad
 p736
-aV3293
+aVInnistrad
 p737
-aV3569
+aVLimited Edition Alpha
 p738
-aV3568
+aVLimited Edition Alpha
 p739
-aV3567
+aVLimited Edition Alpha
 p740
-aV3566
+aVLimited Edition Alpha
 p741
-aV226758
+aVLimited Edition Alpha
 p742
-aV245247
+aVLimited Edition Alpha
 p743
-aV234429
+aVVisions
 p744
-aV245248
+aVVisions
 p745
-aV245246
+aVBeatdown Box Set
 p746
-aV14
+aVBeatdown Box Set
 p747
-aV200
+aVBeatdown Box Set
 p748
-aV149
+aVBeatdown Box Set
 p749
-aV150
+aVBeatdown Box Set
 p750
-aV289
+aVBeatdown Box Set
 p751
-aV288
+aVMasters Edition IV
 p752
-aV3617
+aVMasters Edition IV
 p753
-aV3640
+aVMasters Edition IV
 p754
-aV26648
+aVMasters Edition IV
 p755
-aV26657
+aVStronghold
 p756
-aV26609
+aVLegends
 p757
-aV27244
+aVLegends
 p758
-aV27243
+aVLegends
 p759
-aV27242
+aVDuel Decks: Izzet vs. Golgari
 p760
-aV202617
+aVDuel Decks: Izzet vs. Golgari
 p761
-aV233304
+aVDuel Decks: Izzet vs. Golgari
 p762
-aV202493
+aVDuel Decks: Izzet vs. Golgari
 p763
-aV221495
+aVDuel Decks: Izzet vs. Golgari
 p764
-aV5158
+aVDuel Decks: Izzet vs. Golgari
 p765
-aV1404
+aVLorwyn
 p766
-aV1484
+aVLorwyn
 p767
-aV1612
+aVLorwyn
 p768
-aV292750
+aVLorwyn
 p769
-aV292945
+aVLorwyn
 p770
-aV292761
+aVLorwyn
 p771
-aV292943
+aVLorwyn
 p772
-aV292944
+aVPremium Deck Series: Slivers
 p773
-aV292946
+aVMagic 2011
 p774
-aV139440
+aVMagic 2011
 p775
-aV146166
+aVMagic 2011
 p776
-aV146447
+aVMagic 2011
 p777
-aV143618
+aVMagic 2011
 p778
-aV143625
+aVMagic 2011
 p779
-aV143617
+aVHomelands
 p780
-aV143633
+aVHomelands
 p781
-aV207934
+aVHomelands
 p782
-aV205064
+aVPortal Three Kingdoms
 p783
-aV205068
+aVPortal Three Kingdoms
 p784
-aV213629
+aVPortal Three Kingdoms
 p785
-aV213628
+aVPortal Three Kingdoms
 p786
-aV213630
+aVPortal Three Kingdoms
 p787
-aV213631
+aVDuel Decks: Heroes vs. Monsters
 p788
-aV2967
+aVPortal
 p789
-aV2968
+aVPortal
 p790
-aV2941
+aVPortal
 p791
-aV10505
+aVPortal
 p792
-aV10622
+aVPortal
 p793
-aV10532
+aVPortal
 p794
-aV10639
+aVPlaneshift
 p795
-aV10640
+aVDark Ascension
 p796
-aV373375
+asS'ids'
 p797
-aV4341
-p798
-aV4384
+(lp798
+I46453
+aV-2146729899
 p799
-aV4416
+aV247528
 p800
-aV4415
+aV247300
 p801
-aV4414
+aV249803
 p802
-aV4413
+aV249801
 p803
-aV25893
+aV249800
 p804
-aV221174
+aV249802
 p805
-asS'texts'
+aV247346
 p806
-(lp807
-V({T}: Add {W} to your mana pool.)
+aV244320
+p807
+aV244321
 p808
-aV({T}: Add {W} to your mana pool.)
+aV244322
 p809
-aVDefender, flying<br>Prevent all combat damage that would be dealt to and dealt by Fog Bank.
+aV226900
 p810
-aVPut any number of target creature cards from your graveyard on top of your library.<br>Draw a card.
+aV244319
 p811
-aVG
+aV444
 p812
-ag812
-ag812
-ag812
-aVForgotten Cave enters the battlefield tapped.<br>{T}: Add {R} to your mana pool.<br>Cycling {R} <i>({R}, Discard this card: Draw a card.)</i>
+aV445
 p813
-ag812
-ag812
-ag812
-aVTrample <i>(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</i>
+aV309
 p814
-aS''
+aV588
 p815
-aV{B}: Frozen Shade gets +1/+1 until end of turn.
+aV587
 p816
-aVWhenever Fungusaur is dealt damage, put a +1/+1 counter on it.
+aV586
 p817
-aVAs long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls.<br>{T}: Target land becomes a Forest until Gaea's Liege leaves the battlefield.
+aV495
 p818
-aVRed creatures get +1/+1.<br>Whenever a Mountain is tapped for mana, its controller adds {R} to his or her mana pool <i>(in addition to the mana the land produces)</i>.
+aV74400
 p819
-aVTarget creature gets +3/+3 until end of turn.
+aV22355
 p820
-aVReach <i>(This creature can block creatures with flying.)</i>
+aV22354
 p821
-aV{T}: Look at target player's hand.
+aV22353
 p822
-aVReturn target creature card from your graveyard to the battlefield. Sacrifice that creature at the beginning of the next end step.
+aV22352
 p823
-ag812
-ag812
-ag812
-ag812
-ag812
-ag812
-ag812
-ag812
-aVTarget creature gets +3/+3 until end of turn.
+aV22351
 p824
-aVWhenever a creature you control attacks, it gets +1/+0 until end of turn for each other attacking creature that shares a creature type with it.
+aV22349
 p825
-aVTarget creature gets -5/-0 until end of turn.
+aV22348
 p826
-aVTarget creature you control fights target creature you don't control. <i>(Each deals damage equal to its power to the other.)</i>
+aV22347
 p827
-aVW
+aV21119
 p828
-ag828
-aVB
+aV157431
 p829
-ag829
-aVEnchant creature<br>Enchanted creature gets +0/+2.<br>{W}: Enchanted creature gets +0/+1 until end of turn.
+aV270314
 p830
-ag812
-aV{B}: Frozen Shade gets +1/+1 until end of turn.
+aV253673
 p831
-aVWhenever Fungusaur is dealt damage, put a +1/+1 counter on it.
+aV249719
 p832
-aVAs long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls.<br>{T}: Target land becomes a Forest until Gaea's Liege leaves the battlefield.
+aV249718
 p833
-aVEnchant creature<br>Prevent all combat damage that would be dealt to and dealt by enchanted creature.
+aV249720
 p834
-ag812
-ag812
-aVYou may pay 1 life and exile a blue card from your hand rather than pay Force of Will's mana cost.<br>Counter target spell.
+aV249721
 p835
-aVSearch your library for three cards, exile them, then shuffle your library.<br>Draw a card at the beginning of the next turn's upkeep.
+aV2341
 p836
-aVEnchant creature<br>Whenever enchanted creature blocks or becomes blocked, it gets +0/+3 until end of turn and you gain 1 life.
+aV2211
 p837
-aVAt the beginning of your upkeep, Form of the Dragon deals 5 damage to target creature or player.<br>At the beginning of each end step, your life total becomes 5.<br>Creatures without flying can't attack you.
+aV2212
 p838
-ag812
-ag812
-ag812
-ag812
-aVChoose two target creatures. Tap those creatures, then unattach all Equipment from them.
+aV2379
 p839
-aVR
+aV2378
 p840
-ag840
-ag828
-aVIntimidate<br>Inspired- Whenever Forlorn Pseudamma becomes untapped, you may pay {2}{B}. If you do, put a 2/2 black Zombie enchantment creature token onto the battlefield.
+aV2377
 p841
-aVWhen Forsaken Drifters dies, put the top four cards of your library into your graveyard.
+aV262651
 p842
-aVBestow {5}{W} <i>(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)</i><br>Double strike <i>(This creature deals both first-strike and regular combat damage.)</i><br>Enchanted creature gets +1/+1 and has double strike.
+aV259285
 p843
-aVGlacial Fortress enters the battlefield tapped unless you control a Plains or an Island.<br>{T}: Add {W} or {U} to your mana pool.
+aV3107
 p844
-aVCreatures you control get +1/+1 until end of turn.
+aV3109
 p845
-ag829
-ag829
-ag815
-aVTap up to two target creatures. Those creatures don't untap during their controller's next untap step.
+aV3108
 p846
-aVSliver creatures you control have flying.
+aV178016
 p847
-aV+1: Reveal the top five cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.<br>-3: You may put a green creature card from your hand onto the battlefield.<br>-7: You get an emblem with "Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle your library."
+aV243460
 p848
-aV{2}, {T}: Draw a card. Activate this ability only if you have no cards in hand.
+aV243461
 p849
-ag812
-ag812
-ag812
-aVIf a source would deal damage to a creature or player, it deals double that damage to that creature or player instead.
+aV243462
 p850
-aVForbidding Watchtower enters the battlefield tapped.<br>{T}: Add {W} to your mana pool.<br>{1}{W}: Forbidding Watchtower becomes a 1/5 white Soldier creature until end of turn. It's still a land.
+aV243463
 p851
-ag812
-aVWhen Highway Robber enters the battlefield, target opponent loses 2 life and you gain 2 life.
+aV214673
 p852
-aVVigilance <i>(Attacking doesn't cause this creature to tap.)</i>
+aV214665
 p853
-aV{1}{B}, Sacrifice Thrull Surgeon: Look at target player's hand and choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.
+aV214680
 p854
-ag829
-ag829
-aVWhenever a creature you control dies, you may pay {1}. If you do, reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest into your graveyard.
+aV214670
 p855
-aVAt the beginning of your upkeep, each player reveals the top card of his or her library. If all cards revealed this way are creature cards, put those cards onto the battlefield under their owners' control.
+aV378470
 p856
-aVEnchant creature<br>Enchanted creature can't attack or block, and its activated abilities can't be activated.
+aV378443
 p857
-aVYou may exile a black card from your hand rather than pay Unmask's mana cost.<br>Target player reveals his or her hand. You choose a nonland card from it. That player discards that card.
+aV378444
 p858
-aVRushwood Grove enters the battlefield tapped.<br>{T}: Put a storage counter on Rushwood Grove.<br>{T}, Remove any number of storage counters from Rushwood Grove: Add {G} to your mana pool for each storage counter removed this way.
+aV189919
 p859
-ag812
-ag812
-aV{1}{G}: Return target basic land card from your graveyard to your hand.
+aV191407
 p860
-aVWhen Highway Robber enters the battlefield, target opponent loses 2 life and you gain 2 life.
+aV191405
 p861
-aVDraw two cards, then discard two cards. Untap up to three lands.
+aV191406
 p862
-aVPlay with the top card of your library revealed.<br>You may play the top card of your library.
+aV191409
 p863
-aVFlying<br>{U}{U}{U}: Regenerate Ghost Ship.
+aV370633
 p864
-aVU
+aV370729
 p865
-ag815
-aVTarget creature gets +3/+3 until end of turn.
+aV370712
 p866
-aVDestroy target nonblack creature.
+aV4609
 p867
-aVEnchant creature<br>Enchanted creature gets -1/-1 and has "{T}: Target creature gets -1/-1 until end of turn."
+aV4929
 p868
-ag812
-ag812
-ag812
-aVForked Lightning deals 4 damage divided as you choose among one, two, or three target creatures.
+aV4928
 p869
-aVWhenever a permanent becomes tapped, put a wind counter on it. <br>If a permanent with a wind counter on it would untap during its controller's untap step, remove all wind counters from it instead.
+aV4927
 p870
-aVRampage 2 <i>(Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)</i>
+aV4926
 p871
-aVAs long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls.<br>{T}: Target land becomes a Forest until Gaea's Liege leaves the battlefield.
+aV106428
 p872
-aVTarget creature gets +3/+3 until end of turn.
+aV129559
 p873
-aVReach <i>(This creature can block creatures with flying.)</i>
+aV129562
 p874
-aV{T}: Look at target player's hand.
+aV132073
 p875
-aVWhite spells cost {3} more to cast.<br>Activated abilities of white enchantments cost {3} more to activate.
+aV135273
 p876
-aV{R}: Goblin Balloon Brigade gains flying until end of turn.
+aV129560
 p877
-aVTarget opponent chooses a card in your graveyard. You may pay {G}. If you do, repeat this process except that opponent can't choose a card already chosen for Forgotten Lore. Then put the last chosen card into your hand.
+aV129561
 p878
-aVFoul Familiar can't block.<br>{B}, Pay 1 life: Return Foul Familiar to its owner's hand.
+aV19737
 p879
-aVAs an additional cost to cast Fumarole, pay 3 life.<br>Destroy target creature and target land.
+aV19740
 p880
-aVEnchant creature<br>When enchanted creature leaves the battlefield, its controller sacrifices a creature.
+aV19784
 p881
-aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i><br>{1}{U}: Target player reveals the top card of his or her library.
+aV19826
 p882
-aVWhen Phyrexian Gargantua enters the battlefield, you draw two cards and you lose 2 life.
+aV19893
 p883
-aVYou may play up to three additional lands this turn.
+aV20896
 p884
-aVWhen Highway Robber enters the battlefield, target opponent loses 2 life and you gain 2 life.
+aV20897
 p885
-aVPrevent all combat damage that would be dealt this turn.
+aV20898
 p886
-aV{W}: Honor Guard gets +0/+1 until end of turn.
+aV20899
 p887
-aVAt the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card.
+aV382943
 p888
-aVWhen Hunted Wumpus enters the battlefield, each other player may put a creature card from his or her hand onto the battlefield.
+aV382944
 p889
-aVExalted <i>(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</i><br>{U}, {T}: Draw a card, then discard a card.
+aV1715
 p890
-ag865
-ag840
-ag840
-ag812
-ag812
-ag812
-ag812
-ag812
-ag865
-aVProtection from Goblins<br>Morph {W} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
+aV214031
 p891
-aVForgotten Cave enters the battlefield tapped.<br>{T}: Add {R} to your mana pool.<br>Cycling {R} <i>({R}, Discard this card: Draw a card.)</i>
+aV214075
 p892
-ag812
-ag812
-ag812
-aVFear <i>(This creature can't be blocked except by artifact creatures and/or black creatures.)</i>
+aV25483
 p893
-aV{T}: Add one mana of any color to your mana pool.<br>Whenever you tap Forbidden Orchard for mana, put a 1/1 colorless Spirit creature token onto the battlefield under target opponent's control.
+aV25482
 p894
-aV{B}, Sacrifice a creature: Target player discards a card. Activate this ability only any time you could cast a sorcery.
+aV28805
 p895
-ag812
-ag865
-ag865
-ag865
-aVSoulshift 4, soulshift 4 <i>(When this creature dies, you may return up to two target Spirit cards with converted mana cost 4 or less from your graveyard to your hand.)</i>
+aV201160
 p896
-aV{4}, {T}, Sacrifice a creature: Fodder Cannon deals 4 damage to target creature.
+aV201278
 p897
-aV<i>({B/G} can be paid with either {B} or {G}.)</i><br>Trample<br>At the beginning of your end step, return to your hand all creature cards in your graveyard that were put there from the battlefield this turn.
+aV206069
 p898
-ag812
-ag812
-aVMountainwalk
+aV206070
 p899
-ag865
-aVDefender, flying<br>Prevent all combat damage that would be dealt to and dealt by Fog Bank.
+aV206071
 p900
-ag812
-aVForgotten Cave enters the battlefield tapped.<br>{T}: Add {R} to your mana pool.<br>Cycling {R} <i>({R}, Discard this card: Draw a card.)</i>
+aV201292
 p901
-aVWhenever a creature you control dies, you may pay {1}. If you do, reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest into your graveyard.
+aV1244
 p902
-ag812
-ag812
-ag812
-aVWhen Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.
+aV1245
 p903
-aVFlash <i>(You may cast this spell any time you could cast an instant.)</i><br>Defender<br>Foriysian Interceptor can block an additional creature.
+aV1388
 p904
-aV{T}: Add {R} to your mana pool.<br>{4}{R}: Foriysian Totem becomes a 4/4 red Giant artifact creature with trample until end of turn.<br>As long as Foriysian Totem is a creature, it can block an additional creature.
+aV1387
 p905
-aVChoose one- Creatures you control get +2/+0 until end of turn; or creatures you control get +0/+2 until end of turn.
+aV1386
 p906
-aVEnchant creature<br>When enchanted creature dies, return that card to the battlefield under your control.<br>When Fool's Demise is put into a graveyard from the battlefield, return Fool's Demise to its owner's hand.
+aV1294
 p907
-aVMagus of the Disk enters the battlefield tapped.<br>{1}, {T}: Destroy all artifacts, creatures, and enchantments.
+aV184623
 p908
-ag812
-ag812
-ag812
-ag865
-aVTarget creature gets +3/+3 until end of turn.
+aV184573
 p909
-ag829
-ag865
-ag865
-ag840
-aVEnchant creature<br>At the beginning of your upkeep, put a +1/+1 counter on enchanted creature.
+aV184624
 p910
-aVWhenever Fortress Cyclops attacks, it gets +3/+0 until end of turn.<br>Whenever Fortress Cyclops blocks, it gets +0/+3 until end of turn.
+aV184625
 p911
-aVWhen Foundry Champion enters the battlefield, it deals damage to target creature or player equal to the number of creatures you control.<br>{R}: Foundry Champion gets +1/+0 until end of turn.<br>{W}: Foundry Champion gets +0/+1 until end of turn.
+aV83977
 p912
-aVWhenever another red creature enters the battlefield under your control, Foundry Street Denizen gets +1/+0 until end of turn.
+aV84068
 p913
-aVBuyback\u2014Discard two cards. <i>(You may discard two cards in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)</i><br>Counter target spell.
+aV84608
 p914
-aV{B}: Frozen Shade gets +1/+1 until end of turn.
+aV83092
 p915
-aVWhenever Fungusaur is dealt damage, put a +1/+1 counter on it.
+aV83093
 p916
-aVAs long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls.<br>{T}: Target land becomes a Forest until Gaea's Liege leaves the battlefield.
+aV83094
 p917
-aVRed creatures get +1/+1.<br>Whenever a Mountain is tapped for mana, its controller adds {R} to his or her mana pool <i>(in addition to the mana the land produces)</i>.
+aV83095
 p918
-aVTarget creature gets +3/+3 until end of turn.
+aV84682
 p919
-aVReach <i>(This creature can block creatures with flying.)</i>
+aV189147
 p920
-aV{T}: Look at target player's hand.
+aV269629
 p921
-aVFoul Familiar can't block.<br>{B}, Pay 1 life: Return Foul Familiar to its owner's hand.
+aV269636
 p922
-aVCounter target spell unless its controller pays {1}.<br><br>Draw a card at the beginning of the next turn's upkeep.
+aV269635
 p923
-aVEnchant land<br>Enchanted land has "{T}: Target creature gets +2/+1 until end of turn."
+aV276456
 p924
-aVTarget opponent chooses a card in your graveyard. You may pay {G}. If you do, repeat this process except that opponent can't choose a card already chosen for Forgotten Lore. Then put the last chosen card into your hand.
+aV276467
 p925
-aV{T}, Sacrifice a red or white creature: Freyalise Supplicant deals damage to target creature or player equal to half the sacrificed creature's power, rounded down.
+aV276468
 p926
-aV{T}: Switch the blocking creatures of two target attacking creatures. Activate this ability only during the declare blockers step.
+aV276460
 p927
-aVUntap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.<br>Draw a card at the beginning of the next turn's upkeep.
+aV276464
 p928
-aV{2}{G}, {T}: Untap target creature.
+aV276454
 p929
-aV{T}: Add {G}{G} to your mana pool.
+aV34410
 p930
-aVFlip a coin. If you win the flip, you gain 1 life and target opponent loses 1 life, and you decide whether to flip again. If you lose the flip, you lose 1 life and that opponent gains 1 life, and that player decides whether to flip again. Double the life stakes with each flip.
+aV41140
 p931
-ag812
-ag812
-ag812
-ag865
-ag865
-ag865
-ag865
-ag865
-aVDestroy all enchantments.
+aV40116
 p932
-aV{3}{B}{B}, Sacrifice a creature: Return Necrosavant from your graveyard to the battlefield. Activate this ability only during your upkeep.
+aV40115
 p933
-aVTarget creature gets +3/+3 until end of turn.
+aV40106
 p934
-aVReach <i>(This creature can block creatures with flying.)</i>
+aV40105
 p935
-aVDefender <i>(This creature can't attack.)</i>
+aV282541
 p936
-aV{T}: Look at target player's hand.
+aV79252
 p937
-aV{T}, Sacrifice Goblin Digging Team: Destroy target Wall.
+aV79062
 p938
-aVWhenever Goblin Elite Infantry blocks or becomes blocked, it gets -1/-1 until end of turn.
+aV79068
 p939
-aVOther Goblin creatures get +1/+1 and have mountainwalk. <i>(They're unblockable as long as defending player controls a Mountain.)</i>
+aV79079
 p940
-aVAs an additional cost to cast Forge Armor, sacrifice an artifact.<br>Put X +1/+1 counters on target creature, where X is the sacrificed artifact's converted mana cost.
+aV79078
 p941
-aVFlying
+aV74410
 p942
-ag812
-aV{1}, {T}: Tap target artifact, creature, or land.
+aV15250
 p943
-ag865
-aVAffinity for artifacts <i>(This spell costs {1} less to cast for each artifact you control.)</i>
+aV83699
 p944
-aVPut two 1/1 red Goblin creature tokens onto the battlefield.
+aV95097
 p945
-ag865
-ag840
-ag840
-aVCounter target spell unless its controller pays {1}.
+aV95099
 p946
-aVChoose a color. Target player reveals his or her hand and discards all cards of that color.
+aV95098
 p947
-aVOther Goblin creatures get +1/+1 and have mountainwalk. <i>(They're unblockable as long as defending player controls a Mountain.)</i>
+aV95106
 p948
-aVGoblin Raider can't block.
+aV376339
 p949
-aV{T}: Grapeshot Catapult deals 1 damage to target creature with flying.
+aV376342
 p950
-aVWhen Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.
+aV376344
 p951
-aV{B}, Pay 2 life: Draw a card.
+aV376345
 p952
-aVYou may discard an Island card and another card rather than pay Foil's mana cost.<br>Counter target spell.
+aV31625
 p953
-aVAt the beginning of your upkeep, you may exile a land card from your graveyard. If you do, put a +1/+1 counter on target creature.
+aV31626
 p954
-aVWhenever another red creature enters the battlefield under your control, Foundry Street Denizen gets +1/+0 until end of turn.
+aV31627
 p955
-aVWhenever Frenzied Goblin attacks, you may pay {R}. If you do, target creature can't block this turn.
+aV31628
 p956
-aVWhen Frost Lynx enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
+aV106652
 p957
-aVForbidding Watchtower enters the battlefield tapped.<br>{T}: Add {W} to your mana pool.<br>{1}{W}: Forbidding Watchtower becomes a 1/5 white Soldier creature until end of turn. It's still a land.
+aV108904
 p958
-aVFlying<br>{B}: Regenerate Fog of Gnats.
+aV116732
 p959
-ag812
-aVForked Bolt deals 2 damage divided as you choose among one or two target creatures and/or players.
+aV126289
 p960
-ag865
-ag865
-ag840
-aV{T}: Return target card from an opponent's graveyard to his or her hand. Put a +1/+1 counter on target creature.
+aV126294
 p961
-aVYou gain 1 life for each creature you control.<br>Flashback {1}{W} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
+aV122088
 p962
-aV{R/G}{R/G}{R/G}: Foxfire Oak gets +3/+0 until end of turn.
+aV122083
 p963
-aVEnchant player<br>If a card would be put into enchanted player's graveyard from anywhere, instead that card is revealed and put on the bottom of that player's library.
+aV118927
 p964
-ag812
-ag812
-aV{T}: Add {1} to your mana pool.<br>{B/R}, {T}: Add {B}{B}, {B}{R}, or {R}{R} to your mana pool.
+aV118906
 p965
-ag865
-ag812
-aVPut a 3/3 green Beast creature token onto the battlefield for each creature put into your graveyard from the battlefield this turn.
+aV289326
 p966
-ag829
-aVHulking Ogre can't block.
+aV289327
 p967
-aVFlying<br>When Ingenious Thief enters the battlefield, look at target player's hand.
+aV289325
 p968
-ag865
-ag865
-ag865
-aVSacrifice an artifact: Add {2} to your mana pool.
+aV289328
 p969
-aVWhenever a player casts a spell, you may put a +1/+1 counter on Forgotten Ancient.<br>At the beginning of your upkeep, you may move any number of +1/+1 counters from Forgotten Ancient onto other creatures.
+aV333718
 p970
-aVIf damage would be dealt to you, put that many depletion counters on Force Bubble instead.<br>When there are four or more depletion counters on Force Bubble, sacrifice it.<br>At the beginning of each end step, remove all depletion counters from Force Bubble.
+aV366336
 p971
-aVAt the beginning of your upkeep, Form of the Dragon deals 5 damage to target creature or player.<br>At the beginning of each end step, your life total becomes 5.<br>Creatures without flying can't attack you.
+aV366280
 p972
-aVReturn target permanent to its owner's hand. Exile Reality Strobe with three time counters on it.<br>Suspend 3\u2014{2}{U} <i>(Rather than cast this card from your hand, you may pay {2}{U} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)</i>
+aV366431
 p973
-aVCowards can't block Warriors.<br>{R}: Target creature becomes a Coward until end of turn.<br>{2}{R}: Target creature becomes a Warrior until end of turn.
+aV366472
 p974
-aVSacrifice Llanowar Augur: Target creature gets +3/+3 and gains trample until end of turn. Activate this ability only during your upkeep.
+aV5157
 p975
-aVYou draw three cards and you lose 3 life.
+aV746
 p976
-ag865
-ag865
-aVJagged Lightning deals 3 damage to each of two target creatures.
+aV747
 p977
-ag812
-ag812
-ag812
-ag812
-ag812
-aVWhenever a player casts a spell, you may put a +1/+1 counter on Forgotten Ancient.<br>At the beginning of your upkeep, you may move any number of +1/+1 counters from Forgotten Ancient onto other creatures.
+aV611
 p978
-aVPrevent all combat damage that would be dealt this turn.<br>Cycling {2} <i>({2}, Discard this card: Draw a card.)</i>
+aV890
 p979
-aVWhenever Goblin Lackey deals damage to a player, you may put a Goblin permanent card from your hand onto the battlefield.
+aV889
 p980
-ag812
-ag812
-aVCreatures you control get +1/+1.
+aV888
 p981
-aVWhen Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, and put it into your hand. If you do, shuffle your library.
+aV797
 p982
-aVYou may pay 1 life and exile a blue card from your hand rather than pay Force of Will's mana cost.<br>Counter target spell.
+aV2450
 p983
-aV{1}: The next time an unblocked creature of your choice would deal combat damage to you this turn, prevent all but 1 of that damage.
+aV2506
 p984
-ag812
-ag812
-ag812
-aVExile target white permanent.
+aV2559
 p985
-aVForiysian Brigade can block an additional creature.
+aV2560
 p986
-aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i><br>When Fog Elemental attacks or blocks, sacrifice it at end of combat.
+aV2561
 p987
-aVIslands don't untap during their controllers' untap steps.
+aV2685
 p988
-aVCreatures with power greater than the number of cards in your hand can't attack.
+aV2748
 p989
-aVOther Goblin creatures get +1/+1 and have mountainwalk. <i>(They're unblockable as long as defending player controls a Mountain.)</i>
+aV2747
 p990
-aVGoblin Raider can't block.
+aV2746
 p991
-aVWhenever a creature you control dies, each other player sacrifices a creature.
+aV2562
 p992
-aVWhen Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.
+aV201962
 p993
-aVCast Fog Patch only during the declare blockers step.<br>Attacking creatures become blocked. <i>(This spell works on unblockable creatures.)</i>
+aV201959
 p994
-aVAt the beginning of your upkeep, if a player has more life than each other player, the player with the most life gains control of Ghazbán Ogre.
+aV195158
 p995
-ag812
-ag812
-ag812
-ag812
-aV{1}{G}, Sacrifice Font of Fertility: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+aV195192
 p996
-aV{1}{U}, Sacrifice Font of Fortunes: Draw two cards.
+aV201960
 p997
-aV{3}{R}, Sacrifice Font of Ire: Font of Ire deals 5 damage to target player.
+aV195177
 p998
-aV{3}{B}, Sacrifice Font of Return: Return up to three target creature cards from your graveyard to your hand.
+aV201961
 p999
-aV{2}{W}, Sacrifice Font of Vigor: You gain 7 life.
+aV195183
 p1000
-aVConstellation- Whenever Forgeborn Oreads or another enchantment enters the battlefield under your control, Forgeborn Oreads deals 1 damage to target creature or player.
+aV14682
 p1001
-aVTarget player discards two cards, then draws as many cards as he or she discarded this way.
+aV15388
 p1002
-aVWhenever Fungusaur is dealt damage, put a +1/+1 counter on it.
+aV16433
 p1003
-ag812
-ag812
-aV{2}, {T}: You gain 1 life.
+aV14749
 p1004
-aV{B}: Frozen Shade gets +1/+1 until end of turn.
+aV14750
 p1005
-aV{T}: Add {G}{G} to your mana pool.
+aV14751
 p1006
-aVTarget creature gets +3/+3 until end of turn.
+aV14752
 p1007
-aVReach <i>(This creature can block creatures with flying.)</i>
+aV14547
 p1008
-aVEnchant creature<br>Enchanted creature gets +2/+2.
+aV14765
 p1009
-aVPrevent all combat damage that would be dealt this turn.
+aV46577
 p1010
-ag812
-ag812
-ag812
-aVWhenever a player casts a spell, you may put a +1/+1 counter on Forgotten Ancient.<br>At the beginning of your upkeep, you may move any number of +1/+1 counters from Forgotten Ancient onto other creatures.
+aV48422
 p1011
-ag812
-aVFrontier Bivouac enters the battlefield tapped.<br>{T}: Add {G}, {U}, or {R} to your mana pool.
+aV48421
 p1012
-ag812
-aVPlayers can't gain life.<br>At the beginning of each player's upkeep, that player loses 1 life.<br>Whenever Forsaken Wastes becomes the target of a spell, that spell's controller loses 5 life.
+aV48423
 p1013
-aV{G}, Sacrifice a Forest: Foratog gets +2/+2 until end of turn.
+aV48424
 p1014
-aVIf you would draw a card, return a card from your graveyard to your hand instead. If you can't, you lose the game.<br>If a card would be put into your graveyard from anywhere, exile that card instead.
+aV222766
 p1015
-ag812
-ag812
-ag812
-ag812
-aVWhenever Goblin Elite Infantry blocks or becomes blocked, it gets -1/-1 until end of turn.
+aV174927
 p1016
-aVLook at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.<br>Flashback {6}{B} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
+aV174929
 p1017
-ag812
-aVCounter target spell unless its controller pays {1}. That player discards a card.
+aV174928
 p1018
-ag828
-ag828
-aVEnchant creature<br>Enchanted creature can attack as though it had haste.<br>{0}: Untap enchanted creature. Activate this ability only during your turn and only once each turn.
+aV174930
 p1019
-aVLightning Bolt deals 3 damage to target creature or player.
+aV11285
 p1020
-aVChoose one- Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn.
+aV25638
 p1021
-aV{1}, {T}: Target creature gains banding until end of turn. <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
+aV11283
 p1022
-aVEnchant creature<br>Enchanted creature gets +0/+2.<br>{W}: Enchanted creature gets +0/+1 until end of turn.
+aV11286
 p1023
-ag815
-aVAs an additional cost to cast Infernal Harvest, return X Swamps you control to their owner's hand.<br>Infernal Harvest deals X damage divided as you choose among any number of target creatures.
+aV11287
 p1024
-aVFlanking <i>(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)</i><br>When Knight of the Mists enters the battlefield, you may pay {U}. If you don't, destroy target Knight and it can't be regenerated.
+aV11288
 p1025
-aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i><br>When Fog Elemental attacks or blocks, sacrifice it at end of combat.
+aV11289
 p1026
-aVTrample <i>(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</i><br>At the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}.
+aV24587
 p1027
-ag812
-ag812
-ag812
-aVEnchant creature<br>Prevent all combat damage that would be dealt to and dealt by enchanted creature.
+aV24676
 p1028
-aVFlying<br>When Foul Spirit enters the battlefield, sacrifice a land.
+aV383242
 p1029
-aVGaea's Avenger's power and toughness are each equal to 1 plus the number of artifacts your opponents control.
+aV383245
 p1030
-aVSacrifice a creature: Destroy target artifact. Activate this ability only during your upkeep and only once each turn.
+aV383246
 p1031
-aVRed creatures get +1/+1.<br>Whenever a Mountain is tapped for mana, its controller adds {R} to his or her mana pool <i>(in addition to the mana the land produces)</i>.
+aV12494
 p1032
-aVFlying<br>When Foul Imp enters the battlefield, you lose 2 life.
+aV9699
 p1033
-aVAt the beginning of your upkeep, sacrifice Forethought Amulet unless you pay {3}.<br>If an instant or sorcery source would deal 3 or more damage to you, it deals 2 damage to you instead.
+aV205933
 p1034
-aVSacrifice a Swamp: Regenerate target black creature. <i>(The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</i>
+aV193512
 p1035
-aVEnchant creature<br>Enchanted creature gets +2/-2.
+aV205935
 p1036
-aVCounter target spell unless its controller pays {1}.
+aV205927
 p1037
-ag812
-aVForgotten Cave enters the battlefield tapped.<br>{T}: Add {R} to your mana pool.<br>Cycling {R} <i>({R}, Discard this card: Draw a card.)</i>
+aV205949
 p1038
-ag812
-ag812
-ag812
-aVPut any number of target creature cards from your graveyard on top of your library.<br>Draw a card.
+aV34244
 p1039
-aVWhenever another nontoken Elf is put into your graveyard from the battlefield, you may put a 1/1 green Elf Warrior creature token onto the battlefield.
+aV35071
 p1040
-aVFlash<br>Enchant creature<br>When Triclopean Sight enters the battlefield, untap enchanted creature.<br>Enchanted creature gets +1/+1 and has vigilance.
+aV141998
 p1041
-ag812
-ag812
-ag812
-ag865
-ag812
-aVGaea's Revenge can't be countered.<br>Haste<br>Gaea's Revenge can't be the target of nongreen spells or abilities from nongreen sources.
+aV146736
 p1042
-aVDefender <i>(This creature can't attack.)</i><br>{3}: Until end of turn, Gargoyle Sentinel loses defender and gains flying.
+aV157877
 p1043
-aV+1: Untap two target lands.<br>-1: Put a 3/3 green Beast creature token onto the battlefield.<br>-4: Creatures you control get +3/+3 and gain trample until end of turn.
+aV157870
 p1044
-ag829
-ag829
-ag829
-aVWhenever Folk of An-Havva blocks, it gets +2/+0 until end of turn.
+aV158242
 p1045
-aVEnchant creature<br>When enchanted creature leaves the battlefield, its controller sacrifices a creature.
+aV158241
 p1046
-aVFlying<br>When Giant Albatross dies, you may pay {1}{U}. If you do, for each creature that dealt damage to Giant Albatross this turn, destroy that creature unless its controller pays 2 life. A creature destroyed this way can't be regenerated.
+aV230071
 p1047
-aVReturn target creature card from your graveyard to the battlefield.
+aV230083
 p1048
-aVSwampwalk
+aV230081
 p1049
-aVYou gain 2 life for each creature you control.
+aV20398
 p1050
-ag828
-ag828
-ag812
-aVHaste
+aV21807
 p1051
-aVHulking Goblin can't block.
+aV21808
 p1052
-aVHurricane deals X damage to each creature with flying and each player.
+aV21805
 p1053
-ag865
-ag865
-ag865
-aVForsaken City doesn't untap during your untap step.<br>At the beginning of your upkeep, you may exile a card from your hand. If you do, untap Forsaken City.<br>{T}: Add one mana of any color to your mana pool.
+aV21806
 p1054
-aVWhen Forge Devil enters the battlefield, it deals 1 damage to target creature and 1 damage to you.
+aV51631
 p1055
-asS'costs'
+aV44219
 p1056
-(lp1057
-S'0'
+aV45138
+p1057
+aV43566
 p1058
-ag1058
-aV{1}{U}
+aV126149
 p1059
-aV{2}{B}
+aV130669
 p1060
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-aV{U}
+aV130713
 p1061
-ag1058
-aV{G}
+aV6568
 p1062
-aV{2}{G}{G}{G}{G}
+aV8410
 p1063
-aV{3}
+aV8409
 p1064
-ag1058
-ag1058
-ag1058
-aV{R}{R}
+aV8408
 p1065
-aV{2}{B}
+aV205464
 p1066
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-aV{1}{W}
+aV205466
 p1067
-aV{4}{U}
+aV205467
 p1068
-aV{1}{G}{G}
+aV205465
 p1069
-ag1058
-ag1058
-ag1058
-ag1058
-aV{1}{W}{W}
+aV205279
 p1070
-aV{G}
+aV205273
 p1071
-aV{2}{G}{G}{G}{G}
+aV5753
 p1072
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-aV{3}{U}{U}
+aV9850
 p1073
-aV{1}{U}
+aV8338
 p1074
-aV{1}{U}
+aV8339
 p1075
-aV{4}{R}{R}{R}
+aV8340
 p1076
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-aV{4}{R}{R}
+aV8341
 p1077
-aV{3}{B}
+aV159092
 p1078
-aV{3}{B}
+aV159755
 p1079
-aV{R}
+aV159278
 p1080
-ag1058
-ag1058
-ag1058
-ag1058
-aV{2}{R}
+aV159279
 p1081
-ag1058
-aV{5}{R}{R}
+aV159280
 p1082
-aV{4}
+aV373625
 p1083
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-aV{2}{U}
+aV4576
 p1084
-aV{0}
+aV4486
 p1085
-ag1058
-ag1058
-aV{2}{G}
+aV45424
 p1086
-aV{2}{G}{G}
+aV45467
 p1087
-aV{3}{W}{W}
+aV46453
 p1088
-aV{X}{B}{B}{B}
+aV46454
 p1089
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-aV{U}
+aV46455
 p1090
-ag1058
-aV{0}
+aV46456
 p1091
-ag1058
-ag1058
-ag1058
-ag1058
-aV{2}{B}
+aV21368
 p1092
-aV{U}
+aV2782
 p1093
-aV{2}{U}
+aV25967
 p1094
-ag1058
-ag1058
-ag1058
-aV{3}{R}
+aV26310
 p1095
-aV{G}
+aV26311
 p1096
-aV{2}{G}{G}{G}{G}
+aV26312
 p1097
-ag1058
-ag1058
-ag1058
-aV{R}{R}
+aV380417
 p1098
-aV{4}{G}
+aV380418
 p1099
-aV{2}{G}
+aV380419
 p1100
-aV{G}
+aV380420
 p1101
-aV{2}{B}
+aV380421
 p1102
-aV{2}{G}{G}{G}{G}
+aV380422
 p1103
-aV{4}{R}{R}{R}
+aV3910
 p1104
-aV{3}{W}
+aV3978
 p1105
-ag1058
-ag1058
-ag1058
-ag1058
-aV{B}{B}
+aV3976
 p1106
-aV{4}
+aV3977
 p1107
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-aV{W}
+aV3909
 p1108
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-aV{3}{G}{G}
+aV4174
 p1109
-aV{4}
+aV4173
 p1110
-aV{3}{U}{U}
+aV4172
 p1111
-ag1058
-ag1058
-ag1058
-ag1058
-aV{1}{U}
+aV4171
 p1112
-ag1058
-ag1058
-aV{2}{G}{G}
+aV3784
 p1113
-ag1058
-ag1058
-ag1058
-ag1058
-aV{3}{W}
+aV220479
 p1114
-aV{3}
+aV221297
 p1115
-aV{2}{W}
+aV221296
 p1116
-aV{4}{R}
+aV221295
 p1117
-aV{4}{U}
+aV220583
 p1118
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-aV{1}{R}{R}
+aV386539
 p1119
-aV{G}
+aV386540
 p1120
-aV{3}{R}{W}
+aV380209
 p1121
-aV{4}{R}{W}
+aV3294
 p1122
-aV{1}{U}{U}
+aV3385
 p1123
-aV{G}
+aV3386
 p1124
-aV{2}{G}{G}{G}{G}
+aV3293
 p1125
-aV{3}
+aV3569
 p1126
-ag1058
-ag1058
-ag1058
-aV{R}{R}
+aV3568
 p1127
-aV{2}{B}
+aV3567
 p1128
-aV{2}{U}
+aV3566
 p1129
-aV{4}{G}
+aV226758
 p1130
-aV{2}{G}
+aV245247
 p1131
-aV{G}
+aV234429
 p1132
-aV{1}{W}
+aV245248
 p1133
-ag1058
-ag1058
-ag1058
-aV{2}{G}
+aV245246
 p1134
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-aV{G}
+aV14
 p1135
-aV{3}{B}{B}
+aV200
 p1136
-aV{2}{U}
+aV149
 p1137
-ag1058
-ag1058
-ag1058
-ag1058
-aV{U}{U}
+aV150
 p1138
-aV{0}
+aV289
 p1139
-aV{4}{R}
+aV288
 p1140
-ag1058
-ag1058
-ag1058
-ag1058
-aV{3}{U}
+aV3617
 p1141
-ag1058
-ag1058
-ag1058
-ag1058
-aV{U}
+aV3640
 p1142
-aV{B}{B}
+aV26648
 p1143
-aV{G}
+aV26657
 p1144
-ag1058
-ag1058
-ag1058
-ag1058
-aV{2}{U}{U}
+aV26609
 p1145
-aV{1}{G}
+aV27244
 p1146
-ag1058
-aV{3}{W}
+aV27243
 p1147
-aV{3}{B}{B}
+aV27242
 p1148
-ag1058
-aV{B}{B}
+aV202617
 p1149
-ag1058
-aV{R}
+aV233304
 p1150
-ag1058
-ag1058
-ag1058
-aV{1}{G}
+aV202493
 p1151
-aV{2}{G}
+aV221495
 p1152
-aV{5}{G}
+aV5158
 p1153
-aV{R/G}
+aV1404
 p1154
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-aV{1}{W}
+aV1484
 p1155
-ag1058
-aV{3}{W}
+aV1612
 p1156
-ag1058
-ag1058
-ag1058
-ag1058
-aV{2}{U}{U}
+aV292750
 p1157
-aV{3}{G}
+aV292945
 p1158
-aV{2}{W}{W}
+aV292761
 p1159
-aV{4}{R}{R}{R}
+aV292943
 p1160
-aV{4}{R}
+aV292944
 p1161
-aV{3}{U}
+aV292946
 p1162
-aV{2}{G}
+aV139440
 p1163
-aV{2}{B}
+aV146166
 p1164
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-aV{3}{G}
+aV146447
 p1165
-aV{1}{U}
+aV143618
 p1166
-aV{1}{G}
+aV143625
 p1167
-ag1058
-ag1058
-ag1058
-ag1058
-aV{3}{U}{U}
+aV143617
 p1168
-aV{3}
+aV143633
 p1169
-ag1058
-ag1058
-ag1058
-ag1058
-aV{3}{W}
+aV207934
 p1170
-aV{2}{U}
+aV205064
 p1171
-aV{2}{G}
+aV205068
 p1172
-aV{4}
+aV213629
 p1173
-ag1058
-ag1058
-ag1058
-ag1058
-aV{1}{G}
+aV213628
 p1174
-aV{0}
+aV213630
 p1175
-ag1058
-ag1058
-ag1058
-ag1058
-aV{4}{R}
+aV213631
 p1176
-aV{G}
+aV2967
 p1177
-aV{1}{U}
+aV2968
 p1178
-aV{1}{R}
+aV2941
 p1179
-aV{1}{B}
+aV10505
 p1180
-aV{1}{W}
+aV10622
 p1181
-aV{U}{U}
+aV10532
 p1182
-aV{2}{G}
+aV10639
 p1183
-aV{G}
+aV10640
 p1184
-aV{2}{G}{G}{G}{G}
+aV373375
 p1185
-aV{U}
+aV4341
 p1186
-ag1058
-ag1058
-ag1058
-ag1058
-aV{0}
+aV4384
 p1187
-aV{G}
+aV4416
 p1188
-ag1058
-ag1058
-ag1058
-aV{3}{G}
+aV4415
 p1189
-aV{1}{U}
+aV4414
 p1190
-ag1058
-ag1058
-aV{2}{B}
+aV4413
 p1191
-aV{G}
+aV25893
 p1192
-aV{2}{G}
+aV221174
 p1193
-aV{3}{B}{B}
+asS'texts'
 p1194
-ag1058
-ag1058
-ag1058
-ag1058
-aV{2}{U}
-p1195
-ag1058
-aV{3}{U}
+(lp1195
+V({T}: Add {W} to your mana pool.)
 p1196
-ag1058
-ag1058
-aV{3}
+aV({T}: Add {W} to your mana pool.)
 p1197
-aV{R}{R}
+aVDefender, flying<br>Prevent all combat damage that would be dealt to and dealt by Fog Bank.
 p1198
-aV{G}
+aVPut any number of target creature cards from your graveyard on top of your library.<br>Draw a card.
 p1199
-aV{2}{G}{G}{G}{G}
+aVG
 p1200
-ag1058
-ag1058
-aV{2}{B}{B}
+ag1200
+ag1200
+ag1200
+aVForgotten Cave enters the battlefield tapped.<br>{T}: Add {R} to your mana pool.<br>Cycling {R} <i>({R}, Discard this card: Draw a card.)</i>
 p1201
-aV{1}{U}
+ag1200
+ag1200
+ag1200
+aVTrample <i>(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</i>
 p1202
-aV{G}
+aS''
 p1203
-aV{2}{U}
+aV{B}: Frozen Shade gets +1/+1 until end of turn.
 p1204
-aV{2}{G}{G}{G}{G}
+aVWhenever Fungusaur is dealt damage, put a +1/+1 counter on it.
 p1205
-ag1058
-ag1058
-ag1058
-aV{G}
+aVAs long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls.<br>{T}: Target land becomes a Forest until Gaea's Liege leaves the battlefield.
 p1206
-aV{2}{G}{G}{G}{G}
+aVRed creatures get +1/+1.<br>Whenever a Mountain is tapped for mana, its controller adds {R} to his or her mana pool <i>(in addition to the mana the land produces)</i>.
 p1207
-aV{R}{R}
+aVTarget creature gets +3/+3 until end of turn.
 p1208
-aV{2}{B}
+aVReach <i>(This creature can block creatures with flying.)</i>
 p1209
-aV{B}{B}
+aV{T}: Look at target player's hand.
 p1210
-aV{5}
+aVReturn target creature card from your graveyard to the battlefield. Sacrifice that creature at the beginning of the next end step.
 p1211
-aV{U}
+ag1200
+ag1200
+ag1200
+ag1200
+ag1200
+ag1200
+ag1200
+ag1200
+aVTarget creature gets +3/+3 until end of turn.
 p1212
-aV{1}{W}{W}
+aVWhenever a creature you control attacks, it gets +1/+0 until end of turn for each other attacking creature that shares a creature type with it.
 p1213
-aV{U}
+aVTarget creature gets -5/-0 until end of turn.
 p1214
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-aV{2}{B}
+aVTarget creature you control fights target creature you don't control. <i>(Each deals damage equal to its power to the other.)</i>
 p1215
-aV{1}{R}
+aVW
 p1216
-aV{G}
+ag1216
+aVB
 p1217
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-aV{1}{U}
+ag1217
+aVEnchant creature<br>Enchanted creature gets +0/+2.<br>{W}: Enchanted creature gets +0/+1 until end of turn.
 p1218
-aV{1}{R}
+ag1200
+aV{B}: Frozen Shade gets +1/+1 until end of turn.
 p1219
-ag1058
-ag1058
-ag1058
-ag1058
-aV{G}
+aVWhenever Fungusaur is dealt damage, put a +1/+1 counter on it.
 p1220
-aV{G}
+aVAs long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls.<br>{T}: Target land becomes a Forest until Gaea's Liege leaves the battlefield.
 p1221
-aV{U}{U}
+aVEnchant creature<br>Prevent all combat damage that would be dealt to and dealt by enchanted creature.
 p1222
-aV{1}{G}
+ag1200
+ag1200
+aVYou may pay 1 life and exile a blue card from your hand rather than pay Force of Will's mana cost.<br>Counter target spell.
 p1223
-aV{2}{U}
+aVSearch your library for three cards, exile them, then shuffle your library.<br>Draw a card at the beginning of the next turn's upkeep.
 p1224
-ag1058
-ag1058
-ag1058
-ag1058
-aV{3}{R}
+aVEnchant creature<br>Whenever enchanted creature blocks or becomes blocked, it gets +0/+3 until end of turn and you gain 1 life.
 p1225
-aV{3}{W}
+aVAt the beginning of your upkeep, Form of the Dragon deals 5 damage to target creature or player.<br>At the beginning of each end step, your life total becomes 5.<br>Creatures without flying can't attack you.
 p1226
-ag1058
-ag1058
-ag1058
-ag1058
-ag1058
-aV{R}
+ag1200
+ag1200
+ag1200
+ag1200
+aVChoose two target creatures. Tap those creatures, then unattach all Equipment from them.
 p1227
-asS'names'
+aVR
 p1228
-(lp1229
-VForest
+ag1228
+ag1216
+aVIntimidate<br>Inspired- Whenever Forlorn Pseudamma becomes untapped, you may pay {2}{B}. If you do, put a 2/2 black Zombie enchantment creature token onto the battlefield.
+p1229
+aVWhen Forsaken Drifters dies, put the top four cards of your library into your graveyard.
 p1230
-aVForest
+aVBestow {5}{W} <i>(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)</i><br>Double strike <i>(This creature deals both first-strike and regular combat damage.)</i><br>Enchanted creature gets +1/+1 and has double strike.
 p1231
-aVFog Bank
+aVGlacial Fortress enters the battlefield tapped unless you control a Plains or an Island.<br>{T}: Add {W} or {U} to your mana pool.
 p1232
-aVFootbottom Feast
+aVCreatures you control get +1/+1 until end of turn.
 p1233
-aVForest
+ag1217
+ag1217
+ag1203
+aVTap up to two target creatures. Those creatures don't untap during their controller's next untap step.
 p1234
-aVForest
+aVSliver creatures you control have flying.
 p1235
-aVForest
+aV+1: Reveal the top five cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.<br>-3: You may put a green creature card from your hand onto the battlefield.<br>-7: You get an emblem with "Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle your library."
 p1236
-aVForest
+aV{2}, {T}: Draw a card. Activate this ability only if you have no cards in hand.
 p1237
-aVForgotten Cave
+ag1200
+ag1200
+ag1200
+aVIf a source would deal damage to a creature or player, it deals double that damage to that creature or player instead.
 p1238
-aVForest
+aVForbidding Watchtower enters the battlefield tapped.<br>{T}: Add {W} to your mana pool.<br>{1}{W}: Forbidding Watchtower becomes a 1/5 white Soldier creature until end of turn. It's still a land.
 p1239
-aVForest
+ag1200
+aVWhen Highway Robber enters the battlefield, target opponent loses 2 life and you gain 2 life.
 p1240
-aVForest
+aVVigilance <i>(Attacking doesn't cause this creature to tap.)</i>
 p1241
-aVFog
+aV{1}{B}, Sacrifice Thrull Surgeon: Look at target player's hand and choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.
 p1242
-aVForest
+ag1217
+ag1217
+aVWhenever a creature you control dies, you may pay {1}. If you do, reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest into your graveyard.
 p1243
-aVFog
+aVAt the beginning of your upkeep, each player reveals the top card of his or her library. If all cards revealed this way are creature cards, put those cards onto the battlefield under their owners' control.
 p1244
-aVForce of Nature
+aVEnchant creature<br>Enchanted creature can't attack or block, and its activated abilities can't be activated.
 p1245
-aVForcefield
+aVYou may exile a black card from your hand rather than pay Unmask's mana cost.<br>Target player reveals his or her hand. You choose a nonland card from it. That player discards that card.
 p1246
-aVForest
+aVRushwood Grove enters the battlefield tapped.<br>{T}: Put a storage counter on Rushwood Grove.<br>{T}, Remove any number of storage counters from Rushwood Grove: Add {G} to your mana pool for each storage counter removed this way.
 p1247
-aVForest
+ag1200
+ag1200
+aV{1}{G}: Return target basic land card from your graveyard to your hand.
 p1248
-aVForest
+aVWhen Highway Robber enters the battlefield, target opponent loses 2 life and you gain 2 life.
 p1249
-aVFork
+aVDraw two cards, then discard two cards. Untap up to three lands.
 p1250
-aVFootsteps of the Goryo
+aVPlay with the top card of your library revealed.<br>You may play the top card of your library.
 p1251
-aVForest
+aVFlying<br>{U}{U}{U}: Regenerate Ghost Ship.
 p1252
-aVForest
+aVU
 p1253
-aVForest
+ag1203
+aVTarget creature gets +3/+3 until end of turn.
 p1254
-aVForest
+aVDestroy target nonblack creature.
 p1255
-aVForest
+aVEnchant creature<br>Enchanted creature gets -1/-1 and has "{T}: Target creature gets -1/-1 until end of turn."
 p1256
-aVForest
+ag1200
+ag1200
+ag1200
+aVForked Lightning deals 4 damage divided as you choose among one, two, or three target creatures.
 p1257
-aVForest
+aVWhenever a permanent becomes tapped, put a wind counter on it. <br>If a permanent with a wind counter on it would untap during its controller's untap step, remove all wind counters from it instead.
 p1258
-aVForest
+aVRampage 2 <i>(Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)</i>
 p1259
-aVForest
+aVAs long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls.<br>{T}: Target land becomes a Forest until Gaea's Liege leaves the battlefield.
 p1260
-aVForfend
+aVTarget creature gets +3/+3 until end of turn.
 p1261
-aVFog Bank
+aVReach <i>(This creature can block creatures with flying.)</i>
 p1262
-aVFog
+aV{T}: Look at target player's hand.
 p1263
-aVForest
+aVWhite spells cost {3} more to cast.<br>Activated abilities of white enchantments cost {3} more to activate.
 p1264
-aVForest
+aV{R}: Goblin Balloon Brigade gains flying until end of turn.
 p1265
-aVForest
+aVTarget opponent chooses a card in your graveyard. You may pay {G}. If you do, repeat this process except that opponent can't choose a card already chosen for Forgotten Lore. Then put the last chosen card into your hand.
 p1266
-aVForest
+aVFoul Familiar can't block.<br>{B}, Pay 1 life: Return Foul Familiar to its owner's hand.
 p1267
-aVFortified Area
+aVAs an additional cost to cast Fumarole, pay 3 life.<br>Destroy target creature and target land.
 p1268
-aVFog
+aVEnchant creature<br>When enchanted creature leaves the battlefield, its controller sacrifices a creature.
 p1269
-aVForce of Nature
+aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i><br>{1}{U}: Target player reveals the top card of his or her library.
 p1270
-aVForest
+aVWhen Phyrexian Gargantua enters the battlefield, you draw two cards and you lose 2 life.
 p1271
-aVForest
+aVYou may play up to three additional lands this turn.
 p1272
-aVForest
+aVWhen Highway Robber enters the battlefield, target opponent loses 2 life and you gain 2 life.
 p1273
-aVForest
+aVPrevent all combat damage that would be dealt this turn.
 p1274
-aVForest
+aV{W}: Honor Guard gets +0/+1 until end of turn.
 p1275
-aVForce of Will
+aVAt the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card.
 p1276
-aVForesight
+aVWhen Hunted Wumpus enters the battlefield, each other player may put a creature card from his or her hand onto the battlefield.
 p1277
-aVForesight
+aVExalted <i>(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</i><br>{U}, {T}: Draw a card, then discard a card.
 p1278
-aVForm of the Dragon
+ag1253
+ag1228
+ag1228
+ag1200
+ag1200
+ag1200
+ag1200
+ag1200
+ag1253
+aVProtection from Goblins<br>Morph {W} <i>(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>
 p1279
-aVForest
+aVForgotten Cave enters the battlefield tapped.<br>{T}: Add {R} to your mana pool.<br>Cycling {R} <i>({R}, Discard this card: Draw a card.)</i>
 p1280
-aVForest
+ag1200
+ag1200
+ag1200
+aVFear <i>(This creature can't be blocked except by artifact creatures and/or black creatures.)</i>
 p1281
-aVForest
+aV{T}: Add one mana of any color to your mana pool.<br>Whenever you tap Forbidden Orchard for mana, put a 1/1 colorless Spirit creature token onto the battlefield under target opponent's control.
 p1282
-aVForest
+aV{B}, Sacrifice a creature: Target player discards a card. Activate this ability only any time you could cast a sorcery.
 p1283
-aVForest
+ag1200
+ag1253
+ag1253
+ag1253
+aVSoulshift 4, soulshift 4 <i>(When this creature dies, you may return up to two target Spirit cards with converted mana cost 4 or less from your graveyard to your hand.)</i>
 p1284
-aVForest
+aV{4}, {T}, Sacrifice a creature: Fodder Cannon deals 4 damage to target creature.
 p1285
-aVForest
+aV<i>({B/G} can be paid with either {B} or {G}.)</i><br>Trample<br>At the beginning of your end step, return to your hand all creature cards in your graveyard that were put there from the battlefield this turn.
 p1286
-aVForest
+ag1200
+ag1200
+aVMountainwalk
 p1287
-aVForgestoker Dragon
+ag1253
+aVDefender, flying<br>Prevent all combat damage that would be dealt to and dealt by Fog Bank.
 p1288
-aVForlorn Pseudamma
+ag1200
+aVForgotten Cave enters the battlefield tapped.<br>{T}: Add {R} to your mana pool.<br>Cycling {R} <i>({R}, Discard this card: Draw a card.)</i>
 p1289
-aVForsaken Drifters
+aVWhenever a creature you control dies, you may pay {1}. If you do, reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest into your graveyard.
 p1290
-aVFog
+ag1200
+ag1200
+ag1200
+aVWhen Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.
 p1291
-aVForest
+aVFlash <i>(You may cast this spell any time you could cast an instant.)</i><br>Defender<br>Foriysian Interceptor can block an additional creature.
 p1292
-aVForest
+aV{T}: Add {R} to your mana pool.<br>{4}{R}: Foriysian Totem becomes a 4/4 red Giant artifact creature with trample until end of turn.<br>As long as Foriysian Totem is a creature, it can block an additional creature.
 p1293
-aVForest
+aVChoose one- Creatures you control get +2/+0 until end of turn; or creatures you control get +0/+2 until end of turn.
 p1294
-aVForest
+aVEnchant creature<br>When enchanted creature dies, return that card to the battlefield under your control.<br>When Fool's Demise is put into a graveyard from the battlefield, return Fool's Demise to its owner's hand.
 p1295
-aVFog
+aVMagus of the Disk enters the battlefield tapped.<br>{1}, {T}: Destroy all artifacts, creatures, and enchantments.
 p1296
-aVForest
+ag1200
+ag1200
+ag1200
+ag1253
+aVTarget creature gets +3/+3 until end of turn.
 p1297
-aVFortify
+ag1217
+ag1253
+ag1253
+ag1228
+aVEnchant creature<br>At the beginning of your upkeep, put a +1/+1 counter on enchanted creature.
 p1298
-aVFool's Tome
+aVWhenever Fortress Cyclops attacks, it gets +3/+0 until end of turn.<br>Whenever Fortress Cyclops blocks, it gets +0/+3 until end of turn.
 p1299
-aVForest
+aVWhen Foundry Champion enters the battlefield, it deals damage to target creature or player equal to the number of creatures you control.<br>{R}: Foundry Champion gets +1/+0 until end of turn.<br>{W}: Foundry Champion gets +0/+1 until end of turn.
 p1300
-aVForest
+aVWhenever another red creature enters the battlefield under your control, Foundry Street Denizen gets +1/+0 until end of turn.
 p1301
-aVForest
+aVBuyback\u2014Discard two cards. <i>(You may discard two cards in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)</i><br>Counter target spell.
 p1302
-aVForest
+aV{B}: Frozen Shade gets +1/+1 until end of turn.
 p1303
-aVForbidding Watchtower
+aVWhenever Fungusaur is dealt damage, put a +1/+1 counter on it.
 p1304
-aVForest
+aVAs long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls.<br>{T}: Target land becomes a Forest until Gaea's Liege leaves the battlefield.
 p1305
-aVForest
+aVRed creatures get +1/+1.<br>Whenever a Mountain is tapped for mana, its controller adds {R} to his or her mana pool <i>(in addition to the mana the land produces)</i>.
 p1306
-aVFog Elemental
+aVTarget creature gets +3/+3 until end of turn.
 p1307
-aVFountain of Youth
+aVReach <i>(This creature can block creatures with flying.)</i>
 p1308
-aVForest
+aV{T}: Look at target player's hand.
 p1309
-aVForest
+aVFoul Familiar can't block.<br>{B}, Pay 1 life: Return Foul Familiar to its owner's hand.
 p1310
-aVFood Chain
+aVCounter target spell unless its controller pays {1}.<br><br>Draw a card at the beginning of the next turn's upkeep.
 p1311
-aVFoster
+aVEnchant land<br>Enchanted land has "{T}: Target creature gets +2/+1 until end of turn."
 p1312
-aVFountain Watch
+aVTarget opponent chooses a card in your graveyard. You may pay {G}. If you do, repeat this process except that opponent can't choose a card already chosen for Forgotten Lore. Then put the last chosen card into your hand.
 p1313
-aVForced March
+aV{T}, Sacrifice a red or white creature: Freyalise Supplicant deals damage to target creature or player equal to half the sacrificed creature's power, rounded down.
 p1314
-aVFountain of Cho
+aV{T}: Switch the blocking creatures of two target attacking creatures. Activate this ability only during the declare blockers step.
 p1315
-aVForest
+aVUntap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.<br>Draw a card at the beginning of the next turn's upkeep.
 p1316
-aVForest
+aV{2}{G}, {T}: Untap target creature.
 p1317
-aVForest
+aV{T}: Add {G}{G} to your mana pool.
 p1318
-aVForest
+aVFlip a coin. If you win the flip, you gain 1 life and target opponent loses 1 life, and you decide whether to flip again. If you lose the flip, you lose 1 life and that opponent gains 1 life, and that player decides whether to flip again. Double the life stakes with each flip.
 p1319
-aVForce of Will
+ag1200
+ag1200
+ag1200
+ag1253
+ag1253
+ag1253
+ag1253
+ag1253
+aVDestroy all enchantments.
 p1320
-aVForgotten Cave
+aV{3}{B}{B}, Sacrifice a creature: Return Necrosavant from your graveyard to the battlefield. Activate this ability only during your upkeep.
 p1321
-aVFountain of Youth
+aVTarget creature gets +3/+3 until end of turn.
 p1322
-aVForest
+aVReach <i>(This creature can block creatures with flying.)</i>
 p1323
-aVForest
+aVDefender <i>(This creature can't attack.)</i>
 p1324
-aVForest
+aV{T}: Look at target player's hand.
 p1325
-aVForest
+aV{T}, Sacrifice Goblin Digging Team: Destroy target Wall.
 p1326
-aVFoul Presence
+aVWhenever Goblin Elite Infantry blocks or becomes blocked, it gets -1/-1 until end of turn.
 p1327
-aVForce Spike
+aVOther Goblin creatures get +1/+1 and have mountainwalk. <i>(They're unblockable as long as defending player controls a Mountain.)</i>
 p1328
-aVForced Retreat
+aVAs an additional cost to cast Forge Armor, sacrifice an artifact.<br>Put X +1/+1 counters on target creature, where X is the sacrificed artifact's converted mana cost.
 p1329
-aVForest
+aVFlying
 p1330
-aVForest
+ag1200
+aV{1}, {T}: Tap target artifact, creature, or land.
 p1331
-aVForest
+ag1253
+aVAffinity for artifacts <i>(This spell costs {1} less to cast for each artifact you control.)</i>
 p1332
-aVForked Lightning
+aVPut two 1/1 red Goblin creature tokens onto the battlefield.
 p1333
-aVFog
+ag1253
+ag1228
+ag1228
+aVCounter target spell unless its controller pays {1}.
 p1334
-aVForce of Nature
+aVChoose a color. Target player reveals his or her hand and discards all cards of that color.
 p1335
-aVForest
+aVOther Goblin creatures get +1/+1 and have mountainwalk. <i>(They're unblockable as long as defending player controls a Mountain.)</i>
 p1336
-aVForest
+aVGoblin Raider can't block.
 p1337
-aVForest
+aV{T}: Grapeshot Catapult deals 1 damage to target creature with flying.
 p1338
-aVFork
+aVWhen Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.
 p1339
-aVFolk of the Pines
+aV{B}, Pay 2 life: Draw a card.
 p1340
-aVForbidden Lore
+aVYou may discard an Island card and another card rather than pay Foil's mana cost.<br>Counter target spell.
 p1341
-aVForgotten Lore
+aVAt the beginning of your upkeep, you may exile a land card from your graveyard. If you do, put a +1/+1 counter on target creature.
 p1342
-aVFoul Familiar
+aVWhenever another red creature enters the battlefield under your control, Foundry Street Denizen gets +1/+0 until end of turn.
 p1343
-aVForce of Nature
+aVWhenever Frenzied Goblin attacks, you may pay {R}. If you do, target creature can't block this turn.
 p1344
-aVForm of the Dragon
+aVWhen Frost Lynx enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
 p1345
-aVFoot Soldiers
+aVForbidding Watchtower enters the battlefield tapped.<br>{T}: Add {W} to your mana pool.<br>{1}{W}: Forbidding Watchtower becomes a 1/5 white Soldier creature until end of turn. It's still a land.
 p1346
-aVForest
+aVFlying<br>{B}: Regenerate Fog of Gnats.
 p1347
-aVForest
+ag1200
+aVForked Bolt deals 2 damage divided as you choose among one or two target creatures and/or players.
 p1348
-aVForest
+ag1253
+ag1253
+ag1228
+aV{T}: Return target card from an opponent's graveyard to his or her hand. Put a +1/+1 counter on target creature.
 p1349
-aVForest
+aVYou gain 1 life for each creature you control.<br>Flashback {1}{W} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
 p1350
-aVFoul Imp
+aV{R/G}{R/G}{R/G}: Foxfire Oak gets +3/+0 until end of turn.
 p1351
-aVFont of Mythos
+aVEnchant player<br>If a card would be put into enchanted player's graveyard from anywhere, instead that card is revealed and put on the bottom of that player's library.
 p1352
-aVForest
+ag1200
+ag1200
+aV{T}: Add {1} to your mana pool.<br>{B/R}, {T}: Add {B}{B}, {B}{R}, or {R}{R} to your mana pool.
 p1353
-aVForest
+ag1253
+ag1200
+aVPut a 3/3 green Beast creature token onto the battlefield for each creature put into your graveyard from the battlefield this turn.
 p1354
-aVForest
+ag1217
+aVHulking Ogre can't block.
 p1355
-aVForest
+aVFlying<br>When Ingenious Thief enters the battlefield, look at target player's hand.
 p1356
-aVForest
+ag1253
+ag1253
+ag1253
+aVSacrifice an artifact: Add {2} to your mana pool.
 p1357
-aVForest
+aVWhenever a player casts a spell, you may put a +1/+1 counter on Forgotten Ancient.<br>At the beginning of your upkeep, you may move any number of +1/+1 counters from Forgotten Ancient onto other creatures.
 p1358
-aVForest
+aVIf damage would be dealt to you, put that many depletion counters on Force Bubble instead.<br>When there are four or more depletion counters on Force Bubble, sacrifice it.<br>At the beginning of each end step, remove all depletion counters from Force Bubble.
 p1359
-aVForest
+aVAt the beginning of your upkeep, Form of the Dragon deals 5 damage to target creature or player.<br>At the beginning of each end step, your life total becomes 5.<br>Creatures without flying can't attack you.
 p1360
-aVForest
+aVReturn target permanent to its owner's hand. Exile Reality Strobe with three time counters on it.<br>Suspend 3\u2014{2}{U} <i>(Rather than cast this card from your hand, you may pay {2}{U} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)</i>
 p1361
-aVFoothill Guide
+aVCowards can't block Warriors.<br>{R}: Target creature becomes a Coward until end of turn.<br>{2}{R}: Target creature becomes a Warrior until end of turn.
 p1362
-aVForgotten Cave
+aVSacrifice Llanowar Augur: Target creature gets +3/+3 and gains trample until end of turn. Activate this ability only during your upkeep.
 p1363
-aVForest
+aVYou draw three cards and you lose 3 life.
 p1364
-aVForest
+ag1253
+ag1253
+aVJagged Lightning deals 3 damage to each of two target creatures.
 p1365
-aVForest
+ag1200
+ag1200
+ag1200
+ag1200
+ag1200
+aVWhenever a player casts a spell, you may put a +1/+1 counter on Forgotten Ancient.<br>At the beginning of your upkeep, you may move any number of +1/+1 counters from Forgotten Ancient onto other creatures.
 p1366
-aVForest
+aVPrevent all combat damage that would be dealt this turn.<br>Cycling {2} <i>({2}, Discard this card: Draw a card.)</i>
 p1367
-aVForbidden Orchard
+aVWhenever Goblin Lackey deals damage to a player, you may put a Goblin permanent card from your hand onto the battlefield.
 p1368
-aVForbidden Orchard
+ag1200
+ag1200
+aVCreatures you control get +1/+1.
 p1369
-aVForest
+aVWhen Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, and put it into your hand. If you do, shuffle your library.
 p1370
-aVForest
+aVYou may pay 1 life and exile a blue card from your hand rather than pay Force of Will's mana cost.<br>Counter target spell.
 p1371
-aVForest
+aV{1}: The next time an unblocked creature of your choice would deal combat damage to you this turn, prevent all but 1 of that damage.
 p1372
-aVForest
+ag1200
+ag1200
+ag1200
+aVExile target white permanent.
 p1373
-aVForked-Branch Garami
+aVForiysian Brigade can block an additional creature.
 p1374
-aVFodder Cannon
+aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i><br>When Fog Elemental attacks or blocks, sacrifice it at end of combat.
 p1375
-aVFollowed Footsteps
+aVIslands don't untap during their controllers' untap steps.
 p1376
-aVForest
+aVCreatures with power greater than the number of cards in your hand can't attack.
 p1377
-aVForest
+aVOther Goblin creatures get +1/+1 and have mountainwalk. <i>(They're unblockable as long as defending player controls a Mountain.)</i>
 p1378
-aVForest
+aVGoblin Raider can't block.
 p1379
-aVForest
+aVWhenever a creature you control dies, each other player sacrifices a creature.
 p1380
-aVFog Bank
+aVWhen Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.
 p1381
-aVForest
+aVCast Fog Patch only during the declare blockers step.<br>Attacking creatures become blocked. <i>(This spell works on unblockable creatures.)</i>
 p1382
-aVForgotten Cave
+aVAt the beginning of your upkeep, if a player has more life than each other player, the player with the most life gains control of Ghazbán Ogre.
 p1383
-aVFoster
+ag1200
+ag1200
+ag1200
+ag1200
+aV{1}{G}, Sacrifice Font of Fertility: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
 p1384
-aVForest
+aV{1}{U}, Sacrifice Font of Fortunes: Draw two cards.
 p1385
-aVForest
+aV{3}{R}, Sacrifice Font of Ire: Font of Ire deals 5 damage to target player.
 p1386
-aVForest
+aV{3}{B}, Sacrifice Font of Return: Return up to three target creature cards from your graveyard to your hand.
 p1387
-aVForest
+aV{2}{W}, Sacrifice Font of Vigor: You gain 7 life.
 p1388
-aVForiysian Interceptor
+aVConstellation- Whenever Forgeborn Oreads or another enchantment enters the battlefield under your control, Forgeborn Oreads deals 1 damage to target creature or player.
 p1389
-aVForiysian Totem
+aVTarget player discards two cards, then draws as many cards as he or she discarded this way.
 p1390
-aVFortify
+aVWhenever Fungusaur is dealt damage, put a +1/+1 counter on it.
 p1391
-aVFortune Thief
+ag1200
+ag1200
+aV{2}, {T}: You gain 1 life.
 p1392
-aVFool's Demise
+aV{B}: Frozen Shade gets +1/+1 until end of turn.
 p1393
-aVForest
+aV{T}: Add {G}{G} to your mana pool.
 p1394
-aVForest
+aVTarget creature gets +3/+3 until end of turn.
 p1395
-aVForest
+aVReach <i>(This creature can block creatures with flying.)</i>
 p1396
-aVForest
+aVEnchant creature<br>Enchanted creature gets +2/+2.
 p1397
-aVForest
+aVPrevent all combat damage that would be dealt this turn.
 p1398
-aVForest
+ag1200
+ag1200
+ag1200
+aVWhenever a player casts a spell, you may put a +1/+1 counter on Forgotten Ancient.<br>At the beginning of your upkeep, you may move any number of +1/+1 counters from Forgotten Ancient onto other creatures.
 p1399
-aVForest
+ag1200
+aVFrontier Bivouac enters the battlefield tapped.<br>{T}: Add {G}, {U}, or {R} to your mana pool.
 p1400
-aVForest
+ag1200
+aVPlayers can't gain life.<br>At the beginning of each player's upkeep, that player loses 1 life.<br>Whenever Forsaken Wastes becomes the target of a spell, that spell's controller loses 5 life.
 p1401
-aVForest
+aV{G}, Sacrifice a Forest: Foratog gets +2/+2 until end of turn.
 p1402
-aVForced Adaptation
+aVIf you would draw a card, return a card from your graveyard to your hand instead. If you can't, you lose the game.<br>If a card would be put into your graveyard from anywhere, exile that card instead.
 p1403
-aVFortress Cyclops
+ag1200
+ag1200
+ag1200
+ag1200
+aVWhenever Goblin Elite Infantry blocks or becomes blocked, it gets -1/-1 until end of turn.
 p1404
-aVFoundry Champion
+aVLook at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.<br>Flashback {6}{B} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
 p1405
-aVFoundry Street Denizen
+ag1200
+aVCounter target spell unless its controller pays {1}. That player discards a card.
 p1406
-aVForbid
+ag1216
+ag1216
+aVEnchant creature<br>Enchanted creature can attack as though it had haste.<br>{0}: Untap enchanted creature. Activate this ability only during your turn and only once each turn.
 p1407
-aVFog
+aVLightning Bolt deals 3 damage to target creature or player.
 p1408
-aVForce of Nature
+aVChoose one- Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn.
 p1409
-aVForcefield
+aV{1}, {T}: Target creature gains banding until end of turn. <i>(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</i>
 p1410
-aVForest
+aVEnchant creature<br>Enchanted creature gets +0/+2.<br>{W}: Enchanted creature gets +0/+1 until end of turn.
 p1411
-aVForest
+ag1203
+aVAs an additional cost to cast Infernal Harvest, return X Swamps you control to their owner's hand.<br>Infernal Harvest deals X damage divided as you choose among any number of target creatures.
 p1412
-aVForest
+aVFlanking <i>(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)</i><br>When Knight of the Mists enters the battlefield, you may pay {U}. If you don't, destroy target Knight and it can't be regenerated.
 p1413
-aVFork
+aVFlying <i>(This creature can't be blocked except by creatures with flying or reach.)</i><br>When Fog Elemental attacks or blocks, sacrifice it at end of combat.
 p1414
-aVFoul Familiar
+aVTrample <i>(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</i><br>At the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}.
 p1415
-aVForce Void
+ag1200
+ag1200
+ag1200
+aVEnchant creature<br>Prevent all combat damage that would be dealt to and dealt by enchanted creature.
 p1416
-aVFolk of the Pines
+aVFlying<br>When Foul Spirit enters the battlefield, sacrifice a land.
 p1417
-aVForbidden Lore
+aVGaea's Avenger's power and toughness are each equal to 1 plus the number of artifacts your opponents control.
 p1418
-aVForgotten Lore
+aVSacrifice a creature: Destroy target artifact. Activate this ability only during your upkeep and only once each turn.
 p1419
-aVFormation
+aVRed creatures get +1/+1.<br>Whenever a Mountain is tapped for mana, its controller adds {R} to his or her mana pool <i>(in addition to the mana the land produces)</i>.
 p1420
-aVForest
+aVFlying<br>When Foul Imp enters the battlefield, you lose 2 life.
 p1421
-aVForest
+aVAt the beginning of your upkeep, sacrifice Forethought Amulet unless you pay {3}.<br>If an instant or sorcery source would deal 3 or more damage to you, it deals 2 damage to you instead.
 p1422
-aVForest
+aVSacrifice a Swamp: Regenerate target black creature. <i>(The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</i>
 p1423
-aVFoxfire
+aVEnchant creature<br>Enchanted creature gets +2/-2.
 p1424
-aVForest
+aVCounter target spell unless its controller pays {1}.
 p1425
-aVForest
+ag1200
+aVForgotten Cave enters the battlefield tapped.<br>{T}: Add {R} to your mana pool.<br>Cycling {R} <i>({R}, Discard this card: Draw a card.)</i>
 p1426
-aVForest
+ag1200
+ag1200
+ag1200
+aVPut any number of target creature cards from your graveyard on top of your library.<br>Draw a card.
 p1427
-aVForest
+aVWhenever another nontoken Elf is put into your graveyard from the battlefield, you may put a 1/1 green Elf Warrior creature token onto the battlefield.
 p1428
-aVForest
+aVFlash<br>Enchant creature<br>When Triclopean Sight enters the battlefield, untap enchanted creature.<br>Enchanted creature gets +1/+1 and has vigilance.
 p1429
-aVForest
+ag1200
+ag1200
+ag1200
+ag1253
+ag1200
+aVGaea's Revenge can't be countered.<br>Haste<br>Gaea's Revenge can't be the target of nongreen spells or abilities from nongreen sources.
 p1430
-aVForest
+aVDefender <i>(This creature can't attack.)</i><br>{3}: Until end of turn, Gargoyle Sentinel loses defender and gains flying.
 p1431
-aVForest
+aV+1: Untap two target lands.<br>-1: Put a 3/3 green Beast creature token onto the battlefield.<br>-4: Creatures you control get +3/+3 and gain trample until end of turn.
 p1432
-aVFog
+ag1217
+ag1217
+ag1217
+aVWhenever Folk of An-Havva blocks, it gets +2/+0 until end of turn.
 p1433
-aVForbidden Crypt
+aVEnchant creature<br>When enchanted creature leaves the battlefield, its controller sacrifices a creature.
 p1434
-aVFog Elemental
+aVFlying<br>When Giant Albatross dies, you may pay {1}{U}. If you do, for each creature that dealt damage to Giant Albatross this turn, destroy that creature unless its controller pays 2 life. A creature destroyed this way can't be regenerated.
 p1435
-aVForest
+aVReturn target creature card from your graveyard to the battlefield.
 p1436
-aVForest
+aVSwampwalk
 p1437
-aVForest
+aVYou gain 2 life for each creature you control.
 p1438
-aVForest
+ag1216
+ag1216
+ag1200
+aVHaste
 p1439
-aVForget
+aVHulking Goblin can't block.
 p1440
-aVFountain of Youth
+aVHurricane deals X damage to each creature with flying and each player.
 p1441
-aVForge Armor
+ag1253
+ag1253
+ag1253
+aVForsaken City doesn't untap during your untap step.<br>At the beginning of your upkeep, you may exile a card from your hand. If you do, untap Forsaken City.<br>{T}: Add one mana of any color to your mana pool.
 p1442
-aVForest
+aVWhen Forge Devil enters the battlefield, it deals 1 damage to target creature and 1 damage to you.
 p1443
-aVForest
+asS'costs'
 p1444
-aVForest
-p1445
-aVForest
+(lp1445
+S'0'
 p1446
-aVFoil
+ag1446
+aV{1}{U}
 p1447
-aVForest
+aV{2}{B}
 p1448
-aVForest
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+aV{U}
 p1449
-aVForest
+ag1446
+aV{G}
 p1450
-aVForest
+aV{2}{G}{G}{G}{G}
 p1451
-aVForce Spike
+aV{3}
 p1452
-aVFoul Imp
+ag1446
+ag1446
+ag1446
+aV{R}{R}
 p1453
-aVFog
+aV{2}{B}
 p1454
-aVForest
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+aV{1}{W}
 p1455
-aVForest
+aV{4}{U}
 p1456
-aVForest
+aV{1}{G}{G}
 p1457
-aVForest
+ag1446
+ag1446
+ag1446
+ag1446
+aV{1}{W}{W}
 p1458
-aVFoil
+aV{G}
 p1459
-aVForgotten Harvest
+aV{2}{G}{G}{G}{G}
 p1460
-aVForest
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+aV{3}{U}{U}
 p1461
-aVForge Devil
+aV{1}{U}
 p1462
-aVFoundry Street Denizen
+aV{1}{U}
 p1463
-aVForbidding Watchtower
+aV{4}{R}{R}{R}
 p1464
-aVFog of Gnats
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+aV{4}{R}{R}
 p1465
-aVForest
+aV{3}{B}
 p1466
-aVForked Bolt
+aV{3}{B}
 p1467
-aVForest
+aV{R}
 p1468
-aVForest
+ag1446
+ag1446
+ag1446
+ag1446
+aV{2}{R}
 p1469
-aVForest
+ag1446
+aV{5}{R}{R}
 p1470
-aVForcemage Advocate
+aV{4}
 p1471
-aVFolk Medicine
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+aV{2}{U}
 p1472
-aVFoxfire Oak
+aV{0}
 p1473
-aVFossil Find
+ag1446
+ag1446
+aV{2}{G}
 p1474
-aVForest
+aV{2}{G}{G}
 p1475
-aVForest
+aV{3}{W}{W}
 p1476
-aVForest
+aV{X}{B}{B}{B}
 p1477
-aVForest
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+aV{U}
 p1478
-aVForest
+ag1446
+aV{0}
 p1479
-aVForced Worship
+ag1446
+ag1446
+ag1446
+ag1446
+aV{2}{B}
 p1480
-aVForest
+aV{U}
 p1481
-aVFoot Soldiers
+aV{2}{U}
 p1482
-aVForest
+ag1446
+ag1446
+ag1446
+aV{3}{R}
 p1483
-aVForest
+aV{G}
 p1484
-aVForest
+aV{2}{G}{G}{G}{G}
 p1485
-aVForest
+ag1446
+ag1446
+ag1446
+aV{R}{R}
 p1486
-aVFold into Æther
+aV{4}{G}
 p1487
-aVForgotten Ancient
+aV{2}{G}
 p1488
-aVForce Bubble
+aV{G}
 p1489
-aVForm of the Dragon
+aV{2}{B}
 p1490
-aVFomori Nomad
+aV{2}{G}{G}{G}{G}
 p1491
-aVForesee
+aV{4}{R}{R}{R}
 p1492
-aVForce of Savagery
+aV{3}{W}
 p1493
-aVFoul Spirit
+ag1446
+ag1446
+ag1446
+ag1446
+aV{B}{B}
 p1494
-aVForest
+aV{4}
 p1495
-aVForest
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+aV{W}
 p1496
-aVForest
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+aV{3}{G}{G}
 p1497
-aVForest
+aV{4}
 p1498
-aVForest
+aV{3}{U}{U}
 p1499
-aVForest
+ag1446
+ag1446
+ag1446
+ag1446
+aV{1}{U}
 p1500
-aVForest
+ag1446
+ag1446
+aV{2}{G}{G}
 p1501
-aVForest
+ag1446
+ag1446
+ag1446
+ag1446
+aV{3}{W}
 p1502
-aVForgotten Ancient
+aV{3}
 p1503
-aVFog Bank
+aV{2}{W}
 p1504
-aVFortitude
+aV{4}{R}
 p1505
-aVForest
+aV{4}{U}
 p1506
-aVForest
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+aV{1}{R}{R}
 p1507
-aVForest
+aV{G}
 p1508
-aVForest
+aV{3}{R}{W}
 p1509
-aVForce of Will
+aV{4}{R}{W}
 p1510
-aVForcefield
+aV{1}{U}{U}
 p1511
-aVForest
+aV{G}
 p1512
-aVForest
+aV{2}{G}{G}{G}{G}
 p1513
-aVForest
+aV{3}
 p1514
-aVForest
+ag1446
+ag1446
+ag1446
+aV{R}{R}
 p1515
-aVForiysian Brigade
+aV{2}{B}
 p1516
-aVFog Elemental
+aV{2}{U}
 p1517
-aVForatog
+aV{4}{G}
 p1518
-aVFodder Cannon
+aV{2}{G}
 p1519
-aVForest
+aV{G}
 p1520
-aVForest
+aV{1}{W}
 p1521
-aVForest
+ag1446
+ag1446
+ag1446
+aV{2}{G}
 p1522
-aVForest
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+aV{G}
 p1523
-aVFog Patch
+aV{3}{B}{B}
 p1524
-aVFountain of Youth
+aV{2}{U}
 p1525
-aVForest
+ag1446
+ag1446
+ag1446
+ag1446
+aV{U}{U}
 p1526
-aVForest
+aV{0}
 p1527
-aVForest
+aV{4}{R}
 p1528
-aVForest
+ag1446
+ag1446
+ag1446
+ag1446
+aV{3}{U}
 p1529
-aVFont of Fertility
+ag1446
+ag1446
+ag1446
+ag1446
+aV{U}
 p1530
-aVFont of Fortunes
+aV{B}{B}
 p1531
-aVFont of Ire
+aV{G}
 p1532
-aVFont of Return
+ag1446
+ag1446
+ag1446
+ag1446
+aV{2}{U}{U}
 p1533
-aVFont of Vigor
+aV{1}{G}
 p1534
-aVForgeborn Oreads
+ag1446
+aV{3}{W}
 p1535
-aVForget
+aV{3}{B}{B}
 p1536
-aVFoxfire
+ag1446
+aV{B}{B}
 p1537
-aVFog
+ag1446
+aV{R}
 p1538
-aVForce of Nature
+ag1446
+ag1446
+ag1446
+aV{1}{G}
 p1539
-aVForce Spike
+aV{2}{G}
 p1540
-aVForest
+aV{5}{G}
 p1541
-aVForest
+aV{R/G}
 p1542
-aVForest
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+aV{1}{W}
 p1543
-aVForest
+ag1446
+aV{3}{W}
 p1544
-aVFountain of Youth
+ag1446
+ag1446
+ag1446
+ag1446
+aV{2}{U}{U}
 p1545
-aVFog
+aV{3}{G}
 p1546
-aVForest
+aV{2}{W}{W}
 p1547
-aVForest
+aV{4}{R}{R}{R}
 p1548
-aVForest
+aV{4}{R}
 p1549
-aVForgotten Ancient
+aV{3}{U}
 p1550
-aVForce Away
+aV{2}{G}
 p1551
-aVForest
+aV{2}{B}
 p1552
-aVForest
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+aV{3}{G}
 p1553
-aVForsaken Wastes
+aV{1}{U}
 p1554
-aVFog
+aV{1}{G}
 p1555
-aVForatog
+ag1446
+ag1446
+ag1446
+ag1446
+aV{3}{U}{U}
 p1556
-aVForbidden Crypt
+aV{3}
 p1557
-aVForest
+ag1446
+ag1446
+ag1446
+ag1446
+aV{3}{W}
 p1558
-aVForest
+aV{2}{U}
 p1559
-aVForest
+aV{2}{G}
 p1560
-aVForest
+aV{4}
 p1561
-aVForbidden Alchemy
+ag1446
+ag1446
+ag1446
+ag1446
+aV{1}{G}
 p1562
-aVForest
+aV{0}
 p1563
-aVFortress Crab
+ag1446
+ag1446
+ag1446
+ag1446
+aV{4}{R}
 p1564
-aVForest
+aV{G}
 p1565
-aVForest
+aV{1}{U}
 p1566
-aVForcefield
+aV{1}{R}
 p1567
-aVFork
+aV{1}{B}
 p1568
-aVFog
+aV{1}{W}
 p1569
-aVForce of Nature
+aV{U}{U}
 p1570
-aVForest
+aV{2}{G}
 p1571
-aVForest
+aV{G}
 p1572
-aVForbidden Ritual
+aV{2}{G}{G}{G}{G}
 p1573
-aVForeshadow
+aV{U}
 p1574
-aVFog
+ag1446
+ag1446
+ag1446
+ag1446
+aV{0}
 p1575
-aVFog Elemental
+aV{G}
 p1576
-aVForce of Nature
+ag1446
+ag1446
+ag1446
+aV{3}{G}
 p1577
-aVForest
+aV{1}{U}
 p1578
-aVForest
+ag1446
+ag1446
+aV{2}{B}
 p1579
-aVForest
+aV{G}
 p1580
-aVFog
+aV{2}{G}
 p1581
-aVForce of Nature
+aV{3}{B}{B}
 p1582
-aVFork
+ag1446
+ag1446
+ag1446
+ag1446
+aV{2}{U}
 p1583
-aVFoul Spirit
+ag1446
+aV{3}{U}
 p1584
-aVFoul Imp
+ag1446
+ag1446
+aV{3}
 p1585
-aVForethought Amulet
+aV{R}{R}
 p1586
-aVForce Spike
+aV{G}
 p1587
-aVFortified Area
+aV{2}{G}{G}{G}{G}
 p1588
-aVForce Spike
+ag1446
+ag1446
+aV{2}{B}{B}
 p1589
-aVForest
+aV{1}{U}
 p1590
-aVForgotten Cave
+aV{G}
 p1591
-aVForest
+aV{2}{U}
 p1592
-aVForest
+aV{2}{G}{G}{G}{G}
 p1593
-aVForest
+ag1446
+ag1446
+ag1446
+aV{G}
 p1594
-aVFootbottom Feast
+aV{2}{G}{G}{G}{G}
 p1595
-aVForced Fruition
+aV{R}{R}
 p1596
-aVFodder Launch
+aV{2}{B}
 p1597
-aVForest
+aV{B}{B}
 p1598
-aVForest
+aV{5}
 p1599
-aVForest
+aV{U}
 p1600
-aVForest
+aV{1}{W}{W}
 p1601
-aVForest
+aV{U}
 p1602
-aVFog
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+aV{2}{B}
 p1603
-aVForesee
+aV{1}{R}
 p1604
-aVForest
+aV{G}
 p1605
-aVForest
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+aV{1}{U}
 p1606
-aVForest
+aV{1}{R}
 p1607
-aVForest
+ag1446
+ag1446
+ag1446
+ag1446
+aV{G}
 p1608
-aVFolk of An-Havva
+aV{G}
 p1609
-aVFolk of An-Havva
+aV{U}{U}
 p1610
-aVForget
+aV{1}{G}
 p1611
-aVForest Bear
+aV{2}{U}
 p1612
-aVForced Retreat
+ag1446
+ag1446
+ag1446
+ag1446
+aV{3}{R}
 p1613
-aVForest
+aV{3}{W}
 p1614
-aVForest
+ag1446
+ag1446
+ag1446
+ag1446
+ag1446
+aV{R}
 p1615
-aVForest
+asS'names'
 p1616
-aVForest
-p1617
-aVForked Lightning
+(lp1617
+VForest
 p1618
-aVFoot Soldiers
+aVForest
 p1619
-aVForest
+aVFog Bank
 p1620
-aVForest
+aVFootbottom Feast
 p1621
 aVForest
 p1622
 aVForest
 p1623
-aVForsaken City
+aVForest
 p1624
-aVForge Devil
+aVForest
 p1625
-asS'rares'
+aVForgotten Cave
 p1626
-(lp1627
-VLand
+aVForest
+p1627
+aVForest
 p1628
-aVLand
+aVForest
 p1629
-aVUncommon
+aVFog
 p1630
-aVCommon
+aVForest
 p1631
-aVLand
+aVFog
 p1632
-aVLand
+aVForce of Nature
 p1633
-aVLand
+aVForcefield
 p1634
-aVLand
+aVForest
 p1635
-aVCommon
+aVForest
 p1636
-aVLand
+aVForest
 p1637
-aVLand
+aVFork
 p1638
-aVLand
+aVFootsteps of the Goryo
 p1639
-aVCommon
+aVForest
 p1640
-aVLand
+aVForest
 p1641
-aVCommon
+aVForest
 p1642
-aVRare
+aVForest
 p1643
-aVRare
+aVForest
 p1644
-aVLand
+aVForest
 p1645
-aVLand
+aVForest
 p1646
-aVLand
+aVForest
 p1647
-aVRare
+aVForest
 p1648
-aVUncommon
+aVForfend
 p1649
-aVLand
+aVFog Bank
 p1650
-aVLand
+aVFog
 p1651
-aVLand
+aVForest
 p1652
-aVLand
+aVForest
 p1653
-aVLand
+aVForest
 p1654
-aVLand
+aVForest
 p1655
-aVLand
+aVFortified Area
 p1656
-aVLand
+aVFog
 p1657
-aVLand
+aVForce of Nature
 p1658
-aVCommon
+aVForest
 p1659
-aVUncommon
+aVForest
 p1660
-aVCommon
+aVForest
 p1661
-aVLand
+aVForest
 p1662
-aVLand
+aVForest
 p1663
-aVLand
+aVForce of Will
 p1664
-aVLand
+aVForesight
 p1665
-aVCommon
+aVForesight
 p1666
-aVCommon
+aVForm of the Dragon
 p1667
-aVRare
+aVForest
 p1668
-aVLand
+aVForest
 p1669
-aVLand
+aVForest
 p1670
-aVLand
+aVForest
 p1671
-aVLand
+aVForest
 p1672
-aVLand
+aVForest
 p1673
-aVUncommon
+aVForest
 p1674
-aVCommon
+aVForest
 p1675
-aVCommon
+aVForgestoker Dragon
 p1676
-aVRare
+aVForlorn Pseudamma
 p1677
-aVLand
+aVForsaken Drifters
 p1678
-aVLand
+aVFog
 p1679
-aVLand
+aVForest
 p1680
-aVLand
+aVForest
 p1681
-aVLand
+aVForest
 p1682
-aVLand
+aVForest
 p1683
-aVLand
+aVFog
 p1684
-aVLand
+aVForest
 p1685
-aVRare
+aVFortify
 p1686
-aVUncommon
+aVFool's Tome
 p1687
-aVCommon
+aVForest
 p1688
-aVCommon
+aVForest
 p1689
-aVLand
+aVForest
 p1690
-aVLand
+aVForest
 p1691
-aVLand
+aVForbidding Watchtower
 p1692
-aVLand
+aVForest
 p1693
-aVCommon
+aVForest
 p1694
-aVLand
+aVFog Elemental
 p1695
-aVCommon
+aVFountain of Youth
 p1696
-aVRare
+aVForest
 p1697
-aVLand
+aVForest
 p1698
-aVLand
+aVFood Chain
 p1699
-aVLand
+aVFoster
 p1700
-aVLand
+aVFountain Watch
 p1701
-aVUncommon
+aVForced March
 p1702
-aVLand
+aVFountain of Cho
 p1703
-aVLand
+aVForest
 p1704
-aVUncommon
+aVForest
 p1705
-aVUncommon
+aVForest
 p1706
-aVLand
+aVForest
 p1707
-aVLand
+aVForce of Will
 p1708
-aVRare
+aVForgotten Cave
 p1709
-aVRare
+aVFountain of Youth
 p1710
-aVRare
+aVForest
 p1711
-aVRare
+aVForest
 p1712
-aVUncommon
+aVForest
 p1713
-aVLand
+aVForest
 p1714
-aVLand
+aVFoul Presence
 p1715
-aVLand
+aVForce Spike
 p1716
-aVLand
+aVForced Retreat
 p1717
-aVRare
+aVForest
 p1718
-aVCommon
+aVForest
 p1719
-aVUncommon
+aVForest
 p1720
-aVLand
+aVForked Lightning
 p1721
-aVLand
+aVFog
 p1722
-aVLand
+aVForce of Nature
 p1723
-aVLand
+aVForest
 p1724
-aVUncommon
+aVForest
 p1725
-aVCommon
+aVForest
 p1726
-aVCommon
+aVFork
 p1727
-aVLand
+aVFolk of the Pines
 p1728
-aVLand
+aVForbidden Lore
 p1729
-aVLand
+aVForgotten Lore
 p1730
-aVUncommon
+aVFoul Familiar
 p1731
-aVCommon
+aVForce of Nature
 p1732
-aVRare
+aVForm of the Dragon
 p1733
-aVLand
+aVFoot Soldiers
 p1734
-aVLand
+aVForest
 p1735
-aVLand
+aVForest
 p1736
-aVRare
+aVForest
 p1737
-aVCommon
+aVForest
 p1738
-aVUncommon
+aVFoul Imp
 p1739
-aVUncommon
+aVFont of Mythos
 p1740
-aVCommon
+aVForest
 p1741
-aVRare
+aVForest
 p1742
-aVRare
+aVForest
 p1743
-aVCommon
+aVForest
 p1744
-aVLand
+aVForest
 p1745
-aVLand
+aVForest
 p1746
-aVLand
+aVForest
 p1747
-aVLand
+aVForest
 p1748
-aVCommon
+aVForest
 p1749
-aVRare
+aVFoothill Guide
 p1750
-aVLand
+aVForgotten Cave
 p1751
-aVLand
+aVForest
 p1752
-aVLand
+aVForest
 p1753
-aVLand
+aVForest
 p1754
-aVLand
+aVForest
 p1755
-aVLand
+aVForbidden Orchard
 p1756
-aVLand
+aVForbidden Orchard
 p1757
-aVLand
+aVForest
 p1758
-aVLand
+aVForest
 p1759
-aVCommon
+aVForest
 p1760
-aVCommon
+aVForest
 p1761
-aVLand
+aVForked-Branch Garami
 p1762
-aVLand
+aVFodder Cannon
 p1763
-aVLand
+aVFollowed Footsteps
 p1764
-aVLand
+aVForest
 p1765
-aVMythic Rare
+aVForest
 p1766
-aVRare
+aVForest
 p1767
-aVLand
+aVForest
 p1768
-aVLand
+aVFog Bank
 p1769
-aVLand
+aVForest
 p1770
-aVLand
+aVForgotten Cave
 p1771
-aVUncommon
+aVFoster
 p1772
-aVUncommon
+aVForest
 p1773
-aVRare
+aVForest
 p1774
-aVLand
+aVForest
 p1775
-aVLand
+aVForest
 p1776
-aVLand
+aVForiysian Interceptor
 p1777
-aVLand
+aVForiysian Totem
 p1778
-aVUncommon
+aVFortify
 p1779
-aVLand
+aVFortune Thief
 p1780
-aVCommon
+aVFool's Demise
 p1781
-aVRare
+aVForest
 p1782
-aVLand
+aVForest
 p1783
-aVLand
+aVForest
 p1784
-aVLand
+aVForest
 p1785
-aVLand
+aVForest
 p1786
-aVCommon
+aVForest
 p1787
-aVUncommon
+aVForest
 p1788
-aVCommon
+aVForest
 p1789
-aVRare
+aVForest
 p1790
-aVUncommon
+aVForced Adaptation
 p1791
-aVLand
+aVFortress Cyclops
 p1792
-aVLand
+aVFoundry Champion
 p1793
-aVLand
+aVFoundry Street Denizen
 p1794
-aVLand
+aVForbid
 p1795
-aVLand
+aVFog
 p1796
-aVLand
+aVForce of Nature
 p1797
-aVLand
+aVForcefield
 p1798
-aVLand
+aVForest
 p1799
-aVLand
+aVForest
 p1800
-aVCommon
+aVForest
 p1801
-aVUncommon
+aVFork
 p1802
-aVRare
+aVFoul Familiar
 p1803
-aVCommon
+aVForce Void
 p1804
-aVUncommon
+aVFolk of the Pines
 p1805
-aVCommon
+aVForbidden Lore
 p1806
-aVRare
+aVForgotten Lore
 p1807
-aVRare
+aVFormation
 p1808
-aVLand
+aVForest
 p1809
-aVLand
+aVForest
 p1810
-aVLand
+aVForest
 p1811
-aVRare
+aVFoxfire
 p1812
-aVCommon
+aVForest
 p1813
-aVUncommon
+aVForest
 p1814
-aVCommon
+aVForest
 p1815
-aVRare
+aVForest
 p1816
-aVUncommon
+aVForest
 p1817
-aVRare
+aVForest
 p1818
-aVLand
+aVForest
 p1819
-aVLand
+aVForest
 p1820
-aVLand
+aVFog
 p1821
-aVCommon
+aVForbidden Crypt
 p1822
-aVLand
+aVFog Elemental
 p1823
-aVLand
+aVForest
 p1824
-aVLand
+aVForest
 p1825
-aVLand
+aVForest
 p1826
-aVLand
+aVForest
 p1827
-aVLand
+aVForget
 p1828
-aVLand
+aVFountain of Youth
 p1829
-aVLand
+aVForge Armor
 p1830
-aVCommon
+aVForest
 p1831
-aVRare
+aVForest
 p1832
-aVCommon
+aVForest
 p1833
-aVLand
+aVForest
 p1834
-aVLand
+aVFoil
 p1835
-aVLand
+aVForest
 p1836
-aVLand
+aVForest
 p1837
-aVRare
+aVForest
 p1838
-aVUncommon
+aVForest
 p1839
-aVUncommon
+aVForce Spike
 p1840
-aVLand
+aVFoul Imp
 p1841
-aVLand
+aVFog
 p1842
-aVLand
+aVForest
 p1843
-aVLand
+aVForest
 p1844
-aVUncommon
+aVForest
 p1845
-aVLand
+aVForest
 p1846
-aVLand
+aVFoil
 p1847
-aVLand
+aVForgotten Harvest
 p1848
-aVLand
+aVForest
 p1849
-aVCommon
+aVForge Devil
 p1850
-aVUncommon
+aVFoundry Street Denizen
 p1851
-aVCommon
+aVForbidding Watchtower
 p1852
-aVLand
+aVFog of Gnats
 p1853
-aVLand
+aVForest
 p1854
-aVLand
+aVForked Bolt
 p1855
-aVLand
+aVForest
 p1856
-aVUncommon
+aVForest
 p1857
-aVRare
+aVForest
 p1858
-aVLand
+aVForcemage Advocate
 p1859
-aVCommon
+aVFolk Medicine
 p1860
-aVCommon
+aVFoxfire Oak
 p1861
-aVUncommon
+aVFossil Find
 p1862
-aVCommon
+aVForest
 p1863
-aVLand
+aVForest
 p1864
-aVUncommon
+aVForest
 p1865
-aVLand
+aVForest
 p1866
-aVLand
+aVForest
 p1867
-aVLand
+aVForced Worship
 p1868
-aVUncommon
+aVForest
 p1869
-aVCommon
+aVFoot Soldiers
 p1870
-aVCommon
+aVForest
 p1871
-aVUncommon
+aVForest
 p1872
-aVLand
+aVForest
 p1873
-aVLand
+aVForest
 p1874
-aVLand
+aVFold into Æther
 p1875
-aVLand
+aVForgotten Ancient
 p1876
-aVLand
+aVForce Bubble
 p1877
-aVCommon
+aVForm of the Dragon
 p1878
-aVLand
+aVFomori Nomad
 p1879
-aVCommon
+aVForesee
 p1880
-aVLand
+aVForce of Savagery
 p1881
-aVLand
+aVFoul Spirit
 p1882
-aVLand
+aVForest
 p1883
-aVLand
+aVForest
 p1884
-aVUncommon
+aVForest
 p1885
-aVRare
+aVForest
 p1886
-aVRare
+aVForest
 p1887
-aVRare
+aVForest
 p1888
-aVCommon
+aVForest
 p1889
-aVCommon
+aVForest
 p1890
-aVRare
+aVForgotten Ancient
 p1891
-aVUncommon
+aVFog Bank
 p1892
-aVLand
+aVFortitude
 p1893
-aVLand
+aVForest
 p1894
-aVLand
+aVForest
 p1895
-aVLand
+aVForest
 p1896
-aVLand
+aVForest
 p1897
-aVLand
+aVForce of Will
 p1898
-aVLand
+aVForcefield
 p1899
-aVLand
+aVForest
 p1900
-aVRare
+aVForest
 p1901
-aVUncommon
+aVForest
 p1902
-aVCommon
+aVForest
 p1903
-aVLand
+aVForiysian Brigade
 p1904
-aVLand
+aVFog Elemental
 p1905
-aVLand
+aVForatog
 p1906
-aVLand
+aVFodder Cannon
 p1907
-aVRare
+aVForest
 p1908
-aVRare
+aVForest
 p1909
-aVLand
+aVForest
 p1910
-aVLand
+aVForest
 p1911
-aVLand
+aVFog Patch
 p1912
-aVLand
+aVFountain of Youth
 p1913
-aVUncommon
+aVForest
 p1914
-aVCommon
+aVForest
 p1915
-aVUncommon
+aVForest
 p1916
-aVUncommon
+aVForest
 p1917
-aVLand
+aVFont of Fertility
 p1918
-aVLand
+aVFont of Fortunes
 p1919
-aVLand
+aVFont of Ire
 p1920
-aVLand
+aVFont of Return
 p1921
-aVCommon
+aVFont of Vigor
 p1922
-aVCommon
+aVForgeborn Oreads
 p1923
-aVLand
+aVForget
 p1924
-aVLand
+aVFoxfire
 p1925
-aVLand
+aVFog
 p1926
-aVLand
+aVForce of Nature
 p1927
-aVCommon
+aVForce Spike
 p1928
-aVCommon
+aVForest
 p1929
-aVCommon
+aVForest
 p1930
-aVCommon
+aVForest
 p1931
-aVCommon
+aVForest
 p1932
-aVUncommon
+aVFountain of Youth
 p1933
-aVRare
+aVFog
 p1934
-aVCommon
+aVForest
 p1935
-aVCommon
+aVForest
 p1936
-aVRare
+aVForest
 p1937
-aVCommon
+aVForgotten Ancient
 p1938
-aVLand
+aVForce Away
 p1939
-aVLand
+aVForest
 p1940
-aVLand
+aVForest
 p1941
-aVLand
+aVForsaken Wastes
 p1942
-aVUncommon
+aVFog
 p1943
-aVCommon
+aVForatog
 p1944
-aVLand
+aVForbidden Crypt
 p1945
-aVLand
+aVForest
 p1946
-aVLand
+aVForest
 p1947
-aVRare
+aVForest
 p1948
-aVCommon
+aVForest
 p1949
-aVLand
+aVForbidden Alchemy
 p1950
-aVLand
+aVForest
 p1951
-aVRare
+aVFortress Crab
 p1952
-aVCommon
+aVForest
 p1953
-aVUncommon
+aVForest
 p1954
-aVRare
+aVForcefield
 p1955
-aVLand
+aVFork
 p1956
-aVLand
+aVFog
 p1957
-aVLand
+aVForce of Nature
 p1958
-aVLand
+aVForest
 p1959
-aVCommon
+aVForest
 p1960
-aVLand
+aVForbidden Ritual
 p1961
-aVCommon
+aVForeshadow
 p1962
-aVLand
+aVFog
 p1963
-aVLand
+aVFog Elemental
 p1964
-aVRare
+aVForce of Nature
 p1965
-aVRare
+aVForest
 p1966
-aVCommon
+aVForest
 p1967
-aVRare
+aVForest
 p1968
-aVLand
+aVFog
 p1969
-aVLand
+aVForce of Nature
 p1970
-aVRare
+aVFork
 p1971
-aVUncommon
+aVFoul Spirit
 p1972
-aVCommon
+aVFoul Imp
 p1973
-aVCommon
+aVForethought Amulet
 p1974
-aVRare
+aVForce Spike
 p1975
-aVLand
+aVFortified Area
 p1976
-aVLand
+aVForce Spike
 p1977
-aVLand
+aVForest
 p1978
-aVCommon
+aVForgotten Cave
 p1979
-aVRare
+aVForest
 p1980
-aVRare
+aVForest
 p1981
-aVCommon
+aVForest
 p1982
-aVCommon
+aVFootbottom Feast
 p1983
-aVRare
+aVForced Fruition
 p1984
-aVCommon
+aVFodder Launch
 p1985
-aVUncommon
+aVForest
 p1986
-aVCommon
+aVForest
 p1987
-aVLand
+aVForest
 p1988
-aVCommon
+aVForest
 p1989
-aVLand
+aVForest
 p1990
-aVLand
+aVFog
 p1991
-aVLand
+aVForesee
 p1992
-aVCommon
+aVForest
 p1993
-aVRare
+aVForest
 p1994
-aVUncommon
+aVForest
 p1995
-aVLand
+aVForest
 p1996
-aVLand
+aVFolk of An-Havva
 p1997
-aVLand
+aVFolk of An-Havva
 p1998
-aVLand
+aVForget
 p1999
-aVLand
+aVForest Bear
 p2000
-aVCommon
+aVForced Retreat
 p2001
-aVCommon
+aVForest
 p2002
-aVLand
+aVForest
 p2003
-aVLand
+aVForest
 p2004
-aVLand
+aVForest
 p2005
-aVLand
+aVForked Lightning
 p2006
-aVCommon
+aVFoot Soldiers
 p2007
-aVCommon
+aVForest
 p2008
-aVRare
+aVForest
 p2009
-aVCommon
+aVForest
 p2010
-aVCommon
+aVForest
 p2011
-aVLand
+aVForsaken City
 p2012
-aVLand
+aVForge Devil
 p2013
-aVLand
+asS'toughs'
 p2014
-aVLand
-p2015
-aVRare
+(lp2015
+S'N/A'
 p2016
-aVCommon
+ag2016
+aV2
 p2017
-aVLand
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+aV4
 p2018
-aVLand
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+aV3
 p2019
-aVLand
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2017
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2018
+aV0
 p2020
-aVLand
+aV1
 p2021
-aVRare
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2021
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2017
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2019
+ag2016
+ag2016
+ag2016
+ag2016
+aV5
 p2022
-aVCommon
+ag2016
+ag2016
+ag2021
+ag2017
+ag2016
+ag2019
+ag2016
+ag2016
+ag2016
+ag2016
+ag2021
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2018
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2018
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2018
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2022
+ag2016
+ag2016
+ag2021
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2021
+ag2019
+ag2019
+ag2016
+ag2016
+ag2018
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2018
+ag2016
+ag2017
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2019
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2021
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2021
+ag2021
+ag2016
+ag2021
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2021
+ag2016
+aV6
 p2023
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2018
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2019
+ag2016
+ag2016
+ag2018
+ag2016
+ag2017
+ag2017
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2017
+ag2017
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2019
+ag2021
+ag2017
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2019
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2021
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2021
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2019
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2018
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2019
+ag2021
+ag2016
+ag2016
+ag2016
+ag2016
+ag2023
+ag2016
+ag2022
+ag2017
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2019
+ag2022
+ag2016
+ag2017
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2018
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2017
 asS'artists'
 p2024
 (lp2025
@@ -4828,8 +4828,8 @@ aVJim Nelson
 p2036
 aVRyan Pancoast
 p2037
-ag815
-ag815
+ag1203
+ag1203
 aVJesper Myrfors
 p2038
 aVDouglas Schuler
@@ -4988,8 +4988,8 @@ aVNoah Bradley
 p2115
 aVDaniel Gelon
 p2116
-ag815
-ag815
+ag1203
+ag1203
 aVJohn Avon
 p2117
 aVJohn Avon
@@ -5052,12 +5052,12 @@ aVJung Park
 p2146
 aVJames Paick
 p2147
-ag815
-ag815
-ag815
-ag815
-ag815
-ag815
+ag1203
+ag1203
+ag1203
+ag1203
+ag1203
+ag1203
 aVEric Peterson
 p2148
 aVTony Szczudlo
@@ -5294,8 +5294,8 @@ aVSteve Prescott
 p2264
 aVMark Tedin
 p2265
-ag815
-ag815
+ag1203
+ag1203
 aVKev Walker
 p2266
 aVJohn Avon
@@ -5587,403 +5587,403 @@ p2409
 asS'powers'
 p2410
 (lp2411
-g3
-ag3
-ag7
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag9
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag7
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag4
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag10
-ag7
-ag6
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag4
-ag3
-ag3
-ag3
-ag3
-ag3
-ag4
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag8
-ag3
-ag3
-ag3
-ag3
-ag4
-ag3
-ag3
-ag6
-ag4
-ag3
-ag6
-ag3
-ag3
-ag3
-ag3
-ag8
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag5
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag5
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag5
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag7
-ag3
-ag3
-ag8
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag6
-ag6
-ag5
-ag3
-ag3
-ag9
-ag3
-ag3
-ag3
-ag3
-ag3
-ag7
-ag3
-ag7
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag6
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag8
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag8
-ag8
-ag3
-ag8
-ag3
-ag3
-ag3
-ag3
-ag3
-ag4
-ag3
-ag6
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag4
-ag3
-ag3
-ag3
-ag3
-ag3
-ag7
-ag3
-ag3
-ag5
-ag3
-ag6
-ag6
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag4
-ag4
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag8
-ag4
-ag8
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag8
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag8
-ag3
-ag3
-ag3
-ag3
-ag3
-ag8
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag6
-ag3
-ag3
-ag3
-ag3
-ag3
-ag9
-ag3
-ag3
-ag3
-ag3
-ag3
-ag6
-ag4
-ag3
-ag3
-ag3
-ag3
+g2016
+ag2016
+ag2020
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2022
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2020
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2017
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2023
+ag2020
+ag2019
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2017
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2017
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2021
+ag2016
+ag2016
+ag2016
+ag2016
+ag2017
+ag2016
+ag2016
+ag2019
+ag2017
+ag2016
+ag2019
+ag2016
+ag2016
+ag2016
+ag2016
+ag2021
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2018
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2018
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2018
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2020
+ag2016
+ag2016
+ag2021
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2019
+ag2019
+ag2018
+ag2016
+ag2016
+ag2022
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2020
+ag2016
+ag2020
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2019
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2021
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2021
+ag2021
+ag2016
+ag2021
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2017
+ag2016
+ag2019
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2017
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2020
+ag2016
+ag2016
+ag2018
+ag2016
+ag2019
+ag2019
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2017
+ag2017
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2021
+ag2017
+ag2021
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2021
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2021
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2021
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2019
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2022
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2019
+ag2017
+ag2016
+ag2016
+ag2016
+ag2016
 aV7
 p2412
-ag3
-ag9
-ag4
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag7
-ag5
-ag3
-ag4
-ag3
-ag3
-ag3
-ag3
-ag3
-ag3
-ag4
-ag3
-ag3
-ag3
-ag3
-ag3
-ag5
+ag2016
+ag2022
+ag2017
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2020
+ag2018
+ag2016
+ag2017
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2017
+ag2016
+ag2016
+ag2016
+ag2016
+ag2016
+ag2018
 asS'types'
 p2413
 (lp2414
@@ -7057,7 +7057,7 @@ aV349
 p2948
 aV350
 p2949
-ag10
+ag2023
 aV276
 p2950
 aV303
@@ -7492,7 +7492,7 @@ aV81
 p3165
 aV118
 p3166
-ag5
+ag2018
 aV224
 p3167
 aV225
