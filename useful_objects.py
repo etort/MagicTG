@@ -50,6 +50,7 @@ class Card(pygame.sprite.Sprite):
             self.front_image = pygame.image.load('cache/%s.jpeg'%self.id)
         self.back_image = pygame.image.load('Decks/Card_Back/Back_of_Card.jpeg')
         self.image = self.back_image
+        self.player_id = player_id
         if player_id:
             spot = 7
         else:
@@ -64,10 +65,13 @@ class Card(pygame.sprite.Sprite):
         self.t_temp = 0  # toughness buff until end of turn
         self.token  = False
 
-    def update(self):
+    def update(self, spot=None):
         player = self.pos_id[0]
         loc  = self.pos_id[1]
-        spot = self.pos_id[2]
+        if spot == None:
+            spot = self.pos_id[2]
+        else:
+            self.pos_id[2] = spot + (self.player_id+1)%2 * 3
         self.y = sum(self.loc_id[loc][player]) / 2
         self.x = self.h * ((spot % (self.w/self.h)) + 0.5)
         self.position = (int(self.x), int(self.y))
@@ -342,7 +346,8 @@ class God(object):
                 t.start()
 
     def play_card(self, index, p):
-        card = self.player[p].location['hand'].cards[index]
+        hand = self.player[p].location['hand'].cards
+        card = hand[index]
         #self.stack.cards.append(card)
         #self.player[p].location['stack'].cards.append(card)
         if 'Land' in card.type[0]:
@@ -367,9 +372,17 @@ class God(object):
                         card_names.append(land_type)
                     card.pos_id[2] = len(set(card_names))
         else:
-            self.player[p].location['battlefield'].cards.append(card)
+            cards = self.player[p].location['battlefield'].cards
+            cards.append(card)
         self.player[p].location['hand'].remove_card(index)
         card.update()
+        threads = []
+        for i in range(len(hand)):
+            t = threading.Thread(target=hand[i].update, args=(i,))
+            threads.append(t)
+            t.start()
+
+
 
     def action(self):
         p = self.selector.pos_id[0]
