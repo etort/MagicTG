@@ -1,0 +1,190 @@
+(dp0
+S'ids'
+p1
+(lp2
+V34196
+p3
+aI370703
+aI370725
+aI249804
+aV278193
+p4
+aV290528
+p5
+aI370669
+aV289227
+p6
+aV247348
+p7
+aI46453
+aV221891
+p8
+aV275699
+p9
+aV366472
+p10
+asS'texts'
+p11
+(lp12
+VCycling {2} <i>({2}, Discard this card: Draw a card.)</i>
+p13
+aV{T}: Add {1} to your mana pool.<br><br>{T}: Add {G} or {W} to your mana pool. Brushland deals 1 damage to you.
+p14
+aV({T}: Add {B} to your mana pool.)
+p15
+aVU
+p16
+aVDestroy target artifact or enchantment.
+p17
+aVAt the beginning of your upkeep, you may exchange control of Conjured Currency and target permanent you neither own nor control.
+p18
+aS''
+p19
+aVDestroy target creature with flying. You gain 2 life.
+p20
+aVCycling {2}{G} <i>({2}{G}, Discard this card: Draw a card.)</i><br>When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.
+p21
+aV({T}: Add {W} to your mana pool.)
+p22
+aVEnchant creature<br>All creatures able to block enchanted creature do so.
+p23
+aVTarget creature gets +4/+4 until end of turn.
+p24
+aVWhenever another red creature enters the battlefield under your control, Foundry Street Denizen gets +1/+0 until end of turn.
+p25
+asS'costs'
+p26
+(lp27
+V{4}{G}
+p28
+aS'0'
+p29
+aS'0'
+p30
+aS'0'
+p31
+aV{1}{G}
+p32
+aV{3}{G}{G}{W}
+p33
+aS'0'
+p34
+aV{2}{G}
+p35
+aV{2}{G}
+p36
+aS'0'
+p37
+aV{1}{U}
+p38
+aV{G}
+p39
+aV{4}{R}{W}
+p40
+asS'names'
+p41
+(lp42
+VBarkhide Mauler
+p43
+aVSwamp
+p44
+aVMountain
+p45
+aVIsland
+p46
+aVElvish Visionary
+p47
+aVCollective Blessing
+p48
+aVPlains
+p49
+aVAerial Predation
+p50
+aVKrosan Tusker
+p51
+aVForest
+p52
+aVLava Axe
+p53
+aVRanger's Path
+p54
+aVFoundry Street Denizen
+p55
+asS'toughs'
+p56
+(lp57
+V1
+p58
+aS'N/A'
+p59
+aS'N/A'
+p60
+aS'N/A'
+p61
+aV2
+p62
+aS'N/A'
+p63
+aS'N/A'
+p64
+aS'N/A'
+p65
+aV4
+p66
+aS'N/A'
+p67
+aS'N/A'
+p68
+aS'N/A'
+p69
+aV3
+p70
+asS'powers'
+p71
+(lp72
+g58
+ag59
+ag60
+ag61
+aV1
+p73
+ag63
+ag64
+ag65
+aV6
+p74
+ag67
+ag68
+ag69
+aV4
+p75
+asS'types'
+p76
+(lp77
+VCreature - Beast
+p78
+aVBasic Land - Swamp
+p79
+aVBasic Land - Mountain
+p80
+aVBasic Land - Island
+p81
+aVCreature - Elf Shaman
+p82
+aVEnchantment
+p83
+aVBasic Land - Plains
+p84
+aVInstant
+p85
+aVCreature - Boar Beast
+p86
+aVBasic Land - Forest
+p87
+aVSorcery
+p88
+aVSorcery
+p89
+aVCreature - Goblin Warrior
+p90
+as.
