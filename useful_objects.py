@@ -348,11 +348,11 @@ class God(object):
     def play_card(self, index, p):
         hand = self.player[p].location['hand'].cards
         card = hand[index]
+        card.reveal()
         #self.stack.cards.append(card)
         #self.player[p].location['stack'].cards.append(card)
         if 'Land' in card.type[0]:
             cards = self.player[p].location['land'].cards
-            cards.append(card)
             card.pos_id[1] = 'land'
             if card.name == 'Plains':     card.pos_id[2] = 0
             elif card.name == 'Island':   card.pos_id[2] = 1
@@ -361,19 +361,34 @@ class God(object):
             elif card.name == 'Forest':   card.pos_id[2] = 4
             else:
                 card_names = []
-                for card in cards:
-                    card_names.append(card.name)
+                for c in cards:
+                    card_names.append(c.name)
                 if card.name in set(card_names):
-                    ind = card_names.index(card.name)
-                    card.pos_id[2] = cards[ind].pos_id[2]
+                    for c in cards:
+                        if card.name == c.name:
+                            card.pos_id[2] = c.pos_id[2]
+                            break
                 else:
                     land_types = ['Plains', 'Island', 'Swamp', 'Mountain', 'Forest']
                     for land_type in land_types:
                         card_names.append(land_type)
                     card.pos_id[2] = len(set(card_names))
+            cards.append(card)
         else:
             cards = self.player[p].location['battlefield'].cards
+            card.pos_id[1] = 'battlefield'
+            card_names = []
+            for c in cards:
+                card_names.append(c.name)
+            if card.name in set(card_names):
+                for c in cards:
+                    if card.name == c.name:
+                        card.pos_id[2] = c.pos_id[2]
+                        break
+            else:
+                card.pos_id[2] = len(set(card_names))
             cards.append(card)
+
         self.player[p].location['hand'].remove_card(index)
         card.update()
         threads = []

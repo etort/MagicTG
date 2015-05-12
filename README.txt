@@ -12,4 +12,5 @@ run main.py to test the beta
 
 arrow keys move the selector, escape exits the program, and enter is the action button
 
-currently the program can draw cards if the library is selected and play lands from your hand.
+currently the program can draw cards if the library is selected and play cards from your hand.
+
