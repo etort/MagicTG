@@ -397,6 +397,7 @@ class God(object):
             threads.append(t)
             t.start()
 
+    #def expand_card(self):
 
 
     def action(self):
@@ -409,7 +410,8 @@ class God(object):
             self.player[p].draw_card()
         elif loc == 'hand':
             index = spot - (p+1)%2 *3
-            self.play_card(index, p)
+            if index < len(self.player[p].location[loc].cards):
+                self.play_card(index, p)
 
 
 #    def execute_phase(self):

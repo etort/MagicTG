@@ -16,6 +16,8 @@ The arrow keys move the red selector, escape exits the program, and enter is the
 
 Currently the program can draw cards if the library is selected and play lands from your hand. The next step, I will implement an expand feature that zooms in on the card when the action button is pressed and options are given such as tap, discard, exile, etc.
 
+12 May 2015: fixed bug if non-card in hand is clicked
+
 <<<<<<< HEAD
 currently the program can draw cards if the library is selected and play cards from your hand.
 
