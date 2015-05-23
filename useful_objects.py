@@ -13,33 +13,108 @@ import sys
 
 selector_group = None
 card_group = [None, None]
+health_group = [None, None]
+button_group = None
+expanded_group = None
 
+pygame.font.init()
+
+class Button(pygame.sprite.Sprite):
+    def __init__(self, name, index, screen_size):
+        self.groups = button_group
+        self._layer = 4
+        pygame.sprite.Sprite.__init__(self)
+        self.x = screen_size[0]*(7./10)
+        self.y = (screen_size[1]/12.)*(2+index)
+        self.name = name
+        self.image = pygame.image.load('images/%s.jpeg'%self.name)
+        w = float(self.image.get_width())
+        h = float(self.image.get_height())
+        size = np.array([w/h, 1]) * screen_size[0]/20 * 0.80
+        self.image = pygame.transform.scale(self.image, (int(size[0]), int(size[1])))
+        self.position = [int(self.x), int(self.y)]
+        self.rect = self.image.get_rect()
+        self.update()
+        self.image.unlock()
+
+    def update(self):
+        self.position = [int(self.x), int(self.y)]
+        self.rect = self.image.get_rect()
+        self.rect.center = self.position
+
+
+class Health(pygame.sprite.Sprite):
+    def __init__(self, health, player_id, screen_size):
+        self.groups = health_group[player_id]
+        self._layer = 3
+        pygame.sprite.Sprite.__init__(self)
+        self.health = health
+        self.w = screen_size[0]
+        self.h = screen_size[1]
+        self.grid_number = 10
+        self.grid_length = self.w/self.grid_number
+        self.damage = 0
+        self.healing = 0
+        self.x = self.grid_length * ((9 % self.grid_number) + 0.1)
+        self.y = self.h/6 * (1.5 + player_id*3)
+        self.health = self.health - self.damage + self.healing
+        self.damage = 0
+        self.healing = 0
+        self.position = [int(self.x), int(self.y)]
+        self.font = pygame.font.Font(None, 52)
+        self.color = (0, 250, 0)
+        self.text = self.font.render('%d HP' % self.health, 1, self.color)
+        self.rect = self.text.get_rect()
+        self.rect.center = self.position
+
+    def heal_one(self):
+        self.healing = 1
+
+    def damage_one(self):
+        self.damage = 1
+
+    def update(self):
+        self.health = self.health - self.damage + self.healing
+        self.damage = 0
+        self.healing = 0
+        # self.position = [int(self.x), int(self.y)]
+        # self.font = pygame.font.Font(None, 36)
+        if self.health <= 5:
+            self.color = (250, 0, 0)
+        else:
+            self.color = (0, 250, 0)
+        self.text = self.font.render('%d HP' % self.health, 1, self.color)
+        self.rect = self.text.get_rect()
+        self.rect.center = self.position
 
 class Card(pygame.sprite.Sprite):
     def __init__(self, params, player_id, screen_size, host=True):  # [name, type, id, cost, power, toughness, text, location]
         self.groups = card_group
         self._layer = 3
         pygame.sprite.Sprite.__init__(self)
+        self.screen_size = screen_size
         self.w              = int(screen_size[0])
-        self.h              = int(screen_size[1]/6)
-        self.tapped         = False     # False if untapped
-        self.owner          = True      # False if stolen until end of turn
-        self.can_block      = True      # False if can't block
-        self.summoning_sickness = True  # only when it enters
-        self.can_attack     = True      # can't attack when first used
-        self.name           = params[0] # name of card
-        self.type           = params[1].split(' - ') # type of card
-        self.id             = params[2] # card identification number
-        self.cost           = params[3] # mana cost
-        self.power          = params[4] # base power
-        self.toughness      = params[5] # base toughness
-        self.text           = params[6] # card text
-        hand        = [(0,        self.h),   # player 0  # hand[player][init/final]
-                       (5*self.h, 6*self.h)]   # player 1  # middle is sum(hand[player])/2
-        land        = [(self.h,   2*self.h),
-                       (4*self.h, 5*self.h)]
-        battlefield = [(2*self.h, 3*self.h),
-                       (3*self.h, 4*self.h)]
+        self.h              = int(screen_size[1])
+        self.grid_number    = 10
+        self.grid_width     = self.w/self.grid_number
+        self.tapped         = False      # False if untapped
+        self.owner          = True       # False if stolen until end of turn
+        self.can_block      = True       # False if can't block
+        self.summoning_sickness = True   # only when it enters
+        self.can_attack     = True       # can't attack when first used
+        self.name           = params[0]  # name of card
+        self.type           = params[1].split(' - ')  # type of card
+        self.id             = params[2]  # card identification number
+        self.cost           = params[3]  # mana cost
+        self.power          = params[4]  # base power
+        self.toughness      = params[5]  # base toughness
+        self.text           = params[6]  # card text
+        hand        = [(0,        self.h/6),   # player 0  # hand[player][init/final]
+                       (5*self.h/6, 6*self.h/6)]   # player 1  # middle is sum(hand[player])/2
+        land        = [(self.h/6,   2*self.h/6),
+                       (4*self.h/6, 5*self.h/6)]
+        battlefield = [(2*self.h/6, 3*self.h/6),
+                       (3*self.h/6, 4*self.h/6)]
         self.loc_id = {'hand':        hand,
                        'land':        land,
                        'battlefield': battlefield}
@@ -48,59 +123,131 @@ class Card(pygame.sprite.Sprite):
         except:
             download_pic(self.id)
             self.front_image = pygame.image.load('cache/%s.jpeg'%self.id)
-        self.back_image = pygame.image.load('Decks/Card_Back/Back_of_Card.jpeg')
+        #self.tapped_image = pygame.image.load('cache/%s.jpeg'%self.id)
+        #self.tapped_image = pygame.transform.rotate(self.tapped_image, -90)
+        self.big_front_image = pygame.image.load('cache/%s.jpeg'%self.id)
+        self.back_image = pygame.image.load('images/Back_of_Card.jpeg')
+        self.big_back_image = pygame.image.load('images/Back_of_Card.jpeg')
         self.image = self.back_image
+        self.revealed = False
+        self.expanded = False
         self.player_id = player_id
-        if player_id:
-            spot = 7
-        else:
-            spot = 2
-        self.pos_id  = [player_id, 'hand', spot]
+        self.pos_id = [player_id, 'land', 5]  #library location
         self.x = self.y = 0
         self.update()
         self.image.unlock()
-        self.p = self.power     # current power
-        self.t = self.toughness # current toughness
+        self.p = self.power      # current power
+        self.t = self.toughness  # current toughness
         self.p_temp = 0  # power buff until end of turn
         self.t_temp = 0  # toughness buff until end of turn
         self.token  = False
+        self.buttons = []
+
+    def expand(self):
+        self._layer = 4
+        self.groups = expanded_group
+        self.y = self.h/2
+        self.x = self.w/2
+        if self.revealed:
+            self.image = self.big_front_image
+        else:
+            self.image = self.big_back_image
+        self.position = (int(self.x), int(self.y))
+        self.rect = self.image.get_rect()
+        self.rect.center = self.position
+        self.buttons.append(Button('exile_card', len(self.buttons), self.screen_size))
+        if self.pos_id[1] == 'hand':
+            self.buttons.append(Button('discard_card', len(self.buttons), self.screen_size))
+            self.buttons.append(Button('play_card', len(self.buttons), self.screen_size))
+        elif self.pos_id == [0, 'land', 5] or self.pos_id == [1, 'land', 5]:  # then a library
+            self.buttons.append(Button('discard_card', len(self.buttons), self.screen_size))
+            self.buttons.append(Button('scry', len(self.buttons), self.screen_size))
+            self.buttons.append(Button('rearrange', len(self.buttons), self.screen_size))
+            self.buttons.append(Button('draw_card', len(self.buttons), self.screen_size))
+        else:
+            if self.pos_id[1] == 'land' or self.pos_id[1] == 'battlefield':
+                self.buttons.append(Button('send_to_graveyard', len(self.buttons), self.screen_size))
+                self.buttons.append(Button('add_counter', len(self.buttons), self.screen_size))
+                self.buttons.append(Button('remove_counter', len(self.buttons), self.screen_size))
+                self.buttons.append(Button('untap_card', len(self.buttons), self.screen_size))
+                self.buttons.append(Button('tap_card', len(self.buttons), self.screen_size))
+        self.pos_id[0] = 3
+
+    def shrink(self):
+        self._layer = 3
+        self.groups = card_group
+        if self.revealed:
+            self.image = self.front_image
+        else:
+            self.image = self.back_image
+        self.pos_id[0] = self.player_id
+        for button in self.buttons:
+            button.kill()
+        self.buttons = []
+        self.update()
 
     def update(self, spot=None):
+        if self.expanded:
+            if self.revealed:
+                self.image = self.big_front_image
+            else:
+                self.image = self.big_back_image
+        else:
+            if self.tapped:
+                self.image = self.tapped_image
+        #else:
+        #if True:
+        #    if self.revealed:
+        #        self.image = self.front_image
+        #    else:
+        #        self.image = self.back_image
         player = self.pos_id[0]
         loc  = self.pos_id[1]
         if spot == None:
             spot = self.pos_id[2]
         else:
-            self.pos_id[2] = spot + (self.player_id+1)%2 * 3
-        self.y = sum(self.loc_id[loc][player]) / 2
-        self.x = self.h * ((spot % (self.w/self.h)) + 0.5)
+            self.pos_id[2] = spot
+        if player == 3:
+            self.x = self.w/2
+            self.y = self.h/2
+        else:
+            self.x = self.grid_width * ((spot % (self.grid_number)) + 0.5)
+            self.y = sum(self.loc_id[loc][player]) / 2
         self.position = (int(self.x), int(self.y))
         self.rect = self.image.get_rect()
         self.rect.center = self.position
 
     def reveal(self):
+        self.revealed = True
         self.image = self.front_image
         self.image.unlock()
 
     def hide(self):
+        self.revealed = False
         self.image = self.back_image
         self.image.unlock()
 
     def tap(self):  # this method taps the card
         self.tapped = True
-        self.image = pygame.transform.rotate(self.image, -90)
-        self.place()
+        self.image = self.tapped_image
+        self.image.unlock()
 
     def untap(self):  # this method untaps the card
         self.tapped = False
-        self.image = pygame.transform.rotate(self.image, 90)
-        self.place()
+        self.image = self.front_image
+        self.image.unlock()
 
-    def return_card(self): # run this method after card is returned to owner
+    def return_card(self):  # run this method after card is returned to owner
         self.owner = True
 
     def end_sickness(self):
         self.summoning_sickness = False
+
+    def counter_plus(self):  # puts a +1,+1 counter on card
+        pass
+
+    def counter_minus(self):  # puts a -1,-1 counter on card
+        pass
 
     def rescale_card(self, screen_height):
         h = float(self.image.get_height())
@@ -115,6 +262,11 @@ class Card(pygame.sprite.Sprite):
         w = float(self.front_image.get_width())
         size = np.array([w/h, 1])*screen_height/6*0.95
         self.front_image = pygame.transform.scale(self.front_image, (int(size[0]), int(size[1])))
+        #h = float(self.tapped_image.get_height())
+        #w = float(self.tapped_image.get_width())
+        #size = np.array([1, h/w])*screen_height/6*0.95
+        #self.tapped_image = pygame.transform.scale(self.tapped_image, (int(size[0]), int(size[1])))
+        self.tapped_image = pygame.transform.rotate(self.front_image, -90)
 
 
 class Creature(Card):
@@ -166,7 +318,10 @@ class Position(object):
 
 class Library(Position):
     def seed_card(self, params, player_id, screen_size, host=True):  # [name, type, id, cost, power, toughness, text]
-        self.cards.append(Card(params, player_id, screen_size, host))
+        if 'Creature' in params[1]:
+            self.cards.append(Creature(params, player_id, screen_size, host))
+        else:
+            self.cards.append(Card(params, player_id, screen_size, host))
 
     #def scry(self, amount):
 
@@ -195,14 +350,56 @@ class Battlefield(Position):
         self.cards.append(Token(name, power, toughness, color, text))
 
 
+class Lands(Position):
+    def __init__(self):
+        Position.__init__(self)
+        self.land_type = {}
+        self.land_key = []
+
+    def reset_field(self):
+        threads = []
+        for type in self.land_types.keys():
+            t = threading.Thread(target=self.land_type[type].reset_field)
+            threads.append(t)
+            t.start()
+
+    def add_land_type(self, name):
+        self.land_type[name] = BasicLand(len(self.land_type.keys()))
+        self.land_key.append(name)
+
+
+class BasicLand(Battlefield):
+    def __init__(self, spot):
+        Battlefield.__init__(self)
+        self.spot = spot
+
+    def tap_land(self):
+        for card in self.cards:
+            if card.tapped == False:
+                card.tap()
+                break
+
+    def untap_land(self):
+        for card in self.cards:
+            if card.tapped == True:
+                card.untap()
+                break
+
+    def update(self):
+        for card in self.cards:
+            card.pos_id[2] = self.spot
+
+
 class Player(object):
     def __init__(self, deck, id, screen_size, host=True):
         self.id = id
+        self.screen_size = screen_size
         self.host = host
+        self.health = Health(20, id, screen_size)
         self.location = {'library':     Library(),
                          'hand':        Position(),
                          'battlefield': Battlefield(),
-                         'land':        Battlefield(),
+                         'land':        Lands(),
                          'graveyard':   Position(),
                          'exiled':      Position(),
                          'stack':       Position()    }
@@ -219,14 +416,22 @@ class Player(object):
         self.shuffle_lib()
 
     def draw_card(self):
-        card = self.location['library'].cards[0]
-        if self.host:
-            card.reveal()
-        card.pos_id[1] = 'hand'
-        card.pos_id[2] = len(self.location['hand'].cards) + (self.id+1)%2 * 3
-        self.location['hand'].cards.append(card)
-        self.location['library'].remove_card(0)
-        card.update()
+            max_hand_size = self.screen_size[0]/(self.screen_size[1]/6)
+            if len(self.location['hand'].cards) < max_hand_size:
+                card = self.location['library'].cards[0]
+                if self.host:
+                    card.reveal()
+                card.pos_id[1] = 'hand'
+                card.pos_id[2] = len(self.location['hand'].cards)
+                self.location['hand'].cards.append(card)
+                self.location['library'].remove_card(0)
+                card.update()
+
+    def rearrange(self, n=3):
+        pass
+
+    def scry(self, n=1):
+        pass
 
     def add_mana(self, color):
         self.mana[color] = self.mana[color] + 1
@@ -252,10 +457,13 @@ class Player(object):
 
 
 class God(object):
-    def __init__(self, width, height, deck1, deck2, game_seed, host=True):
+    def __init__(self, screen_size, deck1, deck2, game_seed, host=True):
         global card_group, selector_group
         #set up screen
-        self.screen = Screen(width, height, True)
+        self.screen_size = screen_size
+        width = screen_size[0]
+        height = screen_size[1]
+        self.screen = Screen(screen_size, True)
         self.clock = pygame.time.Clock()
         self.fps = 30
         self.deltat = self.clock.tick(self.fps)
@@ -272,18 +480,20 @@ class God(object):
 
         self.screen.screen.fill((0, 0, 0))
         # create selector and place it on the field
-        self.selector = Selector((width, height), self.host)
+        self.selector = Selector(self.screen_size, self.host)
         selector_group = pygame.sprite.RenderPlain(self.selector)
         selector_group.draw(self.screen.screen)
 
-        # Sets up players and their decks
-        self.player = [Player(deck1, 0, (width, height), self.host),
-                       Player(deck2, 1, (width, height), not self.host)]  # player[0] is host and player[1] is guest
+        # Sets up player's and their decks
+        self.player = [Player(deck1, 0, self.screen_size, self.host),
+                       Player(deck2, 1, self.screen_size, not self.host)]  # player[0] is host and player[1] is guest
         self.rescale_images()
 
-        # set up card sprites
         for i in range(2):
+            # set up card sprites
             card_group[i] = pygame.sprite.RenderPlain(self.player[i].location['library'].cards)
+            # Sets up player's health
+            health_group[i] = pygame.sprite.RenderPlain(self.player[i].health)
 
 #        self.card_group.draw(self.screen.screen)
 #        pygame.display.flip()
@@ -312,6 +522,7 @@ class God(object):
         self.run()
 
     def run(self):
+        global selector_group, button_group, card_group, health_group, expanded_group
         try:
             while True:
                 deltat = self.clock.tick(self.fps)
@@ -331,6 +542,11 @@ class God(object):
                 for i in range(2):
                     card_group[i].update()
                     card_group[i].draw(self.screen.screen)
+                    health_group[i].update()
+                    self.screen.screen.blit(self.player[i].health.text, self.player[i].health.position)
+                if button_group != None:
+                    button_group.update()
+                    button_group.draw(self.screen.screen)
                 pygame.display.flip()
         except KeyboardInterrupt:
             print 'user quit'
@@ -352,41 +568,29 @@ class God(object):
         #self.stack.cards.append(card)
         #self.player[p].location['stack'].cards.append(card)
         if 'Land' in card.type[0]:
-            cards = self.player[p].location['land'].cards
-            card.pos_id[1] = 'land'
-            if card.name == 'Plains':     card.pos_id[2] = 0
-            elif card.name == 'Island':   card.pos_id[2] = 1
-            elif card.name == 'Swamp':    card.pos_id[2] = 2
-            elif card.name == 'Mountain': card.pos_id[2] = 3
-            elif card.name == 'Forest':   card.pos_id[2] = 4
+            if card.name in set(self.player[p].location['land'].land_type.keys()):
+                self.player[p].location['land'].land_type[card.name]
             else:
-                card_names = []
-                for c in cards:
-                    card_names.append(c.name)
-                if card.name in set(card_names):
-                    for c in cards:
-                        if card.name == c.name:
-                            card.pos_id[2] = c.pos_id[2]
-                            break
-                else:
-                    land_types = ['Plains', 'Island', 'Swamp', 'Mountain', 'Forest']
-                    for land_type in land_types:
-                        card_names.append(land_type)
-                    card.pos_id[2] = len(set(card_names))
-            cards.append(card)
+                self.player[p].location['land'].add_land_type(card.name)
+            card.pos_id[1] = 'land'
+            self.player[p].location['land'].land_type[card.name].cards.append(card)
+            self.player[p].location['land'].land_type[card.name].update()
         else:
             cards = self.player[p].location['battlefield'].cards
             card.pos_id[1] = 'battlefield'
             card_names = []
             for c in cards:
                 card_names.append(c.name)
-            if card.name in set(card_names):
-                for c in cards:
-                    if card.name == c.name:
-                        card.pos_id[2] = c.pos_id[2]
-                        break
-            else:
-                card.pos_id[2] = len(set(card_names))
+            #if card.name in set(card_names):
+            #    for c in cards:
+            #        if card.name == c.name:
+            #            card.pos_id[2] = c.pos_id[2]
+            #            break
+            #else:
+            #    card.pos_id[2] = len(set(card_names))
+            ##
+            card.pos_id[2] = len(card_names)
+            ##
             cards.append(card)
 
         self.player[p].location['hand'].remove_card(index)
@@ -397,22 +601,170 @@ class God(object):
             threads.append(t)
             t.start()
 
+    def discard_card(self, card, index, pos_id, exiled=False):
+        send_to = 'graveyard'
+        if exiled: send_to = 'exiled'
+        self.player[pos_id[0]].location[send_to].cards.append(card)
+        card.pos_id = [pos_id[0], 'land', 6+exiled]
+        if pos_id[1] == 'land' and pos_id[2] == 5:
+            self.player[pos_id[0]].location['library'].remove_card(index)
+            card.reveal()
+        elif pos_id[1] == 'land' and pos_id[2] == 6:
+            self.player[pos_id[0]].location['graveyard'].remove_card(index)
+        elif pos_id[1] == 'land' and pos_id[2] == 7:
+            self.player[pos_id[0]].location['exiled'].remove_card(index)
+        else:
+            self.player[pos_id[0]].location[pos_id[1]].remove_card(index)
+        card.update()
+        threads = []
+        for i in range(len(self.player[pos_id[0]].location[pos_id[1]].cards)):
+            t = threading.Thread(target=self.player[pos_id[0]].location[pos_id[1]].cards[i].update, args=(i,))
+            threads.append(t)
+            t.start()
+
     #def expand_card(self):
 
-
     def action(self):
-        p = self.selector.pos_id[0]
-        loc = self.selector.pos_id[1]
-        spot = self.selector.pos_id[2]
-        if p == 0 and loc == 'hand' and spot == 2:  # then player[0]'s library
-            self.player[p].draw_card()
-        elif p == 1 and loc == 'hand' and spot == 7:  # then player[1]'s library
-            self.player[p].draw_card()
-        elif loc == 'hand':
-            index = spot - (p+1)%2 *3
-            if index < len(self.player[p].location[loc].cards):
-                self.play_card(index, p)
+        global selector_group, button_group, card_group, health_group, expanded_group
+        pos_id = self.selector.pos_id
+        # if health selected
+        self.expanded_running = True
+        if pos_id[2] == 9 and pos_id[1] == 'land':
+            blink = 0
+            try:
+                while self.expanded_running:
+                    deltat = self.clock.tick(self.fps)
+                    blink = blink + deltat
+                    if blink > 400:
+                        blink = 0
+                        self.selector.color[0] = (self.selector.color[0] + 200) % 400
+                    for event in pygame.event.get():
+                        if not hasattr(event, 'key'): continue
+                        if not event.type == KEYDOWN: continue
+                        if event.key == K_UP: self.player[pos_id[0]].health.heal_one()
+                        elif event.key == K_DOWN: self.player[pos_id[0]].health.damage_one()
+                        elif event.key == K_ESCAPE or K_RETURN: self.expanded_running = False
+                    # Rendering
+                    self.screen.screen.fill((0, 0, 0,))
+                    selector_group.update()
+                    selector_group.draw(self.screen.screen)
+                    for i in range(2):
+                        card_group[i].update()
+                        card_group[i].draw(self.screen.screen)
+                        health_group[i].update()
+                        self.screen.screen.blit(self.player[i].health.text, self.player[i].health.position)
+                    if button_group != None:
+                        button_group.update()
+                        button_group.draw(self.screen.screen)
+                    pygame.display.flip()
+            except KeyboardInterrupt:
+                print 'user quit'
+        # if card selected
+        else:
+            #spot_mod = self.screen_size[0]/(self.screen_size[1]/6)
+            #if pos_id[1] == 'land' and pos_id[2] == (-3 % spot_mod):  # then player's library
+            if pos_id[1] == 'land':
+                if pos_id[2] == 5:
+                    if len(self.player[pos_id[0]].location['library'].cards) > 0:
+                        card = self.player[pos_id[0]].location['library'].cards[0]
+                        index = 0
+                    else:
+                        self.expanded_running = card = False
+                elif pos_id[2] == 6:
+                    if len(self.player[pos_id[0]].location['graveyard'].cards) > 0:
+                        card = self.player[pos_id[0]].location['graveyard'].cards[0]
+                        index = 0
+                    else:
+                        self.expanded_running = card = False
+                elif pos_id[2] == 7:
+                    if len(self.player[pos_id[0]].location['exiled'].cards) > 0:
+                        card = self.player[pos_id[0]].location['exiled'].cards[0]
+                        index = 0
+                    else:
+                        self.expanded_running = card = False
+                else:
+                    if len(self.player[pos_id[0]].location['land'].land_type) > 0:
+                        land_key = self.player[pos_id[0]].location['land'].land_key[pos_id[2]]
+                        card = self.player[pos_id[0]].location['land'].land_type[land_key].cards[-1]
+                        index = None
+                    else:
+                        self.expanded_running = card = False
+            else:
+                index = pos_id[2]
+                if index < len(self.player[pos_id[0]].location[pos_id[1]].cards):
+                    #self.play_card(index, p)
+                    card = self.player[pos_id[0]].location[pos_id[1]].cards[index]
+                else:
+                    self.expanded_running = card = False
+            if card:
+                card.expand()
+                expanded_group = pygame.sprite.RenderPlain(card)
+                button_group = pygame.sprite.RenderPlain(card.buttons)
+                button_group.draw(self.screen.screen)
+                buttons_length = len(card.buttons)
+                self.subselector = SubSelector(self.screen_size, buttons_length)
+                selector_group = pygame.sprite.RenderPlain(self.subselector)
+                selector_group.draw(self.screen.screen)
+            try:
+                while self.expanded_running:
+                    deltat = self.clock.tick(self.fps)
+                    for event in pygame.event.get():
+                        if not hasattr(event, 'key'): continue
+                        if not event.type == KEYDOWN: continue
+                        if event.key == K_RIGHT: self.subselector.move_right()
+                        elif event.key == K_LEFT: self.subselector.move_left()
+                        elif event.key == K_UP: self.subselector.move_up()
+                        elif event.key == K_DOWN: self.subselector.move_down()
+                        elif event.key == K_RETURN: self.subaction(card, index, pos_id)
+                        elif event.key == K_ESCAPE: self.expanded_running = False
+                    # Rendering
+                    self.screen.screen.fill((0, 0, 0,))
+                    for i in range(2):
+                        card_group[i].update()
+                        card_group[i].draw(self.screen.screen)
+                        health_group[i].update()
+                        self.screen.screen.blit(self.player[i].health.text, self.player[i].health.position)
+                    selector_group.update()
+                    selector_group.draw(self.screen.screen)
+                    if button_group != None:
+                        button_group.update()
+                        button_group.draw(self.screen.screen)
+                    expanded_group.update()
+                    expanded_group.draw(self.screen.screen)
+                    pygame.display.flip()
+                if card:
+                    card.shrink()
+                    card.update()
+                    self.subselector.kill()
+            except KeyboardInterrupt:
+                print 'user quit'
+            self.selector.update()
+            selector_group = pygame.sprite.RenderPlain(self.selector)
+            selector_group.draw(self.screen.screen)
 
+    def subaction(self, card, index, pos_id):
+        for button in card.buttons:
+            if self.subselector.position[0] in set(range(button.position[0]-5, button.position[0]+5)):
+                if self.subselector.position[1] in set(range(button.position[1]-5, button.position[1]+5)):
+                    name = button.name
+                    break
+        if name == 'exile_card': self.discard_card(card, index, pos_id, exiled=True)
+        elif name == 'discard_card': self.discard_card(card, index, pos_id)
+        elif name == 'scry': self.player[pos_id[0]].scry()
+        elif name == 'rearrange': self.player[pos_id[0]].rearrange()
+        elif name == 'draw_card': self.player[pos_id[0]].draw_card()
+        elif name == 'play_card': self.play_card(index, pos_id[0])
+        elif name == 'send_to_graveyard': self.discard_card(card, index, pos_id)
+        elif name == 'tap_card':
+            if pos_id[1] == 'land':
+                self.player[pos_id[0]].location['land'].land_type[card.name].tap_land()
+            else:
+                card.tap()
+        elif name == 'untap_card': card.untap()
+        elif name == 'add_counter': card.counter_plus()
+        elif name == 'remove_counter': card.counter_minus()
+        card.shrink()
+        self.expanded_running = False
 
 #    def execute_phase(self):
 #        self.done = False
@@ -448,10 +800,10 @@ class God(object):
 
 
 class Screen(object):
-    def __init__(self, width, height, fullscreen=False):
+    def __init__(self, screen_size, fullscreen=False):
         #set up screen
-        self.width       = int(width)  # width of screen in pixels
-        self.height      = int(height) # height of screen in pixels
+        self.width       = int(screen_size[0])  # width of screen in pixels
+        self.height      = int(screen_size[1]) # height of screen in pixels
         if fullscreen:
             self.screen = pygame.display.set_mode((self.width, self.height), FULLSCREEN)
         else:
@@ -487,38 +839,43 @@ class Screen(object):
 
 
 class Selector(pygame.sprite.Sprite):
-    def __init__(self, screen_size, host):
+    def __init__(self, screen_size, host, pos_id=None):
         self.groups = selector_group
         self._layer = 2
         pygame.sprite.Sprite.__init__(self)
-        self.w      = screen_size[0]
-        self.h      = screen_size[1]/6
-        hand        = [(0,        self.h),   # player 0  # hand[player][init/final]
-                       (5*self.h, 6*self.h)]   # player 1  # middle is sum(hand[player])/2
-        land        = [(self.h,   2*self.h),
-                       (4*self.h, 5*self.h)]
-        battlefield = [(2*self.h, 3*self.h),
-                       (3*self.h, 4*self.h)]
+        self.w      = int(screen_size[0])
+        self.h      = int(screen_size[1])
+        hand        = [(0,        self.h/6),   # player 0  # hand[player][init/final]
+                       (5*self.h/6, 6*self.h/6)]   # player 1  # middle is sum(hand[player])/2
+        land        = [(self.h/6,   2*self.h/6),
+                       (4*self.h/6, 5*self.h/6)]
+        battlefield = [(2*self.h/6, 3*self.h/6),
+                       (3*self.h/6, 4*self.h/6)]
         self.location = {'hand':        hand,
                          'land':        land,
                          'battlefield': battlefield}
         self._layer = 0
-        w = h = self.h
+        h = self.h/6
+        self.grid_number = 10
+        self.grid_width = w = self.w/self.grid_number
         self.image = pygame.Surface((w, h))
-        pygame.draw.rect(self.image, (200, 0, 0), self.image.get_rect())
-        if host:
-            self.pos_id = [0, 'hand', 2]
-        else:
-            self.pos_id = [1, 'hand', 7]
+        self.color = [200, 0, 0]
+        pygame.draw.rect(self.image, self.color, self.image.get_rect())
+        pos_id = [0, 'land', 7]
+        if not host:
+            pos_id[0] = 1
+        if not pos_id == None:
+            self.pos_id = pos_id
         self.update()
 
 
     def update(self):
+        pygame.draw.rect(self.image, self.color, self.image.get_rect())
         player = self.pos_id[0]
         loc    = self.pos_id[1]
         spot   = self.pos_id[2]
         self.y = sum(self.location[loc][player]) / 2
-        self.x = self.h * ((spot % (self.w/self.h)) + 0.5)
+        self.x = self.grid_width * ((spot % self.grid_number) + 0.5)
         self.position = (int(self.x), int(self.y))
         self.rect = self.image.get_rect()
         self.rect.center = self.position
@@ -563,4 +920,48 @@ class Selector(pygame.sprite.Sprite):
                 self.pos_id[1] = 'hand'
             elif self.pos_id[1] == 'battlefield':
                 self.pos_id[1] = 'land'
+        self.update()
+
+
+class SubSelector(pygame.sprite.Sprite):
+    def __init__(self, screen_size, buttons_length):
+        self.groups = selector_group
+        self._layer = 2
+        pygame.sprite.Sprite.__init__(self)
+        self.transformed = False
+        self.w      = float(screen_size[0])
+        self.h      = float(screen_size[1])
+        self.buttons_length = buttons_length
+        self._layer = 0
+        transformed_size = np.array([4, 1]) * self.w/20
+        self.image = pygame.Surface(transformed_size)
+        self.color = [200, 0, 0]
+        self.x = self.w*(7./10)
+        self.y = (self.h/12.)*(1+buttons_length)
+        self.update()
+
+    def update(self):
+        pygame.draw.rect(self.image, self.color, self.image.get_rect())
+        self.position = (int(self.x), int(self.y))
+        self.rect = self.image.get_rect()
+        self.rect.center = self.position
+
+    def move_right(self):
+        self.x = self.w - self.x
+        self.update()
+
+    def move_left(self):
+        self.x = self.w - self.x
+        self.update()
+
+    def move_up(self):
+        self.y = self.y - self.h/12.
+        if self.y == self.h/12.:
+            self.y = (self.h/12.)*(1+self.buttons_length)
+        self.update()
+
+    def move_down(self):
+        self.y = self.y + self.h/12.
+        if self.y == self.h/12.*(2+self.buttons_length):
+            self.y = (self.h/12.)*2
         self.update()

@@ -8,7 +8,7 @@ import pickle
 def create_game(deck1, deck2, seed, host):
     deck_data1 = pickle.load(open('Decks/Deck_Data/'+deck1))
     deck_data2 = pickle.load(open('Decks/Deck_Data/'+deck2))
-    game = God(1600, 900, deck_data1, deck_data2, seed, host)
+    game = God((1600, 900), deck_data1, deck_data2, seed, host)
     return game
 
 deck1 = 'Deck_Example.pkl'
